@@ -1,0 +1,434 @@
+UNIVERSITY OF TORONTO
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+
+APS 105 — Computer Fundamentals
+Midterm Examination
+October 17, 2013
+6:15 p.m. – 8:00 p.m.
+(105 minutes)
+
+Examiners: J. Anderson, B. Korst, J. Rose
+
+Exam Type A: This is a “closed book” examination; no aids are permitted.
+
+Calculator Type 4: No calculators or other electronic devices are allowed.
+
+All questions are to be answered on the examination paper. If the space provided for a question
+is insufﬁcient, you may use the last page to complete your answer.
+If you use the last page,
+please direct the marker to that page and indicate clearly on that page which question(s) you are
+answering there.
+
+You must use the C programming language to answer programming questions. You are not re-
+quired write #include directives in your solutions. You may use any math function that you
+have learned, as necessary.
+
+The examination has 14 pages, including this one.
+
+Circle your lecture section (one mark deduction if you do not correctly indicate your section):
+
+L01
+Rose
+
+L03
+Korst
+Monday 2 PM Monday 9 AM Monday 11 AM Monday 11 AM Monday 4 PM
+
+L04
+Anderson
+
+L02
+Korst
+
+L05
+Rose
+
+Full Name:
+
+Student Number:
+
+UTORID:
+
+MARKS
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Total
+
+/2
+
+/2
+
+/2
+
+/2
+
+/2 /2.5 /2.5 /2.5 /2.5
+
+/6
+
+/6
+
+/6
+
+/6
+
+/6
+
+/50
+
+Question 1 [2 Marks]
+Given a char type variable named c that has already been declared and initialized to a value,
+write a relational expression that evaluates to TRUE if and only if c is an upper or lower case
+letter of the English alphabet.
+
+Question 2 [2 Marks]
+
+Correct the errors in the following complete C program to produce the intended output shown
+below.
+
+#include <stdio.h>
+
+int main(void)
+{
+
+int i = 0;
+for (; i <= 4; i+);
+{
+
+printf("****");
+
+}
+return 0;
+
+}
+
+Intended output:
+
+****
+****
+****
+****
+
+2
+
+Question 3 [2 Marks]
+A line in two-dimensional x, y Cartesian space can be expressed as y = mx+b, where m is the slope
+of the line and b is the intercept of the line with the y-axis. Given that m and b (representing the
+slope and intercept) are double type variables that have already been declared and initialized,
+and given that y1 is a double type variable that has already been declared and initialized to
+represent a position on the y-axis. Write a single C statement that declares and initializes a double
+type variable x1, such that x1,y1 represents a point on the line. You may assume that m is non-
+zero.
+
+Question 4 [2 Marks]
+Suppose that i is an int variable with value 3, and j is an int variable with value −2. Please
+evaluate the following expression (to true or false).
+
+Answer
+
+Expression
+(i != j)
+
+(j)
+
+((i > 3) && (j < 0))
+
+((i > 3) ||(j < 0))
+
+3
+
+Question 5 [2 Marks]
+
+Consider the following C statements:
+
+int i = 2;
+int j = 2;
+int *p = &i;
+int *q = &j;
+i++;
+j--;
+*p = *q + 2;
+*q = *p + 3;
+p=q;
+*p = *q + 1;
+
+Enter the values of the variables i and j after the execution of the statements in the following
+table:
+
+Variable
+i
+
+j
+
+Answer
+
+4
+
+Question 6 [2.5 Marks]
+
+What does the following program print?
+
+#include <stdio.h>
+int main (void) {
+
+int n = 1;
+
+do {
+
+}
+
+printf("*%d",n);
+if (n % 3 == 0) printf("\n");
+n++;
+
+while (n < 7);
+
+return 0;
+
+}
+
+Answer:
+
+5
+
+Question 7 [2.5 Marks]
+
+Write what the following program will print.
+
+#include <stdio.h>
+
+int main(void){
+
+int i=5, j=0, k=3;
+
+i *= j;
+i *= k;
+
+k++;
+
+printf("%d-%d-%d", i, j, k);
+
+return 0;
+
+}
+
+Answer:
+
+6
+
+Question 8 [2.5 Marks]
+
+What does the following program print?
+
+#include <stdio.h>
+
+int main(void){
+
+int num=0;
+char letter= ’a’;
+
+for (;num<=4;){
+
+letter++;
+printf("%d*%c\n", num++,letter);
+}
+
+return 0;
+}
+
+Answer:
+
+7
+
+Question 9 [2.5 Marks]
+
+Determine the values of the variables W, X, Y and Z after the function SumEm executes in the main
+program of the following C program:
+
+#include <stdio.h>
+
+void SumEm (int *A, int B, int C, int *D) {
+
+if (B > C) {
+
+*A = B + *D;
+*D = C;
+
+}
+else {
+
+*A = C + *D;
+*D = B;
+
+}
+
+return;
+
+}
+
+int main (void) {
+
+int W, X, Y, Z;
+
+W = 0;
+X = 5;
+Y = 8;
+Z = 10;
+
+SumEm(&W,X,Y,&Z);
+
+return 0;
+
+}
+
+Answer:
+
+W =
+
+X =
+
+Y =
+
+Z =
+
+8
+
+Question 10 [6 Marks]
+Write a complete C program to rotate the values of three integer variables: a, b and c. Their initial
+values are 1, 2 and 3, respectively. This program must make use of a function called rotateVar,
+which you are to write as well, and will be the function called to effect the rotation of values. All
+variables should be local variables. The output should print:
+
+• b taking the initial value of c
+
+• c taking the initial value of a
+
+• a taking the initial value of b
+
+Answer:
+
+9
+
+Question 11 [6 Marks]
+
+Write a C program that calculates the sum of all of the numbers from 1 to 1000 that obey ALL of
+the following conditions:
+
+(a) The number is divisable by three.
+
+(b) The number is odd.
+
+(c) The ten’s digit of the number is NOT 5. (e.g. the ten’s digit in 753 is 5, and the ten’s digit of
+
+681 is 8; the ten’s digit of the number 9 is 0)
+
+Answer:
+
+10
+
+Question 12 [6 Marks]
+Write a complete C program that prompts the user for an int type variable n and then computes
+and prints a value from the individual digits of n in the following manner: The least-signiﬁcant
+digit d contributes d to the value. The next digit e contributes e2 to the value. The next digit
+f contributes f 3 to the value, and so on. For example, if the integer entered is 156, the value
+computed is: 6 + 52 + 13 = 32. Below is a sample execution of the program. Your output should
+conform to this format.
+
+Enter an integer: 2145
+The computed value is: 38
+
+11
+
+Question 13 [6 Marks]
+
+Write a program to print the days of the month in a calendar format. The program is to take as
+inputs a number corresponding to the month, and a number corresponding to the weekday in
+which the ﬁrst day falls. The days must be displayed in rows from Sunday to Saturday. If the ﬁrst
+day of the chosen month does not fall on a Sunday, blanks should be used for the days preceding
+the ﬁrst day. You are to indicate with comments within the program the number of blanks you are
+printing in order to align your output properly. There is no need to print the names of the week
+days, or to test for leap years.
+Months with 31 days: January, March, May, July, August, October, December.
+Months with 30 days: April, June, September, November.
+Month with 28 days: February.
+
+Below is a sample of the input and output of the program.
+
+Enter the number corresponding to the month (1=Jan, 12=Dec): 10
+Enter the starting day of the week (1=Sun, 7=Sat): 3
+
+3
+
+4
+
+1
+6 7 8
+
+2
+5
+9 10 11 12
+13 14 15 16 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30 31
+
+Answer:
+
+12
+
+Question 14 [6 Marks]
+
+You are to write a C language function called Combo that takes in three parameters: The ﬁrst two
+parameters are character variables C1 and C2, and the third is an integer, N.
+
+The characters C1 and C2 are guaranteed to be capitals only, and that C1 comes before C2 in the
+alphabet.
+
+Your function must print exactly N three letter ’words’ that only use the range of letters from C1
+to C2 in all three positions.
+
+In addition, none of the letters that are printed in any given word can be the same.
+
+If N is larger than the number of possible such words, then the program should simply print all
+possible words.
+
+One word should be printed per line.
+
+Note that there may be different ways to select the letters in the words that meet the speciﬁcations
+given above; any allowable three letters are ok, as long as they meet the speciﬁcations.
+
+Answer:
+
+13
+
+This page has been left blank intentionally. You may use it for answers to any questions.
+
+14
+
+

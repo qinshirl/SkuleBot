@@ -1,0 +1,98 @@
+MIE100 Quiz – Jan 26, 2016  
+Allotted time: 75 minutes. Answer all questions 
+Answers to be placed in CrowdMark Booklets 
+
+1.  The particles A and B both move in a circle of radius 40 meters around the origin in the 
+directions shown.  At time t = 0 seconds, the particles are at the position shown in the 
+diagram. The speed of A is 5t and the speed of B is 2t, where the parameter “t” represents time 
+in seconds. Angle  is measured counter-clockwise from the positive x-axis, as shown. 
+
+5 
+
+(a)  Determine the unit vector for the direction of the  
+initial velocity particle B as soon as it starts to  
+move. Express your answer in terms of its    and     
+components, using the x-y rectangular coordinate  
+system shown in the diagram. 
+
+10 
+5 
+10 
+
+(b) Determine    and    of B at time t = 3 seconds. 
+(c)  At what time t will               for A? 
+(d) At what time t will particle A crash into B? 
+
+A 
+
+ 
+
+y 
+
+30 marks for question #1 
+
+       
+
+x 
+
+B 
+
+ 
+
+2.  The ground is sloped at     as shown in the diagram. A cannon ball is shot from the origin 
+into the air at time t = 0. Ignore air resistance. Initial velocity of the cannon ball is 57 m/s, at 
+an angle of 60 degrees above the horizontal. Angle  is measured counter-clockwise from the 
+positive x-axis. 
+
+5 
+
+(a)  Determine the position       of the cannon ball as a function of time t measured in 
+
+seconds. Express your answer in terms of its    and    components, using the rectangular x-y 
+coordinate system shown in the diagram. 
+
+(b) Find the radius of curvature of the cannon ball’s path immediately after launch. 
+(c)  Determine the velocity of the cannon ball in polar (r-) coordinates when it crosses the  
+
+x-axis at point B. 
+
+(d) Determine the time at which the cannon ball hits the ground at point C.  
+
+10 
+10 
+
+5 
+
+30 marks for question #2 
+
+y 
+
+ 
+
+sloped surface of the ground 
+
+       
+
+x 
+
+g = 9.81 m/s2 
+
+B 
+
+C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+    
+    
+

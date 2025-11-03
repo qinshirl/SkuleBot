@@ -1,0 +1,1075 @@
+University of Toronto 
+
+Faculty of Applied Science and Engineering 
+
+Final Examination, December 8, 2010 
+
+Duration: 2.5 hours 
+
+APS111H1 F  and APS113Y1 Y -  Engineering Strategies & Practice 1 
+
+Calculator Type: 4 (No electronic or mechanical devices permitted) 
+
+Exam Type: A (Closed book, no aids permitted) 
+
+Course Coordinator: J. Bazylak 
+Communication Coordinator: Dr. P. Weiss 
+Module B Coordinator: Prof. P.H. Byer 
+
+Instructions: 
+This is a closed book exam; no calculators or aids are permitted, except for a translation-only 
+dictionary, i.e. direct word-to-word translations but no definitions. There are two parts of the 
+exam: multiple-choice questions, and a writing component. Read each question carefully. 
+
+For the multiple-choice portion, provide the most correct answer to each question on the 
+answer card. Only one answer is to be given for each question. Be sure to fill out the 
+answer form clearly with no overlaps, using a number 2 pencil. Erase any errors completely.  
+There are a total of 44 multiple-choice questions, each of which is worth about 1.5 marks, for 
+a total of 67 marks worth 67% of the exam.  
+
+The second part of the exam is a writing component worth 33% of the exam. Answer this part 
+in the exam booklet carefully following the instructions.  
+
+Part 1: 
+
+Multiple-choice questions (67%)   
+
+1.  Which of the following should be considered part of the “human service environment” 
+  when designing a vehicle to travel on a sidewalk? 
+(a) People who may block the vehicle’s path 
+(b) People who may steal the vehicle 
+(c) People who will operate the vehicle 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+2.  A design that is sustainable meets the needs of: 
+
+(a) future generations 
+(b) the current generation   
+(c) the designer 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+Page 1 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Sustainable development requires that designs be: 
+
+(a) the most functional 
+(b) the least expensive 
+(c) the most advanced technically 
+(d) the least environmentally damaging 
+(e) All of the above 
+(f)  None of the above 
+
+4.  Which of the following is a “best practice” for community consultation? 
+
+(a) Only involve those who may cause problems with approval of the design 
+(b) Include the cost and time for community consultation in your project plan 
+(c) Consult primarily at the end of the design process 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+5.  Which of the following is not correct? 
+
+(a) Learning leadership requires experience 
+(b) Leadership is a process 
+(c) Leadership is the same as management 
+(d) a and b 
+(e) a and c  
+(f)  b and c  
+(g) All of the above 
+
+6.  Which of the following is correct? 
+
+(a) “Drivers” like to focus on team dynamics 
+(b) “Expressives” are usually good at brainstorming 
+(c) “Amiables” are often autocratic 
+(d) “Analyticals” often escalate conflict 
+(e) a and b 
+(f)  a and c 
+(g) b and d 
+
+7.  What is the correct order of the Human-tech ladder, from low to high? 
+
+(a) physical, psychological, team, organizational, political 
+(b) team, psychological, physical, political, organizational 
+(c) physical, psychological, team, political, organizational 
+(d) psychological, physical, organizational, team, political 
+(e) psychological, physical, team, organizational, political 
+(f)  team, physical, psychological, organizational, political 
+
+Page 2 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.  Which of the following is consistent with the Human-tech approach to design? 
+
+(a) Increased functionality is a priority 
+(b) Design should adapt human nature to accommodate technology 
+(c) Design with feedback 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+9.  The goal of designing for human factors is: 
+
+(a) performance 
+(b) safety 
+(c) satisfaction 
+(d) automation 
+(e) a, b and c 
+(f)  b, c and d 
+(g) All of the above 
+
+10.  Which of the following is an issue addressed in the psychological level of the Human-tech 
+
+ladder? 
+ (a) Budget allocations 
+ (b) Cause/effect relations  
+ (c) Responsibilities 
+ (d) Communications patterns 
+ (e) a and b 
+ (f)  a and c 
+ (g) b and c 
+
+11. Which of the following is correct about preventable medical errors in the U.S.? 
+
+ (a) They are primarily due to problems at the psychological level of the Human-tech    
+
+ladder 
+
+ (b) They are primarily due to problems at the physical level of the Human-tech ladder 
+ (c) They are primarily due to poor equipment 
+ (d) They are at the minimum feasible level 
+ (e) a and d 
+ (f)  b and d 
+ (g) c and d 
+
+12.  Automobile accidents are largely due to which of the following? 
+
+(a) Vehicle mechanical failure 
+ (b) Roadway conditions 
+ (c) Driver factors 
+ (d) Weather conditions 
+ (e) None of the above 
+
+Page 3 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Questions 13 and 14 are based on the CBC video “Pedal Power”: 
+
+13.  Which of the following is not a characteristic of the bike system in Paris? 
+
+(a) 100s of km of bike lanes 
+(b) Bikes share separate lanes with public transit and taxis 
+(c) Free, shared bikes 
+(d) Significant problems with repairs and vandalism 
+(e) All of the above 
+
+14.  The change cyclists would most like to see is: 
+
+(a) no requirement to wear a helmet 
+(b) completely separate roadways for bikes 
+(c) automobile drivers be required to pay for accidents they cause with bikes 
+(d) cities provide free bikes 
+(e) stricter enforcement of laws for automobile drivers 
+(f)  None of the above 
+
+15.  From an economic perspective, the best alternative is the one that minimizes the present 
+
+value of costs, if: 
+(a) the benefits are the same for all alternatives 
+(b) the discount rate is 0 
+(c) all alternatives have the same lives 
+(d) cost savings are a benefit 
+(e) the payback period is less than the lives of the alternatives 
+(f)  all of the alternatives have the same initial costs 
+(g) None of the above 
+
+16.  A municipality is building a new road through a small town. Which of the following is an 
+
+external cost of this project? 
+(a)  Health care costs due to air pollution from the automobiles travelling on the road 
+(b)  Lower property values near the road 
+(c)  Cost of snow removal 
+(d)  a and b 
+(e)  a and c 
+(f)  b and c 
+(g)  All of the above 
+
+17. The cost of a monthly transit pass is a: 
+
+(a) initial cost  
+(b) ongoing cost 
+(c) fixed cost 
+(d) variable cost 
+(e) a and c 
+(f)  b and c 
+(g) b and d 
+
+Page 4 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questions 18, 19 and 20 refer to the following situation: A small private water bottling 
+company owns a building in which it pumps water from the groundwater and treats and bottles 
+the water. It then transports the bottled water in small trucks for sale in a large city nearby. 
+They sell the water for $1 per litre. The following are the types of costs the company incurs: 
+
+1.  Cost they paid for the building  
+2.  Employee salaries 
+3.  Fire insurance 
+4.  Heat and light for the building 
+5.  Electricity for pumping the water 
+6.  Chemicals for treating the water 
+7.  Transportation of the bottled water 
+
+18.  Which of the above costs is a variable, ongoing cost? 
+
+(a) 1, 2 and 3 
+(b) 2, 3 and 4 
+(c) 3, 4 and 5 
+(d) 4, 5 and 6 
+(e) 5, 6 and 7 
+(f)  6 and 7 
+(g) 7 
+
+19.  Which of the following is correct if the variable costs of production decrease and all else 
+
+stays the same?  
+(a) The breakeven quantity will increase 
+(b) The breakeven quantity will decrease 
+(c) The breakeven quantity will not change 
+(d) The breakeven quantity may increase, decrease or not change, and more information 
+
+is needed to determine what will happen 
+
+(e) The breakeven quantity is not relevant to this issue 
+
+20.  If the price of a bottle of water decreases, which of the following is not correct? 
+
+(a) Revenues will increase 
+(b) Revenues will decrease 
+(c) Revenues will not change 
+(d) Revenues may increase, decrease or not change, and more information is  
+
+needed to determine what will happen 
+
+(e) a, b and c 
+
+21. If the price of each of the following increases by 10%, for which would the “inelasticity of 
+
+demand” principle be least likely to apply? 
+(a) University student transit pass  
+(b) Annual vehicle registration fee  
+(c) Extra large cup of coffee  
+(d) Tuition at the university 
+(e) Tube of toothpaste  
+
+Page 5 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22.  A City needs to choose whether to build a toll bridge or a toll tunnel for commuter traffic. 
+The bridge will cost $2,400,000 and will have annual revenues of $200,000 and annual 
+costs of $80,000. The tunnel will cost $3,000,000 and will have an annual revenues of 
+$300,000 and annual costs of $100,000. What is the payback period of the bridge and 
+
+  which alternative is preferred on the basis of the payback periods? 
+
+(a) 20 years and the bridge is the best alternative 
+(b) 20 years and the tunnel is the best alternative 
+(c) 15 years and the bridge is the best alternative 
+(d) 15 years and the tunnel is the best alternative 
+(e) 12 years and the bridge is the best alternative 
+(f)  12 years and the tunnel is the best alternative 
+(g) There is not enough information to answer this question 
+
+23.  You are given the following information about two feasible designs: 
+
+Initial costs  Annual revenues  Annual costs  
+
+Disposal costs 
+
+  Design A   
+  Design B   
+
+$6900  
+$4900  
+
+$1100  
+$1000  
+
+$600   
+$600   
+
+$100 
+$100 
+
+r > 0% and the lives of both designs are 20 years. 
+
+  Which design is better from an economic perspective? 
+
+(a) Design A is better than Design B 
+(b) Design B is better than Design A 
+(c) Design A and B are equally good   
+(d) There is not enough information to answer this question 
+
+24.  Contingency funds are set up to: 
+
+(a) pay the designer 
+(b) pay legal fees for incorrect designs 
+(c) pay for unanticipated costs 
+(d) buy gifts for workers when the work is completed 
+(e) fund new projects 
+(f)  None of the above 
+
+25.  Which of the following is an example of a strategy in design for environment (DfE) of a 
+
+computer printer? 
+(a) Treat the pollution from the manufacturing plant of the printer 
+(b) Design a more energy efficient printer 
+(c) Design a printer that is easier to disassemble 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+Page 6 of 13
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26.  Which of the following is a principle of industrial ecology? 
+
+(a) Industries should get most needed materials through recycling 
+(b) Only natural (ecological) systems are to be used for production 
+(c) Pollution should be controlled to meet legal requirements 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+27.  Which of the following is not correct about life cycle assessment? 
+
+(a) It uses a systems approach 
+(b) It is a means of understanding a technology’s environmental impact 
+(c) It starts by constructing a life cycle diagram 
+(d) The only thing that needs to be quantified is the input mass 
+(e) It is a way to compare two technologies  
+(f)  All of the above 
+(g) None of the above 
+
+28.  A full life cycle assessment of a cell phone should include: 
+
+(a) extraction of the natural gas needed to make the plastic for the cell phone 
+(b) manufacturing of the cell phone 
+(c) disposal of the cell phone battery 
+(d) electricity production to recharge the batteries 
+(e) b and c 
+(f)  b, c and d 
+(g) All of the above 
+
+29.  The life cycle assessment of a wind turbine that was shown in class found that most of 
+
+the environmental impacts were the result of which of the following? 
+(a) Use (operation) of the nacelle 
+(b) Operation of the turbine 
+(c) Transmission of the electricity 
+(d) Manufacturing of the rotor 
+(e) Manufacturing of the base (foundation) of the tower  
+(f)  Disposal of the tower 
+(g) None of the above 
+
+30. Which of the following is correct? 
+
+(a) Cumulative impacts result solely from a single decision 
+(b) The outputs of a life-cycle assessment include usable products 
+(c) One of the two main components of risk is uncertain costs 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+Page 7 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+31.  Which of the following is a basic element or characteristic of the systems approach?  
+
+(a) The use of computer systems for engineering design 
+(b) The systematic use of knowledge to solve problems 
+(c) Consideration of the relationships and interactions between elements of a design 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+32.  Which of the following is not a social impact that would likely result from banning waste 
+
+pickers from landfills in developing countries? 
+(a) More women would be unemployed 
+(b) Less waste would be generated 
+(c) People would become more educated 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+33.  Which of the following is a type of social factor that has been significantly affected by cell 
+
+phones?  
+(a) Privacy  
+(b) Political power 
+(c) Gender inequality 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+34.  Which of the following has had significant social impacts? 
+
+(a) Hydroelectric dams 
+(b) Slot machines 
+(c) Trains 
+(d) a and b 
+(e) a and c 
+(f)  b and c 
+(g) All of the above 
+
+35.  Which of the following is correct for the evaluation and comparison of design alternatives? 
+(a)  There is a need to estimate how well each alternative meets  each objective in terms of 
+
+quantitative metrics 
+
+(b)  All objectives of all stakeholders do not need to be considered 
+(c)  Metrics on an interval scale provide more information than metrics on an ordinal scale 
+(d)  a and b 
+(e)  a and c 
+(f)  b and c 
+(g)  All of the above 
+
+Page 8 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36.  The table below shows the rankings on an ordinal scale, where 1 is best and 3 is worst, 
+
+for the three objectives for three designs: 
+
+         Rankings for 
+    Design B 
+
+   Design A 
+
+    Design C 
+
+  Objective 1 
+  Objective 2 
+  Objective 3 
+
+1 
+1 
+2 
+
+2 
+3 
+3 
+
+3 
+2 
+1 
+
+  What can you conclude about the three alternative designs? 
+
+(a)  Design A is the best design 
+(b)  Design B is the best design 
+(c)  Design C is the best design  
+(d)  Design B is dominated by Design A 
+(e)  Design C is dominated by Design A 
+(f)  a and d 
+(g)  a and e 
+
+37.  Project requirements can best be described as: 
+
+(a) an accurate, general statement describing all aspects of the problem 
+(b) an accurate, general statement describing the design alternatives 
+(c) a clear, specific description of all aspects of the problem  
+(d) a clear, specific description of the design alternatives 
+(e) a bulleted list of requirements that the solution must fulfil 
+(f)  a clear explanation of the service environment in which the solution must operate 
+(g) None of the above 
+
+Questions 38 through 44 relate to Case #1 which is described on page 11. 
+
+38.  In Case #1, the problem statement should include: 
+
+(a) the names of some additives that can be used to modify the properties of sugar 
+(b) the efficiency of microwave heating versus conductive heating 
+(c) the cost of natural gas at the processing plant location 
+(d) the other businesses owned and operated by Dolce Foods International 
+(e) the number of workers currently employed in the processing plant 
+(f)  None of the above  
+
+39. In Case #1, secondary function(s) for the design would include: 
+
+(a) to add energy (heat) to the environment 
+(b) to melt sugar 
+(c) to be more environmentally friendly than the current system 
+(d) to retain the quality of the product Dolce is producing 
+(e) to meet safety standards 
+(f)  All of the above 
+(g) None of the above 
+
+Page 9 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+     
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40.  In Case #1, the scope of the project, as stated in the client statement, includes: 
+
+(a) costing locally available energy sources (fuels, electricity, etc.) 
+(b) maintaining the rate of sugar production 
+(c) reducing the environmental impact of the process 
+(d) developing a heating process for a variety of sugar products 
+(e) a and b 
+(f)  c and d 
+(g) All of the above 
+
+41.  In Case #1, reasonable constraint(s) implied by the client statement include: 
+
+(a) the new process design shall reduce energy costs by at least 80% 
+(b) the new process design shall reduce energy costs by at least 30% 
+(c) the new process design shall reduce energy costs below current levels  
+(d) the new process design must reduce Greenhouse Gas production 
+(e) a and d 
+(f)  b and d 
+(g) c and d 
+
+42.  In a problem statement, the major assertion states the need of the client. In Case #1, the 
+
+evidence for the major assertion is found in: 
+(a) Lines 13 to 16 
+(b) Lines 6 to 10 
+(c) Lines 1 to 5 
+(d) Lines 11 to 12 
+(e) None of the above 
+
+43.  In Case #1, the explanation of the assertion is contained in: 
+
+(a) Lines 1 to 5 
+(b) Line 13 to 16 
+(c) Lines 11 to 12 
+(d) Lines 6 to 10 
+(e) None of the above 
+
+44.  In Case #1, the major assertion is found in: 
+
+(a) Lines 11 to 12 
+(b) Lines 1 to 5 
+(c) Lines 13 to 16 
+(d) Lines 6 to 10 
+(e) None of the above
+
+Page 10 of 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You may remove this page in order to use it when answering questions 38 through 44. 
+
+CASE #1 (adapted from a challenge posted on Innocentive) 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+
+The client, Dolce Foods International (DFI) is interested in identifying methods that would lower 
+the energy costs associated with industrial food preparation processes, specifically costs linked to 
+the melting of sugar. Food engineers at DFI estimate the current energy consumption of the 
+process as being 880 BTU per pound of the product. They note that altering the process has been 
+shown to reduce energy input by 30% [1] but set their goal at an 80% reduction. The sugars of 
+significance to this project are granular and naturally-grown. Sugar is a crystalline form of 
+carbohydrates, has a melting point of 320°F and heat capacity of 0.30 cal/g°C (1 cal = 4.18J). 
+The current method used to melt the sugar is by conductive heating via steam, under atmospheric 
+conditions. The steam is generated typically with a natural gas fired boiler.  
+Methods the client is willing to consider to reduce energy costs include:  
+
+1.  Modifying the physical and chemical properties of the sugar which is by adding certain 
+additives to the sugar, and/or by using sugar alternatives, and/or pre-treating the sugar. 
+
+2.  Changing the cooking method. As an example, this would involve a shift from using 
+
+steam generated by burning fossil fuel to utilizing electrically powered microwave ovens. 
+Another example would be the modification of the pressure under which the sugar is 
+heated.
+
+ [1] J. Al Ghurair & G.C. Singh, “Al Khaleej Sugar: An Energy Efficient Refinery,” in Sugar Industry 
+Technologists Meeting. Estoril, Portugal: Sugar Industry Technologies, 1999. [Online] Accessed 
+November 25, 2010. Available: 
+http://www.aksugar.ae/images/PDF/AlKhaleejEnergyEfficientRefinery1999.pdf  
+
+Page 11 of 13 
+
+ 
+ 
+ 
+Part 2:  
+
+Written Problem Definition (33%) 
+
+INSTRUCTIONS: This question requires two written answers. Use an exam booklet, and 
+write in your name, student number, course, and date of examination on the booklet’s cover 
+page. You may use as many pages as you need for your preliminary work, but the final 
+answers must be no more than four (4) pages – maximum two (2) pages for each question.  
+Clearly indicate the final copy to be graded by writing “Final Copy” at the start of it. Use 
+headings, subheadings, paragraphs, and bullet lists where appropriate. 
+
+1)  Based on the case given below, write a concise Problem Statement in your own 
+
+words. (10%) 
+
+2)  Based on the case given below, identify the key stakeholders and their interests. 
+Identify the relationship between their interests and levels of Human Tech ladder, 
+and/or environmental and/or economic concerns. Indicate, as well, functions, 
+objectives and constraints that arise from the particular stakeholder interests. (23%) 
+
+CLIENT STATEMENT: Improving Material Handling Efficiency 
+
+Attucla Corporation is looking for creative, economical ways to safely improve the manual 
+(non-automated) loading/unloading rate of boxes from a large truck (semi-trailer) to a staging 
+area to a small (delivery) truck. We are looking for procedural and equipment changes to 
+speed up the loading/unloading rate, decrease the drivers amount of work while keep them 
+safe from injury. We would like to increase the rate of unloading the semi trailer from 400 to 
+800 or more cases per hour while at the same time avoid any ergonomic or safety issues. 
+
+Here are some facts about the scenario:  
+
+a.  The foot print of each case is 40 cm X 53 cm. The height of the cases varies from 15 
+cm to 36 cm. The average weight of a case is 2.04 kg. The average stack weighs 
+27.22 to 36.30 kg.  
+
+b.  The semi-trailers have an interior height of 2.79 m. Boxes may be stacked up to that 
+
+height. 
+
+c.  The small (delivery) trucks have an interior height of 2.06 m. Boxes may not be 
+
+stacked higher than 2.06 m. 
+
+d.  The average distance from the truck to the staging area is about 12 m.  
+e.  The average number of cases in a semi-trailer is 1600.  
+f.  The average unload rate is 400 cases/hour.  
+g.  Reaching overhead to grasp a box and move it is considered an ergonomic "red 
+
+zone" and should be avoided if possible. Drivers should not have to reach up over 
+1.78 m in height. 
+
+h.  The material in the cases is not fragile and can easily withstand normal delivery 
+
+handling. (i.e. they could be dropped from low heights and bounced a bit as long as 
+they were not dropped from large heights or crushed).  
+
+i.  The cases are cardboard boxes that are fan folded on top and bottom (not taped). 
+
+(This case is adapted from a challenge posted on Innocentive) 
+
+Page 12 of 13 
+
+ 
+ 
+ 
+ 
+ 
+Intentionally blank page 
+
+Page 13 of 13 
+
+ 
+

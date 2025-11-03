@@ -1,0 +1,179 @@
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIV100S – MECHANICS  
+
+Midterm Examination 
+
+Wednesday, 5th March 2025 
+
+Examiner: Prof. Michael Seica 
+
+Time allowed: 1-½ hours 
+
+SURNAME: ________SEICA__________GIVEN NAME(S): _______MICHAEL_________ 
+
+     (Please print clearly) 
+
+STUDENT NUMBER: _____Solutions______ DEPT. (ECE, Track One, etc.)____________ 
+
+CIRCLE YOUR SECTION AND THE NAME OF YOUR INSTRUCTOR: 
+
+1. Seica, Michael 
+
+2. - 
+
+3. - 
+
+4. - 
+
+5. - 
+
+6. - 
+
+7. - 
+
+8. - 
+
+9. - 
+
+INDICATE YOUR CALCULATOR TYPE: 
+
+ CASIO FX-991 
+
+ SHARP EL-W516 
+
+ SHARP EL-520 
+
+Notes:  1. Ensure that you have all 8 pages of the examination paper. Page 8 is blank 
+
+2. Answer all three questions. The value of the questions is indicated below 
+
+3. If you need more space for a question, continue on the page indicated at the bottom 
+
+4. If information appears to be missing, make reasonable assumptions and state them clearly 
+
+5. The only calculators permitted are listed above. Please indicate your model 
+
+6. This is a closed-book examination. No other paper will be allowed on the desk 
+
+7. Turn OFF all electronic equipment and place it in your bag 
+
+8. Do not remove the staple 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________M. SEICA_______________ 
+
+      Page 2 of 8 
+
+1. The suspension for the landing gear of an airplane is shown. The wheel is attached to rod BC, which can 
+slide vertically without friction in housing A that is fixed to the fuselage of the aircraft. The spring is pre-
+compressed so that it does not undergo additional shortening until the force supported by the landing gear, 
+F, is sufficiently large. Furthermore, if the force F exceeds a limit value, the suspension ‘bottoms out’ and 
+cannot deflect further. Determine the spring constant, k, and the unstretched length of the spring, l, if: 
+
+o  h = 60 cm, for F ≤ 5,000 N; and 
+o  h = 40 cm, for F ≥ 15,000 N. 
+
+= 60 cm 
+
+= 40 cm 
+
+= 5 kN 
+
+= 15 kN 
+
+Condition A 
+
+Condition B 
+
+Solution can be continued on Page 3
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________M. SEICA_______________ 
+
+    Page 4 of 8 
+
+2. The assembly shown is used to control the tension T in a tape that passes around a frictionless pulley at 
+E. Rods ABC and CDE are rigidly connected through welding to collar C. AB is parallel to the z-axis, BC 
+and DE are parallel to the y-axis, and CD is parallel to the x-axis. The collar can rotate only about shaft FG 
+and its motion along the shaft is prevented by a washer, S. F and G are fixed supports for the shaft. Given 
+the loading and configuration shown, determine:  
+(a) The tension T in the tape; and  
+(b) The Cartesian expression for the reaction force at C and its magnitude. 
+
+Solution can be continued on Page 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________M. SEICA_______________ 
+
+    Page 6 of 8 
+
+3. For the truss loaded as illustrated, determine the force in members BC, CJ, DF, FH, HI and state if the 
+members are in tension or compression. Also, indicate zero-force members, if there are any. 
+
+Solution can be continued on Page 7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

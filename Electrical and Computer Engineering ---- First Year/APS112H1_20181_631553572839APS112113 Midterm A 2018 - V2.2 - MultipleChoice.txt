@@ -1,0 +1,481 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Instructors: Phil Anderson, Peter Weiss, and Elizabeth Edwards 
+Question Booklet #1 – Multiple Choice Question Booklet 
+
+Midterm Examination 
+March 29, 2018 
+6:15 pm - 7:45 pm 
+
+Instructions: 
+
+•  This is a 90-minute midterm with a total of 40 questions. 
+• 
+• 
+
+It is multiple choice AND short answer. 
+It is closed book and closed notes. No aids are permitted other than a translation-
+only paper dictionary. 
+
+•  The questions are divided between two separate booklets.  
+
+o  Question Booklet #1 – Multiple Choice Question Booklet 
+o  Question Booklet #2 – Short-Answer Question Booklet 
+
+•  Ensure you have both booklets and a multiple choice answer sheet (bubble scan 
+
+sheet). 
+
+•  At the end of the test hand in the short-answer question booklet and the multiple 
+choice answer sheet. You do NOT have to hand in the multiple choice question 
+booklet. 
+
+This booklet contains 37 multiple-choice questions, worth 1 mark each. Read each 
+question thoroughly and provide the answer on the answer sheet (not in this booklet). 
+Fill in your name and student number on the multiple-choice answer sheet. You do not 
+have to fill in the class name, instructor or form code.  
+
+When providing answers on the answer sheet be sure to: 
+
+fill out the answer sheet (scan sheet) clearly with no overlaps 
+
+•  use a pencil or pen (pencil is recommended in case you make errors) 
+• 
+•  erase any errors completely 
+•  provide only the single, most correct answer for each question  
+
+There is no penalty for wrong answers. Select the answer that best satisfies the 
+question.  
+
+You are not required to hand in this multiple-choice question booklet.  
+
+The short-answer questions are found in the Short-Answer Question Booklet. 
+
+Page 1 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Research shows that body language accounts for what percentage of the impact of 
+
+an oral communication? 
+a.  Less than 10% 
+b.  More than 90% 
+c.  Less than 50% 
+d.  More than 50% 
+
+2.  In meeting with the client, “open questions” are used to: 
+
+a.  Clarify and confirm information  
+b.  Get the client talking 
+c.  Help the client understand the difference between “want” and “need” 
+d.  Ensure the client feels the design team is polite and respectful 
+
+3.  You demonstrate “Active listening” by: 
+
+a.  Asking questions to clarify what you don’t understand 
+b.  Arriving early for the meeting 
+c.  Avoiding eye contact  
+d.  Not taking notes, to show that you are memorizing what is said 
+
+4.  What happens if you find out in the first meeting that a client has a predetermined 
+
+solution in mind that students may not necessarily agree with? 
+a.  Walk out of the meeting immediately and report the incident to your Engineering 
+
+Manager (EM). 
+
+b.  Proceed directly to working on the solution because that is what the client wants. 
+c.  Ignore what the client has said and proceed with the course requirements. 
+d.  Be polite but continue to explore the details of the problem rather than fixate on a 
+
+solution. 
+
+5.  What is the primary purpose of a Design Review Gateway in Industry? 
+a.  To gain confidence in your project from your EM, TA and peers. 
+b.  To get approval to proceed with your project. 
+c.  To carry out an oral presentation that is professional in tone and substance. 
+d.  To debrief the company on your final design.  
+
+6.  What is the primary purpose of a Design Review Gateway in this course? 
+
+a.  To gain confidence in your project from your EM, TA and peers. 
+b.  To get approval to proceed with your project. 
+c.  To carry out an oral presentation that is professional in tone and substance. 
+d.  To debrief the client on your final design.  
+
+Page 2 of 10 
+
+ 
+ 
+7.  Regarding Technical Design and Project Management, which of the following are 
+
+TRUE? 
+a.  Project management is totally independent of technical design 
+b.  Project management is linked to technical design as part of the costing of the 
+
+project only 
+
+c.  Project management is linked to technical design only during the initial stages of 
+
+the project 
+
+d.  The two are closely linked always 
+
+8.  Tasks of a project: (select what is always TRUE) 
+a.  Should always be different than each other 
+b.  Should be able to be done without adding resources partway through 
+c.  Should be able to be done in under a day 
+d.  Should be able to be done in under a week 
+
+Case Study #1: The Wagon Project 
+Some friends get together to make a wagon (Figure 1). 
+They used a project management software to figure out 
+the timing and the sequencing of the operations. The 
+chart in Figure 2 is what they got after the data was first 
+entered. Questions 9, 10, and 11 relate to Figure 2. 
+
+Figure 1: Toy wagon. Source 
+http://clipartxtras.com 
+
+Figure 2: Timing and sequencing of the wagon project operations 
+
+Page 3 of 10 
+
+ 
+ 
+ 
+ 
+9.  There is a lag between task 4 and 5. Which of these statements is TRUE according 
+
+to Figure 2? 
+a.  Task 5 had to be delayed because Lucy was unavailable. 
+b.  The lag is likely to let the paint dry 
+c.  Task 5 only had to end before the end of the project, so it was moved forward. 
+d.  Leveling would eliminate the lag 
+
+10. In Project Management terms, Mary in Figure 2, is: 
+
+a.  Overworked 
+b.  Overallocated 
+c.  The first worker 
+d.  Critical 
+
+11. Task 7 “Assemble bottom, ends, sides” delegated to Joe has a duration of 2.5 
+
+hours, but the chart in Figure 2 displays it running from 11 to 3. Why? 
+a.  Joe has a lunch break 
+b.  Joe is a slow worker 
+c.  There is allowance for Joe to work on other projects 
+d.  The project is not yet levelled 
+
+12. Pick the correct completion to this sentence: If a non-critical path has a slack of 2 
+
+days then … 
+a.  … no task is allowed to expand more than 2 days 
+b.  … each task can take no longer than 2 days without the project going overtime 
+c.  … there are two days that are not worked, for example a weekend that is not 
+
+worked 
+
+d.  … a task on the path can go over its time estimate slightly without effecting the 
+
+project duration 
+
+13. A Problem Statement should: 
+
+a.  Define the qualities of the solution without being solution dependent 
+b.  Identify what is missing from current solutions  
+c.  Clearly reiterate the client want from their point of view 
+d.  Include budgetary constraints 
+
+14. For a solar panel design for homes, “increase environmental sustainability” is a(n): 
+
+a.  Function of the design 
+b.  Result of the design 
+c.  Objective of the design 
+d.  Constraint of the design 
+
+Page 4 of 10 
+
+ 
+ 
+15. In the Living Things section of Service Environment, you should include: 
+
+a.  Bacteria that might be present in the environment 
+b.  Necessity for the design to prevent rodents 
+c.  Most important stakeholders if they will be affected by the design 
+d.  Human-built elements of the environment. 
+
+16. The purpose of the Project Requirements is to define the problem in Engineering 
+
+Terms. What would be one obstacle to objectivity? 
+a.  The feeling that there is one right answer, and someone knows what it is 
+b.  Too many sources of information with multiple conflicting points of view 
+c.  Trying to gain a complete understanding of new information 
+d.  Having to take the Second Law of Thermodynamics into account 
+
+17. In the CRAAP method to evaluate information, one of the “A’s” stands for Authority 
+
+and the other for Accuracy. Authority in this case, refers to: 
+a.  How current or up-to-date the information is. 
+b.  The reliability, truthfulness and correctness of the information. 
+c.  The value of the credentials of the person or organization providing the 
+
+information. 
+
+d.  Why the information was provided by the author. 
+
+18. Which is NOT a common error when starting to tackle a design problem? 
+
+a.  Failing to search thoroughly for the state of the art 
+b.  Not breaking the problem into subparts 
+c.  Jumping on the first idea that comes to mind 
+d.  Discussing the problem with your client 
+
+19. The reason to use formal creativity methods in the Idea Generation project phase is: 
+
+a.  To avoid design fixation. 
+b.  To reduce the number of infeasible designs. 
+c.  To increase the quality of designs. 
+d.  To avoid relying on benchmarking. 
+
+20. What is NOT a method to avoid personal bias in Idea Generation? 
+
+a.  Working with a diverse team 
+b.  Decomposition 
+c.  Critical thinking 
+d.  Weighted Decision Matrix 
+
+Page 5 of 10 
+
+ 
+ 
+ 
+21. The statement, “Gasoline is not a bad thing, it is just not priced properly” is an 
+
+expression of: 
+a.  Eco-fiscal policy 
+b.  Carbon tax 
+c.  Green-washing 
+d.  Environmental regulation 
+
+22. What is the factor that increases the sustainability of the environment? 
+
+a.  Limited population  
+b.  Non-renewable energy  
+c.  Long-lasting goods  
+d.  Regulations 
+
+23. The Brundtland Commission defined sustainability as: 
+
+a.  Highly efficient use of energy and resources 
+b.  Protecting the natural environment 
+c.  Meeting the needs of the present without compromising the ability of future 
+
+generations to meet their own needs 
+
+d.  Ensuring that buildings are built in a way that allows adaptive use by future 
+
+generations 
+
+24. Which of the following is an example of ecosystem services? 
+
+a.  Purification of water by wetlands 
+b.  Pollination of crops by bees 
+c.  Regulation of atmospheric composition by plankton and algae 
+d.  All of the above 
+
+25. One function of Visualization in engineering thinking: 
+
+a.  To help make the problem statement solution independent 
+b.  To ensure that you have a good idea of the client’s level of technical awareness 
+c.  To help clarify a problem in order to come up with a solution 
+d.  To make your client feel better about a solution they are uncomfortable with 
+
+Page 6 of 10 
+
+ 
+ 
+ 
+      Figure 3: Engineering drawing of a shaft 
+
+               Figure 4: Photograph of a bridge 
+
+26. The image in Figure 3 is: 
+
+a.  Decorative 
+b.  Illustrative 
+c.  Informative 
+d.  Indicative 
+
+27. The image in Figure 4 is: 
+
+a.  Decorative 
+b.  Illustrative 
+c.  Informative 
+d.  Indicative 
+
+Questions continued on next page 
+
+Page 7 of 10 
+
+ 
+ 
+ 
+ 
+ 
+A. 
+B. 
+
+Figure 5: Window diagrams  
+
+28. The images in Figure 5 are: 
+
+a.  Decorative 
+b.  Illustrative 
+c.  Informative 
+d.  Indicative 
+
+29. Which of the following is a component of estimating the mass of a car? 
+
+a.  Estimate mass of individual items and sum together 
+b.  Check against a reference at the other extreme, such as truck 
+c.  Modify estimate based on information you can look up with google  
+d.  All of the above 
+
+30. You are estimating how far a crow could fly without stopping. Of the following 
+parameters that you could estimate, which is LEAST important for solving the 
+estimation problem? 
+a.  Mass of a typical crow and percent fat 
+b.  The speed at which the crow flies 
+c.  Energy available in fat  
+d.  Typical diet of a crow 
+
+Page 8 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31. In the patent world, what does “prior art” refer to? 
+
+a.  A drawing of a working example of your invention. 
+b.  A painting by Michelangelo di Lodovico Buonarroti Simoni (Michelangelo) 
+
+depicting the Venetian Senate, when it set up the first patent law in 1474, and 
+articulated the concept of intellectual property and enshrined the importance of 
+protecting inventors’ rights. 
+
+c.  Evidence in the public domain that your invention was already known. 
+d.  The first time you disclose your invention to the patent office. 
+
+32. Which of the following terms is NOT commonly associate with patenting? 
+
+a.  Claims 
+b.  Caveat emptor 
+c.  Inventive step 
+d.  Skilled in the art 
+
+33. A “data-centric” presentation is one that: 
+
+a.  Gives a great deal of detailed information (data) but not the context that makes 
+
+the data meaningful; 
+
+b.  Shows concentric values of data in relation to various kinds of graphs and 
+
+graphics 
+
+c.  Avoids giving too much technical information, decentralizing the impact so that it 
+
+is better understood by the audience. 
+
+d.  Is organized from the perspective of the data, e.g. data centered, so that the 
+
+audience can easily appreciate the expertise of the speaker. 
+
+34. What is the function of a “Main Point”? 
+
+a.  To ensure that you have provided the correct answer to the problem. 
+b.  To add formality and professionalism to your presentation. 
+c.  To synthesize the points you are presenting in a unique and memorable way. 
+d.  To avoid subjectivity and bias in presenting information that represents the 
+
+team’s values. 
+
+Questions continued on next page 
+
+Page 9 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Study #2: Mobile Home Worker Fatality 
+A mobile home was being moved by workers who were using jacks to raise the 
+structure. It was being raised high enough to allow the workers to slide steel beams 
+under the undercarriage. The workers had raised the structure about nine inches when 
+it began to shift and fell off the jacks. One worker was able to roll out from underneath 
+but the structure came down on another worker, who was pinned before being able to 
+get out of the way. The worker was taken to hospital and succumbed to the injuries the 
+next day. 
+
+The soil on which the blocks supporting the jacks were placed was damp and soft, 
+increasing the instability of the structure, and the jacks were lifted too high, which made 
+the mobile home unstable on the jacks. The mobile home was not adequately braced to 
+prevent movement that may affect its stability and cause it to shift and collapse. 
+
+Ontario Court Bulletin: http://bit.ly/MobileHomeWorker  
+
+35. The employer of the worker whose death is described in Case Study #2 was fined 
+
+because: 
+a.  The accident was foreseeable.   
+b.  They did not do their Due Diligence.  
+c.  The accident was preventable. 
+d.  All of the above. 
+
+36. Section 31(1)(b) of the Construction Projects Regulation (Regulation 213/91) 
+
+prescribes that every part of a project, including a temporary structure, shall be 
+adequately braced to prevent any movement that may affect its stability or cause its 
+failure or collapse. The employer failed in their duty to: 
+a.  Ensure the measures and procedures prescribed are carried out. 
+b.  Pay their employees adequately. 
+c.  Have sufficient number of supervisors.  
+d.  Fence off the area. 
+
+37. A team has designed a pizza box that keeps pizza warmer for longer using an 
+
+embedded layer of styrofoam. They glue a layer of styrofoam between two squares 
+of corrugated cardboard. They then place a heating element against one side, and a 
+thermocouple against the other. The result of this action would be best used in 
+which section of the CDS? 
+a.  Measures of Success 
+b.  Objectives 
+c.  Final Design 
+d.  Prototyping 
+
+Page 10 of 10 
+
+ 
+ 
+ 
+

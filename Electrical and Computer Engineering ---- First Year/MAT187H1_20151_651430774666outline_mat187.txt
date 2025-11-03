@@ -1,0 +1,353 @@
+Math 187 – Calculus II
+
+Winter 2015
+
+Instructors
+
+Section Name
+
+E-mail
+
+Oﬃce
+
+Oﬃce Hours
+
+Lec 01
+
+Louis-Philippe Thibault
+
+lp.thibault@mail.utoronto.ca HU1026 W 14, F 13
+
+Lec 02
+
+Paul Milgram
+
+milgram@mie.utoronto.ca
+
+RS319
+
+Tu 14, Th 14
+
+Lec 3, 8 Bernardo Sousa (coord)
+
+beni@math.toronto.edu
+
+The Pit Tu 15, F 12
+
+Lec 04
+
+Diana Ojeda
+
+dojeda@math.utoronto.ca
+
+BA6204 M 15, W 15
+
+Lec 05
+
+Shai Cohen
+
+Lec 06
+
+Chris Dodd
+
+cohen@math.toronto.edu
+
+The Pit Th 12, 15
+
+cdodd@math.toronto.edu
+
+BA6107 F 13, 15
+
+Lec 07
+
+Yevgeny Liokumovich
+
+liokumovich@math.toronto.edu HU1028 W 14, 15
+
+Course Description
+
+Topics include: techniques of integration, introduction to second order diﬀerential equations, sequences
+
+and series, vector-valued functions, functions of several variables, partial diﬀerentiation and applica-
+
+tions to mechanics and other engineering problems.
+
+Textbook.
+
+Calculus for Scientists and Engineers: Early Transcendentals1, 1st Edition, by Briggs,
+
+Cochran & Gillett, ISBN 9780321837721.
+
+Online Textbook.
+
+Instead of obtaining the physical textbook, you can opt to obtain the online
+
+textbook with mathlab, which is cheaper than the (new) textbook and includes interactive material:
+
+It is also available through CourseSmart (without interactive material, but it has an app for tablets):
+
+MathLab Online Textbook
+
+CourseSmart Online Textbook
+
+Course Website.
+
+The website for the course is
+
+http://uoft.me/mat187
+
+The blackboard (https://portal.utoronto.ca/) will be used for distributing grades.
+
+Handouts and other important information will be posted on the website and on piazza, so you should
+
+check it regularly.
+
+1Same as for MAT186.
+
+Page 1
+
+Math 187 – Calculus II
+
+Winter 2015
+
+Discussion Board
+
+This term we will be using Piazza for class discussion. The system is highly catered to getting you
+
+help fast and eﬃciently from classmates, the TA, and the instructors. Rather than emailing questions
+
+to the teaching staﬀ, we encourage you to post your questions on Piazza. If you have any problems
+
+or feedback for the developers, email team@piazza.com.
+
+Find the class page at: https://piazza.com/class/i358w8q5xmt173
+
+Homework Assignments
+
+There will be SIX Homework assignments posted on WeBWorK, which you must submit by the due
+
+date.
+
+These assignments will be given throughout the course which will cover the recent material discussed
+
+in lectures. These are designed to assist students in understanding the course material. They also
+
+serve as good practice for term tests, and the ﬁnal exam, as questions on these will be approximately
+
+the same level as questions on the assignments.
+
+You are expected to work on the questions assigned, and if you cannot solve a problem, you should
+
+ask your TA and/or an instructor for help.
+
+Your Homework mark will be determined by the taking the average of the best FIVE assignments.
+
+Term Tests
+
+See the course schedule below for dates, times, and location for each term test. More details about
+
+the term test will be given later. You must bring your student card. No aids will be allowed.
+
+Missing a Term Test.
+
+If you cannot show up for a test because of illness or any other special
+
+reason, you MUST contact the First Year Common Engineering Oﬃce before the time of the test or
+
+within 1 week. You MUST also submit the oﬃcial UofT medical certiﬁcate, which can be downloaded
+
+from the course website.
+
+There will be NO make-up tests. The marking scheme will be adjusted properly for students who
+
+have missed the test because of illness or any other (approved) legitimate reason.
+
+Page 2
+
+Math 187 – Calculus II
+
+Winter 2015
+
+Final Exam
+
+The ﬁnal exam will take place during the examination period in April, and will be 2h30m long. It will
+
+cover all the material presented in lectures and tutorials. No aids will be allowed.
+
+Marking Scheme
+
+Your ﬁnal grade is determined in the following way:
+
+Homework (WeBWorK – Best 5)
+
+Term Tests
+
+Final exam
+
+10 %
+
+50 %
+
+40 %
+
+100 %
+
+Class Expectations
+
+One of our main concerns is to provide you with good conditions for optimal study. Because of this
+
+reason:
+
+• We expect you to come to class on time. If you happen to be late, please take a seat without
+
+disturbing your colleagues.
+
+• We expect you to be attentive and ask questions about concepts and problems you don’t under-
+
+stand.
+
+• This is a large class: chatting with your classmates during lecture is extremely disturbing for
+
+everybody in the class; although you don’t realize it, it gets very loud. If you do disturb the
+
+class repeatedly, you will be asked to leave the class and come back when you think you can sit
+
+there quietly. Once the class starts, we expect you to interrupt any personal conversation.
+
+• Use of cell phones, laptops, iPods, and other electronic devices is not allowed. Once
+
+the class begins, you are expected to turn oﬀ any electronic device. Just pretend it’s a long
+
+take-oﬀ, or landing.
+
+Code of Behaviour / Plagiarism
+
+Students should become familiar with and are expected to adhere to the Code of Behaviour on Aca-
+
+demic Matters which can be found at:
+
+http://www.governingcouncil.utoronto.ca/policies/behaveac.htm
+
+Page 3
+
+Math 187 – Calculus II
+
+Winter 2015
+
+Course Outline
+
+The following is a rough outline of the material which will be covered.
+
+Week Dates
+
+Sections
+
+Notes
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Jan 5–9
+
+Review (6.2–6.7), 6.9 Classes begin. No tutorials this week
+
+Jan 12–16
+
+6.10–7.4
+
+Homework Assignment #1 due on Jan 15
+
+Tutorials begin this week
+
+Jan 19–23
+
+7.5–7.7
+
+Jan 26–30
+
+7.8, 8.1, 8.3
+
+Homework Assignment #2 due on Jan 29
+
+Feb 2–6
+
+Feb 9–13
+
+Feb 16–20
+
+Feb 23–27
+
+Mar 2–6
+
+Mar 9–13
+
+8.5, 9.1–9.3
+
+9.4–9.6
+
+10.1–10.2
+
+10.3–10.4
+
+11.1–11.3
+
+Term Test #1 (12-2pm on Feb 3)
+
+Homework Assignment #3 due on Feb 12
+
+No classes (Reading week)
+
+Homework Assignment #4 due on Mar 5
+
+Term Test #2 (12-2pm on Mar 10)
+
+Mar 16–20
+
+12.6–12.7
+
+Homework Assignment #5 due on Mar 19
+
+Mar 23-27
+
+12.8–12.9
+
+Mar 30–Apr 3
+
+12.9, 16.1
+
+Homework Assignment #6 due on Apr 2
+
+Apr 6–10
+
+16.2–16.4
+
+Note.
+
+Chapter 16 is available on the online version of the textbook and on the course website.
+
+Page 4
+
+

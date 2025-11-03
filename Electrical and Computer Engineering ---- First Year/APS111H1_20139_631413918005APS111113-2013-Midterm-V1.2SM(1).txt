@@ -1,0 +1,619 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS111 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Module A Coordinator: Susan McCahan 
+Midterm Examination 
+October 24, 2013 
+
+This is a 70 minute midterm. There are 35 questions on the test. It is a multiple choice 
+midterm and is closed book. No aids are permitted. Read each question thoroughly and 
+provide the answer on the answer sheet. Be sure to fill out the answer sheet clearly with 
+no overlaps. Fill out the answer sheet using a pencil. Erase any errors completely. One 
+answer  per  question  and  each  question  is  worth  1  mark.  There  is  no  deduction  for 
+wrong answers. Select the answer that best satisfies the question. You are not required 
+to hand in the exam question booklet. You may tear off the appendix to ease answering 
+of questions. 
+
+1.  Which of the following would be considered doing due diligence? 
+
+A.  Developing at least one good design alternative 
+
+B.  Researching standards that pertain to a design project 
+
+C.  Chairing a team meeting 
+
+D.  Delivering a presentation to the client 
+
+2.  Which of the following is a synonym for a design brief? 
+
+A.  Scoping document 
+
+B.  Conceptual design specification 
+
+C.  Problem statement 
+
+D.  Client statement 
+
+3.  Which of the following is a synonym for project requirements? 
+
+A.  Scoping document 
+
+B.  Conceptual design specification 
+
+C.  Problem statement 
+
+D.  Client statement 
+
+Page 1 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  The design process is iterative because: 
+
+A.  Design requires repeating phases in the process as more information is added 
+
+B.  It is not recommended that you revisit the problem definition stage once it is 
+
+finished 
+
+C.  Idea generation requires creativity 
+
+D.  The design process, like close-ended problem solving, requires checking the 
+
+solution 
+
+5.  Scoping a problem is the process of: 
+
+A.  Expanding the design space 
+
+B.  Narrowing the design space 
+
+C.  Defining the design space 
+
+D.  Organizing the design space 
+
+6.  A problem statement should be a: 
+
+A.  Complete set of requirements 
+
+B.  Succinct statement of the client’s need 
+
+C.  Clear definition of the service environment 
+
+D.  Broad description of the problem the client wants solved 
+
+7.  Free brainstorming is sometimes preferred over structured brainstorming because: 
+
+A.  It produces fewer ideas, but they tend to be higher quality 
+
+B.  It gives everyone a chance to participate 
+
+C.  It tends to produce more ideas if done well 
+
+D.  It produces a better organized list of ideas to be investigated 
+
+8.  The goal of decision making in the design process is to identify the idea: 
+
+A.  the team thinks is the best fit for the client’s need 
+
+B.  that will be the most marketable 
+
+C.  that will best fit the needs of the stakeholders 
+
+D.  that best fits the requirements 
+
+9.  Weighted decision matrix method works best for: 
+
+A.  Weighing the relative benefits and costs of the design ideas against each other. 
+
+B.  Comparing ideas against the two most important objectives in the requirements. 
+
+C.  Scoring a small number of high quality solutions to recommended a design. 
+
+D.  Reducing a large number of ideas down to a manageable number. 
+
+Page 2 of 10 
+
+ 
+Questions 10 to 14 pertain to the Team Study – Team Organization located in the 
+appendix of this exam booklet. 
+
+10. What stage of the Tuckman model best describes where this team is currently? 
+
+A.  Forming 
+
+B.  Storming 
+
+C.  Norming 
+
+D.  Organizing 
+
+11. What warning signs should Gina and Finn watch for if they are concerned that Hari 
+
+is hijacking the team? 
+
+A.  Hari becomes disengaged with the team and stops organizing meetings 
+
+B.  Hari only does the work he has been assigned to do and nothing more 
+
+C.  Hari organizes meetings that only one of them can attend 
+
+D.  Hari volunteers to edit all reports before they are submitted 
+
+12. What can Hari do to assure Gina and Finn that he is not hijacking the project? 
+
+A.  Set agendas for every team meeting 
+
+B.  Use his best judgment to assign each of the action items to the person he thinks 
+
+will best do the job 
+
+C.  Send out emails every day to remind the team of the tasks they need to do 
+
+D.  Suggest Finn or Gina be responsible for compiling and submitting team reports 
+
+13. Which of the following is a well formulated team rule for this team? 
+
+A.  Work load should be evenly distributed so everyone shares responsibility 
+
+B.  The team leader should always organize team meetings 
+
+C.  If a team member breaks a rule they should have to buy snacks for everyone  
+
+D.  The team should avoid discussion of topics that cause conflict 
+
+14. This team should probably make decisions using which of the following methods? 
+
+A.  Finn makes the decisions after consulting with the team because he is the leader 
+
+B.  Hari makes the decisions after consulting with the team because he is organized 
+
+C.  Consensus because team discussion is very important in this team 
+
+D.  Voting because making decisions quickly is important in this team 
+
+End of Questions pertaining to the Team Study - Team Organization located in the 
+appendix of this booklet. 
+
+Page 3 of 10 
+
+ 
+Questions 15 to 31 pertain to the Case Study – Rapid Thawing of Frozen Meat and Fish 
+located in the appendix of this booklet. 
+
+15. The need, or gap, in this case study can best be described as: 
+
+A.  An infra-red or microwave technology for heating meat from -18˚C to -4˚C 
+
+B.  A device for heating meat without damaging it 
+
+C.  A process for producing fresh fish or meat 
+
+D.  A method for thawing the water in a complex multiphase material 
+
+16. The primary functional basis of this design problem can best be described as: 
+
+A.  Transfer of electrical energy into meat or fish 
+
+B.  Transform ice into liquid in the meat or fish 
+
+C.  Extraction of ice from the meat or fish 
+
+D.  Sensing the temperature of meat or fish 
+
+17. A secondary function of this design problem can best be described as: 
+
+A.  Transfer of electrical energy into meat or fish 
+
+B.  Transform ice into liquid in the meat or fish 
+
+C.  Extraction of ice from the meat or fish 
+
+D.  Sensing the temperature of meat or fish 
+
+18. The best example of a benchmarking activity related to this project would be: 
+
+A.  Going to a fish market to observe how they package seafood and interviewing 
+
+the people working there to get information. 
+
+B.  Testing the defrost function on a microwave with a 500g piece of frozen meat to 
+
+observe the time it takes and the quality of the meat product produced. 
+
+C.  Taking samples of frozen meat, fresh meat and cooked meat to observe the 
+
+qualities of the product under a microscope. 
+
+D.  Researching the literature on thawing meat and denaturing of proteins. 
+
+19. If you were approaching the analysis of this case using the Black Box Method, the 
+
+outputs from the “black box” would include: 
+
+A.  Information indicating the meat is thawed  
+
+B.  Information about the starting temperature of the meat  
+
+C.  The user who will be taking the meat out of the device 
+
+D.  A refrigerator 
+
+Page 4 of 10 
+
+ 
+20. The client statement lists possible approaches to solve the problem. These can be 
+
+considered:  
+
+A.  Implied solutions 
+
+B.  Statements indicating the client’s need 
+
+C.  A list of all acceptable solutions 
+
+D.  Solution independent  
+
+21. Suppose we analyze the list of possible approaches shown in the client statement to 
+
+identify functions of the design. This method is called: 
+
+A.  Enumeration 
+
+B.  Functional basis analysis 
+
+C.  Decomposition 
+
+D.  Means analysis 
+
+22. An objective for this case study is: 
+
+A.  Have operating noise of less than 45dB 
+
+B.  Have a working life span of around 10 years 
+
+C.  Be easy to use; as few process steps as possible 
+
+D.  Increase the core temperature of meat from -18˚C to -4˚C 
+
+23. The statement which best expresses an objective goal for this case study is: 
+
+A.  Use less than 1000W of power 
+
+B.  Be easy to clean 
+
+C.  Have a working life span of around 10 years  
+
+D.  Increase the core temperature of meat from -18˚C to -4˚C 
+
+24. The statement which best expresses a constraint for this case study is: 
+
+A.  Have operating noise of less than 45dB 
+
+B.  Have little impact on appearance and color of the meat 
+
+C.  Be easy to use: as few process steps as possible 
+
+D.  Have a working life span of around 10 years 
+
+Page 5 of 10 
+
+ 
+ 
+ 
+ 
+25. The client statement indicates that the client is seeking a solution that will take up 
+
+relatively little space (i.e. “have dimensions less than 600 mm wide x 400mm high x 
+500 mm deep”). An appropriate metric for the objective “have a small volume” is: 
+
+A.  Measure the size of an existing device used for thawing meat, such as a 
+
+standard microwave 
+
+B.  Measure the inside volume of a standard domestic refrigerator 
+
+C.  Measure the size (width, height and depth) of a prototype 
+
+D.  Interview users to determine their preference for the size of device they would 
+
+like to have 
+
+26. If you were writing up a description of the service environment for this design, you 
+
+would most likely include: 
+
+A.  A list of the types of meats and seafood likely to be thawed in the device  
+
+B.  The power usage of a standard domestic refrigerator 
+
+C.  A description of the effect of denatured proteins on meat quality 
+
+D.  A description of the lighting in a typical domestic kitchen 
+
+27. When brainstorming possible solutions to this design you should: 
+
+A.  Not include the possible approaches suggested by the client 
+B.  Include only the possible approaches suggested by the client 
+
+C.  Include the possible approaches suggested by the client and add new ideas 
+
+D.  Include only original ideas that have not been tried before to be innovative 
+
+28. If you were using the decomposition method to develop solutions to this problem; 
+
+your decomposition steps would include:  
+
+A.  Substitute one part for another; Adapt existing technologies; Reverse or 
+
+rearrange the processes 
+
+B.  User indicates meat to be thawed; system thaws meat; system indicates 
+
+completion of process 
+
+C.  Meat is put into the device; user starts the process by pushing a button; user 
+
+takes the meat out of the device 
+
+D.  Analyze the functions of the design; develop possible solutions; select an idea 
+
+that meets the objectives 
+
+Page 6 of 10 
+
+ 
+ 
+ 
+ 
+ 
+29. The problem posed in the case study can best be described as: 
+
+A.  Determinate 
+
+B.  Over-determined 
+
+C.  Open-ended 
+
+D.  A sizing problem 
+
+30. For the Case Study, which of the following is a useful statement of Stakeholder, 
+
+Interest and Impact on Design: 
+
+Stakeholder 
+
+Interest 
+
+Impact 
+
+A  Restaurants 
+
+Serve food and will use this 
+device 
+
+•  Easy to use 
+•  Efficient 
+•  Low cost 
+
+B 
+
+C 
+
+D 
+
+National Health 
+Department 
+Refrigerator 
+manufacturers 
+City Health 
+Department 
+
+Keeping taxes low 
+
+Low cost 
+
+Profit 
+
+Ensuring health of whole 
+population  
+
+Proprietary information must be 
+kept secret 
+Easy for city health inspectors 
+to examine in restaurants 
+
+31. One student team wants to include the following stakeholder for the case study: 
+International Vegetarian Societies because their interest is to reduce human 
+consumption of meat and fish. The team is trying to decide whether or not to keep 
+this stakeholder. They should remove this stakeholder from their list because: 
+
+A.  The interest is not independent of the design 
+
+B.  The stakeholder would be a user 
+
+C.  Their interest has no impact on design decisions 
+
+D.  The PR should only have positive information 
+
+End of questions that pertain to the Case Study – Rapid Thawing of Frozen Meat 
+
+and Fish located in the appendix of this booklet. 
+
+32. Which of the following is a True statement: 
+
+A.  Critical thinking is a good substitute for research. 
+
+B.  Critical thinking takes bias and validity into account. 
+
+C.  Critical thinking is the same as common sense. 
+
+D.  Critical thinking is a talent, not a learned skill. 
+
+Page 7 of 10 
+
+ 
+ 
+ 
+ 
+ 
+33. A claim is a statement 
+A.  Based on facts  
+
+B.  Based on neither opinion nor fact 
+
+C.  Based on opinion  
+
+D.  Based on skeptical questions 
+
+34. Which of the following is a TRUE statement about evidence that supports a claim? 
+
+A.  You can support a claim with data that you generate scientifically. 
+
+B.  You can only support a claim with research from professional journals. 
+
+C.  You cannot support a claim with information from a personal blog or email. 
+
+D.  If you use a scientific principle to support a claim, it must have a reference. 
+
+35. A fallacy is a statement that 
+
+A.  Takes bias into account 
+
+B.  May be true but is not valid 
+
+C.  May be valid but is not true 
+
+D.  May not meet requirements 
+
+There are no questions beyond this point. 
+
+Page 8 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A: Written Sources 
+
+There are no questions in this appendix. You may detach this appendix for ease of 
+answering the questions that pertain to the Team Study and Case Study. 
+
+A.1 - Team Study – Team Organization 
+
+The team of Finn, Gina, and Hari has been working together on a design project.  Finn 
+was chosen to be the team leader. However, after a few weeks it became clear that Hari 
+was more organized so he has taken over arranging team meetings and keeping the 
+project on track. At first this caused some difficulty and conflict in the team, but now it 
+seems to be working out well. Gina and Finn still have some concerns that Hari was 
+trying to hijack the team. However, they appreciate the quality of organization he has 
+brought to their project. 
+
+A.2 - Case Study – Rapid Thawing of Frozen Meat and Fish 
+
+(Taken from a NineSigma project with minor modifications) 
+
+BACKGROUND  
+NineSigma’s client is a global market leader in household appliances with research, 
+development, manufacturing and sales operations in many countries. The client 
+develops and manufactures domestic and industrial refrigerators and freezers.  
+
+Customers use freezers as a means to preserve foods and provide convenience in food 
+storage. Meat and fish stored in a freezer is typically thawed or defrosted prior to use in 
+cooking. A common method of thawing is leaving the product at room temperature or 
+within the refrigerator for long periods (e.g. 2-24 hours). Customers have indicated that 
+they wish to reduce the time taken to thaw frozen products.  
+
+Many red meat proteins begin to denature and change colour/structure at temperatures 
+above approximately 38˚C, whilst fish proteins can denature at temperatures above 
+20˚C. This results in faster methods, such as the use of a microwave oven or a warm 
+water bath, negatively affecting the appearance, texture or taste of the thawed meat and 
+fish.  
+
+NineSigma’s client seeks technologies or approaches to enable the rapid thawing of 
+frozen meat/fish without compromising product appearance, taste, texture or nutrition.  
+
+Page 9 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REQUEST FOR PROPOSAL DESCRIPTION  
+NineSigma, representing a global developer and manufacturer of refrigerators and 
+freezers, invites proposals for new technologies or approaches to enable the rapid 
+thawing of frozen food products without compromising product appearance, taste, 
+texture or nutrition.  
+
+A typical domestic refrigerator has an interior temperature of approximately 4˚C. 
+
+The successful technology will:  
+
+• 
+
+Increase the core temperature of a 500g portion of meat or fish from -18˚C to -
+4˚C within 30 minutes maximum. 
+
+•  Be suitable for integration within a domestic refrigerator or freezer  
+•  Have little or no impact on appearance, taste, texture, nutrition, and color of the 
+
+meat 
+
+•  Be easy to use with few process steps  
+•  Be easy to clean  
+•  have a working life span of around 10 years  
+•  have dimensions less than 600 mm wide x 400mm high x 500 mm deep  
+•  use less than 1000W of power (absolute maximum) 
+•  Have operating noise of less than 45dB (absolute maximum) 
+•  Have a unit cost of less than US$50 at volumes of 3 million units per year  
+•  Meet all relevant regulations and standards for marketing in North America 
+
+POSSIBLE APPROACHES  
+Possible approaches might include, but are not limited to:  
+
+•  Pressure assisted thawing  
+•  Far-infrared  
+•  Air blast thawing  
+•  Vacuum thawing  
+•  Electrical resistance heating  
+•  Microwave technology  
+
+APPROACHES NOT OF INTEREST  
+The following approaches are not of interest:  
+
+•  Technologies that are harmful to humans  
+•  Technologies that generate harmful substances  
+•  Technologies not suitable for use in domestic appliances  
+
+Page 10 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

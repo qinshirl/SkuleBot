@@ -1,0 +1,238 @@
+FA 
+
+University of Toronto - Engineering 
+
+MIE100S - Applied Mechanics: Dynamics 
+Final Examination - April 2017 
+Exam length: 150 minutes 
+
+Instructors: 
+
+A.N. Sinclair 
+L.A. Sinclair 
+P. Sullivan 
+L. You 
+E. Young 
+
+General Instructions: 
+
+Answer all questions in the CrowdMark booklet provided. 
+All rough work must be neatly shown to earn credit for each question. 
+You must use a pen or dark pencil. 
+Answer all questions. Total marks on this exam = 100. 
+For yourfinal answers, express vector quantities using the coordinate system specified in the 
+question. 
+
+This is a Type D examination. Permitted Aids: 
+
+Non-communicating/non-programmable calculator, such as Casio FX-991 or Sharp EL-520 
+One 8  '/2"  x 11" aid sheet, any colour and format, brought to the test by the student. You may 
+write on both sides of the sheet. 
+
+Page 1 of seven pages 
+
+A wheel of radius R = 0.4 meters rolls to the right on the ground without slipping. At time t=0, 
+the angular velocity of the wheel is w = 3 radians/second. The angular acceleration of the 
+wheel is a function of the angular velocity, and is given by a = 4w. (All variables are in SI 
+units). 
+A thin bar BD of length 1.8 meters is pinned at one end to the edge of the wheel; the other end 
+of the bar drags along the ground. At time t=0, point D is at the position shown in the diagram, 
+point M is at the top of the wheel. 
+
+6  1 (a) Determine the acceleration of point M at time t=0. Express your final answer in 
+
+normal-tangential coordinates. 
+
+1(b) Find the angular velocity w of the bar at time t0. 
+
+6 
+
+(c) What will be the angular velocity w of the wheel when 
+it has rotated 180 degrees from the position shown? 
+(Hint: wdw= adO) 
+
+y1
+
+x 
+
+I 
+
+A uniform flat disk "A" of mass MA = 3.5 kg hits a stationary ring "B" of mass mB  = 0.8 kg in 
+a perfectly elastic collision.  Both rigid bodies have zero angular velocity just before and after 
+the collision. The coefficients of friction between the ground and rigid bodies are: ,u  = 0.3 and 
+0.25.  If (i)G  = 4.0 1 m/s before the collision, determine the velocity of the center of 
+
+mass of each body immediately after the collision. 
+
+Before Impact 
+
+During Impact 
+
++ 
+
+so 
+
+Disk 
+
+Ring 
+
+Disk A 
+
+Ring B 
+
+'g=9.81 mis2  
+
+Page 2 of seven pages 
+
+ 
+3.  A uniform flat disk "A" of mass m  = 3.5 kg and radius R = 1.3 m is initially at rest at the top 
+of a hill. The spring with k = 900 N/rn has a relaxed, undeformed length lo  = 0.8 m, but has 
+been compressed to a length 1 = 0.5 in, as shown in the diagram. Note that the spring is not 
+attached to the disk. 
+
+____  The spring is released, (i. e.  it returns to its relaxed length), and this causes the disk to roll down 
+8 
+
+the hill and eventually reach a flat surface. The entire surface has p, = 0.3 and /.tk  0.25. 
+Assume the disk rolls down the hill without slip. Determine the disk's angular velocity w and 
+velocity of the centre of mass G, ()G  when it reaches the bottom of the hill. 
+
+l=O.5m 
+
+1) 
+
+x 
+
+T-1 
+
+4. At time t=0, a ring "B" is translating on the ground with ()G = 2.41 m/s and no angular 
+velocity (i.e., it is slipping on the surface). How much time does it take for the ring to stop 
+slipping, and begin to roll without slipping? The coefficients of friction between the ground 
+and rigid bodies are: p, = 0.3 and  uk = 0.25.  The ring "B" has mass mB = 0.8 kg, 
+radius R = 0.95 in, and radius of gyration with respect to the center of mass kc, = 0.9 meters. 
+
+1=0 
+
+I  =11 
+
+(i)= 2.4 ns 
+
+((I- 
+
+Starts to roll without slip 
+
+yx 
+
+g=9.81 mis2  
+
+Initially slipping, 
+with w = 0. 
+
+Page 3 of seven pages 
+
+5.  A uniform half-disk of mass m = 10 kg and radius R =  3 meters is on the ground and is 
+
+released from rest at the position shown. 
+OG = 4R137t  , where "OG" is the distance from point "0" to point "G". 
+'G=  0.320 mR2, where "G" is the center of mass of the half-disk 
+
+4 
+
+(a) Draw a free body diagram of the disk. Clearly indicate the direction of all forces acting on the 
+
+_____ 
+
+I 8 J (b) Find the minimum value of jts  for which the half-disk starts to roll on the ground without 
+
+disk. 
+
+slipping. 
+
+8 
+
+j (c) Find the initial acceleration of point B if the half-disk starts to roll 
+
+on the ground without slipping. 
+
+B 
+
+81 mIs2  
+
+6. A bar is pinned at one end at point "0", such that it can rotate about a horizontal axis passing 
+through "0" as shown in the diagram. A small motor at point "0" forces the bar to have a 
+constant angular velocity of w = 3 radians/second. As the bar passes the position 0 = 0, a small 
+block B of mass 0.1 kg is placed on the bar at a distance of 0.45 meters from "0". 
+The mass starts to slip on the bar when 0 reaches 50 degrees. Determine the value of the 
+
+F-81  coefficient of static friction k  between B and the bar. 
+
+0.45 m 
+
+g = 9.81 mIs2  
+
+/// 
+
+Page 4 of seven pages 
+
+7. A bar is pinned at one end at point "0", such that it can rotate about a horizontal axis passing 
+through "0" as shown in the diagram. A motor at point "0" controls the angular velocity of 
+the bar. The motor forces the bar to have an angular velocity of  U)  = 3 radians/second as the 
+bar passes the position 0 = 0, and forces co  to increase at a constant rate of 
+1.9 radians/second2. As the bar passes the position 0 = 0, a small block W of mass 0.1 kg is 
+placed on the bar at a distance of 0.45 meters from "0". The coefficient of static friction 
+between W and the bar is equal to p.  0.60. 
+
+F___  Draw a free body diagram of block W when 0 is equal to 35 degrees. Indicate the direction of 
+
+each force on the free body diagram, and determine the magnitude of each force. (You may 
+assume that block B is not slipping). 
+
+I 
+
+t'  g9.81n 
+
+Page 5  of seven pages 
+
+8.  The system shown consists of a spring, pulley and long slender rod of length L = 5  meters and 
+mass m = 3 kg. There is a spring with stiffness k = 250 N/rn attached to the rod as shown in 
+the diagram. The rope is being pulled by a force F(t). 
+
+Ignore the mass of the pulleys. Assume that the system is in static equilibrium when the bar is 
+horizontal (0 = 0) and F(t) = 0. Assume that the rope does not stretch and it does not go slack. 
+Assume that oscillation amplitudes are very small. 
+
+4 
+
+(a) Determine the amount of compression or extension of the spring, under static conditions 
+
+(b) 
+
+when 0 =0 and F(t) 0. 
+If F(t) =10 sin(21t), determine the maximum angular deflection Omax  of the rod under 
+steady state conditions. All quantities are expressed in SI units 
+
+F(t) 
+
+Page 6 of seven pages 
+
+9.  A pendulum consists of a small sphere B of mass 10 kg, attached to a bar in the shape of a "T" 
+
+which is pinned at 0 and has negligible mass. The T-shaped bar is composed of a horizontal bar of 
+length 4 meters, welded to one vertical bar of length 2 meters. The horizontal bar is connected to 
+two ceiling supports by two identical springs of stiffness k= 155 N/m, and two dashpots (dampers) 
+. The springs are relaxed, and the angular orientation 0 of the bar is zero 
+of strength c = 20 
+when the vertical bar hangs straight down and sphere B is aligned directly under the pin at 0 as 
+shown in the diagram. 
+
+= (a) What is the equation of motion of this system for its angular rotation 0? 
+
+(b) What dashpot value, c, would make the system critically damped? 
+
+100 marks total for exam 
+
+dashpots 
+
+Page 7 of seven pages 
+
+

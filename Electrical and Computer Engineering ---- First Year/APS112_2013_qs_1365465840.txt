@@ -1,0 +1,323 @@
+Name:________________________________ 
+
+  Student #:________________________ 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice II 
+
+Quiz #1 February 15, 2013 
+
+This is a 50-minute closed-book quiz. No aids are permitted except for a translation-only 
+dictionary. The quiz has a total of 22 questions. There are 16 multiple choice questions and 6 
+written answer questions. There are a total of 30 marks with 16 marks for the multiple choice 
+questions and 14 marks for the written questions.  
+
+Your question paper, with your name and student number filled in on each page, must be 
+returned with the multiple choice answer sheet slipped inside. Do not separate any pages. 
+
+Good Luck! 
+
+Multiple Choice Questions (1 mark each; total of 16 marks) 
+For multiple choice questions, you must use the multiple choice answer sheet provided. Follow 
+the directions on the sheet carefully to ensure that you receive marks for the correct answer. You 
+should mark only the single, most correct answer for each question. Always mark the answer 
+in the spot corresponding to the question number. Use a pencil. Erase any errors completely. 
+There is no deduction for wrong answers. 
+
+APS112 & APS113 – Quiz #1 – 2013 
+
+Page 1 of 6 
+
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+Questions 1 to 5 relate to a project “Building a wagon” such as in the picture and the Gantt chart shown. 
+The Gantt chart is not completely finished or correct. 
+
+1.  How many people (minimum) must be working at the 
+
+same time for this Gantt chart to be correct? 
+
+a.  1 
+b.  2 
+c.  3 
+d.  4 
+
+2.  Task #4, “Build Axles,” is NOT a predecessor of any task, which is an error. It should be a 
+
+predecessor of task 5, “Mount axles.” When this relationship is put into the graph, how many 
+extra hours will it push out the end of the project? 
+
+a.  0 (There will be no change in the timing of the end of the project if this is done) 
+b.  1 
+c.  2 
+d.  3 
+
+3.  Task #5 has as its predecessor entry “6FS+4 hrs”. This means 
+
+a.  Task #5 must be done within 4 hours of the end of task #6 
+b.  Task #5 must start within 4 hours of the end of task #6 
+c.  Task #5 must be done after a 4 hour wait from the end of task #6 
+d.  No tasks can take place for 4 hours after the end of task #5 
+
+4.  To allow for the paint to dry we would 
+
+a.  Assign a resource called “drying time” and assign it a task “paint dry” 
+b. 
+c. 
+d. 
+
+Indicate a lag before any following task in hours 
+Indicate a lag before any following task in elapsed hours 
+Indicate a lag for the task of painting 
+
+5.  Which of the following is FALSE: 
+
+a.  The critical path has all the important tasks on it. 
+b.  Milestones have no duration. 
+c.  Gateways are decision points in the project where a project could be cancelled. 
+d.  An “Activity on the arrow” Pert chart sometimes requires dummy tasks. 
+
+APS112 & APS113 – Quiz #1 – 2013 
+
+Page 2 of 6 
+
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+6.  Which is NOT an acceptable outcome of the solution selection stage? 
+
+a.  No solution available. Cancel project. 
+b.  One recommended solution. Proceed with final design. 
+c.  Combine solutions to create a composite solution. Iterate. 
+d.  Combine solutions to create a composite solution. Proceed with final design. 
+
+7.  Which is the most appropriate decision making tool to first start narrowing the design space? 
+
+a.  Weighted Decision Matrix 
+b.  Statistical Risk Analysis 
+c.  Pugh Method 
+d.  Multi-Voting 
+
+8. 
+
+If the functional basis of a project is the recovery of information, which is the most appropriate 
+primary function? 
+
+a.  Get information from damaged hard drives 
+b.  Filter noise from signals 
+c.  Will follow HTML 5 standards 
+d.  Mine information 
+
+9.  The list first generated in a functional decomposition of a bagel slicer would look like: 
+
+a.  Secure bagel, separate bagel length-wise, release bagel 
+b.  Knives, chop saws, water jet cutters, laser cutters 
+c.  Safe, easy to clean, inexpensive 
+d.  Brainstorming, analogy, morph chart 
+
+10. The It Can Wait campaign by AT&T attempts to dissuade 
+
+teenagers from texting while driving. From a Design for 
+Safety perspective this is an attempt to reduce: 
+
+a. 
+Ignorance 
+b.  Law suits 
+c.  Hazards 
+d.  Risks 
+
+11. Which safer design principle should you first attempt? 
+
+a.  Avoid / eliminate the hazards 
+b.  Substitute safer materials 
+c.  Protect against hazards 
+d.  Train to avoid hazards 
+
+APS112 & APS113 – Quiz #1 – 2013 
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+12. Which is not a Design for Safety guideline: 
+Include a safety factor 
+Include a failsafe 
+
+a. 
+b. 
+c.  Guard against unavoidable hazards 
+d.  Require multiple operators 
+
+13. An appropriate time to do a ballpark estimation instead of a more exact calculation? 
+
+a.  Not in the engineer’s area of expertise 
+b.  Verification of a computer model 
+c.  To avoid violating a patent 
+d. 
+
+In order to do a Dimensional Analysis 
+
+14. What is NOT an information gathering input into the PRPMP? 
+
+a.  Direct research 
+b.  Convergence 
+c. 
+d.  Expertise 
+
+Indirect research 
+
+15. A purpose of the PRPMP is to? 
+
+a.  Recommend a design solution 
+b.  Meet the client 
+c.  Define criteria on which to evaluate solutions 
+d.  Complete project research 
+
+16. Regarding the PRPMP, which of the following is TRUE? 
+
+a.  The Service Environment details how the design will operate within the environment. 
+b.  The Executive Summary contains all the basic information of the report. 
+c.  With functions avoid verbs and instead formulate as results. 
+d.  The Identification of Stakeholders details the stakeholder’s interest in the design. 
+
+APS112 & APS113 – Quiz #1 – 2013 
+
+Page 4 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+Written Answer (marks per question as indicated on question; 14 marks total) 
+
+Write answers into the spaces provided on the question paper. 
+
+Client Statement #1 (Questions 17-22) 
+I use a motorized wheelchair (see figure 1) to get from my car 
+to the baseball diamond to watch my daughter’s baseball 
+games. Some of the parks where the games are played do not 
+have paved access from the street to the diamonds. Often I 
+have to try to cross grass and sometimes mud using my 
+wheelchair to get to the baseball diamond. More than once I 
+have gotten stuck in a dip in the grass or in some mud. Once I 
+even tipped over. I need you to redesign my wheelchair to increase its motor to 300 horsepower 
+to keep me from getting stuck. The motor must be mounted on the bottom of the chair to keep the 
+center of mass low and keep me from tipping over. The structure of the chair will need to be 
+strengthened to handle the additional weight of the motor and the torque it will apply when 
+running. Titanium is stronger than steel and so you can use less of it so it will save money. Please 
+use tricks like this to keep costs low. Try to keep the new chair from costing more than my 
+existing chair. I want mud flaps to keep me clean if I go through a puddle, and a drink holder.  
+
+17. (2 mark) The functional basis for this project is: 
+
+18. (2 marks) What is the purpose of defining the functional basis at the start of a project? 
+
+19. (2 mark) Give one stakeholder and state their interest. 
+
+20. (3 marks) Give one primary function, one objective and one constraint for the project. 
+
+Primary Function:  
+
+Objective:  
+
+Constraint:  
+
+APS112 & APS113 – Quiz #1 – 2013 
+
+Page 5 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+21. (3 Marks) Use the Pugh method to select which of these three alternatives methods for 
+opening a bottle of root beer best meets the following objectives (show your work):  
+
+•  Minimal training 
+•  Safe 
+• 
+
+Inexpensive 
+
+Bottle opener 
+
+Spoon 
+
+Chainsaw 
+
+The alternative that best meets the stated objectives is 
+
+because 
+
+. 
+
+22. (2 marks) In general explain a limitation of the Pugh method. 
+
+APS112 & APS113 – Quiz #1 – 2013 
+
+Page 6 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

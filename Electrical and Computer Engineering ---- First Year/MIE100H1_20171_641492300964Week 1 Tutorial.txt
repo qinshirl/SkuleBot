@@ -1,0 +1,34 @@
+MIE100S – Winter 2017 
+Tutorial Problem 01a 
+
+A freighter is moving at 4 m/s. After the engines are shut off, it decelerates proportionally with the square 
+of the velocity: i.e. a=-kυ2 . If it takes 10 minutes to reduce its speed to 2 m/s find the distance travelled in 
+those 10 minutes and its speed as a function of time during the interval. 
+
+MIE100S – Winter 2017  
+Tutorial Problem 01a-Solution 
+
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 01b 
+
+At the instant shown, slider block B is moving with a constant acceleration, and its speed is 180 mm/s. 
+After slider block A is moved 240 mm to the right, its velocity is 60 mm/s. 
+
+a)  Determine the accelerations of A and B. 
+b)  Determine the velocity and the change in position of slider block B after 4 s. 
+
+AB 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 01b-Solution 
+
+ABxAxB+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+

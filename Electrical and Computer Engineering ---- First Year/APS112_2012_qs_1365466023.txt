@@ -1,0 +1,457 @@
+Name:________________________________   Student #: _________________________ 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice II 
+
+Quiz #2 April 13, 2012 
+
+This is a 50-minute closed-book quiz. No aids are permitted except for a translation-only 
+dictionary. The quiz has a total of 25 questions. There are 18 multiple choice questions and 7 
+written answer questions. There are a total of 33 marks with 18 marks for the multiple choice 
+questions and 15 marks for the written questions.  
+
+Your question paper, with your name and student number filled in on each page, must be 
+returned with the multiple choice answer sheet slipped inside.  
+
+Good Luck! 
+
+Written Answer Mark Breakdown 
+
+Marks 
+
+Question 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+
+Possible Marks 
+3 
+3 
+1 
+1 
+2 
+2 
+3 
+
+Page 1 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+Multiple Choice Questions (1 mark each; total of 18 marks) 
+For multiple choice questions, you must use the multiple choice answer sheet provided. Follow 
+the directions on the sheet carefully to ensure that you receive marks for the correct answer. You 
+should mark only the single, most correct answer for each question. Always mark the answer 
+in the spot corresponding to the question number. Use a pencil. Erase any errors completely. 
+There is no deduction for wrong answers. 
+
+1.   Which of the following statements is TRUE? 
+
+a)  A risk and a hazard mean essentially the same thing. 
+b)  A safe design must have all hazards completely eliminated. 
+c)  Safety is best considered once key design decisions are made, since you must know what 
+
+hazards you are dealing with. 
+
+d)  Society’s tolerance for risk is decreasing over time. 
+e)  Society will tolerate more risk when many people are simultaneously exposed to a 
+
+hazard. 
+
+2.  Which of the following items is NOT considered to be intellectual property that can be 
+
+formally protected? 
+a)  A musical composition. 
+b)  A book. 
+c)  A newly discovered law of nature. 
+d)  A new and non-obvious device for measuring pressure in a tire. 
+e)  A unique symbol or image associated with a particular company. 
+
+3.  A manufacturer of expensive electronic LED light bulbs decides to implement a quantitative 
+
+reliability engineering program. He is planning to: 
+a)  Measure the failure rate under standard testing conditions so that he can make estimates 
+
+of the distribution of failure rates in service and can estimate his warranty costs. 
+b)  Increase the lifetime of the electronics by choosing higher quality components.  
+c)  Extend the warranty coverage so that consumers can be certain of a minimum useful 
+
+service life. 
+
+d)  Survey the customers to ensure that the bulbs are providing the type of light required by 
+
+consumers. 
+
+e)  Include a redundant system to enhance the reliability of the product.  
+
+Page 2 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+4.  The MAIN reason that the rope and washer water pump (i.e. elephant pump) is a good 
+
+choice for the developing world is because it is: (More than one answer is correct. You need 
+to choose the most important answer.) 
+a)  Inexpensive to make 
+b)  Made from non-toxic materials 
+c)  Easy to maintain with local materials 
+d)  Protected by patent and therefore profitable for the manufacturer 
+e)  More efficient (i.e. uses less energy)  
+
+5.  A thermostat regulates the circulation of coolant in an engine that would overheat without 
+
+the coolant. It was designed to be a failsafe component. This means that it: 
+a)  Has been designed to applicable codes so that if it does fail, there is no liability for the 
+
+designer. 
+
+b)  Has been over-designed so that the probability of failure is less that 0.5% over the design 
+
+lifetime of the engine. 
+
+c)  Will fail open so that the coolant will still be circulating after failure. 
+d)  Fails in a controlled way so that it can be repaired after failure. 
+e)  A failure mode analysis has been conducted on the product. 
+
+Questions 6 through 8 follow from the statement:  
+
+A pump manufacturer is introducing a new piston pump for chemical plants, and is hoping to 
+sell many units to plant maintenance engineers as replacements for the originals.  
+
+6.  Which of the following would NOT be important? 
+
+a)  The industrial design. 
+b)  Design for manufacturing. 
+c)  Design for assembly. 
+d)  Design for reliability. 
+e)  None of the above.  a) to d) are all important. 
+
+7.  The manufacturing facility is to be located in China with a mostly manual assembly. Which 
+
+of the following is most TRUE? 
+a)  All the screws in the pump should be accessed with a single tool for ease of assembly and 
+
+repair. 
+
+b)  All parts should be custom designed for optimal functionality. 
+c)  Pump should be designed for easy upgrade to automated assembly. 
+d)  Assembly instructions should be language independent (graphic-based). 
+e)  Pump should ship with a set of replacement parts. 
+
+Page 3 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+8.  The manufacturer has protected their Intellectual Property because they have: 
+
+a)  Filed a global Utility Patent on the pump design. 
+b)  Filed a Design Patent on the unique functionality of the pump. 
+c)  Publically disclosed the design documents of the pump. 
+d)  Filed for a Trademark on the pump design. 
+e)  None of the above.  a) to d) would not provide any IP protection. 
+
+9.  In a F.A.S.T. diagram for a travel mug (See Figure 1), what is 
+
+likely the basic function?  
+a)  Provide lid to keep liquid from splashing 
+b)  Keep user from burning self 
+c)  Contain liquid in cylinder 
+d)  Provide handle 
+e)  Insulate liquid 
+
+10. In a F.A.S.T. for the travel mug (See Figure 1) what is a provided 
+
+function? 
+a)  Hot liquid 
+b)  Orientation of mug when drinking 
+c)  A circular recess in the car to hold the mug 
+d)  $1.79 for the coffee 
+e)  None of the above 
+
+Figure 1 - Travel Coffee Mug 
+
+11. A House of Quality is: 
+
+a)  A list of safety and reliability objectives for a design. 
+b)  The main section of the Ontario Building Code. 
+c)  A statistical method of quantitatively measuring product quality. 
+d)  A representation of the relationships, values, and tradeoffs of design elements. 
+e)  Any home built by UofT civil engineers. 
+
+12. Which is NOT a method of risk management (as presented in lectures)? 
+
+a)  Reduce 
+b)  Eliminate 
+c)  Postpone 
+d)  Insure 
+e)  Pass on 
+
+Page 4 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+13. Which of the following is FALSE? 
+
+a)  The extremes of project monitoring are doing none of it and micromanaging (and both 
+
+should be avoided). 
+
+b)  The 4 hour house (in lecture video) is fast tracked. 
+c)  Project Closure includes self-evaluation of performance during the project. 
+d)  Direct costs would include the cost of parts for a project. 
+e)  Using someone else’s iClicker is an academic offence. 
+
+14. Which of the following are the “engineering mantra” and also indicate the tradeoffs if a 
+
+project is in trouble as discussed in the Project Management lectures? 
+a)  Works – On time – On budget 
+b)  Labour – Management – Parts 
+c)  Direct Costs – Indirect Costs – Overhead 
+d)  Loans – Shareholder Input – Profit 
+e)  Purchase quantity – Inventory – Spoilage 
+
+15. Which of the following is NOT a way of evaluating the validity of a research source?  
+
+a)  Number of hits 
+b)  Bias 
+c)  Expertise 
+d)  Purpose 
+e)  Intended audience 
+
+Questions 16 through 18 are regarding Case Study #1.  
+
+Case Study #1 
+From a materials’ point of view, the Boeing 787 Dreamliner represents an enormous advance in 
+aircraft design and manufacturing. Its use of structural composites is more comprehensive than 
+any other previous commercial aircraft. Its immediate predecessor, the Boeing 777 is 9% 
+composites by weight, compared to 50% for the Boeing 787. The epoxy/carbon fiber matrices in 
+the new aircraft are intended to reduce weight, allowing fuel savings and extended flying range. 
+[1] 
+
+Introducing the new technology created three key challenges: 
+
+•  Having 50% of the primary structure of the aircraft – including the fuselage and wing – 
+
+made of composites represented a manufacturing challenge. [2] No one ever attempted to 
+mass produce very large carbon-reinforced plastic structures, which are thermoset 
+materials with significantly slower processing times than thermoplastics,  
+
+•  The critical tooling for such large sections was only in the development stage and, 
+
+therefore, represented a source of delay in the project development plan,  
+
+Page 5 of 9 
+
+    
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+•  New coatings had to be developed to deal with the crack propagation issues, which are 
+
+not a factor with aluminum. [1] 
+
+On the other hand, a lot was known about composites. “When we made the decision on 
+composites’ use in the wings, fuselage, floor beams and so on, we went down a path based on a 
+material that we had already had a significant amount of production experience with (in the 
+Boeing 777),” says Dr. Alan G. Miller, director of technology integration on the 787 and former 
+chief engineer for all materials technology at Boeing. “We knew the things like dimensional 
+stability. We knew how composites impacted the manufacturing flows. We had a lot of design 
+allowables databases. We had a lot of confidence from our customers.” [1] 
+
+References 
+
+[1] D. Smock, "Boeing 787 Dreamliner Represents Composites Revolution," 6 April 2007. 
+[Online]. Available: 
+http://www.designnews.com/document.asp?doc_id=226256&dfpPParams=ind_183,aid_226256
+&dfpLayout=article. [Accessed 10 April 2012]. 
+
+[2] B. Lu & N. Wang, "The Boeing 787 Dreamliner – Designing an Aircraft for the Future," 1 
+January 1970. [Online]. Available: http://www.jyi.org/features/ft.php?id=3610. [Accessed 10 
+April 2012]. 
+
+16. In considering the design of the Boeing 787 from multiple perspectives, which of the 
+
+following statements gives the most useful information about how the design will affect 
+stakeholder’s interests? 
+a)  Airlines – interested in cheaper aircraft and higher profit 
+b)  Passengers – interested in safety while on board the aircraft 
+c)  Manufacturer of composite materials – interested in contributing to society through 
+
+innovation 
+
+d)  Environmental NGOs – interested in reducing emissions from aircraft 
+e)  Airport managers – interested in maintaining runways and not building new ones for 
+
+larger aircraft 
+
+17. What is one “gap” Boeing was trying to address? 
+
+a)  Number of passengers is too low 
+b)  Too many aircraft at airports 
+c)  Cost of airfare is becoming too high 
+d)  Cost of fuel is becoming too high 
+e)  Too many old aircraft are being used 
+
+Page 6 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+18. Generally speaking, when Boeing committed to a materials solution for their new aircraft, 
+
+they should have considered the best balance of the needs of: 
+a)  Society, passengers and airlines 
+b)  Environment, manufacturers and users 
+c)  Client, environment and society 
+d)  Client, airports and research 
+e)  Airlines, environment and government 
+
+Written Answer Questions (marks as indicated; total of 15 marks) 
+
+19. Hazards are often associated with energy release. Identify 3 DIFFERENT types of stored 
+energy and for each one, give an example of a common hazard that could be found in your 
+home. [3 marks] 
+
+20. A successful design incorporates materials that are stiff and strong enough. Even so, several 
+material failure modes only appear with time and might cause eventual failure. List 3 such 
+modes. [3 marks] 
+
+21. What is the main difference between engineering design and industrial design? [1 mark] 
+
+22. In one sentence, explain how the existence of patent protection promotes innovation. [1 
+
+mark] 
+
+Page 7 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+Questions 23 to 25 are regarding Case Study #2.  
+
+Case Study #2 
+A simple crane is to be used to haul 2000 kg loads 
+from the ground to the top of a 30 story apartment 
+building. The cable is unwound from a spool at the 
+back of the crane and must reach the ground from 
+the top (See Figure 2). 
+
+Note: For steel: Failure stress ~ 400 MPa, Density ~ 
+7900 kg/m^3. Stress = Force/Area. 
+
+23. What design for safety consideration would be 
+
+used to ensure that the cable or crane did not fail (snap!) in service? [2 marks] 
+
+Figure 2 - Crane 
+
+24. The crane operator sits at the very top of the crane. Can the hazard (workers on ground being 
+hit by the swinging bucket) be eliminated? How else would you keep the workers on the 
+ground kept safe when the load is being lifted? [2 marks] 
+
+Page 8 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________   Student #: _________________________ 
+
+25. Estimate how much the steel cable will weigh, so that you know how big a truck is needed 
+to bring the cable to the building site. You must provide a specific numerical estimate using 
+a Fermi or “Back of the Envelope” type calculation. Show the various steps used in the 
+estimation. You must use the data for steel provided. [3 marks] 
+
+Page 9 of 9 
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

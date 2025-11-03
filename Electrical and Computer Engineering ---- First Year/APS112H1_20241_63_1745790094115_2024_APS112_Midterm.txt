@@ -1,0 +1,879 @@
+UNIVERSITY OF TORONTO 
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+APS112 TERM TEST – March 26th 1:30pm-2:30pm 
+60 Minutes.  15% of APS112 Grade. 
+
+INSTRUCTORS:  T. Kosteski, B. Kinsella, T. Nolan, C. Runke, R. Khan, J. Bazylak 
+
+------------------CROWDMARK ID BOX WILL GO HERE------------------ 
+
+------------------CROWDMARK ID BOX WILL GO HERE------------------ 
+
+------------------CROWDMARK ID BOX WILL GO HERE------------------ 
+
+------------------CROWDMARK ID BOX WILL GO HERE------------------ 
+
+------------------CROWDMARK ID BOX WILL GO HERE------------------ 
+
+**DO NOT REMOVE THE STAPLE** 
+
+Do not begin this test unless asked to do so.  Do not continue writing once the 
+time is complete.  Disregarding these rules will constitute an academic violation.  
+No unauthorized aids. 
+
+PLEASE WRITE CLEARLY AND LEGIBLY 
+
+●  Students are wholly responsible for the content and quality of this submission.  
+●  Do not separate the pages. 
+●  This is an independent, closed-book assessment. 
+●  Use a pencil or a pen (pencil is recommended in case you make errors). 
+●  No aids permitted other than a paper translation-only dictionary (i.e. direct word-
+
+to-word translations; no definitions.) 
+
+●  Students must input answers on the separate bubble sheet at the end of the 
+exam to be graded.  Any other work will not be graded (no exceptions).  
+●  Be sure to fill out the bubble page clearly and darkly with no overlaps.  
+●  Provide only the single, most correct answer for each question. 
+
+Time allotted:  60min 
+
+Type 
+
+Multiple Choice 
+
+Total 
+
+Maximum Marks 
+30 marks 
+(1 mark per question, 30 questions) 
+30 
+
+Page 1 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(THIS PAGE IS NOT GRADED AND CAN BE USED FOR ROUGH 
+NOTES) 
+
+YOU CAN DO THIS. 
+
+Page 2 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instructions: Students MUST write their correct response on the final page of the test (the 
+“bubble sheet”) for their grade to be valid.  Do not write your answer on this question sheet as it 
+will not be graded.  The teaching team is not responsible for students failing to do this. 
+
+Please review the question(s) carefully and submit only one (1) most-correct response.  
+Each correct response is worth one (1) mark.  
+
+ALL QUESTIONS MUST BE ANSWERED ON THE BUBBLE 
+SHEET ATTACHED TO THE END OF THIS TEST PACKAGE 
+
+1. 
+
+In an ESP Status Report, the person responsible for a task must: 
+
+a.  Complete the task by the due date. 
+
+b.  Inform the Project Manager if the task is delayed. 
+
+c.  Perform duties required to complete the task. 
+
+d.  Be held accountable for the outcome of the task. 
+
+2. 
+
+An ESP Status Report is improper if: 
+
+a.  A task has multiple predecessor tasks. 
+
+b.  A new task is created without an associated predecessor task. 
+
+c.  There are no strategies to address team issues. 
+
+d.  It contains delayed tasks that were described, but not completed, in a previous 
+
+status report. 
+
+3. 
+
+An Engineering Notebook: 
+
+a.  Communicates the results of a failed experiment to other engineers. 
+
+b.  Can be used as evidence to prevent a competitor from using your trade 
+
+secret. 
+
+c.  Can be used as evidence in applying for a Canadian patent to prove that you 
+
+were first to invent.  
+
+d.  Is dynamic and information can be added or deleted over time. 
+
+4. 
+
+Reverse Engineering can be: 
+
+a.  Only used by a person qualified in the appropriate field of engineering. 
+
+b.  Only done on products that do not contain any patented items. 
+
+c.  Used by a person qualified in the appropriate field of engineering to gain 
+
+knowledge of a product. 
+
+d.  Used by any person to gain knowledge of a product. 
+
+5. 
+
+A reasonable estimation is achieved when:  
+
+a.  Assumptions are insensitive to the data. 
+
+b.  Every detail of the problem is understood. 
+
+c. 
+
+Imprecise data is excluded. 
+
+d.  A precise model is used. 
+
+Page 3 of 14 
+
+ 
+ 
+ 
+6. 
+
+Which would be best for a team to describe their planning and progress in a DRG 
+presentation? 
+
+a.  A checklist of all tasks 
+
+b.  A detailed Gantt chart with all tasks 
+
+c.  A checklist of milestones 
+
+d.  A timeline of all tasks, meetings, and deliverables 
+
+Table 1: Risk Management Matrix – Seeing Clearly Optics (for Question 7) 
+
+Impact 
+
+Death 
+
+Hospitalization 
+
+Medical 
+Treatment 
+
+First Aid 
+
+No Injuries 
+
+Likelihood 
+Almost Certain: Has 
+occurred on an annual 
+basis in this 
+organisation in the past 
+Likely: Has occurred in 
+the last 3 years in this 
+organisation 
+Possible: Has occurred 
+at least once in the 
+history of this 
+organisation 
+Unlikely: Has never 
+occurred in this 
+organisation 
+Rare: Is possible, but 
+has not occurred to 
+date in any similar 
+organisations 
+
+Score  Risk Level 
+
+Risk 
+Score 
+
+5 
+
+Catastrophic 
+
+20 
+
+Escalation Level 
+
+Engineering 
+
+Operations 
+
+Chief 
+Technology 
+Officer (CTO) 
+
+Chief 
+Operations 
+Officer (COO) 
+
+4 
+
+3 
+
+2 
+
+High 
+
+15 
+
+Engineering 
+Manager 
+
+Shift Manager 
+
+Medium 
+
+10 
+
+Shift Engineer 
+
+Shift 
+Supervisor 
+
+Low 
+
+5 
+
+1 
+
+Negligible 
+
+1 
+
+Team Leader responsible to 
+mitigate risk. 
+
+7. 
+
+You are working as a Team Leader at a company manufacturing fibre optic 
+components. On the evening shift, an operator cleaning their workspace with 
+compressed air lodges a glass fibre in their eye. Returning from escorting the 
+operator to the hospital, you inform a senior operator that a short-term replacement 
+operator is needed. You learn from the senior operator that this has happened 
+before “because the compressed air is too strong.” What should be your next 
+action? 
+
+a.  Research the safety standard for compressed air pressure and implement it. 
+
+b.  Report the incident to the Engineering Manager and Shift Manager. 
+
+c.  Retrain the operators in the proper method of clearing their workspace. 
+
+d.  Report the incident to the CTO and COO. 
+
+Page 4 of 14 
+
+ 
+ 
+ 
+ 
+ 
+Figure 1: Classroom projector diagram (for Questions 8-9) 
+
+8. 
+
+Figure 1 is an example of a: 
+
+a.  Use Case diagram. 
+
+b.  Black Box diagram.  
+
+c.  Functional Decomposition diagram. 
+
+d.  Graphical Decision diagram. 
+
+9. 
+
+In Figure 1 “Podium loses power” is a(n): 
+
+a.  Actor 
+
+b.  Snapshot 
+
+c.  Function 
+
+d.  Use Case 
+
+10. 
+
+An APS112 team has designed a hybrid, enclosed, all-terrain hand wagon for the 
+transport, storage, and protection of a large tipi (30 ft tall). Their three objectives in 
+order of importance are: 1) Reduce physical effort; 2) Weather resistant; 3) 
+Inexpensive. Which is the best project plan to implement the Measures of Success?  
+
+a.  Calculate the wagon mass. Research the tipi mass and rolling resistance 
+
+coefficient. Calculate the rolling resistance force. 
+
+b.  Construct a full-scale prototype. Research tipi mass. Load prototype with 
+
+weights. Use a push-pull gauge to take measurements over a range of terrain. 
+
+c.  Construct a one-tenth scale prototype. Demonstrate use of the design for the 
+
+client. Ask client if they think it meets their needs. 
+
+d.  Create a Bill of Materials. Add material cost through research. Benchmark 
+
+assembly costs. Calculate total cost.  
+
+11. 
+
+Your team determines “Low Physical Effort” as a key objective in your design of a 
+tipi transport solution described in Question 10. Which is the best goal? 
+
+a.  <100 lbs -“a man can exert a pressure of 107 lbs”…when dragging an item [1]. 
+
+b.   <80 lbf - “max male two-handed push strength is 135 lbf”; female total body 
+
+strength is, on average 60% of male total body strength [2]. 
+
+c.  <50 lbf - “max male two-handed push strength is 135 lbf”; female total body 
+
+strength ranges from 35% to 85% of that max [2]. 
+
+d.  “Operating system must account for limited hand strength” [3]. 
+
+[1] ‘Human Strength’, Scientific American, Vol 13, Iss 10, 1857. 
+[2] L. Barnes-Moten, “Human performance capabilities,” NASA, 2024. 
+[3] "Accessibility Design Standard," University of Toronto Facilities & Services, 2021. 
+
+Page 5 of 14 
+
+ 
+ 
+12. 
+
+For the Assertion-Evidence style of slide design, claims: 
+
+a.  Should be delivered primarily through spoken content. 
+
+b.  Should be organized according to the presentation outline. 
+
+c.  Should be stated in the header of each slide.  
+
+d.  Should be triangulated and demonstrated through different sources of 
+
+evidence. 
+
+13. 
+
+For multimodality, our lectures this term differentiated between form and content. 
+According to lecture, what is the best description of how those terms relate?  
+
+a.  The content being communicated determines the form of the communication. 
+
+b.  Content must be made to fit the expected form of a given situation. 
+
+c.  Audience needs should not impact the form of your communication. 
+
+d.  Aptness for a given audience determines the project requirements you 
+
+present. 
+
+14. 
+
+Three assignments, across ESP I and II, differentiate between the content we 
+expect in observation and analysis sections. What is the best description of how 
+observation and analysis are different?  
+
+a.  Observation should capture every detail while analysis links parts of the 
+
+observation together. 
+
+b.  Observation should capture the most relevant details, while analysis links 
+
+parts of the observation together. 
+
+c.  Observation should use multimodality to communicate to the audience, while 
+
+analysis should mostly be in written paragraphs. 
+
+d.  Observation should be an objective description, while analysis explains why 
+
+something is how it is, and why it matters. 
+
+15. 
+
+At the beginning of forming a team, what can the Bolton and Bolton Questionnaire 
+help you to understand about your new team members? 
+
+a.  Personality types 
+
+b.  Cross-cultural communication strategies 
+
+c.  Working styles 
+
+d.  Emotional Intelligence (EQ) 
+
+16. 
+
+Your first engineering internship this summer is at a global consultancy firm. Which 
+teamwork concept would be most relevant for increasing team cohesiveness? 
+
+a.  Conflict management skills 
+
+b.  Cross-cultural communication methods 
+
+c.  Contingency plans 
+
+d.  Project management tools 
+
+Page 6 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+17. 
+
+Estimate the number of litres of drinking water consumed during a school year (i.e. 8 
+months) by your first year ESP engineering class. Some information that may be 
+used: there are 200 teams in your first-year class, there are 3 lecture sections held 
+in MY150, there are 8 engineering streams, all of UofT consumed a total of 1.4 
+million cubic meters of water across its three campuses, and 1 cubic meter = 1000 
+litres. Select the closest answer. 
+
+a.  1x103  L 
+
+b.  1x106 L 
+
+c.  1x109 L 
+
+d.  1x1012 L 
+
+18. 
+
+Isometric drawings are particularly useful for: 
+
+a.  Showing a 3-dimensional object with perspective. 
+
+b.  Visualizing complex assemblies. 
+
+c.  Understanding external shape and form. 
+
+d.  Showing precise dimensions and tolerances for manufacturing. 
+
+19. 
+
+Orthographic drawings are particularly useful for: 
+
+a.  Representing a 2-dimensional object with perspective. 
+
+b.  Showing true lengths, where principal axes are separated by 120 degrees. 
+
+c.  Representing true shapes and dimensions. 
+
+d.  Projecting a 2-dimensional object into 3-dimensional space. 
+
+Table 2: The following figures (A, B, C, and D) are for Questions 20-21 
+
+Figure A 
+
+Figure B 
+
+Page 7 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure C 
+
+Figure D 
+
+20.  Which image would be used to describe an experimental result in a CDS? 
+
+a.  Figure A 
+
+b.  Figure B 
+
+c.  Figure C 
+
+d.  Figure D 
+
+21.  Which image would be used in a DRG for a project on water filtration? 
+
+a.  Figure A 
+
+b.  Figure B 
+
+c.  Figure C 
+
+d.  Figure D 
+
+Page 8 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questions 22-30 refer to the scenario with task list below. 
+
+You are almost finished your first year of engineering, and you just remembered that your best 
+friend’s birthday is only 10 days away!  
+
+Below is a set of tasks that need to be completed to plan a successful birthday party.  On the 
+following page, answer the questions based on the given durations and dependencies.  The 
+given task numbers do not denote any specific order. 
+
+Hint: Sketch a Gantt chart to be able to answer the multiple-choice questions more easily.  
+
+Task #  Task Description 
+
+Duration  Dependencies 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Choose a time 
+
+1 day 
+
+Decide on a party theme 
+
+2 days 
+
+1 – Finish to Start 
+
+Create a guest list 
+
+2 days 
+
+2 – Start to Start 
+
+Choose a venue 
+
+Send out invitations 
+
+3 days 
+
+1 days 
+
+1 – Finish to Start 
+2 – Finish to Start 
+
+3 – Finish to Start 
+4 – Finish to Start 
+
+Plan the menu 
+
+3 days 
+
+2 – Finish to Start 
+
+Order the birthday cake 
+
+1 days 
+
+2 – Finish to Start 
+6 – Start to Start 
+
+Arrange entertainment 
+
+2 days 
+
+2 – Finish to Start 
+
+2 days 
+
+1 day 
+
+2 – Finish to Start 
+4 – Finish to Finish 
+
+8 – Finish to Start 
+9 – Finish to Finish 
+
+Purchase decorations 
+
+10 
+
+Set up the venue  
+
+22.  What is the duration of the critical path? 
+
+a.  7 days 
+
+b.  8 days 
+
+c.  9 days 
+
+d.  10 days 
+
+23.  What Task #’s are part of the critical path? 
+
+a.  1, 2, 4, 5 
+
+b.  1, 2, 5, 10 
+
+c.  1, 2, 4, 9, 10 
+
+d.  1, 2, 4, 5, 9, 10 
+
+Page 9 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24.  Which Task # below has the most slack time? 
+
+a.  1 
+
+b.  3 
+
+c.  6 
+
+d.  8 
+
+25.  Which Task # below starts the latest?  
+
+a.  4 
+
+b.  5 
+
+c.  9 
+
+d.  10 
+
+26.  Which Task # below ends the latest? 
+
+a.  3 
+
+b.  6 
+
+c.  7 
+
+d.  8 
+
+27. 
+
+If Task #8 is delayed by 2 days, what happens to the critical path? 
+
+a.  All critical tasks remain the same. 
+
+b.  Task #8 becomes a critical task, but path duration does not change. 
+
+c.  Task #8 becomes the last critical task. 
+
+d.  Task #10 becomes the last critical task. 
+
+28. 
+
+If Task #7 is delayed by 5 days, how many days is the project delayed? 
+
+a.  0 
+
+b.  1 
+
+c.  2 
+
+d.  3 
+
+29. 
+
+If Task #9 is given 3 days of lead time, how many days earlier does it end? 
+
+a.  0 
+
+b.  1 
+
+c.  2 
+
+d.  3 
+
+30. 
+
+If Task #8 requires 2 days of lag time, how many days is the critical path extended? 
+
+a.  0 
+
+b.  1 
+
+c.  2 
+
+d.  3 
+
+Page 10 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ALL QUESTIONS MUST BE ANSWERED ON THE BUBBLE 
+SHEET ATTACHED TO THE END OF THIS EXAM PACKAGE.  
+
+Page 11 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THIS PAGE IS NOT GRADED AND CAN BE USED  
+FOR ROUGH NOTES IF YOU WANT.   
+THIS PAGE WILL NOT BE READ. 
+
+DO NOT SEPARATE ANY PAGES. 
+
+Page 12 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

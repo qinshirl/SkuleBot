@@ -1,0 +1,221 @@
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2014	
+
+Question 1 
+Draw the shear force and bending moment diagrams in the space reserved below for the beam ABCD 
+shown, indicating the values at points A, B, C and D, as well as any potential local maxima or minima. The 
+beam is fixed at A, has an internal pin at B and is supported by a vertical pin-ended hanger at point C. 
+The only material available to construct this beam is flat steel plate with a thickness of 100 mm, which 
+can be cut in strips of various widths, in multiples of 10 mm. Determine the cross-sectional dimensions 
+of the beam having the least weight and express your final answer in terms of the ‘Width x Height’ (i.e. 
+‘Horizontal x Vertical’ dimensions) of the cross-section. The yield stress for the steel available is 300 MPa 
+and the load factor for bending is 1.9. 
+
+Answer: 
+
+The required beam size is 
+W x H = 100.0 x 200 mm 
+
+Question 2 
+
+Question 4 
+
+Question 5 
+
+Determine the reaction components 
+at A and D for this pin-connected 
+frame. The cable passes behind the 
+frame without touching it and the 
+frictionless pulley is pinned to member 
+CF at G. 
+
+Answers: 
+
+Ax = 25.8 kN 
+Ay = 20.0 kN 
+Dx = 8.50 kN 
+Dy = 10.00 kN 
+
+Question 3 
+The truss shown is supported by a pin at P and a diagonal cable AB, at B. Determine the force in 
+members BM, MN, CM and CD, and indicate whether they are in tension or compression. 
+Members CD and BM are to be constructed from the same-size rectangular box cross section 
+(shown), which is fabricated from 10 mm thick welded steel plate that can be cut in 5 mm 
+increments. Knowing that the yield stress for steel is 350 MPa, the load factor for axially loaded 
+bars is 2.25 and the modulus of elasticity for steel is 200,000 MPa, determine dimension d for the 
+required section. Also, what is the elongation of member BM? 
+
+5 
+
+Answers: 
+
+FBM = 70.7 kN (T) 
+FMN = 150.0 kN (C) 
+FCM = 10.00 kN (C) 
+FCD = 100.0 kN (T) 
+
+d = 50.0 mm 
+DBM = +1.538 mm 
+
+A long, continuous steel gate, BC, restrains 
+fresh water as shown and is supported by 
+hinges at A, which are spaced at 8 metre 
+equal intervals in the longitudinal direction 
+of the gate, and a continuous stop at B. 
+Determine the reaction components for a 
+typical hinge at A, and at B. 
+
+Answers: 
+
+Ax = 455 kN 
+Ay = 245 kN 
+Bx = 150.4 kN/m 
+
+The turnbuckle on cable AD is tightened until the 
+magnitude of the y-component of the ball-and-
+socket reaction at O is 2,700 N. Determine the 
+resulting force in cable AD. The mass of bar OAC is 
+small and can be neglected. 
+
+  Answer: 
+
+TAD = 1,391 N (Tension) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2014	
+
+Question 1 
+Draw the shear force and bending moment diagrams in the space reserved below for the beam ABCD 
+shown, indicating the values at points A, B, C and D, as well as any potential local maxima or minima. The 
+beam is fixed at A, has an internal pin at B and is supported by a vertical pin-ended hanger at point C. 
+The only material available to construct this beam is flat steel plate with a thickness of 100 mm, which 
+can be cut in strips of various widths, in multiples of 10 mm. Determine the cross-sectional dimensions 
+of the beam having the least weight and express your final answer in terms of the ‘Width x Height’ (i.e. 
+‘Horizontal x Vertical’ dimensions) of the cross-section. The yield stress for the steel available is 300 MPa 
+and the load factor for bending is 1.9. 
+
+Answer: 
+
+The required beam size is 
+W x H = 100.0 x 200 mm 
+
+Question 2 
+
+Question 4 
+
+Question 5 
+
+Determine the reaction components 
+at A and D for this pin-connected 
+frame. The cable passes behind the 
+frame without touching it and the 
+frictionless pulley is pinned to member 
+CF at G. 
+
+Answers: 
+
+Ax = 25.8 kN 
+Ay = 20.0 kN 
+Dx = 8.50 kN 
+Dy = 10.00 kN 
+
+Question 3 
+The truss shown is supported by a pin at P and a diagonal cable AB, at B. Determine the force in 
+members BM, MN, CM and CD, and indicate whether they are in tension or compression. 
+Members CD and BM are to be constructed from the same-size rectangular box cross section 
+(shown), which is fabricated from 10 mm thick welded steel plate that can be cut in 5 mm 
+increments. Knowing that the yield stress for steel is 350 MPa, the load factor for axially loaded 
+bars is 2.25 and the modulus of elasticity for steel is 200,000 MPa, determine dimension d for the 
+required section. Also, what is the elongation of member BM? 
+
+5 
+
+Answers: 
+
+FBM = 70.7 kN (T) 
+FMN = 150.0 kN (C) 
+FCM = 10.00 kN (C) 
+FCD = 100.0 kN (T) 
+
+d = 50.0 mm 
+DBM = +1.538 mm 
+
+A long, continuous steel gate, BC, restrains 
+fresh water as shown and is supported by 
+hinges at A, which are spaced at 8 metre 
+equal intervals in the longitudinal direction 
+of the gate, and a continuous stop at B. 
+Determine the reaction components for a 
+typical hinge at A, and at B. 
+
+Answers: 
+
+Ax = 455 kN 
+Ay = 245 kN 
+Bx = 150.4 kN/m 
+
+The turnbuckle on cable AD is tightened until the 
+magnitude of the y-component of the ball-and-
+socket reaction at O is 2,700 N. Determine the 
+resulting force in cable AD. The mass of bar OAC is 
+small and can be neglected. 
+
+  Answer: 
+
+TAD = 1,391 N (Tension) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+

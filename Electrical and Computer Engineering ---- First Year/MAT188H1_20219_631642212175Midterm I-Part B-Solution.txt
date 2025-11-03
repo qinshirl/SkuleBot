@@ -1,0 +1,308 @@
+MAT 188 – Midterm I-Part B –Winter 2021
+Professor: Camelia Karimianpour
+
+Solutions
+
+MAT 188
+
+Rubric
+
+Midterm I-Part B, Page 1 of 2
+
+1. Let A be a 3 × 4 matrix with columns (cid:126)a1, (cid:126)a2, (cid:126)a3 and (cid:126)a4. Let (cid:126)b be a vector in R3. Consider
+
+the equation A(cid:126)x = (cid:126)b.
+Suppose that after a few row reduction steps the augmented matrix [A|(cid:126)b] row reduces
+
+
+
+
+
+to
+
+1 2 1 3 1
+0 0 1 1 2
+0 0 0 0 0
+
+
+
+.
+
+Find the general solution to A(cid:126)x = (cid:126)b. Justify your answer.
+
+Solution: To write the general solution, ﬁrst we row reduce [A|(cid:126)b] to RREF.
+
+
+
+
+
+1 2 1 3 1
+0 0 1 1 2
+0 0 0 0 0
+
+
+
+ ∼
+
+[A|(cid:126)b] ∼
+
+
+
+
+
+
+
+1 2 0 2 −1
+2
+0 0 1 1
+0
+0 0 0 0
+
+
+
+
+
+. Then x2 and x4 are free variables, and x1 and x3 are basic.
+
+
+
+
+
+Suppose (cid:126)x =
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+
+Solving for basic variables in terms of free variables give us:
+
+x1 = −2x2 − 2x4 − 1, x3 = −x4 + 2, where x2 and x4 range over all real numbers.
+We can write the general solution in vector parametric form. Let x2 = t and x4 = s
+then
+
+(cid:126)x = t
+
+
+
+
+
+where t, s are in R.
+
+
+
+
+
+
+
+
+
+−2
+1
+0
+0
+
++ s
+
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+−2
+0
+−1
+1
+
+
+
+
+
+
+
+−1
+0
+2
+0
+
+MAT 188
+
+Rubric
+
+Midterm I, Page 2 of 2
+
+2. Let A and (cid:126)b be the same matrix and vector as in question 1. Recall that in Q11 part A
+
+you wrote (cid:126)b as a linear combination of columns of A.
+If you answered Q11 in part A:
+
+a) Write down all the answers you chose as correct for Q11 in part A.
+
+b) Justify each answer in (a) using your work in Q1.
+
+If you did NOT answer Q11 in part A:
+a) Write (cid:126)b as a linear combination of columns of A in three diﬀerent ways, or explain
+why that is not possible. Justify your answer.
+
+Solution: We computed the general solution to A(cid:126)x = (cid:126)b to be
+
+(cid:126)x = t
+
+
+
+
+
+
+
+
+
+
+
+
+
+−2
+1
+0
+0
+
+
+
+
+
+
+
++ s
+
+
+
+
+
+
+
+−2
+0
+−1
+1
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+−1
+0
+2
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+−1
+0
+2
+0
+
+where t, s are in R. Choosing t = s = 0 gives
+
+as a solution, choosing t = 1, s = 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gives
+
+−3
+1
+2
+0
+
+, choosing s = 1, t = 0 gives
+
+−3
+0
+1
+1
+as a solution. Plugging in these solutions into [(cid:126)a1 (cid:126)a2 (cid:126)a3 (cid:126)a4](cid:126)x = (cid:126)b gives: −(cid:126)a1 + 2(cid:126)a3 = (cid:126)b,
+−3(cid:126)a1 + (cid:126)a2 + 2(cid:126)a3 = (cid:126)b, −3(cid:126)a1 + (cid:126)a3 + (cid:126)a4 = (cid:126)b and −5(cid:126)a1 + (cid:126)a2 + (cid:126)a3 + (cid:126)a4 = (cid:126)b respectively.
+Moreover, counting the number of pivots tells us rank A = rank[A|(cid:126)b] = 2.
+
+and ﬁnally choosing s = t = 1 gives
+
+−5
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

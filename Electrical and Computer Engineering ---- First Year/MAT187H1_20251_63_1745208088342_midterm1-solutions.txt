@@ -1,0 +1,634 @@
+NAME ( Given then Family ):
+
+Student Number:
+
+UTORid:
+
+Email address:
+
+@mail.utoronto.ca
+
+University of Toronto
+Faculty of Applied Science & Engineering
+
+Winter 2024/2025
+110 Minutes
+
+MAT187H1S Midterm 1 Solutions
+
+Exam Reminders:
+
+• Fill out your name, UTORid, and email address at the top of this page.
+• Do not begin writing the exam until instructed to do so.
+• As a student, you help create a fair and inclusive writing environment; unauthorized aids are prohibited and using
+
+one may result in you being charged with an academic offence.
+
+• Turn off and place all cell phones, smart watches, electronic devices, and unauthorized study materials in your bag
+
+under your desk. These devices may not be left in your pockets.
+
+• If you are feeling ill and unable to finish your exam, please bring it to the attention of an Exam Facilitator.
+• In the event of a fire alarm, do not check cell phones or other electronic devices unless authorized to do so.
+
+Special Instructions:
+
+• Write legibly and darkly.
+• For questions with a boxed area, ensure your answer is completely within the box.
+• Fill in your bubbles completely.
+
+Good:
+
+A
+
+B
+
+Bad:
+
+A
+
+B
+
+C
+
+Scoring
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+6
+
+2
+
+8
+
+3
+
+4
+
+4
+
+8
+
+5
+
+5
+
+6
+
+14
+
+7
+
+7
+
+Total
+
+52
+
+The following formulae are provided for your use during the exam.
+
+Formula Sheet
+
+Simpson’s Rule
+
+If p is a quadratic polynomial,
+
+(cid:90) b
+
+a
+
+p(x) dx =
+
+(cid:18)
+
+b − a
+6
+
+p(a) + 4p
+
+(cid:17)
+
+(cid:16) a + b
+2
+
+(cid:19)
+
++ p(b)
+
+.
+
+Taylor’s Remainder Theorem
+
+Let Tn be the nth Taylor approximation of function f centered at a. Further, assume f has at least n + 1
+continuous derivatives. Then
+
+Rn(x) = f (x) − Tn(x) =
+
+f (n+1)(c)
+(n + 1)!
+
+(x − a)n+1
+
+for some c between x and a.
+
+Geometric Sum
+
+n
+(cid:88)
+
+i=0
+
+ri =
+
+1 − rn+1
+1 − r
+
+1.
+
+(a) (2 points) The point p, given in rectangular coordinates, is (x, y) = (3, 3). Express the point p in
+
+polar coordinates in two different ways.
+
+√
+
+(r, θ) = (
+
+18, π/4)
+
+or
+
+(r, θ) = (−
+
+√
+
+18, −3π/4)
+
+(b) (2 points) Which complex numbers have a modulus greater than 2? Mark all that apply.
+
+(cid:13) 1 + i
+
+3i
+
+−3
+
+2 − 2i
+
+(cid:13) 0
+
+(cid:13) −1.99e7πi
+
+(c) (2 points) Given points (1, a), (2, b), (3, c), and (4, d), you construct an interpolating polynomial, p,
+using Lagrange’s method. Given that b < c, which statements are true? Mark all that apply.
+
+(cid:13) p(2.5) must be larger than f (2)
+
+p(2.5) could be larger than f (2)
+
+(cid:13) p(x) must be strictly increasing when 2 ≤ x ≤ 3
+
+p(x) could be strictly increasing when 2 ≤ x ≤ 3
+
+p(x) must be a continuous when 2 ≤ x ≤ 3
+
+p(2) = b
+
+2. For each part of this question you are given the graph of y = cos(x). On this graph is marked the point
+
+p ≈ (2.5, −.8011). For each part, sketch the requested polynomial.
+
+Note: your sketch only needs to be approximate, but it should demonstrate the important behaviour of
+the requested polynomial.
+(a) (2 points) Sketch a 0th degree Taylor approximation of cosine centered at 2.5.
+
+1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+−1
+
+p
+
+(b) (2 points) Sketch a 1st degree Taylor approximation of cosine centered at 2.5.
+
+1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+−1
+
+p
+
+(c) (2 points) Sketch a 2nd degree Taylor approximation of cosine centered at 2.5.
+
+1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+−1
+
+p
+
+(d) (2 points) Which graph shows the 3rd degree Taylor approximation of cosine centered at 2.5?
+
+1
+
+1
+
+(cid:13)
+
+−1
+
+−1
+
+1
+
+2
+
+p
+
+3
+
+4
+
+−1
+
+−1
+
+1
+
+2
+
+p
+
+3
+
+4
+
+(cid:13) None of the above
+
+Page 2
+
+3. Tiffany is an artist. She loves painting cannon balls. Her idea for a new painting involves drawing the
+path of a cannon ball in flight and filling in the area between the bottom of the canvas and the arc of
+the cannon ball with gold leaf (an expensive alternative to paint).
+
+Since gold leaf is expensive, she wants to purchase exactly what she needs. To get an estimate, Tiffany
+has found a polynomial interpolation for the cannon ball’s path (as traced out on the canvas).
+Let f (x) represent the height of the cannon ball’s path on the canvas in metres at a horizontal distance
+of x metres from the lower left corner of the canvas. Let
+
+P (x) = −x2 + x + 2
+
+be a quadratic approximation of f .
+
+For this question, you have the following information:
+
+• The canvas is 2m wide and 3m tall.
+• |f (x) − P (x)| ≤ 1
+
+6 for x ∈ [0, 2].
+
+(a) (2 points) Using the available information, give the best possible upper bound for the number of
+
+square metres of gold leaf that Tiffany needs to buy.
+
+Amount of gold leaf required ≤
+
+11/3m2 ≈ 3.66m2
+
+(b) (2 points) Using the available information, give the best possible lower bound for the number of
+
+square metres of gold leaf that Tiffany needs to buy.
+
+Amount of gold leaf required ≥
+
+3m2
+
+or
+
+(1 + 125
+√
+3
+
+36
+
+)m2 ≈ 3.0047m2
+
+Scratch work:
+
+Page 3
+
+4. A snail is climbing up a wall that is 10m tall. The snail starts crawling up the wall at a speed of 5m/h.
+
+Every hour, the snail gets distracted and its speed instantaneously decreases by half.
+Let Hn be the height of the front of the snail’s body after n hours of climbing. For n ≥ 3, let Wn be the
+part of that distance travelled by the snail, starting from exactly three hours after it began its climb. For
+example, W5 is the distance traveled by the snail between the end of hour 3 and the end of hour 5.
+(a) (2 points) Express Hn using sigma notation (Σ notation).
+
+Hn =
+
+n−1
+(cid:88)
+
+i=0
+
+5( 1
+
+2)i
+
+(b) (2 points) Assume n > 3. Express Wn using sigma notation (Σ notation).
+
+Wn =
+
+n−1
+(cid:88)
+
+i=3
+
+5( 1
+
+2)i
+
+(c) (2 points) Assume n ≥ 3. Express Wn in terms of Hn (i.e., your formula must involve Hn and cannot
+
+use sigma notation).
+
+Wn =
+
+Hn − H3
+
+(d) (2 points) The snail’s antennae stick out 1cm in front of its body. Will the snail ever touch the
+
+ceiling? Provide a well-written justification.
+
+The snail will touch the ceiling (cid:13) The snail won’t touch the ceiling
+
+Justification:
+
+If the snail’s body reaches within 1cm of the ceiling, it will touch the ceiling. This will happen if
+Hn ≥ 9.99 for some n. Using the Geometric sum formula, we see
+
+Hn = 5
+
+1 − (1/2)n
+1 − 1/2
+
+= 10(1 − (1/2)n).
+
+From this formula we see limn→∞ Hn = 10 and so eventually Hn ≥ 9.99. (In fact H7 > 9.99.)
+
+Page 4
+
+5. (5 points) Let f be a concave up and decreasing function on the interval [0, 2]. WolframAlpha reports
+
+I =
+
+(cid:90) 2
+
+0
+
+f (x) dx ≈ 3.4587.
+
+Each estimate below is produced using numerical integration with the same partition.
+
+For each estimate below, identify which numerical integration technique was likely used by filling in the
+appropriate letter in the table below.
+
+A = 3.4427
+B = 3.4906
+C = 2.9142
+D = 3.4589
+E = 4.0670
+
+Left-endpoint approximation
+
+Right-endpoint approximation
+
+Trapezoid rule
+
+Midpoint rule
+
+Simpson’s rule
+
+E
+
+C
+
+B
+
+A
+
+D
+
+Page 5
+
+6. The function f has a Taylor series representation centered at a = 2 of
+
+T (x) = 1 + 2(x − 2) + 3(x − 2)2 + 4(x − 2)3 + 5(x − 2)4 + · · · .
+
+(a) (2 points) Express T (x) using sigma notation (Σ notation).
+
+T (x) =
+
+∞
+(cid:88)
+
+(i + 1) · (x − 2)i
+
+i=0
+
+(b) (3 points) Does T (x) converge when x = 3? Provide a well-written justification.
+
+(cid:13) Converges
+
+Does not converge
+
+Justification:
+The series at x = 3 is T (3) = 1 + 2 + 3 + 4 + · · · , with partial sums (cid:80)n
+are bounded below by n, and so they diverge, which means T (3) diverges.
+
+i=0 i. These partial sums
+
+(c) (3 points) Does T (x) converge when x = 2? Provide a well-written justification.
+
+Converges (cid:13) Does not converge
+
+Justification:
+
+The series at x = 2 is T (2) = 1 + 0 + 0 + · · · = 1, and so it is convergent.
+
+Page 6
+
+This question uses the same f and T as the previous page.
+
+(d) Let T3 be the 3rd Taylor approximation of f centered at a = 2. Below is a graph of y = f (4)(x), the
+
+4th derivative of f , from x = 1 to x = 2.3.
+1,100
+900
+700
+500
+300
+100
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2
+
+2.2 2.3
+
+p
+
+i. (2 points) Write down an expression for T3(x). (No need to simplify/expand your expression.)
+
+T3(x) =
+
+1 + 2(x − 2) + 3(x − 2)2 + 4(x − 2)3
+
+ii. (4 points) Give an upper bound for |f (2.2) − T3(2.2)|. Provide a well-written justification.
+
+Note 1: There is no need to simplify your upper bound.
+Note 2: If you need to do scratch work, do so on the blank pages of the test. Only write your
+final, polished answer in the box.
+
+|f (2.2) − T3(2.2)| ≤
+
+500
+
+4! (0.2)4 ≈ 0.033
+
+Justification:
+By Taylor’s remainder theorem, T3(x) − f (x) = f (4)(c)
+graph we can see |f (4)(c)| ≤ 500 when c ∈ [2, 2.2]. So, we get a bound of
+
+4!
+
+(x − 2)4 for some c ∈ [2, 2.2]. From the
+
+|T3(x) − f (x)| ≤
+
+500
+4!
+
+(0.2)4.
+
+Page 7
+
+7. A very fast snail is heading straight towards you. Its distance from you at time t in seconds is given by
+B(t) in metres. At time 0, the snail is 4 metres away from you travelling towards you at a speed of 3m/s
+and slowing down at a rate of 1m/s2. Further suppose that B(cid:48)(cid:48)(cid:48)(t) < 0 and that all 4th derivatives and
+up are negligible (i.e., close to zero).
+(a) (2 points) Give a formula for T2, the 2nd Taylor approximation to B(t) centered at t = 0.
+
+T2(t) =
+
+4 − 3t + t2
+2
+
+(b) (2 points) Given the information above, what is your best estimate for when the snail will hit you?
+
+t =
+
+2
+
+(c) (3 points) Is your estimate from the previous part an underestimate or an overestimate? Provide a
+
+well written justification.
+(cid:13) Underestimate
+
+Overestimate
+
+Justification:
+Since B(cid:48)(cid:48)(cid:48) < 0, we know that T3(t) = 4 − 3t + t2
+term, T3 is decreasing faster than T2, so T2 provides an overestimate.
+
+2 − αt3 for some α > 0. With this higher order
+
+Page 8
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 9
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 10
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 11
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 12
+
+

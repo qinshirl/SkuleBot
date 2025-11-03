@@ -1,0 +1,717 @@
+Winter 2023
+MAT187 – Calculus II – Syllabus
+
+Course Content
+
+Roughly, the content of this course can be summarized as follows: first, we will talk about integration
+techniques; then, we will work with first and second order ordinary differential equations; next, we
+will talk about Taylor Polynomials and Taylor Series; and finally, we will talk about functions that
+depend on one variable (often: time) but give a vector as output (often: a position in space).
+
+This description, however, gives only half the picture. We will study more than just techniques and
+procedures in this course; we will actually look at the concepts they are built on. What does that
+mean? It means that we will look into engineering applications and see how the concepts we learn in
+this class are abstractions of concepts we discover in real life models. We will use this connection to
+work on engineering problems using our newly expanded “math toolbox.”
+
+A detailed overview of the course content can be found on the next page.
+
+Learning Goals
+
+You should become fluent in various concepts related to Calculus as outlined in the list of modules on
+the next page. This means you should be able to …
+
+• … understand the meaning of these concepts and see why they are applicable in certain situations.
+• … use these concepts to study the properties of a system in physical and engineering applications.
+• … critically analyze your results based on these concepts to check whether or not they make sense.
+
+We want to train you in the art of problem solving. In your future career as an engineer, you will see
+problems that you have not seen before. We want you to be able to figure out by yourself how to
+adjust the methods you know to fit new situations and to be confident of your solutions. You can only
+achieve this by understanding concepts rather than memorizing formulas and methods.
+
+We want to train you in the art of team work and communication. As future engineers, you will
+serve an important role at the boundary between science and its applications. You will have to talk to
+business partners, manufacturers, designers, construction workers, investors. You will need to be able
+not just to arrive at correct mathematical answers but make others understand you, believe you, and
+trust you.
+
+Textbooks
+
+Strang and Herman: OpenStax Calculus Volume 2. (2016)
+https://openstax.org/details/books/calculus-volume-2
+Strang and Herman: OpenStax Calculus Volume 3. (2016)
+https://openstax.org/details/books/calculus-volume-3
+
+Available for free as…
+…an interactive online textbook
+…a downloadable PDF
+…an app
+
+If you prefer a printed copy, you can have the PDF printed (in part or in whole) at the U of T bookstore
+(or any other copyshop). No worries, doing so is completely legal according to the license of the book.
+
+page 1
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+Content Overview
+
+The course content is divided in six modules based on the topic. The modules are labelled by A to F. We will not spend an
+
+equal amount of time on every module. The letters CV2 and CV3 refer to “OpenStax Calculus Volume 2” and “OpenStax
+
+Calculus Volume 3”
+
+A
+A1
+
+A2
+
+A3
+
+Integration methods
+Integration by parts
+
+Trigonometric Substitution
+
+Partial Fractions
+
+A4 Numerical Integration
+
+A5
+
+Improper Integrals
+
+Applications of Integration
+
+B
+B1 Riemann Sums
+
+C
+C1
+
+C2
+
+C3
+
+First order ODEs
+Introduction to ODEs
+
+Separable ODEs
+
+Linear First-Order ODEs
+
+C4 Qualitative Analysis of ODEs
+
+C5 Modelling with ODEs
+
+D Second order ODEs
+D1 Homogeneous Equations
+
+D2 Non-Homogeneous Equations
+
+D3 Applications
+
+E
+E1
+
+E2
+
+E3
+
+Taylor Series
+Approximating with Taylor Polynomials
+
+Taylor Series
+
+Ratio Test for Convergence
+
+E4 Manipulating Power Series
+
+F
+F1
+
+F2
+
+Vector Valued Calculus
+Parametric Equations
+
+Polar Coordinates
+
+F3 Calculus in Polar Coordinates
+
+F4
+
+F5
+
+Vector Valued Functions
+
+Arc Length
+
+F6 Normal Vector and Curvature
+
+F7 Motion in Space
+
+Textbook
+
+CV2, 3.1
+
+CV2, 3.3
+
+CV2, 3.4
+
+CV2, 1.1/3.6
+
+CV2, 3.7
+
+CV2, 1.1/1.2/2.*
+
+CV2, 4.1
+
+CV2, 4.3
+
+CV2, 4.5
+
+CV2, 4.1/4.2
+
+CV2, 4.4
+
+CV3, 7.1
+
+CV3, 7.2
+
+CV3, 7.3
+
+CV2, 6.3
+
+CV2, 6.3
+
+CV2, 5.6/6.1
+
+CV2, 6.2/6.4
+
+CV3, 7.1/7.2
+
+CV2, 7.3
+
+CV2, 7.4
+
+CV3, 3.1/3.2
+
+CV3, 3.3
+
+CV3, 3.3
+
+CV3, 3.4
+
+page 2
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+Teaching Team
+
+Instructor
+
+Section
+
+Email
+
+Sa’diyya Hendrickson
+
+LEC0101/Lec0102
+
+shendri@math.toronto.edu
+
+Camelia Karimianpour
+
+coordinator
+
+admin187@math.toronto.edu
+
+LEC0102/ LEC0103
+
+ckarimia@math.toronto.edu
+
+Geoffrey McGregor
+
+Jose Palacios
+
+LEC0103
+
+LEC0101
+
+geoffrey.mcgregor@utoronto.ca
+
+jose.palacios@utoronto.ca
+
+• See Quercus for the list of TA names and contact information.
+
+• You can find the time and location of lectures and tutorials here.
+
+• Drop-in hours and their location for each instructor will be posted on Quercus.
+
+• If you have a question about any aspect of the course, please follow the Asking Questions section
+
+in this document.
+
+Course Website
+
+• The official course page is https://q.utoronto.ca/courses/291463
+
+Quercus is our main communication platform. All course material and information, including an-
+nouncements, tutorial information, TA and instructor drop-in hours (aka office hours or question
+hours), homework and solutions, pre-class essential readings and in-class reflection surveys, exam
+details, and all the relevant deadlines and announcements are done via Quercus. Quercus will get
+updated frequently as the semester progresses. It is your responsibility to check it regularly.
+
+• Find our Piazza class page here. Piazza is also accessible directly from the course page on Quercus.
+
+We will be using Piazza for class discussions. If you have a math question or a logistic question you
+should ask it in Piazza (and not over email). See the Asking Questions section in this document for
+more instructions. The earlier you start using Piazza, the happier you will be!
+
+page 3
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+Assessments
+
+Assessment
+
+Weight
+
+Reflections
+
+Tutorial Teamwork
+
+Online Homework
+
+Pre-Class Essentials
+
+Midterms
+
+Final Exam
+
+2%
+
+18%
+
+10%
+
+10%
+
+25%
+
+35%
+
+• Lecture Reflections. The only way to learn mathematics is by doing mathematics. In this course
+you are asked to be an active agent in your own learning. You are expected to be present in all
+sessions of your lectures and tutorials. During lectures, you will be asked to work on problems with
+help of your peers, and share your ideas with the class. Some lectures will end with a reflection
+activity. The content and format will vary and depends on the activities you done in class that
+week.
+
+• Tutorial Teamwork. Tutorials are weekly sessions facilitated by your TAs. During tutorials you
+will work in groups on a tutorial worksheet. The worksheet will cover a variety of standards such
+as basic computations, core concepts, analysis of ideas, and mathematical language. The specifics
+for each worksheet will vary. In tutorials, time will be dedicated to working on tutorial worksheets,
+including giving and receiving feedback from TAs and classmates. At the end of each tutorial, you
+will submit your work, as a group. There may be a re-submission chance for some of the worksheets.
+You will receive feedback and a grade on your submission. Worksheets will be graded with a
+focus on the demonstration of the understanding of the learning objectives (standards)
+covered in each question. You can demonstrate your understanding by explaining your
+steps. For example, you would receive full points if you explain the issue that you are facing or
+explain what you tried to solve the question but didn’t work and your explanation demonstrates
+your understanding of the learning objectives, and you can receive no mark if you only submit a
+correct final answer without a clean explanation of what took you there. If you, together with your
+group decide to resubmit a worksheet you should meet as a group outside of the tutorial to work
+on the re-submission. At the end of the semester, your best nine submissions are worth 2% each.
+
+Don’t skip LECtures and TUTorials. Each one hour of attending LEC and TUT easily
+saves you several hours of studying by yourself.
+
+• Online Homework (WeBworK). There will be five WeBWorK assignments. Your lowest score will
+be dropped. Please see the WebWorK page (accessible from our Quercus site) to see the due dates
+and your grades. WeBWorK due dates and grades will not be reflected accurately on Quercus.
+
+• Pre-Class Essentials (PCE). PCEs are assigned readings or videos, followed by a quiz. You are
+expected to do the PCE before each lecture. There will be about 30 Pre-Class Essentials (PCEs).
+Your lowest six scores will be dropped. See our Quercus page for the due dates.
+
+• Exams. There will be two midterms and a final exam. Details on the exams will be announced
+
+later.
+
+page 4
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+Missed Evaluations
+
+The petition policy of the Faculty of Applied Science and Engineering can be found at
+http://uoft.me/petitions. Do not wait to read these rules until an issue (like illness) arises. Read
+them now so that if things actually happen, you already know how to proceed.
+
+It is an academic offence to feign illness to skip any coursework.
+Any foreseeable circumstances must be reported at least three weeks in advance. For example,
+“I had a varsity sports game yesterday” is not acceptable since sports games are scheduled
+weeks ahead. As soon as you know about scheduled events you should look at your academic
+obligations and notify the coordinator of conflicts.
+
+TAs are not authorized to give any kind of accommodation.
+
+Missing PCEs
+We are dropping your lowest six PCE marks. Therefore, you do not need to submit petitions unless
+you had a legitimate reason to miss more than six PCEs. In that case, you need to submit a petition for
+all occasions that you missed. If you receive a zero on a PCE due to having committed an academic
+offence, that zero will not be dropped.
+
+If you miss more than six PCEs and have a valid petition for all occasions (including the “first six
+missed” PCEs), the remaining PCEs will be reweighted accordingly.
+
+To clarify again: Filing up to six petitions for PCEs will have no effect since the lowest six
+scores, including zeros, are dropped anyways, with or without petition. The rules described
+above are supposed to save you from the hassle of filing petitions. They are not an addi-
+tional way to excuse missed work. Of course, if you have more than six valid PCE petitions, all
+of them will be honoured.
+
+Missing WeBWorK
+
+The same rules as for PCEs apply, by replacing “six PCEs” with “one WeBWorK set”.
+
+Missing a Test or the Exam
+
+If you miss a test without a valid petition, you will receive a grade of zero.
+
+If you miss a test and a petition for it is deemed valid, we will will redistribute your marking scheme
+at the discretion of the course coordinator.
+
+Regarding the final exam, there are dedicated faculty policies around petitions. Please refer to the
+faculty rules.
+
+Missing Teamwork (tutorial)
+
+If you have a petitionable reason to miss teamwork during tutorial, you must do two things: File a peti-
+tion in the system and inform all your teammates in an email CCed to admin187@math.toronto.edu
+and your TAs at least one hour before your tutorial. You only need to inform us that you filed a peti-
+tion. You do not need to explain why you did so.
+
+page 5
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+“Ghosting” your team
+
+Generally, keep in mind that your team members depend on you. Be nice to each other and considerate
+of each other’s study schedule and workload. You are considered to have “ghosted” your team if you
+don’t show up to your tutorial and you don’t send a petition notification email as explained above,
+or at any time you don’t reply to an email from one of your teammates regarding a worksheet re-
+submission within 36h.
+
+If you “ghosted” your team, you will be removed from the team for at least one subsequent tutorial,
+that is you won’t be able to submit your tutorial work for at least one subsequent tutorial. You can
+still attend your tutorial to work individually and ask questions from your TA, however your work will
+not be accepted for grading.
+
+Asking Questions
+
+Our goal is to have all of your questions answered in a timely manner and to encourage you to ask
+more math questions. If your situation is urgent, talk to your professor during their drop-in hours
+(office hours), or come to the course coordinator’s drop-in hours (office hours). You can find details
+about time and location of drop-in hours on Quercus. In all other cases, if you have a question please
+follow the following procedure:
+
+• All mathematical and administrative questions about the course should be asked on Piazza. Your
+question and the responses will be visible to all students and the teaching team. You should choose
+the most relevant folder in Piazza for your question.
+
+• If you do not get an answer to your posted question on Piazza or, if your question contains personal
+information that cannot be shared with the rest of the class (for instance, if you have a question
+about your grade), then ask your question directly by emailing one of our head TAs. Your TA will
+either respond directly or will forward your question to another member of the teaching team who
+can address it.
+
+• If, after emailing your TA, you still do not have an answer to your question, forward the email you
+sent to your TA to admin187@math.toronto.edu, or directly to your professor. Your course
+coordinator will check admin187@math.toronto.edu on a weekly basis.
+
+• Once again, if your situation is urgent, talk to your professor after class or in their drop-in hours
+(office hours), or come to the course coordinator’s drop-in hours (office hours). Note that ad-
+min187@math.toronto.edu is not suitable for urgent emails.
+
+Emailing Etiquette:
+
+• You should always use your utoronto email address for all university related communication, including MAT187.
+
+• Put MAT187 in the subject line followed by the subject of your email. For example “MAT187-Midterm 1 regrade
+
+request”.
+
+• Include your full name and your utorid in your email.
+
+• Always check the course syllabus, Quercus, and Piazza for the answer to your question. If your question is
+
+answered on the syllabus, Quercus, or Piazza, we may not respond to your email.
+
+• Your email is a professional conversation between you and a member of the teaching team of course administra-
+tion. Please use an appropriate tone and level of formality in your emails. We reserve the right to not consider
+an email that is written unprofessionally.
+
+• Note that we will not answer any math questions over email. All such questions should be publicly asked on
+
+Piazza or during drop-in hours.
+
+page 6
+
+How to Succeed
+
+This course is arranged along modules. You will encounter each mod-
+ule in five different stages, gaining more and more independence.
+
+1. Pre-class essentials. Learning the basics through self-study.
+
+hours/week
+
+contact
+0
+
+self-study
+1.5
+
+Before each class you will spend about 30 minutes learning about the elementary concepts of the
+module. Afterwards, there will be a short quiz with one or two questions. The quiz is designed so
+that it is straightforward if you have studied the pre-class essentials.
+Essentials are essential. In class, we will assume that you have done the pre-class essentials. If you
+did not do so, you will quite likely not be able to follow class.
+
+2. Classroom. Applying the basics and diving in deeper.
+
+3
+
+0
+
+Class takes place in MY150 in an active classroom setting. It will be a mix of the instructors in-
+troducing concepts and everyone working in groups. Each class will be supported by at least two
+instructors and three TAs.
+Lecture slides. When possible, we will publish lecture slides before class on Quercus.
+Assigned seating will be used in the classroom. You will be able to elect to sit in a “No Distraction
+Zone” if you prefer. In this zone, snacks, phones and other distractions are not allowed.
+
+3. Tutorials. Working in teams on tutorial worksheets.
+
+1
+
+1
+
+Weekly tutorials are facilitated by TAs. Every week, you will work on a worksheet in groups. You
+will then receive feedback on those worksheets. This is intended to be a formative assessment. This
+means: You will not be assessed for only correctness. Instead, the worksheets are intended to help
+you learn and grow. What matters most is that you explain your approach, no matter if it is correct
+or not. Presentation counts! In the tests, part of the marking will be based on how well you present
+and explain your solutions; tutorial worksheets provide good practice for you. There will be a few
+re submission opportunities. As a team, you can decide whether you wish to resubmit a worksheet
+that is open for re-submission. If you decide to do so, you will be working on your re-submission
+outside of the tutorial time.
+Tutorial time is question time. As you are working on the tutorial worksheet, use it as a chance to
+talk to TAs and ask any questions about the course material.
+Check your tutorial assignment. You must attend the tutorial that you are assigned to according to
+ACORN. Otherwise you won’t be able to receive credit for teamwork.
+
+4. Studying. Solidifying your knowledge with on-demand support.
+
+mileage varies*
+
+Based on the classroom and tutorial experience, you will now have an idea which concepts are
+clear to you and which you should work on. There are many resources at your disposal to help you
+study. You can ask questions on the course’s Piazza page and all instructors offer designated “Drop
+in hours” for your support.
+Suggested problems can be found on Quercus. Note that the textbook exercises are very basic ex-
+ercises and that the tutorial worksheet exercises are more indicative of what is expected in a term
+test.
+Study smart. Your learning experience in this course will improve dramatically if you follow a sched-
+ule that distributes the load across your thirteen weeks, rather than falling behind and trying to
+catch up right before exams. Study math at least two or three times a week, every week.
+
+5. Assessments. WeBWorK, Teamwork, Tests.
+
+mileage varies*
+
+You can find more details on the assessments in this course under ”Assessments” in this document.
+
+* The time you need depends on your own learning experience. However, in addition to the 1.5 hours
+for the essentials, you should spend at least 3.5 hours per week studying for this course.
+
+page 7
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+Important Tools
+
+Quercus is the central repository from which all course content can be reached. It
+is where we will post the PCEs, the lecture material, Zoom links, PDF copies of all
+assessments, study advice, drop-in hour info, this syllabus, etc. Whatever you are
+looking for, you can probably find it here.
+
+Zoom is our meeting software that we may use for office hours or other virtual ses-
+sions.
+
+Piazza is our discussion board. Do not hesitate to ask questions on here. It’s a great
+place to both ask questions and to help each other out. Instructors and TAs will also
+be available to answer questions.
+
+Gradescope is our assessment submission and grading software. All Team Worksheets
+and Tests will be administered via gradescope.
+
+Make sure that you use gradescope.ca
+
+and not gradescope.com (different servers).
+
+Wolframalpha is a computational tool that can solve many math (and other) problems
+thanks to its vast procedural knowledge. On the other hand, it can not conceptualize.
+The fact that computers can’t do that is one of the reasons why MAT187 focusses on
+concepts instead of procedures.
+
+Desmos is a free online plotting tool that can be a great help when you are trying
+to visualize functions and their graphs. It can visualize derivatives, Riemann sums,
+integrals, tangents, intersections, and many more things. You can even create art with
+it, in particular when plotting polar curves! You can start with 𝑟 = sin(8𝜃).
+
+Accessibility Needs
+
+The University of Toronto is committed to accessibility and making MAT187 accessible to everyone is
+very important to us. If you require accommodations, or have any accessibility concerns about the
+course, the classroom, or course materials, please contact Accessibility Services as soon as possible at
+http://www.studentlife.utoronto.ca/as.
+
+You are welcome, but are in no way obliged, to speak directly with us about any accommodations you
+require. You can rest assured of our confidentiality.
+
+page 8
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+Copyright Notice
+
+You must not take audio recordings or video recordings of lectures or tutorials unless you received
+the written consent of the person whose work you are recording (consent will normally be given for
+accessibility reasons).
+
+There are on-campus and off-campus enterprises out there that offer so called “course preparation” and
+that will ask you to provide course material to them, sometimes in exchange for money, sometimes
+in exchange for “free help”, sometimes without any direct benefit to you. You must not share the
+material of this course with such enterprises. There are two main reasons for this:
+
+1. You would help companies to rip off students by making money from selling our material. Material
+that we provide for free to the students of our course.
+
+2. Think about how you would feel if you wrote a book and then someone else sold it for money
+for their gain. That’s how we feel when you give them our material.
+
+For these reasons the copyright holders hereby explicitly deny the right to share the course mate-
+rial with anyone who is not enrolled in the course. If you do so, you will get into legal trouble, and
+depending how you shared what material you will also face academic disciplinary action.
+
+Mental Health and Wellness
+
+As a university student, you may experience a range of issues, for example regarding your physical
+or mental health, regarding your financial situation or regarding your friends and family. These may
+result in significant barriers to achieving your personal and academic goals. The University of Toronto
+offers a wide range of free and confidential services and programs that may be able to assist you. I
+encourage you to seek out these resources early and often.
+
+You can find resources at http://studentlife.utoronto.ca/hwc
+
+If, at some point during the year, you find yourself in need of immediate support, visit the Feel-
+ing Distressed Webpage: http://www.studentlife.utoronto.ca/feeling-distressed, for more campus
+resources.
+
+Immediate help is available 24/7 through U of T’s My Student Support Program in 35 languages.
+You can call via phone or wifi or even chat using the app. Details can be found at
+
+https://studentlife.utoronto.ca/service/myssp/
+
+All students in the Faculty of Engineering have an Academic Advisor who can advise on academic
+and personal matters. You can find your department’s Academic Advisor here: http://undergrad.
+engineering.utoronto.ca/advising-support-services/academic-advising/
+
+page 9
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+Academic Integrity: Why It Matters
+
+We at U of T want you to feel proud of what you accomplish as a student. Please respect all of
+the hard work you’re doing this term by making sure that the work you do is your own.
+
+We don’t expect you to score perfectly on the assessments and there will be some things that
+you may not know. Using an unauthorized resource or asking someone else for the answer robs
+you of the chance to later feel proud of how well you did because you’ll know that it wasn’t
+really your work that got you there.
+
+Success in university isn’t about getting a certain mark, it’s about becoming the very best person
+you can by enriching yourself with knowledge, strengthening yourself with skills, and building
+a healthy self-esteem based on how much you’ve grown and achieved. No one assessment
+captures that but your conscience will stay with you forever. Make yourself and your loved
+ones proud of the student that you are by conducting yourself honestly at all times.
+
+The text above outlines why academic integrity is so important to us, to the university, and to the
+professional engineering society, and why it should also be important to you. We know that the vast
+majority of students are honest. If you are one of them, we want to say that we appreciate this and
+thank you for your commitment to learning! Honouring the achievements of hardworking students
+like you is one of the major reasons why we implement the policies below. Honesty always pays off
+in the long run!
+
+If you are experiencing personal challenges that are having an impact on your academic
+work, please do NOT commit an academic offence. Instead, talk to us or your academic
+advisor. We are very understanding and happy to help if you are facing any issues. There is
+never a valid reason for committing an academic offence. Please talk to us!
+
+Academic Integrity: The Fine Print
+
+Familiarize yourself with the University of Toronto’s Code of Behaviour on Academic Matters,
+available at https://www.academicintegrity.utoronto.ca/.
+
+You are expected to know the rules. Not being aware of a rule is not an acceptable excuse for
+not having followed it (just as in “real life”).
+
+If you have any questions about what is or is not permitted in this course, please do not hesitate
+to contact us.
+
+As specified on the first page, usually your lowest PCE and WeBWorK scores are dropped. These rules
+do not apply for assessments in which you committed an academic offence and received a sanction
+of “zero on the assessment”. Such an assessment will always receive the highest weight possible
+according to the rules of the syllabus.
+
+Potential offences include, but are not limited to:
+
+• Posting assessment questions on any kind of website/online forum to solicit help,
+• Using someone else’s ideas or words without appropriate acknowledgement,
+• Looking at someone else’s answers during an exam or test,
+• Misrepresenting your identity,
+
+page 10
+
+Winter 2023 – MAT187 – Calculus II – Syllabus
+
+• Obtaining or providing unauthorized assistance on any assignment (this includes working in groups
+
+on assignments that are supposed to be individual work),
+
+• Falsifying or altering any documentation required by the University, including (but not limited to)
+
+forms related to a petition.
+
+It is an Academic Offence both to receive or to provide unauthorized assistance. It does not
+matter if you “helped” or “were helped”.
+
+The University of Toronto treats cases of academic misconduct very seriously. All suspected cases of
+academic dishonesty will be investigated following the procedures outlined in the Code. The conse-
+quences for academic misconduct can be severe, including a failure in the course and a notation on
+your transcript. Every year, students get expelled from the University of Toronto for academic offences.
+
+Remember that you enrolled in University to learn something.
+
+page 11
+
+

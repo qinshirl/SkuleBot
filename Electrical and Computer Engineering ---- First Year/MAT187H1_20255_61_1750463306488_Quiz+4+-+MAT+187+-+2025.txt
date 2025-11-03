@@ -1,0 +1,459 @@
+Date: Jun 4, 2025
+Duration: 50 minutes
+
+Name:
+
+e-mail:
+
+Student Number:
+
+Quiz 4
+
+Course: MAT 187 (Calculus II)
+Examiner: Armanpreet Pannu
+
+@mail.utoronto.ca
+
+Instructions
+• This is a Type A assessment and does not allow any external aids.
+• Read all instructions carefully and justify all your answers. No points will be awarded for a correct
+
+answer without justification.
+
+• Read each question carefully. No clarification or content related questions will be answered.
+
+You may use the following space for scratch work or to continue your solutions if you run out of room. If
+you do so, please clearly indicate in the original question that part of your solution appears here.
+
+1. (3 points) True of False: If a sequence {an}n is bounded, then it converges. Justify your answer or
+
+provide a counter-example.
+
+Solution: False. A bounded sequence does not necessarily converge. A bounded monotonic
+sequence does.
+
+Counter-example: Consider the sequence an = (−1)n. This sequence is bounded, since all terms
+lie between −1 and 1.
+
+However, it does not converge because it oscillates and does not approach a single limit:
+
+a1 = −1,
+
+a2 = 1,
+
+a3 = −1,
+
+a4 = 1,
+
+. . .
+
+2. (3 points) Suppose a power series centered at 5 converges at x = 2. What can you say about its
+
+convergence at x = 7? Explain.
+
+Solution: The power series is centered at x = 5, so its converges up to some distance from the
+center (the radius of convergence).
+
+We are told that the series converges at x = 2, which is a distance of
+
+|2 − 5| = 3
+
+from the center. Therefore, the radius of convergence is at least 3.
+
+Now consider the point x = 7, which is at a distance
+
+|7 − 5| = 2
+
+from the center.
+
+Since 2 < 3, and the series converges at a point farther from the center than 7, we can conclude
+that the series must also converge at x = 7.
+
+3. (6 points) Starting from the geometric series
+
+1
+
+1−x = (cid:80)∞
+
+n=0 xn,
+
+|x| < 1, find a power series represen-
+
+tation for the function:
+
+Hint: Differentiate something!
+
+f (x) =
+
+x
+(1 − x)2 .
+
+Solution: We start with the geometric series:
+∞
+(cid:88)
+
+1
+1 − x
+
+=
+
+n=0
+
+xn,
+
+|x| < 1.
+
+Differentiate both sides with respect to x:
+
+d
+dx
+
+(cid:18) 1
+
+(cid:19)
+
+1 − x
+
+=
+
+1
+(1 − x)2 ,
+
+d
+dx
+
+(cid:32) ∞
+(cid:88)
+
+(cid:33)
+
+xn
+
+=
+
+n=0
+
+∞
+(cid:88)
+
+n=1
+
+nxn−1.
+
+So,
+
+1
+(1 − x)2 =
+
+∞
+(cid:88)
+
+n=1
+
+nxn−1.
+
+Now multiply both sides by x to get:
+
+f (x) =
+
+x
+
+(1 − x)2 = x ·
+
+1
+(1 − x)2 =
+
+∞
+(cid:88)
+
+n=1
+
+nxn.
+
+Thus, the power series representation is:
+
+f (x) =
+
+∞
+(cid:88)
+
+n=1
+
+nxn ,
+
+|x| < 1.
+
+MAT187
+
+Page 2 of 4
+
+Jun 4, 2025
+
+4. (9 points) Consider the power series
+
+∞
+(cid:88)
+
+n=1
+
+(x − 2)n
+n · 3n .
+
+Find the radius of convergence and the interval of convergence of the series. Be sure to fully justify
+your answer, including testing any relevant endpoints.
+
+Solution: We use the Ratio Test to find the radius of convergence. Let
+
+an =
+
+(x − 2)n
+n · 3n .
+
+Then,
+
+Taking the limit:
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+an+1
+an
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+=
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+(x − 2)n+1
+(n + 1) · 3n+1 ·
+
+n · 3n
+(x − 2)n
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+=
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+(x − 2) · n
+3(n + 1)
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+=
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+x − 2
+3
+
+lim
+n→∞
+
+(x − 2) · n
+3(n + 1)
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+.
+
+.
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+The Ratio Test tells us the series converges when this limit is less than 1:
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+x − 2
+3
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+< 1 ⇒ |x − 2| < 3.
+
+So, the radius of convergence is R = 3, and the series converges for x ∈ (−1, 5).
+
+Next, we test the endpoints.
+
+At x = −1:
+
+∞
+(cid:88)
+
+n=1
+
+(−1 − 2)n
+
+n · 3n =
+
+∞
+(cid:88)
+
+n=1
+
+(−3)n
+n · 3n =
+
+∞
+(cid:88)
+
+n=1
+
+(−1)n
+n
+
+,
+
+which is the alternating harmonic series.
+decreasing sequence that goes to zero.
+
+It converges by the alternating series test since 1
+
+n is
+
+At x = 5:
+
+∞
+(cid:88)
+
+n=1
+
+(5 − 2)n
+n · 3n =
+
+∞
+(cid:88)
+
+n=1
+
+3n
+n · 3n =
+
+∞
+(cid:88)
+
+n=1
+
+1
+n
+
+,
+
+which is the harmonic series. It diverges by the p-series test or the integral test.
+
+Final Answer: Radius of convergence is R = 3. Interval of convergence is
+
+[−1, 5) .
+
+MAT187
+
+Page 3 of 4
+
+Jun 4, 2025
+
+5. Consider a mechanical system in which a damped spring is compressed, released, and oscillates in-
+definitely. The displacement amplitude after each bounce is reduced by a constant factor r, where
+0 < r < 1, due to energy loss from damping. The system starts with amplitude A0, and each cycle
+takes the same amount of time.
+
+Each oscillation releases energy proportional to the square of the amplitude. That is, the energy
+released in the first oscillation is E1 = kA2
+(a) (6 points) Show that the total energy dissipated by the system over all time is finite, and find a
+
+0, the second is E2 = k(rA0)2, and so on.
+
+formula for it in terms of k, A0, and r.
+
+Solution: The total energy dissipated is the sum of the energy released during each oscillation:
+
+Etotal = kA2
+
+0 + k(rA0)2 + k(r2A0)2 + · · · = kA2
+0
+
+(cid:0)1 + r2 + r4 + r6 + · · · (cid:1)
+
+This is a geometric series with first term 1 and ratio r2, where 0 < r2 < 1. The sum of an
+infinite geometric series (cid:80)∞
+
+n=0(r2)n is:
+
+Thus,
+
+∞
+(cid:88)
+
+n=0
+
+r2n =
+
+1
+1 − r2
+
+Etotal = kA2
+0 ·
+
+1
+1 − r2
+
+Since 0 < r < 1, the denominator is positive and finite, so the total energy is finite.
+
+(b) (3 points) Explain what this means about how real-world damped systems behave. Can such
+
+systems dissipate an infinite amount of energy over time?
+
+Solution: This result shows that although the damped system continues to oscillate infinitely
+(in theory), the amount of energy lost in each cycle decreases rapidly. The total energy
+dissipated over all time converges to a finite value.
+In engineering terms, this means that a damped system cannot release infinite energy—it
+is bounded by the initial energy input. This aligns with physical intuition: once the initial
+energy is dissipated through damping, the system comes to rest or settles, and no further
+energy is lost.
+
+MAT187
+
+Page 4 of 4
+
+Jun 4, 2025
+
+

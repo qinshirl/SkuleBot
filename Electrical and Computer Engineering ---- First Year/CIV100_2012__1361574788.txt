@@ -1,0 +1,112 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 1   
+Due: 4:00 pm on September 14, 2012 
+
+1.  A  weight  block  is  subjected  to  the  forces  shown. 
+
+Determine the resultant force, using 
+
+the parallelogram rule, 
+
+i) 
+ii)  the polygon rule (using trigonometry), 
+iii)  the rectangular components method, and 
+iv)  the polygon rule (using a scaled drawing). 
+
+2.  A  steel  bracket  is  subjected  to  the  forces  shown.  In 
+order  for  the  resultant  force  to  be  directed  along  the 
+positive y axis, determine the magnitude and direction 
+(i.e., θ) of F1 if F1 is to be a minimum. 
+
+3.  If cable AB can withstand a maximum force of 
+
+4000 N, determine the maximum force in cable BC and 
+the distance y so that 300-kg crate can be supported. 
+
+4.  A gusset plate is subjected to the forces shown. 
+
+Determine the force F1 and the angle θ for equilibrium. 
+
+400 N 
+
+300 N 
+
+30° 
+
+40° 
+
+5 
+4 
+
+3 
+
+250 N 
+
+1200 kg  
+
+600 N 
+
+y 
+
+F1 
+
+50° 
+
+x 
+
+θ 
+ 25° 
+
+2.2 m  
+
+A 
+
+y  
+
+1.6 m  
+
+B 
+
+C 
+
+300 kg 
+
+10 kN  
+
+42° 
+
+F1 
+
+θ 
+
+4 kN  
+
+8 kN  
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

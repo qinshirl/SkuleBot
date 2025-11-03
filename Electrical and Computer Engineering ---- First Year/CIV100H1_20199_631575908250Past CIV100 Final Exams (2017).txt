@@ -1,0 +1,547 @@
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2017	
+
+Question 2 
+Determine the tension in the cable at B when the 180 N force is applied to the pedal at E. Also, calculate 
+the reaction force components at the pins at A and D. If the cable at B has a diameter of 7.0 mm and the 
+yield stress of the cable material is 70 MPa, determine the actual load (safety) factor for the cable. In 
+your opinion, is this a ‘safe’ design? In all your calculations, neglect friction and the mass of the 
+components. 
+
+Answers: 
+
+Mamata
+
+TB = 2,690 N (Tension) 
+Ax = 1,340 N → 
+Dx = 432 N → 
+L.F. = 1.00 – Recommend to redesign 
+
+Ay = 1,340 N ↑ 
+Dy = 432 N ↓ 
+
+Question 3 
+The fresh water channel illustrated can be emptied by opening the 6,300 kg solid gate ABC (represented 
+in cross-section). The gate is 5 m wide (into the paper), is pinned at A, rests against the vertical wall at B 
+and can be operated by pulling on the cable attached to it at C. Determine the minimum magnitude of 
+the force, F, required to open the gate. 
+
+Answer: 
+
+FMIN = 37.2 kN (Tension) 
+
+Egging
+
+Question 5 
+The frame shown is supported by a ball-and-socket joint at A and a pin at C. (The pin is similar to a ball-
+and-socket joint that was modified to allow translation in the x-direction.) The strut EF has a ball-and-
+socket joint at each end. The cable EBD runs over a small frictionless pulley at B and carries a 2,700 N 
+weight at D. Neglecting the weight of the members, determine the force exerted by member EF on the 
+frame at F and the magnitude of the total reaction at C. 
+
+Answers: 
+
+Aaaa
+
+!1>######⃗ = 1,4305⃗ + 3,820*⃗ + 1,910-#⃗	/ 
+RC = 1,430 N 
+
+Question 1 
+The 7.5 m-long timber floor beam, having a square cross-section, is to be designed to carry the 
+loads shown. Because only 5 m-long timbers are available, the beam is to be fabricated from two 
+pieces connected together by a nailed joint, D. You are required to: 
+(a) In the space provided, draw the shear force and bending moment diagrams for the beam 
+indicating the values at points A, B, and C, and any potential local maxima and minima; 
+(b) If wood has a strength of 30 MPa, in both tension and compression, determine the required 
+size, a, for the beam such that it can safely carry the floor loads. The load factor for timber in 
+bending is 1.67; and 
+(c) Determine the distance b for the most advantageous position of the joint D, knowing that 
+nailed joints are strong in shear but weak in bending. 
+
+qgEhh③gaf
+
+Answers: 
+
+a = 200 mm 
+
+aim
+
+b = 4.82 m 
+(Place joint D at point E, where M = 0) 
+
+Question 4 
+Determine the force in members BC, CJ, DF, FH, HI and state if the members are in tension or 
+compression. Members CJ, DF and FH are to be fabricated using the same circular hollow section 
+having an external diameter of 30 mm and a yield stress of 150 MPa. Knowing that the load factor 
+for members in axial tension is 1.5, determine the minimum wall thickness of the cross-section, t, 
+such that the three members are safe. The wall thickness can be selected in 0.5 mm increments. 
+Also, what is the elongation of member DF? The modulus of elasticity for the material is 69,000 
+MPa. 
+
+Answers: 
+
+FBC = 5.00 kN (C) 
+FCJ = 18.18 kN (T) 
+FDF = 20.8 kN (T) 
+FFH = 15.00 kN (T) 
+FHI = 6.67 kN (C) 
+
+Bahai
+
+           (T = Tension; C = Compression) 
+
+t = 2.50 mm 
+DDF = +2.10 mm 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2017	
+
+Question 2 
+Determine the tension in the cable at B when the 180 N force is applied to the pedal at E. Also, calculate 
+the reaction force components at the pins at A and D. If the cable at B has a diameter of 7.0 mm and the 
+yield stress of the cable material is 70 MPa, determine the actual load (safety) factor for the cable. In 
+your opinion, is this a ‘safe’ design? In all your calculations, neglect friction and the mass of the 
+components. 
+
+Answers: 
+
+TB = 2,690 N (Tension) 
+Ax = 1,340 N → 
+Dx = 432 N → 
+L.F. = 1.00 – Recommend to redesign 
+
+Ay = 1,340 N ↑ 
+Dy = 432 N ↓ 
+
+Question 3 
+The fresh water channel illustrated can be emptied by opening the 6,300 kg solid gate ABC (represented 
+in cross-section). The gate is 5 m wide (into the paper), is pinned at A, rests against the vertical wall at B 
+and can be operated by pulling on the cable attached to it at C. Determine the minimum magnitude of 
+the force, F, required to open the gate. 
+
+Answer: 
+
+FMIN = 37.2 kN (Tension) 
+
+Question 5 
+The frame shown is supported by a ball-and-socket joint at A and a pin at C. (The pin is similar to a ball-
+and-socket joint that was modified to allow translation in the x-direction.) The strut EF has a ball-and-
+socket joint at each end. The cable EBD runs over a small frictionless pulley at B and carries a 2,700 N 
+weight at D. Neglecting the weight of the members, determine the force exerted by member EF on the 
+frame at F and the magnitude of the total reaction at C. 
+
+Answers: 
+
+!1>######⃗ = 1,4305⃗ + 3,820*⃗ + 1,910-#⃗	/ 
+RC = 1,430 N 
+
+Question 1 
+The 7.5 m-long timber floor beam, having a square cross-section, is to be designed to carry the 
+loads shown. Because only 5 m-long timbers are available, the beam is to be fabricated from two 
+pieces connected together by a nailed joint, D. You are required to: 
+(a) In the space provided, draw the shear force and bending moment diagrams for the beam 
+indicating the values at points A, B, and C, and any potential local maxima and minima; 
+(b) If wood has a strength of 30 MPa, in both tension and compression, determine the required 
+size, a, for the beam such that it can safely carry the floor loads. The load factor for timber in 
+bending is 1.67; and 
+(c) Determine the distance b for the most advantageous position of the joint D, knowing that 
+nailed joints are strong in shear but weak in bending. 
+
+Answers: 
+
+a = 200 mm 
+
+b = 4.82 m 
+(Place joint D at point E, where M = 0) 
+
+Question 4 
+Determine the force in members BC, CJ, DF, FH, HI and state if the members are in tension or 
+compression. Members CJ, DF and FH are to be fabricated using the same circular hollow section 
+having an external diameter of 30 mm and a yield stress of 150 MPa. Knowing that the load factor 
+for members in axial tension is 1.5, determine the minimum wall thickness of the cross-section, t, 
+such that the three members are safe. The wall thickness can be selected in 0.5 mm increments. 
+Also, what is the elongation of member DF? The modulus of elasticity for the material is 69,000 
+MPa. 
+
+Answers: 
+
+FBC = 5.00 kN (C) 
+FCJ = 18.18 kN (T) 
+FDF = 20.8 kN (T) 
+FFH = 15.00 kN (T) 
+FHI = 6.67 kN (C) 
+
+           (T = Tension; C = Compression) 
+
+t = 2.50 mm 
+DDF = +2.10 mm 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

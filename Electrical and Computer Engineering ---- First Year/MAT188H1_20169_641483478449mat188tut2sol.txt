@@ -1,0 +1,546 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 2
+
+1 (a) Does the line through the point P (1, 2, −3) with direction vector d =
+
+
+
+
+
+
+
+1
+2
+−3
+
+ lie in the plane 2x1 − x2 −
+
+x3 = 3? Explain.
+Solution: The vector equation of the line passing through P (1, 2, −3) with direction vector d is:
+
+
+
+
+
+
+
+
+
+ =
+
+
+
+1
+2
+−3
+
+
+
+
+
+ + t
+
+
+
+
+
+
+
+1
+2
+−3
+
+(1)
+
+x
+y
+z
+
+where t ∈ R. Notice that 2(1 + t) − (2 + 2t) − (−3 − 3t) = 3 + 3t (cid:54)= 3, so that the line does not pass
+through the given plane.
+
+1 (b) Is it true that every plane that contains the points P (1, 2, −1) and Q(2, 0, 1) also contains the point
+
+R(−1, 6, −5)? Explain.
+
+Solution: Yes, since R is on the line through P and Q. To see this, note that the line through the
+points P and Q is given by
+
+
+
+
+
+ =
+
+
+
+
+
+
+
+x
+y
+z
+
+1
+2
+−1
+
+
+
+
+
+ + t
+
+
+
+
+
+
+
+1
+−2
+2
+
+and
+
+
+
+
+
+
+
+−1
+6
+−5
+
+ =
+
+
+
+
+
+1
+2
+−1
+
+
+
+
+
+ + (−2)
+
+
+
+
+
+
+
+1
+−2
+2
+
+(2)
+
+(3)
+
+1 (c) Show that if a plane contains two distinct points P and Q, then it contains every point on the line
+
+through P and Q.
+
+Solution: Notice that the equation of the line passing through P (xp, yp, zp) and Q(xq, yq, zq) is given
+by:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xq − xp
+yq − yp
+zq − zp
+where t ∈ R. Consider a plane ax + by + cz + d = 0 that contains P and Q. Therefore, the coordinates
+of P and Q satisfy the plane equation, so that:
+
+(1 − t)xp + txq
+(1 − t)yp + tyq
+(1 − t)zp + tzq
+
+xp
+yp
+zp
+
+ + t
+
+ =
+
+ =
+
+x
+y
+z
+
+(4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+axp + byp + czp + d = 0
+axq + byq + czq + d = 0
+
+Notice the following:
+
+(1 − t)(axp + byp + czp + d) + t(axq + byq + czq + d) = (1 − t)(0) + t(0) = 0
+
+or equivalently,
+
+a((1 − t)xp + txq) + b((1 − t)yp + tyq) + c((1 − t)zp + tzq) = 0
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+which means that any point on the line passing through P and Q, i.e. has coordinates as in (4), satisfy
+the equation of the plane.
+
+1 of 4
+
+2. We deﬁne the distance between two points P and Q in Rn to be the length of the line segment from
+
+P to Q (or, equivalently, Q to P ).
+
+(a) Let P and Q be two points in R3. Show that the set of points that are equidistant (equal distance)
+
+from P and Q is a plane, determine a normal vector and a point on the plane.
+Solution 1: Let v ∈ R3. Then
+
+v is equidistant from P and Q ⇐⇒ ||v − P || = ||v − Q||
+
+⇐⇒ ||v − P ||2 = ||v − Q||2 (since lengths are non-negative)
+⇐⇒ (v − P ) · (v − P ) = (v − Q) · (v − Q)
+
+⇐⇒ (v − P ) · (v − P ) − (v − Q) · (v − Q) = 0
+⇐⇒ (cid:0)(v − P ) − (v − Q)(cid:1) · (cid:0)(v − P ) + (v − Q)(cid:1) = 0
+⇐⇒ (cid:0)Q − P ) · (cid:0)2v − P − Q(cid:1) = 0
+⇐⇒ (Q − P ) · (cid:0)v − 1
+
+2 (P + Q)(cid:1) = 0
+
+Here, to get from the 4th line to the 5th, we use a “diﬀerence of squares” formula: for any a, b ∈ R3
+we have a · a − b · b = (a − b) · (a + b).
+
+Notice that the ﬁnal line is the equation of a plane with normal vector
+midpoint 1
+
+2 (P + Q) of P and Q.
+
+−−→
+P Q = Q − P , containing the
+
+(b) Find the scalar equation of the plane, each point of which is equidistant from the points P (0, 1, −1)
+
+and Q(2, −1, −3). Determine a normal vector and a point on the plane.
+
+Solution: Using the result from part (a), we have the normal vector to be n =
+
+
+
+
+
+
+
+2
+−2
+−2
+
+, and a point
+
+on the plane is the midpoint of between P and Q, i.e. has coordinates (1, 0, −2). An equation of the
+plane is thus: 2x − 2y − 2z = 6.
+
+(c) Consider the plane you found in part (b). Find the (shortest) distance from the point R(1, 1, 1) to the
+
+plane and determine the point Q on the plane closest to the point R(1, 1, 1) .
+
+Solution: The shortest distance is ||projn
+
+(cid:126)P R|| = || − 1
+6
+
+
+
+ || =
+
+√
+3
+3 . The point on the plane closest
+
+
+
+
+
+2
+−2
+−2
+
+to R is:
+
+(cid:126)P + (cid:126)P R − projn
+
+(cid:126)P R =
+
+
+
+
+
+
+
+0
+1
+−1
+
+ +
+
+
+
+ − (−
+
+1
+6
+
+
+1
+0
+
+2
+
+
+
+
+
+2
+−2
+−2
+
+
+
+) =
+
+
+
+2
+1
+
+
+1
+
+2
+3
+
+(9)
+
+3. Let d be a non-zero vector in R3. Let projd(x) be the orthogonal projection of x onto d.
+(a) Show that for every x, y ∈ R3 and c ∈ R
+
+(i) projd(x + y) = projd(x) + projd(y)
+
+(ii) projd(cx) = c projd(x)
+
+2 of 4
+
+These are called the linearity properties of the orthogonal projection.
+
+Solution: First we recall that projd(x) =
+properties: for every x, y ∈ R3 and c ∈ R we have
+
+x · d
+(cid:107)d(cid:107)2 d. Also, recall that the dot product has the following
+
+(x + y) · d = x · d + y · d
+
+and
+
+(cx) · d = c(x · d)
+
+Therefore
+
+projd(x + y) =
+
+(x + y) · d
+(cid:107)d(cid:107)2
+
+d =
+
+x · d
+(cid:107)d(cid:107)2 d +
+
+y · d
+(cid:107)d(cid:107)2 d = projd(x) + projd(y),
+
+(cx) · d
+(cid:107)d(cid:107)2 d = c
+(b) Notice by property (ii), projd(−x) = −projd(x) for every x ∈ R3. Show algebraically that proj−d(x) =
+
+x · d
+(cid:107)d(cid:107)2 d = c projd(x)
+
+projd(cx) =
+
+projd(x) for every x ∈ R3, and explain this result geometrically.
+Solution: By dealing with the negative signs, we get
+
+proj−d(x) =
+
+x · (−d)
+
+(cid:107)−d(cid:107)2 (−d) = (−1)2 x · d
+
+(cid:107)d(cid:107)2 d = projd(x)
+
+since x · (−d) = −(x · d) and (cid:107)−d(cid:107)2 = | − 1|2(cid:107)d(cid:107)2 = (cid:107)d(cid:107)2.
+Geometrically, this corresponds to the fact that d and −d generate the same line through the origin.
+The projections projd(x) and proj−d(x) can both be deﬁned as the point on this line which is nearest
+to x, hence they are equal.
+
+(c) Show algebraically that projd(projd(x)) = projd(x) for every x ∈ R3, and explain this result geomet-
+
+rically.
+
+Solution:
+
+projd(projd(x)) = projd(
+
+x · d
+||d||2 d)
+d · d
+||d||2 d
+
+=
+
+x · d
+||d||2
+x · d
+||d||2 d
+= projd(x)
+
+=
+
+Geometrically, this corresponds to the fact that projecting a vector proportional to d onto d is the
+vector itself.
+
+(d) What can you say about the vectors d and e if projd(proje(x)) = 0 for every x ∈ R3? Explain.
+
+Solution:
+
+(d) Assume that projd(proje(x)) = 0 for every x ∈ R3. Then certainly projd(proje(e)) = 0. Since
+
+proje(e) = e, we have
+
+0 = projd(e) =
+
+e · d
+(cid:107)d(cid:107)2 d
+
+Since we’ve assumed that d (cid:54)= 0, this implies that e · d = 0. i.e. e and d are orthogonal.
+Conversely, if e · d = 0 then projd(proje(x)) = 0 for all x ∈ R3. Indeed projd(x) is always proportional
+to d, and the assumption d · e = 0 implies that proje(cd) = 0 for any c ∈ R.
+Geometrically this situation corresponds to projecting onto a line, then projecting the result onto a
+second line which is perpendicular to the ﬁrst; the result will always be 0.
+
+3 of 4
+
+4. Let x, y, z ∈ Rn, and a, b ∈ R. Decide if the following statements are true or false. If the statement is
+
+true, prove it; if it’s false, ﬁnd a counterexample. You may ﬁnd that drawing a picture helps.
+
+(a) If x and y are non-zero, and a and b are positive, the angle between ax and by is the same as the angle
+
+between x and y.
+
+Solution: True. The angle between ax and by is:
+
+cos−1(
+
+ax · by
+(cid:107)ax(cid:107)(cid:107)by(cid:107)
+
+) = cos−1(
+
+ax · by
+|a|(cid:107)x(cid:107)|b|(cid:107)y(cid:107)
+
+) = cos−1(
+
+x · y
+(cid:107)x(cid:107)(cid:107)y(cid:107)
+
+)
+
+(10)
+
+which is the same as the angle between x and y.
+
+(b) If x is orthogonal to both y and z, then x is orthogonal to every vector in span{y, z}.
+
+Solution: True. Let w = t1y + t2z be in the span of the two vectors. Notice that x · w = t1x · y +
+t2x · z = t1(0) + t2(0) = 0, because x is orthogonal to y and z. Thus, x is orthogonal to any vector
+in the span of y and z.
+
+(c) ||x + y|| = ||x − y|| if and only if x and y are orthogonal.
+
+Solution: True. Notice
+
+||x + y|| = ||x − y||
+
+⇐⇒ (x + y) · (x + y) = (x − y) · (x − y)
+
+⇐⇒ ((x + y) − (x − y)) · x + ((x + y) + (x − y)) · y = 0
+
+⇐⇒ (2y) · x + (2x) · y = 0
+
+⇐⇒ (y) · x + (x) · y = 0
+
+⇐⇒ x · y = 0
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
+
+4 of 4
+
+

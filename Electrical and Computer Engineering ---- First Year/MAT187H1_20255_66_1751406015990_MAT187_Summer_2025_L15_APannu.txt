@@ -1,0 +1,625 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 15
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Harmonic Oscillators
+An undamped harmonic oscillator
+
+is
+
+It
+
+any system that
+Force Kx
+Kx
+
+m
+
+mitk
+
+satisfies
+
+at É
+
+KO
+
+ided spring
+tmfc dieifr.fm
+
+a
+
+pendulum
+
+for small
+harmonic oscillo
+
+LCRze.ro teststan
+
+Solution
+
+to
+
+undamped
+
+harmonic
+
+oscillator
+
+Mi Ky 0
+
+char eg mm K 0
+
+r
+
+fTt w since Kim 0
+
+current
+
+touti
+
+always pore
+Imaginary
+
+fmCoswt
+
+Csn wt
+
+AsolutionofformC.co slot Casinwt
+or Asin wt 0
+
+A cos wt 0
+
+as
+
+w VET
+
+we
+
+often write
+
+mitkxoiwx 0
+
+can
+
+be written
+
+PP
+
+Acos wt 0
+
+c ios wt Casin wt
+
+msn.name Ei i
+
+i iiI
+
+E
+
+Acostat 0
+
+amplitude
+
+Phase shift
+
+A
+
+Solve the IVP ¨x + 4x = 0, x0 = 10, y0 = 0
+
+V 0
+
+Iight
+
+velocity at t 0
+
+ol
+
+o
+
+general solution
+
+X t
+
+10 Xo
+
+C cos 2 C2 sin 2
+
+c
+
+C 1
+
+2 0
+
+4100
+
+X o
+
+2C sin 20
+202
+
+212cos 2n
+6206
+
+X t
+
+10 cos 2
+
+amplitude
+
+Damped Harmonic Oscillator
+
+include a
+velocity
+
+force that opposes
+
+Effing
+
+839
+mengforce
+
+mi 28 Kx 0
+
+applies
+
+to
+laminar drag
+interngbringresitance of
+
+her
+
+circuits
+
+resistor
+
+Inf
+
+solution
+
+mp 28 r k O
+8
+
+r
+
+T 4mI
+183mF
+
+r km
+if
+
+82 mk 70
+82 MK 8 is large
+
+2 red roots
+
+overdamped
+
+if
+
+82 MK co
+
+complex roots
+
+if 8.1mi
+
+t.si
+8 justright
+
+epectedderdEiedroot
+
+Critically damped
+
+overdaEqe.co
+
+r
+
+o
+
+mnank
+tm182mF 20
+intent
+
+t Cent cart
+
+8 mkso
+
+I.cat
+
+co
+
+Ese
+
+overdamped there
+no
+
+is
+
+ossidations
+
+underdampefaf
+
+eq.mn 28
+
+k o
+
+82 mka
+
+led wa Mk 82
+
+i mkt
+
+km in
+
+ra
+
+I
+
+i JmkF
+
+In iced
+
+f
+
+4m C cos wat C sin wat
+e
+it
+
+tAcos watt0
+
+ae.EE
+
+tittle
+
+underdamped
+
+oscillations
+
+there are
+that die
+
+down
+
+to zero
+
+TaeKmt
+
+critically.IE
+
+e
+
+mr2 28r k o
+
+82 mk o
+
+r
+
+In dot
+I.ro
+
+f
+
+C e
+
+Kmt catectin t
+km t
+
+i Cat e
+
+Folution
+goes to
+zero without oscillation
+
+L
+F vo is
+then solution crosses
+zero exactly once
+
+initial velocity
+
+large
+
+Solve the initial value problem:
+
+¨x + 6 ˙x + 9x = 0,
+
+x(0) = 2,
+
+˙x(0) =
+
+1
+
+→
+
+char eq
+
+E
+
+X t
+
+2 Xo X o
+
+root
+
+repeated
+
+r 6 9 0
+3
+r
+8 Cat est
+cat 3 est Get
+3.0
+
+c Ca o
+
+e
+
+c
+
+C to 2
+
+1 Vo X o 3C C2 o e
+3C Cz Vo
+
+30
+
+Cae
+
+C ca
+
+C to
+
+C2 Vot37
+
+C2
+
+1 6
+
+XLt
+
+254é3
+
+Forced Harmonic Oscillators
+A
+
+damped
+
+with
+
+external
+
+harmonic oscillator but
+driving force
+
+mi 28 Kx F t
+the
+
+ngfi FE.is
+
+types
+
+driving force
+of
+3
+Eit
+Flt
+F f Aect
+
+f t
+
+Asin wt
+
+polynomial
+
+exponential
+
+sinosoudial
+
+ex
+
+tormo
+
+Pushting
+
+mess
+
+most interesting
+harmonic
+
+for
+oscillators
+
+wmd
+
+i
+
+Homogenous
+
+solution
+
+E Acos wt
+
+w VET
+98 phase
+
+IIITxt Acos wt B cos WF
+
+CYEI.LI wrt d
+
+x t Acoswt Btcos wto
+
+co simplicity assume 0 0
+
+but solution
+
+looks same
+
+E cos Kft
+Tfrg
+
+cos cent
+
+trigidentity
+
+Tellfrey
+
+COS WIFE
+
+ANNA.ee
+
+this
+
+is
+
+called
+
+beats
+
+phenomena
+
+most
+
+pronouced
+
+when
+
+w is
+
+closeto wf
+
+i e.tw Wfl small
+
+so
+lower Fred
+
+is
+
+the envelope
+
+Casef.Resoncnce
+
+wewxct
+
+Acoslwtl
+
+BIL.gg
+
+for
+
+t
+
+large
+
+B is
+dependent
+
+constant not
+initial
+
+on
+
+condition
+
+growing oscillations
+to infinity
+
+Ip
+
+Bt
+
+Bt
+
+Éii
+
+gaE
+
+my 28x k Focos wet
+
+4
+
+t.ae
+
+over damped
+
+critically
+
+Itree cases costort
+
+a
+
+complementary solin
+
+not
+
+Xpf Apcos Wrt
+
+É
+
+Ingerd
+
+cover
+
+x t Cent cent
+
+Apcos wit
+
+under
+
+X t
+
+e Acoscut
+
+Apcos wrt
+
+centials
+
+xeniggesia
+
+complementary solin
+
+0
+
+for large t
+
+t
+
+Apcos wrt
+
+h
+
+mr
+
+Tefellysystems moves
+
+with
+
+driving freq
+
+Conclusion real world systems don't experience
+or
+
+Phenomena
+
+true resonance
+
+beats
+
+lightly damped
+
+oscillators
+
+demonstrates behaviour
+
+similar
+
+to resonance s beats
+
+for small time
+
+

@@ -1,0 +1,223 @@
+Practise Problem Set 6
+
+MAT 187 - Summer 2025
+
+These questions are meant for your own practice for quiz 6 and are not to be handed in.
+Some of these questions, or problems similar to these, may appear on the quizzes or exams.
+Therefore, solutions to these problems will not be posted but you may, of course, ask about
+these questions during office hours, or on Piazza.
+
+Suggestions on how to complete these problems:
+
+• Solution writing is a skill like any other, which must be practiced as you study. After
+you write down your rough solutions, take the time to write a clear readable solu-
+tion that blends sentences and mathematical symbols. This will help you to retain,
+reinforce, and better understand the concepts.
+
+• After you complete a practice problem, reflect on it. What course material did you
+use to solve the problem? What was challenging about it? What were the main ideas,
+techniques, and strategies that you used to solve the problems? What mistakes did
+you make at the first attempt and how can you prevent these mistakes on a Term Test?
+What advice would you give to another student who is struggling with this problem?
+
+• Discussing course content with your classmates is encouraged and a mathematically
+healthy practice. Work together, share ideas, explain concepts to each other, compare
+your solutions, and ask each other questions. Teaching someone else will help you
+develop a deeper level of understanding. However, it’s also important that reserve
+some time for self-study and self-assessment to help ensure you can solve problems on
+your own without relying on others.
+
+1. Simplify the following expressions:
+
+(a) (3 + 4i) − (1 − 2i)
+
+(b) (2 + 3i)(1 − i)
+(c) 5+2i
+1−i
+(d) −3 + 5i
+
+(Complex conjugate)
+
+(e) |4 − 3i|
+
+(Modulus)
+
+2. Convert each complex number to polar
+
+3. Convert the following complex numbers
+
+form (exponential form):
+(a) 1 + i
+
+(b) −2 + 2i
+√
+
+(c) −1 −
+
+3i
+
+to rectangular form a + bi:
+(a) 3eiπ/4
+(b) 2 (cid:0)cos π
+
+6 + i sin π
+
+(cid:1)
+
+6
+
+(c) 4e−iπ/2
+
+1
+
+4.
+
+(a) The function T1(z) = w1z acts geometrically by halving the modulus of each com-
+
+plex number z. What is w1?
+
+(b) The transformation T2(z) = w2z acts geometrically by rotating each complex num-
+
+ber z by angle π
+
+3 . What is w2?
+
+5. Solve the following homogeneous linear differential equations with constant coefficients.
+Find the general solution in each case. You may use a computational tool to factor the
+characteristic polynomial if needed.
+(a) y′′ − 5y′ + 6y = 0
+
+(b) y′′ + 2y′ + 5y = 0
+
+(c) y′′ + 4y = 0
+
+(d) y′′ + 6y′ + 9y = 0
+
+(e) y′′′ − 6y′′ + 11y′ − 6y = 0
+
+(f) y′′′ − 3y′′ + 3y′ − y = 0
+
+(g) y(4) − 2y′′ + y = 0
+
+(h) y(4) + 8y(3) + 24y′′ + 32y′ + 16y = 0
+
+6. Solve the following second-order nonhomogeneous differential equations using the method
+
+of undetermined coefficients. Find the general solution in each case.
+(a) y′′ − 3y′ + 2y = et
+(b) y′′ − 3y′ + 2y = cos t
+(c) y′′ − 3y′ + 2y = cos t + et Hint: If you did the previous 2 parts, this is really easy.
+(d) y′′ − 2y′ + y = tet
+(e) y′′ − 2y′ + y = 7
+(f) y′′ − y = t2 + t
+
+7. Find the period and amplitude of the solution to the initial value problem
+
+
+
+
+
+
+y′′ + 9y = 0
+y(0) = 0
+y′(0) = 5.
+
+8. A mass sitting on a frictionless table is attached to a wall by an ideal spring. The mass
+is pulled 5 cm out from its natural resting length and let go. It travels with a period of
+4 seconds.
+(a) Find an ordinary differential equation of the form ay′′ + by′ + cy = 0 with corre-
+
+sponding initial-values to model the motion of the mass.
+
+(b) What would be changed in the equation from (a) if the mass was instead pushed 3
+
+cm toward the wall and is still approaching it at 1 cm/s when let go?
+
+2
+
+(c) What would be changed in the equation from (a) if the mass was doubled?
+
+9. Let y(t) denote the displacement of a spring from its equilibrium position. Compute the
+displacement of the spring when t = 3π seconds, where y(t) is modelled by the initial
+value problem
+
+
+
+
+
+
+y′′ + 4y = g(t)
+y(0) = 1
+y′(0) = 2,
+(cid:40)
+
+and g(t) is the piecewise function g(t) =
+
+− sin(t),
+cos(2t),
+
+0 ≤ t ≤ π
+2
+t > π
+2 .
+
+10. In this question, you will explore some of the ideas behind “guessing” the form of a
+particular solution of a non-homogeneous ODE. Make sure to carefully explain your
+reasoning in your solution.
+
+Consider a mass-spring system with mass m, drag constant µ and Hooke’s constant k
+with external forcing being applied to the system given by f (t) = eαt, where α ∈ R.
+Let P (r) denote the characteristic polynomial of the ODE that models this system. In
+this problem, we search for particular solutions to this ODE of the form yp(t) = A(t)eαt,
+where A(t) is some unknown function.
+(a) Find the ODE that models this system. Show that if yp(t) = A(t)eαt is a particular
+
+solution to this ODE, then A(t) must solve the differential equation
+
+P ′′(α)
+2
+
+A′′(t) + P ′(α)A′(t) + P (α)A(t) = 1.
+
+(b) Suppose P (α) = 0 and P ′(α) ̸= 0. Find a particular solution to the ODE that mod-
+els this spring-mass system and a single solution to the corresponding homogeneous
+system.
+
+(c) Suppose P (α) = P ′(α) = 0. Find the general solution of the ODE that models this
+
+spring-mass system.
+
+11. In this question we explore how solutions to a forced undamped spring without resonance
+can be used to obtain the resonating solution through taking a limit. Make sure to
+carefully explain your reasoning in your solution.
+
+Consider the initial value problem for an undamped spring-mass system with oscillatory
+external forcing,
+
+
+
+
+
+
+y′′ + 9y = cos(ωt)
+y(0) = 0
+y′(0) = 1.
+
+(a) Let yω(t) denote the solution to the initial value problem for ω ̸= 3. Compute yω(t).
+yω(t). Make sure you explain your steps. Call this limit– if
+(b) Compute the limit lim
+ω→3
+
+exists– y3(t). Show that y3(t) solves the initial value problem
+
+
+
+y′′ + 9y = cos(3t)
+y(0) = 0
+y′(0) = 1.
+
+
+
+3
+
+

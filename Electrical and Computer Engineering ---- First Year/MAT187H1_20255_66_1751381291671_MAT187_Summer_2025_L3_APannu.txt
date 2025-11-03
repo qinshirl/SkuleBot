@@ -1,0 +1,378 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 3
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+ 
+ImproperIntegrals-InﬁniteBoundsSaFxdxcanwetakeinfiniteqboundsgfndxcanthisbefiniteFlydxwhywewanttodothisexRadioactivedecayNCAbethenumberofradioactiveparticlesOfederivationlaterinthecoursexisdecayconstanthowmanyparticlesarelostaftersometimeEaSafeᵗdteasiertocomputeDefnfifendxIFaxTdefinedTÉEhimtodefiniteintegralsfcadx.fmFendxDefnWesayFdxconvergediflmaffendxexistsandequalsfinitevalueotherwisedivergesI'mDNEfossenatestypesofdivergencesAnintegralfadxcanonlyconvergeifkmFxOflx0doesn'tonlyfinitegTnotjustbecauseimplyconvergence´→11x2dxffi.IIT.tw1is.ittt011areaisfiniteandequalto1´→11xdxdxinchagoImoInt0infiniteareaissmallerandisfiniteasseeninpreuexampletry this
+
+0
+
+xex dx
+
+↑→
+
+´
+
+1
+
+edx
+
+xe ex
+
+integration
+
+by parts
+
+t fet et
+
+I
+1 0 0
+
+textet
+
+Is
+
+hospital
+
+time
+
+´→0sin(x)dxtrythisotsincidxPositiveLcostCosoM111CostthimDNEFossilnegativeDiverges´→↑→sin(x)dxsincodxIIcostcopfunctionNdoesn'tmakesensegivenlastquestioninforrectbcifsince0thensince0Improper Integral - Inﬁnite Bounds
+Defn Feldx
+
+f xdx
+
+f x dx
+
+Lbffaidx li.me
+
+aFexdx
+
+deal with each
+
+using separe
+
+limit
+
+ex
+
+fsincadx fsincxldxtfsincxdx.in diverges
+
+TE
+
+split
+but
+
+it at zero
+can split
+
+anywhere
+
+1
+x 2+4 dx
+
+→
+↑→
+
+´
+
+try this
+
+at
+
+home
+
+ImproperIntegral-VerticalAsmptotepossiblyinfinitea1ofasmptoteatDefinSupposefxhasanasmptoteatxaFadeLmaffladxFadeImaFendxb´101xdxverticalasymtoteat09tedxKreisIn1InE1111Inearlierwefoundtheareaalsoxdiverges´101xpdxwhatvaluesofp1doesintegralconvergedxxi.pkffoEaruleto11textfinite1p0palDNE1PCOpotfanxisthelinebetweenconvergeanddivergence´→11xpdxP1Imo.ltdxtExitI1tfiniteinfiniteFEI1PCOP11popalp-Test
+
+converges
+
+diverges
+
+for pot
+for P I
+
+x̅
+
+to
+
+converge for pat
+for p 1
+
+diverges
+
+diverges
+
+point
+
+in
+
+both
+
+cases and
+
+is
+
+cut off
+
+Careful only
+point Torbitfunctions
+
+for powers
+
+ex
+
+but
+
+I
+
+not
+
+cut off
+
+dx DNE
+
+´1↑11xasymptoteatx0splitintotwolimits1,0dxdx7XoTETEdxdivergesImproper Integrals
+
+Defin Suppose
+
+FLX has
+
+vertical
+
+asymptote
+
+at
+
+x a
+
+Fendx ffxdxtfpexdxceaeb
+
+Ima.ffadx lima.is Flndx
+
+ffcxdx ffcxdxtffexdxtf.fi
+
+Fendy
+
+b
+
+Tainfinitusesseparatimit
+
+then
+
+integral
+
+if
+
+T.tt
+
+tii
+
+anyaggerge
+si.s
+
+sisi.s
+
+Comparison Test
+
+Thm Let
+
+o fCx g x
+
+if
+
+improper integral Glx
+
+a
+
+converges
+
+then
+
+come
+
+g x
+
+converges
+
+then F
+
+converge
+
+If
+
+improper
+
+integral fFCA diverges
+
+then
+
+diverge
+
+Cgi
+
+sin2x
+x 2 dx
+
+→1
+
+´
+
+educated
+
+o
+
+need
+
+than
+
+Converge and diverge
+
+guess convergent
+we Tapply comparison
+
+in
+
+b c
+
+x
+
+denominator
+
+test
+
+to
+
+find
+
+a
+
+convergent
+
+integral
+
+bigger
+
+Sin x
+
+1
+
+si
+
+stx
+f
+
+dx
+
+converges
+
+p test
+
+S's
+
+dx
+
+converges
+
+→1
+
+1
+x 2+4x dx
+
+Converge
+
+or
+
+diverge
+
+´
+educated guess converge
+
+b c
+
+tax
+
+dominates denominator
+
+as x
+
+x
+
+x term
+
+find something
+
+bigger
+
+that
+
+converges
+
+VFman
+
+4 70
+
+44 7 x2
+
+XI x̅
+
+ftp.dx converges
+
+i
+
+f
+
+d comerges
+
+→1
+
+´
+note
+
+x
+cos(x) dx
+
+x 2
+
+↑
+
+that
+
+comparison test
+
+Icao for
+
+large x
+
+so we
+
+can use
+
+educated
+
+guess
+
+as Xero
+
+cosE
+
+5
+
+II
+at
+
+which diverges
+
+f
+
+dx converges
+
+JEcosc.no diverges
+
+

@@ -1,0 +1,74 @@
+Name:
+Important Note: Please write your student number on the back of this page.
+
+Tutorial Section: 02 03 04 05 06 09
+
+APS 105
+
+Fall 2010
+
+QUIZ # 4
+
+SECTION: 2-3PM
+
+Computer Fundamentals
+
+Tuesday, November 23
+
+All quizzes, tests, and exams in this course are closed book with no calculators.
+
+[10 Marks] Write a function named toLowerCase that uses a recursive algorithm to replace all
+upper case characters in a given string s with their corresponding lower case characters. Char-
+acters that are not upper case characters are left unchanged. In the following example, toronto
+canada will be printed.
+
+char s[20] = "Toronto Canada";
+toLowerCase(s);
+printf("%s", s);
+
+You must write a solution that uses recursion. You may ﬁnd it helpful to use a “helper” function,
+though the use of such a function is not required. A non-recursive solution will earn no marks.
+
+Solution 1:
+
+void toLowerCaseHelper (char *s, int index)
+{
+
+if (*(s + index) == ’\0’)
+
+return;
+
+if (*(s + index) >= ’A’ && *(s + index) <= ’Z’)
+
+*(s + index) += ’a’ - ’A’;
+
+toLowerCaseHelper(s, index + 1);
+
+}
+
+void toLowerCase (char *s)
+{
+
+toLowerCaseHelper(s, 0);
+
+}
+
+Solution 2:
+
+void toLowerCase (char s[])
+{
+
+if (s[0] != ’\0’)
+
+if (s[0] >= ’A’ && s[0] <= ’Z’)
+s[0] = s[0] + ’a’ - ’A’;
+
+toLowerCase(&s[1]);
+
+{
+
+}
+
+}
+
+

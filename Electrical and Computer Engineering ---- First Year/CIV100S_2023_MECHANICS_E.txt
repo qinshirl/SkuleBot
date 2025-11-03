@@ -1,0 +1,404 @@
+428CAFE7-6013-4540-B54E-6EC2EDDD3CD6
+
+final-exam-cc4c5
+
+#123 Page 1 of 12
+
+□
+
+□
+
+UNIVERSITY OF TORONTO
+
+Faculty of Applied Science and Engineering
+
+CIVIOOS - MECHANICS
+
+Final Examination
+
+Thursday, 27*” April 2023 
+
+Examiner: Prof. Michael Seica
+
+Time allowed: 2-*/2 hours
+
+First name (please write as legibly as possible within the boxes)
+
+Last name
+
+Student ID number
+
+INDICATE YOUR CALCULATOR TYPE:
+
+□ CASIO FX-991
+
+□ SHARP EL-W516
+
+□ OTHER: 
+
+Notes: 1. Ensure that you have all 12 pages of the examination paper. Page 12 is blank
+
+2. Answer all five questions. The value of the questions is indicated below
+
+3. If you need more space for a question, continue on the page indicated at the bottom
+
+4. If information appears to be missing, make reasonable assumptions and state them clearly
+
+5. The only calculators permitted are listed above. Please indicate your model
+
+6. This is a closed-book examination. No other paper will be allowed on the desk
+
+7. Turn OFF all electronic equipment and place it in your bag
+
+8. Do not remove the staple
+
+DO NOT WRITE IN THIS SPACE.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+TOTAL
+
+/lO
+
+/lO
+
+/lO
+
+/lO
+
+/lO
+
+/50
+
+□
+
+□
+
+BF447902-ECC0-4C90-BB47-C357A5ECEA00
+
+final-exam-cc4c5
+
+#123 Page 2 of 12
+
+NAME: 
+
+Page 2 of 12
+
+1. The cross-section of a 3.0 m-wide (in the plane of the figure), fresh-water tank with a slanted bottom is 
+presented. A rectangular door in the bottom of the tank, 1.6 m by 0.8 m (normal to the plane of the figure), 
+is hinged at A and can be opened by the vertical cable under a tension P, as shown. Determine the 
+minimum tension force in the cable required to open the door. The door is fabricated from 25 mm-thick 
+steel plate with a mass density of 7,850 kg/m’ and the cross-sectional area of the cable is 200 mm\
+
+p
+
+1.2 m
+
+30°
+
+Solution can be continued on Page 3
+
+76F3105D-5B06-49AB-8C1D-4DC5C0AE219C
+
+final-exam-cc4c5
+
+#123 Page 3 of 12
+
+□
+
+I
+
+□
+
+□
+
+4
+
+NAME: 
+
+Page 3 of 12
+
+Question 1 can be continued on this page.
+
+Solution can be continued on Page 12
+
+2C2FB93B-9604-4494-B725-23DED15C927A
+
+final-exam-cc4c5
+
+#123 Page 4 of 12
+
+L-TiT-iJ
+
+NAME: 
+
+4:
+
+Page 4 of 12
+
+2. The truss illustrated below is composed of eight identical equilateral triangular panels having a modular 
+size of 8 m, and is supported by a pin at J and a vertical cable at D.
+
+a.  Determine the forces in members BC, CD, DF and GH, and indicate if they are in tension or 
+
+Compression. The line of action of the 50 kN force at E makes a 90-degree angle with member 
+EF.
+
+b.  Member CD is a cable made from a bundle of 60 round, solid, high-strength, parallel steel wires, 
+each wire having a diameter of 2 mm. Determine the axial stress in the cable CD resulting from 
+the loading applied to the truss.
+
+c.  Determine the elongation of member CD. The modulus of elasticity for the cable material is 160 
+
+GPa.
+
+ABC 
+
+E
+
+30 kN
+
+Solution can be continued on Page 5
+
+08FC4C45-F08E-4422-92E7-954EBABEAC1A
+
+final-exam-cc4c5
+
+#123 Page 5 of 12
+
+NAME: 
+
+Page 5 of 12
+
+Question 2 can be continued on this page.
+
+Solution can be continued on Page 12
+
+□
+
+□
+
+188F34D6-4CC7-4D7A-93F9-4578AF26738E
+
+final-exam-cc4c5
+
+#123 Page 6 of 12
+
+a
+
+NAME: 
+
+Page 6 of 12
+
+3. A heavy door seals a furnace which is used to heat-treat large metal components. Post BE is round and 
+is connected to the foundation by a fixed support at E. The door has a weight of 20 kN which acts through 
+point G located at the centre of the 18 x 18 dm door. In the closed position (shown) the door panel is 
+parallel to the z axis and the hinge arm segments are parallel to the x and z axes. Determine the force 
+supported by the cable AB and the reaction force components at the bearings (hinges), at points C and D.
+The two bearings are free to translate in they direction. All dimensions are in dm (decimetres). (Note: The 
+decimetre is an SI unit of length equal to one tenth of a metre.) 
+
+y
+
+1.
+
+4dm
+
+lOdni
+
+4dm '
+8dms^ 
+6dm'^
+
+24dm
+
+jP 10dm
+
+E
+
+A
+
+z
+
+18dm-
+
+Solution can be continued on Page 7
+
+1D275E42-5E99-4C62-8791-4F22633BBABF
+
+f inal-exani-cc4c5
+
+#123 Page 7 of 12
+
+□
+
+□
+
+NAME: 
+
+Page 7 of 12
+
+Question 3 can be continued on this page.
+
+Solution can be continued on Page 12
+
+E973FD03-4414-4FC2-9F3E-5C46CA8FF08F
+
+final-exam-cc4c5
+
+#123 Page 8 of 12
+
+□
+
+□
+
+□
+
+NAME: 
+
+Page 8 of 12
+
+4. Calculate the x- and j^-components of the reaction forces at the pin supports at and B. The cables are 
+wrapped securely around the two concentric, frictionless pulleys, which are fastened together.
+
+B
+
+2m
+
+2m
+
+45°
+
+D
+
+0.25 m
+
+0.5 m
+
+y
+I
+I
+I-------- X
+
+J
+
+m = 100 kg
+
+Solution can be continued on Page 9
+
+3C6EBB9B-5EA0-492D-AE77-5D30934D1233
+
+final-exam-cc4c5
+
+#123 Page 9 of 12
+
+□
+
+NAME: 
+
+Page 9 of 12
+
+Question 4 can be continued on this page.
+
+Solution can be continued on Page 12
+
+□
+
+□
+
+901B0A65-DF71-4247-9E70-52210F8B8108
+
+final-exam-cc4c5
+
+#123 Page 10 of 12
+
+NAME: 
+
+Page 10 of 12
+
+5. The steel beam depicted below is supported by a frictionless surface at A and a fixed support at C. 
+Member AB is loaded by a uniformly distributed force and is pinned to member BC at B.
+
+In the space provided draw the internal-force diagrams for the beam. Indicate the values at all points 
+
+marked along the beam (viz. A, B, C, 1 and 2) and annotate the shape of the diagrams.
+
+(b) The cross-section of the beam is also represented. Determine the second moment of the area of the 
+cross-section corresponding to the axis of bending.
+
+— 0.6 m -4— 0.6 m -4- 0.6 m — — 0.6 m —
+
+A
+
+UlUllli
+
+450 kN/m
+
+50°
+
+6
+
+160
+
+40 
+y 
+Dimensions 
+in mm 
+y
+
+160
+
+160
+
+,_L 
+j 40 
+
+r
+
+Cross Section
+
+Solution can be continued on Page 11
+
+D858B353-9968-45D5-94D7-0FBCF608D091
+
+final-exam-cc4c5
+
+#123 Page 11 of 12
+
+□
+
+□
+
+NAME: 
+
+Page 11 of 12
+
+Question 5 can be continued on this page.
+
+Solution can be continued on Page 12
+
+□
+
+□
+
+ACCF5C73-AF4E-49FE-BCA9-FEE989BA0F07
+
+final-exam-cc4c5
+
+#123 Page 12 of 12
+
+NAME: 
+
+Page 12 of 12
+
+All Questions can be continued on this page. Indicate clearly which question is shown.
+
+

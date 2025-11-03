@@ -1,0 +1,379 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 10
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Scenario 1: Population Growth with Resource Limits
+
+Context: A population of deer is introduced into a large fenced
+park. Initially, the population grows rapidly, but the environment
+has limited resources (space, food). When the population is small,
+it grows approximately proportionally to its size. The growth rate
+slows down as population P(t) approaches a maximum population
+of 500 (the carrying capacity).
+Derive an ODE that describes the population growth.
+
+Which variable to define
+
+the ODE with
+
+PCE
+
+Logisticequation
+
+tP
+
+Troportional
+
+to size
+
+need to make P t 0
+when D 500
+slow down P t
+function
+
+at
+
+as Poso
+1 500
+
+e
+any other
+500 P
+1 Boot
+
+options
+
+equivalent
+
+Em perfection
+
+Scenario 1: Population Growth with Resource Limits
+
+Context: A population of deer is introduced into a large fenced
+park. Initially, the population grows rapidly, but the environment
+has limited resources (space, food).
+What are the equilibrium values of P? What do these mean
+biologically?
+
+pirP 1 Boo
+
+equilibrium
+
+o P rPG Boo
+
+P 0 0 500
+
+Biologically
+at zero deer
+
+add few doers
+
+at
+
+500 deer
+
+add few deer
+capacity
+
+Er
+
+unstable
+
+stable
+
+population grows away
+deer die until back at
+
+from PO
+
+carrying
+
+remove
+
+deer
+
+grow until
+
+carrying
+
+capacity
+
+Variant: Introducing Constant Harvesting
+
+Extension: Suppose park rangers harvest a ﬁxed number of deer
+per year for population control. How does this change your
+model? Determine the new equilibrium values and interpret
+them. Under what harvesting rate will the population
+collapse?
+
+P e
+
+rP 1 Bo h
+
+Fest rate
+
+limite range of validity
+
+we not valid at P O
+
+carrying capacity P 500 no
+
+longer
+
+equilibrium
+
+new
+
+equilibrium
+
+O rP 1 E h
+equilibrium
+
+should be lower
+
+s
+
+collapse when equilibrium is
+
+only at
+
+whey
+
+Scenario 2: Mixing Tank with Salt Solution
+
+Context: A tank initially contains 100 L of pure water. A salt
+solution with concentration 0.5 kg/L ﬂows in at 4 L/min. The
+tank is well-mixed, and the outﬂow is also 4 L/min. Derive a
+di!erential equation for A(t). Find the equilibrium value and
+interpret it.
+
+possible variables
+
+concentration Kgb
+amount of salt kg befE
+
+sattn sat.at
+
+ea
+
+salt
+at time t
+
+amount of
+
+in
+
+tank
+
+in
+
+salt out
+
+salt
+o.sk 44min E 44min
+Tan
+
+Tin
+
+let
+
+A f
+
+If
+
+Tan
+
+equalibrium
+0
+
+Of
+
+Alt
+
+2
+
+T.IEanditoon
+
+IA 2
+
+A 50k
+
+interpretation equibrium when salt
+inflow 0 5kg1
+
+of
+amought of
+
+0.5kg a
+
+1002 50kg
+
+concentration
+
+concentration
+
+Variant: Tank Fills and Overﬂows
+
+Extension: Now the inﬂow rate is 6 L/min and the outﬂow is 4
+L/min. The tank starts with 50 L of water and can hold up to 120
+L before it overﬂows.
+Derive a model for A(t) before overﬂow starts. What might
+happen once the tank reaches capacity?
+
+Mox 120L
+
+EFEitiii.e.no satin
+
+AG
+
+Imetenk
+
+sat out
+
+4min 05kg1
+
+3191mn
+
+e
+
+44min
+
+44min
+
+Et3
+
+valid until overf
+35mg
+
+after
+
+1 35
+
+T.ggTfi
+
+identical
+
+to previous
+but with 6h1min in
+
+problem
+and 64min
+
+Scenario 3: iPhone Adoption Over Time
+
+Context: A new iPhone model is released. Early adopters quickly
+buy the phone, but over time the pool of new customers shrinks.
+The rate at which new people adopt the phone slows down.
+Assume the total market size is 10 million people and the adoption
+rate is proportional to the number of people who haven’t bought it
+yet
+Derive a di!erential equation for N(t). What is the
+equilibrium, and what does it represent? How does the
+adoption curve behave over time?
+and.de
+
+t
+
+forveriables
+people who haven't bought
+people who
+
+have
+
+iphone
+
+roughly
+
+egivalent
+
+bought phone
+
+in difficulty
+
+NCA
+
+1
+
+P
+
+lght it htions
+99En K 10 NG
+
+equilibrium
+
+0
+
+0
+
+K 10 Nct
+NF
+
+no change when
+everyone has the phone
+
+Variant: Inﬂuence from Existing Users
+
+Extension: Suppose people are more likely to buy the phone if
+their friends already have it. Now adoption depends both on how
+many haven’t bought it and how many already have.
+
+Derive the updated di!erential equation. How might the
+adoption rate change early vs. late in the product cycle? Is
+this model reasonable?
+
+other options
+
+1
+
+1
+
+k
+
+N
+
+Efmouth
+
+Pool
+
+adf.kciondnegi.tt
+1 k ion Ns
+
+simplest
+
+maddened
+
+adoption
+
+first
+
+rate
+slow at
+gets faster
+gets slow once
+
+low word of mouth
+
+N 10
+
+all people have adopted
+
+Is this
+
+reasonable Any other
+broken
+phones
+
+factors
+
+new technology
+outdated phone
+
+

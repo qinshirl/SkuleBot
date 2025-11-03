@@ -1,0 +1,17 @@
+Problem 2. (6 pts) Show how to ﬁnd the following limit, fully justifying your reasoning using mathe-
+matical principles we have covered.
+
+(cid:16)
+
+sin(x) + cos(x) + e4x(cid:17)3/x
+
+= e12
+
+lim
+x→∞
+
+MAT186 F20 Midterm Crowdmark portion
+
+Problem 2 page 1/1
+
+

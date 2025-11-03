@@ -1,0 +1,869 @@
+University of Toronto
+Faculty of Applies Sciences and Engineering
+MAT188 – Midterm I –Fall 2022
+
+LAST (Family) NAME:
+
+FIRST (Given) NAME:
+
+Email address:
+
+STUDENT NUMBER:
+
+@mail.utoronto.ca
+
+Time: 90 mins.
+
+1. Keep this booklet closed, until an invigilator announces that the test has
+begun. However, you may fill out your information in the box above before
+the test begins.
+
+2. Please place your student ID card in a location on your desk that is easy
+
+for an invigilator to check without disturbing you during the test.
+
+3. Please write your answers into the boxes. Ample space is provided within
+each box, however, if you must use additional space, please use the blank
+page at the end of this booklet, and clearly indicate in the given box that
+your answer is continued on the blank page. You can also use the blank
+pages as scrap paper. Do not remove them from the booklet.
+
+4. This test booklet contains 15 pages, excluding the cover page, and 6 questions.
+If your booklet is missing a page, please raise your hand to notify an invigilator
+as soon as possible.
+
+5. Do not remove any page from this booklet.
+
+6. Remember to show all your work.
+
+7. No textbook, notes, or other outside assistance is allowed.
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+6
+
+2
+
+9
+
+3
+
+13
+
+4
+
+12
+
+5
+
+8
+
+6
+
+15
+
+Total
+
+63
+
+Midterm I , Page 1 of 15
+
+Part A
+
+1. (6 points) Fill in the bubble for all statements that must be true. You don’t need to
+include your work or reasoning. Some questions may have more than one correct answer.
+You may get a negative mark for incorrectly filled bubbles.
+
+(a) Let A =
+
+
+
+1 −1 0
+2 −1 3
+
+1
+1
+1
+
+
+
+ and B =
+
+
+
+1 −1
+0 −1
+
+1
+3
+
+
+
+ and C =
+
+
+
+
+3
+1
+3 −1
+
+0
+3
+
+ Compute AB + C.
+
+⃝
+
+
+
+
+
+3
+2
+14 1
+1
+7
+
+
+
+ ⃝ Not defined ⃝
+
+
+
+ ⃝ None of the above
+
+
+
+
+
+3
+2
+14 1
+1
+7
+
+
+
+
+
+(b) Suppose B =
+
+0 1 0 −1
+3
+0 0 1
+0
+0 0 0
+linear equations. Then this system has
+
+
+
+ is the RREF of an augmented matrix of a system of
+
+⃝ Unique solution: x = 0, y = −1, z = 3.
+
+⃝ Infinity many solutions. One particular solution is x = 5,y = −1,z = 3.
+
+⃝ Infinity many solutions. One particular solution is x = −1,y = 3,z = 0.
+
+⃝ No solution
+
+(c) Let ⃗e1 and ⃗e2 be standard vectors in R2. Which one is an accurate geometric
+
+description of the set {c1⃗e1 + c2⃗e2 | 0 ≤ c1, c2 ≤ 1} ∩ {k
+
+⃝ A filled square in R2 ⃝ A hollow square in R2
+
+⃝ A plane
+
+⃝ A line segment in R2
+
+(cid:21)
+(cid:20)1
+1
+
+| k ∈ R}.
+
+(d) Consider
+
+A = {
+
+
+ ∈ R3 | 1x − 2y + 4z = −1}
+
+B = {
+
+Midterm I , Page 2 of 15
+
+
+ ∈ R3 | 2y − z = 3}
+
+
+
+
+
+x
+y
+z
+
+
+
+
+
+x
+y
+z
+
+Which one is the MOST accurate geometrical description of A∩B? Choose at most
+one option.
+
+⃝ A plane with normal vector
+
+
+
+
+
+
+
+1
+−2
+4
+
+ passing through the point (−1, 0, 0)
+
+⃝ Two planes with normal vectors
+
+the origin.
+
+
+
+
+
+
+
+1
+−2
+4
+
+
+
+
+
+0
+2
+−1
+
+ and
+
+
+
+ that do not pass through
+
+⃝ A line with a direction vector
+
+(−4, 3/2, 0).
+
+⃝ None of the above.
+
+
+
+
+
+
+
+−10
+1
+2
+
+ that passes through the point
+
+(e) Suppose A is a 3 × 4 matrix and rankA = 3. Consider the linear system A⃗x = ⃗0.
+
+⃝ The linear system A⃗x = ⃗0 may be inconsistent.
+
+⃝ The linear system A⃗x = ⃗0 is consistent.
+
+⃝ The linear system A⃗x = ⃗0 has infinity many solutions.
+
+⃝ We don’t have enough information to be able to say anything about the
+
+solution type of the linear system A⃗x = ⃗0.
+
+Midterm I , Page 3 of 15
+
+2. Fill in the blank. You don’t need to include your computation or reasoning.
+
+(a) (3 points) Let A be the standard representation of a linear transformation that
+reflects vectors in R3 with respect to the xy-plane. Suppose A = [⃗v1 ⃗v2 ⃗v3], that is
+⃗v1, ⃗v2, and ⃗v3 are columns of A. Then
+
+
+
+
+
+
+
+
+
+
+
+
+
+⃗v1 =
+
+
+
+
+
+
+
+
+
+
+
+
+
+⃗v2 =
+
+
+
+
+
+
+
+
+
+
+
+
+
+⃗v3 =
+
+(b) (3 points) Find a and b such that
+
+
+
+3
+1
+ = a
+
+3
+
+and b if you thing such values do not exist.
+
+
+
+
+
+1
+−1
+1
+
+
+
+
+
+
+
+1
+3
+−1
+
+ + b
+
+
+
+ Write DNE for both a
+
+a =
+
+b =
+
+(c) (3 points) Let
+
+A =
+
+(cid:21)
+(cid:20)1 2 3 4
+2 4 6 8
+
+.
+
+Describe all solutions of A⃗x = ⃗0 in vector parametric form
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ s
+
+
+
+
+
+
+
+
+
+
+
+
+
++ k
+
+
+
+
+
+
+
+⃗x = t
+
+t, s, k ∈ R
+
+Midterm I , Page 4 of 15
+
+Part B
+
+3. Let S : R2 → R2, S(⃗x) = A⃗x, where A =
+
+with respect to y = −x.
+
+(cid:20)1 1
+0 2
+
+(cid:21)
+, and T : R2 → R2 be the reflection
+
+(a) (3 points) Accurately, draw the set
+(cid:21)
+
+N = {t
+
+| 0 ≤ t ≤ 1} ∪ {t
+
+(cid:21)
+(cid:20)0
+3
+
+(cid:20) 3
+−3
+
+(cid:21)
+(cid:20)0
+3
+
++
+
+| 0 ≤ t ≤ 1} ∪ {t
+
+(cid:21)
+(cid:20)0
+3
+
+(cid:21)
+(cid:20)3
+0
+
++
+
+| 0 ≤ t ≤ 1}
+
+Hint: the resulting image is a letter in the alphabet.
+
+(b) (4 points) Draw S(N ) and T ◦ S(N ) on separate coordinate systems below. Label
+
+all vertices.
+
+(c) (2 points) Recall that S : R2 → R2, S(⃗x) =
+
+Midterm I , Page 5 of 15
+
+(cid:21)
+
+(cid:20)1 1
+0 2
+
+and T : R2 → R2 be the
+
+reflection with respect to y = −x. Let B be the standard matrix of T . Calculate
+B. Justify your work. Write your final answer in the small box.
+
+B=
+
+(d) (4 points) Compute the standard matrix of T ◦ S.
+
+Midterm I , Page 6 of 15
+
+4. State whether each statement is true or false by writing “True” or “False” in the small
+box, and provide a short and complete justification for your claim in the larger box. If
+you think a statement is true explain why it must be true. If you think a statement is
+false, give a counterexample.
+(a) (3 points) If T is a linear transformation, then T (⃗0) = ⃗0, that is T preserves the
+
+origin.
+
+(b) (3 points) If the bottom row of a matrix A in reduced row-echelon form contains
+
+all 0’s, then the system has A⃗x = ⃗0 infinitely many solutions.
+
+Midterm I , Page 7 of 15
+
+(c) (3 points) Suppose
+
+
+
+
+
+
+
+1 3 4
+0 a 1
+1 0 c
+
+
+with the augmented matrix
+
+ is consistent.
+
+
+
+1 3 4 −1
+1
+0 a 1
+3
+1 0 c
+
+
+
+ is invertible. Then the system of linear equations
+
+(d) (3 points) If A = [⃗u ⃗v ⃗w ⃗x] and RREF(A) =
+
+−⃗u − 2⃗v + ⃗w must hold.
+
+
+
+
+
+
+
+1 0 2 1
+0 1 3 1
+0 0 0 0
+
+ then the equation ⃗x =
+
+5. In each part, give an explicit example of the mathematical object described or explain
+
+why such an object does not exist.
+
+Midterm I , Page 8 of 15
+
+(a) (2 points) An equation of a plane that does not pass through the origin and is
+
+perpendicular to that vector
+
+
+
+.
+
+
+
+
+
+1
+−2
+0
+
+(b) (2 points) The standard matrix of a linear transformation that is onto but not one
+
+to one.
+
+(c) (2 points) A matrix A with the property that A = A−1.
+
+(d) (2 points) A system of linear equations with three variables and three equations
+
+that has exactly two solutions.
+
+Part C
+
+6. The color of light can be represented in a vector
+
+Midterm I , Page 9 of 15
+
+
+ in R3 where R is the amount of
+
+
+
+
+
+R
+G
+B
+
+red, G is the amount of green, and B is the amount of blue. The eye of a healthy human
+receives the light and sends it to the brain. The human brain transform the incoming
+
+signal into the signal
+
+
+
+
+
+
+
+I
+L
+S
+
+ that can be interpreted by our brain.
+
+
+
+
+
+N : R3 → R3
+
+I
+L
+S
+
+ (cid:55)→
+
+R
+G
+B
+
+
+
+
+
+
+
+
+
+ =
+
+
+
+
+
+
+
+R+G+B
+3
+R − G
+B − R+G
+
+2
+
+(a) (2 points) Is N linear? Justify your answer by either using either the definition of a
+linear transformation directly, or by referring to a theorem covered in the course.
+
+(b) (2 points) Is it possible for two distinct colour to be perceived as the same colour by
+the brain? Justify your answer. Your justification should use precise mathematical
+terminology.
+
+(c) (3 points) Given ⃗v =
+
+
+
+ , is it possible to recover the
+
+Midterm I , Page 10 of 15
+
+
+
+ that is transformed
+
+
+
+
+
+R
+G
+B
+
+
+
+
+
+I
+L
+S
+
+to ⃗v. If no, explain why. If yes, explain why and give a concise instruction on how
+to do so.
+
+(d) (3 points) There are genetic, and not very uncommon, disorders that may cause
+the human brain to perceive distinct colours as the same colour. One such disorder
+can be replicated through the use af a pair of eyeglasses that transform the light
+via a linear transformation T . We know that
+
+
+
+1
+1
+) =
+
+1
+
+T (
+
+
+
+2
+1
+
+
+0
+
+
+
+1
+1
+) =
+
+0
+
+
+
+0
+3
+
+
+1
+
+T (
+
+and T (
+
+
+
+1
+0
+) =
+
+0
+
+
+
+2
+4
+
+
+1
+
+Find the standard matrix presentation of T .
+
+Midterm I , Page 11 of 15
+
+(e) (2 points) Suppose a person with healthy eyes is wearing the glasses described in
+the previous part. Find the standard matrix represntation of a linear transformation
+
+that an
+
+ vector goes through as it passes through the glasses and then sent to
+
+
+
+
+
+
+
+R
+G
+B
+
+the brain.
+
+(f) (2 points) Continue assuming that a person with healthy eyes is wearing the glasses
+
+described in the previous part. Find the set of all
+
+perceived as
+
+
+
+
+
+
+
+ =
+
+
+
+1
+1
+ by the brain.
+
+1
+
+I
+L
+S
+
+
+ vectors in R3 that are
+
+
+
+
+
+R
+G
+B
+
+(g) (1 point) Give a complete geometrical description of the set you found in (f).
+
+Midterm I , Page 12 of 15
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Midterm I , Page 13 of 15
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Midterm I , Page 14 of 15
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Midterm I , Page 15 of 15
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+

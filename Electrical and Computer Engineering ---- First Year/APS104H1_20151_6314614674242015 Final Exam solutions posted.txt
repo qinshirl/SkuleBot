@@ -1,0 +1,510 @@
+Problem 1. A phase diagram of tin and lead is shown below.  
+
+For Part 1a-1d, we examine the slow cooling of a 30 wt% Sn-70 wt% Pb mixture from the liquid phase 
+to 150 oC.  
+
+1a. Determine the temperature at which the first solid phase is formed. 
+
+Phase diagram of Sn and Pb 
+
+258 oC 
+
+1b. Determine the composition of the last drop of liquid in the alloy before complete solidification.  
+
+61.9 wt% Sn 
+
+1c.  Determine  the  i)  phase(s),  ii)  their  respective  weight  fractions,  and  ii)  their  composition(s)  of  the 
+alloy when the temperature reaches 150 oC.  
+
+Phase(s):  
+
+α,β 
+
+Weight Fraction(s): α=(97-30)/(97-10)=0.77 
+
+β =1-0.77=0.27 
+
+Composition(s): α=10% Sn, 90% Pb 
+
+β =97 % Sn, 3% Pb 
+
+1d.  What  is  the  minimum  weight  fractions  of  β  in  the  solid  mixtures  during  the  cooling  process 
+(from liquid phase to150 oC) that can be formed from this 30 wt% Sn-70 wt% Pb mixture? 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+β =(30-18.3)/(97.8-18.3)=0.147 
+
+1e. The micrograph of a Sn and Pb alloy with unknown compositions at 100 oC is shown below. Two 
+phases (primary alpha and eutectic micro-constituent) are clearly visible. Indicate on the phase diagram 
+(given above) the point (estimated composition) that corresponds to this 
+micrograph.  
+
+Eutectic	
+structure
+
+Primary	
+α
+
+α=35% primary alpha 
+Locate the point at 100 oC  
+~ 27 % Sn 
+
+Problem  2.  The  crystal  structure  of  Mercury(II)  Telluride  (Hg2+Te2-)  is  shown  below.  The  radius  of 
+Mercury(II) ion is 116 pm and that of the Telluride ion is 211 pm. 
+
+A
+
+A
+
+A
+
+B
+
+A
+
+B
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+A
+
+A
+
+2a. Name the crystal structure. ______________Zincblende___________________  
+
+2b. The coordination number of atom A in the figure is _____4_________________________ 
+
+2c. The Planar (Miller) Indices of the plane highlighted below is:    
+
+z
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+y=0.25
+
+A
+
+A
+
+A
+
+B
+
+A
+
+B
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+y
+
+x
+
+2e. Determine the theoretical density of the HgTe, in g cm-3.  
+
+5.063 
+
+𝑔
+𝑐𝑚! 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Problem  3  (Part  3a-3d).  You  are  evaluating  a  bronze  alloy  specimen  with  a  cross-sectional  area  of 
+500 mm2 and length of 6 mm. You are given:  
+
+1)  stress-strain behavior (see figure below) and  
+2)  a Poisson’s ratio of 0.30. 
+
+)
+a
+P
+M
+
+(
+
+s
+s
+e
+r
+t
+S
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+0
+
+0.05
+
+0.1
+
+0.15
+
+0.2
+
+0.25
+
+0.3
+
+0.35
+
+Strain
+
+Stress-strain behavior of a bronze alloy specimen. 
+
+3a. What is the maximum load that can be sustained by the specimen?  F = 319000N 
+
+3b.  Determine  the  maximum  load  that  may  be  applied  to  the  bronze  alloy  specimen  without  plastic 
+deformation.  
+
+3c. Determine the specimen cross-sectional area when the specimen is pulled in tension with a force of 
+200 000 N.  
+
+3d. What is the ductility, in percent of elongation?  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+3e. Determine the modulus of resilience (Ur).  
+Ur=0.5 (stress*strain)=0.5(575 MPa)(0.03)=8.625 MPa 
+
+3f. Select the correct answer:  
+
+i. 
+ii. 
+
+iii. 
+
+Brittle materials generally never exhibit higher tensile strengths than ductile materials 
+During  plastic  deformation,  the  bonds  between  original  atom  neighbors  are  broken 
+and new bonds are formed.  
+Ceramics  typically  absorb  large  amount  of  energy  than  metal  before  their  catastrophic 
+fracture. 
+
+iv.  When porosity increases, the flexural strength also increases accordingly.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+QUESTION 6:  Electrochemistry (20 pts) 
+
+A voltaic cell with Ni/Ni2+ and Co/Co2+ half-cells has the following initial concenrations: [Ni2+]=0.80 
+M; [Co2+] = 0.20 M. 
+
+Co2+(aq)	+	2e-	→	Co(s)	E°	=	-0.28	V	
+Ni2+(aq)	+	2e-	→	Ni(s)	 E°	=	-0.25	V	
+
+(a)  Write the overall reaction that occurs spontaneously under standard conditions and circle the 
+
+reducing agent in the equation. [3 pts] 
+
+Co(s)	+	Ni2+(aq)		→	Ni(s)	+	Co2+(aq) 
+
+(b)  Write the cell notation for the voltaic cell that incorporates the above reaction. [2 pts] 
+
+Co(s)|	Co2+(aq)||	Ni2+(aq)	|	Ni(s)	
+
+(c)  What is the initial Ecell? [3 pts] 
+
+E°cell = (-0.25	V)-(	-0.28	V)= 0.03V 
+
+E
+
+=
+
+03.0
+
+−
+
+.0
+
+0592
+2
+
+log
+
+2.0
+8.0
+
+=
+
+048.0
+V
+
+(d)  What is [Ni2+] when Ecell reaches 0.03 V? [4 pts] 
+
+E
+
+=
+
+03.0
+
+−
+
+.0
+
+0592
+2
+
+log
+
+2.0
+8.0
+
++
+−
+
+x
+x
+
+=
+
+03.0
+
+V
+
+2.0
+x
++
+8.0
+x
+−
+M
+30.0
+
+log
+
+x
+
+=
+
+=
+
+0
+
+[Ni2+] = 0.80M-0.30M = 0.50 M 
+
+(e)  What are equilibrium concentrations of the ions? [5 pts] 
+
+2.0
+8.0
+
++
+−
+
+x
+x
+
+=
+
+0.0
+
+V
+
+.0
+
+log
+
+0592
+2
+)03.0(2
+.0
+0592
+
+E
+
+=
+
+03.0
+
+−
+
+=
+
+2.0
+8.0
+.0
+
+x
++
+x
+−
+71163
+
+log
+
+x
+
+=
+
+[Ni2+] = 0.80M-0.71163M = 0.088 M 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Co2+] = 0.20M+0.71163M = 0.91 M 
+
+(f)  If the cell was run from the initial conditions to equilibrium at 10A, how many hours will it take to 
+
+reach equilibrium? Assume 1L volume in each half cell. [3 pts] 
+
+n(electrons) = 2(0.71163 mol)  
+Q = F× n =96500 C/mol e   × 2(0.71163 mol of e) = 137344.6 C 
+t = 13734.5 s = 228.9 min = 3.82 hrs 
+
+Problem 7: Electrical Properties 
+
+Assume that Indium contributes three free electrons per atom to electrical conduction. The density of In 
+is 7.31 g/cm3 and its resistivity is 8.37 x 10-8 Ω·m. 
+
+(a)  what is the electron mobility of indium?  [10 pts] 
+
+𝜇! =
+
+1
+𝜌 𝑛 𝑒
+
+= 6.5×10!! 𝑚!
+𝑉 ∗ 𝑠
+
+ (b)  How long would an In wire of 0.1 mm diameter have to be to have a resistance of 50Ω ?   [4 pts] 
+
+𝐿 =
+
+7.85×10−9(50)
+
+8.37×10−8 = 4.69 𝑚  
+
+(c)  Silicon has the following properties: 
+
+Calculate the conductivity of Silicon.  
+𝜎 = 𝑛! 𝑒 (𝜇! + 𝜇!) = 3.74×10−4 (Ω𝑚)−1  
+
+[4 pts] 
+
+(d) Which of the following statements is true?  Circle the correct answer.  [2 pts] 
+•  Electrons and holes contribute equally to conductivity in intrinsic Si 
+•  Electrons contribute more than holes to conductivity in intrinsic Si 
+•  Holes contribute more than electrons to conductivity in intrinsic Si 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

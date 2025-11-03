@@ -1,0 +1,141 @@
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIV100F and APS160F – MECHANICS  
+
+Midterm Examination – Sections 1, 2, 3, 4, 5, 6, 7, 8 and Online 
+Tuesday, 27th October 2015 
+
+Examiner: Staff in Civil Engineering 
+
+Time allowed: 1-½ hours 
+
+SURNAME: ________Seica___________GIVEN NAME(S): _______Michael____________ 
+
+     (Please print clearly) 
+
+STUDENT NUMBER: ____Solutions_______ DEPT. (ECE, Track One, etc.)____________ 
+
+CIRCLE YOUR SECTION AND THE NAME OF YOUR INSTRUCTOR: 
+
+1. Mercan, Oya 
+
+5. Panesar, Daman 
+
+Online. Seica, Michael 
+
+2. El-Diraby, Tamer 
+
+6. Grasselli, Giovanni 
+
+3. Packer, Jeffrey 
+
+7. Grasselli, Giovanni 
+
+4. Xia, Kaiwen 
+
+8. Kamaleddine, Fouad 
+
+CIRCLE YOUR CALCULATOR TYPE: 
+
+CASIO 991 
+
+    SHARP 520 
+
+Notes:  1. Ensure that you have all 5 sheets of the examination paper. Page 5 is blank. 
+
+2. Answer all three questions. The value of the questions is indicated below. 
+
+3. If you need more space for a question, please use the back of the preceding question. In all  
+    cases, please indicate clearly where your calculations are continued. 
+
+4. The only calculators permitted are listed above. Please circle your model. 
+
+5. No other paper will be accepted for marking or allowed on the desk. 
+
+6. Do not remove the staple. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _____M. Seica______________________  
+
+        Page 2 of 5 
+
+1. A worker having a mass of 80 kg supports himself in the boatswain’s chair by means of the cable and 
+pulley system shown. If the seat has a mass of 7 kg, determine the tension force, T, which the worker must 
+exert with his hands on the cable at A in order that he is in equilibrium. What force, R, does the worker 
+exert on the chair? Neglect the mass of the cable and pulleys. 
+
+ 
+ 
+ 
+ 
+ 
+NAME: _____M. Seica______________________ 
+
+        Page 3 of 5 
+
+2. Determine the forces in all members of the truss below. Show you final answers on a similar sketch of
+the truss and indicate if the members are in tension or compression. 
+
+30 kN
+
+N
+k
+0
+4
+
+ 
+NAME: _____M. Seica______________________  
+
+        Page 4 of 5 
+
+3. The plate shown is supported by hinges at A and B, and by the cable CE. The axes of the two hinges are 
+aligned along the x-axis and the hinge at A is modified so that it can slide freely in the direction of the x-
+axis. Determine the magnitude and indicate the direction of the reaction force components at the hinges 
+and the magnitude of the force in the cable. Neglect the mass of the plate. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+        Page 5 of 5 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

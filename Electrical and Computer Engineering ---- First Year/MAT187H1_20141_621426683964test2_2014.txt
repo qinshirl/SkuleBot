@@ -1,0 +1,454 @@
+MAT197 - Calculus B - Winter 2014
+
+Term Test 2 - February 27, 2014
+
+Time allotted: 90 minutes.
+
+Aids permitted: None.
+
+Full Name:
+
+Student ID:
+
+Email:
+
+Instructions
+
+Last
+
+First
+
+@mail.utoronto.ca
+
+• Write only on the front pages (with QR code on top).
+
+• ONLY THE FRONT PAGES WILL BE SCANNED. THE BACK PAGES
+
+WILL NOT BE SEEN BY THE GRADERS.
+
+• DO NOT WRITE ON THE QR CODE AT THE TOP OF THE PAGES.
+
+• Please have your student card ready for inspection, turn oﬀ all cellular phones, and read all the
+
+instructions carefully.
+
+• DO NOT start the test until instructed to do so.
+
+• This test contains 11 pages (including this title page). Make sure you have all of them.
+
+• You can use the back of pages for rough work.
+
+GOOD LUCK!
+
+MAT197 – Term Test 2
+
+PART I
+
+No explanation is necessary.
+
+For questions 1–4, please ﬁll in the blanks.
+
+(4 marks)
+
+1. What is the best substitution to calculate
+
+(cid:90)
+
+√
+
+1
+17 + 16x + 4x2
+
+dx
+
+?
+
+u =
+
+2. What are two good substitutions to calculate
+
+(cid:90)
+
+√
+
+x + 2
+5 + 4x + x2
+
+dx
+
+?
+
+u =
+
+or
+
+u =
+
+3. Using the Trapezoid Rule with n = 10 we obtain an error of 1 when computing the integral
+
+What is the smallest value for n to obtain an error of at most 10−6?
+
+(cid:90) b
+
+a
+
+f (x) dx.
+
+n =
+
+4. During Cinco de Mayo, you shoot a bullet straight up into the sky at the speed of 500 m/s. The
+altitude of the bullet y(t) at time t seconds after being shot satisﬁes the diﬀerential equation y(cid:48)(cid:48) = −g.
+
+What is the velocity of the bullet when it hits the ground?
+
+The velocity is
+
+Page 2 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+For questions 5-8, please choose the correct answer.
+
+(4 marks)
+
+5. Which terms appear in the partial fraction decomposition of
+
+(x − 2)2(x − 1)
+(x + 1)(x2 + 3)2(x − π)2
+
+?
+
+(Select all that apply)
+
+(a)
+
+(b)
+
+A
+x − 1
+
+B
+x − 2
+
+(c)
+
+C
+(x − 2)2
+
+(d)
+
+D
+x + 1
+
+(e)
+
+E
+x − π
+
+(f )
+
+F
+(x − π)2
+
+(g)
+
+Gx + H
+x2 + 3
+
+(h)
+
+Ix + J
+(x2 + 3)2
+
+(i) Kx + L
+
+6. Which of the following integrals is convergent?
+
+(a)
+
+(b)
+
+(cid:90) ∞
+
+−∞
+
+(cid:90) ∞
+
+1
+
+x dx
+
+1
+x
+
+dx
+
+(c)
+
+(d)
+
+(cid:90) 1
+
+0
+
+1
+x
+
+dx
+
+(cid:90) ∞
+
+1
+
+1
+5√
+x4
+
+dx
+
+7. Which of the following integrals is divergent?
+
+(a)
+
+(b)
+
+(cid:90) −1
+
+−∞
+
+1
+√
+x4
+
+dx
+
+(cid:90) ∞
+
+−∞
+
+1
+1 + x2 dx
+
+(c)
+
+(d)
+
+(cid:90) ∞
+
+0
+
+0 dx
+
+(cid:90) 1
+
+0
+
+1
+x1+p2 dx
+
+8. Which of the following substitutions is best to evaluate
+
+(cid:90)
+
+cos7 x sin4 x dx ?
+
+(a) u = sin x
+
+(c) u = cos x
+
+(b) u = tan x
+
+(d) u = sec x
+
+Page 3 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+PART II
+
+Justify your answers.
+
+1. Evaluate
+
+(6 Marks)
+
+(cid:90) 3
+5
+
+0
+
+√
+
+x2
+9 − 25x2
+
+dx.
+
+Page 4 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+2. Evaluate the integral
+
+(8 Marks)
+
+(cid:90) x4 + 2x3 + 9x2 + 8x + 16
+x(x2 + 4)2
+
+dx.
+
+Page 5 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+3. You are working for a biologist who is studying a new kind of virus that reproduces
+
+(6 Marks)
+
+extremely quickly, with the population following the function
+
+p(t) =
+
+(cid:90) t
+
+0
+
+ex2
+
+dx,
+
+where t is in days. The size of each virus is 1
+
+10 µm2.
+
+The biologist wants to make sure he has enough space for this virus to grow for 4 days.
+
+(a) Using the Midpoint rule with n = 4, give an approximation of the necessary area.
+
+Page 6 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+(b) Recall the formula of the error EM we obtain when approximating an integral using the Midpoint
+
+Rule:
+
+|EM | ≤ max
+x∈[a,b]
+
+(cid:12)f (cid:48)(cid:48)(x)(cid:12)
+(cid:12)
+(cid:12)
+
+b − a
+24
+
+(∆x)2.
+
+What is the smallest value of n that we can use to ensure that the error we are making is at
+
+most 1?
+
+Page 7 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+4. Gravitational force decreases with the square of the distance, in particular we can write (6 Marks)
+
+F =
+
+mM G
+y2
+
+,
+
+where y is the altitude of the object from the center of a planet of radius R and mass M , m is mass
+
+of the object, and G is the gravitational constant.
+
+To ﬁnd the escape velocity veveve, we know that the total kinetic energy of the object is 1
+e , and that
+it equals the work necessary to take the object from the surface of the planet (y = R) to inﬁnity
+
+2 m v2
+
+(y = ∞).
+
+(a) Find the escape velocity (in terms of M , G, and R).
+
+Page 8 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+(b) Assuming that c is the speed of light, what is the minimum radius R for a black-hole of mass
+
+M ? (in terms of G)
+
+(Hint. A black-hole is a celestial body where the escape velocity is at least the speed of light)
+
+Page 9 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+5. A bullet of mass m travelling upwards with initial velocity v0 is slowed by the force
+
+(6 Marks)
+
+of gravity mg and by air resistance kv2, where k is a positive constant. As the bullet moves upward,
+
+its velocity v satisﬁes
+
+m
+
+dv
+dt
+
+= −(kv2 + mg).
+
+(a) Find a formula for v(t).
+
+(cid:18)
+
+Hint. For simplicity, write a =
+
+(cid:113) mg
+
+k and don’t forget the initial condition.
+
+(cid:19)
+
+Page 10 of 11
+
+Continued...
+
+MAT197 – Term Test 2
+
+(b) Assuming m = k, and v0 = 100
+
+√
+
+g, ﬁnd the maximum height the bullet will reach in the form
+
+of an integral. Don’t solve the integral.
+
+Page 11 of 11
+
+The end.
+
+

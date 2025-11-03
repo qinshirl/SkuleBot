@@ -1,0 +1,123 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 7   
+Due: 5:00 pm on Monday October 29, 2012  
+In Dropbox #2 in GB422 (Computer Lab) 
+
+r = 0.15 m 
+
+1.  A pin-connected pulley-rod-and-cable system carries 
+
+a crate as shown. Determine: 
+
+i.)   Support reactions at C and E, 
+ii.) All force components acting on member ABC 
+
+Show all results on a new free body diagram. 
+
+A 
+
+D 
+
+400 kg  
+
+B 
+
+0.6 m 
+
+1.6 m  
+
+E 
+
+C 
+
+1.0 m  
+
+2.  Determine the components of the reactions at A and B,  
+
+i.)  if the load is applied as shown. 
+ii.)  if the load is moved along its line of action and is  
+
+applied at F. 
+
+Show all results on a new free body diagram. 
+
+3.  A pin-connected pulley-and-rod system carries a force as 
+
+shown. Knowing that each pulley  has a radius of 250 mm, 
+determine  
+i.)   Support reactions at D and E, 
+ii.) The force components that pins A and B exert on
+  member ABD. 
+
+Show all results on a new free body diagram.  
+
+D 
+
+500 N  
+
+B  
+
+1.5 m  
+
+A  
+
+C  
+
+E 
+
+2.0 m  
+
+2.0 m  
+
+4.8 kN  
+
+4.   The truss in Question 2 of Problem Set 6 is to be manufactured from structural steel with a 
+
+yield stress of 350 MPa and a modulus of elasticity of 200000 MPa. 
+
+i.)  If the force in member AE is 105 kN tension, determine a square cross section for a load 
+factor of 1.9. Determine the actual axial stress, axial deformation and axial strain in the 
+selected section. Assume that square steel bar sizes are available in increments of 5 mm.   
+
+ii.)  If the force in member BF is 100 kN compression and the cross section used is 
+
+L75x75x10, determine the load factor used in the design of this member. Consider both 
+material yielding and elastic buckling. Comment on the structural adequacy of the 
+section. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

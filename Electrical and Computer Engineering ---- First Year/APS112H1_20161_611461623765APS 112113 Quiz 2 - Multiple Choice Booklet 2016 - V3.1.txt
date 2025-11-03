@@ -1,0 +1,261 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113Engineering Strategies and Practice 
+
+Quiz #2  
+April 7, 2016 
+50 minutes 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total of 18 
+questions, worth a total of 30 marks. The questions are divided between two booklets. 
+
+Question Booklet #1 – Multiple Choice Question Booklet 
+
+This booklet contains 15 multiple-choice questions, worth 1 mark each. Read each question 
+thoroughly and provide the answer on the answer sheet (not in this booklet). Fill in your name 
+and student number on the multiple-choice answer sheet. When providing answers on the 
+answer sheet be sure to: 
+
+fill out the answer sheet (scan sheet) clearly with no overlaps 
+
+•  use a pencil or pen 
+• 
+•  erase any errors completely 
+•  provide only the single, most correct answer for each question  
+
+There is no penalty for wrong answers. Select the answer that best satisfies the question.  
+
+You are not required to hand in this multiple-choice question booklet.  
+
+The final 3 short-answer questions are found in the Short Answer Question Booklet. 
+
+============================================================== 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1)  A project is “Fast Tracked”. This means 
+
+a)  Giving bonuses or other incentives to any task finished ahead of schedule 
+b)  Carefully designing tasks to take the shortest time possible 
+c)  All slack in the project is eliminated 
+d)  Some planning/design goes on while other parts of the project are executed 
+
+2)  Why is it important to have project closure? 
+
+a)  Final calculation of costs and comparison with initial estimates 
+b)  Consideration of additional work for this client 
+c)  Time for individual reflection on mistakes and inefficiencies that can be corrected for 
+
+the next project 
+
+d)  All the above 
+
+3)  You have invented a new type of pogo stick (a bouncing toy) that relies on a magnetic 
+
+spring arrangement. You describe this to your friend who publishes an article describing the 
+invention in the school paper. You can still file a patent application: 
+a)  In every country except the one where the publication was printed.  
+b)  Anywhere because a school paper does not count as a public disclosure.  
+c)  As long as you invented the mechanism prior to the article appearing.  
+d)  Anywhere provided the article does not have enough detail to enable someone else to 
+
+build the new mechanism.  
+
+4)   An industrial designer would be hired to: 
+
+a)  Consider the design of entire factories at the system level. 
+b)  Design the non-functional look and feel of a new bicycle helmet to increase sales.  
+c)  Do detailed calculations needed to construct an efficient piston pump. 
+d)  Write utility patent applications to protect new designs. 
+
+5)  Which of the following statements is FALSE? 
+
+a)  The bathtub curve is based on the principle that the failure rate per unit time is highest 
+
+at the beginning and end of a product’s use.  
+
+b)  Quality Engineering is principally concerned with achieving the most durable product 
+
+possible.  
+
+c)  Using an inexpensive and easily accessed sacrificial part is an example of design for 
+
+maintenance.  
+
+d)  Quantitative Reliability Engineering assumes that there is a distribution of loads and 
+
+materials properties rather than single values of these things.  
+
+6)  In a simple Pugh Selection process:  
+
+a)  A single reference design is chosen at the beginning and used throughout the process.  
+b)  The result is a numerical ranking of various design alternatives.  
+c)  The process is essentially the same as for a weighted decision matrix. 
+d)  The objective weighting is not accounted for.  
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+7)  A team has been given the project of helping a bike-sharing organization increase its 
+
+ridership and revenue. They have determined that the functional basis of the project is to 
+convey information. They have defined their first primary function as “increase revenue.” 
+This is incorrect because it is not a function, it is a(n)… 
+a)  Human Factor. 
+b)  objective. 
+c)  result. 
+d)  constraint. 
+
+8)  Oral presentations in Engineering allow you to  
+
+a)  provide extensive detail and explanation of your whole document. 
+b)  establish a human relationship with your audience and trust in your project. 
+c)  demonstrate your advanced ability through the use of professional jargon. 
+d)  provide both written and oral information with slides you read off of. 
+
+9)  A Use Case describes 
+
+a)  a technology at a specific point in its use. 
+b)  how one system is embedded in another. 
+c)  a variety of interactions between a user and a system. 
+d)  the sequence of commands when two systems work together. 
+
+10) Reflective thinking is 
+
+a)  justifying a decision in relation to metrics unique to the situation. 
+b)  determining how to best balance the needs of stakeholders. 
+c)  understanding multiple perspectives in a design project. 
+d)  assessing yourself or team and strategizing improvements. 
+
+11) In the CRAAP research method, the letters stand for: 
+
+a)  Currency, relevance, authority, accuracy and purpose 
+b)  Combine, re-use, analogy, adapt and put to another use 
+c)  Collect, review, analyse, adapt and paraphrase 
+d)  Compose, record, abstract, associate and publish 
+
+<<Questions 12-15 continue on the next page>> 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questions 12-15 refer to the chart in Figure 1. 
+
+60
+
+50
+
+40
+
+t
+s
+o
+C
+
+30
+
+20
+
+10
+
+0
+
+5
+Figure 1: Cost versus Time 
+
+1
+
+4
+
+2
+
+3
+
+6
+
+Budget
+
+Actual
+
+NOW 
+
+Time / Schedule 
+7
+
+9
+
+8
+
+10 11 12 13 14 15 16
+
+The dotted line is the budgeted cost as the project goes through the proposed schedule of 
+tasks. The thinner solid line tracks the actual costs that have been incurred as the tasks have 
+been completed. The thicker solid line labelled NOW indicates the place on the proposed 
+schedule where the project should be. 
+
+12) The project is 
+
+a)  On time, on budget 
+b)  Behind time, over budget 
+c)  Ahead of time, over budget 
+d)  Behind time, under budget 
+
+13) The Actual Cost of Work Performed would be closest to: 
+
+a)  52 
+b)  34 
+c)  30 
+d)  27 
+
+14) The Schedule Variance would be closest to: 
+
+a)  -7 
+b)  -4 
+c)  -15% 
+d)  A positive number 
+
+15) If the rest of the project went as planned, the project will end: 
+a)  at 16, costing 51 (as shown by the end of the dotted line) 
+b)  at 17, costing 56 
+c)  at 15, costing 47 
+d)  at 15, costing 56 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

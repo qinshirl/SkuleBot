@@ -1,0 +1,861 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Final Examination, December 05, 2014 
+Duration: 2.5 hours 
+APS111H1 F and APS113Y1 Y - Engineering Strategies & Practice 1 
+
+Calculator Type: 4 (No electronic or mechanical devices permitted) 
+Exam Type: A (Closed book, no aids permitted) 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Melanie Stevenson 
+Module B Coordinator: Jacinta O’Brien 
+
+Instructions: 
+This is a closed book exam; no calculators or aids are permitted, except for a translation-only 
+dictionary, i.e., direct word-to-word translations but no definitions.  
+
+Fill out both the answer sheet (bubble sheet) and the exam booklet (blank lined booklet) with 
+your name, student number, course (APS111 or ASP113), and date of examination. You do 
+not need to fill out the course instructor or form code.  
+
+There are two parts of the exam: multiple-choice questions and a writing component. Read 
+each question carefully. 
+
+Multiple Choice: 
+The first part of the exam is a multiple-choice component. For each question provide the 
+most correct answer on the answer sheet. Only one answer is to be given for each 
+question. There is no penalty for incorrect answers. Be sure to fill out the answer sheet 
+clearly, with no overlaps, using a pencil. Do NOT answer on these 17 exam pages. Erase 
+any errors completely. There are a total of 32 multiple-choice questions worth a total of 60 
+marks. The mark value of each multiple choice question is about 1.9 marks. 
+
+Written Answers: 
+The second part of the exam is a writing component. There are 4 written questions worth a 
+total of 40 marks. The mark value of each question is indicated on the question. Answer 
+each written question in the blank exam booklet, NOT these 17 exam pages.  
+
+Page 1 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 1: 
+
+Multiple-choice questions (32 questions; 60 marks total)  
+
+1. 
+
+2. 
+
+3. 
+
+"Power Felt", a product developed by researchers at Wake Forest University, is made 
+up of multiple layers of low cost fabric and has been successfully proven to power a 
+cellular phone by using body heat. With "Power Felt", consumers can now power their 
+cellular phones using an energy supply that is: 
+a.  Sustainable. 
+b.  Renewable. 
+c.  Profitable. 
+d.  Equitable. 
+
+"People, planet, profit", "triple bottom line", and "economy, environment, society" all 
+relate to the concept of:  
+a.  Life cycle assessment. 
+b.  Industrial ecology. 
+c.  Sustainability. 
+d.  Adaptive capacity. 
+
+The payback period is defined as the time: 
+a.  Required to recover investment costs. 
+b.  Needed for external costs to equal internal benefits. 
+c.  Over which alternative designs should be compared. 
+d.  That banks allow loans to be repaid. 
+
+4.  Which statement best describes bio-magnification? 
+
+a.  The entry of persistent toxic substances into the environment. 
+b.  The entry of persistent toxic substances into the fatty tissues of organisms. 
+c.  The concentration in the tissues of an organism of substances occurring in the 
+
+environment.  
+
+d.  The increase in the concentration of a substance in the tissues of organisms at 
+
+successively higher levels in a food chain. 
+
+5. 
+
+In Canada, engineering is a self-regulated profession. This means that: 
+a.  Engineers who hold the designation P.Eng. determine the appropriate standard of 
+
+professional competence. 
+
+b.  Only engineers who hold the designation P.Eng. may practice engineering. 
+c.  Engineers who seal their work can be liable if something goes wrong. 
+d.  Government-appointed commissions are needed to determine who is to blame 
+
+when failures occur. 
+
+6. 
+
+For decision-making models, which of the following statements is TRUE? 
+a.  Multi-voting is better than the Pugh Method. 
+b.  Risk-based Methods yield a high level of confidence in the result. 
+c.  A graphic decision chart and a weighted decision matrix are equally complex to use. 
+d.  None of the above. 
+
+Page 2 of 17 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+7. 
+
+The Club of Rome made which one of the following conclusions? 
+a.  A framework is required to measure and report on private sector performance using 
+
+economic, environmental and social parameters. 
+
+b.  James Watt invented the steam engine, which resulted in the industrial revolution. 
+c.  Continued resource depletion and increasing pollutant emissions would lead to 
+
+economic and social collapse. 
+
+d.  Sustainable development meets the needs of the present without compromising the 
+
+ability of future generations to meet their own needs. 
+
+8.  Which of the following is a non-governmental organization:  
+
+a.  Bank of Canada. 
+b.  Ontario Ministry of Transportation. 
+c.  Toronto Stock Exchange. 
+d.  Professional Engineers Ontario. 
+
+9.  Referring to Figure 1, which of the following statements is TRUE?  
+
+a.  Line AB=fixed costs; Line CD=total costs; Area E=loss; Area F=revenue. 
+b.  Line AB=total costs; Line CD=revenues; Area E=profit; Area F=loss. 
+c.  Line AB=fixed costs; Line CD=total costs; Area E=loss; Area F=profit. 
+d.  Line AB=total costs; Line CD=revenues; Area E=loss; Area F=profit. 
+
+Figure 1. Chart for Question 9. 
+
+10.  Which of the following quotations does NOT describe the shift system-centered, 
+
+Human-Tech, design? 
+a.  “If a system doesn’t work for people it doesn’t work.”  
+b.  “Human error is systematically connected to features of tools, tasks and operating 
+environment. Progress on safety comes from understanding and influencing these 
+connections.” 
+
+c.  “Human error is a symptom of trouble deeper inside the system.” 
+d.  “The system in which people work is basically safe; success is intrinsic. The chief 
+
+threat to safety comes from the inherent unreliability of people.” 
+
+Page 3 of 17 
+
+ 
+ 
+ 
+ 
+ 
+11.  Which of the following statements about simple interest calculations and compound 
+
+interest calculations is TRUE? 
+a.  Simple interest calculations are the inverse of Compound interest calculations. 
+b.  Simple interest calculations apply only to the present value, and Compound interest 
+
+calculations apply to the present value and the interest on the present value. 
+c.  Simple interest calculations yield greater future values than Compound interest 
+
+calculations for the same number of interest periods and interest rate. 
+
+d.  Simple interest calculations are only used for simple engineering projects, and 
+Compound interest calculations are used for complex engineering projects. 
+
+Questions 12 to 31 pertain to Case Study #1: F.G. Gardiner Expressway located in the 
+Appendix. 
+
+12.  Ontario is the only province in Canada that requires bridge owners to inspect their 
+
+bridges every two years. The relevant legislation is Ontario Regulation 104/97, made 
+under the Public Transportation and Highway Improvement Act. The Act requires 
+owners to use the Ontario Structure Inspection Manual (OSIM) as a guide to determine 
+the structural integrity, safety and condition of bridges. For elevated sections (bridges) 
+on the Expressway, which statement is TRUE? 
+a.  The City must comply with Ontario Regulation 104/97, but does not need to use the 
+
+OSIM because it is a guideline. 
+
+b.  The City must comply with Ontario Regulation 104/97, and Expressway bridges 
+
+must be inspected every two years using OSIM. 
+
+c.  The City has hired a professional engineer to inspect the Expressway bridges and 
+
+can rely on them to decide how to conduct the bridge inspection. 
+
+d.  The City does not need to comply with Ontario Regulation 104/97 because the City 
+
+has its own by-laws. 
+
+13.  The purpose of Ontario Regulation 104/97 is to ensure that bridges are safe to use, 
+
+and the Regulation requires that bridge inspections shall be performed under the 
+direction of a professional engineer. This is an example of:  
+a.  Application of the precautionary principle. 
+b.  Using laws to implement social policy. 
+c.  Law-makers and engineers working together. 
+d.  Demand-side legislation. 
+
+<<Questions continue on next page>> 
+
+Page 4 of 17 
+
+ 
+ 
+ 
+ 
+ 
+14.  Asphalt cement is a product of crude oil distillation. Emissions generated during the 
+production and application of asphalt cement contain substances such as polycyclic 
+aromatic hydrocarbons (PAHs), which are potentially harmful to the health of workers at 
+petrochemical facilities and road paving operations. According to the United States 
+Environmental Protection Agency, PAHs can stay in the environment for long periods of 
+time and, once ingested, PAHs can spread to organs including the kidneys and liver. 
+However, PAHs will leave the body through urine and feces in a matter of days. Based 
+on the preceding information, which statement best describes PAHs?  
+a.  Persistent, bioaccumulative, toxic. 
+b.  Persistent, non-bioaccumulative, toxic. 
+c.  Non-persistent, bioaccumulative, toxic. 
+d.  Non-persistent, non-bioaccumulative, toxic. 
+
+15.  Figure 2 shows some of the bridge components that must be inspected in order to 
+comply with O. Reg. 104/97. The City hired a professional engineer to inspect the 
+eastern part of the elevated section of the Expressway, and the professional engineer 
+used OSIM but did not inspect the Pier Cap. The professional engineer prepared a 
+report but did not seal it. Six months later, one end of the Pier Cap broke off suddenly, 
+with the result that the elevated roadway over the Pier Cap collapsed and two cars 
+smashed through the guardrails and crashed into the Don River. Which statement best 
+characterizes the actions of the professional engineer: 
+a.  Failed to comply with O. Reg. 104/97. 
+b.  Failed to comply with O. Reg. 104/97 and the Professional Engineers Act. 
+c.  Disregarded public safety for personal profit. 
+d.  Cannot be held liable because the report was not sealed. 
+
+Figure 2. Bridge components that must be inspected 
+according to O. Reg. 104/97 (see Question 13). 
+[Source: http://www.mto.gov.on.ca/english/bridges/] 
+
+Page 5 of 17 
+
+ 
+ 
+ 
+ 
+16.  The City of Toronto has design standards for both hot mix asphalt and concrete when 
+using these materials for road construction. Recently, the City of Toronto published a 
+study, titled "Toronto's Future Weather and Climate Driver Study", which predicted that 
+the average annual temperature in Toronto will increase by 4.4C by the year 2049. As 
+the design engineer working on the design of the new elevated bridge deck, what 
+should you do?  
+a.  Not worry about the temperature in 2049 because the service life of the bridge deck 
+
+is less than 35 years. 
+
+b.  Choose concrete for the bridge deck because it is less susceptible to temperature 
+
+changes than hot mix asphalt. 
+
+c.  Add extra hot mix asphalt to the bridge deck design to allow for temperature-related 
+
+deformation. 
+
+d.  Ensure the material chosen for the bridge deck can meet performance targets at the 
+
+higher future temperature conditions. 
+
+17.  The Gardiner Expressway and Lakeshore Boulevard East Environmental Assessment 
+is considering four options: maintain, improve, replace, and remove. Local community 
+groups favour the option to remove the elevated section of the Expressway because 
+they believe it offers a number of benefits, namely: it will provide better access to Lake 
+Ontario, reduce the number of vehicles using the Expressway, and increase the 
+amount of land that can be redeveloped for social housing. As the design engineer who 
+is working for the City of Toronto, you are responsible for evaluating the options. What 
+should you do?  
+a.  Include the input of the local community groups by estimating the value of the 
+
+benefits they have identified and including the estimated value of the benefits in 
+your option evaluation of the options. 
+
+b.  Confirm that the benefits identified by the local community groups are realistic. 
+c.  Ignore the local community groups since they have much less influence on the 
+
+design than the City of Toronto. 
+
+d.  Report on the benefits identified by the local community groups to City Council and 
+
+ask City Council to vote on the option to remove the elevated section. 
+
+18.  Used rubber tires have become an important constituent in roadway paving. For 
+
+example, used rubber tires are ground up to produce a granular material, and then 
+used as a substitute for the quarry-mined aggregate base over which the asphalt is 
+laid. Which of the 3Rs does this practice satisfy? 
+a.  Reduce. 
+b.  Reduce and reuse. 
+c.  Reduce and recycle. 
+d.  Reduce, reuse, and recycle. 
+
+Page 6 of 17 
+
+ 
+ 
+ 
+ 
+19.  Figure 3 shows the ranking summary for the four options considered as part of the 
+
+Gardiner Expressway and Lakeshore Boulevard East Reconfiguration Environmental 
+Assessment. A main drawback of the approach that was used is that: 
+a.  Too few alternatives were evaluated. 
+b.  Stakeholders were not consulted during the EA process. 
+c.  Too many criteria were used to compare the alternatives. 
+d.  The relative importance of each criterion was not considered in the evaluation.   
+
+Figure 3. Gardiner Expressway EA Criteria Group Ranking (see Question 17).  
+[Source: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2014.PW29.2] 
+
+20.  The City is considering an innovative, accelerated approach for rehabilitating the 
+
+western part of the Expressway. The approach uses conventional construction 
+methods for the at-grade section and prefabricated deck and girder components for the 
+elevated section. If this approach is used, the City will have to increase the project 
+budget by $400 million over 10 years. However, the higher project budget will be offset 
+by a reduction in user impact costs of $3 billion, and the construction period will be 
+shorter. The statement that best describes the innovative, accelerated approach is: 
+a.  Time is money. 
+b.  Life cycle assessment. 
+c.  Design impact on society. 
+d.  Sustainable development. 
+
+Page 7 of 17 
+
+ 
+ 
+ 
+ 
+21.  As part of the Gardiner Expressway and Lakeshore Boulevard East Reconfiguration 
+
+Environmental Assessment, predictions were made about the employment population 
+in Toronto and the surrounding region in the year 2031 in comparison to current data. 
+Table 1 shows the data, which were converted to monetary values by assuming a unit 
+dollar amount for each job. Which one of the following terms describes the analysis of 
+the employment population: 
+a.  Microeconomic analysis. 
+b.  Macroeconomic analysis. 
+c.  Life cycle analysis. 
+d.  Net present value analysis. 
+
+Area 
+Toronto 
+Greater Toronto and 
+Hamilton Area 
+
+Table 1 
+
+Current 
+Employment 
+(Number of jobs) 
+1.27 million 
+
+2031 Employment 
+Forecast 
+(Number of jobs) 
+1.83 million 
+
+Growth 
+44% 
+
+3.26 million 
+
+4.52 million 
+
+39% 
+
+22.  As part of the decision-making process for the Gardiner Expressway Rehabilitation 
+
+Plan, a traffic delay analysis was carried out using the "QUEWZ" queuing methodology. 
+“QUEWZ” determines the societal costs resulting from traffic delays and was used to 
+analyze costs of the various rehabilitation options. “QUEWZ” was developed by the 
+highly reputable Texas Transportation Institute in the United States and is considered 
+the industry standard. It is used throughout North America, including by the Ontario 
+Ministry of Transportation, which uses the "QUEWZ" methodology in the development 
+of user costs on provincial highways. By using "QUEWZ", the City of Toronto is: 
+a.  Relying on third party certification. 
+b.  Demonstrating due diligence. 
+c.  Providing quality assurance. 
+d.  Establishing performance expectations. 
+
+23.  Stormwater runoff refers to rain or snowmelt that flows over the ground, picking up 
+
+pollutants and transporting them into the storm sewer system, which eventually flows 
+into Lake Ontario. Impermeable surfaces like the Gardiner Expressway generate a lot 
+of stormwater. To reduce the volume of stormwater the Gardiner Expressway 
+generates, the City of Toronto is proposing to use permeable asphalt that allows water 
+to gradually soak through the underlying road bed. This slows the velocity and volume 
+of the runoff, reducing the amount of contaminated runoff that ends up in Lake Ontario. 
+The City's proposal is an example of: 
+a.  Pollution Control. 
+b.  Pollution Prevention. 
+c.  Water Recycling. 
+d.  Wise Use of Resources. 
+
+Page 8 of 17 
+
+ 
+ 
+ 
+ 
+ 
+24.  The contractor who has been hired to work on the first phase of the Expressway 
+
+Rehabilitation submitted a bid that included the following costs: (1) hourly wages for 
+workers; (2) unit price for asphalt of $50 per metre curb to curb; (3) monthly lease cost 
+for asphalt paving equipment; and, (4) unit price for aggregate of $10 per tonne. Which 
+of the following statements is true?  
+a.  Costs (2) and (4) are variable costs and costs (1) and (3) are fixed costs. 
+b.  Costs (1), (2) and (4) are variable costs and cost (3) is a fixed cost.  
+c.  All costs are variable costs. 
+d.  All costs are fixed costs. 
+
+25.  Table 2 shows information for the Conventional and Accelerated approaches for 
+
+rehabilitating the Expressway west of Jarvis Street. Which of the following statements 
+is TRUE? 
+a.  The Conventional Approach is preferred based on Net Present Value, and the 
+
+Accelerated Approach is preferred based on Years of Traffic Impact. 
+
+b.  The Conventional Approach is preferred over the Accelerated Approach based on 
+
+User Cost. 
+
+c.  The Conventional Approach will save $2.9 billion over 8 years. 
+d.  The User Cost is not a reliable criteria for decision-making because it is an external 
+cost and is not a direct cost related to the actual rehabilitation of the Expressway. 
+
+Table 2 
+
+Evaluation Criteria 
+Net Present Value 
+User Cost 
+Years of Traffic Impact 
+
+Conventional Approach 
+$1,210 million 
+$7.4 billion 
+20 years 
+
+Accelerated Approach 
+$1,310 million 
+$4.5 billion 
+12 years 
+
+Difference 
+$100 million 
+$2.9 billion 
+8 years 
+
+26.  As a design engineer, you have been asked to conduct a Life Cycle Assessment (LCA) 
+
+to compare asphalt and concrete as road materials for rehabilitation of the "at grade" 
+section of the Gardiner Expressway. You've collected the following information about 
+asphalt and concrete: (1) the raw materials needed to produce them, (2) the 
+manufacturing processes including energy requirements, (3) the chemical properties 
+and potential human health impacts, and (4) the recycling and disposal options for each 
+material once they have reached the end of their service life. To ensure your LCA is 
+complete you should also include:  
+
+a.  Environmental impacts associated with transporting the asphalt and concrete. 
+b.  External benefits to road users. 
+c.  Comparative information from other recent LCAs for the same road materials.  
+d.  The terms of reference for the LCA. 
+
+<<Questions continue on next page>> 
+
+Page 9 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+27.  Figure 4 shows the stakeholder analysis chart that was produced for the Gardiner 
+Expressway and Lakeshore Boulevard East Reconfiguration Environmental 
+Assessment. Which are the most likely identities for stakeholders W, X, Y, and Z given 
+their position in Figure 4?  
+a.  W=City of Toronto; X=City Council; Y=Asphalt Suppliers; Z=Local Community 
+
+Group 
+
+b.  W=Ontario Ministry of Transportation; X=Local Community Group; Y=Newspaper 
+
+Reporter; Z=City of Toronto 
+
+c.  W=Ontario Ministry of Transportation; X=City of Toronto; Y=General Public; 
+
+Z=Newspaper Reporter 
+
+d.  W=Asphalt Suppliers; X=City of Toronto; Y=Ontario Ministry of Transportation; 
+
+Z=General Public 
+
+Figure 4. Stakeholder analysis chart for Question 27. 
+
+28.  When assembling their engineering design team to proceed with the Improvement 
+
+option the City used Bolton Leadership Style survey results. Given that all team 
+members are equally technically competent, which of the following teams will have the 
+greatest chance of success in the project? 
+a.  To minimize the implementation delays the team will consist primarily of Drivers. 
+b.  To reduce the chance of error on such a large infrastructure project the team will 
+
+consist primarily of Analyticals. 
+
+c.  To reduce conflict between the highly vocal resident organizations and the City, the 
+
+team will consist primarily of Amiables. 
+
+d.  To avoid over-specialization, the team will consist of at least one from each 
+
+preferred leadership style (Driver, Expressive, Amiable, Analytical). 
+
+29.  The City is concerned with the high number of fatal traffic accidents on the Gardiner 
+Expressway. During the redesign phase Human Factor consultants identified an off 
+ramp with a sharp curvature as a high accident location. Reducing vehicle speed on 
+this off ramp will result in a significant reduction of traffic accidents. Which of the 
+following strategies is most likely to achieve long term success? 
+a.  Paint lines perpendicular to the flow of traffic with reducing separation distance. 
+b.  Paint wavy lane boundary and separation lines parallel to the flow of traffic. 
+c.  Increase the number of speed limit and curvature signs. 
+d.  Assign a Police traffic officer to enforce a reduced speed limit. 
+
+Page 10 of 17 
+
+ 
+ 
+ 
+ 
+30.  A consulting engineering company is assisting the City to develop the Strategic Plan for 
+the Rehabilitation of the Expressway and has suggested incorporating elements of 
+industrial ecology. Which of the following statements is TRUE?  
+a.  Industrial ecology applies to closed systems, so it cannot be applied to the 
+
+Expressway. 
+
+b.  Industrial ecology is being used in Kalundborg, Denmark, but would not be as 
+
+effective in Toronto. 
+
+c.  Industrial ecology is based on using a minimum of energy, least toxic materials, and 
+creating other useful products at the end of a product's service life, so could be 
+applied to the Expressway. 
+
+d.  Industrial ecology seeks to optimize the flow of resources including along 
+
+transportation routes, so could be applied to the Expressway. 
+
+31.  As the City's design engineer working in the Engineering & Construction Services 
+department, you are responsible for evaluating construction contract bids and 
+recommending contract awards to the Public Works Committee. Your cousin, who is 
+also your roommate, has just taken a job as a site supervisor for one of the construction 
+companies that has submitted a $54 million bid for Phase 1 of the Gardiner 
+Expressway rehabilitation. You have told your boss that your cousin works for the 
+construction company, is your roommate, and you ask your boss to excuse you from 
+evaluating the bids. Your boss agrees. Which situation have you avoided?  
+a.  Allegations of Negligence. 
+b.  Being identified as a Whistle-blower. 
+c.  Finding of Incompetence. 
+d.  Conflict of Interest. 
+
+End of questions pertaining to Case Study #1: F.G. Gardiner Expressway. 
+
+Question 32 is based on Case Study #2 “Pesticide Removal for Fruit and Vegetables,” 
+located in the Appendix. 
+
+32.  For the case study, which of the following is a Secondary Function? 
+
+a.  Indicate when cleansing is completed. 
+b.  Does not exceed 45 euros. 
+c.  Maintains nutritional value of the vegetable/fruit. 
+d.  Qualifies for patentability. 
+
+Page 11 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 2:  
+
+Long Answer Question (40%) 
+
+INSTRUCTIONS: This section requires 4 written answers. Use an exam booklet and write in 
+your name, student number, course, and date of examination on the booklet’s cover page. 
+You may use as many pages as you need for your preliminary work, but the final answers 
+must be no more than four (4) pages single-spaced or eight (8) pages double-spaced. 
+Clearly indicate the final copy to be graded by writing “Final Copy” at the start of it. Use full 
+sentences and paragraphs. 
+
+This section of the exam evaluates your ability to 
+
+•  Communicate in clear, concise, well-organized sentences and paragraphs with minimal 
+
+error. 
+
+•  Structure a logical argument, making clear claims and supporting them with the evidence 
+
+currently available to you. 
+
+•  Recognize the kinds of information you would need, moving forward, to validate and 
+
+better support your claims. Generate specific questions to help you find that information. 
+
+•  Read, understand, and analyse engineering-related material under time pressure. 
+
+33.  Using techniques taught in the lecture on revision, revise the following two sentences to 
+
+make them more concise while retaining their key messages. [5 marks] 
+
+a. It is widely known that people who ride bicycles on the campus of the University of 
+Toronto have become complainers in regards to the lack of bike lanes.  
+
+b. Due to the fact that the computer system crashed, an announcement will be made 
+by the instructor of the course that the results of the exam may be a little bit delayed. 
+
+Questions 34 and 35 are based on Case Study #2 “Pesticide Removal for Fruit and 
+Vegetables,” located in the Appendix. 
+
+Read the client statement for Case Study #2. Then, drawing logically on it and your own 
+knowledge, quickly generate a point form list of the KEY objectives and constraints for the 
+pesticide project. Order the objectives from most important to least important, drawing 
+logically again on information in the client statement and your own knowledge.  
+
+[Notes: No metrics are required. Also, while the list itself will not be marked, it forms the 
+basis for your answers to the questions that follow.] 
+
+Using full sentences and well-developed paragraphs, answer the following questions: 
+
+34.  For your top three objectives explain and justify why you considered each a key 
+
+objective and why you ranked them in that particular order. If you think another reader 
+might disagree with you, state what you think their counter argument might be and why 
+you would still stay with your current choices. [10 marks] 
+
+Page 12 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35.  Describe, as specifically as possible, the key research questions you would want to 
+answer in order to check the validity of your claims and to develop the three top 
+objectives further. (Don’t worry about whether the questions are open or closed.) Also 
+discuss what kind(s) of information might change your mind about your objectives or 
+objective rankings, if you uncovered such information. [5 marks] 
+
+End of questions pertaining to Case Study #2 “Pesticide Removal for Fruit and 
+Vegetables,” located in the appendix of this exam. 
+
+Question 36 pertains to Case Study #3 “Solid-waste Management in Humanitarian 
+Response,” located in the appendix of this exam. 
+
+36.  Engineers can’t always rely solely on the client to scope engineering problems. Often, 
+as with your vaccine project, an engineer must do it. After reading Case Study #3, 
+consider how you would scope the solid-waste problem as a member of an engineering 
+design team. (Tip: Think and write notes before you start writing your formal response!) 
+Using full sentences and paragraphs, construct a well-written mini-analysis that 
+addresses the following: First, what makes scoping this particular problem challenging 
+(be specific)? Second, describe and explain some different ways you might approach 
+scoping it. Discuss the specific challenges or trade-offs involved in scoping it each way. 
+Third, choose a scoping approach and justify why you picked it as the best method 
+under the circumstances. [10 marks] 
+
+<<There are no more questions past this point>> 
+
+Page 13 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+<<This page intentionally left blank>> 
+
+Page 14 of 17 
+
+ 
+ 
+Appendix A: Case Studies 
+You may remove this appendix. There are no questions in this Appendix 
+
+Case Study #1: F.G. Gardiner Expressway  
+
+The City of Toronto owns and operates the F.G. Gardiner Expressway, a major arterial 
+roadway that runs parallel to the Lake Ontario shoreline in the downtown core. The 
+Expressway, which is shown in Figure 1, extends for 18 kilometres. From Highway 427 in the 
+west, the Expressway runs for 11 kilometres at grade and then for 7 kilometres that are 
+elevated, ending at the Don Valley Parkway in the east. For most of its length, the 
+Expressway is six lanes wide and the posted speed limit is 90 km/hour.  
+
+Source: http://www.toronto.ca/legdocs/mmis/2014/pw/bgrd/backgroundfile-67051.pdf 
+
+The Expressway was constructed over an 11-year period from 1955 to 1966, and is 
+approaching the end of its original design life. The effects of weathering, salt, and increasing 
+traffic loads have had an impact on the Expressway, with the result that ongoing 
+maintenance and repair requirements and costs have increased significantly. 
+
+The City of Toronto is currently undertaking two initiatives related to the Expressway: 
+
+(1) Strategic Plan for the Rehabilitation of the Expressway - which will help the City decide 
+the priority of various repairs to the Expressway. 
+
+(2) Gardiner Expressway and Lake Shore Boulevard East Reconfiguration Environmental 
+Assessment - to determine what to do with the elevated portion of the Expressway between 
+Jarvis Street and the Don Valley Parkway. 
+
+Page 15 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Study #2: “Pesticide Removal for Fruits and Vegetables” [1] 
+
+Health-conscious consumers are worried about residual pesticides in their food, particularly 
+in emerging markets. Currently, the most common consumer solution for removing residual 
+pesticides from fresh fruit and vegetables is to hand wash or soak the produce, but the 
+results are neither uniform nor sufficient. The client seeks a solution (either technology or 
+products) that meets the following key success criteria: “delivers pesticide removal benefit at 
+low cost for home use; and…two times more efficient than ordinary hand washing 
+methods.”[1] 
+
+“Additional technical criteria: 
+•  Safe to both user and environment (consumers at home) 
+•  No damage to vegetable/fruit appearance, nor to nutrition value 
+•  Cost price of end product should not exceed 45 euros 
+
+o  The end product(s) has to be compact (for ease-of-use and storage) 
+o  Not exceed around 35 L, preferably smaller 
+
+•  Capacity to treat 500 grams leafy vegetables (e.g., lettuce or Chinese greens) per wash 
+•  Preferably does not occupy tap during washing cycle 
+•  Total cycle-time: around 25 minutes 
+•  Can remove dirt/pesticides on fruit/vegetables in one cycle”[1] 
+
+“Additional commercialization criteria: 
+•  Proven technical feasibility (ideally in terms of prototypes, test data, etc.) no later than the 
+
+second quarter of 2014 
+
+•  Theoretical proof/data that solution is able to meet the required removal performance (at 
+
+least 2x better than current typical consumer practices) 
+
+•  Can provide a lasting competitive advantage, e.g., by IP [intellectual property rights], or 
+
+exclusive purchase 
+
+•  Cost price of the end product should not exceed 45 euros” [1] 
+
+“Additional information: 
+•  EC (emulsifiable concentrate) is one of the pesticide formulations that is difficult to 
+
+remove. Leafy vegetables are the greatest concern of the consumer; it has to be possible 
+to treat those with the proposed solution. 
+
+•  The use of additives in the solution is only acceptable for those additives that are known 
+
+to be edible and non-harmful. 
+
+•  Solutions that do not require user interference in the process are most preferred. 
+•  Visual proof that dirt or pesticide removal actually takes place is a strong wish.” [1] 
+
+“The client is NOT looking for: 
+•  Highly complex and expensive solutions 
+•  Chemical solutions (except materials that are common in consumer kitchens and seen as 
+
+edible/non-chemical, like salt or vinegar) 
+
+•  Solutions that potentially cause irritation for the consumer to e.g., nose, skin, eyes, and 
+
+others. Solutions that damage the fruit/vegetables or have negative effects on its 
+nutritional value.” [1] 
+
+Page 16 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Case Study #3: “Solid-Waste Management in Humanitarian Response” [2] 
+
+ “Natural and [human]-made disasters like earthquakes and wars cause displacement of 
+people from their homes to formal and informal camps. Relief efforts are usually centered 
+around these locations. Even though these people have very little, they still produce a good 
+amount of solid waste such as trash, garbage and even packing from the relief effort itself. If 
+these wastes are not managed properly (collected, transported and disposed) it creates 
+[many] health and environmental issues in time. We are searching for the most economical 
+process of [quickly] managing solid wastes without worsening the already poor living 
+conditions in these areas or causing harm to individuals or the environment.” [2] 
+
+References 
+
+[1] J. Tzeng, “Pesticide removal for fruits and vegetables,” NineSigma, Available: 
+https://ninesights.ninesigma.com/, Accessed on: Nov. 21, 2014. 
+[2] Humanitarian Innovation Fund, “Solid-waste management in humanitarian response,” 
+InnoCentive.com, Available: https://www.innocentive.com/ar/ challenge/9933337, Accessed 
+on: Nov. 21, 2014. 
+
+Page 17 of 17 
+
+ 
+ 
+ 
+ 
+ 
+

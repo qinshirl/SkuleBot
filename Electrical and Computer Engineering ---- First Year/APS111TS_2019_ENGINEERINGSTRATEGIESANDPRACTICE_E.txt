@@ -1,0 +1,242 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS111T Engineering Strategies and Practice 
+Course Instructor: Atoosa Nasiri 
+Communication Instructor: Maria Cioni 
+Final Examination 
+Apr 26, 2019 
+2:00 pm to 4:30 pm (2.5 hours) 
+
+Student Name: 
+
+Ulor Email: 
+
+Please print clearly 
+
+Final Examination Instructions 
+
+Ensure that you have all 12 pages of this Final exam and the separate one-page 
+Final Exam RFP. 
+There are 100 marks in total on this exam. 
+You have 2.5 hours to complete this exam. 
+Write your name and UT ID or UT Email address on this booklet. 
+Read each question carefully. All questions should be answered directly in this 
+booklet in the box provided. 
+There is one extra pages at the end, use them if you need more spaces. 
+Write in complete sentences and complete paragraphs were applicable. 
+Marks for each question are indicated in square brackets []. 
+This is a Type A Closed book examination; no aids permitted. You are allowed a 
+paper translation-only dictionary (no definitions). 
+Where needed draw upon your own engineering expertise. You will not be required 
+to have references as you normally would. 
+At the end of the exam hand in this booklet and RFP. 
+Circle the number "1 ." at the start of Question 1 on page 2 for one mark. 
+
+Page 1 of 12 
+
+Engineering Strategies and Practice 
+APSI 111-2019 
+
+Final Exam RFP: Security System 
+for Foldable Electric Car 
+
+At the Toronto-based start-up, Vision 20/20 Inc., we are in the business of creating products for the 
+
+future. As such, we are seeking proposals for a security device for electric folding cars. Three such 
+
+automobile designs currently exist: 
+
+-  The Hiriko developed by Massachusetts Institute of Technology (MIT) and a Spanish redevelopment 
+
+agency, DENOKINN [1]; 
+
+-  The Armadillo-T developed by the Korean Advanced Institute of Science and Technology (KAIST) [2]; 
+
+-  The Casple Podadera developed by the Spanish business group Casple and the designer Francisco 
+
+Podadera [3]. 
+
+H 'i rl'  ko 
+
+FIqUr e I Dqmrr' of H,ril Fold/n q car, from G  Mu;rro [1] 
+
+E 
+
+U,'IVI7 Y  U//a /01000 )I/fg'/IUnS t- 0III 5 UUO(0 j 2, 
+
+Based on a NineSigma RFP 4 69687 
+
+ 
+Engineering Strategies and Practice 
+APSIIIT— 2019 
+
+al Exam RFP: Security System 
+for Foldable Electric Car 
+
+. 
+
+M 
+
+easuring between 2.30 and 2.80 metres in use and between 1.65 and 1.90 metres when folded [1-3], 
+
+these two person vehicles are the ultimate answer to the challenges of city driving and city parking! Up 
+to three of these could fit in a conventional Toronto parking space (5.6*2.6  metres) [4].  So, how it works 
+is, the driver finds a parking spot about a third of the size of a normal spot, gets out of the car, folds it 
+
+and parks it through a smart phone app. 
+
+However, at Vision 20/20, we foresee a major drawback for these cars. They are so light (the Hiroki is a 
+
+mere 452Kg [1] and the Armadillo-T is 3 Kg [2] lighter than that), they could easily be lifted and carried 
+
+away by a small number of strong people with a minimal amount of equipment. 
+
+So, we believe that as these new foldable electric cars start to come on the market, there will be a need 
+
+for a security device that prevents unauthorized removal of the vehicle while allowing law enforcement 
+
+to tow when necessary. It would also be desirable for the security system to warn the car owner in the 
+
+case of the car being moved. However, any such alarm system cannot create a disturbance if the car is 
+
+parked in a residential neighbourhood at night. Finally, if an electrical source or a source of energy 
+
+transformable to electrical power is available, it would be an added benefit if the security system could 
+
+also charge the car's battery while the car is parked. In the case of this add-on, electromagnetic systems 
+
+would be preferred. 
+
+G. Munro (2013 Jan 2) "New for 2013-The Hiroko-The Foldable Car!" [Online] efergy  Available: 
+r:t.//fH!:l corn./jpg/pev for  2cI 
+
+fo!dabL 
+
+IH 
+
+K. Munro (2013 Aug 13) "Armadillo-T Foldable Electric Micro-car by KAIST" [Online] dezeen 
+
+magazine Available:  j/d: H 
+
+A. MacKenzie (2013 Feb 18) "The Casple-Podadera City Car Knows When to Fold 'Em" [Online] 
+
+Gizmag  Available:::. 
+
+City of Toronto (2014 Aug 19)  Chapter 200 Parking Space Regulations  [Online] Available: 
+
+ri 
+
+I 
+
+Based on a NineSigma REP #69687 
+
+1. Circle T (TRUE) or F (False) for each statement below. If the answer is FALSE, then 
+rewrite the entire statement to make the statement TRUE. There may be multiple 
+ways to do this, just pick one. [1 Mark each; total 9 Marks] 
+
+[T or F]: The purpose of an engineering argument is to market. 
+
+[T or F]: The purpose of the Project Report (PR) is to define the solution. 
+
+[T or F]: The purpose of the Measures of Success is to persuade the client that 
+your recommended design is the right design for them. 
+
+[T or F]: Idea selection defines the client's need by specifying the boundaries of the 
+design problem. 
+
+[T or F]: The purpose of prototyping the design is to test the success of a design. 
+
+[T or F]: Design reports are written using a process called concision. 
+
+[T or F]: Considering the most-to-least way to prevent negative environmental 
+impact, an engineering designer would: Reuse, Reduce, Recycle. 
+
+[T or F]: Every communication assignment should begin with research. 
+
+[T or F]: A constraint goal is the metric that the design tries to meet. 
+
+Page 2 of 12 
+
+2. The design process is iterative in nature and a successful conceptual design will go 
+
+through multiple processes, multiple times, before a final design is achieved. Draw an 
+overview of the engineering design process that shows the iterative cycles that 
+engineers go through during a typical engineering design. [10 Marks] 
+
+Take a holistic approach that clearly demonstrates your understanding of the overall 
+engineering design process. Include as many stages as possible and avoid listing 
+topics like FOC. Take note: Your answer must be drawn and labelled. 
+
+Page 3 of 12 
+
+Questions 3 to 10 pertain to the Request for Proposal (RFP) - Security System for 
+Foldable Electric Car 
+
+3. Identify the functionality of the problem using the three steps below (3.a to 3.c) 
+
+a. Write a Gap for the problem. [3 Marks] 
+
+Write a Functional Basis for the problem. It must be linked to your Gap. [3 Marks] 
+
+Write one Primary Function and Two Secondary Functions for the problem. It must 
+be linked to your Functional Basis in Question 3.b. [3 Marks] 
+
+Page 4 of 12 
+
+4. Write a Problem Statement for the RFP. [10 Marks] 
+
+Page 5 of 12 
+
+5. Perform a communication assessment. [5 Marks] 
+
+6. Write two Constraints complete with metric. (Limits not required) [4 Marks] 
+
+7. Write three Objectives complete with metric (goal is not needed). List them in order of 
+
+importance and give evidence of this ranking. [6 Marks] 
+
+Page 6 of 12 
+
+8. Identify three key Stakeholders upon whom the design will have significant impact and 
+
+describe the impact. Avoid the client, user or design team. [3 Marks] 
+
+9. Identify three specific aspects of the Service Environment. [3 Mark] 
+
+Page 7 of 12 
+
+10. Using two different idea generation methods, other than Brainstorming/Enumeration, 
+generate and describe two feasible design alternatives. Identify which method was 
+used for each design and why was it used. The more innovative and distinctly different 
+the approach of the design alternatives, the more marks you will receive. [12 Marks] 
+
+Page 8 of 12 
+
+11 . Using the three Objectives you generated above and a Weighted Decision Matrix, 
+
+recommend one of your alternative designs to the client. This recommendation must 
+use the SEE structure for a credible argument as discussed in class. [12 Marks] 
+
+Page 9 of 12 
+
+12. Identify the impact of your recommended design on one Stakeholder and on one 
+
+Environmental Factor. Provide justification and an action plan to mitigate the impact. 
+[6 Marks] 
+
+13. Using the three Objective you identified above, provide a detailed plan on how to 
+
+evaluate the performance of your recommended design. Include measurements, tests 
+and other engineering methods in this performance evaluation. [6 Marks] 
+
+Page 10 of 12 
+
+14. If you were tasked with this RFP, you would need to do more research. With regard to 
+Performance Measure, give three examples of research questions/areas you need to 
+investigate and the type of source that would provide credible information. [3 Marks] 
+
+Page 11 of 12 
+
+Page 12 of  12 
+
+

@@ -1,0 +1,1040 @@
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+Q6 
+
+Q7 
+
+Q8 
+
+/15 
+
+       /15 
+
+       /16 
+
+       /15 
+
+       /15 
+
+       /20 
+
+       /15 
+
+       /10 
+
+       /121 
+
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+FINAL EXAMINATION 
+
+APRIL 2013 
+
+First Year 
+
+APS 104S 
+INTRODUCTION TO  MATERIALS AND CHEMISTRY 
+
+Exam Type B 
+Examiners:  T. Bender, N. P. Kherani, T. Mirkovic 
+
+Duration:  2 hour 30 minutes 
+
+NAME:  _________________________________________________________ 
+                Last 
+
+First 
+
+STUDENT NO:____________________________________________________ 
+
+INSTRUCTIONS: 
+
+  This is a Type B examination. Only non-programmable calculators are allowed. 
+  Answer all 8 questions. 
+  All work is to be done on the pages of this booklet. 
+  When answering the questions include all the steps of your work on these pages and then 
+
+write the answer in the respective boxes where provided. For additional space, you may use 
+the back of the preceding page. 
+  Do not unstaple this exam booklet. 
+  A Formula Sheet and the periodic table are attached to the end of this exam booklet; if you 
+
+wish, you may tear-off these sheets only. 
+
+Page 1 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+QUESTION 1 [15 marks]  
+
+First Name: 
+
+Student No. 
+
+Part I. A sample of zinc metal reacts completely with an excess of hydrochloric acid: 
+
+Zn(s)  +  2HCl(aq)   ZnCl2(aq) + H2(g) 
+
+The reaction is run at 273 K and 1.0 atm. 
+
+(a)  [4 marks] Calculate the work done by the reaction if 19.8 g of zinc is reacted.  
+
+(Neglect volume changes other than the change in gas volume) 
+
+(b) [5 marks] If the above reaction is exothermic, determine if the following are positive, negative, or 
+
+zero (circle the correct response) : 
+
+ΔU:   +ve 
+
+ΔH:  +ve 
+
+q: 
+
++ve 
+
+ΔS: 
+
++ve 
+
+ΔG:  +ve 
+
+-ve 
+
+-ve 
+
+-ve 
+
+-ve 
+
+-ve 
+
+0 
+
+0 
+
+0  
+
+0 
+
+0 
+
+(c)  [2 marks] In a second experiment, the reaction in (a) is run at 400 K. Which statement is correct? 
+
+i) 
+ii) 
+iii) 
+iv) 
+
+The system is doing more work at 400 K than at 273 K. 
+The system is doing less work at 400 K than at 273 K. 
+The surroundings are doing more work at 400 K than at 273 K. 
+The surroundings are doing less work at 400 K than at 273 K. 
+
+Part II. 
+ [4 marks] 
+(a)   A balloon contains 0.76 mol He, 0.18 mol Ne, 0.031 mol Ar and 0.026 mol Rn at 749 mm Hg. What 
+
+is the partial pressure of Ne? 
+
+(b)  Which of the noble gases in the above mixture should show the greatest deviation from the ideal gas 
+
+law at high pressures. Circle the correct answer. 
+
+He 
+
+Ne 
+
+Ar  
+
+Rn  
+
+all deviate equally 
+
+Page 2 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Last Name: 
+QUESTION 2 [15 marks] 
+
+First Name: 
+
+Student No. 
+
+(a)  Consider the body centered cubic crystal 
+structure (shown in the small sphere 
+representation on the right) with a unit cell edge 
+length of a and atomic radius R. Derive the 
+expression for the lattice constant a in terms of 
+the atomic radius R. [3 marks] 
+
+a 
+
+(b) Calculate the atomic packing factor for the BCC crystal structure. [4 marks] 
+
+(c)   Calculate the linear atomic density in the close-packed direction of the BCC crystal structure. 
+
+ [3 marks] 
+
+(d) Calculate the atomic radius of iron given that it has a BCC crystal structure, an atomic weight of 
+
+55.85 g/mole and mass density of 7.87 g /cm3 . [5 marks] 
+
+Page 3 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Last Name: 
+QUESTION 3 [16 marks] 
+
+First Name: 
+
+Student No. 
+
+(i.)  Consider the engineering stress-strain curve for a 
+
+particular alloy shown on the right. Clearly mark the 
+following features/points on the graph on the right: 
+[6 marks]  
+
+A.  Tensile Strength. 
+B.  Fracture Strength. 
+C.  Proportional Point. 
+D.  Shade the region that represents resiliency. 
+E.  Highlight the strain range that represents ‘strain 
+
+hardening’. 
+
+F.  Mark the point where ‘necking’ starts. 
+
+(ii.)  Using the expanded engineering stress-strain curve 
+
+shown below, calculate: 
+
+1)  Young’s modulus.   
+
+[2 marks] 
+
+2)  0.5% off-set yield 
+strength. [2 marks] 
+
+3)  Strain at fracture. 
+
+[2 marks] 
+
+4)  Given a Poisson coefficient of 0.3, original specimen length of 100 mm, original specimen 
+
+diameter of 10 mm, and applied tensile stress of 400 MPa, calculate the elongated length and the 
+corresponding diameter of the specimen. [4 marks] 
+
+Page 4 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
+    
+Last Name: 
+QUESTION 4  [15 marks]  
+The diagram below represents a reversible Carnot cycle for an ideal gas: 
+
+First Name: 
+
+Student No. 
+
+(a)  [2 marks] What is the thermodynamic efficiency of the engine? 
+
+(b) [2 marks] How much heat is rejected at the lower temperature, 200 K, during the isothermal 
+
+compression? 
+
+(c)  [2 marks] What is the entropy increase during the isothermal expansion at 1000 K? 
+
+(d) [2 marks] What is the entropy decrease during the isothermal compression at 200 K? 
+
+(e)  [2 marks] What is the overall entropy change for the entire cycle? 
+
+(f)  [2 marks] What is the change in Gibbs free energy during the process A→ B? 
+
+(g) [3 marks] The above diagram shows a Carnot cycle in the form of a pressure-volume diagram. 
+Sketch the corresponding entropy-temperature diagram, labeling the individual steps   A→ B 
+(isothermal), B→ C (adiabatic), C→ D (isothermal), and D → A (adiabatic). 
+
+Page 5 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+QUESTION 5 [15 marks]  
+
+First Name: 
+
+Student No. 
+
+If the reaction NO2(g) ⇌ NO (g) + ½ O2(g)  comes to equilibrium at a total pressure of 1 bar, 
+analysis of the gas shows that at 700 K, 
+
+        , and at 800 K,                          
+
+        , if only NO2(g) was initially present in the gas phase. 
+
+(a)  [6 marks] Calculate KP at 700 and 800 K. 
+
+(b) [3 marks] Calculate 
+
+ assuming that it is independent of temperature.  
+
+Page 6 of 14 
+
+reactionH 
+ 
+ 
+   
+    
+            
+   
+   
+   
+    
+           
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+(c)  [3 marks] Calculate 
+
+ for this reaction at 298.15 K. 
+
+(d)  [3 marks] How would the equilibrium position change, if the following actions were performed 
+
+on this reaction system? Circle the correct response. 
+
+i) increase in temperature: 
+
+move to right         move to left 
+
+doesn’t shift 
+
+ii) decrease the reaction flask volume:           move to right         move to left   
+
+doesn’t shift 
+
+iii) addition of inert gas: 
+
+move to right         move to left   
+
+doesn’t shift 
+
+Page 7 of 14 
+
+ Greaction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+Last Name: 
+QUESTION 6 [20 marks] 
+
+First Name: 
+
+Student No. 
+
+6-1.  Consider the following phase diagram of water: 
+
+(a) Circle on the phase diagram the triple point and explain below what you would observe if the system was at 
+the triple point. [2 marks] 
+
+(b) Circle on the phase diagram the critical point.  State below the significance of the critical point. [2 marks] 
+
+(c) Explain below what happens as you move along a constant pressure line at 106 Pa starting from 0 K and 
+moving to 600K. [2 marks] 
+
+Page 8 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+6-2.  Consider the following phase diagram: 
+
+First Name: 
+
+Student No. 
+
+(a) For a mixture of 37 kg of Pb and 6.5 kg of Mg state the phase(s) that are present at 800 °C. [2 marks] 
+
+(b) Does Pb-Mg form a eutectic mixture? If yes: circle a eutectic point on the phase diagram and identify a 
+eutectic isotherm. If no: explain why with reference to the phase diagram. [2 marks] 
+
+(c) Does Pb-Mg form a stoichiometric compound? If yes: identify it and state its melting point? If no: explain why 
+with reference to the phase diagram. [2 marks] 
+
+Page 9 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+Parts d-g pertain to the following:  
+
+First Name: 
+
+Student No. 
+
+A 50wt% Pb-50wt% Mg mixture is slowly cooled from 700 °C to 300 °C. 
+
+(d) At what temperature does the first solid phase form? [1 mark] 
+
+Answer: 
+
+(e) What is the composition of the first small amount of solid phase formed? [3 marks] 
+
+Answer: 
+
+Answer: 
+
+(f) A what temperature does the liquid completely solidify? [1 mark] 
+
+(g) What is the composition of the last remaining liquid phase just before complete solidification? [3 marks] 
+
+Answer: 
+
+Page 10 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+QUESTION 7 [15 marks]  
+
+First Name: 
+
+Student No. 
+
+A voltaic electrochemical cell consists of a silver electrode in contact with 346 mL of 0.100 M AgNO3 
+solution and a magnesium electrode in contact with 288 mL of a 0.100 M Mg(NO3)2 solution.  
+
+Given:   Ag+  +  e-    Ag        
+
+E° = 0.800 V 
+
+Mg2+  + 2 e-    Mg      
+
+E° = -2.372 V 
+
+(a)  [2 marks] Write the overall reaction and the shorthand notation for this voltaic cell.  
+
+(b) [3 marks] Calculate the value of E  or the cell at       
+
+(c)  [6 marks] A current is drawn from the cell until 1.20 g of silver have been deposited at the silver 
+
+electrode. Calculate the value of E for the cell at this stage of operation. 
+
+(d) [1 mark] Determine Ecell once the cell has reached equilibrium.  
+
+(e)  [3 marks] True or False? Circle the correct response. 
+
+(i) 
+
+In the electrolyte of an electrochemical cell, current is carried by anions moving toward 
+the anode and cations moving in the opposite direction. 
+
+T    or     F  
+
+(ii) 
+
+Electrons are produced at the cathode of a voltaic cell. 
+
+T    or     F 
+
+(iii) 
+
+In a fuel cell, an external source of electrical power is used to drive a non-spontaneous 
+reaction in which a fuel is produced.   
+
+T    or     F 
+
+Page 11 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+QUESTION 8  (10 marks) 
+
+First Name: 
+
+Student No. 
+
+(a) Draw the energy band diagrams for an insulator, semiconductor, and metal – making sure to clearly 
+highlight the differences. [3 marks] 
+
+Insulator 
+
+     Semiconductor 
+
+       Metal   
+
+(b) Calculate the number of free electrons per cubic meter of silver, assuming there are 1.5 free electrons per atom 
+of silver. The electrical conductivity, density and atomic weight of silver are 6.8 x 107 (Ω m)-1, 10.49 g cm-3 and 
+107.87 g mol-1 respectively. [3 marks] 
+
+Answer: 
+
+(c) Using the results from part (b) compute the electron mobility for silver. [3 marks] 
+
+Answer: 
+
+(d) Compute the resistance of a copper wire 3mm in diameter and 2 m in length given the conductivity of copper 
+is 6.0  107 (Ω.m)-1. [1 mark] 
+
+Answer: 
+
+Page 12 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+First Name: 
+
+Last Name: 
+FORMULAE & CONSTANTS  (You may tear this sheet off.) 
+R = 8.3145 J·K-1 mol-1 = 0.0820574587 L·atm· K-1 mol-1 = 0.083145 L·bar·K-1·mol-1 
+1 atm = 101.325 kPa  = 1.01325 bar = 14.696 psi = 760 Torr  = 760 mmHg 
+NA = 6.022 x 1023 mol-1             k = 8.62 x 10-5 eV/K               1 eV = 1.60 x 10-19 J 
+T(K) = T(oC) + 273.15 K          F = 9.6485309 × 104 C mole-1                    e = 1.60217733 × 10-19 C 
+STP: 273.15K, 1 bar             SATP: 298.15K, 1 bar    
+
+1L atm = 101.325 J 
+
+Student No. 
+
+        ∫         
+
+    =n     
+
+              (
+
+)        G = E/(2(1 +)) 
+
+)                                                      | |   
+
+                        | |      | |       
+
+dH = nCp,mdT 
+For ideal gases, Cp,m=Cv,m+R 
+Solids, Liquids,  Cp,m = Cv,m 
+
+For a process at constant temperature 
+ΔG= ΔH-TΔS 
+
+υi: stoichiometric coefficient 
+Assuming no phase change, constant Cp 
+ΔH°rxn = Συi*ΔH°f,i  + ΔCp*(T-25°C) 
+ΔCp = Συi*Cp,i 
+
+Efficiency = |w|/qin 
+
+ε(ideal) = 1 – TC/TH 
+
+σy = σo + kyd -1/2           
+
+            (
+
+√   
+
+Idea gas equation of state: 
+Van der Waals equation of state: 
+
+First law, closed systems 
+U = q + wdU = dq +dw 
+dw= –PextdV 
+dU = nCv,mdT 
+
+For  an  isothermal  reversible  process  (ideal 
+gas): 
+
+Adiabatic reversible process ( ideal gas): 
+
+For solids or liquids: 
+
+Phase transition 
+
+Standard entropy of the reaction ΔS°rxn = Συi*Sm°i 
+Standard free energy of a reaction: ΔG°rxn = Σ υi*ΔG°f,i    or   ΔG°rxn = ΔH°rxn - TΔS°rxn    
+
+ΔG° = -RTlnK                                                                                         (assuming 
+
+ independent of T) 
+
+Total free energy of the reaction aA +bB => cC +dD     
+
+  ΔGrxn = ΔGrxnØ + RT ln(Q)                                                                  ΔGrxn = ΔGrxnØ + RT ln(QP) , where   
+
+where 
+
+ where  a=  activity (~ concentration)  
+
+Page 13 of 14 
+
+343rVACNVnA100]})(25.0exp[1{%2BAXXICellVolumeTotalUnitCeVolumeTotalSpherAPFtorrectionVecLengthOfDinVectorOnDirectioomsCentredNumberOfAtLDeAreaOfPlanOnAPlaneomsCentredNumberOfAtPDmMDPniinMxMiiwMwM)kTQexp(- vNNV)2kTQexp(- SNNS)2kTQexp(- frfrNNoreactionHnRTPV22)(VannbVnRTPPVUHTSHGTdQdSreversible2112lnln21PPnRTVVnRTdVVnRTWVVrevtranstranstransTHSbBaAdDcCaaaaQVPCC       2211VPVP      VT VT)(γ)(γ122111]/)1[(22]/)1[(11 PTPT2112TTPTdTC) (TΔS)(TΔSP) const at T in (change         TTlnnCΔSV) const at T in (change         TTlnnCΔSl)(isotherma         VVnRlnΔSifPifVif       PPPPPPPPQBADCpbadcnFEGQnFRTEEolntnCIC25at      log0592.0QnEEo)11()()(ln2121TTRHTKTKoreactionpp 
+ 
+ 
+      
+      
+ 
+  
+             
+ 
+      
+      
+      
+ 
+    
+    
+ 
+   
+ 
+ 
+       
+ 
+ 
+      
+  
+ 
+       
+ 
+ 
+                  
+ 
+ 
+     
+  
+  
+ 
+   
+  
+  
+   
+  
+  
+                                
+     
+              
+     
+                 
+    
+    
+     
+    
+    
+  
+               
+  
+ 
+      
+ 
+ 
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+(You may tear this sheet off.) 
+
+Page 14 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

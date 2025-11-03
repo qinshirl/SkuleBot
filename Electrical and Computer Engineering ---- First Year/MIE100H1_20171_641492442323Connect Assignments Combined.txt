@@ -1,0 +1,1078 @@
+MIE100-Winter 2017 
+Assignment week 1 
+
+1.  Based on experimental observations, the acceleration of a particle is defined by the relation 
+
+a = –(0.1 + sin (x/b)), where a and x are expressed in m/s2 and meters, respectively. Know that b = 
+0.8 m and that v = 1 m/s when x = 0. Determine the velocity of the particle when x = –1 m. (Round 
+the final answer to three decimal places.) 
+
+2.  A small package is released from rest at A and moves along the skate wheel conveyor ABCD. The 
+package  has  a  uniform  acceleration  of  6  m/s2  as  it  moves  down  sections  AB  and  CD,  and  its 
+velocity is constant between B and C. The velocity of the package at D is 7.2 m/s. Determine the 
+time required for the package to reach D. (Round the final answer to two decimal places.) 
+
+3.  Automobile A starts from O and accelerates at the constant rate of 0.75 m/s2. A short time later it is 
+passed by bus B which is traveling in the opposite direction at a constant speed of 6 m/s. Knowing 
+that bus B passes point O 20 s after automobile A started from there, determine when and where 
+the  vehicles  passed  each  other.  (Round  the  time  to  two  decimal  places  and  the  position  to  one 
+decimal place.) 
+
+4.  The motor M reels in the cable at a constant rate of 100 mm/s. Determine the velocity of load L. 
+
+(Round the final answer to two decimal places.)  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100-Winter 2017 
+Assignment week 2 
+
+1.  A ball is  thrown so that the motion  is  defined by the equations,  x = 4.4t   and y=2 + 6t  - 4.9 t2, 
+where x and y are expressed in meters and t is expressed in seconds. Determine the velocity at t = 1 
+s and the horizontal distance the ball travels before hitting the ground. (Round the final answer to 
+two decimal places.) 
+
+2.  At a given instant in an airplane race, airplane A is flying horizontally in a straight line at a speed 
+of 480 km/h, and its speed is being increased at the rate of 8 m/s2. Airplane B is flying at the same 
+altitude as airplane A and, as it rounds a pylon, is following a circular path of 300-m radius. At the 
+given instant, the speed of B is being decreased at the rate of 3 m/s2. Determine the acceleration of 
+B relative to A. (Round the final answer to one decimal place.) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Three children are throwing snowballs at each other. Child A throws a snowball with a horizontal 
+velocity  v0  which  just  passes  over  the  head  of  child  B  and  hits  child  C.  Consider  h  =  1.5  m. 
+Determine the radius of curvature of the trajectory described by the snowball at Point  B. (Round 
+the final answer to one decimal place.) 
+
+4.  To study the performance of a race car, a high-speed camera is positioned at point A. The camera 
+is mounted on a mechanism which permits it to record the motion of the car as the car travels on 
+straightaway BC. It took 0.5 s for the car to travel from the position θ = 60° to the position θ = 35°. 
+Knowing that b = 28 m, determine the average speed of the car during the 0.5s interval. (Round the 
+final answer to one decimal place.) 
+
+ 
+ 
+ 
+ 
+ 
+MIE100-Winter 2017 
+Assignment week 3 
+
+1.  A series of small packages, each with a mass of 4.5 kg, are discharged from a conveyor belt as 
+shown. Assume that the coefficient of static friction between each package and the conveyor 
+belt is 0.4. Determine the force exerted by the belt on a package just after it has passed Point 
+A. 
+
+2.  A  3kg  block  is  at  rest  relative  to  a  parabolic  dish  which  rotates  at  a  constant  rate  about  a 
+vertical axis. Knowing that the coefficient of static friction is 0.52 and that r = 2 m, determine 
+the maximum allowable velocity v of the block.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  The  5.5kg  collar  B  slides  on  the  frictionless  arm  AA'.  The  arm  is  attached  to  drum  D  and 
+rotates about O in a horizontal plane at the rate    = 0.75t, where    and t are expressed in rad/s 
+and  seconds,  respectively.  As  the  armdrum  assembly  rotates,  a  mechanism  within  the  drum 
+releases  cord  so  that  the  collar  moves  outward  from  O  with  a  constant  speed  of  0.5  m/s. 
+Knowing that at t = 0, r = 0, determine the time at which the tension in the cord is equal to the 
+magnitude of the horizontal force exerted on B by arm AA'. 
+
+4.  The two blocks are released from rest when r = 0.8 m and θ = 30°. The mass of block B is 33 
+kg. Neglect the mass of the pulley and the effect of friction in the pulley and between block A 
+and the horizontal surface. Determine the initial acceleration of block A.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100-Winter 2017 
+Assignment week 4 
+
+1.  A 12-kg projectile fired vertically with an initial velocity of 90 m/s, reaches a maximum height and 
+falls  to  the  ground.  The  aerodynamic  drag  D  has  a  magnitude  D  =  0.0024v2  where  D  and  v  are 
+expressed  in  Newtons  and  m/s,  respectively.  The  direction  of  the  drag  is  always  opposite  to  the 
+direction of the velocity. Determine the maximum height of the trajectory. 
+
+2.  A turntable A is built into a stage for use in a theatrical production. It is observed during a rehearsal 
+that a trunk B starts to slide on the turntable 10 s after the turntable begins to rotate. Knowing that 
+the  trunk  undergoes  a  constant  tangential  acceleration  of  0.28  m/s2,  determine  the  coefficient  of 
+static friction between the trunk and the turntable. 
+
+3.  A small 400-g collar C can slide on a semicircular rod which is made to rotate about the vertical AB 
+at a constant rate of 7.5 rad/s. The coefficients of friction are μs = 0.25 and μk = 0.20. Determine the 
+magnitude  of  the  friction  force  exerted  on  the  collar  immediately  after  release  in  the  position 
+corresponding to θ = 75°. 
+
+4.  A 0.5-kg block B slides without friction inside a slot cut in arm OA which rotates in a vertical plane. 
+The rod has a constant angular acceleration    = 10 rad/s2. Know that when = 54º and r = 0.8 m the 
+velocity  of  the  block  is  zero.  Determine  at  this  instant,  the  relative  acceleration  of  the  block  with 
+respect to the arm.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100-Winter 2017 
+Assignment week 5 
+
+1.  Packages  are  thrown  down  an  incline  at  A  with  a  velocity  of  1  m/s.  The  packages  slide  along  the 
+surface ABC to a conveyor belt which moves with a velocity of v = 5.5 m/s. Knowing that μk = 0.25 
+between the packages and the surface ABC, determine the distance d if the packages are to arrive at 
+C with a velocity of 5.5 m/s. 
+
+2.  The system shown is at rest when a constant 350-N force is applied to block A. Neglect the masses 
+of  the  pulleys  and  the  effect  of  friction  in  the  pulleys  and  between  block  A  and  the  horizontal 
+surface. Determine the tension in the cable. 
+
+3.  A 5-kg block rests on top of a 2-kg block supported by, but not attached to, a spring of constant 40 
+N/m.  The  upper  block  is  suddenly  removed.  Determine  the  maximum  speed  reached  by  the  2kg 
+block. 
+
+4.  A  small  block  slides  at  a  speed  v  on  a  horizontal  surface.  Knowing  that  h  =  1.3  m,  determine  the 
+
+required speed of the block if it is to leave the cylindrical surface BCD when θ = 35°. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 1.
+
+Award: 10.00 points
+
+A truck is hauling a 300­kg log out of a ditch using a winch attached to the back of the truck. Knowing the winch applies a constant force
+of 2800 N and the coefficient of kinetic friction between the ground and the log is 0.45, determine the time for the log to reach a speed of
+0.5 m/s. (Round the final answer to three decimal places.)
+
+The time is 
+
+ s.
+
+In anticipation of a long 6° upgrade, a bus driver accelerates at a constant rate from 83 km/h to 101.5 km/h in 8 s while still on a level section of
+the highway. The speed of the bus is 101.5 km/h as it begins to climb the grade at time t = 0 and the driver does not change the setting of the
+throttle or shift gears.
+
+http://ezto.mheducation.com/hm.tpx
+
+1/13
+
+ 
+ 
+ 
+ 
+4/9/2017
+
+ 2.
+
+Award: 10.00 points
+
+Assignment Print View
+
+Determine the speed of the bus when t = 10 s. (Round the final answer to two decimal places.)
+(You must provide an answer before moving to the next part.)
+
+The speed of the bus is 
+
+ km/h.
+
+ 3.
+
+Award: 10.00 points
+
+Determine the time when the speed is 60 km/h. (Round the final answer to two decimal places.)
+The time is 
+
+ s.
+
+ 4.
+
+Award: 10.00 points
+
+A 24­g steel­jacketed bullet is fired with a velocity of 610 m/s toward a steel plate and ricochets along path CD with a velocity 500 m/s.
+Knowing that the bullet leaves a 50­mm scratch on the surface of the plate and assuming that it has an average speed of 600 m/s while in
+contact with the plate, determine the magnitude and direction of the impulsive force exerted by the plate on the bullet. (Round the final
+answers to one decimal place.)
+
+http://ezto.mheducation.com/hm.tpx
+
+2/13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+The magnitude of the impulsive force is 
+
+ kN and its direction is 
+
+° to the plate.
+
+At an intersection car B was traveling south and car A was traveling 30° north of east when they slammed into each other. Upon investigation, it
+was found that after the crash, the two cars got stuck and skidded off at an angle of 10° north of east. Each driver claimed that he was going at
+the speed limit of 50 km/h and that he tried to slow down, but couldn’t avoid the crash because the other driver was going a lot faster. The
+masses of cars A and B were 1600 kg and 1300 kg, respectively.
+
+ 5.
+
+Award: 10.00 points
+
+http://ezto.mheducation.com/hm.tpx
+
+3/13
+
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+Determine the relationship between the speed of car A (vA) and the speed of car B (vB). (Round the final answer to two decimal places.)
+(You must provide an answer before moving to the next part.)
+
+vA = 
+Which car was going faster?
+(Click to select)
+
+vB.
+
+A 55-g ball is projected from a height of 1.6 m with a horizontal velocity of 2 m/s and bounces from a 360-g smooth plate supported by springs.
+The height of the rebound is 0.6 m.
+
+http://ezto.mheducation.com/hm.tpx
+
+4/13
+
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 6.
+
+Award: 10.00 points
+
+Determine the velocity of the plate immediately after the impact. (Round the final answer to three decimal places.)
+(You must provide an answer before moving to the next part.)
+
+The velocity of the plate immediately after the impact is 
+
+ m/s ↓.
+
+A ballistic pendulum is used to measure the speed of high-speed projectiles. A bullet A weighing 18 g  is ﬁred into a 2.2-kg wood block B
+suspended by a cord of length l = 2.2 m. The block then swings through a maximum angle of θ = 60°.
+
+ 7.
+
+Award: 10.00 points
+
+http://ezto.mheducation.com/hm.tpx
+
+5/13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+Determine the initial speed of the bullet v0. (Round the final answer to two decimal places.)
+The initial speed of the bullet is 
+
+ m/s.
+
+A 1-kg block B is moving with a velocity v0 of magnitude v0 = 2.5 m/s as it hits the 0.5-kg sphere A, which is at rest and hanging from a cord
+attached at O. Take μk = 0.6 between the block and the horizontal surface and e = 0.8 between the block and the sphere.
+
+ 8.
+
+Award: 10.00 points
+
+Determine the maximum height h reached by the sphere after impact. (Round the final answer to three decimal places.)
+
+The maximum height h is 
+
+ m.
+
+http://ezto.mheducation.com/hm.tpx
+
+6/13
+
+ 
+ 
+ 
+ 
+                             
+ 
+4/9/2017
+
+Assignment Print View
+
+After having been pushed by an airline employee, an empty 40-kg luggage carrier A hits with a velocity of vA = 9.5 m/s an identical carrier B
+containing a 15-kg suitcase at rest equipped with rollers. The impact causes the suitcase to initially roll into the left wall of carrier B, then upon
+impact with the left wall of carrier B, roll to the right. The coeﬃcient of restitution between the two carriers is 0.80 and that the coeﬃcient of
+restitution between the suitcase and the wall of carrier B is 0.30.
+
+ 9.
+
+Award: 10.00 points
+
+Determine the velocity of carrier B after the suitcase hits its wall for the first time. (Round the final answer to two decimal places.)
+(You must provide an answer before moving to the next part.)
+
+The velocity of carrier B is 
+
+ m/s.
+
+http://ezto.mheducation.com/hm.tpx
+
+7/13
+
+ 
+ 
+ 
+                           
+ 
+ 
+4/9/2017
+
+ 10.
+
+Award: 10.00 points
+
+Assignment Print View
+
+A 0.03­kg bullet is fired with a horizontal velocity of 480 m/s and becomes embedded in block B which has a mass of 3 kg. After the
+impact, block B slides on a 30­kg carrier C until it impacts the end of the carrier. Knowing the impact between B and C is perfectly plastic
+and the coefficient of kinetic friction between B and C is 0.2, determine the velocity of the bullet and block B after the first impact and the
+final velocity of the carrier. (Round the final answer answers to two decimal places.)
+
+The velocity of the bullet and block B after the first impact is 
+The final velocity of the carrier is 
+
+ m/s ←.
+
+ m/s ←.
+
+ 11.
+
+Award: 10.00 points
+
+Two identical 1350­kg automobiles A and B are at rest with their brakes released when B is struck by a 5700­kg truck C which is moving
+to the left at 8 km/h. A second collision then occurs when B strikes A. Assuming the first collision is perfectly plastic and the second
+
+http://ezto.mheducation.com/hm.tpx
+
+8/13
+
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+collision is perfectly elastic, determine the velocities of the three vehicles just after the second collision. (Round the final answers to two
+decimal places.)
+
+The velocity of car A is vA = 
+The velocity of car B is vB = 
+The velocity of truck C is vC = 
+
+ km/hr ←.
+ km/hr ←.
+
+ km/hr ←.
+
+ 12.
+
+Award: 10.00 points
+
+Two identical cars A and B are at rest on a loading dock with brakes released. Car C, of a slightly different style but of the same weight,
+has been pushed by dock workers and hits car B with a velocity of 2.25 m/s. Knowing that the coefficient of restitution is 0.8 between B
+and C and 0.5 between A and B, determine the velocity of each car after all collisions have taken place. (Round your answer to three
+decimal places.)
+
+The velocity of car A is 
+The velocity of car B is 
+The velocity of car C is 
+
+ m/s ←.
+ m/s ←.
+ m/s ←.
+
+http://ezto.mheducation.com/hm.tpx
+
+9/13
+
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 13.
+
+Award: 10.00 points
+
+A 3­kg model rocket is launched vertically and reaches an altitude of 70 m with a speed of 30 m/s at the end of powered flight, time t = 0.
+As the rocket approaches its maximum altitude it explodes into two parts of masses mA = 1.05 kg and mB = 1.95 kg. Part A is observed to
+strike the ground 80 m west of the launch point at t = 6 s. Determine the position of part B at that time. (Round the final answers to one
+decimal place.)
+
+The position of part B is 
+
+ m (east) and 
+
+ m (up).
+
+ 14.
+
+Award: 10.00 points
+
+http://ezto.mheducation.com/hm.tpx
+
+10/13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+A 30­g bullet is fired with a horizontal velocity of 500 m/s and becomes embedded in block B which has a mass of 3 kg. After the impact,
+block B slides on 30­kg carrier C until it impacts the end of the carrier. Knowing the impact between B and C is perfectly plastic and the
+coefficient of kinetic friction between B and C is 0.2, determine the energy loss due to friction and the impacts. (Round the final answers to
+two decimal places.)
+
+The energy lost due to friction is 
+ J. 
+The impact loss due to AB impacting the carrier is 
+The impact loss at first impact is
+
+ J. 
+
+ J.
+
+Two automobiles A and B of mass mA and mB,respectively, are traveling in opposite directions when they collide head on. The impact is
+assumed to be perfectly plastic, and it is further assumed that the
+energy absorbed by each automobile is equal to its loss of kinetic energy with respect to a moving frame of reference attached to the mass
+center of the two-vehicle system. The energy absorbed by
+automobile A and by automobile B is denoted by EA and EB.
+
+http://ezto.mheducation.com/hm.tpx
+
+11/13
+
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 15.
+
+Award: 10.00 points
+
+Compute EA and EB knowing that mA =1600 kg and mB = 900 kg and that the speeds of A and B are 105 km/h and 75 km/h, respectively.
+The value of EA is determined to be 
+The value of EB is determined to be 
+
+ kJ.
+ kJ.
+
+ 16.
+
+Award: 10.00 points
+
+In a game of billiards, ball A is given an initial velocity v0 along the longitudinal axis of the table. It hits ball B and then ball C, which are
+both at rest. Balls A and C are observed to hit the sides of the table
+squarely at A' and C', respectively, and ball B is observed to hit the side obliquely at B'. Knowing that v0 = 5 m/s, vA = 1.92 m/s  and a =
+1.65 m, determine the velocities vB and vC of balls B and C
+and the Point C' where ball C hits the side of the table. Assume frictionless surfaces and perfectly elastic impacts (that is, conservation of
+energy). 
+
+The velocity of ball B is 
+The velocity of ball C is 
+The Point C' where ball C hits the side of the table is 
+
+ m/s 
+ m/s →. (Round the final answer to two decimal places.)
+
+°. (Round the final answers to two decimal places.)
+
+ m. (Round the final answer to three decimal places.)
+
+http://ezto.mheducation.com/hm.tpx
+
+12/13
+
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 17.
+
+Award: 10.00 points
+
+A 30­g bullet is fired with a velocity of 500 m/s into block A, which has a mass of 5 kg. The coefficient of kinetic friction between block A
+and cart BC is 0.50. Knowing that the cart has a mass of 4 kg and can roll freely, determine the final velocity of the cart and block and the
+final position of the block on the cart. (Round the final answers to three decimal places.)
+
+The final velocity of the cart and block is 
+The final position of the cart and block is 
+
+ m/s.
+ m.
+
+http://ezto.mheducation.com/hm.tpx
+
+13/13
+
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+Two rods ABD and DE are connected to three collars as shown. The angular velocity of ABD is 4.6 rad/s clockwise at the instant shown.
+
+ 1.
+
+Award: 10.00 points
+
+Determine the angular velocity of DE. (Round the final answer to one decimal place.) (You must provide an answer before moving to the
+next part.)
+
+http://ezto.mheducation.com/hm.tpx
+
+1/3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+The angular velocity of DE is 
+
+ rad/s 
+
+.
+
+ 2.
+
+Award: 10.00 points
+
+Knowing that at the instant shown the velocity of collar A is 920 mm/s to the left, determine the angular velocity of rod ADB and the
+velocity of point B.
+
+The angular velocity of rod ADB is 
+The velocity of point B is 
+
+ rad/s 
+
+. (Round the final answer to two decimal places.)
+
+ mm/s 
+
+ 61.8°. (Round the final answer to the nearest whole number.)
+
+http://ezto.mheducation.com/hm.tpx
+
+2/3
+
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+http://ezto.mheducation.com/hm.tpx
+
+3/3
+
+ 
+4/9/2017
+
+Assignment Print View
+
+Two friction disks A and B are brought into contact when the angular velocity of disk A is 240 rpm counterclockwise and disk B is at rest. A
+period of slipping follows and disk B makes 2 revolutions before reaching its ﬁnal angular velocity. Assume that the angular acceleration of
+each disk is constant and inversely proportional to the cube of its radius. 
+
+ 1.
+
+Award: 10.00 points
+
+http://ezto.mheducation.com/hm.tpx
+
+1/4
+
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+This question and its points have been dropped for all students
+
+The disk is released from rest and rolls down the incline. The speed of A is 1.2 m/s when θ = 0°.
+
+ 2.
+
+Award: 10.00 points
+
+Determine the angular velocity of the rod. (Round the final answer to three decimal places.)
+
+The angular velocity of the rod is 
+
+ rad/s 
+
+.
+
+http://ezto.mheducation.com/hm.tpx
+
+2/4
+
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+ 3.
+
+Award: 10.00 points
+
+Assignment Print View
+
+Knowing that crank AB rotates about point A with a constant angular velocity of 910 rpm clockwise, determine the acceleration of the
+piston P when θ = 60°. (Round the final answer to two decimal places.)
+
+The acceleration of the piston P when θ = 60° is 
+
+ m/s2 ↓.
+
+Two rotating rods are connected by slider block P. The rod attached at A rotates with a constant angular velocity ωA.
+
+http://ezto.mheducation.com/hm.tpx
+
+3/4
+
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+Given: b = 300 mm, ωA = 11.4 rad/s.
+
+ 4.
+
+Award: 10.00 points
+
+For the position shown, determine the angular velocity of the rod attached at B. (Round the final answer to two decimal places.)
+
+The angular velocity of the rod attached at B is 
+
+ rad/s 
+
+.
+
+http://ezto.mheducation.com/hm.tpx
+
+4/4
+
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+A 29-kg cabinet is mounted on casters that are locked and slide on the rough ﬂoor (μk = 0.34). A 145-N force is applied as shown in the ﬁgure.
+
+ 1.
+
+Award: 10.00 points
+
+Determine the range of values of h for which the cabinet will not tip. (Round the final answer to three decimal places.)
+
+Range of values of h:  h ≤ 
+
+http://ezto.mheducation.com/hm.tpx
+
+1/4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+A uniform slender rod of length L = 980 mm and mass m = 4.4 kg is suspended from a hinge at C. A horizontal force P of magnitude 75 N is
+applied at end B.
+
+ 2.
+
+Award: 10.00 points
+
+Determine the distance   for which the horizontal component of the reaction at C is zero. (Round the final answer to the nearest whole
+number.)
+The distance is 
+
+ mm.
+
+http://ezto.mheducation.com/hm.tpx
+
+2/4
+
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+A 9-kg uniform disk is attached to the 5-kg slender rod AB by means of frictionless pins at B and C. The assembly rotates in a vertical plane
+under the combined effect of gravity and of a couple M which is
+applied to rod AB. At the instant shown, the assembly has an angular velocity of 6 rad/s and an angular acceleration of 28 rad/s2, both
+counterclockwise.
+
+ 3.
+
+Award: 10.00 points
+
+Determine the couple M. (Round the final answer to one decimal place.)
+The couple M is 
+
+ N·m 
+
+.
+
+A drum of 60-mm radius is attached to a disk of 120-mm radius. The disk and drum have a total mass of 6 kg and a combined radius of gyration
+of 90 mm. A cord is attached as shown and pulled with a force P of magnitude 20 N. The disk rolls without sliding.
+
+http://ezto.mheducation.com/hm.tpx
+
+3/4
+
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 4.
+
+Award: 10.00 points
+
+Determine the minimum value of the coefficient of static friction compatible with this motion. (Round the final answer to three decimal
+places.)
+The minimum value of the coefficient of static friction is 
+
+.
+
+http://ezto.mheducation.com/hm.tpx
+
+4/4
+
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 1.
+
+Award: 10.00 points
+
+A 205­kg flywheel is at rest when a constant 300 N•m couple is applied. After executing 560 revolutions, the flywheel reaches its rated
+speed of 2400 rpm. Knowing that the radius of gyration of the flywheel is 400 mm, determine the average magnitude of the couple due to
+kinetic friction in the bearing. (Round the final answer to two decimal places.)
+The average magnitude of the couple due to kinetic friction in the bearing is 
+
+ N•m. 
+
+ 2.
+
+Award: 10.00 points
+
+A collar with a mass of 1 kg is rigidly attached at a distance d = 300 mm from the end of a uniform slender rod AB. The rod has a mass of
+3 kg and is of length L = 600 mm. Knowing that the rod is released from rest in the position shown, determine the angular velocity of the
+rod after it has rotated through 90°. (Round the final answer to two decimal places.)
+
+The angular velocity of the rod after it has rotated through 90° is 
+
+ rad/s 
+
+.
+
+http://ezto.mheducation.com/hm.tpx
+
+1/3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+ 3.
+
+Award: 10.00 points
+
+Assignment Print View
+
+Disk A, of weight 5 lb and radius r = 3 in., is at rest when it is placed in contact with a belt that moves at a constant speed v = 51.5 ft/s.
+Knowing that μk = 0.20 between the disk and the belt, determine the time required for the disk to reach a constant angular velocity.
+(Round the final answer to two decimal places.)
+
+The time required for the disk to reach a constant angular velocity is 
+
+ s.
+
+The double pulley shown has a mass of 3.36 kg and a radius of gyration of 100 mm. When the pulley is at rest, a force P of magnitude 24 N is
+applied to cord B.
+
+http://ezto.mheducation.com/hm.tpx
+
+2/3
+
+ 
+ 
+                   
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 4.
+
+Award: 10.00 points
+
+This question and its points have been dropped for all students
+
+http://ezto.mheducation.com/hm.tpx
+
+3/3
+
+ 
+ 
+                     
+4/9/2017
+
+Assignment Print View
+
+A simple pendulum consisting of a bob attached to a cord of length l = 800 mm oscillates in a vertical plane.
+
+ 1.
+
+Award: 10.00 points
+
+Assuming simple harmonic motion and knowing that the bob is released from rest when θ = 6°, determine the maximum velocity of the
+bob. (Round the final answer to the nearest whole number.)
+
+The maximum velocity of the bob is vm = 
+
+ mm/s.
+
+http://ezto.mheducation.com/hm.tpx
+
+1/4
+
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+The uniform rod shown has mass 6 kg and is attached to a spring of constant k = 780 N/m. End B of the rod is depressed 10 mm and released.
+
+ 2.
+
+Award: 10.00 points
+
+Determine the period of vibration. (Round the final answer to three decimal places.)
+
+The period of vibration is 
+
+ s.
+
+A 6-kg uniform cylinder can roll without sliding on a horizontal surface and is attached by a pin at point C to the 4-kg horizontal bar AB. The bar
+is attached to two springs, each having a constant of k = 5.8 kN/m, as shown. The bar is moved 12 mm to the right of the equilibrium position
+and released.
+
+http://ezto.mheducation.com/hm.tpx
+
+2/4
+
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 3.
+
+Award: 10.00 points
+
+Determine the period of vibration of the system. (Round the final answer to three decimal places.)
+
+The period of vibration of the system is 
+
+ s.
+
+The 8-kg uniform bar AB is hinged at C and is attached at A to a spring of constant k = 620 N/m. End A is given a small displacement and
+released.
+
+http://ezto.mheducation.com/hm.tpx
+
+3/4
+
+ 
+ 
+ 
+ 
+ 
+4/9/2017
+
+Assignment Print View
+
+ 4.
+
+Award: 10.00 points
+
+Determine the frequency of small oscillations. (Round the final answer to two decimal places.)
+The frequency of small oscillations is 
+
+ Hz.
+
+http://ezto.mheducation.com/hm.tpx
+
+4/4
+
+ 
+ 
+ 
+

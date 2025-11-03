@@ -1,0 +1,145 @@
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIV100F and APS160F – MECHANICS  
+
+Midterm Examination – Sections 1, 2, 3, 4, 5, 6, 7, 8 and Online 
+
+Tuesday, 23rd October 2018 
+
+Examiner: Staff in Civil Engineering 
+
+Time allowed: 1-½ hours 
+
+SURNAME: ______SEICA___________GIVEN NAME(S): ______MICHAEL___________ 
+
+     (Please print clearly) 
+
+STUDENT NUMBER: ____Solutions_______ DEPT. (ECE, Track One, etc.)____________ 
+
+CIRCLE YOUR SECTION AND THE NAME OF YOUR INSTRUCTOR: 
+
+1. El-Diraby, Tamer 
+
+5. Bruun, Edvard 
+
+Online. Seica, Michael 
+
+2. Packer, Jeffrey 
+
+6. Saxe, Shoshanna 
+
+3. Seica, Michael 
+
+7. Mercan, Oya 
+
+4. Packer, Jeffrey 
+
+8. Panesar, Daman 
+
+CIRCLE YOUR CALCULATOR TYPE: 
+
+CASIO 991 
+
+    SHARP 520 
+
+Notes:  1. Ensure that you have all 4 pages of the examination paper. Page 4 is blank. 
+
+2. Answer all three questions. The value of the questions is indicated below. 
+
+3. If you need more space for a question, continue only on the page indicated at the bottom. 
+
+4. The only calculators permitted are listed above. Please circle your model. 
+
+5. This is a closed-book examination. No other paper will be allowed on the desk. 
+
+6. Do not remove the staple. 
+
+DO NOT WRITE IN THIS SPACE. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+      Page 2 of 4 
+
+1. Bar EF has a square cross-section and is fixed in space. The structure ABC has negligible weight and 
+has a collar at C which has a square hole, that slides freely on bar EF. The structure ABC supports a 
+uniform rectangular sign having a weight of 1 kN, acting at the centre of the sign. The vertical edges of 
+the sign align vertically with points A and B. Determine the magnitude of the force in cable AD and all the 
+reaction components at C. 
+
+Solution can be continued on Page 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+    Page 4 of 4 
+
+2. A man supports himself and the uniform, horizontal beam AB, having a rough surface, by pulling on the 
+rope with a force T. The mass of the man is 90 kg and that of the beam is 5.2 kg/m. The total weight of the 
+beam acts at the mid-span of the beam. Compute the tension, T, in the rope and the reaction force 
+components at the pin at A. In addition, calculate the distance b, locating the man’s feet, and determine the 
+forces exerted on the man by the beam. 
+
+1.4 m 
+
+b 
+
+Solution can be continued on Page 5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+    Page 6 of 4 
+
+3. The bracket illustrated is subjected to three cable forces, as indicated. Determine an equivalent force 
+system consisting of a single resultant force and determine the x-coordinate of the point where its line of 
+action intersect the x-axis. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

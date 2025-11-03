@@ -1,0 +1,427 @@
+Name:________________________________ 
+
+  Student #:________________________ 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice II 
+
+Quiz #2 April 8, 2014 
+
+This is a 50-minute closed-book quiz. No aids are permitted except for a translation-only dictionary. 
+
+The quiz has a total of 18 questions. There are 12 multiple-choice questions and 6 written-answer 
+questions. There are a total of 30 marks with 12 marks for the multiple-choice questions and 18 
+marks for the written questions.  
+
+Your question papers, with your name and student number filled in on the front page and the 
+
+written-answer pages, must be returned with the multiple-choice answer sheet slipped inside. Do 
+not separate any pages. 
+
+Multiple Choice Questions (1 mark each; total of 12 marks) 
+For multiple choice questions, you must use the multiple choice answer sheet provided – fill in your 
+
+name and student number. Follow the directions on the sheet carefully to ensure that you receive 
+marks for the correct answer. You should mark only the single, most correct answer for each 
+question. Always mark the answer in the spot corresponding to the question number. Use a 
+pencil. Erase any errors completely. There is no deduction for wrong answers. 
+
+Good Luck! 
+
+Written Answer Mark Breakdown 
+
+Marks 
+
+Question 
+13 
+14 
+15 
+16 
+17 
+18 
+
+Total 
+
+Possible Marks 
+3 
+4 
+4 
+4 
+2 
+1 
+
+18 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 1 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+1.  For a finished, marketed design of a hairdryer in Canada, what would be LEAST affected by the 
+
+method of connection of the two halves of the hairdryer shell: 
+
+a.  Aesthetics (how it looks) 
+b.  Safety 
+c.  Ease of Assembly 
+d.  Ease of Repair 
+e.  Cost of Parts 
+
+2.  For a simplistic design, there are two possible failure modes: 
+
+i. 
+ii. 
+
+that has a probability of happening of .1 and a cost if it happens of 10, and 
+that has a probability of happening of .2 and a cost if it happens of 8 
+
+So the risk involved with this design is 
+
+a. 
+.02 
+b. 
+.3 
+c.  1.3 
+d.  2.6 
+e.  18 
+
+Questions 3 through 5 refer to the chart of Cost versus Time show below: 
+
+Budget 
+
+Actual 
+
+The longer line on the chart is the budgeted costs as the project goes through the proposed schedule of 
+tasks; the shorter line tracks the costs that have been incurred as the tasks have actually been 
+completed. NOW shows the place that the proposed schedule indicates the project should be. 
+
+3.  The Budgeted Cost of Work Performed would be closest to: 
+
+a.  3.0 
+b.  1.1 
+.95 
+c. 
+.8 
+d. 
+.7 
+e. 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 2 of 8 
+
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+4.  The Cost Performance Index would be closest to: 
+
+a. 
+.8/1.1 
+b.  1.1/.8 
+.95/.7 
+c. 
+.7/.95 
+d. 
+.7-.95 
+e. 
+
+5.  A reasonable estimate, based on current performance plus assuming that the rest of the 
+
+schedule is correct, is that the project will finish: 
+
+a.  On time, on budget 
+b.  Early, with a cost overrun of .3 
+c.  Early, with costs being under the projection by .3 
+d.  Late, with a cost overrun of .3 
+e.  Late, with costs being under the projection by .3 
+
+6.  The Utility Patent covering improvements on the Frisbee flying disc claimed: 
+a.  The ornamental design of a more marketable version of the Frisbee. 
+b.  A flying disc with a set of ridges to modify the airflow on the convex side. 
+c.  The dimensions and specific grade of polymer needed to manufacture the disc.  
+d.  The trademarked name “Wham-O Frisbee.” 
+e.  None of the above answers is correct. 
+
+7.  The Design of the Icon A5 light sport aircraft involved a detailed analysis of the potential 
+
+customers for the plane.  The core of the method was: 
+
+a.  An extensive survey of existing pilots to see what features they would want in a new 
+
+plane.  
+
+b.  A series of focus groups each involving a different demographic.    
+c.  An internal discussion with employees of the company voting for the features that they 
+
+thought would be most desirable.  
+
+d.  Estimating/guessing the opinion of five fictitious customers from five different potential 
+
+markets.  
+
+e.  All of the above are false: The configuration of the plane was governed entirely by 
+engineering performance considerations, since the performance of the plane was 
+considered to be the most important selling feature.  
+
+8.  John Quinlan has an issued (granted) U.S. Utility Patent, which he applied for on June 3, 1999.   
+The patent covers a special dual handled cooking knife, but you have just found a French patent 
+from 1975 with the exact same configuration as Quinlan’s invention.   
+
+Which of the following four statements is most correct as of today’s date (2014): 
+
+a.  Quinlan should call his lawyers. He might be infringing on the 1975 patent and could 
+
+have to pay damages. 
+
+b.  Quinlan’s patent will protect his intellectual property and cannot be challenged, since it 
+
+was granted by the U.S. patent office.  
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 3 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+c.  Quinlan has protection for the ornamental design of the knife only. 
+d.  The French Patent serves as prior art that could be used to strike down Quinlan’s patent 
+
+in a court challenge. 
+
+9. 
+
+In one sense, the Pugh Selection Matrix is better than the Weighted Decision Matrix for choosing 
+the best design alternative because: 
+
+It provides a numerical score proportional to performance. 
+It allows for a simple pairwise comparison between alternatives. 
+It can be done in one pass and is therefore quicker. 
+
+a. 
+b. 
+c. 
+d.  None of the above. 
+
+10. The “bathtub curve” refers to a widely observed trend in reliability engineering.  It describes: 
+
+a.  The relative failure rate of components during the first part, middle part and end part of 
+
+their lifetime. 
+
+The rate of return on an investment in a Quality Engineering program. 
+
+b.  The quality resulting from low, medium and high levels of expense and effort.   
+c. 
+d.  The relationship between the number of failures and the number of customer returns. 
+e. 
+
+The slope of the bottom of a bathtub needed to effectively drain the water.  
+
+11. Codes and Standards govern many aspects of engineering where failure might have an adverse 
+
+effect on the public.   Which of these statements (a, b c, or d) is FALSE: 
+a.  Codes may specify materials to be used for a specific part. 
+b.  Codes are often based on experience with past failures.  
+c. 
+d.  None of the statements above are false.  [Choose (d) if a, b, and c are all true.] 
+
+Codes can make it difficult to introduce new engineering solutions for existing problems. 
+
+12. An electric cutoff saw is manufactured for home use.  Which of the following statements is 
+
+FALSE: 
+
+a.  A blade guard should rotate into place when the saw is in the up position.   
+b.  A two-button sequence should be used to prevent children from operating the saw  
+
+accidentally.  
+
+c.  A warning label should be placed near the blade to indicate the possibility of cutting your 
+
+fingers off.  
+
+d.  The User Manual should instruct users to wear eye protection when using the saw. 
+e.  None of the statements above are false.  [Choose (e) if a, b, c and d are all true.] 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 4 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+Written Answer (marks per question as indicated on question; 18 marks total) 
+
+13.  (3 marks) The diagram below is called a ________________________ diagram. 
+
+Sketch a two-point perspective drawing of the block depicted below.  Assume that it measures                  
+5 cm x 5 cm x 5 cm and that it is sitting on the desk in front of you with three faces (top, front, and side) 
+visible.  Assume further that in the sketch, none of the faces is in the plane of the paper.  Show 
+construction lines if you use them.  
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 5 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+The remaining questions (14 - 18) deal with the following problem statement: 
+
+You are asked to design an ice and snow scraper for cleaning a car windshield.  It will have adjustable 
+length, a snowbrush and windshield squeegee at one end, and a scraper at the other end.  The existing 
+product from a competitor is shown in the figure below and has all of these features.  It is made from 
+aluminum tubing, plastic molded parts, rubber, foam and nylon bristles.  Your company would like to sell 
+the new version at a hefty profit so your boss asks you to rethink the whole thing to minimize 
+manufacturing costs and to maximize profitability. 
+
+14. (4 marks) Describe (briefly) two general principles of design for manufacturing and assembly, 
+
+and indicate how you would use these principles to minimize manufacturing and assembly costs 
+for the new, redesigned product. 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 6 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+15. (4 marks) The existing product has a stamp that says “US Patents 8,503,509 and D765098”  What 
+
+do these numbers signify and what do they mean for your design process. 
+
+16. (4 marks) The main tube on the existing product is made from aluminum, and your boss suggests 
+using some type of injection-molded plastic to save money.  Given  a) the plastic part would be 
+injection molded, and b) the heavy loads put on the device when scraping ice from the 
+windshield, what challenges might you face and how would you address them.  
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 7 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+  Student #:________________________ 
+
+17. (2 marks) Even if the product works for the first year, long-term failure might be an issue. List 
+
+two possible long-term failure modes for this product.  Write one sentence for each one giving 
+the name of the failure mode and how it might apply in this case.  
+
+18. (1 mark) How could you apply the principles of industrial design to improve sales?  Give an 
+
+example of a specific design feature that you would use for this product.  
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 8 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

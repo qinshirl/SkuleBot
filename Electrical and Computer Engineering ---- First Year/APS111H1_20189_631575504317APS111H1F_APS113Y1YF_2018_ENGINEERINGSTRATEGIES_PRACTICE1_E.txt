@@ -1,0 +1,827 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Final Examination, December 07, 2018 
+Duration: 2.5 hours 
+APS111H1 F and APS113Y1 V - Engineering Strategies & Practice 1 
+
+Calculator Type: 4 (No electronic or mechanical devices permitted) 
+Exam Type: A (Closed book, no aids permitted) 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Instructors: Susan McCahan, Ted Nolan, Jason Bazylak, and Peter Weiss 
+
+Instructions: 
+
+This is a closed book exam; no calculators or aids are permitted, except a translation-only non-electronic 
+dictionary, i.e., direct word-to-word translations with no definitions. 
+
+To start: Fill out both the answer sheet (scan sheet) and the exam booklet (blank lined booklet) with: 
+
+Your name: on the back of the scan sheet and on the front of the exam booklet 
+Your student number (bubble your number on scan sheet; write number on booklet) 
+Your course: APS111 or APS113 
+
+Today's date: 07-Dec-2018 
+
+You do not need to fill out the course instructor or form code 
+
+There are two parts to the exam: (1) multiple-choice questions, and (2) a writing component. 
+
+Multiple-Choice (60%): 
+
+There are a total of 40 multiple-choice questions, each of which is worth about 1.5 marks, for a 
+total of 60 marks worth 60% of the exam. 
+Answer this part on the answer sheet (scan sheet with bubbles): do not answer the multiple-
+choice questions on these question pages or in the exam booklet. 
+Read each question carefully and choose the most correct answer. 
+Only one answer is to be given for each question. 
+There is no penalty for incorrect answers. 
+Be sure to fill out the answer sheet clearly and darkly with no overlaps, using a pencil. 
+Erase any errors completely. 
+
+Writing Component (40%): 
+
+The writing component has a total of 40 marks worth 40% of the exam. 
+Answer this part in the exam booklet (blank lined booklet): do not answer the written 
+component questions on these exam question pages. 
+Carefully follow the instructions. 
+
+When you are done the exam, insert the answer sheet (scan sheet) into the exam booklet and hand in 
+both together. You may keep the question pages. 
+
+Page 1 of 17 
+
+Part 1: Multiple Choice Questions (60%) 
+
+1. In preparing your Project Requirements document your team may use Functional Decomposition to: 
+
+Generate Secondary Functions. 
+
+A Morph Chart. 
+
+Possible solutions. 
+
+Assign individual tasks to team members. 
+
+2. When using the Black Box method to generate functions for the design of a camping stove what is 
+
+NOT a valid input? 
+
+Mass  -  User 
+
+Mass - Fuel 
+
+Information - Desired temperature 
+
+Energy - Ignition source 
+
+3. Your team is generating survey questions to use when conducting a test to include in your Measure 
+
+of Success section of your CDS. Your team member proposes the survey question depicted in 
+
+Figure 1 below. You explain to your team member that this is not a good survey question because: 
+
+The answers are biased towards a positive response. 
+
+Useable is not a good objective. 
+
+They should say "easy to use" instead of "useable." 
+
+Survey questions are never useable. 
+
+Survey Question: How useable is the interface? 
+
+Possible survey responses: 
+
+Extremely Useable 
+
+Very Useable 
+
+Useable 
+
+Figure 1: Survey question referred to in question 3 
+
+4. 
+
+If your TA makes no comments on a section of your draft document, that means the section is: 
+
+Good to go, meets the TA's approval. 
+
+Not one that the TA commented on. 
+
+The fallacy of common sense so you need more research. 
+
+Likely plagiarized and so the TA cannot comment. 
+
+Page 2 of 17 
+
+5. The purpose of a Conceptual Design Specification (CDS) is to: 
+
+Reflect on the design process to improve in the future. 
+
+Clarify what the team knows or does not know about the project. 
+
+Set a target everyone can work toward. 
+
+Generate multiple solutions and criteria to evaluate them. 
+
+6. You are designing the baggage claim system for a major international airport. You have determined 
+that user satisfaction (travelers claiming bags) is of the utmost importance. This has developed into 
+an objective, "Minimize time before baggage appears on the baggage carrousel." When determining 
+an acceptable goal for this objective you researched the time it takes baggage to appear at other 
+similar international airports. This is an example of: 
+
+Design bias 
+
+Benchmarking 
+
+Common sense 
+
+All of the above 
+
+7. To gather information on baggage handling system at major international airports, you watch 
+
+baggage handlers go through their daily work. You make notes about what they do and how they do 
+it. This is an example of: 
+
+Task analysis 
+
+Black box method 
+
+Story boarding 
+
+Benchmarking 
+
+8. In designing a baggage handling system for a major international airport, your design team decides 
+to take a human-centered approach. The baggage handlers at the airport all belong to the same 
+labour union. You research the work guidelines that are part of the employment agreement 
+between the union and the organization that runs the airport. This is an example of: 
+
+Considering the user group at a physical level 
+
+Considering the user group at a psychological level 
+
+Considering the user group at a social level 
+
+Considering the user group at an organizational level 
+
+Page 3 of 17 
+
+9. A reason for using formal creativity methods (idea generation methods) is: 
+
+Minimize the impact of personal bias. 
+
+Avoid design fixation. 
+
+To generate a diverse set of design alternatives. 
+
+All of the above 
+
+10. Which of the following is an example of a prototype? 
+
+Design of a sorting process for a food bank: A flow chart of a proposed food-sorting work 
+flow with time estimates for each stage and an estimated total sort time. 
+
+Design of a solar powered water sterilization device: A spreadsheet that accepts a range of 
+solar insolations (solar radiation that reaches the Earth for a given area) and calculates the 
+energy generated and stored by a photovoltaic system. 
+
+Design of an automated gate opening system: A model of a spring driven opening system 
+constructed of cardboard, tape, popsicle sticks and elastic bands. 
+
+d. All of the above 
+
+11. The essential difference between a novice designer and an expert designer is: 
+
+Time spent formally defining the problem. 
+
+The quality of the designs. 
+
+Use of prototypes. 
+
+All of the above 
+
+12. In Engineering writing, complex/compound sentences are: 
+
+Written in a way that ensures the reader does not get lost. 
+
+Written in list form because paragraphs are only for related ideas. 
+
+Never used because they are too long to read quickly. 
+
+Always used because the information presented is always complex. 
+
+Multiple-choice questions continue on next page. 
+
+Page 4 of 17 
+
+13. The following sentence, "the technology must be green" is an example of:' 
+
+An objective 
+
+A metaphor 
+
+A constraint 
+
+An action verb 
+
+14. A reflective document: 
+
+Uses figurative language to enable readers to identify with an experience. 
+
+Assigns blame for things that went wrong in the team. 
+
+Is never used in business to evaluate a project upon completion. 
+
+Is used to develop strategies to repeat successes when they happen. 
+
+15. The legal requirement for the inclusion of automated doors for easier wheelchair access to Myhal 
+
+150 is captured under which level of Human Interaction? 
+
+Physical 
+
+Social 
+
+Political 
+
+Constraints 
+
+16. Prof. St-Cyr defined user experience as the way people 
+
+Feel about a product or system and their pleasure and satisfaction when using it. 
+
+Use a product or system and how they interact with it. 
+
+Experience the world and the technology with which they interact. 
+
+Think about the technology they are using and understand how it is supposed to be used. 
+
+17. User experience 
+
+Can only be measured using performance metrics. 
+
+Can only be measure using task analysis. 
+
+Can be measured using performance and self-reported metrics. 
+
+Cannot be measured in any objective way. 
+
+1  This is a student generated question. This does not affect the question and is mentioned here only as an example 
+of ESP students taking responsibility for their own learning. 
+
+Page 5 of 17 
+
+18. If you were tasked to design a water treatment plant for a remote Indigenous community, the most 
+
+pertinent design methodology you should utilize is: 
+
+Universal design 
+
+Participatory design 
+
+User Experience design 
+
+Human Factors design 
+
+19. An example of you doing Due Diligence in your CDS project is: 
+
+Making sure your team is large enough for the work load. 
+
+Messaging all team members to confirm that you have successfully submitted the CDS. 
+
+Using every tool taught in this course. 
+
+Delegating tasks to ensure the team delivers on the due date. 
+
+20. Which of the following is NOT  part of the basic engineering process?2  
+
+Iteration 
+
+Problem Identification 
+
+Solution Generation 
+
+Marketing 
+
+21. A student cuts and pastes material from a website into a team document without references or 
+
+quotation marks. The stakeholders are: 
+
+The Government of Canada because they set the laws for Intellectual Property. 
+
+World Trade Organization because they are responsible for the international treaty on 
+Intellectual Property. 
+
+The University of Toronto because its reputation is based on the quality of original 
+information generated there. 
+
+d. The WiFi service provider because they are responsible for providing the original material. 
+
+2  This is a student generated question. This does not affect the question and is mentioned here only as an example 
+of ESP students taking responsibility for their own learning. 
+
+Page 6 of 17 
+
+Questions 22 to 24 pertain to the team situation described in the following paragraph. 
+
+Team Situation Case Study  - Dealing with Dysfunctional Project Teams 
+
+Alfred, Joe, Ahmed.. George, and Tian are working on their first-year design project. 
+Joe, as team leader, assigned each team member sections of the report to write 
+according to the format requested of the course. Ahmed completed the section he was 
+assigned by the requested deadline and placed it in the team's Google Doc. He did not 
+hear anything from the group thereafter, and went to bed. The next morning after the 
+document had been submitted, Joe approached Ahmed and asked him why he did not 
+complete his section. Ahmed argued that he did and showed evidence from the Google 
+Docs history that he included work under his assigned section. George, listening in on 
+this conversation, asked Ahmed how he could have thought it was completed as there 
+were still missing references and no links to other sections in the text. Ahmed 
+responded that he did what was asked of him, and that if it was not sufficient  why the 
+rest of the team did not contact him to tell him that they were not happy with his work. 
+The three men end up insulting and yelling at each other while the other two team 
+members play on their phones. 
+
+22. What was the primary source of conflict in this situation? 
+
+Ahmed did not include references 
+
+Alfred and Tian should not be on their phones during a team discussion. 
+
+Joe, Ahmed, and George yelling at each other. 
+
+The team did not communicate expectations to Ahmed. 
+
+23. What actions could Tian have taken to improve the situation? 
+
+Focus on the problems not the people, and calmly mediate a discussion where Ahmed, Joe, 
+and George explain what their expectations are. 
+
+Convince Alfred to side with Ahmed to even things out and promote productive discussion. 
+
+Give Ahmed, Joe, and George each 3 minutes where only they are allowed to talk when they 
+can declare their positions. 
+
+Record the conflict on his phone for evidence. 
+
+Multiple-choice questions continue on next page. 
+
+Page 7  of 17 
+
+24. If you were coaching this team through this period, which of the following strategies would be the 
+
+best one to recommend to them? 
+
+Make the team go out to lunch together to rebuild comfort and trust. 
+
+Remove writing tasks from Ahmed in future assignments. 
+
+The team should ban use of cellphones during team meetings. 
+
+Revise their Team Charter to explicitly state how the team will communicate expectations. 
+
+Questions 25 to 40 pertain to the case study: Heads Up Display (HUD) for Truck Fleets in Appendix A. 
+
+25. Which of the following are stakeholders in the project? 
+
+Innovation Online Industries. 
+
+Drivers of delivery trucks installed with the design. 
+
+Drivers of other vehicles on the road. 
+
+All of the above 
+
+26. Which of the following statements would be best to include in your Service Environment section? 
+
+Innovation Online Industries is a major supplier of lOT technologies. 
+
+In Ontario, deaths from collisions caused by distracted driving have doubled since 2000 [2]. 
+
+Truck drivers have an interest in earning a livable wage. 
+
+The design will make use of the 5G networks that will soon be available in Toronto. 
+
+27. By researching Ontario traffic laws, you discover that use of a hand-held communication device 
+
+while driving is against the law, but use of a mounted device is legal to use as long as it is not moving 
+around while driving. Which is the best way to include this information into your design report? 
+
+Constraint: The design must not break traffic laws. 
+
+Function: The design will prevent driver deaths. 
+
+Objective: The design will maximize safety. 
+
+Constraint: Any part of the design accessible to the driver must be not be moveable. 
+
+28. Which of the following statements is a fully formed Constraint? 
+
+Should be reliable. 
+
+Needs to allow for information input in at least three languages. 
+
+Must not cover more than 10% of the windshield. 
+
+The design will reduce distracted driver accidents by at least 15%. 
+
+Page 8 of 17 
+
+29. Which of the following statements is a fully formed Objective? 
+
+Should minimize the percentage of the windshield covered by the interface with a successful 
+target being 5%. 
+
+Should be accessible and not violate the Ontarians with Disabilities Act. 
+
+Must minimize cost not exceeding the current cost of a deluxe GPS unit. 
+
+Should be easy to navigate the functions of the design. 
+
+30. Limiting the design to a Heads-Up Display is: 
+
+The result of a Client Constraint. 
+
+An Implied Solution. 
+
+Scope Creep. 
+
+The Primary Function. 
+
+31. A Secondary Function for this design is best described as: 
+
+Receive GPS data. 
+
+Project Augmented Reality images onto windshield. 
+
+Be easy to retrofit into existing trucks. 
+
+Drive the vehicle autonomously. 
+
+32. The Primary Function of this design is best described as: 
+
+Optimize the routes of the drivers. 
+
+Receive multiple data streams, such as traffic information. 
+
+Reduce distracted driver fatalities. 
+
+Communicate vehicle and route related information to the driver. 
+
+Multiple-choice questions continue on next page. 
+
+Page 9 of 17 
+
+33. Several months into the project you have a non-functional mockup of a recommended design. 
+Driver distraction has developed into a major consideration. You are set to present your 
+recommended design to representatives from Innovative Online Industries and you want to give 
+solid evidence supporting your recommendation. Which of the following Measures of Success would 
+likely have the highest validity? 
+
+Load images of the interface mockup onto tablets, then ask more than 1000 people at Union 
+Station if they feel that a HUD would be distracting in a vehicle. 
+
+Conduct a survey of Engineering Undergraduate students whether they think occupying 5% 
+of the windshield would be distracting. 
+
+Use www.seedtesLnet a 5G networked device and show that the speed is sufficient to load 
+navigation data from Google Maps. 
+
+Contract a research group to use eye tracking software to create a heat map of where a 
+driver looks while driving on a driver simulator when exposed to the proposed design. 
+
+34. The Functional Basis for this design is best described as: 
+
+Separate Mass 
+
+Transmit Information 
+
+Transmit Mass 
+
+Control Energy 
+
+35. Which of the following would NOT be part of the scope? 
+
+Research into driver distraction. 
+
+User Experience design regarding simplifying interfaces. 
+
+Receiving and transmission of GPS signals. 
+
+Voice recognition technology. 
+
+36. Specifically for this project, which of the following is the best metric for an Objective: Easy to 
+
+Navigate? 
+
+All data is available on the root screen minimizing the number of clicks needed for 
+navigation tasts. 
+
+Data is available in as many different languages as possible. 
+
+Screen must have high contrast font options for visually impaired users. 
+
+Should minimize the time the driver has to focus on initiating a navigation task. 
+
+Page 10 of 17 
+
+37. What would be an appropriate research question for this project? 
+
+What is an acceptable design alternative for this project? 
+
+What is an acceptable timeframe for implementation of the design? 
+
+What is the current state-of-the-art for HUD technologies? 
+
+All of the above 
+
+38. What would be an appropriate client question for 101? 
+
+What is an acceptable design alternative for this project? 
+
+What is an acceptable timeframe for implementation of the design? 
+
+What is the current state-of-the-art for HUD technologies? 
+
+All of the above 
+
+39. Which of the following is a properly formed credible engineering statement? 
+
+5G technology will be transformative for Internet of Things technology. 
+
+Internet of Things technology will see an explosion in demand once 5G becomes a reality. 
+
+The high speeds and low network latency will be a great benefit for companies in the 
+Internet of Things industrial (lOT) space [4]. 
+
+All of the above 
+
+40. The purpose of using IEEE referencing in your CDS is to: 
+
+Increase efficiency by avoiding in-text citations. 
+
+Show the difference between an idea and the expression of an idea. 
+
+Indicate when you have used an idea from a source. 
+
+Create an alphabetical reference list. 
+
+End of questions pertaining to the case study: Heads Up Display (HUD) for Truck Fleets in Appendix A. 
+
+End of multiple-choice questions. 
+
+Long-answer questions start on the next page. 
+
+Page 11 of 17 
+
+Part 2: Long Answer Questions (40%) 
+
+Questions 41 to 43 pertain to the Case Study: Fully Functional Flying Robot (FFFR) in Appendix B. 
+
+INSTRUCTIONS: This section requires 3 written answers. Use an exam booklet, and write your name, 
+student number, course number, and date of examination on the booklet's cover page. You may use as 
+many pages as you need for your preliminary work, but the final answers for all three questions must 
+not total more than four (4) pages single-spaced or eight (8) pages double spaced. Clearly indicate the 
+final copy to be graded by writing "Final Copy" at the start of it. Use full sentences and paragraphs and 
+bullet lists where appropriate. 
+
+This section of the exam evaluates your ability to: 
+
+Read, understand, and analyse engineering-related material under time pressure. 
+Communicate in clear, concise, well-organized sentences and paragraphs with minimal error. 
+Structure a logical argument, making clear claims and supporting them with the evidence 
+currently available to you. 
+Recognize the kinds of information you would need, moving forward, to validate and better 
+support your claims and generate specific questions to help you find that information. 
+
+Based on the Long Answer Case Study: Fully Functional Flying Robot (FFFR) located in Appendix B, 
+in paragraph form (one or more paragraphs) write a concise Problem Statement in your own words. 
+You may, if you wish, add a brief introduction, identifying the client. You are expected to define the 
+scope of your project. DO NOT COPY SENTENCES WORD-FOR-WORD FROM THE CASE STUDY IN 
+YOUR PROBLEM STATEMENT. YOU WILL RECEIVE NO MARKS FOR MATERIAL COPIED WORD-FOR-
+WORD FROM THE CASE STUDY. (20 marks) 
+
+Based on the Long Answer Case Study: FullyFunctional Flying Robot (FFFR) located in Appendix B, 
+generate Functions, Objectives and Constraints for the specific task you have identified in the 
+problem statement. Utilize course tools such as Functional Basis and Functional Decomposition. In 
+total, you should have about 10 items, whether they are Primary Functions, Secondary Functions, 
+Unintended Functions, Objectives or Constraints. Treat this like a section of a design document with 
+a section introduction and sub-sections. Introduce each of the sub-sections (e.g. Functions, 
+Objectives, Constraints) with a few sentences that help the reader understand their nature and 
+significance. (15 marks) 
+
+Based on the Long Answer Case Study: Fully Functional Flying Robot (FFFR) located in Appendix B, 
+identify five key research questions you would want to answer in order to check the validity of your 
+claims and to further develop your three top objectives. These are questions to guide your personal 
+research, NOT questions for the client. (Don't worry about whether the questions are open or 
+closed.) (5 marks) 
+
+End of all questions of this exam. 
+
+Page 12 of 17 
+
+You may remove these appendices. 
+
+Appendix A: Heads Up Display (HUD) for Truck Fleets 
+In the coming year major telecom companies across the globe, such as AT&T (US) [1], Vondafone (UK) 
+[2] and China Telecom [3] have announced the roll out of SG mobile networks. The high speeds and low 
+network latency will be a great benefit for companies in the Internet of Things industrial (lOT) space [4], 
+such as Innovation Online Industries (101) [5]. 
+
+The 101in-house engineering team is working hard to design lOT products that will meet the anticipated 
+explosion in demand once 5G becomes a reality. Unable to manage all the projects they are seeking 
+additional design expertise from outside design consultancies. The consulting firm you work for, High 
+Five Product Design, is planning on responding to the RFP. 
+
+Of is interested in developing a Heads-Up Display (HUD) design that projects onto the windshield using 
+Augmented Reality (AR) technology. The design must be able to be retrofitted into existing fleets of 
+delivery trucks. The HUD will be used to support more efficient deliveries by supplying the drivers with 
+information at a glance such as: 
+
+Current and forecasted weather conditions 
+Traffic / accident reports 
+Road closures 
+
+Vehicle status (fuel, temperature, tires, etc) 
+Corporate communications (such as updates from the fleet dispatcher) 
+And most importantly GPS navigation instructions with an optimized route 
+
+101 feels there this is an amazing opportunity, but there is one major concern, safety. Transport Canada 
+has already expressed concerns about increasing traffic fatalities attributed to driver distraction linked 
+to in-vehicle telemetric screens (dashboard mounted screens) [6].  Projecting the screen onto the 
+windshield will put the distraction closer to the drivers' field of vision and has potential for even more 
+fatalities. Minimizing driver distraction through innovative interface design is a must for this project to 
+succeed. 
+
+Other criteria: 
+
+Should be reliable 
+
+Should be easy to navigate 
+
+Must be accessible 
+
+Reference List 
+
+•  Should have a simple interface 
+
+•  Should be easy to input information 
+
+•  Must be secure against hacking 
+
+AT&T. (2018 January 04) "AT&T to Launch Mobile 5G in 2018." [Online] Available: 
+hp/boatt.cq.rnLorv/att to laL.Inch mobile 5e in 2018.1itml 
+Vodafone. (2018 April 12) "Vodafone UK first to test new 5G spectrum across a live network." 
+[Online] Available: https:'/mediacentre.vodafone.co.uk/news/1irst-test-new-5g-spectrurn-across-
+live-n etw 0 
+
+Page 13 of 17 
+
+R. Le Maistre. (2018 March 14) "China Telecom Eyes 2M+ Basestation for 5G." [Online] Available: 
+
+1445 
+
+V. Gandhi. (2018 April 13) "5G to become the catalyst for innovation in loT." [Online] Available: 
+
+innovation-in- ot. html 
+
+Innovation Online Industries. (2018 January 28) "About Us." [Online] Available: ioLyiw.ioi.com  
+Government of Canada -Transport Canada. (2003 June) "Strategies for Reducing Driver Distraction 
+
+from In-Vehicle Telematics Devices: A Discussion Document." [Online] Available: 
+
+Page 14 of 17 
+
+Appendix B: Fully Functional Flying Robot (FFFR) 
+
+ESP II - Winter 2018 Project Description 
+
+Project Number: NCC339T 
+
+Client Information 
+
+First Name: 
+
+Last Name: 
+
+Title: 
+
+Company: 
+
+Francois 
+
+Bellefête 
+
+Chief Technical Officer 
+
+Novel Combinations Co-op (NCC) 
+
+Street Address: 
+
+1404 Dorchester Street East 
+
+City: 
+
+Montreal 
+
+Province & Postal Code: 
+
+QC 
+
+Email: 
+
+Telephone: 
+
+fbellefete@ncc.com  
+
+514-343-7788, ext. 712 
+
+Alternate Contact Name: 
+
+Francine Saint-Frédéric 
+
+Alternate Contact Email: 
+
+fsfrederic@ncc.com  
+
+Alternate Contact Telephone: 
+
+514-343-7788, ext. 453 
+
+Project Description: 
+
+Fully Functional Flying Robot (FFFR) 
+
+Novel Combinations Co-op is a start-up laboratory in Montreal dedicated 
+to expanding the practical uses of technology through off-the-wall, out-of- 
+the-box design. But when we say "out-of-the-box" we mean it literally. Our 
+designs begin with products that currently exist on the market that we 
+would like to see customized and combined to expand their usefulness. 
+
+I would like to suggest a project for your Engineering Strategies and 
+Practice students combining multiple existing components but primarily a 
+drone and a robot. We got this idea from a current initiative in Latvia: a 
+window-cleaning drone [1]. What a great idea, we thought. Window 
+washing, particularly on skyscrapers, is a difficult and dangerous 
+enterprise. Sure, there are people who like to dangle on a rope 200 metres 
+in the air, but accidents do happen! If a drone falls 200 metres and smashes 
+to bits, you can just replace the drone. If a person falls 200 metres, it is a 
+human tragedy. 
+
+Page 15 of 17 
+
+So, too, with wind turbines in the  far north. In order to work properly, they 
+have to be de-iced from time to time. The Latvian drones can do this at far 
+less cost than the helicopters and crews that are currently being used. 
+
+We recognize that there are, currently, tiny flying robots [2-3] that can 
+generate their own electricity and can be used for such diverse tasks as 
+pollinating flowers in areas where the bee population has dissipated or 
+detecting gas leaks. Moreover, the photovoltaic technology that allows 
+these robots to stay in the air and the microcontroller that allows them to 
+"think" for themselves may provide useful models for our projects. 
+
+Drones, however, do not have the mechatronic capabilities to perform 
+manual tasks, such as changing burnt out light bulbs on high ceilings or 
+rescuing pets and the insect-sized tiny flying robots are obviously too small 
+to perform some of these tasks. 
+
+So, the first phase of this project is to identify tasks that may be dangerous 
+to perform but can be done by a combination drone-robot, what we call a 
+Fully Functional Flying Robot (FFFR). In the second phase, what the robot 
+has to do and the specifications related to that have to be identified - that 
+will lead to the third and final phase in which the components that meet 
+those specifications will be identified, as well as any modifications that 
+have to be made to them in order to combine them. 
+
+This is a Custom-Off-the-Shelf design and while modifications are 
+expected, it must not require new manufacturing facilities. We are not 
+interested in any weaponized design - our co-op of interdisciplinary 
+engineers and designers are interested in helping living beings, not hurting 
+them. Obviously, the design MUST BE user friendly and MUST BE 
+environmentally friendly in order to secure the kinds of dazzling sales we 
+are looking forward to. This is common sense: if users cannot use it or if 
+the enviromnent is going to be totally destroyed by it, who would want to 
+buy it? 
+
+Page 16 of 17 
+
+:. 
+
+Figure 2: Wind Turbine being cleaned by  drone [1] 
+
+References: 
+
+J. Archer. (2018 Nov 22) "Window Washing Drone Takes Flight" [Online] The Telegraph 
+Available: 
+
+used-clean-buildings-extinguish-fires/ 
+J. Rothwell. (2018 Oct 9) "Why Tiny Flying Robots could be the Answer to Europe's Bee Crisis." 
+[Online] The Telegraph Available: 
+robots-couId-answer-eLipjsbee-crsJ 
+S. McQuate. (2018 May 15) "The First Wireless Flying Robotic Insect Takes Off." [Online] UW 
+News Available: 
+
+Page 17 of 17 
+
+

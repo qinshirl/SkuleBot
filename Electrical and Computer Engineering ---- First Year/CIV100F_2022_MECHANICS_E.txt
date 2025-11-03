@@ -1,0 +1,426 @@
+FEAD4AB6-FB39-47D6-AE5E-A8CE5327B42F
+
+final-exam-6OcOa
+
+#299 Page 1 of 12
+
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIVIOOF - MECHANICS
+
+Final Examination - Sections 1, 2, 3, 4, 5, 6, 7, 8 and 9 (Online) 
+
+Monday, ll*** December 2022 
+
+Examiner: Staff in Civil Engineering 
+
+Time allowed: 2-y2 hours
+
+First name (please write as legibly as possible within the boxes)
+
+Last name
+
+Student ID number
+
+INDICATE YOUR CALCULATOR TYPE:
+
+CASIO FX-991
+
+□ SHARP EL-W5I6 □ OTHER:
+
+Notes: 1. Ensure that you have all 12 pages of the examination paper. Page 12 is blank
+
+2. Answer all five questions. The value of the questions is indicated below
+
+3. If you need more space for a question, continue on the page indicated at the bottom
+
+4. If information appears to be missing, make reasonable assumptions and state them clearly
+
+5. The only calculators permitted are listed above. Please indicate your model
+
+6. This is a closed-book examination. No other paper will be allowed on the desk
+
+7. Turn OFF all electronic equipment and place it in your bag
+
+8. Do not remove the staple
+
+DO NOT WRITE IN THIS SPACE.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+TOTAL
+
+/lO
+
+/lO
+
+/lO
+
+/lO
+
+/lO
+
+/SO
+
+E4F32E62-AF7C-4D2F-992A-433815E5FAF5
+
+final-exam-60c0a
+
+#299 Page 2 of 12
+
+If
+
+NAME:
+
+Page 2 of 12
+
+1. The steel beam depicted below is supported by a frictionless surface at A and a fixed support at C. 
+Member AB is loaded by a uniformly distributed force and is pinned to member BC at B.
+
+(a) In the space provided draw the internal-force diagrams for the beam. Indicate the values at all points 
+marked along the beam (viz. A, B, C, 1 and 2) and aimotate the shape of the diagrams.
+
+(b) The cross-section of the beam is also represented. Determine if the beam material remains elastic at all 
+points across the section and everywhere along the beam, given that the yield stress for steel is 350 MPa.
+
+-^0.6 m
+
+0.6 m
+
+0.6 m —— 0.6 m-^
+
+i
+
+160
+
+fivti I I
+50°g|
+
+450 kN/m
+
+n
+
+B
+
+C
+
+©
+
+@
+
+T
+Dimensions _
+m mni
+
+iS
+4„
+
+160
+
+X
+
+160
+
+Cross Section
+
+i
+40
+T
+
+Solution can be continued on Page 3
+
+\
+
+•c
+
+099FE143-A772-4CEF-979A-5EF9974954D6
+
+final-exam-60c0a
+
+#299 Page 3 of 12
+
+NAME:
+
+Page 3 of 12
+
+Question 1 can be continued on this page.
+
+Solution can be continued on Page 12
+
+C54266D8-C115-4739-B9B3-2E62F5056416
+
+final-exam-6OcOa
+
+#299 Page 4 of 12
+
+>
+
+NAME:
+
+Page 4 of 12
+
+2. For the steel truss illustrated: (i) Determine the force in members AH, HM, CD, IJ and JN, and indicate 
+if the members are in tension or compression. Take P = 150 kN and a = 2.5 m.
+
+(ii) From a different loading condition, the force in member EQ (cross-sectional area 1,700 mm^, modulus 
+of elasticity 200 GPa) is 580 kN in tension. Determine the axial stress in, and the elongation of the 
+member.
+
+H
+
+M
+
+B
+
+N
+
+C
+
+A
+
+rnr
+
+K
+
+O
+
+t
+6 Vg i
+
+D
+
+E
+
+F
+
+r-«
+
+a
+
+P
+
+a
+
+P
+
+a
+
+P
+
+a
+
+P
+
+a —
+
+P
+
+Solution can be continued on Page 5
+
+V
+
+NAME:
+
+Question 2 can be continued on this page.
+
+48C15F23-6883-47EA-9CE4-0CBDD28F9EDa
+
+final-exam-60c0a
+
+#299 Page 5 of 12
+
+\
+
+I
+
+Solution can be continued on Page 12
+
+253BB0DD-C714-4C71-92CE-F6B92A4B3B4A
+
+final-exam-6OcOa
+
+#299 Page 6 of 12
+
+i
+
+Sk
+
+NAME:
+
+Page 6 of 12
+
+3. The cross-section of a 3.0 m-wide (in the plane of the figure), fresh-water tank with a slanted bottom is 
+presented. A rectangular door in the bottom of the tank, 1.6 m by 0.8 m (normal to the plane of the figure), 
+is hinged at A and can be opened by the vertical cable under a tension P, as shown. Determine the 
+minimum tension force in the cable required to open the door. The door is fabricated from 16 mm-thick 
+steel plate with a mass density of 7,850 kg/m^.
+
+P
+
+\
+30°
+
+1
+
+r
+
+.'•i:
+
+if:,.
+
+I
+
+Solution can be continued on Page 7
+
+CBAAAFC7-34B4-471A-849B-4D8CF3CF2600
+
+final-exam-6OcOa
+
+#299 Page 7 of 1-2
+
+NAME:
+
+Page 7 of 12
+
+Question 3 can be continued on this page.
+
+Solution can be continued on Page 12
+
+8B050A15-43CE-4092-B09E-7407CC6DD424
+
+final-exam-60c0a
+
+#299 Page 8 of 12
+
+iS®:
+0!^
+
+NAME:
+
+0-
+
+Page 8 of 12
+
+4. The arm ADE of the boring machine is attached to a rigid support by pins at A and A ’ (not visible). DE 
+is parallel to the x-axis. The arm is also supported by the hydraulic cylinder BD which has a ball-and- 
+socket joint at each end. The applied loading consists of a force P = 6.2 kN and a couple C = 4.8 kNm, 
+both acting at the boring tool E. Neglecting the weight of the members, determine the force in the cylinder 
+BD (provide both the magnitude and the Cartesian vector expression).
+
+0.6 m
+
+0.6 m
+
+X
+
+Solution can be continued on Page 9
+
+■V
+
+«»
+
+1EFA37A9-66F1-476F-AA22-ABB6E0ADFCB4
+
+final-exam-60c0a
+
+#299 Page 9 of 12
+
+NAME:
+
+Page 9 of 12
+
+Question 4 can be continued on this page.
+
+Solution can be continued on Page 12
+
+5EA171F2-7F19-45CE-8617-1CFC7D027356
+
+final-exam-60c0a
+
+#299 Page 10 of 12
+
+*
+
+NAME:
+
+Page 10 of 12
+
+5. A lifting device for transporting steel barrels is presented. The mass of a barrel is 155 kg, while the 
+mass of the lifting device can be neglected. Calculate the magnitude and direction of the total forces 
+exerted on the barrel at E and F.
+
+U.....340
+mm
+
+340
+mm
+
+11
+
+P
+
+■7^
+
+B
+
+D
+
+A
+
+^5® --17\ 
+
+f
+250 mm
+
+cs
+
+[120 mm
+
+1^;
+
+500
+mm
+
+Solution can be continued on Page 11
+
+V
+
+1BA33FB6-C81E-4206-A5ED-29590972FD89
+
+final-exam-6OcOa
+
+#299 Page 11 of 12
+
+NAME:
+
+Page 11 of 12
+
+Question 5 can be continued on this page.
+
+Solution can be continued on Page 12
+
+70F52F91-5D2B-4D62-84D4-A2B201470702
+
+final-exam-60c0a
+
+#299 Page 12 of 12
+
+4
+
+NAME:
+
+Page 12 of 12
+
+All Questions can be continued on this page. Indicate clearly which question is shown.
+
+

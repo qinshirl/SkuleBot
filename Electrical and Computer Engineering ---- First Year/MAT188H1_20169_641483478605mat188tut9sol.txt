@@ -1,0 +1,1714 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 9
+
+1. Let A =
+
+
+
+1 3 −1
+0
+5
+c
+
+2 4 −4
+
+
+
+.
+
+(a) Find det(A).
+
+(b) For what values of c is A invertible?
+
+(c) For the values of c such that A is invertible, ﬁnd det(A−1).
+
+Solution:
+
+(a) We compute det(A) by cofactor expansion along the second row:
+
+det(A) = c · det
+
+(cid:21)
+(cid:20)1 −1
+2 −4
+
+− 5 · det
+
+(cid:20)1
+2
+
+(cid:21)
+3
+4
+
+= −2c + 10
+
+For the ﬁnal equality we used the (hopefully!) familiar formula det
+
+(cid:21)
+
+(cid:20)a b
+d
+c
+
+= ad − bc.
+
+(b) We recall one of the most important properties of the determinant: A is invertible if and only if
+det(A) (cid:54)= 0. In our case, it follows from part (a) that A is invertible iﬀ −2c + 10 (cid:54)= 0. In other words,
+A is invertible iﬀ c (cid:54)= 5.
+
+(c) Whenever A is invertible (i.e. when c (cid:54)= 5), we have
+
+det(A−1) =
+
+1
+det(A)
+
+=
+
+1
+−2c + 10
+
+2. By row-reducing to upper-triangular form, evaluate
+
+det
+
+
+
+
+
+
+
+
+
+3
+5
+2
+−3
+1
+
+2
+4
+1
+4
+2
+
+1
+3
+2
+1
+3
+
+
+
+
+
+
+
+
+
+4 −1
+1
+2
+1
+3
+7
+6
+5
+4
+
+.
+
+1 of 8
+
+Solution: Using Theorem 3 from Section 5.1 along with Theorems 1, 2, and 4 from Section 5.2 in the
+textbook, we perform elementary row operations:
+
+det
+
+
+
+
+
+
+
+
+
+3
+5
+2
+−3
+1
+
+2 1 4 −1
+1
+4 3 2
+1
+1 2 3
+7
+4 1 6
+5
+2 3 4
+
+
+
+
+
+
+
+
+
+= − det
+
+= − det
+
+
+
+
+
+
+
+
+
+1
+5
+2
+−3 4
+3
+
+5
+2 3 4
+1
+4 3 2
+1
+1 2 3
+7
+6
+1
+2 1 4 −1
+
+
+
+
+
+
+
+
+
+2
+
+5
+
+3
+
+4
+
+
+1
+0 −6 −12 −18 −24
+
+
+0 −3 −4 −5 −9
+
+
+22
+0
+
+0 −4 −8 −8 −16
+
+18
+
+10
+
+10
+
+
+
+
+
+
+
+
+
+= −(−6)(−4) det
+
+4
+3
+
+2
+1
+
+
+5
+3
+1
+0
+4
+2
+
+
+0 −3 −4 −5 −9
+
+
+22
+10
+0
+
+4
+2
+0
+
+10
+1
+
+18
+2
+
+= −24 det
+
+= 24 det
+
+= 24 det
+
+= 24 det
+
+
+1
+0
+
+
+0
+
+
+0
+
+0 0
+
+3
+2
+2
+
+2
+1
+0
+0 −10 −12 −18
+
+5
+4
+3
+
+4
+3
+4
+
+
+
+
+
+
+
+
+
+0
+
+−1
+
+0
+
+
+
+
+
+
+
+
+
+
+1 2
+0 1
+0 0
+0 0
+0 0 −10 −12 −18
+
+4
+3
+4
+−1
+
+5
+4
+3
+0
+
+3
+2
+2
+0
+
+
+
+
+
+
+
+
+
+1 2
+0 1
+0 0
+0 0
+0 0
+
+4
+3
+3
+2
+2
+4
+0 −1
+0
+
+5
+4
+3
+0
+8 −3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 2
+0 1
+0 0
+0 0
+0 0
+
+3
+4
+2
+3
+4
+2
+0 −1
+0
+
+5
+4
+3
+0
+0 −3
+
+
+
+
+
+
+
+
+
+(switch R1 and R5)
+
+(adding multiples of R1 to the others)
+
+(pulling common factors out of rows)
+
+
+
+
+
+
+
+
+
+(adding multiples of R2 to those below it)
+
+
+
+
+
+
+
+(switch R4 and R5)
+
+(add 5R3 to R5)
+
+(add 8R4 to R5)
+
+This gives 24 × 6 = 144, since the determinant of an upper-triangular matrix is the product of its diagonal
+entries.
+
+3. Think of U = (u1 u2 . . . un), V = (v1 v2 . . . vn), and Ai = (ai1 ai2 . . . ain) as 1 × n rows, i = 2, . . . , n.
+
+2 of 8
+
+(a) Show that
+
+det
+
+
+
+
+
+
+
+
+U + V
+A2
+...
+An
+
+
+
+
+
+
+
+
+= det
+
+
+
+
+
+
+
+
++ det
+
+
+
+
+
+
+
+
+U
+A2
+...
+An
+
+
+
+
+
+
+
+
+V
+A2
+...
+An
+
+
+
+
+
+
+
+
+.
+
+This is known as the additive property of the determinant. Note that similar equalities hold for other
+rows too. If you’re interested, please see ”A Linearity Property of the Determinant Function” below.
+
+(b) Suppose that det
+
+
+
+
+
+c
+b
+a
+d
+f
+e
+g h i
+
+
+
+ = −3. Find det
+
+
+
+
+
+2b
+2a
+3d − a
+3e − b
+4g + 3a 4h + 3b
+
+
+
+.
+
+2c
+3f − c
+4i + 3c
+
+(c) True or False: A =
+
+
+
+
+
+
+
+2
+2 4
+27
+3 3
+2 1
+5
+6 1 −3
+
+
+
+
+
+
+
+6
+33
+2
+3
+
+and B =
+
+
+3
+2
+
+
+6
+
+2
+
+6
+3
+5
+1
+1 −3
+18
+2
+
+
+
+
+
+
+
+9
+2
+3
+22
+
+have the same determinant.
+
+Hint: You can answer this without computing the determinants of A and B.
+
+Solution:
+
+(a) Denote these matrices by
+
+X =
+
+
+
+
+
+
+
+
+U + V
+A2
+...
+An
+
+
+
+
+
+
+
+
+,
+
+Y =
+
+
+
+
+
+
+
+
+U
+A2
+...
+An
+
+
+
+
+
+
+
+
+, Z =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+A2
+...
+An
+
+We will do a cofactor expansion of these determinants along the ﬁrst row. Observe that the cofactors
+along the ﬁrst row are all equal:
+
+c1,j(X) = c1,j(Y ) = c1,j(Z),
+
+for all 1 ≤ j ≤ n
+
+Indeed, for each of these cofactors we remove row 1 and column j. Row 1 is the only place where
+X, Y, Z diﬀer, so we get the same result in all cases. Then
+
+det(X) = (u1 + v1)c1,1(X) + (u2 + v2)c1,2(X) + . . . + (un + vn)c1,n(X)
+
+= (u1c1,1(X) + u2c1,2(X) + . . . unc1,n(X)) + (v1c1,1(X) + v2c1,2(X) + . . . + vnc1,n(X))
+= (u1c1,1(Y ) + u2c1,2(Y ) + . . . unc1,n(Y )) + (v1c1,1(Z) + v2c1,2(Z) + . . . + vnc1,n(Z))
+= det(Y ) + det(Z)
+
+as was claimed.
+
+(b) Performing row operations:
+
+
+
+
+
+det
+
+2c
+2b
+2a
+3f − c
+3e − b
+3d − a
+4g + 3a 4h + 3b 4i + 3c
+
+
+
+
+
+ = 2 det
+
+
+
+c
+b
+a
+3f − c
+3e − b
+3d − a
+4g + 3a 4h + 3b 4i + 3c
+
+
+
+
+
+
+c
+b
+3e
+3f
+4h 4i
+
+
+
+
+c
+b
+a
+d
+f
+e
+g h i
+
+
+
+
+
+
+
+= 2 det
+
+
+
+
+
+a
+3d
+4g
+
+= 2 · 3 · 4 · det
+
+= −72
+
+3 of 8
+
+(c) For the ﬁrst row of A, we have (cid:2)2 4
+
+2
+
+6(cid:3) = 2
+
+3
+
+(cid:2)3
+
+6
+
+3
+
+9(cid:3). Therefore we have
+
+det(A) =
+
+
+2
+3
+
+
+2
+
+6
+
+2
+4
+27
+3
+5
+1
+1 −3
+
+
+
+
+
+
+
+6
+33
+2
+3
+
+= 2
+
+3 det
+
+
+2
+3
+
+
+2
+
+6
+
+2
+4
+27
+3
+5
+1
+1 −3
+
+
+
+
+
+
+
+6
+33
+2
+3
+
+Switching R2 and R3, and then R3 and R4, this is equal to
+
+− 2
+
+3 det
+
+
+
+
+
+
+
+2
+2 4
+5
+2 1
+3 3
+27
+6 1 −3
+
+
+
+
+
+
+
+6
+2
+33
+3
+
+= 2
+
+3 det
+
+
+2
+2
+
+
+6
+
+3
+
+2
+4
+1
+5
+1 −3
+27
+3
+
+
+
+
+
+
+
+6
+2
+3
+33
+
+Bringing the constant 2
+
+3 into R4, this is equal to
+
+det
+
+
+2
+2
+
+
+6
+
+2
+
+2
+4
+1
+5
+1 −3
+18
+2
+
+
+6
+2
+
+
+2
+
+2
+
+= det(B)
+
+So, it is true that det(A) = det(B).
+
+4. Let W =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+
+∈ R4 | det
+
+
+
+
+
+
+
+x1 x2 x3 x4
+1
+1
+1
+1
+3
+2
+
+1
+2
+3
+
+1
+1
+2
+
+
+
+
+
+
+
+
+
+
+= 0
+
+.
+
+
+
+(a) Show that W is a subspace of R4.
+
+(b) Find a basis for W and determine dim(W ).
+
+Solution:
+
+(a) We provide two methods for solving this problem.
+
+Method 1: Expand the determinant in the deﬁnition of W , e.g. using cofactor expansion along the
+ﬁrst row. Then we (eventually!) get the linear equation −x1 + x3 = 0. W is the set of solutions to
+this equation, so it is a subspace of R4.
+
+Method 2: We apply the subspace test. Suppose that x =
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+
+
+
+
+
+
+
+and y =
+
+
+
+
+
+
+
+y1
+y2
+y3
+y4
+
+
+
+
+
+
+
+are both in W . From
+
+problem 3 (a), we know that
+
+
+
+x1 + y1 x2 + y2 x3 + y3 x4 + y4
+
+det
+
+
+
+
+
+1
+1
+2
+
+1
+2
+3
+
+1
+1
+2
+
+1
+1
+3
+
+
+
+
+
+
+
+= det
+
+
+
+
+
+
+
+x1 x2 x3 x4
+1
+1
+1
+1
+3
+2
+
+1
+2
+3
+
+1
+1
+2
+
+
+
+
+
+
+
++ det
+
+
+
+
+
+
+
+y1
+1
+1
+2
+
+y2
+1
+2
+3
+
+y3
+1
+1
+2
+
+
+
+
+
+
+
+y4
+1
+1
+3
+
+Since x, y ∈ W , the two determinants on the right are zero. Hence x + y ∈ W .
+
+4 of 8
+
+Similarly, for x ∈ W and c ∈ R, we have
+
+det
+
+
+
+
+
+
+
+cx1
+1
+1
+2
+
+cx2
+1
+2
+3
+
+cx3
+1
+1
+2
+
+
+
+
+
+
+
+cx4
+1
+1
+3
+
+= c · det
+
+
+
+
+
+
+
+x1 x2 x3 x4
+1
+1
+1
+1
+3
+2
+
+1
+2
+3
+
+1
+1
+2
+
+
+
+
+
+
+
+This is zero since x ∈ W , so we see that cx ∈ W . It follows that W is a subspace.
+
+(b) We provide two methods for solving this problem.
+
+Method 1: We saw above that W is the set of solutions to the equation −x1 +x3 = 0. The parametric
+form for the solutions to this equation gives us, in the usual way, a basis for W
+
+
+
+
+
+
+
+
+0
+1
+
+
+
+
+0
+
+
+0
+
+,
+
+
+
+1
+0
+
+
+
+
+1
+
+
+0
+
+,
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+
+
+1
+
+so that dim(W ) = 3.
+
+Method 2: We have
+
+det
+
+
+
+
+
+
+
+1 1
+1 1
+1 2
+2 3
+
+1
+1
+1
+2
+
+
+1
+1
+
+
+1
+
+3
+
+= 0, det
+
+
+1
+1
+
+
+1
+
+2
+
+2
+1
+2
+3
+
+1
+1
+1
+2
+
+
+
+
+
+
+
+1
+1
+1
+3
+
+= 0, det
+
+
+2
+1
+
+
+1
+
+2
+
+3
+1
+2
+3
+
+2
+1
+1
+2
+
+
+
+
+
+
+
+3
+1
+1
+3
+
+= 0
+
+since in each case the matrix has two identical rows. This tells us that the set
+
+S =
+
+
+
+
+
+
+
+
+1
+1
+
+
+
+
+1
+
+
+1
+
+,
+
+
+
+1
+2
+
+
+
+
+1
+
+
+1
+
+,
+
+
+
+
+2
+
+3
+
+
+
+
+2
+
+
+
+3
+
+is a subset of W . This set is linearly independent (check this!). Since W is three dimensional,S must
+also span W . Hence S is a basis for W .
+
+5 of 8
+
+5. Let P be the parallelogram with vertices (−2, 1), (−4, 4), (1, 6), and (−1, 9). Sketch P and compute
+
+the area of P using determinants.
+
+Solution:
+
+y
+
+(−1, 9)
+
+P
+
+(−4, 4)
+
+(−2, 1)
+
+(1, 6)
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+−4 −3 −2 −1
+
+1
+
+x
+
+Method 1
+
+The area of P is the absolute value of the determinant of the matrix formed by row vectors represent-
+
+ing the parallelogram’s sides.
+
+In this case, one side is v1 =
+
+=
+
+, and the other side is
+
+(cid:21)
+
+(cid:20)1 − (−2)
+6 − 1
+
+(cid:21)
+(cid:20)3
+5
+
+, so our matrix has rows equal to these vectors:
+
+v2 =
+
+A =
+
+(cid:21)
+(cid:20)−4 − (−2)
+4 − 1
+(cid:21)
+(cid:20) 3
+5
+.
+−2 3
+
+=
+
+(cid:21)
+(cid:20)−2
+3
+
+Then area(P ) = |det(A)| = |det
+
+(cid:21)
+(cid:20) 3
+5
+−2 3
+
+| = |3 · 3 − (−2) · 5| = 19
+
+6 of 8
+
+Method 2
+
+y
+
+(−2, 3)
+
+(1, 8)
+
+P (cid:48)
+
+(3, 5)
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+−3 −2 −1
+
+(0, 0)
+
+1
+
+2
+
+3
+
+x
+
+First we shift P to the origin by translating all points by (2, −1). This is clearly an area-preserving trans-
+formation, and we get the parallelogram P (cid:48) above.
+
+Let T by the linear transformation that maps the unit square to P (cid:48). Let A be the matrix satisfying
+T (x) = Ax. Then area(P (cid:48)) = |det(A)|.
+
+T maps the unit square as follows:
+
+
+
+
+
+(0, 0) (cid:55)→ (0, 0)
+(1, 0) (cid:55)→ (3, 5)
+(0, 1) (cid:55)→ (−2, 3)
+(1, 1) (cid:55)→ (1, 8)
+
+⇒ A = (cid:2)T ( 1
+
+0 ) T ( 0
+
+1 )(cid:3) =
+
+(cid:21)
+
+(cid:20)3 −2
+3
+5
+
+⇒ area(P ) = area(P (cid:48)) = |det(A)| = |det
+
+(cid:21)
+(cid:20)3 −2
+3
+5
+
+| = |3 · 3 − (−2) · 5| = 19
+
+A Linearity Property of the Determinant Function
+
+For an n × n matrix A you can think of det(A) as a function of the n rows of A. More precisely, if all the
+rows of A except one are ﬁxed, then det(A) is a linear transformation of that one row/vector variable.
+
+Suppose the 1st row of A is allowed to vary but the remaining rows are held ﬁxed. Say,
+
+A =
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+U
+A2
+...
+An
+
+7 of 8
+
+Deﬁne T : Rn → R by
+
+T (U ) = det
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+U
+A2
+...
+An
+
+Then,
+
+and
+
+T (cU ) = cT (U ), for all scalars c and all U ∈ Rn (as a row vector not a column vector)
+
+(1)
+
+T (U + V ) = T (U ) + T (V ), for all U, V ∈ Rn (again, as row vectors not column vectors)
+
+(2)
+
+In other words, T is a linear transformation! (1) is Theorem 4, on page 267 of the textbook, and (2) is
+what you’re asked to prove in question 3(a). Notice there is nothing special about allowing the ﬁrst row to
+vary and holding all other rows ﬁxed, we could just as easily let the j-th row vary and hold all the others
+rows ﬁxed. Note that same result is true for the columns of A - i.e. we may replace the word ”row” with
+”column” above.
+
+8 of 8
+
+

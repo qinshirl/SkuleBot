@@ -1,0 +1,307 @@
+Name: ________________________________ 
+
+Student number:_______________________ 
+
+MAT 186 
+Quiz 9 
+
+1.  Evaluate 
+
+𝟐
+
+∫
+
+−𝟏
+
+𝒙𝟐
+
+√𝒙 + 𝟐
+
+𝒅𝒙
+
+CF16  CF22 
+
+Two good solutions exist.  We can substitute for 𝑥 + 2 (that is the solution shown 
+here), but it would actually be much better to use √𝑥 + 2.  Try that one 
+yourselves. 
+
+Let 𝑢 = 𝑥 + 2, so 𝑑𝑢 = 𝑑𝑥. 
+
+2
+
+∫
+
+−1
+
+𝑥2
+
+√𝑥 + 2
+
+𝑑𝑥
+
+= ∫
+
+1
+
+= ∫
+
+4
+(𝑢 − 2)2
+√𝑢
+
+𝑑𝑢
+
+4
+𝑢2 − 4𝑢 + 4
+√𝑢
+
+𝑑𝑢
+
+1
+4
+
+1
+2
+5
+2
+5
+
+= ∫ 𝑢3/2 − 4𝑢1/2 + 4𝑢−1/2𝑑𝑢
+
+= [
+
+= (
+
+𝑢5 2⁄ −
+
+25 −
+
+8
+3
+
+8
+3
+
+4
+𝑢3 2⁄ + 8𝑢1 2⁄ ]
+1
+
+23 + 16) − (
+
+−
+
+2
+5
+
+= 𝑢𝑔ℎ, 𝑜𝑟 26/15 
+
+8
+3
+
++ 8) 
+
+Continued on back. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AB4  CF16  CF25 
+
+2.  Find the area of the region between 𝒚 = |𝒙| and 𝒚 = 𝟔 − |𝟐𝒙|. 
+
+We need to take cases: 
+
+|𝑥| = {
+
+−𝑥,
+𝑥,
+
+𝑥 < 0
+𝑥 ≥ 0
+
+          6 − |2𝑥| = {
+
+6 + 2𝑥,
+6 − 2𝑥,
+
+𝑥 < 0
+𝑥 ≥ 0
+
+These will intersect at 𝑥 = ±2.  So, we need to find the area using two integrals (we 
+could use symmetry and just double one of them): 
+
+0
+
+2
+
+𝐴 = ∫ (6 + 2𝑥) − (−𝑥)
+
+ 𝑑𝑥 + ∫ (6 − 2𝑥) − (𝑥) 𝑑𝑥
+
+−2
+0
+
+0
+
+2
+
+= ∫ 6 + 3𝑥 𝑑𝑥
+
++ ∫ 6 − 3𝑥 𝑑𝑥
+
+−2
+
+= (6𝑥 +
+
+= 12 
+
+3𝑥2
+2
+
+0
+)
+
+−2
+
+0
+
++ (6𝑥 −
+
+3𝑥2
+2
+
+2
+)
+0
+
+3.  A spherical snowball melts at a rate that is proportional to its surface area.  
+
+CF10 
+
+Show that the rate of change of the radius is constant. 
+
+We are given that 
+
+𝑑𝑉
+
+𝑑𝑡
+
+= 𝑘 ⋅ 𝑆𝐴, for some 𝑘.  So: 
+
+𝑑
+𝑑𝑡
+
+4
+(
+3
+
+𝜋𝑟3) = 𝑘 ⋅ 4𝜋𝑟2 
+
+4𝜋𝑟2 ⋅
+
+𝑑𝑟
+𝑑𝑡
+
+𝑑𝑟
+𝑑𝑡
+
+= 𝑘 ⋅ 4𝜋𝑟2 
+
+= 𝑘 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+[This one is optional.  Solve it if you need better marks in the main attribute tested here.  If 
+you try this problem, it will not lower your mark.] 
+
+4.  Find 𝐥𝐢𝐦
+𝐱→𝟐
+
+(𝒙 − 𝟐) 𝐜𝐨𝐬 ( 𝟏
+
+(𝒙−𝟐)𝟐). 
+
+AB6  CS2 
+
+This definitely requires the Squeeze Theorem, with positive and negative cases. 
+
+Case I: 𝑥 − 2 > 0, or 𝑥 > 2. 
+
+−1 ≤ cos (
+
+1
+
+(𝑥 − 2)2) ≤ 1 
+1
+
+−(𝑥 − 2) ≤ (𝑥 − 2) cos (
+
+(𝑥 − 2)2) ≤ (𝑥 − 2) 
+
+Therefore, by the Squeeze Theorem, the limit in case I goes to zero. 
+
+lim
+𝑥→2
+
+−(𝑥 − 2) = lim
+𝑥→2
+
+(𝑥 − 2) = 0 
+
+Case II is nearly identical and we can get away with saying “Case II is done similarly.”  Here it is in 
+full: 
+
+Case II: 𝑥 − 2 < 0, or 𝑥 < 2. 
+
+−1 ≤ cos (
+
+1
+
+(𝑥 − 2)2) ≤ 1 
+1
+
+−(𝑥 − 2) ≥ (𝑥 − 2) cos (
+
+(𝑥 − 2)2) ≥ (𝑥 − 2) 
+
+lim
+𝑥→2
+
+−(𝑥 − 2) = lim
+𝑥→2
+
+(𝑥 − 2) = 0 
+
+Therefore, by the Squeeze Theorem, the limit in case II goes to zero. 
+
+Therefore, the limit is zero. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

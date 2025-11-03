@@ -1,0 +1,891 @@
+MAT187 - Calculus II - Winter 2019
+
+Term Test 2 - March 19, 2019
+
+MULTIPLE-CHOICE QUESTIONS
+
+AND
+
+FORMULA SHEET
+
+Instructions:
+
+DO NOT OPEN until instructed to do so.
+
+THIS PART WILL NOT BE COLLECTED.
+
+This part contains ?? pages.
+
+•
+
+•
+
+•
+
+MAT187 – Term Test 2
+
+MULTIPLE-CHOICE PART.
+
+(13 marks)
+
+ANSWER THESE QUESTIONS ON PAGE 10 OF THE TEST.
+
+1. (2 marks) What is the solution of the ODE
+
+ln(x)y′ +
+
+1
+x
+
+y = x ?
+
+(A) y =
+
+1
+ln(x)
+
+x2
+2
+
++ C
+
+󰀖
+
+(C) y =
+
+1
+ln(x)
+
+x3
+3
+
++ C
+
+󰀖
+
+(B) y =
+
+1
+x
+
+󰀕
+
++ C
+
+󰀖
+
+(D) y =
+
+1
+x
+
+󰀕
+
+󰀕
+x3
+3
+
++ C
+
+󰀖
+
+󰀕
+x2
+2
+
+2. (2 marks) Consider the problem:
+
+y′′ + 2y′ + 2y = 0
+
+󰀻
+󰀿
+
+y(0) = 0
+
+Which of the following conditions can we add to still have inﬁnitely many solutions?
+
+󰀽
+
+(A) y′(0) = 0
+
+(B) y′
+
+π
+2
+
+= 0
+
+(C) y
+
+π
+󰀃
+2
+
+󰀄
+
+= 0
+
+󰀃
+(D) y(π) = 0
+
+󰀄
+
+(E) None of the above options allows for inﬁnitely many solutions.
+
+Page 2 of ??
+
+MAT187 – Term Test 2
+
+3. (2 marks) Consider the ODE
+
+y′′ + 2y′ + 2y = (t2 + 1)e−
+
+t + t sin(t)
+
+Which of the following terms is NOT necessary to form a particular solution?
+
+(A) e−
+
+t
+
+(B) te−
+
+t
+
+(C) t2e−
+
+t
+
+(D) sin(t)
+
+(E) t2 sin(t)
+
+4. (2 marks) Consider the function
+
+f (x) =
+
+∞
+
+n=0
+󰁛
+
+n!
+(2n)n (x
+
+−
+
+e)n.
+
+Select the LARGEST interval of convergence for this function.
+
+(A) x
+
+(B) x
+
+(C) x
+
+(D) x
+
+∈
+
+∈
+
+∈
+
+∈
+
+(
+
+(
+
+,
+
+)
+
+−∞
+
+∞
+e, 3e)
+
+−
+(e
+
+−
+2 , 3e
+
+2
+
+e
+
+1, e + 1)
+
+󰀃
+(E) x = e
+
+󰀄
+
+Page 3 of ??
+
+MAT187 – Term Test 2
+
+5. (2 marks) Consider the function
+
+f (x) =
+
+∞
+
+n=0
+󰁛
+
+Select the one correct option.
+
+(
+3n
+
+−
+−
+
+1)n
+20n!
+
+5)n.
+
+(x
+
+−
+
+(A) f (23)(5) =
+
+(B) f (23)(5) =
+
+(C) f (23)(5) =
+
+(D) f (23)(5) =
+
+(E) f (23)(5) =
+
+1
+33
+
+−
+
+−
+
+33
+
+1
+
+−
+
+−
+
+·
+
+33
+1
+323
+
+3!
+·
+1
+23!
+
+−
+
+323
+
+1
+
+·
+
+23!
+
+Page 4 of ??
+
+MAT187 – Term Test 2
+
+For questions ??–??, consider the graphs:
+
+y
+
+y
+
+t
+
+(A)
+
+y
+
+y
+
+t
+
+(B)
+
+y
+
+t
+
+(C)
+
+t
+
+t
+
+(D)
+
+(E)
+
+6. (1 mark) Which of the graphs (A)–(E) represents a solution of
+
+y′′ + 25y = 0 ?
+
+7. (1 mark) Which of the graphs (A)–(E) represents a solution of
+
+y′′ + 25y = cos(4.8t)
+
+?
+
+8. (1 mark) Which of the graphs (A)–(E) represents a solution of
+
+y′′ + 8y′ + 17y = 0 ?
+
+Page 5 of ??
+
+MAT187 – Term Test 2
+
+You can use this page for scratch work.
+
+Page 6 of ??
+
+MAT187 – Term Test 2
+
+FORMULA SHEET FOR MAT187
+
+Important Formulas.
+
+•
+
+•
+
+cos2(x) =
+
+1 +
+
+lim
+n
+→∞ 󰀓
+
+1 + cos(2x)
+2
+= ea
+
+n
+
+a
+n
+
+󰀔
+
+sin2(x) =
+
+•
+
+1
+
+−
+
+cos(2x)
+2
+
+sin(x) = cos
+
+•
+
+π
+2 −
+
+x
+
+󰀔
+
+󰀓
+
+Trigonometric Integrals.
+
+sec(x) = ln
+
+sec(x) + tan(x)
+
++ C
+
+sec3 dx =
+
+󰀃
+
+1
+
+󰁝
+
+cos(x)
+sin2(x)
+
+−
+
+󰀄
+2 dx
+
+1
+
+󰀃
+󰀄
+1 + x2 dx = arctan(x) + C
+
+•
+
+•
+
+•
+
+󰁝
+
+󰁝
+
+󰁝
+
+Applications of integration.
+
+Arc length for y = f (x)
+
+b
+
+󰁝
+
+a 󰁴
+
+Area of a surface of revolution y = f (x) revolved around x
+
+axis
+
+−
+
+b
+
+a
+
+󰁝
+
+2πf (x)
+
+1 +
+
+󰁴
+
+•
+
+•
+
+1 +
+
+f ′(x)
+
+2 dx
+
+f ′(x)
+
+󰀃
+
+󰀃
+
+2 dx
+
+󰀄
+
+󰀄
+
+Numerical Integration.
+
+Left-Hand Rule
+
+Right-Hand Rule
+
+Midpoint Rule
+
+Trapezoid Rule
+
+•
+
+•
+
+•
+
+•
+
+a
+
+󰁝
+
+a
+
+󰁝
+
+a
+
+󰁝
+
+a
+
+󰁝
+
+b
+
+b
+
+b
+
+b
+
+f (x) dx
+
+f (x) dx
+
+f (x) dx
+
+f (x) dx
+
+≈
+
+≈
+
+≈
+
+≈
+
+Diﬀerential Equations.
+
+Linear DE: y′ + p(t)y = g(t)
+
+Separable DE: g(y)
+
+dy
+dt
+
+= h(t)
+
+•
+
+•
+
+Ln =
+
+n
+
+󰁛i=1
+n
+
+f (xi
+
+−
+
+1)∆x,
+
+Rn =
+
+f (xi)∆x,
+
+󰁛i=1
+n
+
+Mn =
+
+f
+
+xi
+
+−
+
+󰁛i=1
+n
+
+󰀕
+f (xi
+
+−
+
+Tn =
+
+󰁛i=1
+
+2
+
+1 + xi
+2
+
+󰀖
+1) + f (xi)
+
+EL| 󰃑
+
+|
+
+ER| 󰃑
+
+|
+
+b
+
+b
+
+−
+2
+
+−
+2
+
+a
+
+∆x
+
+󰀃
+
+a
+
+󰀄
+∆x
+
+max
+[a,b]
+x
+∈
+
+f ′(x)
+
+󰀏
+󰀏
+
+󰀏
+󰀏
+f ′(x)
+
+∆x,
+
+EM | 󰃑
+
+|
+
+󰀃
+a
+
+b
+
+−
+24
+
+󰀄
+∆x
+
+∆x,
+
+ET | 󰃑
+
+|
+
+a
+
+󰀃
+∆x
+
+b
+
+−
+12
+
+󰀃
+
+󰀄
+
+max
+[a,b]
+x
+∈
+󰀏
+󰀏
+2 max
+[a,b]
+x
+∈
+󰀄
+2 max
+[a,b]
+x
+∈
+
+󰀏
+󰀏
+f ′′(x)
+
+󰀏
+󰀏
+f ′′(x)
+
+󰀏
+󰀏
+
+󰀏
+󰀏
+
+󰀏
+󰀏
+
+µ(t) = e
+
+p(t) dt
+
+󰁕
+µ(t)g(t) dt +
+
+C
+µ(t)
+
+y =
+
+1
+µ(t)
+
+󰁝
+
+g(y) dy =
+
+h(t) dt
+
+󰁝
+
+󰁝
+
+Page 7 of ??
+
+󰀻
+
+󰁁󰁁󰁁󰁁󰁁󰁁󰀿
+󰁁󰁁󰁁󰁁󰁁󰁁󰀽
+
+(1 + x)p =
+
+f (x) = pn(x) + Rn(x)
+n
+
+pn(x) =
+
+Rn(x) =
+
+f (k)(a)
+k!
+
+a)k
+
+(x
+
+−
+
+󰁛k=0
+f (n+1)(c)
+(n + 1)!
+
+a)n+1
+
+(x
+
+−
+
+∞
+
+p(p
+
+󰁛k=0
+
+1)
+
+−
+
+(p
+
+· · ·
+k!
+
+−
+
+k + 1)
+
+xk
+
+sin(x) =
+
+(
+
+1)k
+−
+(2k + 1)!
+
+x2k+1
+
+∞
+
+󰁛k=0
+
+cos(x) =
+
+1)k
+(
+−
+(2k)!
+
+x2k
+
+∞
+
+󰁛k=0
+
+ln(1
+
+−
+
+x) =
+
+−
+
+1
+k
+
+xk
+
+∞
+
+󰁛k=1
+
+MAT187 – Term Test 2
+
+Power Series.
+
+Taylor Theorem
+
+Binomial Series
+
+Sine Series
+
+Cosine Series
+
+Logarithmic Series
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Page 8 of ??
+
+

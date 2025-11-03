@@ -1,0 +1,806 @@
+Constant acceleration a = ac
+
+s = s0 + v0(t − t0) +
+
+1
+2
+
+ac(t − t0)2
+
+v = v0 + ac(t − t0)
+v2 = v0
+
+2 + 2ac(s − s0)
+
+s = s0 +
+
+v0 + v
+2
+
+(t − t0)
+
+Normal-Tangential (n-t)
+
+Polar (r-θ)
+
+Unit vectors: ˆet in +⃗v direction and ˆen towards
+center of curvature ( ˆen ⊥ ˆet).
+
+Unit vectors: ˆer in +⃗r direction and ˆeθ in +θ
+direction ( ˆeθ ⊥ ˆer).
+
+s = ρβ, v = ρ ˙β for constant ρ
+
+at = ˙v = ¨s
+
+an = v ˙β = ρ ˙β2 =
+
+v2
+ρ
+
+⃗v = vr ˆer + vθ ˆeθ, where vr = ˙r
+vθ = r ˙θ
+
+⃗a = ⃗˙v = ar ˆer + aθ ˆeθ, where ar = ¨r − r ˙θ2
+aθ = r ¨θ + 2 ˙r ˙θ
+
+Basic differentials
+
+v =
+
+ds
+dt
+
+= ˙s
+
+a =
+
+dv
+dt
+
+= ˙v, a =
+
+d2s
+dt2
+
+= ¨s
+
+After some manipulation:
+
+v dv = a ds,
+
+˙s d ˙s = ¨s ds
+
+Non-constant acceleration
+
+Get s(t) and v(t) in different situations:
+
+A/T: a = a(t) = dv
+dt
+
+a(t) dt = dv →
+
+∴ v(t) = v0 +
+
+(cid:90) t
+
+0
+(cid:90) t
+
+a(t) dt =
+
+(cid:90) v
+
+v0
+
+dv
+
+a(t) dt
+
+0
+Similarly: s(t) = s0 + (cid:82) t
+
+0 v dt, and combining:
+
+∴ s(t) = s0 + v0t +
+
+(cid:90) t
+
+(cid:90) t
+(
+
+0
+
+0
+
+a(t) dt) dt
+
+(Do integral in 2 steps!)
+
+A/V: a = a(v) = dv
+dt
+
+t(v) =
+
+(cid:90) t
+
+0
+
+dt =
+
+(cid:90) v
+
+v0
+
+1
+a(v)
+
+dv
+
+Sign of a
+
+Positive:
+
+1. v > 0: speeding up
+
+2. v < 0: slowing down
+
+Negative:
+
+1. v > 0: slowing down
+
+2. v < 0: speeding up
+
+Relative Motion
+
+Only works in x-y; B/A is B with respect to A.
+
+⃗rB = ⃗rA + ⃗rB/A
+⃗vB = ⃗vA + ⃗vB/A
+⃗aB = ⃗aA + ⃗aB/A
+
+Then, solve for v(t) and integrate to obtain s(t).
+Alternatively, plug into v dv = a ds instead:
+
+Rectangular (x-y)
+
+v dv = a(v) ds →
+
+∴ s(v) = s0 +
+
+dv =
+
+(cid:90) s
+
+s0
+
+ds
+
+(cid:90) v
+
+v0
+
+v
+a(v)
+v
+a(v)
+
+dv
+
+(cid:90) v
+
+v0
+
+to obtain expression without t.
+
+A/S: a = a(s)
+
+v dv = a ds →
+
+(cid:90) v
+
+v0
+
+v dv =
+
+(cid:90) s
+
+s0
+
+a(s) ds
+
+∴ v(s)2 = v0
+
+2 + 2
+
+a(s) ds
+
+(cid:90) s
+
+s0
+
+then, with v(s) =
+
+∴ t(s) =
+
+(cid:90) s
+
+s0
+
+1
+v(s)
+
+ds
+dt
+
+ds
+
+→
+
+(cid:90) t
+
+0
+
+dt =
+
+(cid:90) s
+
+s0
+
+1
+v(s)
+
+ds
+
+Rearrange to obtain s(t) and then take derivative:
+v(t) = s′(t).
+
+Unit vectors: ˆi in +x and ˆj in +y
+
+Projectile Motion
+
+ax = 0, ay = −g
+
+Therefore, using constant a equations above:
+
+x = x0 + v0x t
+
+y = y0 + vy0 t −
+
+vx = v0x
+
+vy = v0y − gt
+
+gt2
+
+1
+2
+
+where: v0x = v0 cos θ and v0y = v0 sin θ
+
+1
+
+at ds = v dv (from at =
+
+dv
+dt
+dt (v = ρ ˙β) → at = ρ ¨β + ˙ρ ˙β to find ˙ρ
+
+ds
+dt
+
+, v =
+
+)
+
+Also, at = d
+
+Circular Motion in n-t
+
+ρ becomes constant r, β becomes θ:
+
+v = r ˙θ
+
+an = v ˙θ = r ˙θ2 =
+
+at = ˙v = r ¨θ
+
+v2
+r
+
+Aside: unit vector manipulation
+
+d ˆer = ˆeθdθ
+d ˆer
+dθ
+˙ˆer = ˙θ ˆeθ
+
+= ˆeθ
+
+d ˆeθ = − ˆerdθ
+d ˆeθ
+dθ
+˙ˆeθ = − ˙θ ˆer
+
+= − ˆer
+
+Circular Motion in r-θ
+
+r becomes constant:
+
+vr = 0
+vθ = r ˙θ
+
+ar = −r ˙θ2
+aθ = r ¨θ
+
+Note: same as in n-t, but ar = −an as θ and t
+directions same but r and n directions opposite.
+
+Units & Symbols
+
+1012 Tera, 109 Giga, 106 Mega, 103 Kilo; 10−3
+milli, 10−6 µicro, 10−9 nano, 10−12 pico
+
+• U: Work [J]
+• T: Kinetic energy [J]
+• V: Potential energy [J]
+• ⃗ω, ⃗α: Angular vel. [rad/s], accel. [rad/s2]
+• ⃗G or ⃗L: Linear momentum [kg · m
+
+s , N · s]
+• ⃗H: Angular momentum (point HO, mass
+center HG) [kg · m2
+s ]
+
+Constrained Motion (pulleys/blocks)
+
+Linear Momentum and Impulse
+
+Each block needs own datum, measures position in
+direction of motion. Then, differentiate the parts
+of the rope lrope = . . . .
+
+Change in linear momentum is impulse.
+
+⃗G = m⃗v
+
+and
+
+˙⃗G = m ˙⃗v =
+
+(cid:88) ⃗F
+
+∴ ⃗G1 +
+
+(cid:90) t2
+
+t1
+
+(cid:88) ⃗F dt = ⃗G2
+
+Conserved if no external forces (impulses):
+(cid:80) G1 = (cid:80) G2, (cid:80) m1 ⃗v1 = (cid:80) m2 ⃗v2
+
+Angular Momentum
+
+Moment of linear momentum about a point:
+
+⃗HO = ⃗r × ⃗G = ⃗r × m⃗v
+| ⃗HO| = rOmv sin θ (in ˆk dir.) = rOmvθ
+
+˙⃗HO =
+
+(cid:88)
+
+⃗rO × ⃗F
+
+(cid:88) ⃗MO =
+(cid:88) (cid:90) t2
+t1
+
+∴ ( ⃗HO)1 +
+
+MO dt = ( ⃗HO)2
+
+Conserved if no external moments:
+(cid:80) (HO)1 = (cid:80) (HO)2
+Moments: ⃗MO = ⃗rO × ⃗F , | ⃗MO| = F d
+
+Systems of Particles
+
+Kinetics
+
+⃗rG =
+
+˙⃗rG =
+
+¨⃗rG =
+
+˙⃗ri
+
+(cid:80) mi ⃗ri
+m
+(cid:80) mi
+m
+(cid:80) mi
+m
+
+¨⃗ri
+
+=
+
+(cid:80) mi ⃗vi
+m
+(cid:80) mi ⃗ai
+m
+
+=
+=
+∴ (cid:88) ⃗F = m ¨rG = m ⃗aG
+
+(cid:80) ⃗Fi
+m
+
+Work and Energy
+(cid:80)(T1)i + (cid:80) (cid:82) ⃗Fi · d⃗r = (cid:80)(T2)i
+
+Momentum and Impulse
+(cid:80) mi( ⃗vi)1 + (cid:80) (cid:82) t2
+t1
+
+⃗Fi dt = (cid:80) mi( ⃗vi)2
+
+Math
+
+Quadratic: x = −b±
+
+√
+
+b2−4ac
+2a
+
+Radius of curvature:
+[1+( dy
+dx )2]
+d2y
+dx2
+
+ρxy =
+
+3
+2
+
+Trig:
+
+and ρrθ =
+
+3
+2
+
+[r2+( dr
+
+dθ )2]
+dθ )2−r( d2r
+dθ2 )
+
+r2+2( dr
+
+Kinetics ((cid:80) ⃗F = m⃗a)
+
+Forces:
+
+r2
+
+= mg
+
+• W = Gm1m2
+• N (always ⊥ to contact surface)
+• Ff,s ≤ µsN, Ff,k = µkN
+• Fe = −kx
+
+Curvilinear:
+n-t: (cid:80) Fn = man, (cid:80) Ft = mat, (cid:80) Fb = 0
+r-θ: (cid:80) Fr = mar, (cid:80) Fθ = maθ, (cid:80) Fz = m¨z
+(refer to kinematics for an, at, ar, aθ)
+
+Work (all scalar!)
+
+• Gravity: −mg(y2 − y1)
+• Constant applied force: (cid:82) s2
+s1
+
+P cos θ ds
+
+• Spring: − 1
+• Constant friction: −µkN (s2 − s1)
+
+2 − s1
+
+2 k(s2
+
+2)
+
+Generally:
+
+U1→2 =
+
+(cid:90) s2
+
+s1
+
+F cos θF,ds ds
+
+Interpretation: UN done by surface on object, Ug
+done by gravity on object
+
+Work-Energy (for problems w/ F , ∆s, v)
+T1 + (cid:80) U1→2 = T2
+
+Conservation of Energy
+T1 + V1 + ((cid:80) U1→2) = T2 + V2
+
+Rigid Body (only need 2 points)
+
+Translation
+
+⃗rB = ⃗rA + ⃗rB/A
+∴ ⃗vB = ⃗vA +(cid:8)(cid:8)(cid:8)(cid:42) 0
+
+⃗vB/A
+
+and ⃗aB = ⃗aA +(cid:8)(cid:8)(cid:8)(cid:42) 0
+
+⃗aB/A
+
+Rotation About Fixed Axis
+⃗ω = ˙θ and ⃗α = ¨θ points in ˆk direction (in/out of
+page), same for all points on rigid body.
+
+ω =
+
+dθ
+dt
+
+, a =
+
+dω
+dt
+
+Work-Energy
+
+T =
+
+1
+2
+
+IIC ω2 =
+
+1
+2
+
+IGω2 +
+
+1
+2
+
+2
+
+mvG
+
+Work same, except Uf,s = 0 and UM = (cid:82) θ2
+θ1
+
+M dθ
+
+Momentum and Impulse
+
+Same principle holds, with below:
+
+⃗G = m⃗vG, ⃗HG = IG⃗ω and
+
+˙⃗HG =
+
+(cid:88) ⃗MG = IG⃗α
+
+Note: still holds if G replaced with IC or O! Use
+this for rolling wheel!
+
+After some manipulation (analogous to linear):
+
+Vibrations
+
+ω dω = α dθ,
+
+˙θ
+
+For constant angular acceleration α = αc,
+same as linear (but s → θ, v → ω, ac → αc).
+
+Finding v and a of a point P
+
+⃗vP = ⃗vP/O = ωrP/O ˆeθ
+⃗aP = −ω2r ˆer + αr ˆeθ (or in n-t: ω2r ˆen + αr ˆet)
+
+Vectorially (note that ⃗ω × ⃗rP/O is ⃗vP/O):
+
+⃗vP = ⃗ω × ⃗rP/O
+⃗αP = ⃗ω × (⃗ω × ⃗rP/O) + ⃗α × ⃗rP/O
+
+Parallel springs: keq = (cid:80) ki
+Series springs:
+Period τ = 2π
+ωn
+sin θ ≈ θ for small θ
+
+= (cid:80) 1
+1
+keq
+ki
+, Frequency f = ωn
+2π
+
+OR k1k2
+k1+k2
+
+General solutions x(t) are as follows:
+
+Undamped Free (¨x + ωn
+
+2x = 0)
+
+A sin(ωnt) + B cos(ωnt), where ωn =
+C sin(ωnt + ϕ), ϕ = tan−1( B
+A ), C = B
+Amplitude/max disp. is C
+
+(cid:113) k
+
+m , OR
+
+sin ϕ = A
+
+cos ϕ
+
+= ⃗α × ⃗rP/O − ω2⃗rP/O (simplified form)
+
+Hanging mass: yeq = mg
+
+k ; pendulums: ωn = (cid:112)g/l
+
+⃗vB = ⃗vA + ⃗vB/A
+⃗vB = ⃗vA + ⃗w × ⃗rB/A
+
+Find ω with ω =
+
+|⃗vB/A|
+|⃗rB/A| = |⃗vB −⃗vA|
+|⃗rB/A| .
+
+Relative Acceleration
+
+⃗aB = ⃗aA + ⃗aB/A
+⃗aB = ⃗aA + [ ⃗α × ⃗rB/A + ⃗ω × (⃗ω × ⃗rB/A) ]
+
+Find α with α = |(⃗aB )t−(⃗aA)t|
+|⃗rB/A|
+Rolling without slip: ⃗aG = αR ˆi, ⃗acntct = ω2R ˆj
+
+.
+
+Kinetics
+
+(cid:88) ⃗F = m⃗aG and
+
+(cid:88) ⃗MG = IG⃗α
+
+1
+
+rod:
+
+12 mL2 and Iend = 1
+IG:
+2 mR2, ring: mR2, rect. plate: 1
+1
+rad. of gyra. (K =
+
+(cid:113) IG
+
+m ): mK2
+
+3 mL2, disk:
+2 m(a2 + b2),
+
+Damped Free (m¨x + c ˙x + kx = 0)
+2m )2 − k
+Check sign of: ( c
+Crit (= 0): (A + Bt)eλt, where λ = − c
+Overdamp (> 0): Aeλ1t + Beλ2t
+Underdamp (< 0): De− c
+m − ( c
+ωd =
+
+2m )2 = ωn
+
+(cid:113) k
+
+m
+
+2m t sin(ωdt + ϕ), where
+(cid:112)1 − ζ2, ζ = c
+ccrit
+
+2m = −ωn
+
+Undamped Forced (m¨x+kx = Fo sin(ωot))
+
+Fo/k
+
+1−ωo
+
+2/ωn
+
+A sin(ωnt) + B cos(ωnt) + X sin(ωot), where
+X =
+2
+Magnification factor M F = X
+Fo/k
+In-phase (M F > 1) if ωo
+ωn
+(M F < 0) if ωo
+ωn
+ωo = ωn
+
+< 1, out-of-phase
+> 1, and resonance (VA) if
+
+1
+2/ωn
+
+1−ωo
+
+=
+
+2
+
+Periodic Support Disp. δ(t) = δo sin(ωot)
+
+Obtain x by subtract x(t) and δ(t) (or vice versa)
+to get similar to m¨x + kx = kδo sin(ωot)
+C sin(ωnt+ϕ)+X sin(ωot) where X =
+
+δo
+2/ωn
+
+2
+
+1−ωo
+
+=
+
+sin A
+a
+
+sin B
+b
+c2 = a2 + b2 − 2ab cos C
+
+sin C
+c
+
+=
+
+Parallel axis theorem: IA = IG + md2
+
+MadebyJoeDaiinLATEXforMIE100in2022
+
+Rigid Bodies
+Use moments: (cid:80) ⃗Mo = Io⃗α → Io ¨θ−(cid:80) ⃗Mo(θ) = 0
+
+2
+
+(center of mass)
+
+Relative Velocity
+
+

@@ -1,0 +1,241 @@
+MAT187 - Calculus II - Winter 2019
+
+Term Test 2 - March 19, 2019
+
+Time allotted: 70 minutes.
+
+Total marks: 50
+
+Aids permitted: None.
+
+Instructions:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Do not write on the QR code at the top of the pages.
+
+This test contains 10 pages and a detached booklet for multiple-choice questions and formula sheet.
+DO NOT DETACH ANY PAGES.
+
+You can use pages 8–9 to complete questions (mark clearly which questions you are answering).
+
+Calculators, cellphones, or any other electronic devices are not allowed. If you have a cellphone
+
+with you, it must be turned oﬀ and in a bag underneath your chair.
+
+DO NOT START the test until instructed to do so.
+
+GOOD LUCK!
+
+LONG ANSWER PART
+
+9. Let f (x) = sin(x3).
+
+(12 marks)
+
+In the following we will consider its Taylor Polynomial and its Taylor Series. You can assume that
+
+the Taylor Series converges, no need to prove it.
+
+(a) (4 marks) What is the Taylor polynomial of degree 9 centred at 0 for f (x)? Justify your
+
+answer.
+
+p9(x) =
+
+(b) (4 marks) Approximate the integral
+
+using your answer from (a). Justify your answer.
+
+sin(x3) dx
+
+1
+
+0
+
+󰁝
+
+1
+
+0
+
+󰁝
+
+sin(x3) dx
+
+≈
+
+(c) (4 marks) Calculate
+
+Justify your answer.
+
+sin(x3)
+x9
+
+−
+
+x3
+
+=
+
+lim
+0
+x
+→
+
+sin(x3)
+x9
+
+x3
+
+.
+
+−
+
+lim
+0
+x
+→
+
+10. When you eat something, the food goes into your stomach and then your body
+
+(12 marks)
+
+starts absorbing it. We will attempt to model the absorption of food in your stomach.
+
+Food is absorbed from the surface, so
+
+Rate of change of the volume of food in the stomach is proportional to the food’s surface area.
+
+Let’s assume that, in the stomach, the food has the shape of a ball (called the bolus) of radius r(t).
+
+(a) (5 marks) A sphere of radius r has volume 4
+
+3 πr3 and surface area 4πr2.
+
+Obtain a diﬀerential equation for r(t). Use only positive constants and justify all your steps
+
+and deﬁne all the constants and variables you use.
+
+(b) (3 marks) How is the radius of the ball of food decreasing? Select all the true statements.
+
+©
+
+©
+
+©
+
+The radius of the ball of food decreases faster near the beginning than towards the end of
+
+digestion.
+
+The radius of the ball of food decreases faster towards the end than near the beginning of
+
+digestion.
+
+The radius of the ball of food decreases at the same rate both near the beginning and
+
+towards the end of digestion.
+
+After making a selection, justify your answer.
+
+(c) (4 marks) Sketch the graph of r(t). Justify your sketch.
+
+r
+
+r(0)
+
+t
+
+11. It’s 1905 and everyone believes that kinetic energy is given by the formula
+
+(13 marks)
+
+KC(s) =
+
+m s2.
+
+1
+2
+
+Here, m is the mass of the particle at rest and s is the speed of the particle.
+
+Albert Einstein just published his paper on Special Relativity. In it he claimed that kinetic energy
+
+is actually given by the formula
+
+where c is the speed of light and s is still the speed of the particle.
+
+KR(s) = mc2
+
+󰀵
+
+󰀷
+
+1
+
+s2
+c2
+
+1
+
+−
+
+,
+
+1
+󰀶
+
+−
+
+󰀸
+
+󰁴
+
+The scientiﬁc community is very skeptical; after all the new formula KR(s) looks completely diﬀerent
+from the classical one KC(s).
+
+Your job is to ﬁnd out how these two formulas are related.
+
+(a) (7 marks) Consider the function f (x) =
+
+p1(x) centred at a = 0.
+
+1
+√1
+
+−
+
+x
+
+and obtain its linear Taylor approximation
+
+p1(x) =
+
+(b) (4 marks) Use part (a) to approximate KR(s).
+
+KR(s)
+
+≈
+
+(c) (2 marks) You just approximated KR(s). Compare this approximation to the formula for
+
+KC(s). What do you observe?
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+

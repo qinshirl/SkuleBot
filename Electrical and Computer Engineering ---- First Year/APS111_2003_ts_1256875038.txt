@@ -1,0 +1,246 @@
+Name:   
+
+____________________________ 
+
+Student #:  ____________________________ 
+
+University of Toronto 
+
+Faculty of Applied Science and Engineering 
+
+APS111 Engineering Strategies and Practice 
+
+Course Coordinator: Prof. S. McCahan 
+
+Midterm Examination 
+
+October 28, 2003 
+
+This is a 1 hour and 50 minute exam.  The midterm is closed book and closed notes.  The only 
+permissible aid is a single, 8.5”x11”, aid sheet.  Answer all parts of all questions.  Your answers 
+must be well structured, clear, concise, and complete in order to obtain the maximum credit.  The 
+mark values for each question are given to help you allocate your time.  You may write your 
+answers directly on this sheet, or in the booklet provided.  For short answer questions an 
+approximate (not required) length is given in parentheses with the question. 
+
+At the end of the midterm period please submit: this sheet, your answer booklet(s), and your aid 
+sheet. 
+
+Please write clearly.  We cannot give you marks if we cannot read your work. 
+
+Exam: 3 pages 
+
+3 questions 
+
+To get full credit you must answer all parts of all questions 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 1:  The design process 
+5 parts,  35 points 
+
+After graduation you get a job working as a design engineer with a small consulting company.  
+Your first client is Sarah Doe who lost the use of one of her arms in an accident.  She enjoys 
+cooking, but has found that her disability sometimes makes it difficult to perform tasks in the 
+kitchen quickly and easily.   
+
+Client statement: 
+
+“I really like to bake, but the hardest part is mixing the ingredients.  Like for instance, 
+making whip cream is very difficult because I have to whisk quickly with my good hand but 
+then the bowl doesn’t stay still and it is very tiring.  What I really want is a mechanical 
+eggbeater I can use.  I know the only mechanical device possible is one of those mechanical 
+eggbeaters with the grip at the top and the turning handle, but I can’t use it because this thing 
+requires two good hands.  Can you make a device that will hold the gripping handle tightly in 
+place for me?  Then I can turn the handle with my good hand and beat things.” 
+
+a)   Identify problems with the client statement 
+
+Clearly we are missing information about the client, her age, where she lives, etc.  However, 
+let’s just focus on the client’s statement for the moment.  Briefly (one sentence each), give 
+two specific problems with this client statement. 
+
+b)  From the client statement one of the other engineers on your team develops the list below.  
+The first four items are identified as objectives.   Identify the other items, E through L, by 
+putting an O for objective, a C for constraint, an F for function, or an X if it is none of these, 
+next to each item. 
+
+A.   The artefact should be reliable. 
+
+__Objective___ 
+
+B.   The artefact should be easy to use with one hand. 
+
+__Objective___ 
+
+C.   The artefact should be inexpensive.   
+
+__Objective___ 
+
+D.   The artefact should be safe to use.  
+
+E.   The artefact shall not cost more than $20. 
+
+F.   The artefact should be easy to clean.  
+
+__Objective___ 
+
+_____________ 
+
+_____________ 
+
+G.   The artefact should convert power to a whipping action. 
+
+_____________ 
+
+H.   The artefact should be made of metal. 
+
+_____________ 
+
+I. 
+
+ The artefact must not require more than one hand to use.  _____________ 
+
+J.  During whipping, the artefact should not cause the  
+
+bowl to move in an uncontrolled way.  
+
+_____________ 
+
+K.  The artefact should use gears to adjust the torque/speed ratio. 
+
+_____________ 
+
+L.   The artefact should be recycle-able when it is thrown away. _____________ 
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 1; continued 
+
+c)  The list, A through L, does include some function(s) of the artefact.  Give one other 
+
+unintended function that the eggbeater may have.  Hint: Think about the eggbeaters you 
+analyzed in class.  (1 or 2 sentences) 
+
+d)  Why is it important to list this unintended function when considering the design of an artefact 
+for Ms. Doe? (3 sentences or so, be specific about this case, i.e. this unintended function that 
+you have written in part c)  
+
+e)  Briefly (bullet points) give the next 5 steps (or actions) you and your team might take to 
+
+address Ms. Doe’s design need. 
+
+Question 2:  Module 2 
+4 parts, 25 points 
+
+Note:  for short answer questions the number of sentences given in parentheses is an 
+approximate, suggested length.  It is not the required length for the answer. 
+
+a)  Consider the mechanical eggbeater analyzed in tutorial.  What would happen if the turning 
+handle on the mechanical eggbeater were shorter?  Would it be easier or harder to use the 
+beater?  Why? (3 sentences, be specific) 
+
+b)  In tutorial you analyzed two of three mechanical products: a can opener or a corkscrew, and 
+
+an eggbeater.  Give one example where an inclined plane is used in one of these three 
+products. (1 sentence) 
+
+c)  What is wrong with perfectly symmetric pushbars on doors?  (3 sentences) 
+
+d)  A swimsuit that copies the surface (skin) characteristics of a shark to reduce drag is most 
+
+likely an example of which of the following type of analogies used in synectics? 
+a.  Fantasy analogy 
+b.  Personal analogy 
+c.  Symbolic analogy 
+d.  Direct analogy 
+
+2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 3:  Module 1 
+1 part, 40 points 
+
+Long answer question 
+Compare and contrast the design process, the team development process, and the writing process.  
+For example the design process has a goal or objective, as do the team and writing processes.  
+Please note that this portion of the exam will be marked for the clarity, conciseness and logical 
+flow of the writing as well as the content.  It is strongly recommended that you write a brief 
+outline for yourself before you begin writing the full text of your response.  This outline should 
+be in your examination booklet should you choose to do it. 
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

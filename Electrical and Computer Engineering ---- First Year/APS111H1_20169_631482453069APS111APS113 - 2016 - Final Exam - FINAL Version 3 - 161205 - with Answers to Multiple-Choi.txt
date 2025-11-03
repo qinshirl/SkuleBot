@@ -1,0 +1,1049 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Final Examination, December 9, 2016 
+Duration: 2.5 hours 
+APS111H1 F and APS113Y1 Y - Engineering Strategies & Practice 1 
+
+Calculator Type: 4 (No electronic or mechanical devices permitted) 
+Exam Type: A (Closed book, no aids permitted) 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Module A Coordinator: Susan McCahan 
+Module B Coordinator: Jacinta O’Brien 
+
+Instructions: 
+This is a closed book exam; no calculators or aids are permitted, except a translation-only 
+non-electronic dictionary, i.e., direct word-to-word translations with no definitions.  
+
+To start: Fill out both the answer sheet (scan sheet) and the exam booklet (blank lined 
+booklet) with: 
+•  Your name: on the back of the answer sheet and on the front of the exam booklet 
+•  Your student number 
+•  Your course: APS111 or APS113 
+•  Today’s date: 09-Dec-2016 
+•  You do not need to fill out the course instructor or form code 
+
+There are two parts to the exam: (1) multiple-choice questions, and (2) a writing component.  
+
+Multiple-Choice (60%): 
+•  There are a total of 34 multiple-choice questions, each of which is worth about 1.7 marks, 
+
+for a total of 60 marks worth 60% of the exam.  
+
+•  Answer this part on the answer sheet (scan sheet with bubbles): do not answer the 
+
+multiple-choice questions on these question pages or in the exam booklet. 
+
+•  Read each question carefully and choose the most correct answer.  
+•  Only one answer is to be given for each question.  
+•  There is no penalty for incorrect answers. 
+•  Be sure to fill out the answer sheet clearly and darkly with no overlaps, using a pencil.  
+•  Erase any errors completely.  
+
+Writing Component (40%): 
+•  The second part of the exam is a writing component worth 40% of the exam.  
+•  Answer this part in the exam booklet (blank lined booklet): do not answer the written 
+
+component questions on these exam question pages. 
+
+•  Carefully follow the instructions.  
+
+When you are done the exam, insert the answer sheet (scan sheet) into the exam booklet 
+and hand in both together. You may keep the question pages. 
+
+Page 1 of 18 
+
+ 
+ 
+ 
+ 
+ 
+Part 1: 
+
+Multiple-choice questions (60%)  
+
+1.  EpiPen® is an injection system that is used to administer Epinephrine to people who 
+
+are having an allergic shock. Epinephrine is a chemical that reverses the physiological 
+changes, such as severe low blood pressure, wheezing, and severe skin reactions, that 
+characterize allergic shock. The EpiPen® has an orange coloured cap over the built-in 
+needle, which contrasts with the blue-coloured safety cap. Instructions for using the 
+EpiPen® state: “blue to the sky, needle to the thigh”. The use of orange and blue in the 
+design of the EpiPen® demonstrates that design engineers took which of the following 
+into consideration? 
+a.  Safety. 
+b.  Human Factors. 
+c.  Adaptive capacity. 
+d.  Economic, Environmental, Social. 
+
+2.  Based on the Brundtland Commission definition of sustainable development, which of 
+
+the following statements is TRUE? 
+a.  Sustainable development does not encourage resilience. 
+b.  Sustainable development only applies to developing countries. 
+c.  Sustainable development enables future generations to meet their own needs. 
+d.  Sustainable development cannot be applied to engineering designs because it is a 
+
+United Nations initiative. 
+
+3.  Students in APS111 who texted in answers to Top Hat questions but who were not in 
+
+lecture were entered in the Student Participation Incentive Program and were eligible to 
+be randomly selected for a $10 iTunes card or $10 Tim Card. Which of the following 
+statements is TRUE about the behaviour of these students: 
+a.  The behaviour was legal and ethical. 
+b.  The behaviour was legal, but unethical. 
+c.  The behaviour was illegal, but ethical. 
+d.  The behaviour was illegal and unethical. 
+
+4.  Which of the following statements about Life Cycle Assessment is FALSE? 
+
+a.  LCA is a method for analyzing the environmental impacts and costs associated 
+
+with a design, which can be useful for comparing design alternatives. 
+
+b.  LCA is concerned with the environmental impacts associated with the acquisition 
+
+and processing of raw materials and the distribution and use of the design, but not 
+with disposal of the design. 
+
+c.  LCA could be used by the Bank of Canada to compare the environmental impacts 
+
+of cotton-based paper bank notes to bank notes made using a polymer. 
+
+d.  Two different LCAs can yield two different results even when both LCAs are used 
+
+to compare cloth diapers with disposable diapers. 
+
+Page 2 of 18 
+
+ 
+ 
+ 
+ 
+ 
+5.  On November 3, 2016, Professional Engineers Ontario (PEO) issued a news release 
+stating that Emmanuel de Guzman and Falcon Group International Inc. had been 
+convicted of four counts of breaching the Professional Engineers Act and fined 
+$10,000. Falcon Group was found guilty of two counts for offering professional 
+engineering services through its website and using restricted terms, titles and 
+descriptions in a LinkedIn profile. De Guzman, as a director and officer of Falcon 
+Group, was found guilty of authorizing, permitting or consenting to the offences. De 
+Guzman has never been licensed as a professional engineer in Ontario. The verdict 
+was made on October 28 by His Worship Justice of the Peace Sunny Ng. The 
+convictions of Emmanuel de Guzman and Falcon Group demonstrate that the practice 
+of engineering: 
+a.  Can be carried out by anyone so long as they are not convicted of breaching the 
+
+Professional Engineers Act. 
+
+b.  Is governed by the Professional Engineers Act, but the Act only applies to 
+
+individuals who are licensed as professional engineers. 
+
+c.  Is not a self-regulated profession. 
+d.  Restricted to only those individuals who are deemed qualified by PEO. 
+
+6.  Which of the following statements about applying Triple Bottom Line to the Temporary 
+
+Emergency Cold Weather Protection for the Homeless is TRUE?  
+a.  Triple Bottom Line analysis should be applied to the Temporary Emergency Cold 
+Weather Protection for the Homeless to demonstrate the sustainability of the 
+design.  
+
+b.  Triple Bottom Line analysis does not need to be applied to the Temporary 
+
+Emergency Cold Weather Protection for the Homeless because the design has no 
+environmental impacts. 
+
+c.  Triple Bottom Line analysis cannot be applied to the Temporary Emergency Cold 
+Weather Protection for the Homeless because it is not possible to quantify the 
+social benefits of the design.  
+
+d.  Triple Bottom Line analysis must be applied to the Temporary Emergency Cold 
+
+Weather Protection for the Homeless otherwise the client and the local community 
+will not understand the benefits of the design. 
+
+7. 
+
+The City of Toronto’s Municipal Licensing and Standards department is responsible for 
+issuing licenses for a range of businesses, such as food trucks, nightclubs, and retail 
+stores, and for enforcing the City’s by-laws to ensure that the businesses are complying 
+with them. Which of the following statements about City of Toronto by-laws is FALSE?  
+a.  By-laws are true laws, so Toronto businesses must comply with them. 
+b.  If a by-law conflicts with a government of Canada regulation, the regulation takes 
+
+precedence.  
+
+c.  John Tory is the Mayor of Toronto. 
+d.  Toronto’s by-laws apply throughout Ontario. 
+
+Page 3 of 18 
+
+ 
+ 
+8. 
+
+The APS111 teaching team, who jointly created this exam, consisted of Professors 
+Weiss (Expressive), O’Brien (Analytical), and Bazylak (Amiable). Their respective 
+preferred leadership styles are included in brackets. To create an effective team 
+dynamic: 
+a.  One team member should flex beyond their natural preferences to undertake an 
+
+organizational role (driver). 
+
+b.  Professors O’Brien and Bazylak should let Professor Weiss run the team. 
+
+Expressive leaders are creative and therefore create the best team dynamic. 
+c.  Professor Bazylak, as the Amiable leader, should ensure that team conflict is 
+
+avoided. 
+
+d.  All team meetings should be moved online to ensure buy-in from all team members 
+
+at team meetings.  
+
+9.  Chlorofluorocarbons, also known as CFCs, were invented in 1928 by a mechanical 
+
+engineer as an inflammable and non-toxic refrigerant. CFCs proved to be so versatile, 
+they were produced in very large quantities and used in many applications. However, in 
+1974, scientists discovered that CFCs were depleting the ozone layer. To prevent 
+further degradation to the ozone layer, countries around the world voluntarily adopted 
+the Montreal Protocol and agreed to stop producing and using CFCs, and to conduct 
+research to find alternatives to CFCs. Which term best describes the adoption of the 
+Montreal Protocol and the agreement by countries to stop using CFCs? 
+a.  Impact on Society. 
+b.  Industrial ecology. 
+c.  Legislation. 
+d.  Recycling. 
+
+10.  Which statement about break even analysis and payback period is TRUE? 
+
+a.  Break even analysis is based on time, and payback period is based on quantity. 
+b.  Payback period cannot be applied to government projects. 
+c.  Both break even analysis and payback period are based on analysis of profit. 
+d.  None of the above.  
+
+Q11 - 22 pertain to Case Study #1: Autonomous Vehicles located in Appendix A. 
+
+11.  Driving a motor vehicle while the driver is not sitting in the driver seat is currently 
+
+prohibited under Subsection 3(6) of Ontario Regulation 455/07 of the Highway Traffic 
+Act (HTA). Given that this technology is evolving, Ontario’s test program requires that a 
+driver be in the autonomous vehicle that is being tested in order to be able to take 
+control over driving the vehicle in case an unexpected event occurs. By including 
+Subsection 3(6) in the Regulation the Ontario provincial government: 
+a.  Balances people, planet, profit. 
+b.  Ensures society operates in a safe and orderly manner. 
+c.  Imposes an undue financial burden on car manufacturers. 
+d.  Will lose the next election. 
+
+Page 4 of 18 
+
+ 
+ 
+ 
+ 
+ 
+12.  Which of the following statements about the use of autonomous vehicles to provide 
+
+increased mobility for the young, elderly, and the disabled is TRUE? 
+a.  Wheel Trans would need to hire more drivers to accommodate young and elderly 
+
+users. 
+
+b.  Provides an unintended social benefit. 
+c.  Promotes sustainability. 
+d.  Could increase insurance premiums for autonomous vehicle owners because the 
+
+young, elderly and disabled users would not be able to take over driving the vehicle 
+in case an unexpected event occurs. 
+
+13.  According to the Ontario Ministry of Transportation, in 2013, the transportation sector 
+
+was the largest source of volatile organic emissions and nitrogen oxide emissions, both 
+of which have been linked to climate change. Autonomous vehicles have the potential 
+to make the movement of vehicles more efficient and this could lead to an overall 
+reduction in traffic congestion and fossil fuel consumption. As a result, the use of 
+autonomous vehicles:  
+a.  Will require special Legislation to protect the public. 
+b.  Promotes biodiversity because the autonomous vehicles produce an environmental 
+
+benefit. 
+
+c.  May encourage a change from fossil fuels to other, renewable sources of energy. 
+d.  Could contribute to a reduction in emissions of the pollutants that are contributing 
+
+to climate change. 
+
+14.  Honda’s new Civic LX Sedan can now be purchased with the option of full autonomous 
+driving capability. In order to be able to offer the option in the United States, Honda was 
+required to demonstrate that the autonomous driving features meet the standards set 
+by the International Organization for Standardization (ISO), specifically ISO 26262, 
+which is concerned with preventing the incorrect functioning of an electronic system 
+that could impact on the overall safety of the vehicle. Honda is now importing the Civic 
+LX Sedan into Canada. The purchase price of the Civic LX Sedan makes it attractive to 
+first time car buyers. For car buyers in Toronto, which of the following statements is 
+TRUE?  
+a.  Toronto buyers will not be able to purchase the Civic LX Sedan because the 
+government of Ontario is responsible for importing products into the country. 
+b.  Too much government control over goods imported into Canada is having a 
+
+negative impact on the economy. 
+
+c.  If Toronto buyers rely on the ISO certification of the Civic LX Sedan with full 
+
+autonomous driving capability, then the Ontario government no longer needs to 
+complete the 10-year test program. 
+
+d.  By meeting the ISO 26262 standard, Honda provides Toronto buyers with quality 
+assurance that the electronic system of the Civic LX Sedan functions correctly. 
+
+Page 5 of 18 
+
+ 
+ 
+ 
+ 
+15.  Tesla Motors Incorporated (Tesla) is a competitor of Honda Corporation. Tesla makes 
+
+electric cars and has started to equip its Model S with full self-driving capabilities. Tesla 
+has hired Panasonic Corporation to produce the lithium-ion batteries, which are the 
+preferred choice for hybrid and electric vehicles. Panasonic intends to build a factory to 
+manufacture the automotive lithium-ion battery in China, as a joint venture with a 
+Chinese company. The factory will be built in the northeastern city of Dalian, Liaoning 
+Province, at an estimated cost of 50 billion yen ($412 million, in U.S. dollars), and 
+should be fully operational by 2017. Manufacturing the batteries at the new factory will 
+incur a number of different types of costs. Which one of the following statements about 
+the costs is TRUE? 
+a.  Rent and taxes paid for the manufacturing facility are variable costs. 
+b.  The cost of the lithium salt used to manufacture the batteries represents a fixed 
+
+operating cost. 
+
+c.  The cost to build the factory is a one-time capital cost. 
+d.  Worker’s hourly wages are not included in the costs because the Chinese company 
+
+will pay the wages. 
+
+16.  Tesla Motors Incorporated (Tesla) has hired you as a design engineer to design Tesla’s 
+first generation of autonomous vehicle. Tesla has instructed you to base your design on 
+the combination of control systems that will result in the lowest cost and least 
+environmental impact. You and your team initially developed a very large number of 
+options based on different combinations of radar sensors, video cameras and LIDAR. 
+Through various techniques and analyses, you and your team reduced the number of 
+options to 10. You and your team must now decide on a quick decision-making method 
+to further eliminate options. Which of the following statements best describes what you 
+and your team will choose? 
+a.  Multi-voting should be used because it is simple and can be applied to a very large 
+
+number of options. 
+
+b.  A Graphic Decision Chart should be used because it works well if there are two 
+
+objectives. 
+
+c.  The Pugh method should be used because it works best when applied against an 
+
+existing technology that has a standard set of goals. 
+
+d.  There are no methods that can be applied to autonomous vehicles because Tesla is 
+
+not taking social aspects into consideration as an objective for the design. 
+
+17.  During a meeting with your design team, one of the team members describes ISO2575, 
+
+a standard that specifies the symbols for controls and indicators on vehicle 
+dashboards. Which of the following statements about standards is TRUE? 
+a.  Standards can rely on or reference other standards. 
+b.  All standards are written in SI units, which is a global requirement. 
+c.  Your design team must reference and use ISO2575 in requirements. 
+d.  Regulations and standards have the same enforcement priority. 
+
+Page 6 of 18 
+
+ 
+ 
+ 
+18.  Your design team is evaluating responses to an RFP on behalf of Honda Corporation. 
+The RFP is for a project to design a new autonomous vehicle prototype. Honda 
+Corporation had the following objectives for the interior space of the prototype: (i) 
+enhance occupant experience, (ii) facilitate communication between occupants and the 
+vehicle control systems, and (iii) promote the Honda Corporation to potential vehicle 
+buyers. In which section of the submission would you expect to see references to the 
+objectives?  
+a.  Project Requirements. 
+b.  Alternative Designs. 
+c.  Proposed Conceptual Design. 
+d.  All of the above.  
+
+19.  As a design engineer working on a project for Honda Corporation, which of the 
+
+following statements is TRUE? 
+a.  You do not consider Honda Corporation to be a stakeholder because you know 
+
+Honda’s interests and influence on the project. 
+
+b.  You consider Honda Corporation to be a stakeholder because Honda pays your 
+
+salary.  
+
+c.  You do not consider Honda Corporation to be a stakeholder because Honda is a 
+
+private company. 
+
+d.  You consider Honda Corporation to be a stakeholder because Honda has told you 
+
+about its interest and influence on the project. 
+
+20.  You are a licensed professional engineer working on Tesla Motor Corporation’s 
+
+proprietary LIDAR system. Your 2T0 classmate just got a job at a start-up company 
+that is working on a new type of LIDAR system, and brags to you about making 
+$20,000 more a year than you. Your classmate tells you about another job opening at 
+the start-up company: all you need to do to be hired is to explain Tesla’s LIDAR system 
+during the job interview. As a licensed engineer, you would not do this because: 
+a.  Engineering is a closed profession.  
+b.  You are bound by the Code of Ethics. 
+c.  You are competent. 
+d.  You do not want to be labelled as a “Whistle-Blower”. 
+
+21.  The Ontario Ministry of Transportation has identified three potential outcomes related to 
+autonomous vehicles, namely: (1) fewer traffic collisions through improved collision 
+avoidance and reduced driver error, (2) reduced traffic congestion, and (3) 
+convenience, time savings and lower stress for drivers and commuters. These potential 
+outcomes are best described as:  
+a.  Economic. 
+b.  Environmental. 
+c.  Social. 
+d.  Sustainable. 
+
+Page 7 of 18 
+
+ 
+ 
+ 
+ 
+22.  Honda Corporation recently built a new manufacturing facility in Tillsonburg, Ontario, 
+
+where many other, diverse manufacturing facilities are located. The new Honda facility 
+will be part of an industrial symbiosis (industrial ecology). However, the Ontario 
+government has just announced new regulations that require companies to recycle 
+their old containers and packaging materials. Should Honda Corporation be concerned 
+about the new regulations?  
+a.  No, because a guiding principle of industrial ecology is that most inputs should be 
+
+obtained through recycling. 
+
+b.  No, because industrial ecology cannot be regulated.  
+c.  No, because Honda will send its old containers and packaging materials to landfill. 
+d.  Yes, because other companies in the industrial symbiosis might move to Toronto. 
+
+End of questions pertaining to Case Study #1: Autonomous Vehicles located in 
+Appendix A. 
+
+Q23 - 34 pertain to Case Study #2: Colonizing Mars located in Appendix B. 
+
+23.  Which of the following statements is TRUE about the economic interest that NASA and 
+
+SpaceX each have in colonizing Mars, as measured by payback period? 
+a.  Both NASA and SpaceX are interested in the longest payback period. 
+b.  Both NASA and SpaceX are interested in the shortest payback period.  
+c.  NASA is interested in the longest payback period and SpaceX is interested in the 
+
+shortest payback period. 
+
+d.  Payback period does not apply to NASA because it is funded by the government of 
+
+the United States.  
+
+24.  What statement best describes the findings of the research group that recently 
+
+completed the study of vegetables grown in a soil that mimics the soil on Mars?  
+a.  Biomagnification does not apply to heavy metals because they are inorganic. 
+b.  Biomagnification of heavy metals will not occur in people who consume vegetables 
+
+grown in soil from Mars. 
+
+c.  Biomagnification will be deactivated due to radiation. 
+d.  The study did not produce enough information to make a conclusion about 
+
+biomagnification. 
+
+25.  SpaceX has stated that it would like to lower the retail price of a trip into space to 
+
+$100,000 per person. If SpaceX is able to reduce the variable cost per person per flight 
+to $96,000 and the annual fixed costs for all flights to $8,000,000, what is the minimum 
+number of persons required for SpaceX to break even?  
+a.  1,200 
+b.  1,800. 
+c.  2,000 
+d.  2,400. 
+
+Page 8 of 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+26.  SpaceX has indicated that transportation costs can be lowered to $200,000 per person 
+by emphasizing reusability in the design of its spacecraft. Table 1 shows three different 
+sets of values for the variable cost per person and annual fixed costs to transport 
+people into space. You are the design engineer responsible for the options analysis, 
+and must present the most profitable option to the CEO of SpaceX. Which option?  
+a.  Option A. 
+b.  Option B. 
+c.  Option C. 
+d.  There is not enough information to choose among the options. 
+
+Table 1 for Question 26. 
+
+Values for Each Option 
+
+Number of 
+Persons Per 
+Flight 
+200 
+180 
+240 
+
+Variable Cost per 
+Person per Flight 
+$150,000 
+$120,000 
+$100,000 
+
+Annual Fixed 
+Costs for All 
+Flights in the Year 
+$10,000,000 
+$12,000,000 
+$25,000,000 
+
+Option 
+A 
+B 
+C 
+
+27.  As a design engineer for NASA, you have been evaluating different types of rocket 
+
+fuels. Your team leader has just given you economic news from the World Bank, which 
+states that the global rate of inflation (as measured by the Consumer Price Index, or 
+CPI, in Canada) has remained the same for the past year. Which statement is TRUE? 
+a.  Inflation is a macroeconomic factor that can affect fuel prices. 
+b.  Inflation is a microeconomic factor that can affect fuel prices. 
+c.  Inflation is a macroeconomic factor, but it cannot affect fuel prices. 
+d.  Inflation is a microeconomic factor, but it cannot affect fuel prices. 
+
+28.  Every year companies spend millions of dollars to dispose of billions of kilograms of 
+
+chicken feathers, mainly by burning them or burying them in landfills. NASA has been 
+researching fuel storage systems for use on its first manned mission to Mars and has 
+found that carbonized chicken feathers are a much more economical alternative. When 
+the chicken feathers are heat treated by controlled pyrolysis, hollow carbon tubes are 
+formed that have the same properties (e.g., very large surface area within a compact 
+volume) as nanotubes. The heating of carbonized chicken feathers to create hollow 
+carbon tubes is an example of which of the following?  
+a.  Reducing. 
+b.  Reusing. 
+c.  Recycling. 
+d.  All of the above. 
+
+<< More questions on the next page >> 
+
+Page 9 of 18 
+
+ 
+ 
+ 
+ 
+ 
+29.  NASA analyzed three different types of landing mechanisms using the Pugh Method. 
+The results are shown in Table 2. Based on the results, which of the following 
+statements is TRUE?  
+a.  The Strut Rear Landing Gear is the best. 
+b.  The Standard Landing Gear is the best. 
+c.  The Retractable Landing Gear is the best because it scored highest on Safety. 
+d.  The Retractable Landing Gear and the Detachable Landing Gear are the best 
+
+because the scores are the same. 
+
+Objective 
+
+Cost 
+Operation Time 
+Safety 
+Volumetric Requirements 
+Weight 
+Sum 
+
+Table 2 for Question 29. 
+
+Standard 
+Landing 
+Gear 
+0 
+0 
+0 
+0 
+0 
+0 
+
+Retractable 
+Landing 
+Gear  
+0 
+-1 
++1 
+-1 
+-1 
+-2 
+
+Detachable 
+Landing 
+Gear 
+-1 
+0 
+-1 
+0 
+0 
+-2 
+
+Strut Rear 
+Landing 
+Gear 
+-2 
+-1 
+0 
+-2 
+-1 
+-6 
+
+30.  Using a Weighted Decision Matrix would overcome which of the following 
+
+disadvantages of the Pugh Method?  
+a.  The Pugh Method does not account for the relative importance of each of the 
+
+objectives. 
+
+b.  The Pugh Method is time-consuming and difficult to use. 
+c.  The Pugh Method can only be applied to Objectives. 
+d.  The Pugh Method cannot be applied to space craft. 
+
+31.  SpaceX has announced plans to build a solar-powered factory on Mars that will use the 
+carbon dioxide and water ice in the planet's air and soil, respectively, to generate 
+methane and oxygen. Which of the following best describes the energy source that 
+SpaceX plans to use? 
+a.  Third Party certification. 
+b.  Renewable. 
+c.  Microeconomic. 
+d.  Environmental emissions. 
+
+32.  To design the ideal conditions on Mars for a colony of people, NASA has decided to 
+
+use the latest trends in the field of human-centered design, which increasingly involves 
+taking into account which of the following as part of the design process?  
+a.  The stakeholder’s interests. 
+b.  The service environment on Mars. 
+c.  The colonist’s physical measurements, such as anthropometric data. 
+d.  The colonist’s emotional needs. 
+
+Page 10 of 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33.  NASA is developing a habitat to be built on Mars to protect the first colony of humans 
+
+from the harsh atmosphere and to simulate gravitational and other conditions similar to 
+those found on Earth. NASA is using a honeycomb structure, as is found in beehives. 
+This is an example of which of the following?  
+a.  Resilience. 
+b.  Natural Environment. 
+c.  Biomimicry. 
+d.  Adaptive Capacity. 
+
+34.  Operation of the habitat that NASA builds on Mars, will involve releasing wastes, in the 
+form of air and solid waste emissions, into the Martian atmosphere. NASA does not 
+want to contribute any unnecessary pollution to the cosmos, so will install technologies 
+to treat the emissions after they have been created. By so doing, NASA will be 
+practicing:  
+a.  Pollution Prevention. 
+b.  Pollution Control. 
+c.  Due Diligence. 
+d.  Bioaccumulation. 
+
+End of questions pertaining to Case Study #2: Colonizing Mars located in Appendix B. 
+
+End of multiple-choice questions. 
+
+<<Long-answer questions start on the next page>> 
+
+Page 11 of 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 2:  
+
+Long Answer Questions (40%)  
+
+Questions 35 to 37 are based on Case Study #3: RFP for a Personal Data Management 
+Assistant, located in Appendix C. 
+
+INSTRUCTIONS: This section requires 3 written answers. Use an exam booklet, and write in 
+your name, student number, course, and date of examination on the booklet’s cover page. 
+You may use as many pages as you need for your preliminary work, but the final answers 
+must be no more than four (4) pages single-spaced or eight (8) pages double spaced. 
+Clearly indicate the final copy to be graded by writing “Final Copy” at the start of it. Use full 
+sentences and paragraphs and bullet lists where appropriate. 
+
+This section of the exam evaluates your ability to 
+
+•  Read, understand, and analyse engineering-related material under time pressure 
+•  Communicate in clear, concise, well-organized sentences and paragraphs with minimal 
+
+error 
+
+•  Structure a logical argument, making clear claims and supporting them with the evidence 
+
+currently available to you 
+
+•  Recognize the kinds of information you would need, moving forward, to validate and 
+better support your claims and generate specific questions to help you find that 
+information 
+
+35.  Based on Case Study 3: RFP for a Personal Data Management Assistant, located in 
+
+Appendix C, in paragraph form (one or more paragraphs) write a concise Problem 
+Statement in your own words. You may, if you wish, add a brief introduction, identifying 
+the client. DO NOT COPY SENTENCES WORD-FOR-WORD FROM THE CASE 
+STUDY IN YOUR PROBLEM STATEMENT. YOU WILL RECEIVE NO MARKS FOR 
+MATERIAL COPIED WORD-FOR-WORD FROM THE CASE STUDY. (20 marks) 
+
+36.  Based on Case Study 3: RFP for a Personal Data Management Assistant located in 
+
+Appendix C, generate Functions, Objectives and Constraints. Utilize course tools such 
+as Functional Basis and Functional Decomposition. In total, you should have about 10 
+items, whether they are Primary Functions, Secondary Functions, Unintended 
+Functions, Objectives or Constraints. Treat this like a section of a design document 
+with a section introduction and sub-sections. Introduce each of the sub-sections (e.g. 
+Functions, Objectives, Constraints) with a few sentences that help the reader 
+understand their nature and significance. (15 marks) 
+
+37. 
+
+Identify five key research questions you would want to answer in order to check the 
+validity of your claims and to develop the three top objectives further. These are 
+questions to guide your personal research, NOT questions for the client. (Don’t worry 
+about whether the questions are open or closed.) (5 marks) 
+
+End of all questions for this exam. 
+
+Page 12 of 18 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+You may remove these appendices. 
+
+Appendix A: Case Study #1: Autonomous Vehicles  
+
+Autonomous vehicles, also known as driverless vehicles, are capable of travelling between 
+destinations without human operators. Various predictions forecast that by 2030 up to 15 
+percent of new cars in North America could be fully autonomous. [1]  
+
+Source: http://media.caranddriver.com/images/media/51/google-is-my-co-pilot-what-can-go-wrong-inline-1-photo-469797-s-original.jpg 
+
+Autonomous vehicles are equipped with various sensors that work in conjunction with each 
+other to control a driverless car by detecting its surroundings:  
+•  Radar sensors monitor the position of vehicles nearby.  
+•  Video cameras interpret traffic lights and road signs, and detect pedestrians and other 
+
+obstacles.  
+
+•  LIDAR, which stands for Light Detection and Ranging, is a remote sensing method 
+
+that uses light in the form of a pulsed laser to measure distances and is used to detect 
+the edges of roads and lane markings. 
+
+Estimates of the costs for the various components required to retrofit a vehicle to become 
+autonomous could add up to $10,000 to the base cost of the vehicle. However, in early 2016, 
+Honda announced that its new Civic LX Sedan could be purchased with full autonomous 
+driving capability for only $20,440 (U.S. dollars) [2]. This is only $1,423 (U.S. dollars) more 
+than the average price for a new Civic LX Sedan without autonomous driving capability. [3] 
+
+A 2016 research report by Rand Corporation found autonomous vehicles offer the possibility 
+of significant benefits: fewer vehicle crashes; more efficient traffic flow; less traffic 
+congestion; lower fuel consumption; less pollution; and, increased mobility for the young, the 
+elderly, and the disabled. [4] The same research report described drawbacks, including the 
+potential loss of occupations and economies based on public transit, vehicle repair, and 
+insurance. 
+
+On January 1, 2016, the Ontario provincial government began allowing the testing of 
+autonomous vehicles on Ontario's roads. The testing period will last 10 years. Ontario is the 
+first jurisdiction in Canada to allow autonomous vehicles on its roads. [5] In the United 
+States, California, Michigan and Nevada have passed detailed legislation that allows the 
+operation of autonomous vehicles, but currently allow them on public roads for testing 
+purposes only. [6] 
+
+Page 13 of 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References 
+
+Note that this reference section is intended to model proper referencing 
+techniques, but you are NOT expected to read all these primary sources. All 
+information required for the final exam is included in the case study.  
+
+References 
+[1] City of Toronto (2016, May). “Preparing the City of Toronto for Autonomous Vehicles”. 
+Decision of the Public Works and Infrastructure Committee. [Online] Available: 
+http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.PW13.14 
+[2] Zillman, Claire (March, 2016). “You Can Buy This Self-Driving Car for $20,000” Fortune. 
+[Online] Available: http://fortune.com/2016/03/14/self-driving-car-honda/ 
+[3] “2016 Honda Civic Sedan Pricing”. [Online] Available: 
+http://www.edmunds.com/honda/civic/2016/sedan/ 
+[4] Anderson, James M., et al. (2016). Autonomous Vehicles – A Guide for Policy Makers. 
+RAND Corporation. [Online] Available: 
+http://www.rand.org/content/dam/rand/pubs/research_reports/RR400/RR443-
+2/RAND_RR443-2.pdf 
+[5] Ontario Ministry of Transportation (2016). “Automated Vehicles - Frequently Asked 
+Questions”. [Online] Available: http://www.mto.gov.on.ca/english/vehicles/automated-
+vehicles-faq.shtml#what-levels-of-automation 
+[6] Reynolds, Michael W., and Jason Orr (2016, July). “A State-By-State Guide to Driverless 
+Car Regulations”. Law360. [Online] Available: http://www.law360.com/articles/819698/a-
+state-by-state-guide-to-driverless-car-regulations 
+
+Page 14 of 18 
+
+ 
+ 
+ 
+ 
+ 
+Appendix B: Case Study #2: Colonizing Mars  
+
+In October, 2015, the National Aeronautics and Space Administration (NASA), an agency 
+funded by the government of the United States, released a plan, called “Journey to Mars – 
+Pioneering Next Steps in Space Exploration” [1]. The plan explains how NASA will extend 
+human presence deeper into the solar system by sending people to Mars.  
+
+NASA has developed a resilient approach for implementing the plan, elements of which are 
+presented in Table 1. 
+
+Table 1. Features of NASA’s Resilient Approach for Implementing the Plan directly from [1, 
+p.12] 
+
+Logistics 
+
+Modularity 
+
+Design to minimize the number of systems, use them multiple times, 
+refresh instead of replace, and maintain with local resources to enable 
+self-sufficient missions 
+Standardize for flexibility, simple interfaces to enhance complex 
+subsystems and components 
+
+Commonality  Develop systems that serve multiple purposes across the campaign at 
+
+many destinations 
+
+Extensibility  Develop initial hardware with paths for enhanced applications 
+Affordability  Optimize system development across a campaign, not a mission to 
+
+minimize development costs 
+
+NASA acknowledges there are many challenges to colonizing Mars and has categorized 
+them into 3 areas: (1) transportation to and from Mars; (2) systems and resources to support 
+colonization; and, (3) long term health and well-being of the people who will be living and 
+working on Mars [1]. 
+
+Some researchers and scientists have speculated that there could be a colony of people on 
+Mars by 2050. [2] However, using today’s technology, the transportation cost for a trip to 
+Mars has been estimated at $10 billion per person. [3] To help overcome challenges and to 
+reduce the high cost of transportation to and from Mars, NASA is working with SpaceX, a 
+private sector company. SpaceX designs, manufactures and launches advanced rockets and 
+spacecraft, and, according to its website, is the only private company ever to return a 
+spacecraft from low-Earth orbit, which it first accomplished in December 2010. [4] Since 
+then, SpaceX’s Dragon spacecraft has been used to deliver cargo to and from the 
+International Space Station numerous times, providing regular cargo resupply missions for 
+NASA. SpaceX emphasizes reusability in its designs, and believes the cost for transportation 
+can be lowered to less than $200,000 per person, and ultimately to less than $100,000. [3] 
+
+Supporting colonization requires resources, including food. Rather than bringing resources 
+from the Earth to Mars, engineers and researchers are examining ways that resources on 
+Mars could be used instead. One research group recently completed a study that found 
+vegetables, specifically, radishes, peas, rye, and tomatoes, grown in a soil that mimics the 
+
+Page 15 of 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+soil on Mars are safe for humans to eat. [5] The researchers used the concentrations of 
+heavy metals in the vegetables as the indicator of safety. The researchers detected no 
+dangerous levels of aluminium, copper, iron, manganese, zinc, arsenic, cadmium, chrome, 
+nickel or lead in the vegetables that were grown, and, thus, concluded that the vegetables 
+were safe to eat. 
+
+Exposure to radiation is of significant concern to NASA because of its potential long term 
+effects on health and safety. According to space scientists, people living and working on 
+Mars would be exposed to high-energy particles, including infrequent, but potentially deadly, 
+solar particle events, and constant exposure to galactic cosmic rays. These high-energy 
+particles can reduce immune response, and increase cancer risk. NASA’s Human Research 
+Program is developing methods and technologies to protect, mitigate, and treat the effects of 
+radiation. [1] 
+
+References 
+
+Note that this reference section is intended to model proper referencing 
+techniques, but you are NOT expected to read all these primary sources. All 
+information required for the final exam is included in the case study.  
+
+References 
+[1] National Aeronautics and Space Administration. (2015, October). NASA’s Journey to 
+Mars: Pioneering Next Steps in Space Exploration [Online]. Available: 
+https://www.nasa.gov/sites/default/files/atoms/files/journey-to-mars-next-steps-
+20151008_508.pdf  
+[2] Reilly, Katie (2013, June). “Majority of Americans expect NASA astronauts to land on 
+Mars by 2050”. Pew Research Center. [Online]. Available: http://www.pewresearch.org/fact-
+tank/2013/06/21/majority-of-americans-expect-nasa-astronauts-to-land-on-mars-by-2050/ 
+[3] Wall, Mike (2016, September). “SpaceX's Elon Musk Unveils Interplanetary Spaceship to 
+Colonize Mars”. Space.com. [Online] Available: http://www.space.com/34210-elon-musk-
+unveils-spacex-mars-colony-ship.html 
+[4] SpaceX.com (2016). [Online] Available: http://www.spacex.com/about 
+[5] Wamelink, GWW (Wieger), et al. (2016, July). “The Martian becomes reality: at least four 
+crops grown on simulated Mars soil are edible.” Wageningen University and Research. 
+[Online] Available: http://www.wur.nl/en/newsarticle/The-Martian-becomes-reality-at-least-
+four-crops-grown-on-simulated-Mars-soil-are-edible.htm 
+
+Page 16 of 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix C: Case Study #3: RFP for a Personal Data Management Assistant  
+
+Focalize Inc.  
+
+Request for Proposals (RFP) 
+
+For a Personal Data Management Assistant 
+
+My name is ESPA and I use 
+Artificial Intelligence to brief you on 
+what you need to know about what is 
+going on in your world today. 
+
+[1] Image on Public Domain, free for commercial use 
+
+Humans today have exceptional means to understand the world around them, but they are, in Arianna 
+Huffington’s words, “Drowning in data and starved for wisdom…We are more at the mercy of events and the 
+accelerated change that is happening everywhere.” [2] World leaders have teams that search through 
+newspaper articles, analyse reports, and provide condensed briefings that enable leaders to make better 
+decisions. But what do ordinary people have? Between news reports, emails, texts from family and friends, 
+social network postings, blogs, we can be overwhelmed not knowing what to read, what to ignore and even 
+where to look for the most reliable and intelligent material. The problem has been made even worse by the 
+recent emergence of “fake news.” [3] 
+
+Consider, for example, the situation of a first-year university student in first term. The student is in a new 
+school, a new unfamiliar work environment, meeting new people, perhaps far away from home and support 
+network. The student is drowned with messages from the university, faculty, offices within the faculty, 
+courses and their websites, other students on discussion boards, friends and family from home, and social 
+networks, not to mention news reporting on events of concern around the world. How can the student make 
+sense of it all quickly and be able to confidently approach their day? 
+
+Current apps, such as Google Now, Flipboard and even Facebook can be programmed to provide news and 
+updates according to a user’s preferences, but none of these apps actually go into the material and retrieve 
+important highlights, which would make up a useful briefing. And so, for most of us, even with our 
+preferences set, we are left confused and too often taken by surprise by world events that will affect our own 
+personal well-being, our investments and other plans for the future. 
+
+But wouldn’t it be great if you could get up in the morning, click a button and, in a few moments, be provided 
+with a short, personal briefing about what you need to know in order to go through your day in the most 
+effective way possible? Wouldn’t it be great if, at any moment, you could click a button and, within a few 
+moments, be provided with a short, personal briefing on any topic of interest to you? Wouldn’t it be great if 
+you were not only provided with the most important details, according to your own frame of reference, but 
+
+Page 17 of 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+also counter-arguments from the best sources possible? A design for this sort of system or device is what we 
+are looking for, here at Focalize, Inc. 
+
+Therefore, we are inviting proposals for a design for a tool that will provide periodic (daily, hourly or on 
+demand) briefings to an ordinary user. The design should not be dependent on a particular device or platform 
+and must be compatible with as many sources of data as possible. The trade-off between advertising based on 
+personal preferences, allowing for a free system, and another form of monetizing the system should be 
+considered in the proposal. Law enforcement and public security issues must also be taken into account. In 
+addition, language should be considered – should the language of the original material be the language of the 
+briefing or should the system be able to change the language?  
+
+Focalize is an independent company dedicated to helping ordinary people handle the life changing effects of 
+current technology. We are not associated with any government branches; our tools and systems are financed 
+through a combination of user fees and advertising revenues.  
+
+References: 
+
+“Free Image on Pixabay - Robot, Artificial Intelligence.” [Online]. Available: /en/robot-artificial-
+
+L. Mbele. (2016 Nov. 18) "Arianna Huffington: “We're drowning in data’". [Online] BBC News. 
+
+[1] 
+intelligence-woman-507811/. [Accessed: 21-Nov-2016]. 
+[2] 
+Available: http://www.bbc.com/news/business-38027078  
+[3] 
+BBC News. Available: http://www.bbc.com/news/technology-38181158  
+
+J. W. Cellan-Jones and J.W. Rory, (2016 Dec. 2016) “Fake news detector plug-in developed,” [Online] 
+
+Page 18 of 18 
+
+ 
+ 
+

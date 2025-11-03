@@ -1,0 +1,476 @@
+UNIVERSITY OF TORONTO 
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+APS 105 - Computer Fundamentals 
+Final Examination 
+April 24, 2018 
+6:30 p.m. - 9:00 p.m. 
+(150 minutes) 
+Examiners: B. Li, B. Korst, H. Shokrollah-Timorabadi and M. Stumm 
+
+Exam Type A: This is a "closed book" examination; no aids are permitted. 
+
+Calculator Type 4: No calculators or other electronic devices are allowed. 
+
+All questions are to be answered on the examination paper. If the space provided for a question 
+is insufficient, you may use the last page to complete your answer. If you use the last page, 
+please direct the marker to that page and indicate clearly on that page which question(s) you are 
+answering there. 
+
+You must use the C programming language to answer programming questions. You are not re-
+quired write #include directives in your solutions. Except those excluded by specific questions, 
+you may use functions from the math library as necessary. 
+
+The examination has 17 pages, including this one. 
+
+First Name: 
+
+Last Name: 
+
+Student Number: 
+
+MARKS 
+
+1-2 
+
+3-4 
+
+5  6  7  8  9  10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+Total 
+
+/8 
+
+/8 
+
+/4 
+
+/4 
+
+/4 
+
+/4 
+
+/6 
+
+/6 
+
+/6 
+
+/10 
+
+/10 
+
+/10 
+
+/10 
+
+/10 
+
+/100 
+
+Question 1 [4 Marks] 
+
+Assume you have a function declared as: 
+
+void specialSort(Speciallype a[], mt arraySize); 
+
+This function is able to sort an array of elements of type Spec iallype. It takes two parameters: a, 
+a pointer to the array to be sorted, and arraySize, the number of elements in the array. 
+
+Further, assume you have an array specialArray that was declared as follows: 
+
+SpecialType specialArray[1000]; 
+
+Assume that all 1000 elements in this array have been initialized with randomly generated data. 
+Write a single C statement that calls the function specialSort() so that it sorts spec ialArray, the 
+array with 1,000 elements. 
+
+Question 2 [4 Marks] 
+Write a single C statement that generates a random even number in the range of [-150, 1 50] 
+(inclusive), and uses it to declare and initialize an it-type variable randomChoice. 
+
+Question 3 [4 Marks] 
+
+Consider the following declarations: 
+
+typedef struct name f 
+char *fjrstname; 
+char *lastname; 
+
+} Name; 
+
+typedef struct employee 
+
+mt SIN; 
+mt employeeNumber; 
+Name *emplName; 
+
+) Empl; 
+
+Empl employees[10001; 
+
+Assume that all 1000 elements in the employees array have been initialized and none of the pointers 
+are  NULL.  Write a single C statement that declares a character variable c and assigns it the first 
+character of the last name of the second employee in the employees array. 
+
+Question 4 [4 Marks] 
+
+Write a single C statement that declares a variable called intPtrArray, initialized to point to an 
+array of 10 integer pointers that is dynamically allocated. 
+
+3 
+
+Question 5 [4 Marks] 
+Complete the following C program, designed to search for an it-type item, called key, in a linked 
+list, pointed to by head. 
+
+typedef struct node  { 
+
+mt data; 
+struct node *link;  
+
+)  Node; 
+
+Node *search(Node *head, mt key) 
+
+Node *current = root; 
+
+II  insert your code in the line below between the parentheses 
+
+while( 
+
+current = current -> link; 
+
+} 
+return current; 
+
+} 
+
+4 
+
+Question 6 [4 Marks] 
+
+Without using any functions in the standard C library (including all string-related functions), write 
+a C function str ingLength() that takes a string str as its only parameter, and returns the number 
+of characters in the string. If str has a value of NULL, the function should return 0. 
+
+mt  stringLength(char *str)  {. 
+
+} 
+
+Question 7 [4 Marks] 
+
+Evaluate the following relational expressions by circling the right answer. 
+
+'\O I  ==  0 
+
+false 
+
+true 
+
+mt  x  =  10 % 8; 
+(x >  0) && (x % 2  ==  0)  && !false 
+
+false 
+
+true 
+
+- 3  ==  'a 
+
+false 
+
+true 
+
+mt  w  =  rand() % 75  *  2  - 99; 
+(w <  -99)  II (w >  49) 
+
+false 
+
+true 
+
+5 
+
+Question 8 [4 Marks] 
+
+What does the following program output? 
+
+mt  correct(int a)  C 
+
+mt  b; 
+
+if (a ==  0)  C 
+
+b =  0; 
+)  else  C 
+
+b =  a %  2  +  10  *  correct(a / 2); 
+
+} 
+
+return b; 
+
+mt  main(void) 
+mt  number; 
+
+number =  correct(121); 
+printf("The correct value for 121 is: %d\n', correct(121)); 
+return 0; 
+
+) 
+
+Question 9 [6 Marks] 
+
+Consider the following binary search tree: 
+
+This tree may have been created by inserting the elements in the following order: 5, 3, 7,  4, 6. 
+
+Or it may have been created by inserting the elements in the following order: 5, 7, 3, 6, 4. 
+
+But a different tree would have been created by inserting the elements in the following order: 
+5, 4, 6, 7, 3. 
+
+How many different ways can the elements 3,  4, 5, 6, 7) be inserted into a binary tree so that 
+the same tree is created as in the figure above? 
+
+OAF 
+
+Question 10 [6 Marks] 
+
+Identify and correct all compile-time errors you find in the C program below. Compile-time errors 
+are errors - not warnings - that the compiler will report when compiling the program. Each 
+line may or may not contain compile-time errors, and there may be more than one error per line. 
+
+1 #include <stdio.h> 
+2 #include <stdlib.h> 
+
+3 typedef struct node f 
+4 
+mt data; 
+struct node *left, right; 
+5 
+6  } Node; 
+
+7 Node *insert(Node *root, mt item)  [ 
+8 
+9 
+10 
+
+if (root ==  NULL)  [ 
+
+return newNode(item); 
+
+} 
+
+if (item <=  (*root).data) 
+
+insert(root ->  left, item) 
+
+return root; 
+
+11 
+
+12 
+13 
+14  ) 
+
+14 mt main(void)  [ 
+15 
+16 
+
+mt list[] =  [15, 3, 21; 
+Node *root = NULL; 
+
+for (mt i  =  0; i <  13; i +4-)  [ 
+
+root =  insert(root, list[iJ); 
+
+} 
+return 0; 
+
+17 
+18 
+19 
+19 
+20  } 
+
+Please write your answer using the table on the next page. You will be penalized if the errors you 
+have identified are not compile-time errors.. 
+
+F;] 
+
+Line # 
+
+Description of error 
+
+Correction 
+
+Question 11 [6 Marks] 
+
+Write a C function called preamble() that takes two parameters: a string str and an it-type inte-
+ger n. The function will then return a new string that is dynamically allocated, and that contains 
+at most the first n characters in the string str. For example, if str is "Toronto", and n is 3, then the 
+function will return "Tor" (the first three characters in "Toronto"). If str is "Toronto" and n is 8, 
+then the function will return "Toronto". If str is NULL, the function will also return NULL. 
+
+char *preamble(char *str, mt n) 
+
+10 
+
+Question 12 [10 Marks] 
+
+The constant E is defined as a double constant of 2.718281 828459045. 
+
+const double E =  2.718281828459045; 
+
+A first positive integer is called a mirror of a second one if they both contain two digits, and when 
+the two digits in the first integer are flipped, the first integer becomes the second one. For example, 
+81 is a mirror of 18 (and vice versa). 
+
+Implement a function called  firstMirrorinEQ that returns the first two-digit number found in 
+consecutive digits of E whose mirror have appeared earlier in the sequence of digits. You should 
+only consider the first 16 digits of E - 271 8281 828459045.  The function returns 0 if such a mirror 
+pair does not exist in the first 16 consecutive digits of E. Your program must extract the digits from 
+the constant variable E. 
+
+Hint: The firstMirrorinE() function should return 28, since its mirror, 82, has appeared earlier 
+in the sequence of digits. Your function must not simply return 28 without doing any work. It is 
+also incorrect to return 81, because even though its mirror, 18, appeared previously, 81 is not the 
+first in the sequence that can be found. 
+
+Feel free to declare and implement additional functions when needed. 
+
+Please write your solution to the question here and continue on next page: 
+
+mt  firstMirrorinE(void) 
+
+const double E =  2.718281828459045; 
+
+11 
+
+Please continue your solution to Question 12 on this page: 
+
+12 
+
+Question 13 [10 Marks] 
+
+The following C structure is used to define each node in a linked list: 
+
+typedef struct node 
+
+mt  data; 
+struct node *link;  
+
+)  Node; 
+
+Write a C function called printDuplicates that receives a pointer to the first node (head) of a linked 
+list as a parameter. The function should find and print the duplicate integers in the linked list. For 
+example, if the linked list contains the integers 6, 3, 3, 6, 7, 4, then the printDuplicates() 
+function should print: 
+
+6 
+3 
+
+Note: In your solution, you may assume that a given integer occurs at most twice in the linked list. 
+
+void printDuplicates(Node *head) 
+
+) 
+
+13 
+
+Question 14 [10 Marks] 
+
+Consider  the following function that returns the index of a char c in a string  string (i.e., the 
+position of the first c in the string), or returns -1 if c does not occur in string: 
+
+mt  findlndex(char *string, char c) 
+
+mt  n = 0; 
+while (*string 
+
+c && *string ! 
+
+\0') 
+
+string =  string  +  1; 
+
+++fl; 
+
+} 
+if (*string == 
+
+return -1; 
+
+return n; 
+
+11 
+
+Write a C function recursiveFindlndex(char *string, char c) that does not use any loops and 
+yet behaves like the findlndex() function above. Your function may have additional parameters, 
+but at the minimum must include the parameters string and c. 
+
+14 
+
+Question 15 [10 Marks] 
+
+Write a C function called sortOddEvenO that rearranges the order of the elements in an integer 
+array such that all odd numbers are to the left of all even numbers. The function has two parame-
+ters: a pointer to the integer array and an integer specifying the number of elements in the array. 
+The odd numbers can be in any order, as long as they are all to the left of any even number, and 
+the even numbers can be in any order, as long as they are all to the right of any odd number. 
+
+For example, if the elements of the array initially are: 
+14659382 
+then after sortOddEvenO processes the array, the elements may become: 
+13956482 
+
+Note: In your solution, you may not declare or. use another array. 
+
+void sortOddEven(int input[], mt size) 
+
+15 
+
+Question 16 [10 Marks] 
+
+The following C structure is used to define each node in a binary search tree: 
+
+typedef struct node f 
+
+mt  data; 
+struct node *left;  
+struct node *right; 
+
+} Node; 
+
+Write a C function: 
+
+Node *secondLargestNode(Node *root); 
+
+that finds and returns a pointer to the node that contains the second largest  value in the binary 
+search tree. The parameter root is a pointer to the root node of a binary search tree. If the binary 
+search tree is empty or has one node only, the function returns NULL. For example, if the function 
+is called with root pointing to the binary search tree on page 7, it will return a pointer to the node 
+that contains 6. 
+
+Node *secondLargestNode(Node *root) f 
+
+16 
+
+This page has been left blank intentionally. You may use it for answers to any question in this examination. 
+
+17 
+
+

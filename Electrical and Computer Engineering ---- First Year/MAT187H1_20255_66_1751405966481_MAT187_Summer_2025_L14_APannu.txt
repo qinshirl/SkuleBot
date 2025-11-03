@@ -1,0 +1,559 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Non-Homogenous ODE
+
+Consider
+
+ODEs
+
+of
+
+the
+
+form
+
+y by c Flt
+
+Frangterm
+
+non homogenous ODE with
+constant coeff
+
+we
+
+will
+
+consider
+
+the following
+
+forcing
+
+terms
+
+polynomials
+
+exponential
+
+Sin cosine
+
+Combinations
+
+i.e et ros 2t
+
+y = e2x
+
+y →→ →
+
+guess y Ae2
+
+Aea
+
+Ae
+HAE AE
+4A A 1
+
+e x
+
+A
+
+e
+
+is
+
+a
+
+particular
+
+solution
+
+not
+
+general
+
+solution What
+
+are
+
+other
+
+solutions
+
+guess y X yp x Y x
+
+yp x yc x
+y x yp x
+
+ypx Yecx
+
+e
+
+yicxy.cn e
+y c yes ex
+
+y x yc x
+
+0
+
+char poly
+1 0
+
+r
+
+r
+
+1
+
+Yc C e Ca
+
+a
+
+Ye is
+homogenous ODE
+
+solution to
+
+9 y o
+
+complementary
+
+solution
+
+solution
+
+to homogenous
+
+version
+
+of ODE
+
+YCN.be C.et Ge7
+
+general
+
+solution
+
+Method of Undermined Coe!cients
+
+Given
+
+y by cy FCE
+
+a particular solution
+
+yp t
+
+Gregg
+
+eat
+C
+
+Guess
+Aeat
+A
+
+a.EEcAI.Bec
+fat
+
+At3 Bt2
+
+sin wt Acostt Bsinfwt
+asinfort biosit A coscut B sincent
+
+General
+
+solution
+
+to
+
+y t Yp f yet
+
+y by cy Flt
+
+is
+
+Yp Particulal
+Ye solution to
+
+solution
+
+y bytc_
+
+y
+
+g
+
+to
+
+3y → + 2y = x
+so
+
+y →→ →
+find complementary
+9 3y 2 0
+
+find
+
+particulal
+AttB
+
+yp f
+
+solution
+
+0 r 3 2n
+
+r 1
+
+r 2
+
+c et cast
+
+Yet
+solution
+
+AEB
+
+0
+
+2 At B t
+
+3 At B
+3A 2At 2B t
+2B 3A
+
+o
+
+t
+
+o
+
+2B 34 0
+
+B
+
+Yp
+
+t
+
+2At
+2A 1
+AE
+
+General solution YLH
+
+1 t 3c.et.cat
+
+y →→ + y = cos(2x)
+
+complementary
+
+solution
+
+y y 0
+
+r
+
+1 0
+
+Ye t
+
+c cos t
+
+r
+
+i
+Casin t
+
+particular
+
+solution
+
+yp Asin 2 Bros 2
+
+As.at Bcos 2t
+Asin 2 Bcos at
+4Asin 2t 4Bcos 2t Asin 2 Bcos at
+
+cos 2t Osinl2
+
+cos 2t
+
+3Asin 2t 3Bcos 2t
+
+cos 2
+
+A O
+
+B
+
+Yp
+
+COS 2
+
+General solution
+
+ylte frosc2t C.co t
+
+t
+
+GSn t
+
+3y → + 2y = e2x
+
+y →→ →
+
+t
+
+Ae
+
+3 Aea 2 Aem e
+e
+
+4Ae GAex 2Ae
+
+o
+
+e
+
+is
+
+Problem e
+
+no solution
+
+solution
+
+to
+
+homogenous equation
+
+LHS will equal zero
+
+If
+
+forcing term is
+
+solution
+
+to
+
+homogenous
+
+equation
+
+then guess
+
+always solve
+
+won't work
+
+complementary
+
+solution first
+
+complementfz.FI sr
+
+1 r 2you
+
+cie
+
+cat
+
+Particularguesons
+
+Axe
+
+Are
+3 Axe
+
+add an
+
+2 Axe
+
+ex
+
+3A 2 e
+
+x
+
+e
+
+2Axe x
+
+e
+
+e
+
+A 2xe
+A 4xe 2e 2e
+
+41 21
+
+3A 2 e
+
+e
+
+2Axe
+
+ex
+
+ie
+
+2 7 e
+
+Ae
+
+e
+
+A
+
+yp
+
+xewyct
+C.e
+c.CI
+
+xe
+
+3y → + 2y = ex cos(x)
+
+y →→ →
+
+complpgtyw.SI
+
+yec.e Get
+
+Particulgguestc
+
+e Acosta BS.nu
+
+y x
+yp x
+
+e
+
+e
+
+A B cos x
+
+B A sin x
+
+2B cos x 2ASin x
+
+Yp 3yp 2yp e cos x
+e 2Bcos x 2A sin x
+
+e
+
+21331 21cos
+
+te
+
+3e A B cos x
+
+B A sin x
+
+2e Acos x B sin x
+213sin x
+2 1
+
+ecosc
+
+e cosa
+
+A B O
+B A 1
+
+A
+
+B
+
+cos x
+
+sin x
+
+sin x1 Ce2
+
+fcos6
+
+Ge
+
+Yp e
+
+ycx7net
+
+y by cy Fct
+
+sin wx
+
+Asin a Broad Axs
+
+eﬁ.ﬁ
+
+i
+
+yi
+
+y swy
+
+ax bx c
+
+e sin wx
+
+et
+
+bx c
+
+AxtBx C
+
+ex Asin wx Broswx
+et Ax Bx c
+
+y →→ + 4y = sin(x)
+
+Complementary
+
+ye x acos 2x Casin 2x
+
+x Acos x Bsin x
+
+guess Yp
+y →→ + 4y = sin(2x)
+
+Yp x Axcos 2x Basin 2x
+
+y →→ + 4y = x 2 + 1
+
+Yp x Ax Bx C
+
+y →→ + 4y = x 2 sin(x)
+
+Yp x
+
+Ax Bx C Dcos x
+
+Esn x
+
+y →→ + 4y = x 2ex sin(x)
+Yp ly
+
+Axa Bx C
+
+ex
+
+Ecos x
+
+Fsin x
+
+

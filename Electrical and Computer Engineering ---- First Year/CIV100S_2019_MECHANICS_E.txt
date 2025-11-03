@@ -1,0 +1,207 @@
+Page 1  ()1'7 
+
+UNIVERSITY OF TORONTO 
+Faculty ol  Applied Science and  Engineering 
+('IVlOOS - 1ECIIANICS 
+
+Final Examination 
+
+22"' April 2019 
+
+Examiner: Prof. Michael Scica 
+
+Time allowed: 2-¼ hours 
+
+FAMILY NAME: 
+
+( Please 1r1  nl C lem .1\  
+
+GIVEN NA\IE(S): 
+
+STt1)ENT Nt\IlER: 
+
+CIRCLE THE \1OI)EL NtMUER OF YOUR CALCULATOR: 
+
+CASIO)  FX991 
+
+SHARP EL-520 
+
+NOTES:  1. Ensure that you have all sheets of the examination paper. Page 7 is blank. 
+
+Ans er all five q uestions. The value of the questions is indicated below. 
+If you need more space for a question, please misc the hack of the preceding q uestion. In 
+all cases, please indicate clearly where your calculations are continued. 
+The only calculators permissible are listed above. Please circle your u1O(lCl. 
+This is a closed-book exa m ination. No other paper will  he allowed on  the desk. 
+Do not remove the staple. 
+
+1)0 NOT WRITE IN THIS SPACE. 
+
+2 
+
+3 
+
+4 
+
+TOTAL 
+
+/12 
+
+12 
+
+/12 
+
+12 
+
+/12 
+
+/60 
+
+NA\IF: 
+
+lage 2 of",  
+
+1. I-or the v ood truss ill List rated belov. supported b\ a pin at A and a cr1 ical cable ;It /: 
+
+coin pression.  if' the magnitude of the foice 1  200 k\ 
+
+(a) Determine the ftwces in members (1). (7. 1)1 and 1. and indicate if' the' are in tension or 
+( h) Mciii her El has a squaie solid cross-section. If the load fictor fr a\ial tension  is 1.9  and the f'ai nrc 
+stress for timber  is  40 MN. determine the reqn red si/c. a. ol the cross-section. Wood sect ions can 
+be cut in 10 mm sue increments. 
+
+(C) \\ hat  is  die actual eloncation of' member El. as des cued? Ihe modulus of' elasticii f'or timber is 
+
+12.0k 10 ,  \lPa, 
+
+6 1)1(k It  3 
+
+- 
+
+NA\1I: 
+
+Page o17 
+
+2. the Ii inued beam A I3C ft made of  cast mu, is supported at A. 13 and  ft and has an internal pin at C.  
+V 0 u  are reqii red to: 
+(a) In the space pros Ided. dra the shear force and bending moment diagrams bar the beam. md cat ing 
+b) Determine the 
+idth of' the identical flanges ot'the heaiii section. /, know ing that the bai lure stress 
+
+the  ' ames at points. 1. B. C  and D. and an\ potential local maxima and minima: 
+bar ca st iron is 14 5  M Pa III tension and 540 NI Pa in compression. Cast iron sections can he 
+manufactured having dimensions in 5  nun increments. I he load factor for flexure is I .75. 
+
+5kN 
+
+bmm 
+
+3kN,:m 
+
+[1 flJ f1TFH 
+
+f'fl  ----.- 
+
+rn  •----------------- 
+
+I.5rn 15m 
+
+Er  H j H 
+
+k\1 
+10mm 
+
+('moss-  Sect  loll of' Beam 
+
+NA N 1 F: 
+
+Pace 4  01' 7 
+
+3. The eiht. II 
+the baN and  the pal le delemi inc the magnitude 01'111C pin reaction harce at  I). 
+
+6 LN. ham-,s from the cable. hich passes o er the pulle\ at  F.  Neglecting the  ina ol 
+
+I 
+
+1.5ni 
+
+1.5rn 
+
+A 
+
+C 
+
+\ 
+
+/ 
+
+B 
+
+/F\ 
+
+I  IJ R=O.4m'\ 
+
+E 
+
+- 
+
+H 
+
+2m- 
+
+2  
+
+ 
+NAME: 
+
+Paj.e 5  of 7 
+
+4. Ile 6-metre !on. light (i.e.  its "eight can be neclecled) gate ABCD retains sca  \  aler ha\ ing a mass 
+densit of I .050 ku/ni  Deterni me the components of' the react ion Forces on  the gate at  the hinge at .4 and 
+the  \ ertical roller support at  It N eglea any potential eiRcts of the marine fliuna and objects. 
+
+C, 
+
+J/ Am 
+
+ 
+5.  Ihe ertical plane contamnl  the nh! t\  cable tnrns 3ft  at the vertical pole (X  '.  hich  is  fixed at the 
+ba'e. at 0.  I  he macn itnde of' hot Ii  tension tiarces.  I, and  T. is 950 N. In order to prevent ]ow--term 
+lean inc of' the pole. '-'n\  \\ ires  AD and 13/:'  are ni  lited. It  the MO Cti\ \\ ires  are adjnsicd so as to carry 
+equal tension forces. 1. Ii ich tocether rednce  the moment at () to tern. deterin inc the macn itude 01,111C 
+horitonta  react ion  ftrce at 0. Also, deterni ne the required mawiilnde of' 1.  Neglect the ma's of' the pole. 
+
+Pace (I  o1-7 
+
+10 
+
+T9=959N 
+
+1(Y 
+
+1.1 
+
+T1 =950N 
+
+30 
+
+- - 
+
+-' 15  -E 
+
+[)i III ells ions: 
+
+(J1  =  9 m 
+OR  =  urn 
+(iC =  13 rn 
+
+(i)D  =  8111 
+GE  =  10  
+
+  
+N A \ I F: 
+
+Page 7 ol 7 
+
+

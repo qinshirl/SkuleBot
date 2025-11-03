@@ -1,0 +1,241 @@
+University of Toronto  
+Edward S. Rogers Sr. Dept. of Electrical & Computer Engineering  
+ECE 110H1 SU (summer) – Electrical Fundamentals – 2016  
+Course Management Form  
+
+Instructor:   Dr. Hamid Timorabadi, P. Eng. 
+Email:   
+Criteria for Emails: 
+
+h.timorabadi@utoronto.ca 
+
+  Subject area of the email should include course name and intention, e.g. 
+
+o  ECE110: Mark Error 
+
+Office Hours: 
+
+  Best time to ask question is after the lectures, or 
+  Wednesdays 11 AM in lecture room. 
+
+Lectures: 
+
+  Wednesdays  
+  Thursdays 
+  Fridays  
+
+Course Description 
+
+9 – 11 AM  
+4:30 - 6:30 PM   
+9 - 11 AM 
+
+BA1210 
+BA1210 
+BA1210 
+
+A  study  of  the  physics  of  electricity  and  magnetism:  Coulomb’s  law,  Gauss’  laws,  Biot-
+Savart’s law, Ampere’s law, Faraday’s law, potentials and energy. An introduction to circuit 
+analysis:  resistive  circuits;  nodal  and  mesh  analyses;  Thevenin  and  Norton  theorems;  first-
+order RC and RL circuits and sinusoidal steady-state analysis of AC circuits.  
+
+Textbook 
+
+Custom print - Electrical Fundamentals: (selected chapters) Fundamentals of Physics by D. 
+Halliday, R. Resnick, J. Walker (10th ed., Wiley, 2014) and Basic Engineering Circuit 
+Analysis by J.D. Irwin, R.M. Nelms (10th ed., Wiley, 2011). 
+- 
+- 
+
+hardcopy text with WileyPLUS  
+              WileyPLUS 
+
+ISBN: 9781119061434 
+ISBN: 9781119060697   
+
+Option 1:   
+Option 2:   
+
+Tutorials  
+  A  weekly  tutorial  will  provide  the  students  with  the  opportunity  to  review  the  material 
+covered  in  lectures,  and  discuss  some  end  of  chapter  problems.    Tutorials  start  on 
+Wednesday May 18.   
+
+Thursdays  
+TUT0101:  TA:  
+
+6:30-8:30 PM 
+Fahimeh Kazempour 
+
+ BA1210 
+
+f.kazempour@mail.utoronto.ca 
+
+Thursdays  
+
+6:30-8:30 PM 
+
+ BA2185 
+
+TUT0102:  TA:   Ali Ramezanikebrya 
+
+aramezani@ece.utoronto.ca 
+
+There will be a quiz during the tutorials as scheduled in the following Table.  
+
+May 26 
+
+June 02 
+
+June 09 
+
+June 16 
+
+Quiz #1 
+
+Quiz #2 
+
+Quiz #3 
+
+Quiz #4 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+Laboratory  
+
+   The  laboratory  sessions  will  be  held  in  the  Instrumentation  Lab  (GB341).  Each  student  is 
+expected to maintain a bound lab book that includes the preparation and documentation of all 
+work  done  in  the  laboratory.  The  lab  book  is  to  be  updated  continually  during  each  lab 
+session  and  to  include  all  measured  data,  tables,  graphs,  and  descriptions  of  relevant 
+measurement techniques, computation, and conclusions.  The lab book will be evaluated by a 
+teaching assistant during each lab session. There are five laboratory sessions starting start on 
+Friday May 20.  During the first lab session, students will have the option of choosing their 
+own lab partners from the same lab section (groups of two students).  
+
+Lab Location: GB341 
+Lab Hours: 11 AM- 1 PM 
+
+TAs: 
+
+  Ali Ramezani-Kebrya: 
+  Sadegh Dadash:   
+  Wanyu Lin: 
+  Fahimeh Kazempour 
+  Wilfred Cho  
+
+aramezani@ece.utoronto.ca 
+sadegh.dadash@mail.utoronto.ca 
+wylin@ece.utoronto.ca 
+f.kazempour@mail.utoronto.ca 
+wilfredcho@gmail.com 
+
+Lab Schedules 
+
+May 20 
+
+May 27 
+
+June 03 
+
+June 10 
+
+June 17 
+
+Introductory Lab 
+
+Equipment Exploration 
+
+Experiment #1 
+
+Electrical Charges 
+
+Experiment #2 
+
+Magnetism and Induction 
+
+Experiment #3 
+
+DC Circuits 
+
+Experiment #4 
+
+AC Measurements 
+
+  Mark Distribution:  
+   Laboratories 
+  Quizzes  
+
+Final Exam 
+Total  
+
+20%  
+30%   
+50% 
+100% 
+
+Quizzes/Final Exam Type 
+
+Type: 
+Calculator:   
+
+A (closed-book) 
+Casio FX-991MS or Sharp EL-520X           
+
+  Missed quizzes or laboratories.  If you miss a test or a laboratory session, consideration will 
+
+be given as follows, provided your petition (submitted online) is approved.  
+ 
+
+If you missed any of the first 4 labs and your petition is approved, then you are provided 
+with a makeup lab.  
+If you miss lab #5 then your average lab mark will be calculated based on the previous 4 
+labs. 
+If  you  miss  a  quiz  and  your  petition  is  approved,  your  average  quiz  mark  will  be 
+calculated based on the other quizzes. 
+If you missed any lab or test without a petition, or your petition is not approved, a zero 
+mark will be recorded for that component. 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

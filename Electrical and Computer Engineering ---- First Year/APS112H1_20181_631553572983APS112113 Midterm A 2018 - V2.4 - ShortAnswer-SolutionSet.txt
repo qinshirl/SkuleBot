@@ -1,0 +1,312 @@
+University of Toronto, Faculty of Applied Science and Engineering 
+APS112 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Instructors: Phil Anderson, Peter Weiss and Elizabeth Edwards 
+Question Booklet #2 – Short-Answer Question Booklet 
+Midterm Examination: March 29, 2018, 6:15 pm - 7:45 pm 
+
+UTOR Email: 
+
+  @mail.utoronto.ca 
+
+Instructions: 
+
+•  This is a 90-minute midterm with a total of 40 questions. 
+• 
+• 
+
+It is multiple choice AND short answer. 
+It is closed book and closed notes. No aids are permitted other than a translation-
+only paper dictionary. 
+
+•  The questions are divided between two separate booklets.  
+
+o  Question Booklet #1 – Multiple Choice Question Booklet 
+o  Question Booklet #2 – Short-Answer Question Booklet 
+
+•  Ensure you have both booklets and a multiple choice answer sheet (scan sheet). 
+•  At the end of exam, hand in short-answer question booklet and multiple choice 
+answer sheet. You don’t have to hand in the multiple choice question booklet. 
+
+This booklet contains 3 short-answer questions, worth 14 marks in total. Short-answers 
+must be answered in the spaces provided in this Short-Answer Question Booklet. This 
+question booklet, with your name and UTOR Email filled in, must be returned with the 
+multiple-choice answer sheet slipped inside. Do not separate any pages. Do not write 
+on the QR code at the top of the pages. We are not looking for long paragraph answers. 
+Use short sentences or bullet points. 
+
+Page 1 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38. (5 MARKS) You are part of a team that has been asked to design a new street light 
+(Figure 6). The client only wants to replace the lighting fixture itself, not the pole on 
+which it is mounted. You have to figure out the maximum weight of the new fixture 
+so that it can be safely installed. On the next page sketch a diagram that you would 
+use to clarify your understanding of the physical system. 
+
+Figure 6: Original street light 
+
+Page 2 of 6 
+
+ 
+ 
+ 
+ 
+Excerpt from Textbook:  
+Thinking like an engineer means thinking verbally, 
+visually, and mathematically. Engineers take a problem 
+from the real world or text form, such as a client 
+statement, and transform it so that they can solve the 
+problem with science and mathematics. To achieve 
+that transformation, they use models whether it is 
+simply to show inputs and outputs or more complicated 
+phenomena. Models are often represented in 
+diagrams, which are essential to engineering thinking 
+and communicating. They are used in design and 
+problem solving and they are used in documenting the 
+design or recommendation that is being made to a 
+client. The results from problem solving are often 
+depicted visually as graphs or charts before the 
+solution is implemented back into the real world. 
+
+For many engineers, using diagrams is natural and 
+intuitive. They draw quick, some- times messy 
+sketches, put boxes around important ideas, and draw 
+arrows to show connections. Such sketches may seem 
+ordinary, but they are essential to thinking, 
+communicating, and documenting the problem solving 
+process. Engineering reports may include both formal 
+polished drawings and also sketches. Ultimately, 
+engineering drawings are used to help others execute 
+(i.e., make or build) the technology you have designed. 
+Creating diagrams and sketching out problems may 
+not be a natural habit for you now, but it is an important 
+skill. Diagramming a problem may show you the way to 
+transform your perception of the problem leading to an 
+ingenious engineering solution. 
+
+•  1 mark caption or title 
+•  1 mark pole represented/assumption around fixture stated 
+•  1 mark light fixture represented 
+•  1 mark forces represented 
+•  1 mark mass and/or weight of the fixture represented 
+
+Note: Students were confused whether Fixture referred to just the bulb area or the 
+whole arm. They were told to state their assumption.  
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+(5 MARKS) Estimate how many hotdogs are sold at a Blue Jay’s world series game 
+in the Rogers Centre Stadium. You don’t have to get the same answer as us, but 
+you do have to state all assumptions, demonstrate structured thinking, compute a 
+number, and use appropriate significant figures.  
+
+1 mark: Estimate number of seats in the stadium 
+
+•  Seats in the Rogers centre ~50,000 
+
+o  Generated using a comparison to a known quantity. Examples could include but 
+
+are not limited to: 
+
+  10 x Con Hall 
+  To another similar stadium to which the student has personal knowledge 
+  Rough diagram with smaller estimates added up (ie. 10 seats per row, 10 
+
+ 
+
+rows per section 26 sections, etc) 
+If  they  just  put  down  a  number  with  not  explanation  where  it  came  from 
+they get just 0.5 mark 
+
+1 Mark: Determine what % of the stadium is filled. World series game would be sold out. 
+They can assume a full house. They need to state this. 
+
+1  mark:  They  need  to  state  the  percentage  of  people  who  buy  a  hot  dog.  Less  than 
+100% more then 0 %. Really any number will do as long as they state it and don’t just 
+ignore this step.  I assumed 1 in 5.  
+
+1 mark: Must compute a number 
+
+1 mark: One significant figure 
+
+My answer: 
+
+50,000 / 5 = 10,000 
+
+Page 4 of 6 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Driving Event #1: Project Manager Training & Development Program 
+When the Project Management (PM) Training & Development Coordinator (T&DC) 
+began work, there was no existing PMT&DC infrastructure at the Center to draw support 
+from. Additionally, the predominately scientific and engineering community had little 
+interest in PM and did not view it as a professional discipline. The PMT&DC took 
+advantage of the lack of existing structure to be creative in fostering interest in and 
+developing ways to deliver PM training which worked within the Center's culture. This 
+approach, based on a community service philosophy, has resulted in a thriving PMT&D 
+program and has made a significant positive impact on the Center's culture. The 
+strategies used to accomplish this include making and leveraging personal contacts, 
+developing mutually beneficial relationships with other entities interested in training, and 
+being actively involved in training scheduling, enrollment and evaluation. 
+
+(From NASA https://llis.nasa.gov/lesson/1418) 
+
+39.  (4 MARKS) Through analyzing Driving Event #1:  
+
+Three parts to a Lessons Learned and Strategy: Description, Analysis, Strategy 
+
+a.   2 Marks: What is one Lessons Learned you can derive?  
+
+•  Needs to be a lesson learned not a strategy or a description. What was learned, 
+
+NOT what happened or what they should do..  
+
+•  1 mark: Lesson should be specific to this case. If it is generic but a lesson then 
+
+give 1 mark. IE. Being creative can solve problems. 
+
+Example answer: Creative approaches can be used to overcome cultural barriers to 
+and resource limitations on a PMT&D program. (notice not just description, but not 
+given concrete strategies either) 
+
+Incorrect lessons 
+
+• 
+
+It may be impossible to teach new information to engineers if they have no prior 
+interest in the value of it. (not true as evident in the case study) 
+
+•  A community service philosophy can be leveraged through networking tools such 
+as Slack or What’s App. (They are just repeating words from the case study AND 
+giving strategies) 
+
+•  The engineering community had little interest in PM and did not view it as a 
+professional discipline. (This is description not Lesson learned. There is no 
+analysis.  
+
+Page 5 of 6 
+
+ 
+ 
+b.  2 marks What is one Strategy for the Future that you can derive?  
+
+•  Needs to be a strategy, not a description or a lesson. What NASA can do, not 
+
+what happened or what was learned. 
+
+•  1 mark: Strategy should be specific to this case. If it is generic or can’t be 
+
+implemented by NASA, then give them one mark. “Engineers should be trained 
+in Project Management from the start of their university education.” 
+
+Example answer: In order to augment the resources of other training organizations, so 
+that the Center's burden is reduced, efforts should be made to build mutually beneficial 
+relationships. (notice this involves a future action) 
+
+Incorrect strategies: 
+
+• 
+
+If there is no interest in a training program, your Project Management Team 
+should recommend cancelling the initiative and finding another method. (not 
+supported by case study results) 
+
+•  Since understanding Gantt Charts is central to Project Management, the training 
+team should begin by finding the appropriate app or program to intuitively build 
+Gantt Charts. (A strategy, but not supported by the case study) 
+
+Page 6 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

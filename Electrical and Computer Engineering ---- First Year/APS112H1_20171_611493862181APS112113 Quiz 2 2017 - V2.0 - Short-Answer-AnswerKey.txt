@@ -1,0 +1,275 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+Quiz #2 April 11, 2017 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total 
+of 32 questions, worth 47 marks. The questions are divided between two booklets.  
+
+Question Booklet #2 – Short-Answer Question Booklet 
+
+First Name: 
+Last Name: 
+UTOR Email: 
+
+  @mail.utoronto.ca 
+
+There are 3 short-answer questions, worth 18 marks in total. These must be answered 
+in the spaces provided in this Short-Answer Question Booklet. This question booklet, 
+with your name and UTOR Email filled in, must be returned with the multiple-choice 
+answer sheet slipped inside. Do not separate any pages. Do not write on the QR code 
+at the top of the pages. We are not looking for long paragraph answers. Use short 
+sentences or bullet points. 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30. (6 MARKS) Using appropriate line types, draw a multiview representation of the 
+
+widget in Figure 1. Include dimensioning lines. Instead of actual dimensions, which 
+you don’t have, use variables (EG. X cm) 
+
+•  1 mark: top view correct 
+
+o  0.5 missed line or other minor error 
+
+•  1 mark: front view correct 
+
+o  0.5 missed line or other minor error 
+
+•  1 mark: side view correct 
+
+o  0.5 missed line or other minor error 
+
+•  1 mark: All 4 hidden lines correct 
+
+o  0.5 At least one hidden line correct 
+
+•  Dimensions 
+
+o  0 Marks: none or drastically incorrect 
+o  1 mark: some dimensions missing 
+o  1.5 marks: all dimension lines correct, but there more than needed 
+o  2 marks: all dimensions correct (and no extras) 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+31.  a. (4 MARKS) List and explain four criteria for a design to be eligible for a utility 
+
+patent.  
+
+0.5 Marks: for each bolded word (or similar) 
+
+0.5 marks: for each reasonable explanation 
+
+Max of 4. If they give five then ignore the last bullet point.  
+
+•  Novelty: The idea cannot have been in the public domain previously 
+
+•  Non-Obvious: to a person of ordinary skill in the related art 
+
+•  Useful: The idea must have some purpose. 
+
+•  Full disclosure: required so that someone skilled could reduce the 
+
+description to practice.  
+
+•  Laws of nature, physical phenomena, and abstract ideas are Not Patentable.  
+
+b. (1 MARK) In one sentence explain how the patent system promotes innovation.  
+
+During the exclusivity period (20 years) the patent holder has an opportunity to 
+recoup any research and development costs thereby encouraging companies to 
+invest in research and development departments.  
+
+• 
+
+If more than one sentence, ignore 2nd sentence onward.  
+
+c. (1 MARK) In one sentence explain how the patent system hinders innovation.  
+
+When a patent holder values their patent more than the individual wanting to use the 
+patent is willing to pay, this can lead to an impasse and slows consultation.  
+
+• 
+
+If more than one sentence, ignore 2nd sentence onward.  
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+32. a. (1 MARK) What is the relationship between Consequence – Severity – Hazard – 
+
+Risk? 
+
+Risk = (Severity of the Consequence) * (Probability of the Hazard) 
+
+(or they could say this in prose as well) 
+
+b. (1 MARK) What is the relationship between Risk – Safety? 
+
+Safety is the attempt to minimize risk. 
+
+Safety is the attempt to reduce risk to an acceptable level. 
+
+c. (1 MARK) In engineering terms, what is an Accident? 
+
+Unintended exposure to a hazard. 
+
+d. (3 MARKS) In three or fewer sentences concisely describe a real world situation, then 
+
+identify the Hazard and Consequence for this specific situation.   
+
+The example from Lecture (which we will allow): 
+
+1 Mark: The stage in Convocation Hall is elevated. There is a series of stairs leading 
+
+from the main floor to the top of the stage. There are no rails or guarding.  
+
+Hazard 
+
+1 mark: correct example of situation where there is a possibility of 
+damage to health, property or the environment 
+
+•  Falling down the stairs 
+
+Consequence 
+
+1 mark: correct example of the result of exposure to a hazard: 
+
+•  Personal injury to the user of the stage, potentially even 
+
+death. 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

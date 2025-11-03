@@ -1,0 +1,403 @@
+rj 
+
+FEOFCF9-8826 -430E-8OBF-9C8074022D9F 
+
+mat188-exam-b489a 
+
+#88 
+
+1  of 12 
+
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+FINAL EXAMINATION, APRIL  2017 
+
+DURATION:  2  AND  1/2  HRS 
+
+FIRST YEAR  - CHE, CIV, CPE, ELE, ENG, IND, LME, MEG, MMS 
+
+MAT188H1S  - Linear Algebra 
+EXAMINER:  D.  BURBULLA 
+
+Exam Type: A. 
+
+Aids permitted: Casio FX-991 or Sharp EL-520 calculator. 
+
+Full Name: 
+
+UTor email: 
+
+Signature: 
+
+Instructions: 
+
+@mail utoronto. ca  
+
+DO NOT WRITE ON THE QR CODE AT THE TOP OF THE PAGES. 
+
+This exam contains 12 pages, including this cover page, printed two-sided. Make sure  you  have all 
+
+of them. Do not tear any pages from this exam. 
+
+This exam consists of nine questions, some with many parts. Attempt all of them. Each question is 
+
+worth 10 marks. Marks for parts of a question are indicated  in  the  question. 
+
+Total Marks: 90 
+
+PRESENT YOUR SOLUTIONS IN THE SPACE PROVIDED. You can use pages 11 and 12 for 
+
+rough work. If you want anything on pages 11 or 12 to be marked you must indicate in the relevant 
+
+previous question that the solution continues on page 11 or 12. 
+
+Page 1 of 12 
+
+,.  F 
+
+:. 
+
+mat188-exam-b489a 
+
+#88 
+
+2  of  12 
+
+1. Given that the reduced row echelon form of 
+
+2 10 1  7 
+
+5 
+A=  —1-511-7 
+
+1 5 0 2 4 
+
+isR=  0013-3, 
+
+2 10 1  7 
+
+5 
+
+0 0 0 0 0 
+
+find the following. (No justification is required.) 
+
+11 mark] the rank of  A 
+
+[1 mark]  dirn(Row(A)) 
+
+[1 mark]  dim(Col(A)) 
+
+[1 mark] dim(Nu11(A)) 
+
+[1 mark] dim(Nu1l(AT)) 
+
+[1 mark] A basis for the row space of  A. 
+
+[2 marks] A basis for the column space of  A. 
+
+[2 marks] A basis for the null space of  A. 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Answer: 
+
+Page 2 of 12 
+
+Continued... 
+
+1 
+
+ii 
+
+[  ii 
+—1 
+
+2. Let  = 
+
+—1 
+
+1 
+
+-1 
+
+,U2 
+
+,'1= 
+
+3 
+
+0 
+
+E10E5117-380E-4B71-8F1E-982ADF9E1J439 
+
+mat188-exam-b489a 
+
+#88 
+
+3 of 12 
+
+[-21 
+1 
+
+,U3 
+
+[ii 
+1 
+
+,114 
+
+1 
+
+1 
+
+0 
+
+1 
+
+[  ii  Show fill, iL2,iZ3,i4} is 
+an orthogonal set, and 
+
+10 
+
+3 
+
+write x as a linear corn- 
+
+—11 
+
+biiiation of ill,  iZ2,il3,L1. 
+
+Page 3 of 12 
+
+Continued... 
+
+rmi  • M 4C598OE2-E6Afl-4544-AOEE-Th7977B511F 
+
+L;—j am 
+
+ mat188-exam-b489a 
+
+#88 
+
+4  of  12 
+
+L. 
+
+3. Let  A  = - 
+
+1 
+
+5 
+
+12 
+
+13 12 —5 
+
+Find the eigenvalues of  A  and a basis for each  eigellspace of  A.  Plot 
+the eigenspaces of  A in R 2,  and clearly indicate which eigenspace cUr- 
+responds to which eigenvalue. Interpret your result geometrically. 
+
+Page 4 of 12 
+
+Continued... 
+
+mat188-exam-b489a 
+
+#88 
+
+5 of 12 
+
+L!1 E L!1 
+
+4. Let  L : R 2  _ 
+
+2  be the linear transformation defined by 
+
+L( 
+
+Xi 
+X2  ) 
+
+3x1 — x2 
+
+9Xl+212 
+
+[5 marks] Draw the image of the unit square' under  L  and find its area. 
+
+[5 marks] Find  L1 
+
+([X1 
+
+]). 
+
+'The unit square is the square with the four vertices (0, 0), (1, 0), (0, 1), (1, 1). 
+
+Page 5 of 12 
+
+Continued... 
+
+2A966536-76ED-4586-A716-DD324437BBBF 
+
+mat188 -exam-b489a 
+
+#88 
+
+6  of  12 
+
+5. Let  A = 
+
+213-I 
+
+1526 
+
+3271 
+
+3674 
+
+(a) [5 marks[ Show that S = {  E 
+
+A Y  = AT} is a subspace of W'. 
+
+5(b)  [5  marks] Find a basis for S. 
+
+Page 6 of 12 
+
+Continued... 
+
+FA5D9524-2B1C-4376-B6FE-DA77EBODE9DO 
+
+mat188-exam-b489a 
+
+#88 
+
+7  of  12 
+
+6. Find an orthogonal matrix P and a diagonal matrix D such that D  = PTAP,  if  A = 
+
+7 1 —1 
+
+1 
+
+7  —1 
+
+—1 —1 
+
+7 
+
+Page  7  of 12 
+
+Continued... 
+
+Ij 
+
+mat188-exam-b489a 
+
+#88 
+
+8  of  12 
+
+7. Let S = spaii{[ 1  o  —1 1  IT. [ 3  1 1 1 ]T, 
+
+[  2 0 1 1 ]7} 
+
+(a) [5 marks] Find  an orthogonal basis of S. 
+
+(b) [5 marks] Let Y 
+
+= [  2  3 3 4 ] r Find projs(). 
+
+Page 8 of 12 
+
+Continued... 
+
+25AB443-1ABC-4554-9CEA-E4C23E1J1B684 
+
+mat188exam-b489a 
+
+#88 
+
+9  of  12 
+
+LJ 
+
+Imi I . '~%x 
+
+8. Consider the plane H in JR3  with scalar equation 2x1  3x2  - 5x3  = 0 and the point with coordinates 
+
+Q(1, 3, 1). Find the point on the plane H closest to the point  Q. 
+
+Page 9 of 12 
+
+Continued... 
+
+Eu 
+
+E!J 
+
+E!1 
+
+mat 188 -exam-b489a 
+
+#88 
+
+10  of  12 
+
+9. Use the method of least squares to find the best fitting quadratic function for the five data points 
+
+(-2,4.9), (-1,2.1), (0,0.9), (1,1.9), (2,5.1). 
+
+Page 10 of 12 
+
+Continued... 
+
+FB6C8084-2F2B-407E-9DA7-C7EA5521DA17 
+
+mat188-exam-b489a  
+
+#88 
+
+11 of  12 
+
+E1 .. • 
+
+This page is for rough work or for extra space to finish a previous problem. It will not be marked unless 
+
+you have indicated in a previous question to look at this page. 
+
+Page 11 of 12 
+
+Continued... 
+
+E!1Ix ILi 
+
+I 
+
+mat188-exam-b489a 
+
+#88 
+
+12  of  12 
+
+This page is for rough work or for extra space to finish a previous problem. It will not be marked unless 
+you have indicated in  a previous question to look at this page. 
+
+Page 12 of 12 
+
+The  end. 
+
+

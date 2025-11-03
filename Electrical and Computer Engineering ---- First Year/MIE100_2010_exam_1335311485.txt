@@ -1,0 +1,223 @@
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+Department of Mechanical and Industrial Engineering 
+
+FINAL EXAMINATION 
+
+April 23, 2010   9:30am 
+
+Exam Duration: 2.5 hours 
+
+First Year 
+
+MIE100H1S – DYNAMICS 
+
+Calculator Type  2  (non programmable calculator) 
+
+Exam Type  C  (one 8½ x 11 aid sheet)  
+
+Examiners: 
+
+J. Postma 
+A. Sinclair  
+L. Sinclair 
+P. Sullivan  
+L. You 
+
+ANSWER ALL FIVE QUESTIONS 
+
+(100 marks total) 
+
+Page 1 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 3 
+
+ A rectangular crate of mass 100 kg rests on a conveyor belt as shown.  The crate’s height and 
+width are 1.40 metres and 0.80 metres respectively.  Assume the crate is uniform such that its 
+centre of mass is located in the middle at G as shown.  The coefficients of static and kinetic 
+friction between the crate and the belt are µ s = 0.60 and µ k = 0.50. 
+
+a)  Determine the largest acceleration that the belt can have in the positive x-direction 
+
+without causing the crate to tip or slip.  (10 marks) 
+
+b)  At t = 0 the belt accelerates from rest with (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)= 5.70 î m/s2 and the crate will begin to 
+tip about point Q.  Determine (cid:1)(cid:2)(cid:7) and α  for the crate at the instant t = 0.  The moment of 
+inertia of the crate about G is: (cid:8)(cid:7) (cid:9)
+width.  Note that for the crate at this instant, (cid:17) (cid:9) 0, (cid:19) (cid:20) 0, and point Q does not slip 
+relative to the belt.    (10 marks) 
+
+(cid:12)(cid:13)(cid:1)(cid:11) (cid:14) (cid:15)(cid:11)(cid:16), where a and b are the height and 
+
+(cid:10)(cid:11)
+
+(cid:10)
+
+0.80 m 
+
+1.40 m 
+
+G 
+
+belt 
+
+Q 
+
+g 
+
+y 
+
++ 
+
+x 
+
+Page 3 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 4 
+
+A wheel has mass m = 8.0 kg, radius R = 1.2 metres, and radius of gyration k = 0.70 metres.  At 
+the instant shown in the diagram, its center of gravity has a speed of 5.9 m/s, as the wheel rolls 
+without slipping down the hill.  At the bottom of the hill, it strikes the stationary block B of mass 
+5.0 kg; the wheel then stops rolling and sticks to the block B.  The wheel and block then both 
+slide to the right together. 
+
+a)  At the instant shown in the diagram, what is the magnitude of the total acceleration of 
+
+point C on the wheel, located at the edge of the wheel where it is touching the ground?   
+(5 marks) 
+
+b)  At the instant shown in the diagram, what is the acceleration of the centre of the wheel, in 
+
+n-t coordinates?  (5 marks) 
+
+c)  What will be the speed of the centre of the wheel after the wheel has decreased its 
+elevation by 2.5 metres, just before the wheel strikes the block B?  (5 marks) 
+
+d)  What will be the speed of the block and wheel immediately following the collision, as 
+
+they slide to the right stuck together?  (5 marks) 
+
+G 
+• 
+
+C 
+
+25o 
+
+y 
+
++ 
+
+x 
+
+g  
+
+2.5 m 
+
+B 
+
+Page 4 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 5 
+
+The homogeneous slender rod of mass m = 16 kg and length L = 850 mm is supported by a pi
+The homogeneous slender rod of mass m = 16 kg and length
+.  The bar is connected to a spring and damper as shown.   
+A and is able to rotate about A.  The bar is connected to a spring and damper as shown.  
+.  The bar is connected to a spring and damper as shown.  
+
+L = 850 mm is supported by a pin at 
+
+in the diagram on 
+The bar is initially in equilibrium with the spring relaxed at the position shown in the diagram on 
+The bar is initially in equilibrium
+the left. 
+
+a)  What is the moment of inertia of the rod about A?
+
+he moment of inertia of the rod about A?  (5 marks) 
+
+b)  What is the differential equation for the motion of the rod
+motion only involves small angles of θ.  (5 marks) 
+motion only involves small angles of 
+
+differential equation for the motion of the rod in terms of θ?  
+
+  Assume the 
+
+c)  What is ωd the damped natural
+
+natural frequency of the rod?  (5 marks) 
+
+d)  Is the system underdamped, overdamped or critically
+
+(5 marks) 
+Is the system underdamped, overdamped or critically-damped? Why?  (5 marks)
+
+Page 5 of 5 
+
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+ 
+

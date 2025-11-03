@@ -1,0 +1,577 @@
+MAT 186 – CALCULUS I 
+WINTER TERM 2025 
+
+Shai Cohen 
+e-mail: sh.cohen@utoronto.ca  
+Please use either the above address or Piazza to reach me.  Other methods tend to be much 
+slower. 
+
+[Professor may not look precisely as pictured] 
+
+INSTRUCTOR 
+
+THE COURSE 
+
+This  course  aims  to  teach  you  more  than  simply  a  set  of  mathematical  tools  for 
+Engineering.    Our  goal  is  to  help  you  understand  some  of  the  ideas  behind  how 
+these tools work, so that you will be better able to  use them; to show you how to 
+apply  calculus  to  your  other  courses;  and  to  teach  you  how  to  write  a  proper 
+solution.  This last idea is extremely important  – you cannot convince anyone that 
+you  are  a  good  engineer  if  they  cannot  understand  how  you  reach  your 
+conclusions.   
+
+We will run this course as an inverted class – lecture videos will be available on Quercus and we will use class time 
+to work on problems that will help us to understand the material, its applications, and its writing. 
+
+LEARNING OBJECTIVES 
+
+𝑓′(𝑥) = lim
+ℎ→0
+
+𝑓(𝑥 + ℎ) − 𝑓(𝑥)
+ℎ
+
+There are certain goals that we hope to achieve in this 
+class, of which the ability to take limits and derivatives is 
+only the first – and definitely not the greatest.  We want 
+to be able to see you develop facility in writing proper 
+solutions, communicating your ideas well, and applying 
+all of these to simple scenarios in the real world.  Below 
+is a list of the goals we find the most vital for this course. 
+
+•  Use the standard algorithmic topics in the course (differentiate, calculate, integrate, etc…) 
+•  Understand the syntax of a solution  
+o  Needs meaningful feedback 
+o 
+
+Identify and meaningfully use correct syntax  
+
+•  Plan an approach to a solution, and identify different solution paths 
+•  Communicate a mathematical solution [live and on exam] 
+•  Analyze solution with respect to physical or mathematical constraints 
+•  Apply mathematical tools to a real-world situation without cues for which tools to use 
+
+Page 1 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A NOTE REGARDING YOUR HEALTH 
+
+Engineering at the University of Toronto is a demanding program.  The amount of work 
+and  the  rate  at  which  assignments  and  tests  come  and  go  can  be  overwhelming.  
+Many  students  find  themselves  experiencing  physical,  mental,  or  fiscal  health  issues 
+that stop them from demonstrating their ability and their learning. 
+
+If you have any problems that significantly affect your performance, please seek out 
+the assistance of the various services offered at this university.  These are generally free 
+and confidential and may be able to help you show your full ability in your courses, as 
+well as enjoy your time here. 
+
+Do look for these resources as soon as you suspect that there is a problem.  Do not worry about the problem 
+being too minor – let the professionals decide if they can help.  Also, it has been my experience that a lot of 
+students avoid seeking help because they feel that they should not need “unfair advantages.”  The purpose of 
+these services is not to give an unfair advantage, but to help remove an unfair disadvantage.  It may be difficult 
+to ask for help, but it can make all the difference during your time here. 
+
+Some general resources: 
+My SSP: https://www.studentlife.utoronto.ca/hwc/myssp 
+Student Life Website: http://www.studentlife.utoronto.ca 
+Health and Wellness Website: http://studentlife.utoronto.ca/hwc 
+Your department’s Academic Advisor: http://undergrad.engineering.utoronto.ca/advising-support-
+services/academic-advising/ 
+Accessibility Services: http://www.studentlife.utoronto.ca/as 
+
+If, at some point during the year, you find yourself feeling distressed and in need of more immediate support, visit 
+the Feeling Distressed Webpage: http://www.studentlife.utoronto.ca/feeling-distressed for more resources.  
+
+Off campus, immediate help is available 24/7 through Good2Talk, a post-secondary student helpline at  
+
+1-866-925-5454. 
+
+ACKNOWLEDGEMENT(S) 
+
+Mathematics is a subject that builds upon almost every element of its history.  Numbers and operations created 
+thousands of years ago, as the need grew for the ability to count, to add, and so on, are still used today in every 
+possible context.  Calculus as created in the 18th century is fundamentally what we use in this course. 
+
+Similarly, the land on which the University of Toronto is built has a rich history that we should not neglect.  Humans 
+have been on this land for over 15,000 years and their activities have helped to shape this unique city.  The name 
+Toronto is derived from a Wendat word that came to mean “meeting place,” because of the frequent use of 
+the area as grounds for nations to meet peacefully.  The diversity of the modern city is an impressive reflection of 
+its history. 
+
+The Toronto region is also a part of the Dish With One Spoon 
+Wampum  Belt  Treaty.    A  wampum  belt  is  made  of  two 
+serves  as  a  physical 
+opposing-coloured 
+embodiment  of  the  agreement  between  two  peoples.    To 
+the left is a photo of a replica of the wampum belt that marks 
+this particular treaty, in which multiple allied nations agreed 
+to  share  the  land  and  its  resources  equitably.    The  region 
+involved in the treaty is vast, covering large sections of south 
+Ontario,  New  York,  Ohio,  Michigan,  and  beyond.    The 
+metaphor of a dish with one spoon – the dish representing the area itself and the spoon representing our need 
+to  share  it  and  to  do  so  peacefully  –  is  an  ancient  one,  but  its  importance  as  we  begin  to  see  the  effects  of 
+climate change is swiftly increasing. 
+
+shells  and 
+
+Page 2 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+TEXTBOOK 
+
+The textbook we will use for the course is Calculus, volumes 1 and 2 by Edwin Herman 
+and  Gilbert  Strang.    This  is  an  open  text  (that  is,  a  freely  available  electronic  book), 
+provided by Lyryx Learning.  It can be found at: 
+
+https://openstax.org/details/books/calculus-volume-1 
+https://openstax.org/details/books/calculus-volume-2 
+
+If this book is not sufficient for your needs, the book Calculus for Scientists and Engineers 
+– Early Transcendentals,  by Briggs, Cochran, and Gillett is widely available on campus 
+and is very good.  We also recommend the textbooks by Blank and Krantz and by Stewart. 
+
+GRADES 
+
+Okay.  This is about to get strange. 
+
+The grades in this course (other than the exam) will not be 
+given in the usual manner.  The next page contains a list 
+of attributes that will be taught in the course – some are 
+specific  skills  (e.g.,  knowing  how  to  find  an  infinite  limit), 
+while others are more abstract (e.g., uses of geometry). 
+
+These attributes are divided into five categories:  
+Algebra basics; Mathematical writing; Calculus fundamentals; Calculus skills; and Higher math skills. 
+
+Each question and assignment during this semester will be given a score of 0 to 4 in some of these attributes (we 
+will not let you know which ones we are looking for until after the due date, as identifying problems is an important 
+skill).  These scores are meant to show how well you demonstrated your ability in the question and are defined 
+on the next page.  Your final grade will depend on the marks you receive in the individual attributes. 
+
+The exact calculations are complex may be subject to some changes if we feel that they need to be adjusted 
+to better reflect the class’ understanding of the material.  The basic idea is:  
+
+(a) We take a weighted average of your scores on any given attribute to get your attribute score, also on 
+
+a 0 to 4 scale (for example, if the average is at least 0.75, then the score is a 1). 
+
+(b)  We  use  the  attribute  scores  in  a  single  category  to  compute  the  category  score  (this  can  vary  for 
+each category, but you may need 80% of the attributes to be at a score of 1 for the category score 
+to be a 1). 
+
+(c) The five category scores are used to compute your final grade by taking a weighted average. 
+
+ASSIGNMENTS 
+
+Quizzes – There will be weekly quizzes in the tutorials.  The quizzes will be cumulative – they will test not only the 
+new material, but also the major points of previous work.  Some of this will give the opportunity not just to 
+improve previous performance on some attributes, but to fully replace it. 
+
+Group assignments – Three of these, due on February 7, March 7, and April 7.  All work must be submitted by 
+
+11:59pm (EST) on its due date, or else be given a mark of zero.  Late work must have prior approval. 
+
+Final examination – During the regular exam period.  The exam will be marked in the old-fashioned way and 
+
+the mark averaged with the term mark of the other work (50% each). 
+
+There will be opportunity to present solutions during lectures and this can earn bonus marks. 
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEANING OF SCORES* 
+Score  Category 
+
+4 
+
+3 
+
+2 
+
+1 
+
+0 
+
+Excellent 
+
+Good 
+
+Adequate 
+
+Marginal 
+
+Inadequate 
+
+Definition 
+Strong evidence of original thinking; good organization, capacity to analyze 
+and  synthesize;  superior  grasp  of  subject  matter  with  sound  critical 
+evaluations; evidence of extensive knowledge base. 
+Evidence  of  grasp  of  subject  matter,  some  evidence  of  critical  capacity 
+and analytic ability; reasonable understanding of relevant issues. 
+Understanding of the subject matter; ability to develop solutions to simple 
+problems in the material. 
+Some evidence of familiarity with subject matter and some evidence that 
+critical and analytic skills have been developed. 
+Evidence  of  familiarity  with  only  some  subject  matter;  presence  of  some 
+critical and analytic skills, but not sufficient for subsequent course. 
+
+* Material in this table adapted from the Arts and Science calendar. 
+
+COURSE ATTRIBUTES (MORE MAY BE ADDED ON QUERCUS, AS NEEDED) 
+
+Algebra Basics 
+
+Calculus Fundamentals 
+
+Calculus Skills 
+
+1.  Factoring polynomials 
+2.  Algebra of exponents 
+3.  Logarithms 
+4.  Absolute values (taking 
+
+cases) 
+
+5.  Trigonometry 
+6.  Domains of functions 
+Inverses (existence, 
+7. 
+finding, graphing) 
+8.  Sigma notation (and 
+
+basic sums) 
+
+Mathematical Writing 
+
+1.  Reasonably neat 
+penmanship 
+
+2.  Clear progression through 
+
+solution 
+
+3.  Proper use of English 
+
+(especially word problems) 
+
+4.  Interpreting solutions 
+
+1.  Basic limits 
+2.  Limits to infinity 
+3.  Trigonometric limits 
+4.  Derivatives from limits 
+5.  Tangent lines 
+6.  Basic derivatives (product, 
+quotient, chain rules) 
+Implicit differentiation 
+
+7. 
+8.  Diagrams for word problems 
+9.  Getting equations from 
+
+diagrams 
+
+10. Simple related rates 
+11. Finding extrema (local, 
+
+absolute) 
+
+12. Intervals of increase/decrease 
+13. Concavity 
+14. Graphing polynomials 
+15. Simple optimization 
+16. Simple antiderivatives 
+17. Remembering to write +C 
+18. Riemann sums 
+19. Easy integrals using Riemann 
+
+sums 
+
+20. Integral properties 
+21. FTC 
+22. Simple substitution 
+23. Solving separable DEs 
+24. Integral as net change 
+25. Area between curves 
+26. Simple applications of 
+
+integrals 
+
+1.  Challenging limits 
+2.  Squeeze theorem 
+3.  Asymptotes 
+4.  Continuity (including ID of 
+
+discontinuities) 
+
+5.  IVT 
+6.  Leibniz notation (especially for 
+
+chain rule) 
+
+7.  Advanced related rates 
+8.  Logarithmic differentiation 
+9.  Corners/cusps 
+10. Adv. graphing 
+11. Adv. optimization 
+12. Linear approximation 
+13. L'Hopital's rule (including when 
+
+not to use) 
+
+14. L'Hopital for exponents 
+15. Advanced substitution 
+16. Modeling DEs 
+17. Volumes of rotation 
+18. Advanced applications of 
+
+integrals 
+
+Higher Math Skills 
+
+1.  Use of theorems to work 
+
+efficiently 
+
+2.  Use of geometry to simplify 
+
+problems 
+
+3.  Correct use of units 
+4. 
+
+Identify when a method fails 
+(e.g., linear approximation) 
+
+5.  Combining topics 
+6.  Applying calculus to other 
+
+courses 
+
+Page 4 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+CALCULATORS 
+
+While you can easily disregard this advice, I recommend not using calculators 
+during this course.  Except for certain, obvious places, the arithmetic we do will 
+be of the kind that it is better for you to be able to do yourself.  It will give you 
+a better understanding of the material and, once you have enough practice, 
+will be faster.   
+
+Calculators will not be allowed in the quizzes and exam.  Slide rules are acceptable.  Really. 
+
+COURSE SCHEDULE - TENTATIVE 
+
+This schedule is subject to change.  If we feel that the class needs more work in a certain field, we will adjust this 
+as needed.  For each section, we recommend doing as many exercises from the textbook as it takes to have a 
+solid understanding of the different uses of the material in each section. 
+
+For each of the main parts of the course, we have included an example of a type of question that we might ask 
+(except for the first one – I just think it’s funny). 
+
+WEEK 
+
+SECTIONS 
+
+NOTES 
+
+Functions 
+
+Jan. 13 – 17 
+
+Jan. 20 – 24 
+
+Limits 
+
+Notice the interesting maximum allowed height noted 
+in this sign from the Boston Commons.   
+
+Discuss  briefly  why  using  one-to-one  functions  for 
+notation is important in engineering. 
+
+Chapter 1 
+Do as many exercises as you need. 
+Then, do a few more. 
+Chapter 1 
+Do as many exercises as you need. 
+Then, do a few more. 
+
+Quiz 1 
+
+Three  examples  of  1-point  perspective  (one  from  Boston  and  two  here  at  UofT)  –  the 
+parallel lines in the picture all aim at a single point.  Explain how 1-point perspective occurs 
+in photos. 
+
+Jan. 27 – 31 
+
+2.1-3, 4.6, 2.4, 3.1 
+
+Quiz 2 
+
+Page 5 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+ 
+ 
+Derivatives 
+
+This is the canopy at the entrance to Lash Miller (the two figures in the left pictures are both 
+UofT  faculty  members).    How  does  the  angle  of  the  canopy  affect  the  forces  on  the 
+structure?  How about when snow accumulates above? 
+
+Feb. 3 – 7 
+
+4.6, 2.4, 3.1 – 3.3 
+
+Feb. 10 – 14 
+
+3.4 – 3.9, 4.1 – 4.4 
+
+Feb. 24 – 28 
+
+4.2, 4.3, 4.7 
+
+Mar. 3 – 7 
+
+4.4 – 4.6, 4.8 – 4.10 
+
+Quiz 3 
+
+Project 1 
+
+Quiz 4 
+
+Quiz 5 
+
+Quiz 6 
+
+Project 2 
+
+Integrals and 
+Differential 
+Equations 
+
+Note the inclinometer on the crane (pictured below).   
+
+How much work is required to lift the crane a further 20º? 
+
+Mar. 10 – 14 
+
+5.1 – 5.3 
+
+Mar. 17 – 21 
+
+5.4 – 5.7, 6.1 
+
+Mar. 24 – 28 
+
+6.2 – 6.6 
+
+Mar. 31 – Apr. 7 
+
+CV2: 4.1 – 4.3 
+
+PHOTO CREDITS 
+Bust of Newton – https://www.physics.utoronto.ca/~jharlow/teaching/phy151f13/ 
+Page from the Principia Mathematica - http://newton.edwardworthlibrary.ie/books-by-newton/principia/ 
+TI-30 calculator - https://en.wikipedia.org/wiki/Slide_rule 
+Wampum belt – http://archaeologymuseum.ca/wampum/ 
+All others – Shai Cohen 
+
+Quiz 7 
+
+Quiz 8 
+
+Quiz 9 
+
+Quiz 10 
+
+Project 3 
+
+Page 6 of 6 
+
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

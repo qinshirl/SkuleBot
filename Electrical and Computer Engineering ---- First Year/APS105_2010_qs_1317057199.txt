@@ -1,0 +1,80 @@
+Name:
+Important Note: Please write your student number on the back of this page.
+
+Tutorial Section: 02 03 04 05 06 09
+
+APS 105
+Fall 2010
+
+QUIZ # 1
+SECTION: 2-3PM
+
+Computer Fundamentals
+Tuesday, September 28
+
+All quizzes, tests, and exams in this course are closed book with no calculators.
+
+1. Consider the following piece of C code:
+
+2
+marks
+
+double i = 3.1;
+int j = 2;
+int k = 4;
+k += k/j + i;
+i++;
+j = j % 2;
+
+In the boxes below, write down the (cid:2)nal value of i, j and k after the last statement is
+executed.
+
+i : 4.1
+
+j : 0
+
+k : 9
+
+2. Write a single C statement that declares an integer variable i and initializes i to an even ran- 2
+dom number between 100 and 200 inclusive. You may assume that the stdlib.h library
+has already been included.
+
+marks
+
+int i = (rand() % 51)*2 + 100;
+
+3. Write a complete C program that prompts the user for a double value corresponding to a 6
+distance in miles, reads the value into a variable of type double named miles, converts
+the distance in miles into a distance in kilometres, and then prints the distance in kilometres
+to four decimal places. Your program should assume that one mile is equivalent to 1.61
+kilometres. Input and output must be done with scanf and printf. A sample run of the
+program is below. Your output must conform to this format.
+
+marks
+
+Please input a number in miles: 10.0
+The distance in kilometres is: 16.1000.
+
+#include <stdio.h>
+
+int main(void)
+
+{
+
+}
+
+double miles;
+double km;
+
+printf("Please input a number in miles: ");
+scanf("%lf", &miles);
+km = miles * 1.61;
+printf("The distance in kilometres is: %.4f.\n", km);
+
+return 0;
+
+Student No.:
+
+/10
+
+

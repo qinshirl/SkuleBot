@@ -1,0 +1,151 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 3   
+Due: 4:00 pm on September 28, 2012 
+
+3.0 kN/m  
+
+1.  A  frame  system  is  subjected  to  the  forces  shown.  Replace  the 
+loading by an equivalent force and couple moment at point A. Use 
+a  free  body  diagram  in  your  solution;  indicate  magnitudes  and 
+directions of your results. 
+
+B 
+
+1.5 m  
+
+2.0 kN/m  
+
+C
+
+30° 
+
+3.0 m 
+
+2.5 kN/m  
+
+2.  A  200-kg  steel  beam  supports  the  loading 
+shown. Determine all reactions at supports A 
+and  B.  Use  a  free  body  diagram  in  your 
+solution;  indicate  magnitudes  and  directions 
+of your results.  
+
+1.5 m  
+
+2.0 kN/m  
+
+A 
+
+15 kN/m 
+
+33 kN 
+
+35°
+
+87.5 kN
+
+0.8 m 
+
+A 
+
+2.0 m 
+
+2.0 m 
+
+B 
+
+1.2 m  1.2 m 
+
+3.   Neglecting friction, determine the tension in cable 
+
+BCD and the reactions at support A. Use a free body 
+diagram in your solution; indicate resultant magnitudes 
+and direction angles of your results. Neglect 
+thicknesses and self-weights of the members. 
+
+C 
+
+D 
+
+1.6 m 
+
+12 kN
+
+B
+
+A 
+
+E 
+
+1.0 m  
+
+1.2 m 
+
+4.  Determine all support reactions for the systems shown. Use a free body diagram in both parts; 
+indicate resultant magnitudes and direction angles of the unknowns. Neglect thicknesses and 
+self-weights of the members. 
+
+i.) 
+
+C 
+
+2.8 m  
+
+B 
+
+0.5 m 
+
+D 
+
+ii.)
+
+2.0 m
+
+2.0 m
+
+0.75 m 
+
+A 
+
+1.5 m
+
+B 
+
+C 
+
+A 
+1.5 m  
+
+2.5 m  
+
+m=612 kg 
+
+D
+
+1.0 m
+
+m=2 Mg
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

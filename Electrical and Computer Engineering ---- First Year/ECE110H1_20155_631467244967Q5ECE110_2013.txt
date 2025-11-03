@@ -1,0 +1,36 @@
+ECE110 - Quiz #5 
+Only non-programmable calculators are allowed. 
+Duration: 30 Minutes 
+
+First Name: _____________________ Last Name: ______________________________ 
+
+Student #:_______________________ Tutorial Section: __________________________ 
+
+[5 Marks] Determine Thevenin’s equivalent of the following circuit. 
+
+R1= 6Ω 
+
+2.I Volts 
+
+- 
+
++ 
+
+R3= 10Ω 
+
+V= 20Volts 
+
++ 
+- 
+
+R2= 6Ω 
+
+I 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

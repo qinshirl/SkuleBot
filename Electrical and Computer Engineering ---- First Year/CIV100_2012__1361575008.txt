@@ -1,0 +1,113 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 10   
+Due: 5:00 pm on Monday November 19, 2012  
+In Dropbox #2 in GB422 (Computer Lab) 
+
+1.  A 3.0 m-wide steel plate is used to support a 
+body of fresh water as shown. If the density 
+of water is 1000 kg/m3, determine the support 
+reactions at B and C. Neglect the weight of 
+the steel plate. Show the results on a new 
+sketch. 
+
+Water  
+
+A 
+
+B 
+
+0.4 m  
+
+2.0 m  
+
+1.6 m  
+
+C 
+
+1.2 m  
+
+2.  3.0 m-wide gate ABC is supported by a pin at B and a 
+point load at C. The gate has a mass of 300 kg between 
+A and B. If the density of water is 1000 kg/m3, and the 
+density of mud is 1800 kg/m3, determine the force that 
+the gate exerts on the smooth stop at A.  
+
+Water  
+
+200 kN 
+
+2.0 m  
+
+B 
+
+C 
+
+Mud  
+
+45° 
+
+1.5 m  
+
+3.  A 6.0 m-wide concrete gravity dam is held in place by its own 
+weight. If the density of concrete is 2500 kg/m3, the density of 
+water is 1000 kg/m3, and the density of silt is 1760 kg/m3, 
+determine: 
+
+i.)    the overturning moment; 
+ii.)   the resisting moment in terms of d; and 
+iii.) the distance d that will prevent the dam from overturning. 
+
+2.0 m  
+
+A 
+
+1.0 
+
+Water 
+
+3.0 m 
+
+Silt  
+
+2.0 m 
+
+O 
+
+d 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+

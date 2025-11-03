@@ -1,0 +1,401 @@
+4 
+
+3C7B2DC7-6360-4D8F-9586-32AB326DBF5C  LI• LI 
+
+esc194-exam-2019 
+
+I 
+
+#305 
+
+1 of 26 
+
+L1 
+
+University of Toronto 
+
+Faculty of Applied Science and Engineering 
+
+First name (please write as legibly as possible within the boxes) 
+
+Last name 
+
+Student number 
+
+ESC194F Calculus I 
+Final Exam 
+December 2019 
+
+No calculators or aids 
+There are 12 questions, each question is worth 10 marks 
+
+Examiners: P.C. Stangeby and J.W. Davis 
+
+Page 1 of 13 
+
+3 1B553 7A-AFAC-4613-BDDC-FBF6843DF529 
+
+esc194-exam-2019 
+
+#305 
+
+2 of 26 
+
+3649948A-83F4-4636-824E-005DB05D4B4E 
+
+esc194-exam-2019 
+
+#305 
+
+3 of  26 
+
+Cc 
+
+1)  Evaluate the following limits: 
+lim(cscx - cotx) 
+x-'O 
+lim(1 - 2x)h/x 
+x-O 
+
+sin_1x 
+
+C) 
+
+li
+m 
+x-O 
+
+X 
+
+Page 2 of 13 
+
+DDDAE43F-081F-44CA-ACA1-96A88A34A0E2 
+
+esc194-exam-2019 
+
+#305 
+
+4 of 26 
+
+F817CDAO-973F-46E6-86E9-5A2E6676FD2B  L!1 
+
+esc194-exam-2019 
+
+L!J 
+
+#305 
+
+5 of 26 
+
+2) Find the derivative of:  3x3 , cos(3x), ln(x"2 ), e_X2,  3X2 
+
+Page 3 of 13 
+
+F5380940-2002-4520-8775-829C2B878D0F 
+
+esc194-exam-2019 
+
+#305 
+
+6 of 26 
+
+005701F9-c825-4891-AEBA-F7OC6B1D5COD 
+
+esc194-exam-2019 
+
+#305 
+
+7 of 26 
+
+mfic 
+
+3) Find the anti-derivative of:  3x3, cos(3x), xe' ,(9+x2)1 , 3 
+
+Page 4 of 13 
+
+5998FCA1-1F1C-4F76-9869-5E61E4D47C3E 
+
+esc194-exam-2019 
+
+#305 
+
+8 of 26 
+
+4A862FEB-7789-4849-AADD-B25A819B20C7  L!1' LI 
+
+esc194-exam-2019 
+
+Ing 
+
+4)  At noon, ship A is 150 km west of ship B. Ship A is sailing east at 35 km/hr and ship B is sailing 
+
+north at 25 km/hr. How fast is the distance between the ships changing at 4:00 pm? 
+
+#305 
+
+9 of 26 
+
+- 
+
+Page 5 of 13 
+
+C4FD28C1-3B21-46B3-8667-09A2DCE35944 
+
+esc194-exam-2019 
+
+#305 
+
+10 of 26 
+
+E30F2DC9-0039-4ACE-9EC7-C27B5175846B 
+
+esc194-exam-2019 
+
+#305 
+
+11 of 26 
+
+Ell 
+
+U 
+
+Li 
+
+M.- 
+
+5)  a) Find functionsf and g such that each function is continuous at x = 0, but the composite 
+
+function, f o g, is not continuous at 0. 
+
+b) What value of b maximizes the integral: f"1x2(3 - x)dx, b > —1? 
+
+Page 6 of 13 
+
+ 
+23757462-2F5D-4931-9C49-65663C27CAE6 
+
+esc194-exam-2019 
+
+#305 
+
+12  of 26 
+
+A9DB2AE9-950B-4A34-AA54-0F253C1BC8E7 %
+
+esc194-exam-2019 
+
+#305 
+
+13 of 26 
+
+21 
+
+..
+
+6)  A wedge is cut out of a circular cylinder of radius 4 by two planes. One plane is perpendicular to 
+the axis of the cylinder. The other intersects the first at an angle of 300  along a diameter of the 
+cylinder. Find the volume of the wedge. 
+
+Page 7 of 13 
+
+4EAE672C-6538-4A3C-8D45--51C1F1AE9840 
+
+esc194-exam-2019 
+
+#305 
+
+14 of 26 
+
+7A9BOFC6-9C12-4542-830E-38EAA834CE05 
+
+esc194-exam-2019 
+
+#305 
+
+15  of 26 
+
+L!1 
+
+7)  a) 
+
+[7 marks] Provide a  8—s proof that  urn x 2  = 9. 
+
+x-+3 
+
+[3 marks] Given f(x) = x 2 , c  = 3  , s = 7, what is the largest 8 that will ensure that when 
+
+0 < Ix - Cl < S then If (x) - f(c)I < e?  Is there a smallest 5? 
+
+Page 8 of 13 
+
+44EB5E85-829D-4705-9884-1D4F7545534B 
+
+esc194-exarn-2019 
+
+#305 
+
+16 of 26 
+
+%.
+.
+
+E032B663-7AE4-4EA1-A58F-9B6CC48FF829  L! 
+
+. 
+
+esc194-exam-2019 
+
+. _. 
+
+1L1 
+
+8)  Find the solution of the differential equation that satisfies the given initial condition: 
+
+y'tanx=a+y, y()=a,  O<x< 
+(x2 +1)y'+3x(y-1)=0  y(0)=2 
+
+#305 
+
+17 of 26 
+
+L 
+
+%-. 
+
+Page 9 of 13 
+
+L!1 
+
+- U 
+
+esc194-exam-2019 
+
+#305 
+
+18 of 26 
+
+511104B2-890E-40FE-9CBA-8899010EB9D8  L!J  LJ 
+
+esc194-exam-2019 
+
+#305 
+
+19 of 26 
+
+I 
+
+IE. 
+9)  Use the method of undetermined coefficients to find the general solution to the 2nd  order DE: 
+
+y" - 3y' + 2y = coshx = 
+
+Page 10 of 13 
+
+96691573-2770-4BF5-929D-8E294278AE23 
+
+esc194-exam-2019 
+
+#305 
+
+20 of 26 
+
+8F08616D-C4E6-4DDF-9D07-D8F2EE30A459  L!J  LI 
+
+esc194-exam-2019 
+
+U 
+
+#305 
+
+21 of 26 
+
+10) Supposef'(x) <0 <f"(x)forx <aand f'(x) >0 >f"(x)forx > a. Provethatfis not 
+
+differentiable at a. 
+Hint: Assume thatf is differentiable at a, and apply the Mean Value Theorem. 
+
+Page 11 of 13 
+
+8525AFDE-6EC7-4425-A358-F4F7DBE46DA1 
+
+! 
+
+esc194-exam-2019  
+
+#305 
+
+22 of 26 
+
+D557A8DD-9F83-4CO5-A9C4-94FED87232BC [ME] N L!1 
+
+esc194-exam-2019 
+
+#305 
+
+23 of 26 
+
+- 
+
+LiI. 
+
+•.. 
+
+11) a) Prove that e  > ire by first finding the maximum value of f(x) = 
+
+b)  Sketch a graph of f(t) = et  on an arbitrary interval [a, b]. Use the graph and compare areas 
+
+of regions to prove that:  e"12 < 
+
+e:' 
+
+Page 12 of 13 
+
+A37A0651-E5B1-4954-BCF5-2F3A164E6B5A 
+
+esc194-exam-2019 
+
+#305 
+
+24 of 26 
+
+55126783-5780-4F58-AA76-48FA7A284EE3  L!I 0 91 
+
+esc194-exam-2019 
+
+#305 
+
+25  of  26 
+
+E!1 . . 
+
+12) Directly calculate the limit of a Riemann sum to evaluate the area of the region between f(x) = 
+
+x E [0,2] and the x-axis. 
+
+Hint 1: Use the non-uniform partition: X• = 
+
+2 L 
+
+U 
+Hi  2: 
+2 
+
+n(n+1)(2n+1) 
+
+- 
+
+- 
+
+6 
+
+Page 13 of 13 
+
+4D7FAB80-6EAE-40D3-9B51-AF0997FD239D 
+
+esc194-exam-2019 
+
+#305 
+
+26 of 26 
+
+

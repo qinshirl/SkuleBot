@@ -1,0 +1,466 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 5
+
+1. Consider the subset
+
+of R4.
+
+(cid:40)
+
+W =
+
+
+
+
+
+
+
+a + b + 2c
+2a + b + 3c
+a + b + 2c
+a + 2b + 3c
+
+
+
+
+
+
+
+(cid:41)
+
+| a, b, c ∈ R
+
+(a) Show that W is a subspace of R4. Hint: The easiest way to do this is to show W is the span of some
+vectors in R4 (c.f. Textbook, Theorem 2, page 18). This will also help you answer part (b) below.
+Solution:
+
+
+
+
+
+
+
+a + b + 2c
+2a + b + 3c
+a + b + 2c
+a + 2b + 3c
+
+
+1
+2
+
+
+
+
+1
+
+
+1
+
+
+1
+1
+
+
+1
+
+2
+
++ b
+
+
+
+
+
+
+
+
+
+
+
+
+
+W =
+
+(cid:40)
+
+(cid:40)
+
+W =
+
+a
+
+(cid:40)
+
+(cid:41)
+
+| a, b, c ∈ R
+
++ c
+
+
+
+
+
+
+
+
+2
+3
+
+
+2
+
+3
+
+(cid:41)
+
+| a, b, c ∈ R
+
+where
+
+W =
+
+av1 + bv2 + cv3 | a, b, c ∈ R
+
+v1 =
+
+
+
+
+
+
+
+
+1
+2
+
+
+1
+
+1
+
+, v2 =
+
+
+
+1
+1
+
+
+
+
+1
+
+
+2
+
+, v3 =
+
+(cid:41)
+
+
+
+2
+3
+
+
+
+
+2
+
+
+3
+
+(1)
+
+(2)
+
+(3)
+
+Therefore, for any vector x ∈ W , we have x = av1 + bv2 + cv3, for some a, b, c ∈ R, so that W =
+span{v1, v2, v3}. Using Theorem 2, page 18, it follows that W is a subspace of R4.
+
+(b) Find a basis for W . Hint: Use Textbook, Theorem 3, page 20.
+
+Solution:
+In part (a), we have proved that W = span{v1, v2, v3}. Notice that v3 = v2 + v1.
+Therefore, using Theorem 3, page 20, it follows that W = span{v1, v2}. Also, notice that v1 and v2
+are linearly independent, because of the following:
+
+
+
+av1 + bv2 = 0
+
+
+0
+0
+
+
+0
+
+0
+
+a + b
+2a + b
+a + b
+a + 2b
+
+
+
+
+
+
+
+
+
+=
+
+⇐⇒
+
+
+
+
+
+
+
+(4)
+
+(5)
+
+which gives, b = −a and b = −2a, so that a = 0 and b = 0 is the only solution for this system of
+equations. Therefore, v1 and v2 are linearly independent. With this, and using the deﬁnition of basis
+set, it follows that v1 and v2 form a basis for W .
+
+1 of 4
+
+(c) Determine the dimension of W .
+
+Solution: The dimension of W is 2 because the basis set of W consists of 2 vectors.
+
+2. Let x1, x2, x3, x4 be vectors in Rn. Suppose that x3 = x1 − x2 and x4 = 2x1 + 3x2 − x3. Suppose
+
+W = span{x1, x2, x3, x4}.
+
+(a) What are the possible dimensions of W ?
+
+Solution: To determine the possible dimensions of W , we should ﬁnd the possible number of linearly
+independent vectors in W . Since any vector in W is a linear combination of x1, x2, x3, and x4, then
+we should ﬁnd which vectors among these vectors are linearly independent. Notice that x3 = x1 − x2
+and x4 = 2x1 + 3x2 − x3 = x1 + 4x2. Therefore, x3 and x4 are linearly dependent on x1 and x2.
+Therefore, W = span{x1, x2}. With this, the possible dimensions of W are 0 (if x1 = x2 = 0), 1 (if
+x1 and x1 are non-zeros but linearly dependent), or 2 (if x1 and x2 are linearly independent).
+
+(b) Suppose dim(W ) = 2. Must {x3, x4} be linearly independent?
+
+Solution: If dim(W ) = 2, then x1 and x2 are linearly independent. Thus, ax1 + bx2 = 0 if and only
+if a = b = 0. Suppose that there exist a(cid:48), b(cid:48) ∈ R such that a(cid:48)x3 + b(cid:48)x4 = 0. In the following, we will
+show that a(cid:48) = b(cid:48) = 0, so that x3 and x4 must be linearly independent.
+
+a(cid:48)x3 + b(cid:48)x4 = 0
+a(cid:48)(x1 − x2) + b(cid:48)(x1 + 4x2) = 0
+(a(cid:48) + b(cid:48))x1 + (−a(cid:48) + 4b(cid:48))x2 = 0
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+But x1 and x2 are linearly independent, so that (a(cid:48) + b(cid:48)) = 0 and (−a(cid:48) + 4b(cid:48)) = 0, which is equivalent
+to a(cid:48) = b(cid:48) = 0. Therefore, x3 and x4 must be linearly independent.
+
+3. Let W be a subspace of Rn of dimension k. Show that
+
+(a) Any set of k vectors that span W must also be linearly independent and so form a basis for W .
+
+Solution: Let W = span{v1, v2, . . . , vk} be a subspace of Rn of dimension k. Assume towards a
+contradiction that {v1, v2, . . . , vk} are not linearly independent. This means that one of these vectors
+can be written as a linear combination of the rest. Without loss of generality, assume that this vector
+is vk, i.e. vk = a1v1 + · · · + akvk. Then, using Theorem 3, page 20, W = span{v1, v2, . . . , vk−1}.
+With this, dim(W ) ≤ k − 1 < k, a contradiction that completes the proof. Therefore, {v1, . . . , vk} are
+k linearly independent vectors of W . It follows that they form a basis for W .
+
+(b) Any linearly independent set of k vectors from W must also span W and so form a basis for W .
+
+Hint: You may ﬁnd Textbook, Lemma 6, page 98 helpful.
+
+Solution: Let {x1, x2, . . . , xk} be a basis for W , because dim(W ) = k. Notice that span{x1, x2, . . . , xk} =
+W, due to deﬁnition of basis. Let {v1, v2, . . . , vk} be a set of k vectors in W that are linearly inde-
+pendent. Let b ∈ W be an arbitrary vector. Due to Lemma 6, page 98, {b, v1, v2, . . . , vk} are linearly
+dependent vectors. So, there exist c0, c1, . . . , ck, not all zero, such that:
+
+c0b + c1v1 + · · · + ckvk = 0
+
+(10)
+
+2 of 4
+
+
+
+
+
+
+
+−2
+0
+1
+
+If c0 = 0, then c1v1 + · · · + ckvk = 0 where c1, c2, . . . , ck are not all zero. But this contradicts the fact
+that {v1, . . . , vk} is linearly independent! Therefore, c0 (cid:54)= 0. Thus, for any arbitrary b ∈ W , we can
+write:
+
+c1
+c0
+so that {v1, . . . , vk} span W . It follows that {v1, . . . , vk} also forms a basis for W .
+This result is a ”half-is-good-enough” type theorem. It says that IF you know that the dimension of
+a subspace W is k any set of k linearly independent vectors from W is automatically a basis for W
+(i.e. you needn’t check they span W ); and any set of k vectors from W that span W is automatically
+a basis for W (i.e. you needn’t check they are linearly independent). For example, since the dimension
+of R3 is 3, any set of 3 linearly independent vectors from R3 is a basis for R3.
+
+v1 − · · · −
+
+vk = b
+
+ck
+c0
+
+(11)
+
+−
+
+4. Forming bases that contain a given set of vectors.
+
+(a) Let x1 =
+
+
+
+1
+2
+ and x2 =
+
+3
+
+
+
+1
+. Find a third vector x3 such that {x1, x2, x3} is a basis for R3.
+1
+
+1
+
+Solution: Using the result from Problem 3, we only need to ﬁnd 3 linearly independent vectors.
+
+Notice that x1 and x2 are linearly independent. Let x3 =
+
+. We can check that the solution to
+
+the system ax1 + bx2 + cx3 = 0 has only the trivial solution, so {x1, x2, x3} are linearly independent,
+and thus, form a basis for R3
+
+(b) Given linearly independent vectors x1 and x2 in R3, is it always possible to ﬁnd a third vector x3 such
+
+that {x1, x2, x3} is a basis for R3? Explain.
+Solution: Notice that dim(R3) = 3, so that we need 3 linearly independent vectors to form a basis R3
+by question 3. Now, we know {x1, x2} do not span R3, i.e. span{x1, x2} (cid:54)= R3 which means we can
+always ﬁnd a vector x ∈ R3, x (cid:54)∈ span{x1, x2}. This would mean that the set {x, x1, x2} is linearly
+independent (why?) set of 3 vectors from R3 and so a basis for R3.
+
+(c) Let x1 =
+
+
+
+
+
+
+
+
+1
+2
+
+
+3
+
+4
+
+and x2 =
+
+
+
+1
+1
+
+
+
+
+1
+
+
+1
+
+. Find a third vector x3 such that {x1, x2, x3} is linearly independent in
+
+R4 and then ﬁnd a fourth vector x4 such that {x1, x2, x3, x4} is a basis for R4.
+
+
+0
+1
+
+
+
+
+0
+
+
+0
+
+Solution: Let x3 =
+
+
+1
+0
+
+
+0
+
+0
+
+, and x4 =
+
+
+
+
+
+
+
+. Construct a system of 4 equations and 4 unknowns using:
+
+c1x1 + c2x2 + c3x3 + c4x4 = 0. Notice that the only solution for this system is the trivial solution, i.e.
+c1 = c2 = c3 = c4 = 0. Therefore, {x1, x2, x3, x4} are linearly independent, and so, {x1, x2, x3} are
+also linearly independent.
+
+(d) Given linearly independent vectors x1 and x2 in R4, is it always possible to ﬁnd vectors x3 and x4
+
+such that {x1, x2, x3, x4} is a basis for R4? Explain.
+Solution: We mimic part (b) above. Notice that dim(R4) = 4, so that we need 4 linearly indepen-
+dent vectors to form a basis for R4 by question 3. Now, we know {x1, x2} does not span R4, i.e.
+span{x1, x2} (cid:54)= R4 which means that we can always ﬁnd a vector x ∈ R4, x (cid:54)∈ span{x1, x2}. Then,
+the set {x, x1, x2} is linearly independent (why?). We know that {x, x1, x2} does not span R4 either,
+
+3 of 4
+
+i.e. span{x, x1, x2} (cid:54)= R4, which means that we can always ﬁnd a vector y ∈ R4, y (cid:54)∈ span{x, x1, x2}.
+Then again the set {y, x, x1, x2} is linearly independent set of 4 vectors from R4 and so a basis for R4.
+
+Notice that this procedure holds in general. Given k linearly independent vectors {x1, x2, . . . , xk} in
+Rn you can always ﬁnd vectors xk+1, . . . , xn in Rn so that {x1, . . . , xk, xk+1, . . . xn} is a basis for Rn.
+
+4 of 4
+
+

@@ -1,0 +1,21 @@
+LAST Name (as seen on ROSI): __________________________________________   Tutorial Number: __________ 
+
+FIRST Name (as seen on ROSI):_______________________________________    Student Number:___________________ 
+
+MIE 100S - Quiz 1b: Jan 14, 2015: quiz duration = 20 minutes 
+
+At time t = 0, a particle is located at (x,y) = (5, 2) meters. Its velocity at all times is given by Vx = (3t - 12) m/s, and 
+Vy = 7t m/s, where “t” is the time measured in seconds. Make sure you give the correct units in your answers; vectors must have 
+the direction clearly specified with respect to the x-axis. 
+
+ at time t = 2 seconds 
+
+(a)  Determine 
+(b)  Find the magnitude of the total acceleration at time t = 2 seconds. 
+(c)  At time t = 0, what angle (expressed in radians) does the velocity make with respect to the x-axis? 
+
+𝑟⃗
+
+ 
+ 
+

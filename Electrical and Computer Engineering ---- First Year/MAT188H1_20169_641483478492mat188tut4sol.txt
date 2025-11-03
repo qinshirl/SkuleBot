@@ -1,0 +1,808 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 4
+
+1. Given a system of the linear equations, the last column of the augmented matrix of the system is called
+the constant matrix of the system, and the matrix obtained from the augmented matrix by deleting
+the last column is called the coeﬃcient matrix of the system (cf. page 69 of the textbook). We say
+the coeﬃcient matrix is nonsingular if there exists a unique solution to to the system, regardless of
+the value of the constant matrix.
+
+(a) Is the coeﬃcient matrix of the system
+
+x1 + 2x2 + x3 = a
+x1 + 3x2 + 4x3 = b
+2x1 + 4x2 + x3 = c
+
+nonsingular? Explain your answer.
+
+(b) Suppose a system of three equations in three unknowns has a nonsingular coeﬃcient matrix. What
+would be the rank of the coeﬃcient matrix? Describe the reduced row-echelon form of the coeﬃcient
+matrix as accurately as possible.
+
+(c) For what value(s) of c is the coeﬃcient matrix of the system
+
+x1 + x2 + cx3 = 1
+x1 + cx2 + cx3 = 1
+cx1 + x2 + x3 = 1
+
+nonsingular? Find the solution in terms of c.
+
+(d) Can a system of two equations in three unknowns have a nonsingular coeﬃcient matrix? Explain your
+
+answer in terms of the reduced row-echelon form of the coeﬃcient matrix.
+
+(e) Can a system of four equations in three unknowns have a nonsingular coeﬃcient matrix? Explain your
+
+answer in terms of the reduced row-echelon form of the coeﬃcient matrix.
+
+(f ) Can a system of m equations in n unknowns where m (cid:54)= n have a nonsingular coeﬃcient matrix?
+
+Explain your answer in terms of the reduced row-echelon form of the coeﬃcient matrix.
+
+Solution:
+
+(a) The augmented matrix, and its row-echelon form (check!), are
+
+
+
+
+
+1 2
+1 3
+2 4
+
+
+
+
+
+1 a
+b
+4
+c
+1
+
+row reduction
+−−−−−−−−−→
+
+
+
+
+
+1
+0
+0
+
+2
+1
+0
+
+1
+3
+1
+
+a
+b − a
+2a − c
+
+
+
+
+
+Since every variable is a leading variable, there is a unique solution for any choice of a, b, c. This means
+
+that the coeﬃcient matrix
+
+
+
+
+
+
+
+1 2 1
+1 3 4
+2 4 1
+
+ is nonsingular.
+
+1 of 5
+
+(b) Consider the reduced row-echelon form of such a system. Since there is a unique solution, there must
+
+be exactly 3 leading variables, all appearing in the (row-reduced) coeﬃcient matrix.
+
+We took the augmented matrix to this form by elementary row operations. If we look only at the
+coeﬃcient matrix, we can perform the same row operations to it (i.e.
+forget about the constant
+matrix). The result will be the matrix
+
+
+
+
+
+1
+0
+0
+
+0
+1
+0
+
+0
+0
+1
+
+
+
+
+
+This is the RREF for the coeﬃcient matrix, and its rank is 3.
+
+(c) Perform row operations to the augmented matrix:
+
+
+
+
+
+1 1
+c
+1
+1
+c
+
+
+
+
+
+1
+c
+1
+c
+1 1
+
+Rnew
+2 =R2−R1
+−−−−−−−−−→
+
+
+
+
+
+1
+0
+c
+
+1
+c − 1
+1
+
+
+
+
+
+c
+1
+0
+0
+1 1
+
+Rnew
+3 =R3−cR1
+−−−−−−−−−−→
+
+
+
+
+
+1
+0
+0
+
+1
+c − 1
+1 − c 1 − c2
+
+c
+0
+
+
+
+
+
+1
+0
+1 − c
+
+Rnew
+3 =R3+R2
+−−−−−−−−−→
+
+
+
+
+
+1
+0
+0
+
+1
+c − 1
+0
+
+c
+0
+1 − c2
+
+
+
+
+
+1
+0
+1 − c
+
+So, if c (cid:54)= 1, −1 there is a unique solution for any choice of constant matrix (check this!). So the
+coeﬃcient matrix is nonsingular if and only if c (cid:54)= 1, −1.
+
+(d) For a system of two equations in three unknowns, the coeﬃcient matrix is 2 by 3. Such a matrix has
+rank 1 or 2, and its RREF looks roughly like (note: the leading ones can appear in other columns)
+
+(cid:20)1
+0
+
+0
+0
+
+(cid:21)
+0
+0
+
+or
+
+(cid:20)1
+0
+
+0
+1
+
+(cid:21)
+
+0
+0
+
+If the system is consistent then there is at least one free variable, and so there are inﬁnitely many
+solutions. If the system is inconsistent (this can only happen in the rank 1 case), then there are no
+solutions. Overall, there is no way for us to have a unique solution for all constant matrices: the
+coeﬃcient matrix is singular.
+
+(e) For a system of four equations in three unknowns, the coeﬃcient matrix is 4 by 3. This implies that
+
+the coeﬃcient matrix has rank 1, 2 or 3, and looks roughly like
+
+
+1
+0
+
+
+0
+
+0
+
+
+
+
+
+
+
+0 0
+0 0
+0 0
+0 0
+
+or
+
+
+1
+0
+
+
+0
+
+0
+
+0
+1
+0
+0
+
+
+0
+0
+
+
+0
+
+0
+
+or
+
+
+1
+0
+
+
+0
+
+0
+
+0
+1
+0
+0
+
+
+0
+0
+
+
+1
+
+0
+
+We can deal with the ﬁrst two cases using the same argument as in part (d). For the rank 3 case, we
+will argue that for some choice of constant matrix the system is inconsistent: we can arrange so that
+the reduced row-echelon form of the augmented matrix is
+
+
+
+
+
+
+
+1
+0
+0
+0
+
+0
+1
+0
+0
+
+0
+0
+1
+0
+
+
+
+
+
+
+
+0
+0
+0
+1
+
+Namely, to put the coeﬃcient matrix into its reduced row-echelon form, we performed a series of
+elementary row operations. Elementary row operations are invertible: they can be undone. Now,
+apply these inverse operations to the augmented matrix written above. The result is the augmented
+matrix for a system as desired.
+
+2 of 5
+
+(f ) No, the coeﬃcient matrix can be nonsingular only if m = n. If we have m < n, then the proof from
+
+part (d) generalizes to this case. If m > n, then we can generalize the proof from part (e).
+
+2. Consider the systems
+
+a1x1 + b1x2 + c1x3 = d1
+a2x1 + b2x2 + c2x3 = d2
+a3x1 + b3x2 + c3x3 = d3
+
+a1x1 + b1x2 + c1x3 = d1
+a2x1 + b2x2 + c2x3 = d2
+a3x1 + b3x2 + c3x3 = d3 + 1
+
+The system on the left, we’ll call system (i); the one on the right, system (ii). Decide if the following
+statements are true or false:
+
+(a) If (i) has a unique solution, then so does (ii).
+
+(b) If the solution set of (i) is a line, then the same is true for (ii).
+
+(c) If (i) is inconsistent, then so is (ii).
+
+Solution:
+
+(a) True. By question 1(b), (i) has a unique solution iﬀ rank
+
+solution.
+
+(b) False. A counter-example is:
+
+
+
+
+
+a1 a2 a3
+b3
+b2
+b1
+c3
+c2
+c1
+
+
+
+ = 3 iﬀ (ii) has a unique
+
+x1 + x2 + x3 = 0
+x1 − x2 + x3 = 0
+2x1 + 2x2 + 2x3 = 0
+
+x1 + x2 + x3 = 0
+x1 − x2 + x3 = 0
+2x1 + 2x2 + 2x3 = 1
+
+Then (i) has the line t
+
+
+1
+0
+
+1
+
+
+
+ as its solution set, but (ii) has no solution.
+
+(c) False. A counter-example is:
+
+x1 + x2 + x3 = 0
+x1 − x2 + x3 = 0
+2x1 + 2x2 + 2x3 = −1
+
+x1 + x2 + x3 = 0
+x1 − x2 + x3 = 0
+
+2x1 + 2x2 + 2x3 = 0
+
+Then (i) has no solution but (ii) does.
+
+3 (a) Let {x, y} be linearly independent set of vectors in Rn. Let u = 3x − 2y, v = x + y. Show that the
+
+set {u, v} is linearly independent in Rn.
+
+3 of 5
+
+3 (b) Let {x, y} be linearly independent set of vectors in Rn. Let u = ax + by, v = cx + dy. Show that the
+
+set {u, v} is linearly independent in Rn if and only if the set
+
+R2.
+
+(cid:21)(cid:27)
+
+(cid:26)(cid:20)a
+(cid:21)
+b
+
+,
+
+(cid:20)c
+d
+
+is linearly independent in
+
+3 (c) Create an exercise similar to part (a), using diﬀerent coeﬃcients for x and y, so that the set {u, v} is
+
+linearly dependent.
+
+Solution:
+
+3 (a) We have to show that if
+
+then λ1 = λ2 = 0.
+Now, λ1u + λ2v = 0 is equivalent to λ1(3x − 2y) + λ2(x + y) = 0 which is equivalent to (3λ1 + λ2)x +
+(−2λ1 + λ2)y = 0. And since {x, y} is linearly independent, we have that
+
+λ1u + λ2v = 0
+
+which has only the trivial solution λ1 = λ2 = 0, as required.
+
+3 (b) First observe that
+
+3λ1 + λ2 = 0
+−2λ1 + λ2 = 0
+
+λ1u + λ2v = λ1(ax + by) + λ2(cx + dy) = (λ1a + λ2c)x + (λ1b + λ2d)y.
+
+(∗)
+
+Now, {u, v} is linearly dependent in Rn if and only if we have
+
+λ1u + λ2v = 0
+
+for some λ1, λ2 ∈ R not both zero. Using (∗), this condition is equivalent to having
+
+(λ1a + λ2c)x + (λ1b + λ2d)y = 0
+
+for some λ1, λ2 ∈ R not both zero. And using the fact that {x, y} is linearly independent, this last
+condition is equivalent to having
+
+λ1a + λ2c = 0
+
+λ1b + λ2d = 0
+
+for some λ1, λ2 ∈ R not both zero. We can rewrite these last two equations as
+
+(cid:21)
+
+(cid:20)a
+b
+
+λ1
+
++ λ2
+
+(cid:21)
+
+(cid:20)c
+d
+
+=
+
+(cid:20)0
+(cid:21)
+0
+
+In summary, what we’ve observed is that {u, v} is linearly dependent in Rn if and only if
+(cid:20)a
+(cid:21)
+b
+
+(cid:20)0
+(cid:21)
+0
+
+(cid:20)c
+d
+
++ λ2
+
+λ1
+
+=
+
+(cid:21)
+
+for some λ1, λ2 ∈ R not both zero. This last bit is the same as saying {
+in R2.
+
+(cid:20)a
+b
+
+(cid:21)
+
+,
+
+(cid:21)
+
+(cid:20)c
+d
+
+} is linearly dependent
+
+Thus, we’ve proved that {u, v} is linearly dependent in Rn if and only if {
+
+pendent in R2. Therefore, {u, v} is linearly independent in Rn if and only if {
+
+(cid:20)a
+(cid:21)
+b
+
+(cid:21)
+
+(cid:20)c
+,
+d
+(cid:21)
+(cid:20)a
+b
+
+} is linearly de-
+(cid:20)c
+d
+
+} is linearly
+
+(cid:21)
+
+,
+
+independent in R2, as desired.
+
+4 of 5
+
+3 (c) Many choices here. For example, take u = x − 2y, v = 2x − 4y.
+
+4. Let S =
+
+
+
+
+
+
+
+
+
+
+1
+−3
+2
+
+
+
+ ,
+
+
+
+
+
+
+
+
+
+ ,
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+1
+−5
+7
+
+2
+−4
+−1
+
+(a) Is R3 = span(S)? If not, ﬁnd a vector in R3 that cannot be written as a linear combination of the
+
+vectors in S.
+
+(b) Let S be the set in part (a). Is the set of solutions to the homogeneous system 11x1 + 5x2 + 2x3 = 0
+
+equal to the span of S?
+
+Solution:
+
+(a) We check if any vector
+
+
+
+
+
+x
+y
+z
+
+
+ ∈ R3 lies in span(S) which amounts to checking that the augmented matrix
+
+
+
+
+
+1
+1
+2
+−3 −4 −5
+7
+2 −1
+
+
+
+
+
+x
+y
+z
+
+is consistent for choices of x, y, z. We row reduce:
+
+
+
+
+
+1
+2
+1
+−3 −4 −5
+7
+2 −1
+
+x
+y
+z
+
+
+
+
+
+ ∼
+
+
+
+1
+0
+0 −5
+
+1
+2
+2 −2
+5
+
+x
+y + 3x
+z − 2x
+
+
+
+
+
+ ∼
+
+
+
+1
+0
+0
+
+1
+2
+2 −2
+0
+0
+
+x
+y + 3x
+2z + 11x + 5y
+
+
+
+ .
+
+The system is inconsistent if 2z + 11x + 5y (cid:54)= 0 so span(S) (cid:54)= R3. For instance,
+
+
+
+ is not in span(S).
+
+
+1
+0
+
+0
+
+(b) Yes they are the same. In part (a) we saw that the augmented matrix was consistent if and only if
+
+2z + 11x + 5y = 0 which is the equation in question.
+
+5 of 5
+
+

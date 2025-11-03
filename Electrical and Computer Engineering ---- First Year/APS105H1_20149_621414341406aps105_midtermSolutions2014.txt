@@ -1,0 +1,712 @@
+UNIVERSITY OF TORONTO
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+
+APS 105 — Computer Fundamentals
+Midterm Examination
+October 15, 2014
+7:45 p.m. – 9:30 p.m.
+(105 minutes)
+
+Examiners: B. Li, J. Rose, H. Timorabadi, B. Wang
+
+Exam Type A: This is a “closed book” examination; no aids are permitted.
+Calculator ’Type’ 4: No calculators or other electronic devices are allowed.
+
+All questions are to be answered on the examination paper. If the space provided for a question
+If you use the last page,
+is insufﬁcient, you may use the last page to complete your answer.
+please direct the marker to that page and indicate clearly on that page which question(s) you are
+answering there.
+
+You must use the C programming language to answer programming questions. You are not re-
+quired write #include directives in your solutions. You may use any math function that you
+have learned, as necessary.
+
+The examination has 16 pages, including this one.
+
+Circle the day of your lab - (1 mark will be deducted if you don’t correctly indicate your lab day):
+
+PRA0101
+
+PRA0102
+Friday Wednesday Monday
+12-2pm
+12-2pm
+1-3pm
+
+PRA0103 PRA0104
+Thursday
+12-2pm
+
+First Name:
+
+Last Name:
+
+Student Number:
+
+MARKS
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Total
+
+/2
+
+/2
+
+/2
+
+/2
+
+/2
+
+/2
+
+/3
+
+/3
+
+/2
+
+/6
+
+/6
+
+/6
+
+/6
+
+/6
+
+/50
+
+Question 1 [2 Marks]
+
+What will be printed when the following C program is executed?
+
+int main(void) {
+
+int first = 1, second = 10;
+int *pointerToFirst, *pointerToSecond;
+
+pointerToFirst
+pointerToSecond = &second;
+
+= &first;
+
+*pointerToFirst
+= *pointerToSecond - *pointerToFirst;
+*pointerToSecond = *pointerToSecond - *pointerToFirst;
+= *pointerToSecond + *pointerToFirst;
+*pointerToFirst
+
+printf("%d, %d\n", first, second);
+
+}
+
+Solution:
+
+10, 1
+
+Question 2 [2 Marks]
+In the following C program, how many times will the asterisk "*" be printed?
+
+int main(void) {
+int i, j, k;
+
+for (i = 0; i < 2; i++)
+
+for (j = 0; j < 3; j++)
+
+for (k = j; k > 0; k--)
+
+if (i < j)
+
+printf("*");
+
+return 0;
+
+}
+
+Solution:
+
+The asterisk will be printed 5 times.
+
+2
+
+Question 3 [2 Marks]
+Write a single C statement that will compute the value of r according to the following expression,
+and assign the value to r.
+
+r =
+
+xn + 6 × x4
+sin(y) + cos−1(z)
+
+You can assume that all the variables in the expression are already declared as double types, and
+that the math library (described by the header ﬁle math.h) is available, and that the value of y
+and z is in radians.
+
+r = (pow(x, n) + 6 * pow(x, 4.0)) / (sin(y) + acos(z));
+
+Question 4 [2 Marks]
+Suppose that x is a variable of type int, and has a value of 5, y is a char variable with value ’T’
+and z is a double variable with value 9.2. Evaluate the following expressions:
+
+Solution:
+
+Expression
+pow(2.0, x - 2)
+(char) (y + x)
+(int) (z / x)
+(x != 0) && (x < z)
+
+Answer
+8.0
+Y
+1
+true
+
+3
+
+Question 5 [2 Marks]
+
+What does the following program print?
+
+int main(void) {
+
+int i = 10;
+
+while (i > 5) {
+
+printf("%d\n", i * i);
+
+if (i % 2 != 0)
+
+printf("***\n");
+
+i--;
+
+}
+return 0;
+
+}
+
+Solution:
+
+100
+81
+***
+64
+49
+***
+36
+
+Question 6 [2 Marks]
+Write a single C statement that declares an int type variable named randomNum and initializes it
+to a random number between 0 and 105 inclusive, where the random number is divisible by 5.
+Solution:
+
+int randomNum = (rand() % 22) * 5;
+
+Question 7 [3 Marks]
+
+What is the output of the following program?
+
+int main(void) {
+
+int a = 1, b = 2, c = 7, d = 4, e = 5;
+
+for (a = 1; a <= 4; a++)
+b = b - 10 + a;
+
+4
+
+c = c / 2;
+
+printf("a: %d b: %d c: %d ", a, b, c);
+
+while (d >= 7)
+
+d = d + 100;
+
+printf("d: %d ", d);
+
+do {
+
+e = e % 2;
+} while (e >= 4);
+
+printf("e: %d\n", e);
+
+return 0;
+
+}
+
+Solution:
+
+a: 5 b: -28 c: 3 d: 4 e: 1
+
+5
+
+Question 8 [3 Marks]
+The following C program is supposed to ask the user for an input integer n and to compute which
+numbers from 1 to n are divisible by 3, and to output just those numbers, one per line. There are
+four errors in this program, which are either syntax or logical errors.
+
+printf("Enter number: ");
+scanf("%d", n);
+
+for (i = 1; i <= n; n++) {
+
+int i, n, div3;
+
+1 #include <stdio.h>
+2
+3 int main(void)
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17 }
+
+if (div3 == 0)
+
+div3 = i % 3;
+
+return 0;
+
+}
+
+printf("%d", i);
+
+For each error, state, in the following table, the line number that has the error, and give the cor-
+rected statement.
+
+Solution:
+
+Line Number
+3
+7
+9
+13
+
+Corrected Line
+int main(void) {
+scanf("%d", &n);
+for (i = 1; i <= n; i++) {
+printf("%d\n", i);
+
+6
+
+Question 9 [2 Marks]
+
+There have been ﬁve plenary lectures so far in this course, and there is one question from each
+below. You should give a written answer from two of these ﬁve questions. The answer should be
+one or two sentences. If you answer more than two questions, you must indicate which two you
+wish to be graded; if you do not indicate which, then the ﬁrst two in order will be graded.
+
+Plenary Lecture 1 – Creative Application for Mobile Devices. What does it mean when we say
+that smartphones allow an application to scale? Give an example.
+
+Solution: Once an applications works, it can be deployed to everyone in the world who has
+compatible smartphones – for example, if an application for diagnosing a skin disease can work,
+it can be deployed to everyone in the world with a compatible camera.
+
+Plenary Lecture 2 – Software at Google Scale. How did Google make clever use of its computer
+servers when they were not being used?
+
+Solution: When one part of the world was more likely to be sleeping, and therefore making less
+use of the local servers, those would be used to help the part of the world that was awake, and
+needing more compute power?
+
+Plenary Lecture 3 – From Smartphones to the Cloud. What does an object contain?
+
+Solution: Variables and Functions, also known as methods.
+
+Plenary Lecture 4 – Software Companies – Pheedloop and Konnectivity. In one sentence each,
+describe what service is provided by the companies Konnectivity and Pheedloop.
+
+Solution: Konnectivity allows people in a geographic area, at a conference, to meet people who
+would be of interest to them, after describing their own proﬁle. Pheedloop allows speakers to
+obtain fast feedback from their audience.
+
+Plenary Lecture 5 – An EE’s Journey to the Software Side. Name one of the things (systems) that
+Professor Betz talked about using software to optimize (i.e. make better). In addition, say, in one
+sentence, what was being optimized.
+
+7
+
+Solution: Three possible answers: Antenna for US Navy, optimizing the radiation or efﬁciency of
+antenna. MRI - optimizing the design of the MRI magnets, or the shielding of the system. Design
+of a computer chip - optimizing the sizing of transistors (or anything close to that).
+
+8
+
+Question 10 [6 Marks]
+
+In Canada, different tax rates are used depending on the taxpayer’s marital status and income.
+The table below gives the tax rate computations for a single person, using the values for the 2013
+federal tax return.
+
+If the taxable income is over But not over
+
+$0
+$43,561
+$87,123
+$135,054
+
+$43,561
+$87,123
+$135,054
+
+The tax is
+15%
+6534.15 + 22%
+16118.79 + 26%
+28580.85 + 29%
+
+Of the amount over
+$0
+$43,561
+$87,123
+$135,054
+
+Write a C program that asks the user to enter the taxable income, and then prints out the federal
+tax owing on that income, to two decimal places.
+
+Your program should match the output of these example runs:
+
+Example Run 1:
+
+Enter your taxable income: 21346.00
+Your federal tax is $3201.90
+
+Example Run 2:
+
+Enter your taxable income: 34500.00
+Your federal tax is $5175.00
+
+Example Run 3:
+
+Enter your taxable income: 53000.00
+Your federal tax is $8610.73
+
+Solution:
+
+#include <stdio.h>
+int main(void) {
+
+const double LEVEL1 = 0.0, LEVEL2 = 43561.0,
+
+LEVEL3 = 87123.0, LEVEL4 = 135054.0;
+
+const double RATE1 = 0.15, RATE2 = 0.22, RATE3 = 0.26, RATE4 = 0.29;
+const double BASE1 = 0.0, BASE2 = 6534.15,
+
+BASE3 = 16118.79, BASE4 = 28580.85;
+
+double income, tax;
+
+printf("Enter your taxable income: ");
+scanf("%lf", &income);
+
+if(income <= LEVEL2)
+
+9
+
+tax=income*RATE1;
+
+else if(income <= LEVEL3)
+
+tax=BASE2 + (income-LEVEL2)*RATE2;
+
+else if(income<=LEVEL4)
+
+tax=BASE3 + (income-LEVEL3)*RATE3;
+
+else
+
+tax=BASE4 + (income-LEVEL4)*RATE4;
+
+printf("Your federal tax is $%.2lf\n", tax);
+return (0);
+
+}
+
+10
+
+Question 11 [6 Marks]
+Please write a C program that repeatedly prompts the user to enter two integer numbers (num1
+and num2). For each pair of numbers, the program computes the remainder of the integer division
+of num1 by num2, but the modulus (%) operator must not be used. The remainder for each pair is
+to be printed. You can assume that neither of the inputs are zeros. The program should terminate
+when at least one of the inputs is a negative number.
+Again, you may only use the basic arithmetic operators in this program: +, -, *, and /. You may
+not use the % operator.
+
+The output of your program should match the example run shown below:
+
+Please enter two integer numbers: 10 3
+10 % 3 = 1
+
+Please enter two integer numbers: 25 5
+25 % 5 = 0
+
+Please enter two integer numbers: 2 3
+2 % 3 = 2
+
+Please enter two integer numbers: 10 -5
+Goodbye.
+
+Solution:
+
+int main(void) {
+
+int num1, num2, divide, multiply, remainder;
+
+printf("Please enter two integer numbers: ");
+
+scanf("%d%d", &num1, &num2);
+
+while(num1 > 1 && num2 > 1) {
+divide
+/ num2;
+= num1
+multiply = divide * num2;
+remainder = num1
+
+- multiply;
+
+printf("%d %% %d = %d\n\n", num1, num2, remainder);
+
+printf("Please enter two integer numbers: ");
+scanf("%d%d", &num1, &num2);
+}
+printf("Goodbye.");
+return 0;
+}
+
+11
+
+Question 12 [6 Marks]
+
+Write a C program that prompts the user to enter three lower-case letter and then prints them out
+in alphabetical order. (You can assume that the three letters are all lower case.)
+
+The program’s input and output sequence should look like these examples, each time it is run:
+Example Run 1:
+
+Enter three lower-case letters: cvb
+Output in alphabetical order: bcv
+
+Example Run 2:
+
+Enter three lower-case letters: zxy
+Output in alphabetical order: xyz
+
+Example Run 3:
+
+Enter three lower-case letters: abc
+Output in alphabetical order: abc
+
+Example Run 4:
+
+Enter three lower-case letters: ddb
+Output in alphabetical order: bdd
+
+Solution:
+
+int main(void) {
+
+char a,b,c;
+
+printf("Enter three lower-case letters: ");
+scanf("%c%c%c",&a,&b,&c);
+
+printf("Output in alphabetical order: ");
+
+if (a <= b && a <= c) {
+printf("%c",a);
+
+if (b<=c) printf("%c%c",b,c);
+else printf("%c%c",c,b);
+
+}
+
+else if (b <=c && b <= a) {
+
+printf("%c",b);
+
+if (a<=c) printf("%c%c",a,c);
+else printf("%c%c",c,a);
+
+12
+
+}
+
+else {
+
+printf("%c",c);
+
+if (a<=b) printf("%c%c",a,b);
+else printf("%c%c",b,a);
+
+}
+
+return (EXIT_SUCCESS);
+
+}
+
+13
+
+Question 13 [6 Marks]
+
+In this question, you are to complete the code for a function and its calling in a main program. The
+functions is called sumAndProductOfMultiples; it takes integers multiple1 and multiple2,
+and a maximum bound max as input, and computes both the sum and the product of all the posi-
+tive integers less than max that are multiples of either multiple1 or multiple2.
+
+For example, if multiple1 = 3, multiple2 = 5, and max = 10, the positive integers less
+than 10 that are multiples of either 3 or 5 are 3, 5, 6, 9. Their sum is 23, and their product is
+810. The function must return the sum and product values via pointer parameters sumPtr and
+productPtr, as implied in the skeleton code below.
+
+In the code skeleton below, you are given most of the main function, but you must give the call to
+the sumAndProductOfMultiples function. After that you are given just the declaration line of
+the function, and you must write the remainder of the function.
+Solution:
+
+void sumAndProductOfMultiples(int multiple1, int multiple2, int max, int *sumPtr, int *productPtr);
+
+int main(void)
+{
+
+int multi1 = 3, multi2 = 5, max = 10;
+int sum, product;
+
+// add your call to sumAndProductOfMultiples here:
+
+sumAndProductOfMultiples(multi1, multi2, max, &sum, &product);
+
+printf("m1 = %d, m2 = %d, max = %d, sum = %d, product = %d\n",
+
+multi1, multi2, max, sum, product);
+
+return 0;
+
+}
+
+void sumAndProductOfMultiples(int multiple1, int multiple2, int max, int *sumPtr, int *productPtr)
+{
+
+*sumPtr = 0, *productPtr = 1;
+int i;
+for (i = 1; i < max; i ++) {
+
+if (i % multiple1 == 0 || i % multiple2 == 0) {
+
+*sumPtr += i;
+*productPtr *= i;
+
+}
+
+}
+
+}
+
+14
+
+Question 14 [6 Marks]
+
+Write a complete C program that ﬁrst prompts the user for a number of rows (with the assumption
+that the user enters a valid number between 0 and 26 inclusive), and then prints a pattern of letters
+that appears exactly like the following examples:
+
+When the number of rows is 3 it should print:
+
+ABC
+BCA
+CAB
+
+When the number of rows is 10 it should print::
+
+ABCDEFGHIJ
+BCDEFGHIJA
+CDEFGHIJAB
+DEFGHIJABC
+EFGHIJABCD
+FGHIJABCDE
+GHIJABCDEF
+HIJABCDEFG
+IJABCDEFGH
+JABCDEFGHI
+
+If a user enters 0 as the number of rows, nothing will be printed.
+
+Solution:
+
+int main(void) {
+
+int numberOfRows;
+
+printf("Please enter the number of rows: ");
+scanf("%d", &numberOfRows);
+
+int row, col;
+for (row = 1; row <= numberOfRows; row++) {
+
+for (col = 1; col <= numberOfRows; col++) {
+
+printf("%c", ’A’ + ((row + col - 2) % numberOfRows));
+
+}
+printf("\n");
+
+}
+return 0;
+
+}
+
+15
+
+This page has been left blank intentionally. You may use it for answers to any questions.
+
+16
+
+

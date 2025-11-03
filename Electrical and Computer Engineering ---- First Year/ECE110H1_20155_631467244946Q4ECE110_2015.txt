@@ -1,0 +1,22 @@
+ECE110 - Quiz #4 
+Only non-programmable calculators are allowed. 
+Duration: 30 Minutes 
+
+First Name: _____________________ Last Name: ______________________________ 
+
+Student #:_______________________ Tutorial Section: __________________________ 
+
+In the circuit shown below apply Nodal Analysis to determine: 
+a) Voltage at nodes b and c. [2 Marks] 
+b) Currents IX, IY, and IZ. [2 Marks] 
+c) Power by current source. [1 Mark] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

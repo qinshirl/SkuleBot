@@ -1,0 +1,909 @@
+NAME ( Given then Family ):
+
+Student Number:
+
+UTORid:
+
+Email address:
+
+@mail.utoronto.ca
+
+University of Toronto
+Faculty of Applied Science & Engineering
+
+Winter 2024/2025
+110 Minutes
+
+MAT187H1S Midterm 2 Solutions
+
+Exam Reminders:
+
+• Fill out your name, UTORid, and email address at the top of this page.
+• Do not begin writing the exam until instructed to do so.
+• As a student, you help create a fair and inclusive writing environment; unauthorized aids are prohibited and using
+
+one may result in you being charged with an academic offence.
+
+• Turn off and place all cell phones, smart watches, electronic devices, and unauthorized study materials in your bag
+
+under your desk. These devices may not be left in your pockets.
+
+• If you are feeling ill and unable to finish your exam, please bring it to the attention of an Exam Facilitator.
+• In the event of a fire alarm, do not check cell phones or other electronic devices unless authorized to do so.
+
+Special Instructions:
+
+• Write legibly and darkly.
+• For questions with a boxed area, ensure your answer is completely within the box.
+• Fill in your bubbles completely.
+
+Good:
+
+A
+
+B
+
+Bad:
+
+A
+
+B
+
+C
+
+Scoring
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+8
+
+2
+
+12
+
+3
+
+6
+
+4
+
+4
+
+5
+
+7
+
+6
+
+5
+
+Total
+
+42
+
+The following formulae are provided for your use during the exam.
+
+Formula Sheet
+
+Simpson’s Rule
+
+If p is a quadratic polynomial,
+
+(cid:90) b
+
+a
+
+p(x) dx =
+
+(cid:18)
+
+b − a
+6
+
+p(a) + 4p
+
+(cid:17)
+
+(cid:16) a + b
+2
+
+(cid:19)
+
++ p(b)
+
+.
+
+Taylor’s Remainder Theorem
+
+Let Tn be the nth Taylor approximation of function f centered at a. Further, assume f has at least n + 1
+continuous derivatives. Then
+
+Rn(x) = f (x) − Tn(x) =
+
+f (n+1)(c)
+(n + 1)!
+
+(x − a)n+1
+
+for some c between x and a.
+
+Geometric Sum
+
+n
+(cid:88)
+
+i=0
+
+ri =
+
+1 − rn+1
+1 − r
+
+1. For this question there is no need to show your work.
+
+(a) (2 points) Find an antiderivative of x2ex whose graph passes through (0, 0).
+
+x2ex − 2xex + 2ex − 2
+
+(b) Consider the function f (x) = x3 sin(x2)
+
+i. (1 point) The 11th derivative of f at 0 is
+
+0 (cid:13) 1/3! (cid:13) −11!/3! (cid:13) 11!/5! (cid:13) 13!/5!
+
+ii. (1 point) The 13th derivative of f at 0 is
+
+(cid:13) 0 (cid:13) 1/3! (cid:13) −11!/3! (cid:13) 11!/5!
+
+13!/5!
+
+(c) (2 points) Let f and g be differentiable functions and suppose both of their 6th Taylor polynomials,
+
+centered at 3, are equal. Which statements are true? Mark all that apply.
+
+(cid:13) It must be that f (0) = g(0)
+
+It must be that f (3) = g(3)
+
+(cid:13) It must be that f (x) = g(x) for all x ∈ R
+It could be that f (x) = g(x) for all x ∈ R
+
+(d) (2 points) Which of the following improper integrals converge? Mark all that apply.
+
+(cid:90) ∞
+
+(cid:13)
+
+ex dx
+
+0
+(cid:90) ∞
+
+1
+
+e−x
+x
+
+dx
+
+(cid:90) ∞
+
+1
+
+(cid:13)
+
+Scratch work:
+
+1
+x5 dx
+(cid:90) ∞
+
+−∞
+
+sin(x) dx
+
+(cid:13)
+
+(cid:90) 1
+
+0
+
+1
+x5 dx
+
+2. Let f (x) = e−x2
+
+.
+
+Let T be a power series representation of f centered at 0.
+(a) (2 points) Write down T (5) using Σ-notation.
+
+T (5) =
+
+∞
+(cid:88)
+
+i=0
+
+(−1)i(5)2i
+i!
+
+(b) (2 points) Provide a well-written definition of the statement “the series T (5) converges”. Do not
+
+determine whether T (5) converges. Only write the definition of convergence.
+
+The series T (5) converges if the sequence of partial sums Sn =
+
+n
+(cid:88)
+
+i
+
+(−1)i(5)2i
+i!
+
+converges.
+
+(c) (3 points) Does T (5) converge? Provide a well-written justification. Your justification must cite
+
+any convergence tests that you use.
+
+T (5) converges (cid:13) T (5) diverges
+
+Justification:
+
+Applying the ratio test to T (5) we compute
+
+(cid:12)
+(cid:12)
+(cid:12)
+
+(cid:12)
+(cid:12)
+(cid:12)
+
+(−1)i+1(5)2(i+1)
+(i+1)!
+
+(cid:12)
+(cid:12)
+(cid:12)
+
+(−1)i(5)2i
+i!
+
+(cid:12)
+(cid:12)
+(cid:12)
+
+lim
+i→∞
+
+= lim
+i→∞
+
+i!
+(i + 1)!
+
+·
+
+52i+2
+52i = lim
+
+i→∞
+
+25
+i + 1
+
+= 0
+
+Since 0 < 1, the ratio test determines that T (5) converges.
+
+Page 2
+
+(cid:90) x
+
+0
+
+Let F (x) =
+
+define
+
+f (t) dt =
+
+(cid:90) x
+
+0
+
+e−t2 dt, let P be a power series representation of F centered at 0, and
+
+g(x) =
+
+(cid:40)
+1
+e−x
+
+if x < 1
+if x ≥ 1
+
+.
+
+For the remaining parts, you may use the fact that e−x2 ≤ g(x) for all x ≥ 0.
+
+(d) (2 points) Write down P (5) using Σ-notation.
+
+P (5) =
+
+∞
+(cid:88)
+
+i=0
+
+(−1)i(5)2i+1
+(2i + 1) · i!
+
+(e) (1 point) Compute I =
+
+(cid:90) 5
+
+0
+
+g(x) dx. No need to simplify.
+
+I =
+
+1 + e−1 − e−5
+
+(f) (2 points) Use g to find an upper bound for F (5). Explain how you obtained your bound. No need
+
+to simplify.
+
+F (5) ≤
+
+1 + e−1 − e−5
+
+Explanation:
+
+Since f (x) ≤ g(x) for x ≥ 0, we have that
+
+(cid:90) k
+
+0
+
+f (x) dx ≤
+
+(cid:90) k
+
+0
+
+g(x) dx.
+
+Letting k = 5 we arrive at our upper bound.
+
+Page 3
+
+3. Let
+
+f (x) =
+
+1
+x2 + x − 6
+
+and
+
+g(x) =
+
+A
+x − 2
+
++
+
+B
+x + 3
+
+.
+
+(a) (2 points) You would like to find A, B ∈ R so that f (x) = g(x) for all x. Let (cid:126)v be the column vector
+with entries A, B. Find a matrix M and a vector (cid:126)b so that solving M(cid:126)v = (cid:126)b will give you the correct
+values for A, B.
+
+(cid:20)1
+1
+3 −2
+(cid:123)(cid:122)
+M
+
+(cid:124)
+
+(cid:21)
+
+(cid:125)
+
+(cid:21)
+
+(cid:20)A
+B
+
+=
+
+(cid:21)
+(cid:20)0
+1
+(cid:124)(cid:123)(cid:122)(cid:125)
+(cid:126)b
+
+(b) (2 points) You would like to compute I =
+
+(cid:90) ∞
+
+f (x) dx. Express I using only definite integrals and
+
+limits. Do not evaluate any of the integrals/limits.
+
+0
+
+I =
+
+(cid:90) k
+
+0
+
+lim
+k→2−
+
+f (x), dx + lim
+k→2+
+
+(cid:90) 3
+
+k
+
+f (x), dx + lim
+k→∞
+
+(cid:90) k
+
+3
+
+f (x), dx
+
+(c) (2 points) Let F be an antiderivative of f satisfying F (6) = 10.
+
+Does lim
+x→∞
+
+F (x) exist? Provide a well-written justification.
+
+lim
+x→∞
+
+F (x) exists (cid:13) lim
+x→∞
+
+F (x) does not exist (cid:13) Cannot be determined
+
+Justification: Notice that x2 + x − 6 ≥ x2 when x ≥ 6. Therefore
+
+0 < f (x) ≤
+
+1
+x2
+
+when x ≥ 6. Since F is an antiderivative of f (and because f is continuous on [6, ∞)), we know
+
+(cid:90) x
+
+6
+
+f (t) dt = F (x) + C
+
+for a fixed constant C. By our previous inequality,
+
+lim
+x→∞
+
+(cid:90) x
+
+6
+
+f (t) dt ≤ lim
+x→∞
+
+(cid:90) x
+
+6
+
+1
+t2 dt < ∞
+
+with the last inequality following from the p-test. Because f (x) is positive on [0, ∞), by monotone
+
+convergence,
+
+lim
+x→∞
+
+(cid:90) x
+
+6
+
+f (t) dt converges and therefore lim
+x→∞
+
+F (x) converges.
+
+Page 4
+
+4. In this question, you are asked to draw, if possible, the graph of a function f : [0, 2] → R subject to
+
+various restrictions. If no such function exists, you are to mark the option “No such f exists”.
+
+For both questions, you are to assume:
+
+• f is continuous
+• f is defined on its entire domain [0, 2]
+• f (0) = 0
+
+Note 1: in the following questions you are drawing f but integrating 1/f .
+
+Note 2: if you feel like your drawing is unclear, you may add a description in words below your graph.
+
+(a) (2 points) f satisfies that the improper integral
+
+(cid:90) 2
+
+0
+
+1
+f (x)
+
+dx converges and is positive.
+
+Such an f exists (cid:13) No such f exists
+
+3
+
+2
+
+1
+
+−1
+
+−2
+
+−3
+
+1
+
+2
+
+(b) (2 points) f satisfies that the improper integral
+
+(cid:90) 2
+
+0
+
+1
+f (x)
+
+dx diverges to −∞.
+
+Such an f exists (cid:13) No such f exists
+
+1
+
+2
+
+3
+
+2
+
+1
+
+−1
+
+−2
+
+−3
+
+Page 5
+
+5. Shiwei is analysing the power series P (x) =
+
+∞
+(cid:88)
+
+n2nxn. He is searching for the radius of convergence of
+
+P . His writeup for his instructor is as follows:
+
+n=0
+
+Dear Instructor, I applied the ratio test to find radius of convergence of P (x).
+
+(Step 1) First, I compute the limit
+
+(Step 2) Simplifying, I get
+
+L = lim
+n→∞
+
+(n + 1)2n+1xn+1
+n2nxn
+
+.
+
+L = lim
+n→∞
+
+(n + 1)2x
+n
+
+= lim
+n→∞
+
+n + 1
+n
+
+· 2x.
+
+(Step 3) Since 2x is a constant, I may pull it out of the limit and so we see
+
+L = lim
+n→∞
+
+n + 1
+n
+
+· 2x = 2x · lim
+n→∞
+
+n + 1
+n
+
+= 2x · 1 = 2x.
+
+(Step 4) The ratio test requires L < 1. I see
+
+L = 2x < 1
+
+=⇒
+
+x <
+
+1
+2
+
+.
+
+(Step 5) Therefore P (x) converges when x ∈ (−∞, 1
+(Step 6) Therefore the radius of convergence of P (x) is ∞.
+
+2).
+
+(a) (2 points) Select the answer that best describes Shiwei’s work.
+
+(cid:13) Shiwei reached the correct conclusion and his work is correct.
+(cid:13) Shiwei reached the correct conclusion but his work is incorrect.
+
+Shiwei reached an incorrect conclusion.
+
+(cid:13) It cannot be determined from the given information whether Shiwei’s work/conclusion is
+
+correct or not.
+
+(b) (2 points) What is the radius of convergence of P ?
+
+Radius of convergence =
+
+1/2
+
+Scratch work:
+
+Page 6
+
+(c) (3 points) Correct any mistakes Shiwei made by crossing out/modifying Shiwei’s steps. If Shiwei
+
+made no mistakes, mark “Shiwei’s answer has no mistakes”.
+(cid:13) Shiwei’s answer has no mistakes
+
+(Step 1)
+
+First, I compute the limit
+
+L = lim
+
+n→∞ | (n + 1)2n+1xn+1
+
+n2nxn
+
+| .
+
+(Step 2)
+
+Simplifying, I get
+
+L = lim
+n→∞
+
+(n + 1) | 2x |
+n
+
+= lim
+n→∞
+
+n + 1
+n
+
+· | 2x | .
+
+(Step 3)
+
+Since | 2x |
+
+is a constant, I may pull it out of the limit and so we see
+
+L = lim
+n→∞
+
+n + 1
+n
+
+· | 2x | = | 2x | · lim
+n→∞
+
+n + 1
+n
+
+= | 2x | · 1 = | 2x | .
+
+(Step 4)
+
+The ratio test requires L < 1. I see
+
+L = | 2x | < 1
+
+=⇒
+
+| x | <
+
+1
+2
+
+.
+
+Therefore P (x) converges when (cid:24)(cid:24)(cid:24)(cid:24)(cid:24)(cid:24)(cid:24)(cid:58) x ∈ (−1/2, 1/2)
+
+x ∈ (−∞, 1
+
+2).
+
+(Step 5)
+
+(Step 6)
+
+Therefore the radius of convergence of P (x) is (cid:8)(cid:8)(cid:42)
+∞.
+
+1/2
+
+Page 7
+
+6. A new solar plant is installing advanced batteries to provide power during the night. Each battery is 5m
+
+tall and looks roughly like a cone.
+The cross-sectional area (in square metres) of a battery at h metres above the ground is given by
+
+A(h) =
+
+1
+h + 4
+
+√
+2
+
+.
+
+Because of the way the chemicals in the battery settle, the energy density of a fully charged battery varies
+as a function of height. Let D(h) be the energy density at height h metres above the base of a fully
+charged battery (in units of giga-Joules per cubic metre). D is given by the following graph.
+
+Energy density
+
+3
+2
+1
+
+h
+
+1
+
+2
+
+3
+
+4
+
+5
+
+(a) (2 points) Set up a definite integral to compute the total energy, E, contained in a fully charged
+battery. Do not evaluate your integral. Your final answer may contain the expressions A(h) and
+D(h).
+
+E =
+
+(cid:90) 5
+
+0
+
+A(h) · D(h) dh
+
+(b) (3 points) Compute the total energy, E, contained in a fully charged battery. No need to simplify
+
+your answer.
+
+E =
+
+√
+7
+
+14
+3
+
+43
+3
+
+−
+
+Scratch work:
+
+= 9 − 2
+
+3(7)3/2 + 2
+
+3(4)3/2 = 9 +
+
+16
+3
+
+− 2
+
+3(7)3/2 ≈ 1.986
+
+Page 8
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 9
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 10
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 11
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 12
+
+

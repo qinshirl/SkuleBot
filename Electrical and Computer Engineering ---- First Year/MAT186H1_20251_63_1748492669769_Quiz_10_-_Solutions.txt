@@ -1,0 +1,239 @@
+MAT 186 
+Quiz 10 
+
+CF9  CS14 
+
+Name: ________________________________ 
+
+Student number:_______________________ 
+
+1.  Find the volume of the shape created when the region 
+between 𝒚 = 𝟐𝒙𝟐 + 𝟓𝒙 − 𝟐 and 𝒚 = 𝟒 + 𝟐𝒙 − 𝒙𝟐 is 
+rotated about the line 𝒙 = 𝟏. 
+
+We begin by equating the functions and finding where they intersect. 
+
+2𝑥2 + 5𝑥 − 2 = 4 + 2𝑥 − 𝑥2 
+3𝑥2 + 3𝑥 − 6 = 0 
+3(𝑥 + 2)(𝑥 − 1) = 0 
+
+Therefore, 𝑥 = −2,1 are the points of intersection.  The volume is: 
+
+1
+
+𝑉 = 2𝜋 ∫ (−3𝑥2 − 3𝑥 + 6)(1 − 𝑥)𝑑𝑥
+
+−2
+1
+
+= 6𝜋 ∫ 𝑥3 − 3𝑥 + 2𝑑𝑥
+
+−
+
+3𝑥2
+2
+
+1
++ 2𝑥)
+
+−2
+
+−2
+𝑥4
+4
+
+= 6𝜋 (
+
+=
+
+81𝜋
+2
+
+2.  Find the volume of the shape created when the same region from question 1 
+
+is rotated about the line 𝒚 = 𝟑. 
+
+This is corrected to the line 𝒚 = 𝟓, as the lower line intersects the graph. 
+
+In that case, we will be dealing with washers. 
+
+The outer radius will be 5 − (4 + 2𝑥 − 𝑥2) and the inner radius 5 − (2𝑥2 + 5𝑥 − 2). 
+
+1
+
+𝑉 = 𝜋 ∫ [5 − (4 + 2𝑥 − 𝑥2)]2 − [5 − (2𝑥2 + 5𝑥 − 2)]2 𝑑𝑥
+
+−2
+
+1
+
+= 𝜋 ∫ (1 − 2𝑥 + 𝑥2)2 − (7 − 5𝑥 − 2𝑥2)2 𝑑𝑥
+
+−2
+
+Which is ugly enough to leave alone. 
+
+Continued on back. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  A conical tank with height of 3 m and base radius of 
+
+CF8  CF9  CS18 
+
+2 m is buried under ground, with its base facing up and 4 m below 
+ground level.  How much work is required to empty the tank through a 
+pipe 1 m above ground?  Leave the density as 𝝆 and the gravity as 𝒈. 
+
+From the diagram, we see the important measurements. 
+
+We can also see two similar triangles that allow us to find 
+the cross-section area at any height 𝑦.  The triangles give: 
+
+𝑟
+𝑦
+
+=
+
+2
+3
+
+2
+
+3
+
+𝑦 and the area of the circle at that height is 𝐴 =
+
+So, 𝑟 =
+4𝜋
+
+𝑦2. 
+
+9
+
+8 − 𝑦, so the total work is 
+
+The distance that the cross-section needs to be moved is 
+
+3
+∫ 𝜌𝑔
+0
+
+4𝜋
+9
+
+𝑦2(8 − 𝑦)𝑑𝑦
+
+3
+
+=
+
+=
+
+=
+
+4
+9
+4
+9
+4
+9
+
+𝜋𝜌𝑔 ∫ 8𝑦2 − 𝑦3𝑑𝑦
+
+0
+8
+3
+
+𝜋𝜌𝑔 (
+
+𝑦3 −
+
+𝑦4)
+
+3
+
+0
+
+𝜋𝜌𝑔 (72 −
+
+) 
+
+1
+4
+81
+4
+
+) 
+
+= 4𝜋𝜌𝑔 (8 −
+
+9
+4
+= 𝜋𝜌𝑔(32 − 9) 
+= 23𝜋𝜌𝑔 
+
+The last few steps are there to demonstrate how this can be done without resorting to 
+any three-digit number in your arithmetic.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[This one is optional.  Solve it if you need better marks in the main attribute tested here.  If 
+you try this problem, it will not lower your mark.] 
+
+4.  When two numbers are multiplied together, their product is 𝟒.  What is the smallest 
+
+possible value for their sum? 
+
+Let the numbers be 𝑥 and 𝑦.  Then 𝑥𝑦 = 4, or 𝑦 = 4/𝑥. 
+
+The sum of the numbers is 𝑥 + 𝑦, or 𝑥 + 4/𝑥. 
+
+𝑆(𝑥) = 𝑥 + 4/𝑥 
+
+𝑆′(𝑥) = 1 − 4/𝑥2 
+
+Set 𝑆′(𝑥) ≥ 0 to find both the critical values and areas of increase and decrease. 
+
+1 −
+
+4
+𝑥2 ≥ 0 
+
+𝑥2 − 4
+
+𝑥2 ≥ 0 
+(𝑥 − 2)(𝑥 + 2)
+𝑥2
+
+≥ 0 
+
+No marks are deducted for assuming that the numbers are positive, but that is not actually 
+asked for.  Keep in mind that “smallest” means closest to zero. 
+
+On a number line, we get the function increasing for 𝑥 < −2 and 𝑥 > 2.  It is decreasing on 
+−2 < 𝑥 < 0 and 0 < 𝑥 < 2. 
+
+At 𝑥 = −2, we have a local maximum of −4.  At 𝑥 = 2, we have a local minimum of 4.  As 
+𝑥 → 0 from either side, the sum diverges to ±∞.  Therefore, these two sums (4 and −4) are 
+the smallest possible values. 
+
+ 
+ 
+

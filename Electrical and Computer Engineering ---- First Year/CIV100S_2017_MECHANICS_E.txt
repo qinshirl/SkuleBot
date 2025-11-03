@@ -1,0 +1,190 @@
+Page 1 of 7 
+
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIVlOOS - MECHANICS 
+
+Final Examination 
+18th April 2017 
+
+Examiner: Prof. Michael Seica 
+
+Time allowed: 2-V2 hours 
+
+FAMILY NAME: 
+
+GIVEN NAME(S): 
+
+(Please print clearly) 
+
+STUDENT NUMBER: 
+
+CIRCLE THE MODEL NUMBER OF YOUR CALCULATOR: 
+
+CASIO FX991 
+
+SHARP EL520 
+
+NOTES: 1. Ensure that you have all 7 sheets of the examination paper. Page 7 is blank. 
+
+Answer all five questions. The value of the questions is indicated below. 
+If you need more space for a question, please use the back of the preceding question. In 
+all cases, please indicate clearly where your calculations are continued. 
+The only calculators permissible are listed above. Please circle your model. 
+This is a closed-book examination. No other paper will be allowed on the desk. 
+Do not remove the staple. 
+
+DO NOT WRITE IN THIS SPACE. 
+
+2 
+
+3 
+
+4 
+
+5 
+
+TOTAL 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/60 
+
+NAME: 
+
+Page 2  of 7 
+
+1. Determine all forces exerted on member BFGC of the frame illustrated and show a summary of your 
+final answers on a separate diagram of this member. 
+
+T 
+
+I 
+
+NAME: 
+
+Page 3 of 7 
+
+2. Two concentrated forces, each having a magnitude of P, are acting on a walkway supported by a truss, 
+as illustrated. The truss is pinned at A and F. 
+
+Find the forces in members AB, CH, CG and GHofthe truss, in terms of P; 
+Members AB, CG and CH are to be constructed from Grade 606 1-T4 aluminium with a yield stress of 
+
+110 MPa and must all have the same solid square cross-section. Assuming that P = 18 kN, determine the 
+dimension of the cross-section, a, given that the material is available in 5 mm increments and the load 
+factor for axia tension is 1.6; 
+
+Knowing that the modulus of elasticity for aluminium is 70,000 MPa, determine the elongation of 
+
+member CH, as designed. 
+
+P 
+
+P 
+
+900 1111111900 mm 900 iiui 
+
+B 
+
+1C 
+
+//
+
+1800mnj 
+
+ff 
+
+600mm
+
+~  1200 
+
+L 
+
+ 
+NAME: 
+
+Page 4 of 7 
+
+3. The upper end of the homogenous, constant cross-section, straight bar AB leans against the frictionless 
+vertical wall, at B. If the bar has a mass of 35 kg, determine the tension in cable BC and the magnitude of 
+the total force exerted by the ball-and-socket joint at A. 
+
+X 
+
+Y 
+
+NAME: 
+
+Page 5  of 7 
+
+4. The structure ABDE is used to prevent fresh water from flowing out of the long channel on the right. 
+The weight of the vertical panel ABC may be neglected and BCDE is made of a steel hollow box having 
+the same wall thickness all around. The density of steel is 7,850 kg/m'. Determine the reaction force 
+components at the fixed base A. 
+
+k 
+
+4" 
+
+C 
+
+ULU- 
+
+350 E 
+LLAI 
+
+- 
+
+NAME: 
+
+Page 6 of 7 
+
+5. The simply supported beam illustrated below is made of 10 mm thick plywood sheets, attached (e.g. 
+glued) together to form a Box'-shaped cross-section. Both flanges have the same width, b. 
+
+Draw the shear force and bending moment diagrams for the beam in the space reserved below, 
+
+indicating the values at -1, B, C, D and E, as well as any potential local maxima and minima; 
+
+Determine the width of the beam, b, such that it can safely carry the loads applied. The plywood has a 
+failure stress of 40 MPa in both tension and compression and the required load factor for wood in flexure 
+is 3.0. The fabrication shop can cut the plywood sheets in multiples of 10 mm. 
+
+I P  = 2 kN 
+
+Im 
+
+- - - 
+
+11111 1 
+
+3kt'/ii 
+
+I I I 
+
+i 
+
+ii
+
+'  
+
+0.6 111 
+
+Cross-Section of Beam 
+
+NAME: 
+
+Page 7 of 7 
+
+

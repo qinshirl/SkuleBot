@@ -1,0 +1,308 @@
+ECE 110 - Exam Jam
+
+Stewart Aitchison
+
+Preparing for the exam
+
+• Develop a study plan or timetable
+• Decide which topics you need to spend most time on
+• Review Wiley Plus examples, and midterm papers
+• Look at old exam papers
+
+The Final Exam
+
+• The Final Assessment will cover all materials listed in the course syllabus.
+• The Final Assessment questions will be taken from the WileyPlus question 
+pool and administered on WileyPlus (similar to the Assignments and Term 
+Test-1 and Term Test-2)
+
+• There will be 7 questions on the Final Assessment, and students will 
+
+receive similar questions
+
+• One question on electrostatics
+• Two questions on magnetism
+• Two questions on DC circuit analysis
+• One question on the first-order transient circuit
+• One question on AC circuit analysis
+
+Calculators
+
+• FASE approved Calculators are:
+
+• Casio fx-991 MS and 
+• Sharp EL-520X
+
+• Make sure you know how to use them
+• Simultaneous Equations (2x2) and (3x3)
+• Physical constants - 𝜀0 𝑎𝑛𝑑 𝜇0
+• Complex numbers – addition, subtraction, multiplication and division, polar – rectangular conversion
+
+• Can you solve:
+
+4𝑘 + 6𝑘 𝐼1 − 6k𝐼3 = −6
+9𝑘 + 3𝑘 𝐼2 − 3𝑘𝐼3 = 6
+
+•
+•
+• −6𝑘𝐼1 − 3𝑘𝐼2 + 3𝑘 + 6𝑘 + 12𝑘 𝐼3 = 0
+
+• And
+
+• 𝐼 =
+
+𝑉
+𝑍
+
+=
+
+12 2∠90𝑜
+4 2∠45𝑜
+
+Topics covered in ECE 110
+
+• Electrostatics, Gauss’s Law, electric potential, Capacitors and Resistors
+• Magnetic Fields, and Ampere’s Law and Faraday’s Law, Inductors
+• DC circuits
+• First Order Circuits
+• AC Circuits
+
+Gauss’ Law
+
+• Relates the electric flux through a closed surface to the charge 
+
+enclosed by that surface.
+
+• Key Ideas:
+
+• Φ = ׯ 𝐸. 𝑑 Ԧ𝐴
+• Both E and dA are vectors.
+
+Gauss’ Law
+
+Biot Savart Law
+
+The magnitude of the field dB produced at point P 
+at distance r by a current-length element ds turns 
+out to be
+
+where θ is the angle between the directions of ds and ȓ, a 
+unit vector that points from ds toward P. Symbol μ0 is a 
+constant, called the permeability constant, whose value is 
+defined to be exactly
+
+The direction of dB, shown as being into the page in the figure, is that of the cross 
+product ds×ȓ. We can therefore write the above equation containing dB in vector form as
+
+This vector equation and its scalar form are known as the law of Biot and Savart.
+
+© 2014 John Wiley & Sons, Inc. All rights reserved.
+
+Ampere’s Law
+
+• Can be expressed as: ׯ 𝐵. 𝑑 Ԧ𝑠 = 𝜇𝑜𝑖𝑒𝑛𝑐
+• Ienc is the current enclosed by the Amperian Loop
+
+• Q: Inside a long metallic conductor, carrying a current I, where is the 
+
+magnetic field B = 0
+• A. At the center
+• B. At the surface
+• C. Outside
+• D. Everywhere inside the conductor.
+
+Ampere’s Law
+
+Ampere’s law states that
+
+The line integral in this equation is evaluated around a 
+closed loop called an Amperian loop. The current i on the 
+right side is the net current encircled by the loop.
+
+Ampere’s law applied to an 
+arbitrary Amperian loop that 
+encircles two long straight wires 
+but excludes a third wire. Note the 
+directions of the currents.
+
+Magnetic Fields of a long straight wire 
+with current:
+
+A right-hand rule for 
+Ampere’s law, to 
+determine the signs for 
+currents encircled by an 
+Amperian loop. 
+
+© 2014 John Wiley & Sons, Inc. All rights reserved.
+
+Magnetic Fields due to currents
+
+• For two long straight wires as shown, which expression describes the 
+
+magnetic field at the origin?
+
+Faraday’s Law
+
+• ℇ = −
+
+𝑑Φ𝐵
+𝑑𝑡
+
+where the flux is given by: Φ𝐵 = ׬ 𝐵. 𝑑 Ԧ𝐴
+
+• The flux induced always opposes the change in the flux of B. However, 
+
+B induced is not always opposite to B.
+
+• Consider the loop in a constant B field with B = 4 T, which statement is 
+
+true:
+
+Faraday’s Law
+
+• 𝑁𝑜𝑤 𝑐𝑜𝑛𝑠𝑖𝑑𝑒𝑟 𝑡ℎ𝑒 𝑙𝑜𝑜𝑝 𝑛𝑒𝑥𝑡 𝑡𝑜 𝑎 𝑙𝑜𝑛𝑔 𝑤𝑖𝑟𝑒:
+
+• What is the direction of the current in the loop if it is moving parallel to the 
+
+wire?
+
+• What is the direction of the current in the loop if it is moving away from 
+
+the wire?
+
+DC circuits - Concept Questions
+
+• The circuit has two identical light bulbs connected to a battery. What 
+
+happens to the brightness of A and B when the switch is closed?
+
+Concept Questions
+
+• Which circuit generates more light?
+
+DC Circuits
+
+Thévenin’s and Norton’s
+
+• Remove the load and find the open circuit voltage of the circuit
+• To determine the RTH depends on the circuit
+
+• Only independent sources. Replace voltage sources with short circuits and 
+
+current sources with open circuits
+
+• Only Dependent sources. Connect an independent current or voltage source 
+
+to the terminals an calculate the voltage or current. Use Ohm’s Law to 
+calculate RRH
+
+• Both Dependent and Independent sources. Short circuit the output terminals 
+
+and calculate isc. Use this with voc to calculate RTH.
+
+• For Norton’s start with isc
+
+First order circuits
+
+• Can you find an expression for vc(t) and v(t) for t>0
+
+First order circuits
+
+• Have a solution of the form: 𝑣 𝑡 𝑜𝑟 𝑖 𝑡 = 𝐾1 + 𝐾2𝑒−
+• Time constant 𝜏 = 𝑅𝐶 𝑜𝑟 𝐿/𝑅. 
+• K1 is the steady state solution.
+• K2 is the transient solution
+• The current through an inductor is a continuous function
+
+𝑡
+𝜏
+
+• 𝑖𝑙 𝑡 = 0− = 𝑖𝑙(𝑡 = 0+)
+
+• The voltage across a capacitor is a continuous function
+
+• 𝑣𝑐 𝑡 = 0− = 𝑣𝑐(𝑡 = 0+)
+
+First order circuits
+
+• Can you find an expression for vc(t) and v(t) for t>0
+
+LEARNING EXAMPLE
+
+0);(ttvO    VOLTAGEOUTPUT  THE FIND0)(0)(0==tvtvtO0)0(=+OvsFkkCRTH4.0100)12||6(===Vtvt9)(0='1)9(8108)(Kvo=+=toeKKtv−+='2'1)(0)0('2`1=+=+KKvo−=−4.014)(toetv0)(3.0=tvt')3.0("2"1)(−−+=tOeKKtv3.0=ot)1(4)3.0(4.03.0−−=+evo4.0'=00)("1==Kvo)(11.2)3.0("2VvKo=+=3.0;11.2)(4.03.0=−−tetvtoAC circuits
+
+• Express voltages, and currents as Phasors
+
+• 𝐼 = 𝐼𝑚∠Θ𝐼
+• 𝑉 = 𝑉𝑚∠Θ𝑣
+
+• Impedance is a complex number which depends on w
+
+• 𝑍 = 𝑍𝑚∠Θ𝑧=R+jX(w)
+
+• For simple circuits use Ohm’s law
+• Apply KVL, KCL, superposition etc
+• Thevenin’s, Norton’s etc
+
+IMPEDANCE AND ADMITTANCE
+
+For each of the passive components the relationship between the voltage phasor 
+and the current phasor is algebraic. We now generalize for an arbitrary 2-terminal
+element.
+
+(INPUT) IMPEDANCE
+
+(DRIVING POINT IMPEDANCE)
+
+The units of impedance are OHMS.
+
+Impedance is NOT a phasor but a complex
+number that can be written in polar or 
+Cartesian form. In general, its value depends
+on the frequency.
+
+zivMMiMvMZIVIVIVZ=−===||)(CjZLjZICjVLIjVCLRZRIVRwwww11======ImpedanceEq.Phasor Elementcomponent Reactivecomponent Resistive==+=)()()()()(wwwwwXRjXRZRXXRZz122tan||−=+=KVL AND KCL HOLD FOR PHASOR REPRESENTATIONS
+
+In a similar way, one shows ...
+
+The components will be represented by their impedances and the relationships
+will be entirely algebraic!!
+
+−+)(1tv−+)(3tv−+)(2tv)(0ti)(1ti)(2ti)(3ti0)()()(321=++tvtvtv  :KVL3,2,1,0,)(0)()()()()(3210===+++−+keItititititiktjMkkw  :KCL3,2,1,)()(==+ieVtvitjMiiw0)(321321=++tjjMjMjMeeVeVeVw  :KVL0332211=++MMMVVVPhasors!   0321=++VVV−+1V−+3V−+2V0I1I2I3I03210=+++−IIIISPECIAL APPLICATION:
+IMPEDANCES CAN BE COMBINED USING THE SAME RULES DEVELOPED
+FOR RESISTORS
+
+LEARNING EXAMPLE
+
+I−+1V1Z−+2V2ZI21ZZZs+=1Z2Z−+VII−+V2121ZZZZZp+==kksZZ=kkpZZ11current and impedance equivalent Compute)30cos(50)(,60+==ttvHzfw6310501201,102012025,3050,120−−=====wjZjZZVCLR−==05.53,54.7jZjZCL−=++=51.4525jZZZZCLRs)(51.45253050AjZVIs−==)(22.6193.513050A−=))(22.91120cos(96.0)()(22.9196.0AttiAI+==RZR=LjZLw=CjZCw1=An AC circuit to consider
+
+• At which frequencies does the light bulb glow brightest?
+
+• Low Frequencies
+• High Frequencies
+
+• At 𝜔 =
+
+1
+𝐿𝐶
+
+ANALYSIS TECHNIQUES
+
+PURPOSE: TO REVIEW ALL CIRCUIT ANALYSIS TOOLS DEVELOPED FOR 
+RESISTIVE CIRCUITS; I.E., NODE AND LOOP ANALYSIS, SOURCE SUPERPOSITION,
+SOURCE TRANSFORMATION, THEVENIN’S AND NORTON’S THEOREMS.
+
+1. NODE ANALYSIS
+
+NEXT: LOOP ANALYSIS
+
+0I COMPUTE01110211221=−++−+jVVjV−=−0621VV)(120AVI=011021106222=−++−+−jVVjV116211111112jjjV++=−+++116)11(2)11)(11()11()11)(11()11(2jjjjjjjjV+++=−+++−++−28142jjV+=−2)1)(4(2jjV−+=)(23250AjI−=−=96.3092.20I2. LOOP ANALYSIS
+
+ONE COULD ALSO USE THE  SUPERMESH
+TECHNIQUE
+
+SOURCE IS NOT SHARED AND Io IS 
+DEFINED BY ONE LOOP CURRENT
+
+−=021I  :1 LOOP3I  FIND MUST30II−=0))(1(332=++−IIIj  :3 LOOP)2)(1(6)1(232−+−=−+jIjI0)2()1(32=−+−IjIj)2(/*)1(/*−−j())28)(1()2(2)1(32jjIjj+−=−−−46103−−=jI)(23250AjI−=2I0)1()(0)(06)1(0232332121=−+−=−+++−=−IjIIIIIjII  :3 MESH :SUPERMESH :CONSTRAINT320III−=0))(1(06))(1(3221=+−+−++IIjIIj :2 LOOP

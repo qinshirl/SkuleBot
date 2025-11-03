@@ -1,0 +1,746 @@
+Duration: 100 minutes
+
+Tuesday November 19, 2024
+
+MAT186 Calculus I
+Universal Make-up Test
+
+Full Name: Sol Utions
+
+Student number:
+
+Email :
+
+Signature:
+
+@mail.utoronto.ca
+
+Instructions:
+
+1. This test contains a total of 12 pages, and a total of 38 marks available.
+
+2. DO NOT DETACH ANY PAGES FROM THIS TEST.
+
+3. There are no aids permitted for this test, including calculators.
+
+4. Cellphones, smartwatches, or any other electronic devices are not permitted. They must be turned off and in your
+
+bag under your desk or chair. These devices may not be left in your pockets.
+
+5. Write clearly and concisely in a linear fashion. Organize your work in a reasonably neat and coherent way.
+
+6. Show your work and justify your steps on every question unless otherwise indicated. A correct answer without
+explanation will receive no credit unless otherwise noted; an incorrect answer supported by substantially correct
+calculations and explanations may receive partial credit.
+
+7. For questions with a boxed area, ensure your answer is completely inside the box.
+
+8. The back side of pages will not be scanned nor graded. Use the back side of pages for rough work only.
+
+9. You must use the methods learned in this course to solve all of the problems.
+
+10. DO NOT START the test until instructed to do so.
+
+GOOD LUCK!
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+Use the following graphs to answer Question 1, Question 2, and Question 3 below.
+
+y
+
+2
+
+1
+
+y
+
+2
+
+1
+
+−2
+
+−1
+
+1
+
+x
+
+2
+
+−2
+
+−1
+
+1
+
+x
+
+2
+
+f (x)
+
+−1
+
+−2
+
+g(x)
+
+−1
+
+−2
+
+1. lim
+x→0
+
+g(x) =
+
+? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ -1.
+
+0.
+
+⃝ 1.
+
+⃝ DNE.
+
+Note that g(x) is continuous at x = 0 and g(0) = 0.
+
+2. lim
+x→0
+
+f (g(x)) =
+
+? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ -1.
+
+⃝ 0.
+
+1.
+
+⃝ DNE.
+
+As x approaches 0, g(x) approaches 0 from above. Therefore, lim
+x→0
+
+f (g(x)) = lim
+y→0+
+
+f (y) = 1.
+
+3. lim
+x→0
+
+g(f (x)) =
+
+? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ -1.
+
+⃝ 0.
+
+1.
+
+⃝ DNE.
+
+As x approaches 0 from the left, f (x) approaches −1 from above. Therefore,
+
+As x approaches 0 from the right, f (x) approaches 1 from below. Therefore,
+
+lim
+x→0+
+lim
+x→0−
+
+g(f (x)) = lim
+
+y→−1+
+g(f (x)) = lim
+y→1−
+
+g(y) = 1.
+
+g(y) = 1. The limit
+
+exists since the left and right limits are equal.
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+4. Let f (x) = a ln(bx) where a is a positive constant and b is a negative constant. Which of the following statements are
+guaranteed to be true? [2 marks]
+
+You can fill in more than one option for this question (unfilled
+
+filled ).
+
+⃝ The domain of f (x) is (0, ∞).
+
+The graph of f (x) has a vertical asymptote.
+
+f −1(0) = b−1.
+
+⃝ f ′(x) =
+
+a
+bx
+
+.
+
+f (x) is strictly decreasing on its domain.
+
+• Since b is negative, the domain of f is (−∞, 0) for ln(bx) to be defined. The first choice is false.
+
+• The second choice is true since f has a vertical asymptote at x = 0.
+
+• Since f (b−1) = a ln 1 = 0 It follows that f −1(0) = b−1. The third choice is true.
+
+• Since f ′(x) = a
+
+x , the fourth choice is false.
+
+• Since f ′(x) < 0 on its domain, we can conclude that f is strictly decreasing on its domain. Alternatively, we can
+
+reach the same conclusion from sketching the graph of f . Therefore, the fifth choice is true.
+
+5. Let f (x) be a strictly decreasing, differentiable function on (−∞, ∞). Suppose that f (−3) = 2, and f (2) = −3. Which
+of the following statements are guaranteed to be true? [2 marks]
+
+You can fill in more than one option for this question (unfilled
+
+filled ).
+
+⃝ f (x) = −x − 1.
+
+lim
+x→2
+
+f (x) = −3.
+
+⃝ lim
+x→∞
+
+f (x) → −∞.
+
+There exists a value of x such that f (x) = 0.
+
+f ′(2) ≤ 0.
+
+• The first choice is false. There are many functions with f (−3) = 2 and f (2) = −3.
+
+• The second choice is true. All differentiable functions are also continuous.
+
+• The third choice is false. Although f is decreasing, it may approach a finite limit as x → ∞, if the graph of f has
+
+a horizontal asymptote.
+
+• The fourth choice is true. Since f is continuous, this is guaranteed from the intermediate value theorem.
+
+• The fifth choice is true. If f is strictly decreasing on its domain, then f ′(x) ≤ 0 on its domain.
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+6. The cross-sectional dimensions of a type of wooden board called a “2x4” are nominally 2 inches by 4 inches (hence the
+name). However, the actual dimensions of a 2x4 may be as small as 1.5 inches by 3.5 inches in practice. Assume that the
+dimensions are never larger than 2 inches by 4 inches.
+
+Let E be the error of the the cross sectional area A of a 2x4. Which of the following statements are true? [2 marks]
+
+You can fill in more than one option for this question (unfilled
+
+filled ).
+
+5.25 (in)2 ≤ A ≤ 8 (in)2
+
+8 − A ≤ 2.75
+
+⃝ |A − 8| = 2.75
+
+⃝ E = |A − 2.75|.
+
+E = |8 − A|.
+
+−2.75 ≤ E ≤ 2.75
+
+From the question, we are given that the area A of a board satisfies 5.25 ≤ A ≤ 8 in2. Therefore, 8 − A ≤ 2.75. We are
+not guaranteed that |A − 8| = 2.75.
+
+If E is the error in the area, the error is E = |8 − A| since the true area of a board should be 8 in2. Since 0 ≤ 8 − A ≤ 2.75
+from the problem, we also have 0 ≤ E ≤ 2.75. This guarantees that the last choice is also satisfied as the error never
+exceeds -2.75 or 2.75.
+
+7. Let r(x) and s(x) be functions defined on the interval [1, 5] such that 1 ≤ r(x) ≤ 3 and x ≤ s(x) ≤ 2x. Which of the
+
+values below are guaranteed to be upper bounds for
+
+on [1, 5]? [2 marks]
+
+1
+r(x) + s(x)
+
+You can fill in more than one option for this question (unfilled
+
+filled ).
+
+1.
+
+2
+3 .
+
+1
+2 .
+⃝ 1
+3 .
+⃝ 1
+5 .
+⃝ 1
+13 .
+
+From the inequalities given in the problem, and the domain of [1, 5], we have
+
+Therefore, using properties of inequalities,
+
+0 < x + 1 ≤ r(x) + s(x) ≤ 2x + 3.
+
+1
+r(x) + s(x)
+
+≤
+
+1
+x + 1
+
+.
+
+Since the domain is [1, 5],
+
+1
+x+1 is largest when x = 1, so we are guaranteed that
+
+for all x ∈ [1, 5]. Therefore, any number greater than 1
+
+2 is an upper bound.
+
+1
+r(x) + s(x)
+
+≤
+
+1
+2
+
+Short Answer: Organize your work in a reasonably neat and coherent way.
+
+8. A population of deer was released on an uninhabited island in Northern Ontario in an effort to establish a permanent
+population of deer on the island. Over time, the population of deer increased. The table below summarizes the population
+by year.
+
+Year
+Population
+
+2020
+17
+
+2021
+20
+
+2022
+21
+
+2023
+25
+
+2024
+29
+
+Let P (t) give the population of deer on the island at time t measured in years after 2020.
+
+(a) In one sentence, give a practical interpretation of P (50) in terms of year and population of deer. [1 mark]
+
+P (50) is the number of deer on the island in 2070.
+
+(b) In one sentence, give a practical interpretation of P −1(50) in terms of year and population of deer. [1 mark]
+
+P −1(50) is the number of years needed for the population to grow to 50 deer.
+
+(c) Use the table above to estimate (P −1)′(25). Show your reasoning. [1 mark]
+
+Recall that the derivative of the inverse (P −1)′ and P ′ are related by:
+
+Since P −1(25) = 3, we need to approximate P ′(3). From the table, we see that
+
+(P −1)′(25) =
+
+1
+P ′(P −1(25))
+
+.
+
+Therefore, we can approximate
+
+P ′(3) ≈ P (4) − P (3) = 4.
+
+(P −1)′(25) ≈
+
+1
+4
+
+.
+
+(d) Using your answer from part (c), give a practical interpretation of (P −1)′(25) in terms of year and population of deer.
+[1 mark]
+
+When the deer population has 25 deer, it takes about 1/4 years (or 3 months) for the population to grow by one deer.
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your final answer in the box provided.
+
+9. Water leaking onto your bedroom floor creates a circular pool with an area that increases at the rate of 3 square
+centimetres per minute. How fast is the radius of the pool increasing when the radius is 10 centimetres? Be sure that
+you clearly define any variables (including units) that you introduce, and that you clearly identify what you are trying to
+solve for using mathematical notation. [3 marks]
+
+Let r be the radius of the pool in cm. Its area A is A = πr2 since it is circular.
+
+By the chain rule, we conclude that
+
+Therefore, if dA
+
+dt = 3cm2/min and r = 10cm, we conclude that
+
+dA
+dt
+
+= 2πr
+
+dr
+dt
+
+.
+
+dr
+dt
+
+=
+
+1
+2πr
+
+dA
+dt
+
+=
+
+3
+20π
+
+cm/min
+
+Final Answer (include units)
+
+3
+20π cm/min
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way.
+
+10. Provide a careful argument using the Squeeze Theorem to evaluate lim
+x→∞
+
+e− sin x
+x
+
+. [4 marks]
+
+To use the Squeeze Theorem to evaluate the limit lim
+x→a
+
+f (x), we must identify two functions, g(x) and h(x) such that
+
+g(x) ≤ f (x) ≤ h(x) in some interval around the point a, though not necessarily at a itself. Then, we must show that
+lim
+x→a
+
+f (x) is “squeezed” between f (x) and g(x), and lim
+x→a
+
+h(x) = lim
+x→a
+
+g(x) = lim
+x→a
+
+g(x) = lim
+x→a
+
+f (x).
+
+In this case, we have f (x) =
+
+, and a → ∞. First, we identify appropriate bounding functions for f (x). Consider:
+
+h(x), such that lim
+x→a
+e− sin(x)
+x
+
+Then, for x → +∞ x > 0, so
+
+−1 ≤ − sin(x) ≤ 1 =⇒
+
+1
+e
+
+≤ e− sin(x) ≤ e
+
+Taking g(x) =
+
+−1
+ex
+
+and h(x) =
+
+e
+x
+
+, the next step is to evaluate the limits of f (x), g(x) as x → ∞:
+
+−1
+ex
+
+≤
+
+e− sin(x)
+x
+
+≤
+
+e
+x
+
+lim
+x→∞
+
+lim
+x→∞
+
+−1
+ex
+e
+x
+
+= 0
+
+= 0
+
+Finally, since lim
+x→a
+f (x) = 0.
+
+that lim
+x→a
+
+g(x) = lim
+x→a
+
+h(x) = 0, and g(x) ≤ f (x) ≤ h(x) for x → ∞, we can conclude by the Squeeze Theorem
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way.
+
+11. Show that there exists at least one solution x ∈ (0, ∞) to the equation
+
+x186 = x
+
+(cid:112)
+
+x2 + cos2 x + 32
+
+[4 marks]
+
+This question tests the use of the Intermediate Value Theorem. First, we re-arrange the equation and define a function
+such that
+
+f (x) = x186 − x(cid:112)x2 + cos2(x) − 32
+
+and note that f (x) is a continuous function over x ∈ ℜ. Then we can reduce the problem to showing that f (x) = 0 at
+least once in its domain.
+
+To do this, we search for locations x = a such that f (a) < 0 and x = b such that f (b) > 0. Once we have determined
+these points, we can use the IVT to conclude that there must exist some x = c ∈ [a, b] such that f (c) = 0, as desired.
+
+First, we notice that f (0) = −32 < 0, so we choose a = 0. Then, we notice that x186 very quickly dominates the behaviour
+of the function for x > 1. In fact, we can show that
+
+x186 − x(cid:112)x2 + cos2(x) − 32 → ∞
+
+lim
+x→∞
+
+Therefore, we can select some b ≫ 1 such that f (b) > 0, and conclude by IVT that there must be at least one location
+x = c where f (c) = 0, since f (x) is continuous over the whole real line.
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your final answer in the box provided
+
+12. The force F (h) due to gravity on an object at height h above sea level can be modelled by the initial value problem
+
+
+
+
+
+
+=
+
+−2F
+R + h
+
+dF
+dh
+F (0) = −9.8m
+
+where m is the mass of the object, and R is the radius of the earth.
+
+(a) Use a linear approximation to estimate F (h) near sea level. [3 marks]
+
+Using the standard form for linear approximation, we seek an expression of the form
+
+L(h) =
+
+dF
+dh
+
+|x=0(h − 0) + F (0)
+
+Substituting the expressions above, we obtain:
+
+L(h) =
+
+h − 9.8m
+
+−2F (0)
+R + 0
+19.6
+R
+
+L(h) =
+
+h − 9.8m
+
+Therefore, near sea level, F (h) ≈ 19.6
+
+R h − 9.8m.
+
+(b) Does your answer from part (a) give an underestimation or overestimation of the actual value of F (h) near sea level?
+
+[3 marks]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ Underestimate.
+
+Overestimate.
+
+To determine whether the linear approximation at h = 0 will be an overestimate or an underestimate, we consider the
+concavity of F (h) at this point. Taking the derivative of dF
+
+dh we have
+
+and evaluating at h = 0, we see that the second derivative is negative, therefore the function F (h) is concave down, and
+the linear approximation is an overestimate of the value of the function in the region near h = 0.
+
+d2F
+dh2 =
+
+−2F ′
+R + h
+
++
+
+2F
+(R + h)2
+
+Graphing: Only your final answer will be graded.
+
+13. On the axes below, carefully sketch the graph of a function f (x) whose domain is (−4, 4), and that satisfies the
+properties below. [6 marks]
+
+• f (x) is continuous in its domain.
+
+• f (−2) = 2 is a local maximum.
+
+• f ′(−1) does not exist.
+
+• f (x) has a critical point at x = 0.
+
+• f ′(2) does not exist.
+
+• f (2) = −1 is a local minimum.
+
+• f (x) has inflection points at x = −1 and x = 3.
+
+• f (x) does not have a local extremum at x = 0.
+
+• The range of f (x) is [−2, 4].
+
+y
+
+4
+
+3
+
+2
+
+1
+
+−4
+
+−3
+
+−2
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+x
+
+−1
+
+−2
+
+−3
+
+−4
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+

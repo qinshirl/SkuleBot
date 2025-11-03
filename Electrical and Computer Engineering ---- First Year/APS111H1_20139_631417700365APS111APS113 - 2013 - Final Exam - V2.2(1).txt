@@ -1,0 +1,1021 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Final Examination, December 06, 2013 
+Duration: 2.5 hours 
+APS111H1 F and APS113Y1 Y - Engineering Strategies & Practice 1 
+
+Calculator Type: 4 (No electronic or mechanical devices permitted) 
+Exam Type: A (Closed book, no aids permitted) 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Module B Coordinator: Jacinta O’Brien 
+
+Instructions: 
+This is a closed book exam; no calculators or aids are permitted, except for a translation-only 
+dictionary, i.e., direct word-to-word translations but no definitions. There are two parts of the 
+exam: multiple-choice questions, and a writing component. Read each question carefully. 
+
+For the multiple-choice portion, provide the most correct answer to each question on the 
+answer sheet. Only one answer is to be given for each question. Be sure to fill out the 
+answer sheet clearly with no overlaps, using a pencil. Erase any errors completely. There 
+are a total of 37 multiple-choice questions, each of which is worth about 1.6 marks, for a total 
+of 60 marks worth 60% of the exam.  
+
+The second part of the exam is a writing component worth 40% of the exam. Answer this 
+part in the exam booklet carefully following the instructions. 
+
+Write your name and student number on both the multiple-choice answer sheet (scan 
+sheet) and the exam booklet where you do the writing component. When you are done with 
+the exam, insert the answer sheet in the exam booklet and submit them together. 
+
+Page 1 of 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 1: 
+
+Multiple-choice questions (60%)  
+
+1. 
+
+Figure 1 shows time along the horizontal axis and net cash flow along the vertical axis. 
+A, B, and C represent: 
+a.  A = Costs; B = Pay Back Period; C= Benefits 
+b.  A = Net Loss; B = Break Even Point; C = Net Revenue 
+c.  A = Outlay; B = Net Present Value; C = Income 
+d.  A = Taxes; B = CPI; C = Profit 
+
+Figure 1: Cash Flow Diagram 
+
+2.  According to an article published in the November 25 edition of the Globe and Mail 
+
+newspaper, an international team of engineers is studying owls, hoping the mysteries 
+of their stealthy flight might lead to improvements in the design of everything from 
+aircraft to submarines. The design approach that the engineers are using is called:  
+a.  Life cycle assessment. 
+b.  Bioaccumulation. 
+c.  Pollution prevention. 
+d.  Biomimicry. 
+
+3. 
+
+Industrial ecology uses a systems approach to optimize material and energy flows by 
+using outputs from one process as inputs to another process. Industrial ecology has 
+many benefits and has been successfully applied in Kalundborg, Denmark. However, a 
+disadvantage of industrial ecology is that it: 
+a.  Can only be applied in Europe. 
+b.  Requires tax incentives to operate efficiently. 
+c.  Does not encourage reduction of emissions and wastes. 
+d.  Only works with linear systems. 
+
+Page 2 of 16 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+4.  When you are working on an engineering design, knowing your stakeholders and 
+
+anticipating their concerns is a strategy that can increase acceptance of your design. 
+Stakeholder analysis is a useful approach for: 
+a.  Identifying the stakeholders, prioritizing their interest and influence, and 
+
+understanding their issues and concerns. 
+
+b.  Connecting stakeholder interests to the Project Requirements. 
+c.  Avoiding laws suits.  
+d.  Government projects only, because private companies do not have to consider 
+
+stakeholders. 
+
+5.  Methods for choosing among different alternatives to solve an engineering design 
+problem can be categorized as quantitative and qualitative. An example of a 
+quantitative method is: 
+a.  Environmental assessment. 
+b.  Stakeholder analysis. 
+c.  The engineering design process. 
+d.  Break even analysis. 
+
+6. 
+
+7. 
+
+The Critical Path Method was developed in 1960 by DuPont. It captures tasks, task 
+durations, and how tasks relate to each other. It is a useful tool for managing 
+engineering design projects because it identifies the "critical path", which is: 
+a.  The minimum amount of time you need to finish the project. 
+b.  Shown by a Venn diagram. 
+c.  The maximum time from the beginning to the end of the project. 
+d.  The route that your client has prioritized. 
+
+In Ontario, the Professional Engineers Act and Regulation prescribe the Code of 
+Ethics. Section 77 of Regulation 941 states that "it is the duty of a practitioner to the 
+public, to the practitioner's employer, to the practitioner's clients, to other licensed 
+engineers of the practitioner's profession, and to the practitioner to act at all times with 
+(i) fairness and loyalty to the practitioner's associates, employers, clients, subordinates 
+and employees; (ii) fidelity to public needs; (iii) devotion to high ideals of personal 
+honour and professional integrity; (iv) knowledge of developments in the area of 
+professional engineering relevant to any services that are undertaken; and (v) 
+competence in the performance of any professional engineering services that are 
+undertaken." This means that, once you become a licensed engineer, you: 
+a.  Can decide when to apply the Code of Ethics depending on the type of project you 
+
+are working on. 
+
+b.  Do not need to seal engineering drawings. 
+c.  Are not legally liable for your actions as a licensed engineer because engineering is 
+
+a self-regulated profession. 
+
+d.  Have a clearly defined duty to society, which is to regard the duty to public welfare 
+
+as paramount. 
+
+Page 3 of 16 
+
+ 
+ 
+ 
+ 
+Questions 8 to 9 relate to the Team Case Study below. 
+
+Aliyah, Bart, Chandak, and Derin are the four members of an APS111 team that has 
+undergone significant storming. Bart, the original team leader, was highly aggressive in 
+setting team goals, and quickly took over duties if anyone on the team showed signs of not 
+meeting deadlines or quality expectations. This resulted in little buy in from the other team 
+members and when Bart left, the team was stalled. After an intense team meeting Derin 
+agreed to take over as team leader. She has been an effective leader acting quickly to make 
+up for lost time by assigning all team members equal amounts of work on the project. 
+
+8.  What strategy could Bart have used to better lead his team? 
+
+a.  Write team rules that punished underperformers by assigning them earlier internal 
+
+deadlines for the next assignment. 
+
+b.  Have all team member submit their work to him for approval before allowing it to be 
+
+put into the team document. 
+
+c.  Remove any individuals work with more than three errors in it, rewrite it, and remove 
+
+that person from the attribution table.  
+
+d.  Replace internal deadlines with two-hour meetings where the team jointly combines 
+
+the individual work into a team document.  
+
+9.  What is Derin’s Bolton and Bolton leadership style? 
+
+a.  Analytical 
+b.  Driver 
+c.  Expressive 
+d.  Amiable 
+
+Questions 10 to 33 pertain to Case Study #1: Enbridge Line 9B located in the appendix 
+of this exam. 
+
+10.  The mandate of the NEB is to promote safety and security, environmental protection 
+and economic efficiency in the Canadian public interest within the mandate set by the 
+Parliament of Canada in the regulation of pipelines, energy development and trade. 
+The National Energy Board Act requires oil pipeline companies, such as Enbridge 
+Pipelines Inc., to obtain approval from the NEB before building new pipelines or making 
+changes to existing pipelines. The National Energy Board Act is an example of 
+legislation that: 
+a.  Balances environment, economy, and society. 
+b.  Favours oil and gas companies. 
+c.  Applies the precautionary principle. 
+d.  Was developed by the Ontario government. 
+
+Page 4 of 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.  Benzene is an organic chemical compound found in crude oil. Studies in the scientific 
+
+literature, including studies by Health Canada and the United States Environmental 
+Protection Agency, have demonstrated that benzene breaks down in air and dissolves 
+in water. The studies also demonstrated higher cancer rates among workers exposed 
+to benzene. Based on the studies, benzene can be described as a compound that: 
+a.  Bioaccumulates and is carcinogenic. 
+b.  Bioaccumulates and is not carcinogenic. 
+c.  Does not bioaccumulate and is not carcinogenic. 
+d.  Does not bioaccumulate and is carcinogenic. 
+
+12.  Fearing a repeat of the 2010 disaster on Line 6 in 2010 that saw over 3 million litres of 
+oil spill into the Kalamazoo River, the municipalities of the Greater Toronto Area (GTA) 
+are concerned about the potential impact of a spill from Line 9B on the quality of 
+drinking water. This is because conventional municipal water treatment plants are not 
+designed to treat water that is contaminated with crude oil. The municipalities 
+participated at the Line 9B hearing and asked the NEB to require Enbridge to take 
+actions that would reduce the chances of a release of crude oil from Line 9B. The 
+actions the municipalities want Enbridge to take are intended to: 
+a.  Mitigate risk. 
+b.  Control pollution. 
+c.  Reduce crude oil production. 
+d.  Increase the price of gasoline. 
+
+13.  The municipalities of the GTA are pressing for assurances any spills that do occur 
+
+would be detected quickly in order to reduce the negative environmental impacts. As 
+the engineer responsible for the design of the interface of the rupture detection system 
+you have anticipated these concerns. You have conducted interviews of Enbridge 
+personnel who were on the Line 6 rupture detection team in 2010 (see question 12) to 
+identify problems in the relationship between the sensor system and the operators. You 
+are using the Human Tech design principle of:  
+a.  Shape Coding 
+b.  Critical-Incident Technique 
+c.  Feedback Design Principal 
+d.  The Human Tech Ladder 
+
+14. 
+
+In 2009, Enbridge announced a plan of current and future actions to (1) support flexible 
+community-based training specific to the pipeline sector, (2) invest in renewable and 
+alternative energy technologies, and (3) deliver superior long-term value to Enbridge 
+shareholders as measured by total shareholder return. The plan demonstrates 
+Enbridge's commitment to:  
+a.  Sustainability. 
+b.  Prosperity. 
+c.  Profitability. 
+d.  Biodiversity. 
+
+Page 5 of 16 
+
+ 
+ 
+ 
+15.  Enbridge owns and operates Line 9B, and uses it to transport crude oil for its clients, 
+
+which are companies such as Suncor Energy Inc. and Imperial Oil Ltd. Other 
+companies that own and operate pipelines in Canada are TransCanada Pipelines and 
+Keystone Pipelines, so there is competition for clients. Which of the following 
+statements best describes what Enbridge did before deciding to file its application to 
+the NEB:  
+a.  Called the NEB and explained why the flow in Line 9B should be reversed. 
+b.  Assigned its engineering department to prepare a business case to determine how 
+
+to enhance Enbridge's share of the crude oil pipeline market. 
+
+c.  Tested the corrosivity of crude oil on different types of internal pipeline coatings. 
+d.  Examined the possibility of re-locating Line 9B to the United States. 
+
+16. 
+
+In 2010, the energy sector in Canada, including service stations and wholesale trade in 
+petroleum products, provided direct employment for 356,000 people. This represented 
+2.43 percent of all employment in Canada. If the Line 9B application is approved by the 
+NEB, Enbridge predicts 6,000 more jobs will be created over a 10 year period, 
+increasing energy sector employment to 2.47 percent. This increase in Canada's 
+overall employment is the result of a: 
+a.  Microeconomic Analysis. 
+b.  Macroeconomic Analysis. 
+c.  Change in Consumer Price Index. 
+d.  Change in Gross Domestic Product. 
+
+17.  Right now, Line 9B is used to transport foreign crude oil, including from Nigeria, which 
+
+is among the top 10 oil-producing countries in the world. All of Nigeria’s oil and gas 
+resources come from the Niger delta region, which is also home to many indigenous 
+peoples including the Ogoni. One significant impact of the oil industry in Nigeria has 
+been destruction of the mangrove forest, which serves as a habitat for fish and 
+mollusks and is a source of raw materials for the Ogoni people. Due to pollution from 
+the Nigerian oil industry, the mangrove forest can no longer support the subsistence life 
+upon which the local Ogoni community depends. In the context of Line 9B, the loss of 
+the mangrove forest is: 
+a.  The cost of doing business. 
+b.  Part of the life cycle cost of the pipeline. 
+c.  An external cost. 
+d.  An internal cost. 
+
+18.  The loss of the mangrove forest in the Niger delta, and the subsequent impacts on the 
+
+Ogoni community that depend on it, is an example of: 
+a.  How design can impact social conditions. 
+b.  Why it is better to ship foreign oil to Canada than use crude oil from the Alberta oil 
+
+sands. 
+
+c.  The importance of changing the service environment. 
+d.  Poor decision making by local community leaders. 
+
+Page 6 of 16 
+
+ 
+ 
+ 
+19.  The public hearings that the NEB held in October, 2013, gave many individuals and 
+
+organizations an opportunity to express their concerns and can be considered a good 
+example of: 
+a.  Taxpayer overexpenditure. 
+b.  Government regulation. 
+c.  Third party certification. 
+d.  Stakeholder engagement. 
+
+20.  There are a number of fixed and variable costs that Enbridge incurs to operate Line 9B. 
+
+The pipeline lies within lands owned by municipalities, the provincial government, First 
+Nations communities, and individuals, and Enbridge pays a monthly fee of $100,000 to 
+lease the land from the landowners. Enbridge has a regulatory requirement to inspect 
+200 valves located along Line 9B every year at a cost of $5,000 per inspection. The 
+cost to pump the crude oil through the pipe is $0.02 per barrel. What is the annual cost 
+to operate Line 9B if the application is approved and Enbridge uses the full capacity of 
+300,000 barrels per day, but operates only 10 months of the year? 
+a.  $4,190,000 per year. 
+b.  $4,390,000 per year. 
+c.  $4,025,000 per year. 
+d.  $3,658,333 per year. 
+
+21.  You have been hired to work on the capacity expansion of an oil refinery for a company 
+in Sarnia. The company has given you the Gantt chart shown in Figure 2. Which of the 
+following statements is TRUE?  
+a.  You can calculate the critical path because the Gantt chart shows how much time is 
+
+needed for each task. 
+
+b.  The Gantt chart can be used as a project management tool because it shows when 
+
+tasks occur. 
+
+c.  How one task relates to another is not important for this project because there are 
+
+only a few tasks to complete. 
+
+d.  You only have 12 months to complete all the tasks, so there is not enough time to 
+
+finish the project. 
+
+Task 
+
+Description 
+
+1  Project Initiation 
+2  Define Scope and Objectives 
+3  Formulate Alternatives 
+4  Evaluate Alternatives 
+5  Analyze Stakeholder Concerns 
+6 
+Identify Preferred Alternative 
+7  Presentation to Client 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Months 
+7 
+
+6 
+
+8 
+
+9  10  11  12 
+
+1 
+X 
+
+X 
+
+Figure 2: Gantt Chart 
+
+Page 7 of 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22. 
+
+In the federal Storage Tank Systems for Petroleum Products and Allied Petroleum 
+Products Regulations made under the Canadian Environmental Protection Act, removal 
+of storage tanks or any components of storage tanks that are covered by the 
+Regulations is required to be supervised by a professional engineer. This requirement 
+is an example of: 
+a.  Environmental protection. 
+b.  Demand-side legislation. 
+c.  Public safety. 
+d.  Poor public policy. 
+
+23.  Your company has been hired by Enbridge to upgrade the pumps at the pumping 
+stations along Line 9B. As the design engineer responsible for evaluating the 
+alternatives, you have identified two options: (1) full head pumps, which are two-stage 
+pumps with the impellers in series; and (2) half stage pumps with the impellers in 
+parallel. Based on the cost and technical information from pump manufacturers shown 
+in Table 1, the following recommendation can be made to Enbridge:  
+a.  Full Head Pumps should be installed because the payback period exceeds the 
+
+service life of the pumps. 
+
+b.  Full Head Pumps should be installed because the service life is longer. 
+c.  The capital cost for the Half Head Pumps is higher because they are twice as 
+
+efficient as the Full Head Pumps. 
+
+d.  Enbridge should install Half Head Pumps because the service life of the pumps is 
+
+longer than the payback period. 
+
+Table 1: Pump Options 
+
+Alternative 
+Full Head Pumps 
+Half Head Pumps 
+
+Capital Cost 
+($) 
+$200,000 
+$360,000 
+
+Annual Operating 
+Savings ($/year) 
+
+$15,000 
+$52,000 
+
+Service 
+Life 
+(years) 
+10 years 
+7 years 
+
+24.  As the engineer in charge of pipeline operations, one of your tasks is to monitor and 
+report on labour and equipment costs every quarter. This information is used in 
+quarterly reports that Enbridge files with the Toronto Stock Exchange and makes 
+available to shareholders. If the NEB approves the Line 9B application, you will need to 
+hire more workers at the western end of the pipeline to supervise delivery of the crude 
+oil to the refineries in Sarnia. Your research shows that labour costs in Ontario are 
+higher than in Quebec, but the taxes Enbridge must withhold on Ontario worker salaries 
+are lower. Which of the following reasons will you use to explain the differences?  
+a.  Time value of money. 
+b.  Inflation. 
+c.  Supply and demand. 
+d.  Regional variation. 
+
+Page 8 of 16 
+
+ 
+ 
+ 
+ 
+25.  Bitumen needs to be diluted so it can flow in pipelines and a common practice is to use 
+
+naphtha, which is obtained from natural gas condensate. The naphtha is blended with 
+the bitumen in ratios of up to 55%. Once the dilbit has been pumped to the refinery, the 
+naphtha can be removed and returned to the bitumen production source for blending 
+with the next quantity to be piped. Which of the following statements is TRUE? 
+a.  Removing and returning naphtha to the production source for blending with another 
+
+quantity of bitumen is an example of re-use. 
+
+b.  Naphtha must be returned to the bitumen production source because it is too costly 
+
+for the refineries to process. 
+
+c.  The price of crude oil is lower than bitumen because there is no need to add 
+
+naphtha to crude oil in order to transport it via pipeline. 
+
+d.  Transporting dilbit by pipeline is not sustainable because the viscosity and density 
+
+are too high for it to flow in the pipeline without adding naphtha. 
+
+26.  Enbridge has hired your company to conduct a life cycle assessment (LCA) on its Line 
+
+9B pipeline. Enbridge expects you to use one of the two standards for conducting life 
+cycle assessments: ISO 14040 or ISO 14044. These standards explain the four-step 
+process you should follow, including analysis of the inputs and outputs, assessment of 
+the impacts, and interpretation of results so you can advise Enbridge how to improve its 
+pipeline. However, the most important first step is for you to:  
+a.  Develop a proposal to explain how you are going to conduct the LCA. 
+b.  Sign the contract with Enbridge. 
+c.  Agree with Enbridge on a manageable scope for the LCA. 
+d.  Tell Enbridge how much the LCA will cost. 
+
+27.  Leadership in Energy and Environmental Design (LEED) is an internationally 
+
+recognized standard for the construction industry to assess the environmental 
+sustainability of building designs. LEED is a rating system that awards points for 
+building attributes with a net environmental benefit. For example, points can be earned 
+for using renewable energy. Enbridge's Line 9B would not qualify for a LEED 
+designation because:  
+a.  LEED only applies to buildings. 
+b.  Crude oil cannot be recycled. 
+c.  Pipelines already have net environmental benefits built in. 
+d.  It is not allowed under the National Energy Board Act. 
+
+28.  Maggie is an APS111 student doing her seminar presentation on the Enbridge Line 9B 
+
+application. She takes the position that Enbridge’s application for reversal of Line 9B 
+should be refused. The best argument for her position is:  
+a.  Project benefits are limited when LCA determined externalities are factored in. 
+b.  Numerous First Nations and environmental groups oppose the reversal as a threat 
+
+to the water system integrity.  
+
+c.  There may be more complications in implementation than indicated by Enbridge.  
+d.  Greenpeace’s assumption that the pipeline will spill is valid.  
+
+Page 9 of 16 
+
+ 
+ 
+ 
+29. 
+
+In her seminar presentation on the Enbridge Line 9B application Maggie uses the 
+following sources of information:  
+
+[1] Greenpeace. (2013). Stop the Enbridge pipeline [Website]. Available: 
+http://www.greenpeace.org/canada/en/campaigns/Energy/tarsands/Get-involved/stop-
+the-pipeline/  
+[2] Enbridge. (2013) Looking at Enbridge’s Spill Record in 2009. [Website] Available: 
+http://www.enbridge.com/AboutEnbridge/CorporateSocialResponsibility/Environment/L
+ookingAtEnbridgesSpillRecord.aspx  
+
+From these sources she uses the following information:  
+
+"According to the environmental advocacy group Greenpeace between 1999-
+2008, Enbridge had an average of one spill every week from its pipelines, 
+however Enbridge regards its safety record as favourable, in comparison to 
+other companies.” 
+
+This is acceptable because: 
+a.  Greenpeace is a reputable organization. 
+b.  Enbridge presents unbiased figures on spills. 
+c.  The data she provides from both Greenpeace’s and Enbridge's website support a 
+
+valid conclusion. 
+
+d.  She identifies the bias of Greenpeace. 
+
+30.  For the Enbridge Line 9 Case Study, which of the following is a useful statement of 
+Stakeholder, Interest, and Impact on the design’s Functions, Objectives and 
+Constraints (FOC). 
+Stakeholder 
+
+Interest 
+
+a. 
+
+Industry groups  Profit 
+
+b. 
+
+c. 
+
+Environmental 
+groups 
+First Nations 
+Peoples 
+
+Expose environmental 
+problems 
+Well-being of its 
+communities 
+
+d.  Enbridge 
+
+Safety 
+
+Impact on FOC 
+Ensure that pipe line changes are 
+approved quickly 
+Close down and remove pipeline to 
+restore natural environment 
+Leak detection so that leaks can be 
+spotted as early as possible 
+Public information campaigns to 
+prevent third-party damage 
+
+Page 10 of 16 
+
+ 
+ 
+ 
+ 
+ 
+31. 
+
+Industrial ecology is sometimes referred to as “cradle-to-cradle” environmental 
+management. The goal of industrial ecology is for man-made systems to emulate 
+efficient, sustainable natural systems by optimizing the total materials and residuals 
+cycle taking into consideration resources, energy, and costs. Your company would like 
+to propose industrial ecology to Enbridge. One of the first things you must do is: 
+a.  Solicit funds from the federal government so that Enbridge can retrofit its pipelines 
+
+to accept compressed natural gas. 
+
+b.  Identify companies, municipalities, and individuals who realize that waste and 
+
+residuals from one process can be used as inputs to another process. 
+c.  Wait for the NEB to release its decision about the Line 9B application. 
+d.  Talk to the Ogoni community in Nigeria about the loss of the mangrove forest. 
+
+32.  As the chief chemical engineer for Enbridge, your role is to test the chemical 
+
+composition of dilbit, which is a combination of bitumen and a diluting agent such as 
+naphtha. The American Society for Testing and Materials (ASTM) has recently 
+released a methodology for evaluating crude oils, including dilbit, under conditions 
+normally occurring in oil and gas production, storage and transportation in pipelines. 
+You ask your colleague about using the new methodology, but your colleague says not 
+to bother because it will be more costly than looking up the information at the library. 
+However, you decide to use the new methodology because:  
+a.  You want to impress your boss. 
+b.  It moves Enbridge closer to its environmental goal of a Triple Bottom Line. 
+c.  The increased testing costs are within the budgetary limitations set by the project 
+
+maintenance plan.  
+
+d.  Relying on an internationally recognized standard-setting organization 
+
+demonstrates due diligence. 
+
+33.  As the design engineer working on the capacity expansion of an oil refinery in Sarnia, 
+you have identified two feasible alternatives: (1) building three new distillation units on 
+the existing property; or, (2) re-commissioning a nearby refinery that had been closed 
+and trucking the crude oil from the existing property to the re-commissioned refinery. 
+The local municipality favours Alternative (1) because it will bring construction jobs to 
+the community. The Ontario Trucking Association favours Alternative (2) because it will 
+mean work for haulers. Friends of the Earth Canada, a non-governmental organization, 
+opposes both alternatives and wants you to look at biorefining. What can you do to 
+resolve the conflicting interests of these stakeholders.  
+a.  Ignore them; your client is the refinery and their interest is the most important. 
+b.  Conduct a break even analysis of the two alternatives and show all the stakeholders 
+
+that the preferred alternative is the one with the least cost. 
+
+c.  Determine the relative importance of the influence of each category of stakeholder 
+and then use a ranking and weighting method to identify the preferred alternative. 
+d.  Change the performance targets to emphasize property values, air pollution, and 
+
+crude oil prices, and re-evaluate the alternatives. 
+
+Page 11 of 16 
+
+  
+ 
+End of Questions pertaining to Case Study #1: Enbridge Line 9B located in the 
+appendix of this exam. 
+
+34.  A key question about audience to ask when preparing a presentation is: 
+a.  How can I get all the material I want to talk about into the time limit? 
+b.  What assumptions can I make about what the audience already knows? 
+c.  What is the most dramatic language possible to present this data? 
+d.  What is the audience going to think of me, personally, when I am speaking? 
+
+35.  The three factors that influence how effective your communication are, in order of 
+
+importance, from most to lease important: 
+a.  Words, tone, technical level. 
+b.  Body language, technical level, tone. 
+c.  Body language, tone, words. 
+d.  Technical level, words, body language. 
+
+36.  Which of the following statements is TRUE? 
+
+a.  Functions are adjectives describing what the design must be.  
+b.  Objectives are verbs describing what the design must be. 
+c.  Secondary functions are adjectives resulting from the primary function. 
+d.  Functions are verbs describing what the design must do. 
+
+37.  Recently, owners of a particular model of vehicle manufactured by GM, the Chevy 
+
+Cruze, have complained that the car does not get as many kilometres to the litre of gas 
+as was promised by the manufacturer. They claim they were misled. The manufacturer 
+says, in its defense, that many factors can affect fuel consumption, including driver 
+behavior and road conditions. Some consumer advocates blame Canadian testing 
+standards, saying that they are not as rigorous as those in the US. In fact, the 
+Canadian government department responsible for tests is planning to introduce new 
+tests by 2015. Which of the following statements, in relation to this issue, is both true 
+and valid? 
+a.  Car manufacturers should conduct the tests; then if they are not accurate, at least 
+
+the consumer can sue the manufacturer. 
+
+b.  Governments are unbiased and so they should supervise all testing; that way the 
+
+standards will be fair to consumers. 
+
+c.  The fact that new tests are being introduced implies that the previous tests did 
+
+misinform the public. 
+
+d.  The public has to get over the idea that tests are applicable to every case and 
+
+accept it when things turn out differently. 
+
+Page 12 of 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 2:  
+
+Long Answer Question (40%) 
+
+INSTRUCTIONS: This question is based on Case Study #2: Sheltered Harbour 
+Development. If you use Case Study #1, you will receive zero marks for this part of the 
+exam.  
+
+You may remove this page from the exam when answering this question. 
+
+This question requires three written answers. Use an exam booklet, and write in your name, 
+student number, course, and date of examination on the booklet’s cover page. You may use 
+as many pages as you need for your preliminary work, but the final answers must be no 
+more than four (4) pages single-spaced or eight (8) pages double spaced. Clearly indicate 
+the final copy to be graded by writing “Final Copy” at the start of it. Use headings, 
+subheadings, paragraphs, and bullet lists where appropriate. 
+
+1.  Based on CASE STUDY #2: SHELTERED HARBOUR DEVELOPMENT, given below, 
+
+create a table with the following information (15 marks): 
+
+a.  Five relevant stakeholders, other than design team, client or users. 
+b.  Identify stakeholder interests for each stakeholder; these must be independent 
+
+of the design 
+
+c.  Identify the impact of the interests on functions, objectives, and/or constraints 
+
+Indicate how particular functions, objectives or constraints are related to human 
+factors, economic or environmental concerns.  
+
+2.  Based on the case given, in paragraph form (one or more paragraphs) write a concise 
+Problem Statement in your own words. DO NOT COPY SENTENCES WORD-FOR-
+WORD FROM THE CASE STUDY IN YOUR PROBLEM STATEMENT. YOU WILL 
+RECEIVE NO MARKS FOR MATERIAL COPIED WORD-FOR-WORD FROM THE 
+CASE STUDY. (15 marks) 
+
+3.  In paragraph form, identify the scope of the design, the functional basis and provide a 
+
+rationale in which you justify your design approach and show how meeting the 
+functional basis will result in the outcome the client has asked for. In this brief, 
+persuasive discussion, you will explain how the design approach will have the desired 
+result and you will support that explanation with evidence. (10 marks) 
+
+Page 13 of 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You may remove this page in order to use it when answering questions 10 - 33. 
+
+Case Study #1: Enbridge Line 9B 
+
+Enbridge Pipelines Inc. owns and operates Line 9, a 762 mm (30-inch) diameter pipeline, 
+originally constructed in the 1970s with a capacity of approximately 240,000 barrels per day. 
+Line 9 extends 830 km from Sarnia, Ontario, to Montreal, Quebec, and was originally built as 
+an eastbound pipeline. Line 9 comprises two segments: Line 9A from Sarnia to Westover, 
+Ontario, and Line 9B from Westover, Ontario, to Montréal.  
+
+Line 9 was originally designed to flow from west to east in order to transport crude oil from 
+Western Canada to refineries in Québec. In 1998, the direction of flow was changed so that 
+foreign oil from areas such as West Africa and the Middle East, which was then less costly, 
+could be transported to refineries in Ontario. Currently, the pipeline transports foreign crude 
+oil in a westbound direction from the Montréal Terminal to the Sarnia Terminal.  
+
+Western Canadian crude oil is now priced significantly lower than foreign oil. As a result, on 
+November 29, 2012, Enbridge made an application to the National Energy Board (NEB), as 
+required by section 58 or Part IV of the National Energy Board Act, to reverse the flow of 
+Line 9 to the originally designed west to east direction. Enbridge has already secured 
+approval from the NEB to reverse the direction of flow in Line 9A on July 27, 2012. 
+
+In addition to reversing the direction of flow in Line 9B, Enbridge's application also seeks to 
+(1) increase the overall capacity in the pipeline from 240,000 to 300,000 barrels per day 
+without increasing the pipe diameter and (2) allow the pipeline to be used to transport heavy 
+crude oil, including diluted bitumen.  
+
+The NEB held public hearings about the application in Montréal and Toronto during October, 
+2013, and 40 participants, including First Nations, provincial and municipal governments, 
+industry and environmental groups, and concerned citizens, made oral presentations 
+explaining their views about Enbridge's application. The NEB is expected to release its 
+decision about the application in early 2014. 
+
+Page 14 of 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You may remove this page in order to use it when answering questions for the long 
+
+answer question. 
+
+Case Study #2: Sheltered Harbour Development [1] 
+
+Ultimate Suburbs Sheltered Harbour Development Corporation (USSHDC) is an international 
+consortium of researchers and venture capitalists whose aim is to create, worldwide, new 
+luxury suburbs entirely on water. These developments would be based on communities such 
+as the Sea Village, a houseboat community on False Creek [2] or the Tanka community in 
+southeast China’s Fujian province, where fishermen have lived on the sea since 700 A.D. 
+For hundreds of years, until the current era, these people were not even allowed on the 
+mainland and had to subsist entirely on water [3]. These two communities are an inspiration 
+to the developers at USSHDC. 
+
+At USSHDC, we are also interested in solving problems being faced in the world today. 
+Increasing urbanisation is creating two related consequences – not only are the cities 
+growing themselves and becoming more dense, but the needs of their residents require 
+more land to be devoted to farming. With around 150,000 people moving to cities each day, 
+the need for farmland will double in less than forty years. However, because this land is 
+required for bio-fuel and other bio-related production, as well as for food stock, the world 
+could well be facing a land shortage in the near future [4]. 
+
+Currently, most major cities in the world are built along coastlines. With rising sea levels due 
+to global warming, these cities will be subject to flooding [4]. While floods can be disasters 
+and living on water may become a necessity, at USSHDC, our idea is to build a desirable 
+lifestyle on water rather than face on-water living as an emergency response. 
+
+We are seeking proposals for designs that will resolve one or more of the issues that will be 
+faced by this kind of community. Proposals are being sought in the following areas: 
+
+1.  Food production, including but not limited to 
+
+a.  Sustainable fish-farming, without the use of antibiotics and/or genetically 
+
+modified feed 
+
+b.  Liquid growth media utilizing phosphorus harvested from the ocean 
+c.  Algae farming methods utilizing waste products from current on-land urban 
+
+areas 
+
+d.  Water desalination and purification 
+
+2.  Offshore sustainable power sources, including but not limited to ocean thermal 
+
+electric conversion. 
+
+3.  Sustainable, flood-proof building technologies that will be able to withstand storms. 
+4.  New materials that will be able to withstand destructive forces inherent in the on-sea 
+
+or at-sea environment. 
+
+5.  Technologies to transport floating houses in cases where people require relocation 
+
+[4]. 
+
+Page 15 of 16 
+
+ 
+ 
+ 
+ 
+ 
+Major issues that will have to be addressed in developing new, on-water communities 
+include environmental impact, size and configuration of homes, safety, recreation 
+opportunities [5] and relation to other shoreline uses. Obviously building on water will impact 
+the ecosystem, even before we consider the possibilities of fish-farming or other kinds of on 
+water food production. USSHDC wants to minimize negative environmental impact and 
+maximize positive environmental impact. Size and configuration of homes will be a factor in 
+the marketability of on-water luxury dwellings, which must compete with the kinds of home 
+sizes available on land. USSHDC will want the most desirable and competitive designs. 
+Living on water carries a different set of safety concerns than living on land and at USSHDC 
+we favour family, rather than all-adult, communities. Also relevant to family communities are 
+the recreational opportunities that should be available to make a USSHDC suburb desirable. 
+While having a boat moored to your house, rather than a car parked, is an exciting idea, 
+other forms of recreation must be taken into account to make the area a satisfying place to 
+live for all ages. Finally, sheltered shorelines near to cities may already be in use for hotels 
+and resorts; USSHDC designs must complement and add value to these enterprises, not 
+detract from their desirability. 
+
+USSHDC looks forward to your proposals. Your company may choose one or more of the 
+areas listed above, but must justify that choice and its scope in relation to our timeline: we 
+are planning for our first prototype Sheltered Harbour City to be built and inhabited by 2020. 
+
+References: 
+[1] C. Deist. (2013, Nov. 1) Ocean living: A step closer to reality. BBC News. [Online]. 
+Available: http://www.bbc.com/future/story/20131101-living-on-the-ocean  
+[2] Venture Vancouver 2013. (2013) Granville Island Boathouses on False Creek, the Sea 
+Village. [Online]. Available: http://www.venturevancouver.com/false-creek-boat-houses-
+granville-island  
+[3] Daily Mail Reporter. (2013, Oct. 9) China's floating fishing cities. Mail Online. [Online] 
+Available: http://www.dailymail.co.uk/news/article-2451023/Chinas-Tanka-boat-peoples-
+floating-homes.html  
+[4] R. de Graaf. (2013, Nov. 12) We’re running out of land, so let’s build on water. TEDxDelft. 
+[Online]. Available: http://www.youtube.com/watch?v=0deiRRqWLgU  
+[5] Scottish Canals. (2012) Choose a life less ordinary. [Online] Available: 
+http://www.livingonwater.co.uk/index.php/homepage/show/home/home  
+
+Page 16 of 16 
+
+ 
+ 
+ 
+ 
+

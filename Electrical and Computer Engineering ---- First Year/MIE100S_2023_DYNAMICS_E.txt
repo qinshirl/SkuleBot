@@ -1,0 +1,610 @@
+Ji
+
+A0AF71AC-CB95-4BEF-9285-607C7C9F902F
+
+mielOO-final-exam-2023 
+
+#638 Page 1 of 16
+
+□
+.v.
+
+□
+
+l!K
+Jl-
+
+□
+
+MIEIOOS: Dynamics - April 26, 2023
+Final Exam - 2.5 hours
+
+E-mail address:
+
+@inail.utoronto.ca
+
+First name (please write as legibly as possible within the boxes)
+
+Last name
+
+Student ID number
+
+•  You must neatly show all rough work to earn credit for each 
+
+answer.
+
+Problem
+
+Marks
+
+•  This answer booklet contains 16 pages, including this cover page, 
+
+la, lb, Ic 
+
+• 
+
+printed two-sided.
+If you run out of room answering any of these questions, then 
+clearly indicate that your solution is continued on page 15 and 16.
+
+•  Do not tear any pages from this booklet.
+•  Avoid folding or tearing any of the sheets to the extent possible.
+•  Place your student ID at the front, right-hand corner of your 
+
+desk.
+
+2a, 2b, 2c 
+
+3a, 3b, 3c 
+
+4a,4b 
+
+5a, 5b 
+
+Spare Pages
+
+20
+
+20
+
+20
+
+20
+
+20
+
+Page
+
+2-4
+
+5-7
+
+8-10
+
+11-12
+
+13-14
+
+15-16
+
+Permitted Aids:
+•  Non-communicating/non-programmable calculator; Casio FX-991 (EX recommended; any suffix is acceptable, 
+
+including ES, PLUS, ES PLUSC, MS, MSPLUS2). Sharp EL-W516 (any suffix is acceptable, including TBSL, XG, 
+XGB-SL)
+
+•  One 8 14” x 11” aid sheet, any colour, brought to the test by the student. You may write on both sides of the sheet.
+• 
+Present your complete solution in the space provided
+
+.Ruler, Protractor
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 1 of 16 pages
+
+□f
+
+□
+
+38EF078F-9ABE-47F0-B2F7-801E6872464D
+
+mielOO-final-exam-2023
+
+#638 Page 2 of 16
+
+Question la
+
+The sliders A and B are connected by a light rigid bar and move with negligible friction in the slots, 
+both of which lie in a 
+horizontal plane. For 
+the position shown, the 
+velocity and 
+acceleration of A is 0.8 
+m/s to the right and 
+2.94 m/s^ to the left, 
+respectively.
+
+4 kg
+
+20°
+
+B
+
+80 N
+
+40°
+
+What are the distances 
+Sa and S£j?|4 marks]
+
+A
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 2 of 16 pages
+
+Question lb
+
+What is the magnitude of the 
+velocity of slider B, Vg?
+
+6 kg
+
+B
+
+[8 marks]
+
+C951631F-CECC-4FD1—A615-64DB8BFA0D6A
+
+mielOO-final-exam-2023
+
+#638 Page 3 of 16
+
+s^s
+□
+
+20'
+
+40°
+
+P = 80N
+
+A
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 3 of 16 pages
+
+13E4EAC1-2CAB-4C79-9209-8ED8458DC83D
+
+mielOO-final-exam-2023
+
+#638 Page 4 of 16
+
+□
+
+Question Ic
+What is the 
+magnitude of the 
+force T in the bar?
+
+[8 marks]
+
+1 m
+
+40'
+
+4 kg
+
+A
+
+SON
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 4 of 16 pages
+
+C85D6285-9DC3-4BFD-ACC8-DFE8CCB57240
+
+mielOO-f inal-exatn-2023
+
+#638 Page 5 of 16
+
+77^
+
+□
+
+□
+
+□
+
+y
+
+B
+
+£)
+
+Question 2a
+The wheel of radius R = 
+0.21 meters rolls without 
+slipping. The bar AB of 
+length 0.85 meters is pinned 
+to the edge of the wheel at 
+point “B”. Point “A” of the 
+bar drags horizontally along 
+the ground.
+
+Use the coordinate system 
+specified in the diagram; the 
+line OB makes an angle 0 
+with respect to the x-axis, as 
+shown. Watch your plus/minus signs!
+
+_____
+
+The centre of the wheel is at the origin of the coordinate system.
+
+Suppose 0 = J; co = —2 — k;a = +3.5 fc.
+
+What is the distance to the instantaneous center of zero velocity of bar AB from point A at this instant? 
+[6 marks]
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 5 of 16 pages
+
+F731DBF2-F870-4608-ACBO-F78008A324D2
+
+mielOO-final-exam-2023
+
+#638 Page 6 of 16
+
+Question 2b
+Suppose 0 = ; &> = -2 k; a = + 3.5 k.
+
+Determine the acceleration of 
+point B in x,y coordinates at 
+this instant.
+
+(4 marks]
+
+y
+
+0
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 6 of 16 pages
+
+C4550E3B-DC2A-4025-9610-DCF9848DAB68
+
+mielOO-final-exara-2023
+
+#638 Page 7 of 16
+
+I
+
+lU*
+3-SE
+
+□
+
+Question 2c
+Suppose 0 = - 
+
+=
+
+. rad v* —> 
+
+rad 7*
+ rad 7*
++4 — k.a = -5^k.
+
+s
+
+Find the angular acceleration a 
+of bar AB in x-y coordinates at 
+this instant. Also find the 
+acceleration of point A in x-y 
+coordinates at this instant. [10 
+marks]
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 7 of 16 pages
+
+59D447CC-A098-4B30-9C59-148FDE521350
+
+mielOO-final-exam-2023
+
+#638 Page 8 of 16
+
+Question 3a
+
+disk A
+
+VySA'
+
+e = 25°
+
+A circular disk of mass = 
+16 kg and radius, R - 0.45m, is 
+rolling without slip on an incline 
+with a slope of d = 25°. A rope is 
+attached to the centre of the disk 
+and is wound around a pulley 
+system. At this instant, the disk has 
+an angular acceleration a and 
+angular velocity to. Block B hangs 
+vertically from the large pulley.
+
+The rope and pulleys all have 
+negligible mass.
+
+Given a = 7.42 — clockyvise^ find the tension in the rope. (6 marks)
+
+rad
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 8 of 16 pages
+
+Question 3b
+
+0BC84638-62E9-47A8-B654-1CEEAC68ADE7
+
+mielOO-f inal-exain-2023
+
+#638 Page 9 of 16
+
+□
+
+SRfc
+
+Given = 2Skg, determine 
+the magnitude and direction of a 
+and the corresponding tension in 
+the rope. (9 marks)
+
+disk A
+
++g
+
+0 = 25°
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 9 of 16 pages
+
+oKtgo
+
+CFA7DF54-7ABB-4F42-9C43-F989C0492CF1
+
+mielOO-final-exam-2023
+
+#638 Page 10 of 16
+
+Question 3c
+
+disk A
+
+R
+
+0 = 25°
+
+Given mg = 2Skg, what must be 
+the smallest possible coefficient of 
+static friction, fig min that ensures 
+the disk rolls without slip? (5 
+marks)
+
+If you run out of room on any question — Pages 15 and 16 can be used
+
+page 10 of 16 pages
+
+70ED4C7E-F978-44D0-9455-04503B3BBA63
+
+mielOO-final-exam-2023
+
+#638 Page 11 of 16
+
+□
+
+□
+^3
+
+Question 4a
+The uniform slender bar of mass= 5 kg and length 
+I = 2 m has no angular velocity as end A strikes 
+the ground against the stop with no rebound, = 
+10 m/s with an angle 0 = 25® as shown just 
+before the strike.
+
+What is the magnitude of the angular velocity of 
+the bar right after the strike? [10 marks]
+
+£
+2
+
+B
+
+Z 1 45°
+"G....
+
+7
+2
+
+A
+
+ground
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 11 of 16 pages
+
+□EKJD 3^
+
+BB6B3A47-5D3D-4FD7-A05F-4471CD7B8BA4
+
+mielOO-final-exam-2023
+
+#638 Page 12 of 16
+
+Question 4b
+Given an initial velocity = 10 m/s just before striking the 
+corner, will the bar rotate about A to the vertical position? Show 
+all your work to prove either ”yes” or ”no” to the above 
+question. [10 marks]
+
+B
+
+A'*5° 
+G
+
+7
+2
+
+ground
+
+If you run out of room on any question — Pages 15 and 16 can be used
+
+page 12 of 16 pages
+
+763D5A87-340D-4E82-BD50-8DC09F891E2D
+
+mielOO-final-exam-2023
+
+#638 Page 13 of 16
+
+□
+
+□
+
+□
+
+iti1
+
+- = 150mm 
+----------------------
+
+■e
+- = 150mm
+
+A
+
+p-—
+> C 
+
+kN >
+= 3-3—5:
+
+5 = 3.5sinl3t
+
+Question 5a and 5b
+A 1.5-kg sphere B is attached to bar 
+AB. Bar AB is pinned at A, and 
+there is a spring (kspring = 
+3.3 kN/m) connecting the bar at 
+point C bar to the moving support D.
+The bar has zero mass and is 
+horizontal when the system is at 
+rest.
+
+Support D experiences a vertical 
+displacement 5 = S^sin co ft where 
+5m = 3.5 mm and
+= 13 rad/s,
+
+•  Show the Free Body 
+Diagram [6 marks]
+
+•  Determine the natural frequency of the system [8 marks]
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 13 of 16 pages
+
+□
+
+□
+
+□
+
+hr.'-LC
+
+28A9461F-60A4-41AE-8193-DE39533AF4D3
+
+mielOO-final-exam-2023
+
+#638 Page 14 of 16
+
+Question 5c
+Determine the magnitude of the 
+maximum acceleration of sphere
+B once the system is at steady­
+state. [6 marks]
+
+- = 150mm
+
+<------------------------
+
+i
+. 
+
+— = ISOmm
+»—2-------
+
+pc
+
+J
+
+kspring - 
+
+-lol
+
+S = 3.5sin 13t
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 14 of 16 pages
+
+95C16CF1—2A0E-4BFB-B40D-CB6D0482F29E
+
+mielOO-final-exam-2023 
+
+#638 Page 15 of 16
+
+□
+
+1^0
+
+Spare Page 1
+
+Spare page in case you ran out of room on one of the questions - Indicate clearly which 
+question you are writing.
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 15 of 16 pages
+
+□
+
+□
+
+8A6370AF-A860-41DE-AC75-54AC7E36CA8A
+
+mielOO-final-exam-2023
+
+#638 Page 16 of 16
+
+Spare Page 2
+
+Spare page in case you ran out of room on one of the questions - Indicate clearly which 
+question you are writing
+
+If you run out of room on any question - Pages 15 and 16 can be used
+
+page 16 of 16 pages
+
+

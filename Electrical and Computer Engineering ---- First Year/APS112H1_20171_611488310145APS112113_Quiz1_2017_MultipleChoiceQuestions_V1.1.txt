@@ -1,0 +1,288 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+
+Quiz #1 February 14, 2017 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total 
+of 23 questions (20 multiple-choice and 3 short-answer questions), worth 41 marks. The 
+questions are divided between two booklets.  
+
+Question Booklet #1 – Multiple Choice Question Booklet 
+
+This booklet contains 20 multiple-choice questions, worth 1 mark each. Read each 
+question thoroughly and provide the answer on the answer sheet (not in this booklet). 
+Fill in your name and student number on the multiple-choice answer sheet. When 
+providing answers on the answer sheet be sure to: 
+
+fill out the answer sheet (scan sheet) clearly with no overlaps 
+
+•  use a pencil or pen 
+• 
+•  erase any errors completely 
+•  This booklet is printed double sided. Look for questions on both sides of the 
+
+page. 
+
+•  provide only the single, most correct answer for each question  
+
+There is no penalty for wrong answers. Select the answer that best satisfies the 
+question.  
+
+You are not required to hand in this multiple-choice question booklet.  
+
+The final 3 short-answer questions are found in the Short Answer Question Booklet. 
+
+Page 1 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Consider the following: 
+
+i)  Being in a chess club 
+ii)  Putting on your shoes this morning 
+iii)  Getting dressed this morning 
+iv)  Making yourself happy 
+v)  Completing this exam 
+
+Which are projects in the sense of this course? 
+a.  Only v 
+b.  Only iii 
+c.  ii, iii and v 
+d.  i, ii, iii and v 
+
+2.  What is NOT a part of a project as we’ve defined it? 
+
+a.  work schedule 
+b.  cost schedule 
+c.  resource schedule 
+d.  site insurance 
+
+Figure 1: Questions 3, 4, and 5 use this Gantt Chart. Assume that all workers are on the same calendar. 
+
+3.  If the tasks shown in the Gantt chart (Figure 1) were presented as Pert Chart with 
+
+“Activity on the arrow”, what is true? (You should sketch this out.)  
+a.  You would need a dummy task between Task A and Task C 
+b.  You would need a dummy task between Task B and Task C 
+c.  You would need a dummy task between Task C and Task D 
+d.  You would not need a dummy task 
+
+4.  Using the Gantt chart (Figure 1), and assuming there are two electricians, the critical 
+
+path is composed of tasks: 
+a.  A, B, C, D, E 
+b.  A, B, C, E 
+c.  C 
+d.  D 
+
+Page 2 of 6 
+
+ 
+ 
+ 
+ 
+ 
+5.  If the project in the Gantt chart (Figure 1) was levelled because there was only one 
+
+electrician, the resulting project would take: 
+a.  12 work days 
+b.  12 elapsed days 
+c.  14 work days 
+d.  16 elapsed days 
+
+Client Statement #1 – Bike Share 
+Questions 6 to 9 refer to this Client Statement. 
+
+In  2011  a  bike-share  program  opened  in  the  City  of  Toronto,  with  1000  bikes  in  80 
+locations.  For  a  fee,  bikes  could  be  picked  up  in  one  location  and  then  returned  in 
+another,  provided  that  both  locations  were  operated  by  the  company  (e.g.  bikes  could 
+not  just  be  locked  up  in  any  location  convenient  to  the  user).  They  offered  both  daily 
+passes  and  yearly  memberships  to  allow  for  the  use  of  the  bikes.  In  the  first  year  of 
+operation,  the  company  failed  to  meet  its  revenue  targets.  To  both  increase  revenue 
+and  enable  long  term  planning,  the  company  put  a  priority  on  increasing  yearly 
+subscriptions. They asked an ESP team to determine the reason why more people were 
+not using these bikes and to come up with a design to address the problem. 
+
+6.  Based on the Client Statement, the team determined the gap to be: 
+
+a.  Not enough bikes were being provided in order to meet revenue targets. 
+b.  Location drop points did not allow for people to plan travel in a convenient way. 
+c.  The program should not be profit-making; it should be supported by government. 
+d.  Weekly and monthly passes should also be available for users. 
+
+7.  Which of the following stakeholders/interests help the team make design decisions? 
+
+a.  Drivers/less traffic congestion and better driving conditions 
+b.  Bike share program/higher revenues 
+c.  Toronto Transit Commission/putting bike racks on buses and streetcars 
+d.  Local residents/noise bylaws musts be obeyed 
+
+8.  Which of the following secondary functions is NOT viable? 
+
+a.  Safely store bicycles; 
+b.  Recognize Bike Share customers and allow them to unlock bikes; 
+c.  Help users plan their pick-up and drop-off locations; 
+d.  Ensure that riders return the bikes. 
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+9.  In the team discussion of the project, one member suggested the following objective: 
+“increase membership and revenue.” The team decided not to use this objective 
+because it is: 
+a.  really a function (as it is a verb, not an adjective); 
+b.  actually a constraint, since if it didn’t happen, the project failed; 
+c.  neither a function nor an objective, but an overall result; 
+d.  actually two objectives – increase membership and increase revenue – they 
+
+should be separated. 
+
+10. The Project Management Plan in the Project Requirements and Conceptual Design 
+
+Specification should include: 
+a.  a Gantt chart; 
+b.  a work breakdown structure of all tasks in the project; 
+c.  a range of dates for each client meeting; 
+d.  a description of the team’s process. 
+
+Source: 
+(1) Design by Kaylene Kau 
+
+http://www.coroflot.com/kaylenek/PROS
+THETIC-ARM 
+
+(2) Public Domain: 
+
+https://commons.wikimedia.org/wiki/File:
+Brain-Controlled_Prosthetic_Arm.jpg 
+
+Figure 2: Prosthetic hands. (1) Single tentacle design; (2) standard five 
+digit hand design 
+
+(1) 
+
+(2) 
+
+11. Compare the two prosthetic hand designs in Figure 2. Which is TRUE? 
+a.  (1) is more conceptually complex than (2) because it is not a direct 
+
+mechanization of a human hand.  
+
+b.  (1) is less conceptually complex than (2) because it has one tentacle instead of 
+
+five digits.  
+
+c.  (1) is has greater implementation complexity (more difficult to build) than (2) 
+
+because it has one tentacle instead of five digits. 
+
+d.  (1) and (2) have equal levels of conceptual and implementation complexity. 
+
+Page 4 of 6 
+
+ 
+ 
+ 
+12. The single tentacle hand design in Figure 2-1 is an example of: 
+
+a.  Design for Safety 
+b.  Industrial analogy 
+c.  Biomimetics 
+d.  TRIZ 
+
+13. When designing the single tentacle hand (Figure 2-1) the designer thought, “how 
+
+can I redesign the standard five digit hand design (Figure 2-2), if I don’t use fingers?” 
+This was an example of:  
+a.  SCAMPER 
+b.  Critical thinking 
+c.  Biomimetics 
+d.  Analogy 
+
+14. The single tentacle hand designer recognized a flaw in the standard hand design 
+was that the user was vulnerable to electric shock if they gripped a live power 
+source. The best way to deal with this hazard is to: 
+a.  Include a warning in the user manual to avoid live power sources.  
+b.  Placed a label on the hand to avoid touching live power sources. 
+c.  Design an accessory sheath of insulating material to be worn on the tentacle 
+
+when they anticipate being around live power sources. 
+
+d.  Make the tentacle out of a non-conductive material. 
+
+15. A primary difference between a task list and a Gantt chart is that: 
+
+a.  a Gantt chart is intended for a client, while a task list is an internal document. 
+b.  a Gantt chart shows the timing interactions, while a task list does not.  
+c.  a Gantt chart is a static snapshot, while a task list is a living document that must 
+
+be continually updated. 
+
+d.  a Gantt chart is created at the end of a project to summarize the work done, 
+while a task list is created at the start of a project for planning purposes.  
+
+16. Which of the following statements about brainstorming is NOT correct? 
+
+a.  All participants in brainstorming should be given a chance to contribute to the 
+
+process. 
+
+b.  Brainstorming is often used for creative problem solving. 
+c.  Brainstorming is an open game without rules or guidelines. 
+d.  No criticism is allowed in brainstorming. 
+
+Page 5 of 6 
+
+ 
+ 
+17. Functional fixedness is a cognitive obstacle to innovation. Which statement does 
+
+NOT provide an example of breaking out of functional fixedness? 
+a.  I used a coin to tighten a loose screw in my desk 
+b.  My little sister drew all over the wall 
+c.  I used salt to remove ice from my driveway 
+d.  I turned my fishing lure into earrings 
+
+18. A Dimensional Analysis is used to: 
+a.  estimate the size of an object 
+b.  estimate the mass of an object 
+c.  to create relationships where all the units cancel properly 
+d.  to create a conceptual design 
+
+19. One way to generate new ideas is to look at how the function is accomplished in 
+
+other industries. This is an example of: 
+a.  Industrial thinking 
+b.  Blue sky thinking 
+c.  TRIZ 
+d.  Design by analogy 
+
+20. TRIZ is a theory of design that: 
+
+a.  Is named after the Russian for “Substitute, Combine, Reduce, Invent” 
+b.  Describes the use of analogies such as the Fantasy Analogy 
+c.  Uses a large but finite number of inventive principles to address new problems 
+d.  Describes a means of classifying design objectives 
+
+Page 6 of 6 
+
+ 
+ 
+

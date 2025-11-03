@@ -1,0 +1,358 @@
+ri 
+
+83F5E578 - 75F6-4145-A88F- 1F4E94F6ABF4 
+
+matl88finalexam 
+
+#1 
+
+lofl2 
+
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+FINAL EXAMINATION, APRIL  2019 
+
+DURATION:  2  AND  1/2 HRS 
+
+FIRST YEAR  - CHE, CIV, CPE, ELE, ENG, IND, LME, MEG, MMS 
+MAT188H1S  - Linear Algebra 
+EXAMINER:  D.  BURBULLA 
+
+Exam Type: A. 
+
+Aids permitted: Casio FX-991 or Sharp EL-520 calculator. 
+
+Full Name: 
+
+UTor email: 
+
+Student ID: 
+
+Signature: 
+
+Instructions: 
+
+@mail.utoronto.ca  
+
+DO NOT WRITE ON THE QR CODE AT THE TOP OF THE PAGES. 
+
+This exam contains 12 pages,  including this cover page, printed two-sided.  Make sure you have all 
+of them. Do not tear any pages from this exam. 
+
+This exam consists of eight questions, some with many parts. Attempt all of them. Marks for parts 
+of a question are indicated in parentheses beside the question. 
+Total Marks: 80 
+
+Do not approximate your answers unless specifically instructed to do so. 
+
+Present your solutions in the space provided; give full and complete explanations! You can use pages 
+10, 11 and 12  for rough work.  If you want anything on pages 10, 11 or 12  to be marked you must 
+indicate in the relevant previous question that the solution continues on page 10, 11 or 12. 
+
+Page 1 of 12 
+
+ 
+ 
+7019D1E8-9560-4630-9CE3-CDA4DA86E3D5 
+
+matl88finalexam 
+
+#1 
+
+2of12 
+
+Iv 
+
+1. [10 marks] Given that the reduced row echelon form of 
+
+A— 
+
+- 
+
+r  1  2  3 1  _ 2 1 
+
+5  82 
+611175-2 1 
+_2  4  2  6  —5] 
+
+[ 
+
+4HsR— 
+
+ri 0  1  —1  01 
+011.10 1 
+' 
+0 0  0 Oj 
+
+-  000  0  1 
+
+find the rank of  A and a basis for each of row(A), col(A), null(A). 
+
+Page 2 of 12 
+
+1Continued... 
+
+8AFFA4A4-A323-4461-816B-C79F7B4D85BF  L!J i1 
+
+matl88finalexam 
+
+#1 
+
+30f12 
+
+E!1.  . 
+
+2. [10 marks] For this question, let  A be a 4 x 7 matrix. 
+
+(a) [5 marks] Find all possible values of dim (im(A)) and the corresponding values of dim (null(A)). 
+
+(b) [5 marks; 1 mark for each part] Now suppose the rank of A is 4. Find the value of the following: 
+
+dim (col(A)) 
+
+dim (row(A)) 
+
+dim ((null(A))' ) 
+
+dim (null(AT)) 
+
+dim (null(AAT )) 
+
+Page 3 of 12 
+
+Continued... 
+
+L!I 
+
+L!1 
+
+I
+
+.  
+
+matl88finalexam 
+
+#1 
+
+4 of  12 
+
+LK 
+
+3. [14 marks] If  A is an in x  n matrix it can be proved that there is a unique n x m matrix  A*  (called 
+
+the generalized inverse of  A) satisfying the following four conditions: 
+
+AA* A = A, A* AA* = A*, (AA* )T  = AA* and  (A*A)T  = A*A.  
+
+(a) [6 marks] Verify that the generalized inverse of  A 
+
+= [ 
+
+10 
+is  A* =  0 1/2 
+0 1/2. 
+
+] 
+
+[2 marks] Show that if  A is an n x n invertible matrix, then  A*  = A-' 
+
+[2 marks] Show that if  A is an n x n symmetric matrix such that  A2  = A, then  A*  = A. 
+
+Page 4 of 12 
+
+Continued... 
+
+55092EF4-DF26-46AA-87A3-19E4DCA35496  E!1  L!I 
+
+matl88finalexam 
+
+.11 
+
+#1 
+
+50f].2 
+
+- 
+
+IEI... 
+
+(d) [4 marks] Show that if b  e RI and A A*b = b,  then for any vector  e I1', ã=  *g  (I - A*A) 
+
+is a solution to the matrix equation  A  = b. 
+
+4: [6 marks] Find the least squares approximating line y = 
+
+x for the data points (2, 4), (4, 3), (7, 2), (8, 1). 
+
+Page 5 of 12 
+
+Continued... 
+
+L! 
+
+matl88firialexam 
+
+#1 
+
+60f12 
+
+5. [10 marks] Prove the following: 
+
+(a) [3 marks] If  A and  B are m x n matrices and U  = {E JRTh  I  A= B.}, then U  is a subspace 
+
+of JRTh. 
+
+(b) [4 marks] Eigenvectors corresponding to distinct eigenvalues of a symmetric matrix are orthog-
+
+onal. 
+
+(c) [3 marks] A = 0 is an eigenvalue of the n x n matrix Aif and only if  A is not invertible. 
+
+Page 6 of 12 
+
+Continued... 
+
+EC30EFF7-6095-4563-945E-80D81171F459 
+
+matl88finalexam 
+
+#1 
+
+70f12 
+
+6. [10 marks] Find an orthogonal matrix P and a diagonal matrix D such that  D = PTAP, if 
+
+8  —2  2 
+
+A=  —2  54. 
+
+2  45 
+
+Page 7 of 12 
+
+Continued... 
+
+9AE30116-45AE-4A96-AEC7-2B2DEB518EOA 
+
+REW, 91 
+
+IE IV 1 .•J 
+
+matl88finalexarn 
+
+#1 
+
+8of12 
+
+7. [10 marks] Let U= span {[ 1 1 1 0 ]T,[  1 0 1 1 ]T,[  1 0 0 1 ]T}. 
+
+(a) [5 marks] Find an orthogonal basis of U. 
+
+(b) [5 marks] Let  x= [  —2 1 0 3 
+
+ Find  proj(x). 
+
+]T 
+
+Page 8 of 12 
+
+Continued... 
+
+E9F3A060-8694-4470-8C6C-23CE1DDB41CA 
+
+matl88finalexam 
+
+#1 
+
+9  of  12 
+
+.. . 
+
+J. 
+
+21 
+
+8. [10 marks] Let T : ]R  —* II be the linear transformation with matrix A = [  IF. ë 
+
+where ë, 62 ,. . . , 
+
+ë are the standard basis vectors of W. 
+
+•..  62 61 
+
+[2 marks] If i is in 
+
+what is T(x)? 
+
+[2 marks] What is  A2? 
+
+[3 marks] Show that if A is an eigenvalue of  A then A = ±1. 
+
+[3 marks] Find the characteristic polynomial of  A for n > 2. 
+
+Page 9 of 12 
+
+Continued... 
+
+43F2DD23-6519-4C8D-9C71-74E2D00710E0 
+
+matl88finalexain 
+
+#1 
+
+10  of  12 
+
+I!L• 
+
+This page is for rough work or for extra space to finish a previous problem. It will not be marked unless 
+you have indicated in a previous question to look at this page. 
+
+Page 10 of 12 
+
+Continued... 
+
+E19EBAF9-385E-4EAE-86D9-4813A8D57980 
+
+mat188finalexam 
+
+#1 
+
+11 of 12 
+
+Fn 
+
+IiI. 
+
+• 
+
+This page is for rough work or for extra space to finish a previous problem. It will not be marked unless 
+you have indicated in a previous question to look at this page. 
+
+Page 11 of 12 
+
+Continued... 
+
+0310CB93-0E69-4781-A2BO-EFA5DB248CE2 
+
+mat188finalexam 
+
+#1 
+
+12of12 
+
+- 
+
+III
+
+.  
+
+This page is for rough work or for extra space to finish a previous problem. It will not be marked unless 
+you have indicated in a previous question to look at this page. 
+
+Page 12 of 12 
+
+The end. 
+
+

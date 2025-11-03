@@ -1,0 +1,359 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+
+Quiz #2 April 11, 2017 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total 
+of 32 questions, worth 47 marks. The questions are divided between two booklets.  
+
+Question Booklet #1 – Multiple Choice Question Booklet 
+
+This booklet contains 29 multiple-choice questions, worth 1 mark each. Read each 
+question thoroughly and provide the answer on the answer sheet (not in this booklet). 
+Fill in your name and student number on the multiple-choice answer sheet. When 
+providing answers on the answer sheet be sure to: 
+
+• 
+• 
+• 
+• 
+
+use a pencil or pen 
+fill out the answer sheet (scan sheet) clearly with no overlaps 
+erase any errors completely 
+provide only the single, most correct answer for each question  
+
+There is no penalty for wrong answers. Select the answer that best satisfies the 
+question.  
+
+You are not required to hand in this multiple-choice question booklet.  
+
+The final 3 short-answer questions are found in the Short Answer Question Booklet. 
+
+Page 1 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questions 1 to 4 pertain to Figure 1: 
+
+Budget 
+
+Actual 
+
+Figure 1: Time (x axis) versus Cost (y axis) 
+
+The longer line on the chart is the budgeted costs as the project goes through the 
+proposed schedule of tasks, the shorter line tracks the costs that have been incurred 
+as the tasks have been completed. NOW indicates the place the proposed schedule 
+indicates the project should be. 
+
+1.  The project is: 
+
+a.  On time, over budget 
+b.  Behind time, over budget 
+c.  Ahead of time, under budget 
+d.  Behind time, under budget 
+
+2.  The Actual Cost of Work Performed would be closest to: 
+
+a.  52 
+b.  31 
+c.  28 
+d.  25 
+
+3.  The Schedule Variance would be closest to: 
+
+a.  -6 
+b.  -4 
+c.  -15% 
+d.  A positive number 
+
+Page 2 of 8 
+
+ 
+ 
+ 
+ 
+ 
+4.  If I’m concerned about the costs of a project at a point in time, relative to the 
+
+expected costs of the project, I would look at: 
+a.  BCWP 
+b.  ACWP 
+c.  Cost Variance 
+d.  Cost Performance Index 
+
+5.  Which of these is a risk associated with airline travel? 
+
+a.  Getting hit by a car in the airport parking lot 
+b.  Being delayed and missing a flight 
+c.  Being on a flight that crashes 
+d.  All of the above 
+
+6.  A project is “Fast Tracked”. Which activity would definitely be involved? 
+
+a.  Delaying parts of the design until “just in time” as the project went into execution 
+b.  Hiring extra workers 
+c.  Carefully designing tasks to take the shortest time possible 
+d.  Reducing the time on the critical path 
+
+7.  A student may be in violation of the Code of Academic Misconduct at the University 
+
+of Toronto if, for their Final Design Specification, they: 
+a.  Reuse content from their PR and for which they previously received marks 
+b.  Use the idea of another person citing the original source 
+c.  Use another persons’ expression of an idea only citing the original source 
+d.  Submit the assignment more than three days late 
+
+8.  The primary purpose of the Design Review Gateway is to: 
+
+a.  Document the current status of the report 
+b.  Persuade the audience that you should proceed with your recommended design 
+c.  Give a detailed explanation of your recommended design 
+d.  Give a detailed explanation of the alternative designs you considered 
+
+9.  The important difference between a Pugh Selection Matrix and a Weighted Decision 
+
+Matrix is:  
+a.  One is rational, the other is not 
+b.  One is named after the inventor, the other is not 
+c.  One is relative while the other is absolute 
+d.  One is a pairwise comparison, while the other is not 
+
+Page 3 of 8 
+
+ 
+ 
+10. One way to modify a Pugh Selection Matrix to address a key limitation is to: 
+
+a.   Use weighted objectives 
+b.   Generate more alternative designs 
+c.   Generate the Pugh Selection Matrix multiple times to identify errors 
+d.   Reduce the number of alternative deigns to two before using 
+
+11. The primary purpose of the Final Design Specification is to:  
+
+a.   Persuade the client of the appropriateness of the recommended design 
+b.   Conduct a preliminary risk assessment 
+c.   Establish precedence to allow for future patents 
+d.   Supply the client with the information needed to implement the design 
+
+12. When ordering parts for an electronic design project you specify the resistors to be 
+“100 Ω +/- 1%.” This is because as an engineer you recognize that the practical 
+world is: 
+a.   Probabilistic  
+b.   Deterministic 
+c.   Realistic 
+d.   Homogeneous 
+
+13. Drafters generally prefer to use ________ drawings to help illustrate 3-dimensional 
+
+views of a structure. 
+a.  isometric 
+b.  perspective 
+c.  orthographic 
+d.  auxiliary 
+
+14. In perspective drawings, _________ is placed between the observer and the object: 
+
+a.  Vanishing point / horizon 
+b.  Station point 
+c.  Ground line 
+d.  Plane of projection / picture plane 
+
+15. The reliability of an operation is normally NOT improved by which one of the 
+
+following procedures?  
+a.  Designing out fail points in the operation. 
+b.  Laying off employees who cause faults in the operation. 
+c.  Ensuring some activities in the operation are 'fail-safe'. 
+d.  Building redundancy into the operation. 
+
+Page 4 of 8 
+
+ 
+ 
+16. The 'bath-tub' curve indicates failure probability. Which stage is NOT normally 
+
+associated with the bathtub curve? 
+a.  'Normal-life' where few failures occur. 
+b.  'Pulling the plug' where production is halted due to unacceptable level of failures. 
+c.  'Wear-out' where failure increases due to age. 
+d.  'Infant-mortality' where failures occur early. 
+
+17. Twelve new bedside monitors are installed in an intensive care unit at a hospital. 
+
+One system failed the minute it was switched on and another failed after 72 hours of 
+use. If the other ten monitors worked flawlessly for a week, what is the MTBF?   
+Recall the definition of MTBF:  
+
+Reliability is quantified as Mean Time Between Failures (MTBF). 
+
+The MTBF can be calculated as the arithmetic mean (average) time between failures 
+of a system. 
+
+Figure 2: Mean Time Between Failures [Source: Wikimedia commons]  
+
+a.  632 hours 
+b.  1752 hours 
+c.  749 hours 
+d.  876 hours 
+
+Page 5 of 8 
+
+ 
+ 
+ 
+ 
+ 
+18. If you invent a new process for recording music, you might apply for a: 
+
+a.  Patent 
+b.  Trademark 
+c.  Copyright 
+d.  Industrial design 
+
+19. The rights of an author or artist with respect to his or her creation are governed by 
+
+the law of: 
+a.  Patents 
+b.  Copyrights 
+c.  Trademarks 
+d.  Industrial designs 
+
+20. Which statement is FALSE? 
+
+a.  Filing, translating and maintaining a patent across multiple key regions may cost 
+
+hundreds of thousands of dollars. 
+
+b.  Canada ranks competitively in the number of patents filed, but ranks poorly in 
+
+business productivity. 
+
+c.  Policy and economic evidence clearly indicate that patenting inventions leads to 
+
+greater innovation and productivity. 
+
+d.  The government of Canada strongly encourages university researchers to patent 
+
+their discoveries. 
+
+21. You are designing solenoid switch that will be used to deploy photovoltaic panels on 
+
+a probe set to land on a nearby asteroid. You should design the switch to: 
+a.  Have a redundant power supply (Design for Reliability) 
+b.  Have a fire suppression system in case of battery explosion (Design for Safety) 
+c.  Use a standard battery size (Design for Maintainability)  
+d.  All of the above 
+
+22. KPR is a memory device for workers’ rights in Ontario. Workers have the right to: 
+
+a.   Know, Protection, Registration 
+b.   Know, Participate, Refuse 
+c.   Keep, Protection, Run 
+d.   Keep Out, Participation, Release 
+
+Page 6 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+23. Workers have the responsibility to: 
+
+a.  Wear protective devices prescribed 
+b.  Use equipment, devices, or clothing required by employer 
+c.  Report all defects to the supervisor 
+d.  All of the above. 
+
+Questions 24 to 29 pertain to Case Study #1. 
+
+Case study #1: Steam Whistle Brewery 
+In 2006, after only 8 years of operation, the Steam Whistle Brewery found that it was so 
+successful that it had to increase its output. In order to do so, the company required a 
+new brew house. A “brew house” is a system of equipment required to brew beer. 
+Normally, this equipment is contained in a long building because part of the process 
+requires the liquid to travel through a cooled pipe in order to reduce its temperature after 
+the heating process in the brew kettle. However, a complication for the installation of the 
+new brew house was that the brewery’s home is a round heritage building and they are 
+not allowed to make any structural changes to the outside of it. However, they chose 
+this site because its location allows them to play an active role in the life of the 
+community hosting art shows and community events. 
+
+24. The functional basis for this design is: 
+
+a.  Transform mass 
+b.  Increase capacity 
+c.  Maintain energy 
+d.  Allow information 
+
+25. A primary function for this design is: 
+
+a.  Must keep up with customer demand 
+b.  Improve community spirit 
+c.  Produce 90,000 hectoliters of beer annually 
+d.  Build a new brew house 
+
+26. A secondary function for this design is: 
+
+a.  Increase profits of Steam Whistle Brewery 
+b.  Remove heat energy from liquid exiting the brew kettle 
+c.  Be environmentally responsible 
+d.  Put the beer in bottles 
+
+Page 7 of 8 
+
+ 
+ 
+ 
+27. For this design, an objective and its corresponding goal would be: 
+a.  Increase production – goal 90,000 hectoliters of beer annually 
+b.  Change the structure of the brew house – add cooling pipes 
+c.  Inexpensive – does not reduce profits of the company 
+d.  Efficient in use of resources – reduce waste water by 1/3 
+
+28. For this design, the best stakeholder, with corresponding interest, for the Project 
+
+Requirements would be: 
+a.  Toronto Heritage Services – interest: to preserve historic architecture in the city 
+b.  Steam Whistle Brewery – interest: increasing sales and profits 
+c.  Nearby residents – interest: reduce noise during construction of new brew house 
+d.  Other breweries – interest: new brewhouse may reduce their sales and profits 
+
+29. For Client’s Ethics and Values, the team should write: The company is interested in:  
+
+a.  Increasing its reputation by increasing sales across the country 
+b.  Reduce costs by not building a whole new building, but remaining in their current 
+
+location 
+
+c.  Maintaining a profile as a member of the local community as more than a 
+
+brewery or small business 
+
+d.  Increasing viability of the company so that it would be desirable for a take-over 
+
+by a larger brewery 
+
+Page 8 of 8 
+
+ 
+ 
+

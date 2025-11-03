@@ -1,0 +1,285 @@
+University of Toronto, Faculty of Applied Science and Engineering
+
+MAT187H1S – Calculus II – Final Exam Individual Part - April 16, 2019
+Examiners: G. Chen, S. Cohen, B. Galv˜ao-Sousa, P. Milgram, F. Parsch, M. Pugh
+
+Time allotted: 100 minutes
+
+Total marks: 80
+
+No aids permitted
+
+Instructions:
+
+• Do not write on the QR code at the top of the pages.
+
+• This test contains 16 pages and a detached booklet for multiple-choice questions and formula sheet.
+
+DO NOT DETACH ANY PAGES.
+
+• You can use pages 12–15 to complete questions (mark clearly which questions you are answering).
+
+• Calculators, cellphones, or any other electronic devices are not allowed. If you have a cellphone
+
+with you, it must be turned oﬀ and in a bag underneath your chair.
+
+• DO NOT START the test until instructed to do so.
+
+GOOD LUCK!
+
+LONG ANSWER PART
+
+11. You work for a roller coaster construction company and Canada’s Wonderland
+
+(21 marks)
+
+is asking you to design a new ride. Your job is to design a speciﬁc part of the ride.
+
+The trajectory should follow the curve given by
+
+(cid:28)
+
+(cid:126)r(t) =
+
+(cid:90) t
+
+b
+
+0
+
+cos(u2) du ,
+
+ct
+
+,
+
+b
+
+(cid:29)
+
+sin(u2) du
+
+(cid:90) t
+
+0
+
+in metres,
+
+for 0 (cid:54) t (cid:54) 10 seconds.
+
+Consider parts (b)–(d) as independent.
+
+(a) (1 mark) Show that (cid:126)r (cid:48)(t) = (cid:104)b cos(t2), c, b sin(t2)(cid:105).
+
+(b) (6 marks) Riders should never exceed a speed of 50 m/s. What are the restrictions on b and
+
+c? Your answer should not include t. Justify your answer.
+
+(c) (6 marks) Taking safety and durability into account, the curvature should not exceed 1
+
+10 m−1.
+What are the restrictions on b and c? Your answer should not include t. Justify your answer.
+
+Note. For this question, do not use the restrictions that you found in (b).
+
+(d) (6 marks) The roller coaster should exert a maximum acceleration of 40 m/s2 in the normal
+
+direction. What are the restrictions on b and c? Your answer should not include t. Justify your
+
+answer.
+
+Note. For this question, do not use the restrictions that you found in (b) and (c).
+
+(e) (2 marks) Give one possible pair of values b (cid:54)= 0 and c (cid:54)= 0 that fulﬁl all the above design
+
+requirements. Your answer should not include t. Justify your answer.
+
+12. A scientist wants to study the growth of the trunk of a Giant Sequoia. Assume
+
+(19 marks)
+
+the trunk has a circular cross section with radius r(y) at the height of y and the
+
+total height of the tree is H (all units in metres).
+
+(a) (7 marks) Assume that a Giant Sequoia’s trunk is 50% water, uniformly
+
+distributed throughout the trunk.
+
+Show that the work it took for the tree to bring water from the ground to ﬁll
+
+the whole trunk was
+
+W =
+
+(cid:90) H
+
+y r2(y) dy,
+
+π ρ g
+2
+
+0
+where ρ is the mass density of water (in kg/m3) and g is the acceleration due
+
+to gravity.
+
+Your answer should not include just formulas, but also a step-by-step expla-
+
+nation about how the formulas were obtained.
+
+Hint. Within a thin slice of the trunk as shown in the ﬁgure, work can be
+
+approximated as force times displacement.
+
+(You can continue your answer to (a) on the next page)
+
+You can continue your answer to (a) here.
+
+(b) (6 marks) The scientist took some measurements of the tree:
+
+• The tree is 18 m high.
+
+height y
+
+radius r
+
+height y
+
+radius r
+
+• Measurements for the radius are given in the
+
+table on the right (all units are in metres).
+
+• The function yr2(y) is increasing for y (cid:54) 2.
+
+• The function yr2(y) is decreasing for y (cid:62) 2.
+
+0
+
+2
+
+4
+
+6
+
+8
+
+2.0
+
+1.3
+
+0.8
+
+0.56
+
+0.43
+
+10
+
+12
+
+14
+
+16
+
+18
+
+0.35
+
+0.3
+
+0.25
+
+0.21
+
+0.19
+
+She wants to make sure to overestimate the work calculated in (a).
+
+Approximate as best as you can with the data available while making sure to overestimate it.
+
+As before, don’t give just formulas, but also explain all your decisions and procedures.
+
+You don’t have a calculator, so leave your answer unsimpliﬁed.
+
+W ≈
+
+(c) (6 marks) The scientist met with a statistician who analyzed the data and deduced that the
+
+shape of the tree is very well approximated by r(y) = 3y−1.2
+
+for y (cid:62) 2.
+
+Ignoring other physical constraints, can the tree grow inﬁnitely tall and still need only a ﬁnite
+
+amount of work to bring water to the whole trunk? Justify your answer.
+
+13. In this question we will study the continuity of a parameter of a second-order
+
+(20 marks)
+
+ordinary diﬀerential equation.
+
+(a) (6 marks) Find the solution x(t) of
+
+
+x(cid:48)(cid:48)(t) − 2x(cid:48)(t) + x(t) = 0
+
+x(0) = 0
+
+x(cid:48)(0) = 1
+
+Justify your answer.
+
+x(t) =
+
+(b) (7 marks) Consider the initial-value problem
+
+h(t) + (1 − h2)xh(t) = 0
+
+
+h(t) − 2x(cid:48)
+x(cid:48)(cid:48)
+
+xh(0) = 0
+
+x(cid:48)
+h(0) = 1
+
+Assume h > 0. Find the solution xh(t). Justify your answer.
+
+Hint. For this part only, you can assume h > 0 is a constant.
+
+xh(t) =
+
+(c) (5 marks) Use your answer from (b) and ﬁnd the limit lim
+h→0
+
+xh(t). Justify your answer.
+
+lim
+h→0
+
+xh(t) =
+
+(d) (2 marks) Compare the results of questions (a) and (c). What do you observe?
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+

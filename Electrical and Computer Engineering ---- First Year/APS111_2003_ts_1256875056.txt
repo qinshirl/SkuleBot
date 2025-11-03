@@ -1,0 +1,475 @@
+Name:    ____________________________ 
+
+Student #:  ____________________________ 
+
+University of Toronto 
+
+Faculty of Applied Science and Engineering 
+
+APS111 Engineering Strategies and Practice 
+
+Course Coordinator: Prof. S. McCahan  
+
+Communication Coordinator: Prof. P.E. Weiss 
+
+Module A Coordinator: Prof. K. Woodhouse 
+
+Midterm Examination 
+
+October 26, 2004 
+
+This is a 1 hour and 30 minute exam.  The midterm is closed book and closed notes.  Answer 
+all parts of all questions.  Your answers must be well structured, clear, concise, and complete 
+in order to obtain the maximum credit.  The mark values for each question are given to help 
+you allocate your time.  You must write your answers directly on this sheet.   
+
+Please write clearly.  We cannot give you marks if we cannot read your work. 
+
+Exam: 9 pages 
+
+ 4 sections 
+
+To get full credit you must answer all parts of all questions. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Section I    Multiple Choice: 10 marks. 
+
+Circle the letter preceding the correct answer to each question on the exam sheet. 
+
+1)   Which of the follow is/are not part of the organising phase of team development? 
+
+a.  Forming 
+b.  Performing  
+c.  Norming 
+d.  Production 
+e.  b & d 
+f.  c & d 
+
+2)  Which step in the design process is the most important? 
+
+a.  Problem definition 
+b.  Evaluation of the concepts 
+c.  Concept Generation 
+d.  Gathering of information 
+e.  Development of metrics 
+f.  Detailed design 
+
+3)  Which of the following is/are a component of an audience analysis? 
+
+a.  Background 
+b.  Attitude toward communication 
+c.  Assumptions 
+d.  What's known about project 
+e.  All of the above  
+f.  a & c 
+
+4)  Which one of the following does not belong in the problem statement? 
+
+a.  Goals 
+b.  Possible solutions 
+c.  Constraints 
+d.  Description of the current situation 
+e.  Functional requirements 
+f.  c & d 
+
+5)  Which of the following problem solving tools can be used to organize or prioritize the 
+
+causes of a problem? 
+
+a.  Brainstorming 
+b.  Pairwise comparison 
+c.  Affinity diagram 
+d.  Nominal group technique 
+e.  All of the above 
+f.  b, c & d 
+
+1 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6)  What is a Pareto chart used for? 
+
+a.  Problem definition 
+b.  Task scheduling 
+c.  Cause finding 
+d.  Root cause analysis 
+e.  Interrelationships 
+f. 
+
+ c & d   
+
+7)  Which of the following shows a Gantt chart? 
+
+t
+s
+o
+c
+
+a.
+
+c.
+
+reliability
+
+wk1 wk2 wk3
+
+task 1
+
+task 2
+
+b.
+
+d.
+
+e
+t
+e
+l
+p
+m
+o
+c
+%
+
+cost
+
+reliability
+
+cost
+
+reliability
+
+--
+
+1
+
+0
+
+--
+
+time
+
+8)  The MooBella machine is an example of a: 
+a.   Market push product 
+b.   Market pull product 
+c.   Process intensive product 
+d.   Customized product 
+e.   a & d 
+f.    b & c 
+
+9)  Benchmarking an existing design, does not include: 
+
+a.  Stealing information from a competing company 
+b.  Comparing the service efficiency of competing companies 
+c.  Analyzing the features of an existing design 
+d.  Reading relevant patents 
+e.  a & b 
+f.  a & d 
+
+2 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+10)  Which of the following is/are true?  
+
+a.  The cost of the design process for a mass production product is a large 
+
+contributor to the final cost of the product. 
+
+b.  Decisions made in the design process have a minimal effect on the final cost of 
+
+the product. 
+
+c.  Quality must be designed into a product 
+d.  Quality is only a function of how well the product is manufactured. 
+e.  a & c 
+f.  b & d 
+
+Section II     Short Answer:   25 marks   
+
+1)  The four C’s of design are ______________________,  _________________________, 
+
+_______________________, and______________________.  
+
+2)  Provide the 3 important components that lead to a successful team. 
+
+a.  ____________________________________________________ 
+
+b.  ____________________________________________________ 
+
+c.  ____________________________________________________ 
+
+3)  Provide three methods for gathering information from customers.________________,  
+
+   _____________________,   and _________________________ 
+
+4)  State one function, one objective, and one constraint specific to the MooBella project: 
+
+Function:______________________________________________________ 
+
+Objective:______________________________________________________ 
+
+Constraint:_____________________________________________________ 
+
+3 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5)  Organize the following 5 objectives for an umbrella into a hierarchical tree: 
+
+a.  Should provide a large coverage area 
+b.  Should be safe  
+c.  Should not have sharp or pointy exposed parts 
+d.  Should fold up to a small volume 
+e.  Should keep the user as dry as possible 
+
+You can use the letters next to each objective in your tree, rather than writing out the 
+whole objective over again. 
+
+6)  Give three reasons for gathering information during the design process: 
+
+a)_____________________________________________________________ 
+
+b)_____________________________________________________________ 
+
+c)_____________________________________________________________ 
+
+7)  Rewrite the following sentence, correcting any error that you find: 
+
+Currently, companies are competing to put it’s blood substitute product on the U.S. market 
+which have been granted FDA approval. 
+
+__________________________________________________________________________
+
+__________________________________________________________________________ 
+
+__________________________________________________________________________
+
+__________________________________________________________________________
+
+__________________________________________________________________________   
+
+4 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section III   Long Answer: Marks 15: 
+
+Draw on the exam paper below the discrete steps in the design process.  Show the steps 
+
+which are included in the conceptual design phase and those in the detailed design phase.  
+
+5 of 9
+
+ 
+ 
+Section IV   Long Answer:  Marks 50. 
+
+Answer questions 1 through 3 of this section in the space provided below.  An additional page 
+of scrap paper is provided, but anything on the scrap page will not be marked. 
+
+As the price of oil increases, some power plant operators are considering retrofitting their 
+
+plants to use coal for fuelling their plants.  However, one difficulty with coal is that it requires a 
+
+large land area adjacent to the plant to store the coal when it is delivered.  Depending on 
+
+electricity demand, the coal may be stored on-site for up to a month. Sometimes there is not a 
+
+suitable large land area near the plant that can be used for on-the-ground coal storage.   
+
+1)  What are three questions that need to be asked and answered in order to fully define the 
+
+problem?   
+
+2)  Develop a problem statement for this situation.  Include the needs statement, goals, 
+
+constraints, and criteria for evaluating the design.  
+
+In a brainstorming session, your team generates the following three ideas: 
+
+a.  Underground storage containers 
+
+b.  Use a balloon (blimp) to suspend the coal over the plant 
+
+c.  Change suppliers to provide “just-in-time” delivery by truck 
+
+3)  Provide an example of a morphological chart for evaluating the possible solutions for this 
+
+design statement using at least 2 objectives and 1 constraint. (see page 9) 
+
+Please note that part 2) of this question will be marked for quality of writing. 
+
+6 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3)  Put morphological chart here. 
+
+9 of 9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,774 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+MAT188 – Midterm I – Fall 2023
+
+LAST (Family) NAME:
+
+FIRST (Given) NAME:
+
+Email address:
+
+STUDENT NUMBER:
+
+@mail.utoronto.ca
+
+Time: 90 mins.
+
+1. Keep this booklet closed until an invigilator announces that the test has
+started. You may fill out your information in the box above before the test
+begins.
+
+2. Please place your student ID card in a location on your desk that is easy
+
+for an invigilator to check without disturbing you during the test.
+
+3. Please write your answers in the boxes. There is ample space within each
+one.
+If you must use additional space, please use the blank pages at the
+end of this booklet and clearly indicate in the given box that your answer is
+continued on the blank page. You can also use the blank pages as scrap
+paper. Do not remove them from the booklet.
+
+4. This test booklet contains 16 pages, excluding the cover page, and 6 questions.
+If your booklet is missing a page, please raise your hand to notify an invigilator
+as soon as possible.
+
+5. Do not remove any page from this booklet.
+
+6. Remember to show all your work.
+
+7. No textbook, notes, or other outside assistance is allowed.
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+11
+
+2
+
+9
+
+3
+
+12
+
+4
+
+9
+
+5
+
+8
+
+6
+
+11
+
+Total
+
+60
+
+Student Number:
+
+1 Part A
+
+Midterm I , Page 1 of 16
+
+1. (11 points) Fill in the bubble for all statements that must be true. You don’t need to
+include your work or reasoning. Some questions may have more than one correct answer.
+You may get a negative mark for incorrectly filled bubbles.
+
+(a) Let A = (−5, −1, 0), B = (−7, −2, 1), P = (3, 2, 1) and Q = (−1, 0, 3).
+
+Then
+
+−→
+AB and
+
+−→
+P Q are
+
+⃝ Parallel and pointing the same direction
+
+⃝ Parallel and pointing opposite direction
+
+⃝ Perpendicular
+
+⃝ None of the above
+
+(b) Consider a line ℓ which passes through the point (−3, −5, 4) and which is parallel
+
+
+
+3
+6
+ +
+
+7
+
+
+
+1
+2
+. At which point does the line ℓ intersect the yz-plane?
+
+3
+
+to the line ⃗x = t
+
+⃝ (0, 1, 11)
+
+⃝ (3, 6, 7)
+
+⃝ (0, 11, 3)
+
+⃝ (0, 8, 10)
+
+(c) Which one(s) of the following matrices is in reduced row echelon form (RREF)?
+
+⃝
+
+
+
+
+
+−7 0
+0
+0
+
+
+0
+1
+1 −1 0
+
+3
+0
+0
+
+⃝
+
+
+
+
+
+
+
+1 0 0 0
+0 1 0 0
+0 0 0 1
+0 0 0 0
+
+
+
+
+
+
+
+⃝
+
+(cid:21)
+(cid:20)0 1 0 10
+3
+0 0 1
+
+⃝ (cid:2)1 0 1 0(cid:3)
+
+Student Number:
+
+Midterm I , Page 2 of 16
+
+
+
+
+
+(d) Suppose B =
+
+1 0 0 −1
+3
+0 0 1
+0
+0 0 0
+linear equations. Then this system has
+
+
+
+ is the RREF of an augmented matrix of a system of
+
+⃝ Unique solution: x = −1, y = 0, z = 3.
+
+⃝ Infinity many solutions. One particular solution is x = −1,y = −1,z = 3.
+
+⃝ Unique solution: x = −1, z = 3.
+
+⃝ No solution
+
+(e) Suppose T : R3 → R2 is given by T (⃗x) = A⃗x, the first column of A is
+
+third column of A is
+
+. Then T (
+
+(cid:21)
+(cid:20)−1
+3
+
+
+
+
+
+
+
+1
+0
+−2
+
+) is
+
+(cid:21)
+(cid:20)1
+2
+
+, and the
+
+⃝
+
+(cid:21)
+
+(cid:20) 3
+−4
+
+⃝
+
+(cid:21)
+(cid:20)0
+5
+
+
+
+
+
+⃝
+
+
+
+
+
+3
+−4
+0
+
+⃝ Not enough information
+
+Student Number:
+
+(f) Consider
+
+
+
+A = {
+
+
+
+x
+y
+z
+
+
+ ∈ R3 | x − 4y + 8z = −2}
+
+B = {
+
+
+
+
+
+x
+y
+z
+
+Midterm I , Page 3 of 16
+
+
+ ∈ R3 | 2y − z = 1}
+
+What is a geometrical description of the intersection of A and B? Choose at most
+one option.
+
+⃝ A plane with normal vector
+
+
+
+1
+4
+ passing through the point (−2, 0, 0)
+
+8
+
+⃝ Two planes that do not pass through the origin.
+
+
+
+
+
+
+ , t ∈ R}.
+
+−12
+1
+2
+
+⃝ A line parallel to {t
+
+⃝ None of the above
+
+(g) Suppose A is a 2 × 3 matrix and rank A = 2. Suppose ⃗b is a vector in R2. Choose
+
+all that applies.
+
+⃝ The linear system A⃗x = ⃗b may be inconsistent.
+
+⃝ The general solution to A⃗x = ⃗0 is parallel to the general solution to A⃗x = ⃗b.
+
+⃝ The linear system A⃗x = ⃗0 has infinity many solutions.
+
+⃝ The RREF of A has 3 leading entires.
+
+(h) Let A be the product of matrices below. What is a11 + a23.
+
+(cid:21)
+
+(cid:20)1
+2
+0
+1 −1 3
+
+
+
+
+
+
+
+3 4
+1
+1 0 −1
+1
+3 2
+
+ = A
+
+⃝ 4
+
+⃝ 10
+
+⃝ 8
+
+⃝ None of the above
+
+Student Number:
+
+Midterm I , Page 4 of 16
+
+2. Fill in the blank. You don’t need to include your computation or reasoning.
+
+(a) (3 points) Let A be the standard matrix of a linear transformation that rotates
+vectors in R3 counterclockwise, as seen from the positive z-axis, through π/2 around
+the z-axis. Let ⃗a1, ⃗a2, and ⃗a3 be columns of A, so that A = [⃗a1 ⃗a2 ⃗a3]. Then
+
+
+
+
+
+
+
+
+
+
+
+
+
+⃗a1 =
+
+
+
+
+
+
+
+
+
+
+
+
+
+⃗a2 =
+
+
+
+
+
+
+
+
+
+
+
+
+
+⃗a3 =
+
+(b) (3 points) Solve the equation
+
+and describe your solution in the vector-parametric form.
+
+−4x − 6y + 9z = 3,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ s
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+⃗x = t
+
+t, s ∈ R
+
+(c) (3 points) Find a, b, and c such that
+
+
+
+2
+4
+ = a
+
+0
+for a, b and c if such values do not exist.
+
+
+
+1
+2
+ + b
+
+1
+
+
+
+1
+2
+ + c
+
+3
+
+
+
+
+
+
+
+−2
+−3
+1
+
+ Write DNE
+
+a =
+
+b =
+
+c =
+
+Student Number:
+
+Part B
+
+Midterm I , Page 5 of 16
+
+3. Let S : R2 → R2, S(⃗x) = A⃗x, where A =
+
+with respect to the line y = x.
+
+(cid:20)1 1
+2 0
+
+(cid:21)
+, and T : R2 → R2 be the reflection
+
+(a) (2 points) The set V describes a letter in the alphabet. Accurately, draw this set.
+In your drawing, identify vectors with their tip when in standard position. Note
+that ∪ denotes the union of the two sets.
+
+V = {t
+
+(cid:21)
+(cid:20)−2
+3
+
+| 0 ≤ t ≤ 1} ∪ {t
+
+(cid:21)
+(cid:20)2
+3
+
+| 0 ≤ t ≤ 1}
+
+(b) (4 points) Draw S(V ) and T ◦ S(V ) on separate coordinate systems below. Clearly
+
+label the output of the following vectors:
+
+, and
+
+under S and T ◦ S.
+
+(cid:21)
+(cid:20)−2
+3
+
+,
+
+(cid:21)
+(cid:20)0
+0
+
+(cid:21)
+(cid:20)2
+3
+
+S(V )
+
+T ◦ S(V )
+
+Student Number:
+
+Recall that S : R2 → R2, S(⃗x) = A⃗x, where A =
+
+reflection with respect to the line y = x.
+
+Midterm I , Page 6 of 16
+
+(cid:20)1 1
+2 0
+
+(cid:21)
+, and T : R2 → R2 is the
+
+(c) (2 points) Let B be the standard matrix of T . Find B by computing the output of
+the standard vectors in R2. Justify your work. Write your final answer in the small
+box.
+
+B=
+
+(d) (4 points) Compute the standard matrix of T ◦ S. Justify Your answer. Write your
+
+final answer in the small box.
+
+Student Number:
+
+Midterm I , Page 7 of 16
+
+4. State whether each statement is true or false by writing “True” or “False” in the small
+box, and provide a short and complete justification for your claim in the larger box. If
+you think a statement is true explain why it must be true. If you think a statement is
+false, give a counterexample.
+(a) (3 points) Consider a solution ⃗x1 of a linear system A⃗x = ⃗b. If ⃗xh is a solution to
+
+A⃗x = ⃗0, then ⃗x1 + ⃗xh is a solution to A⃗x = ⃗b.
+
+(b) (3 points) If the bottom row of a matrix A in reduced row-echelon form contains
+
+all 0’s, then the system A⃗x = ⃗0 has infinitely many solutions.
+
+(c) (3 points) Let ⃗a1, ⃗a2, ⃗a3, ⃗a4 be the columns of the matrix A. Suppose that RREF(A) =
+
+
+
+
+
+
+
+1 0 2 3
+0 1 3 5
+0 0 0 0
+
+ then the equation ⃗a4 = ⃗a1 + 2⃗a2 + ⃗a3 must hold.
+
+Student Number:
+
+Midterm I , Page 8 of 16
+
+5. In each part, give an explicit example of the mathematical object described or explain
+
+why such an object does not exist.
+
+(a) (2 points) An equation of a plane that does not pass through the origin and is
+
+perpendicular to the vector
+
+
+
+.
+
+
+
+
+
+1
+−2
+−1
+
+(b) (2 points) A vector ⃗u and two vectors ⃗v1 and ⃗v2 such that proj⃗u(⃗v1) = proj⃗u(⃗v2).
+
+(c) (2 points) Two different linear transformations T and S such that T ◦ S = S ◦ T .
+
+(d) (2 points) A system of linear equations with three equations and three variables
+whose geometric interpretation is three planes in R3 intersecting at the y-axis.
+
+Student Number:
+
+Part C
+
+Midterm I , Page 9 of 16
+
+6. A colony of ants travels between three different locations: their anthill, the strawberry
+patch, and by the puddle. Let’s denote these by A, S, and P , respectively. The ants
+only walk on their constructed one-way paths, and they walk in a rhythmic pattern:
+Every minute, at the start of the minute, each ant will randomly follow one of the paths.
+If several paths are available, then an equal proportion of the ants will follow each of
+them. By the end of the minute, they are at their destination. The locations and the
+pre-constructed paths are shown in the diagram.
+
+Let x1, x2, and x3 be the proportions of the ants who
+find themselves at A, S, and P , respectively, at the start
+of a minute; we collect this information in a distribution
+
+vector ⃗x =
+
+
+
+.
+
+
+
+
+
+x1
+x2
+x3
+
+Let T be a transformation that transforms the distribution vector of ants at the start of
+the minute (right before ants start moving) to the distribution of vectors at the end of
+the minute (right after the ants have arrived at their destination).
+
+(a) (1 point) The domain of T is
+
+and the codomain of T is
+
+.
+
+(b) (4 points) Find a matrix C such that T (⃗x) = C⃗x. Justify your work.
+
+Student Number:
+
+Midterm I , Page 10 of 16
+
+(c) (3 points) If all the ants are initially at the strawberry patch, what is the ants’
+
+distribution vector after 3 minutes? Justify your answer.
+
+(d) (3 points) Is it possible that ants start at some initial distribution ⃗x, and after one
+minute their distribution remains the same? If yes, find all such initial distributions.
+If no, why not?
+
+Student Number:
+
+Midterm I , Page 11 of 16
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 12 of 16
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 13 of 16
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 14 of 16
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 15 of 16
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 16 of 16
+
+This space is provided for additional space for your solutions if needed or to be used as
+a scrap paper. If you must use this space for your solutions, be sure to clearly indicate
+in the original question that your solution is continued on the overflow page. Do not
+remove this page from the test booklet.
+
+

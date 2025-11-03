@@ -1,0 +1,1123 @@
+Duration: 100 minutes
+
+Tuesday November 21, 2023
+
+MAT186 Calculus I
+Term Test 2
+Solutions
+
+Full Name:
+
+Student number:
+
+Email :
+
+Signature:
+
+Instructions:
+
+@mail.utoronto.ca
+
+1. This test contains a total of 12 pages.
+
+2. DO NOT DETACH ANY PAGES FROM THIS TEST.
+
+3. There are no aids permitted for this test, including calculators.
+
+4. Cellphones, smartwatches, or any other electronic devices are not permitted. They must be turned oﬀ and in your
+
+bag under your desk or chair. These devices may not be left in your pockets.
+
+5. Write clearly and concisely in a linear fashion. Organize your work in a reasonably neat and coherent way.
+
+6. Show your work and justify your steps on every question unless otherwise indicated. A correct answer without
+explanation will receive no credit unless otherwise noted; an incorrect answer supported by substantially correct
+calculations and explanations may receive partial credit.
+
+7. For questions with a boxed area, ensure your answer is completely inside the box.
+
+8. The back side of pages will not be scanned nor graded. Use the back side of pages for rough work only.
+
+9. You must use the methods learned in this course to solve all of the problems.
+
+10. DO NOT START the test until instructed to do so.
+
+GOOD LUCK!
+
+Multiple Choice: No justiﬁcation is required. Only your ﬁnal answer will be graded.
+
+1. lim
+x→1
+
+(cid:1)
+
+ln (cid:0) 1
+sin(πx)
+
+x
+
+=
+
+? [1 mark]
+
+Indicate your ﬁnal answer by ﬁlling in exactly one circle below (unﬁlled
+
+ﬁlled ).
+
+(cid:13) 0
+
+(cid:13) DNE (→ ∞)
+
+(cid:13) π
+
+1
+π
+
+(cid:13) −
+
+1
+π
+
+2. Consider following the ordinary diﬀerential equation (ODE) for an unknown function y(t):
+
+(y(cid:48)(t))2
+4
+
++ (y(t))2 = 1.
+
+Which of the expressions below are solutions to this ODE? [2 marks]
+
+You can ﬁll in more than one option for this question (unﬁlled
+
+ﬁlled ).
+
+(cid:13) y(t) = sin(t)
+
+y(t) = sin(2t)
+
+y(t) = sin(2t + 2)
+
+(cid:13) y(t) = cos(t)
+
+y(t) = cos(2t − 1)
+
+Multiple Choice: No justiﬁcation is required. Only your ﬁnal answer will be graded.
+
+3. Consider the autonomous ordinary diﬀerential equation
+
+dy
+dt
+
+= f (y) where the graph of f (y) vs. y is pictured below.
+
+f (y)
+
+2.5
+
+2
+
+1.5
+
+1
+
+0.5
+
+−1.5
+
+−1
+
+−0.5
+
+0.5
+
+1
+
+1.5
+
+2
+
+y
+
+−0.5
+
+−1
+
+−1.5
+
+Which of the following statements are true? [2 marks]
+
+You can ﬁll in more than one option for this question (unﬁlled
+
+ﬁlled ).
+
+(cid:13) If y(0) = 0 then the solution y(t) is always strictly increasing.
+
+The equilibrium solution y(t) = 1 is semi-stable.
+
+(cid:13) If y(0) = 0.1 then the solution y(t) changes from concave down to concave up at some point t > 0.
+
+If y(0) = 0.5 then lim
+
+t→−∞
+
+y(t) = 0.
+
+If y(0) = 1.5 then lim
+t→∞
+
+y(t) → ∞.
+
+4. For the initial value problem
+
+(cid:40)
+
+y(cid:48)(t) = (y − 5)2,
+y(0) = 3,
+
+which of the following step sizes ∆t ensure that the approximation of y(∆t) after one step of Euler’s method does not
+cross the equilibrium solution? [2 marks]
+
+You can ﬁll in more than one option for this question (unﬁlled
+
+ﬁlled ).
+
+∆t = 0.2
+
+∆t = 0.4
+
+(cid:13) ∆t = 0.8
+
+(cid:13) ∆t = 1
+
+(cid:13) ∆t = 2
+
+Multiple Choice: No justiﬁcation is required. Only your ﬁnal answer will be graded.
+
+5. The (drift) velocity at which an electron travels in a copper wire is known
+to increase as the cross-sectional area of the wire decreases. The graph
+on the right shows the displacement of an electron (in millimetres) after
+it enters the leftmost part of a copper wire over time (in seconds). Which
+of the following wires pictured below is used? [1 mark]
+
+t
+n
+e
+m
+e
+c
+a
+l
+p
+s
+i
+d
+
+time
+
+Indicate your ﬁnal answer by ﬁlling in exactly one circle below (unﬁlled
+
+ﬁlled ).
+
+(cid:13) −
+
+(cid:13) −
+
+(cid:13) −
+
+(cid:13) −
+
+−
+
+6. Kiki goes out for a morning walk. The table below summarizes Kiki’s walking speed over a six second interval.
+
+time (seconds)
+speed (metres per second)
+
+0
+0.5
+
+1
+0.9
+
+2
+1.3
+
+3
+1.9
+
+4
+1.8
+
+5
+1.7
+
+6
+1.4
+
+Which of the following represents a left-endpoint Riemann sum approximation of Kiki’s distance travelled over the ﬁrst
+six seconds. [2 marks]
+
+You can ﬁll in more than one option for this question (unﬁlled
+
+ﬁlled ).
+
+(cid:13) 0.5+0.9+1.3+1.9+1.8+1.7+1.4
+
+(cid:13) 0.9+1.3+1.9+1.8+1.7+1.4
+
+2(0.5+1.3+1.8)
+
+(cid:13) 2(1.3+1.8+1.4)
+
+3(0.5+1.9)
+
+Multiple Choice: No justiﬁcation is required. Only your ﬁnal answer will be graded.
+
+7. Which of the following deﬁnite integrals is always underestimated with a left-endpoint Riemann sum? That is, a
+left-endpoint Riemann sum will always give a strictly lesser value than the deﬁnite integral. [2 marks]
+
+You can ﬁll in more than one option for this question (unﬁlled
+
+ﬁlled ).
+
+(cid:13)
+
+(cid:13)
+
+(cid:13)
+
+(cid:90) 1
+
+0
+
+(cid:90) 1
+
+0
+
+x dx
+
+1 − x dx
+
+(cid:90) −1
+
+1
+x
+
+dx
+
+−2
+
+(cid:90) 1
+
+0
+
+(cid:90) 1
+
+0
+
+1 dx
+
+ex2
+
+dx
+
+8.
+
+lim
+n→∞
+
+n
+(cid:88)
+
+k=1
+
+(cid:18)
+
+4 +
+
+(cid:19)3 3
+n
+
+k
+n
+
+=
+
+(cid:90) 15
+
+12
+
+f (x) dx where f (x) =
+
+? [1 mark]
+
+Indicate your ﬁnal answer by ﬁlling in exactly one circle below (unﬁlled
+
+ﬁlled ).
+
+(cid:13)
+
+3
+16
+
+x3
+
+(cid:13) x3
+
+(cid:13) 3x3
+
+1
+27
+
+x3
+
+(cid:13) 4x3
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your ﬁnal answer in the boxes provided.
+
+9. Let T (t) denote the temperature (measured in ◦C) of a cup of tea at time t (measured in minutes). Suppose you are
+given that the temperature of a cup of tea, cooling oﬀ in a room with surrounding temperature of 20◦C, is modelled by
+
+dT
+dt
+
+= −0.05(T − 20)
+
+(a) Use the linear approximation to estimate the temperature of a cup of tea 48 seconds after the temperature is 70◦C.
+[2 marks]
+
+We seek to use linear approximation to estimate the temperature of the cup of tea (after 48 seconds), which is modeled as
+the solution to the above ODE. First of all, we deﬁne t = 0 to be the instant of time where we know the temperature is
+70◦C. Now notice that there is a disagreement between the time units used in the diﬀerential equation (minutes) and the
+time at which we want to estimate the temperature (seconds). However, note that 48 seconds = 4
+5 minutes, and so the
+problem translates into estimating said temperature at t = 4
+5 minutes. That being said, let us recall the general formula
+for the linear approximation around t = 0, evaluated at some time t∗,
+
+T (t∗) ≈ T (0) + T (cid:48)(0)(cid:0)t∗ − 0(cid:1).
+
+The reason for using a linear approximation of T (t) around t = 0 (instead of around t = something else) is because t = 0
+is the only point for which we have additional information about the solution, namely, T (0). Then, it is enough to ﬁnd
+the values of T (cid:48)(0), keeping in mind that t∗ = 48 seconds = 4
+5 minutes, and that T (0) = 70◦C. However, in order to ﬁnd
+said value it is enough to evaluate the diﬀerential equation satisﬁed by T at t = 0, from where we get that
+
+T (cid:48)(0) = − 1
+20
+
+(cid:0)T (0) − 20(cid:1) = − 1
+
+20
+
+(cid:0)70 − 20(cid:1) = − 5
+2 .
+
+Gathering all the above information, we can now use the linear approximation formula to obtain that, after 48 seconds,
+the temperature of the cup of tea is approximately,
+
+T ( 4
+
+5 ) ≈ T (0) + T (cid:48)(0)(cid:0) 4
+
+5 − 0(cid:1)
+
+2 · 4
+
+5
+
+= 70 − 5
+= 68.
+
+(b) Is your answer in part (a) an underestimation or overestimation of the actual temperature 12 seconds after the tem-
+perature is 70◦C. [3 marks: 1 mark for correct ﬁnal answer; 2 marks for justiﬁcation]
+
+Indicate your ﬁnal answer by ﬁlling in exactly one circle below (unﬁlled
+
+ﬁlled ).
+
+Temperature ≈
+
+68◦C
+
+Underestimation.
+
+(cid:13) Overestimation.
+
+Generally speaking we know that a linear approximation of a function f (x) will overestimate its exact value if f (x) is
+concave down, and underestimate it if f (x) is concave up around the study point, and so the question comes down to
+knowing whether f (x) is concave up or down.
+In the present case we can calculate the second derivative of T (t) by
+diﬀerentiating the given ODE above,
+
+T (cid:48)(cid:48)(t) =
+
+d
+dt
+
+T (cid:48)(t) =
+
+(cid:16)
+
+d
+dt
+
+− 0.05(T − 20)
+
+(cid:17)
+
+= −0.05T (cid:48)(t) = (0.05)2(T − 20).
+
+Thus, noticing that T (t) > 20 for all t ∈ [0, 4
+T (t) is concave up on said interval, and hence the above linear approximation corresponds to an underestimate.
+
+5 ], we deduce that T (cid:48)(cid:48)(t) = (0.05)2(T − 20) > 0 for all t ∈ [0, 4
+
+5 ]. Therefore,
+
+Short Answer: No justiﬁcation is required. Only your ﬁnal answer will be graded. Put your ﬁnal answer in the boxes
+provided.
+
+10. Below is the graph of y = g(cid:48)(x)
+
+y
+
+4
+
+3
+
+2
+
+1
+
+−5 −4 −3 −2 −1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+x
+
+−2
+
+−3
+
+−4
+
+Suppose that g(x) is a continuous function everywhere.
+
+(a) Determine all the interval(s) where g(x) is strictly increasing and strictly decreasing on [−5, 5]. [2 marks]
+
+NOTE: Do not get too wrapped up thinking about the sign of g(cid:48) here: this may make you miss the interval endpoints.
+
+g(x) is strictly increasing on:
+
+[−4, −3] and [0, 3]
+
+g(x) is strictly decreasing on:
+
+[−5, −4] and [−3, 0] and [3, 5]
+
+(b) Determine all the point(s) at which g(x) has a local maximum on [−5, 5]. [1 mark]
+
+g(x) has local maximum at x =
+
+−3 and +3
+
+(c) Does g(x) achieve a global maximum on [−5, 5]?
+
+Indicate your ﬁnal answer by ﬁlling in exactly one circle below (unﬁlled
+
+ﬁlled ). [1 mark]
+
+Yes. This is a consequence of the Extreme Value Theorem (see the formula sheet), which is applicable since
+g(x) is continuous everywhere.
+
+(cid:13) No.
+
+(cid:13) Not enough information to determine.
+
+(d) Determine all the inﬂection point(s) of g(x) on [−5, 5]. [1 mark]
+
+g(x) has a point of inﬂection at x =
+
+−2 and −1 and +1
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your ﬁnal answer in the boxes provided.
+
+11. You have a wire of length 3a with which you want to form a trapezoid with height h, three equal sides of length
+a, and a fourth side of length x. You would like to determine the value of x ∈ [a, 3a] that maximizes the area of the
+trapezoid.
+
+a
+
+h
+
+a
+
+x
+
+a
+
+(a) Write a formula for the quantity to be maximized in terms of x, a, and h. No justiﬁcation is required. [1 mark]
+
+Note: you do not need to know the formula for the area of a trapezoid to do this problem. You can use the picture to
+express the area of the trapezoid in question as the sum of the area of a rectangle (of length a and width h) and the areas
+of two right triangles (of height h and base width x−a
+
+2 ).
+
+(b) Write any equations relating the independent variables in the formula from part (a). Use these equations to write the
+quantity to be maximized as a function f of a single variable. [2 marks]
+
+ah + h
+
+2 (x − a)
+
+First, using the Pythagorean Theorem, we know that
+
+This can be re-arranged to obtain
+
+This would give
+
+a2 = h2 +
+
+(cid:18) x − a
+2
+
+(cid:19)2
+
+.
+
+(cid:114)
+
+h =
+
+3a2
+4
+
++
+
+x
+4
+
+(2a − x).
+
+f = f (x) =
+
+x + a
+4
+
+(cid:112)3a2 + x (2a − x).
+
+Alternatively, we could use equation (1) to isolate for x in terms of h:
+
+which gives
+
+x = a + 2
+
+(cid:112)
+
+a2 − h2,
+
+f = f (h) = h
+
+(cid:16)
+
+a +
+
+(cid:112)
+
+a2 − h2
+
+(cid:17)
+
+.
+
+(1)
+
+f (x) = x+a
+4
+
+(cid:112)3a2 + x (2a − x) OR f (h) = h (cid:0)a +
+
+√
+
+a2 − h2(cid:1).
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your ﬁnal answer in the boxes provided.
+
+11. You have a wire of length 3a with which you want to form a trapezoid with height h, three equal sides of length
+a, and a fourth side of length x. You would like to determine the value of x ∈ [a, 3a] that maximizes the area of the
+trapezoid.
+
+a
+
+h
+
+a
+
+x
+
+a
+
+(c) Find, with justiﬁcation, the global maximum of the function in part (b), and then determine the value of x that
+maximizes the area of the trapezoid. [3 marks]
+
+Suppose we chose x to be our design variable, so we optimize f (x). We use the Closed Interval Method, so we start by
+testing the endpoints:
+
+In particular, x = 3a is out of the race immediately. We then have to compute the critical points of f (x):
+
+f (a) = a2,
+f (3a) = 0.
+
+0 = f (cid:48)(x) =
+
+1
+4
+
+(cid:112)3a2 + x(2a − x) +
+
+a + x
+4
+
+a − x
+(cid:112)3a2 + x(2a − x)
+(cid:0)3a2 + x(2a − x) + (a + x)(a − x)(cid:1)
+
+=
+
+=
+
+1
+4(cid:112)3a2 + x(2a − x)
+−1
+4(cid:112)3a2 + x(2a − x)
+
+(cid:0)x2 − ax − 2a2(cid:1) .
+
+The above is trivially simpliﬁed to obtain
+
+Since we do not allow x = −a, the only critical point here is
+
+0 = x2 − ax − 2a2 = (x − 2a)(x + a).
+
+We ﬁnd that
+
+(we have used that 3
+[a, 3a].
+
+√
+
+x∗ = 2a.
+
+f (x∗) =
+
+3a
+4
+
+(cid:112)3a2 + 2a(0) =
+
+√
+
+3
+
+3
+
+4
+
+a2 > a2,
+
+3 > 4, which follows from taking the square root of 9 ∗ 3 > 16!), so x∗ is the maximizer of f (x) on
+
+Alternatively, we could have chosen h to be our design variable. We can still use the Closed Interval Method to ﬁnd
+
+the maximizer. This means we have to test the endpoints ﬁrst. If x ∈ [a, 3a], this means h ∈ [0, a]. We ﬁnd that
+
+f (0) = 0
+f (a) = a (a + 0) = a2.
+
+In particular, we can deﬁnitely throw out h = 0 as a candidate for the maximizer!Now, we look for the critical points of
+f (h). This requires solving
+
+0 = f (cid:48)(h) = a +
+
+(cid:112)
+
+a2 − h2 −
+
+√
+
+h2
+a2 − h2
+
+.
+
+We start by multiplying all sides of the equation by
+
+√
+
+a2 − h2:
+
+We then isolate the square root:
+
+Squaring both sides gives
+
+(cid:112)
+
+0 = a
+
+a2 − h2 + a2 − 2h2.
+
+h2 − a =
+
+(cid:112)
+
+a2 − h2.
+
+2
+a
+
+(cid:19)2
+
+h2 − a
+
+(cid:18) 2
+a
+
+= a2 − h2.
+
+Expanding out the left-hand side and grouping like powers gives
+
+Factoring this expression gives
+
+4h4 − 3a2h2 = 0.
+
+0 = h2 (cid:0)4h2 − 3a2(cid:1) ,
+
+which is easily solved to get h = 0, a
+
+√
+3
+2 . This means the only candidate maximizer we haven’t counted already is
+
+We ﬁnd that
+
+√
+
+a
+
+2
+
+3
+
+.
+
+h∗ =
+
+f (h∗) =
+
+√
+3
+
+3
+
+4
+
+a2 > a2 = f (a).
+
+Therefore, h∗ is the maximizer. This corresponds to
+
+x = 2a.
+
+Note how both choices of design variable ultimately give the same answer! Of course, on the exam, we’d only expect you
+to produce one of the answers above.
+
+A ﬁnal answer of x = 2a with no justiﬁcation or seeming to appear out of nowhere will not receive parts marks.
+
+x =
+
+2a
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way.
+
+12. Let f (x) be a twice diﬀerentiable function with f (0) = 0, f (cid:48)(0) = 0 and f (cid:48)(cid:48)(0) = 2. Deﬁne
+
+
+
+
+g(x) =
+
+f (x)
+x
+
+
+0
+
+if x (cid:54)= 0,
+
+if x = 0.
+
+Give a careful, well written argument that shows g(cid:48)(0) = 1. [4 marks]
+
+First of all let’s recall that, by deﬁnition, the derivative of a function g(x) at a point x∗ is given by the formula
+
+g(cid:48)(x∗) = lim
+x→x∗
+
+g(x) − g(x∗)
+x − x∗
+
+.
+
+Now, by the deﬁnition of g(x) given at the beginning of this question, we already know that g(0) = 0 and that for every
+x diﬀerent than 0,
+
+g(x) =
+
+f (x)
+x
+
+.
+
+Plugging this information into the deﬁnition of the derivative, we ﬁnd that the derivative of g(x) at x∗ = 0 is given by
+
+g(cid:48)(0) = lim
+x→0
+
+= lim
+x→0
+
+= lim
+x→0
+
+g(x) − g(0)
+x − 0
+f (x)
+x − 0
+x − 0
+(cid:20)
+
+f (x)
+x2
+
+→
+
+(cid:21)
+
+,
+
+0
+0
+
+where for the last 0
+0 limit we have used the fact that f (0) = 0 along with the continuity of f (x) at x = 0 (f (x) is
+diﬀerentiable, so it’s in particular continuous), so that f (x) → f (0) = 0 as x → 0. Then, since f (x) is diﬀerentiable, in
+order to calculate the above limit we can use L’Hˆopital’s rule, provided that the resulting limit exists. Observe that using
+L’Hˆopital’s rule without checking the above conditions (diﬀerentiability of f (x) and the 0
+0 limit) represents an unjustiﬁed
+use of said rule. Thus, we infer that,
+
+provided the limit of f (cid:48)(x)/2x exists. However, using that f (cid:48)(0) = 0, we can now rewrite the above limit as
+
+g(cid:48)(0) = lim
+x→0
+l’H= lim
+x→0
+
+f (x)
+x2
+f (cid:48)(x)
+2x
+
+f (cid:48)(x)
+x
+
+lim
+x→0
+
+g(cid:48)(0) =
+
+1
+2
+1
+2
+1
+2
+1
+2
+where we have used the fact that f (cid:48)(x) is diﬀerentiable at x = 0, so that, by deﬁnition of the derivative function
+
+f (cid:48)(x) − f (cid:48)(0)
+x − 0
+
+f (cid:48)(x) − 0
+x − 0
+
+f (cid:48)(cid:48)(0) = 1,
+
+lim
+x→0
+
+lim
+x→0
+
+=
+
+=
+
+=
+
+(2)
+
+(3)
+
+which is exactly what we used before. Since the resulting limit in equation (3) exists and equals one, we conclude that
+the application of L’Hˆopital’s rule was valid, and hence this is in fact the value of g(cid:48)(0).
+
+f (cid:48)(x) − f (cid:48)(0)
+x − 0
+
+lim
+x→0
+
+= f (cid:48)(cid:48)(0) = 2,
+
+Remark: Some students might have tried to apply L’Hˆopital’s rule a second time after arriving at (2), instead of
+identifying the last limit in (3) as the deﬁnition of the derivative of f (cid:48)(x) at x = 0, but the problem with doing this is
+that we end up with
+
+g(cid:48)(0) l’H= lim
+x→0
+
+f (cid:48)(cid:48)(x)
+2
+
+,
+
+assuming they have justiﬁed that f (cid:48)(x)/2x → 0
+0 as x → 0 (which follows from the continuity of f (cid:48)(x) due to the twice
+diﬀerentiability of f (x), so that they can ensure that f (cid:48)(x) → 0 as x → 0), and that f (cid:48)(x) is diﬀerentiable, so they
+can apply L’Hˆopital’s rule again. However, since we do not know if f (cid:48)(cid:48)(x) is continuous at zero (the fact that f (cid:48)(x) is
+diﬀerentiable does not imply that f (cid:48)(cid:48)(x) is continuous), we cannot evaluate the above limit for f (cid:48)(cid:48)(x). More speciﬁcally,
+even if f (x) is twice diﬀerentiable and f (cid:48)(cid:48)(0) exists and is equal to 2, the limit
+
+f (cid:48)(cid:48)(x),
+
+lim
+x→0
+
+might not exist (due to the lack of continuity of f (cid:48)(cid:48)(x)). Thus, we cannot directly evaluate that limit, plugging f (cid:48)(cid:48)(0) = 2,
+to deduce that
+
+g(cid:48)(0) = lim
+x→0
+
+f (cid:48)(cid:48)(x)
+2
+
+=
+direct
+evaluation
+
+f (cid:48)(cid:48)(0)
+2
+
+= 1.
+
+(not necessarily true)
+
+Alternative, but incorrect, approach: We noticed that a large portion of the students followed a diﬀerent approach and we
+would like to acknowledge them only if they fully and properly justiﬁed their approach. First of all note that one could
+directly calculate the derivative of g(x) by using the quotient rule
+
+g(cid:48)(x) =
+
+f (cid:48)(x)x − f (x)
+x2
+
+for x (cid:54)= 0.
+
+It is important to remark that this formula holds only if x (cid:54)= 0. Then, assuming the continuity of g(cid:48)(x) at 0 (which
+is not given), we could ﬁnd g(cid:48)(0) by taking the limit of the above formula as x → 0, from where we would get that
+
+g(cid:48)(0) = lim
+x→0
+
+f (cid:48)(x)x − f (x)
+x2
+
+(cid:20)
+
+→
+
+(cid:21)
+
+0
+0
+
+where for the last 0
+at x = 0 (f (x) is twice diﬀerentiable, so in particular f (x) and f (cid:48)(x) are continuous), so that both
+
+0 limit we have used the fact that f (0) = 0 and f (cid:48)(0) = 0, along with the continuity of f (x) and f (cid:48)(x)
+
+f (x) → f (0) = 0
+
+and
+
+f (cid:48)(x) → f (cid:48)(0) = 0
+
+as x → 0. Thus, since f (x) is twice diﬀerentiable, in order to calculate the above limit we can use L’Hˆopital’s rule,
+provided that the resulting limit exists. Once again, the problem of using L’Hˆopital’s rule here is that we end up with
+
+g(cid:48)(0) l’H= lim
+x→0
+
+f (cid:48)(cid:48)(x)x + f (cid:48)(x) − f (cid:48)(x)
+2x
+
+= lim
+x→0
+
+f (cid:48)(cid:48)(x)
+2
+
+=
+
+2
+2
+
+= 1,
+
+that requires assuming the continuity of f (cid:48)(cid:48)(x) at x = 0 (which is not given and leads to the same problems pointed
+out in the Remark in pink above).
+
+A large number of students not only assumed all the continuity properties mentioned above but also missed the calculations
+for the last limit, making some terms disappear (or appear), taking limits only of some factors but not of the others so that
+the limit suddenly became 1. While we would acknowledge incorrect solutions that assumed extra (continuity) hypotheses
+and correctly justiﬁed the use of L’Hˆopital’s making up the limit to be 1 by wrong and unjustiﬁed calculations, making
+appear numbers or taking limits only of some factors and conveniently making the others disappear would not receive
+part marks if the question was to be graded..
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+

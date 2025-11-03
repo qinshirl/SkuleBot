@@ -1,0 +1,234 @@
+MAT 186 
+Quiz 7 
+
+1.  Graph the function  
+
+AB6  CF2  CF6  CF12  CF13  CS10  MW2 
+
+Be thorough and organized - analyze and label all of the important features of the function 
+and make sure that it is easy to follow your reasoning.   
+
+𝒚 =
+
+𝒙𝟑 + 𝟏
+|𝒙𝟐 − 𝟏|
+
+(A) The function itself 
+
+We see absolute values, we take cases: 
+
+,   |𝑥| > 1
+
+,   |𝑥| < 1 
+
+𝑦 =
+
+=
+
+{
+
+{
+
+𝑥3 + 1
+𝑥2 − 1
+𝑥3 + 1
+−
+𝑥2 − 1
+𝑥2 − 𝑥 + 1
+𝑥 − 1
+𝑥2 − 𝑥 + 1
+𝑥 − 1
+1
+𝑥 − 1
+1
+𝑥 − 1
+
+−𝑥 −
+
+𝑥 +
+
+−
+
+= {
+
+,   |𝑥| > 1
+
+,   |𝑥| < 1 
+
+,   |𝑥| > 1
+
+,   |𝑥| < 1 
+
+All of the above can be written as three branches (𝑥 < −1, −1 < 𝑥 < 1, 𝑥 > 1), which is just as correct. 
+
+There is clearly one issue at 𝑥 = 1 and a different one at 𝑥 = −1.  We check the limits on both: 
+
+lim
+𝑥→−1−
+
+𝑦 = lim
+𝑥→−1−
+
+lim
+𝑥→−1+
+
+𝑦 = lim
+𝑥→−1+
+
+𝑥 +
+
+= −1 −
+
+= −
+
+−𝑥 −
+
+= 1 +
+
+lim
+𝑥→1−
+
+𝑦 = lim
+𝑥→1−
+
+−𝑥 −
+
+= −1 − [
+
+lim
+𝑥→1+
+
+𝑦 = lim
+𝑥→1+
+
+𝑥 +
+
+= 1 + [
+
+1
+0+] = +∞ 
+
+1
+𝑥 − 1
+1
+𝑥 − 1
+1
+𝑥 − 1
+1
+𝑥 − 1
+
+1
+2
+1
+2
+
+3
+2
+
+=
+
+3
+2
+1
+0−] = +∞ 
+
+This gives a jump discontinuity at 𝑥 = −1 and a vertical asymptote at 𝑥 = 1.  Note that we only needed one 
+of the limits at 𝑥 = 1, but it’s helpful for the graphing to have both. 
+
+End behaviour is relatively simple to deduce from the cases, as the branch |𝑥| > 1 includes the limits to both 
+directions.  So, 𝑦 = 𝑥 is an oblique asymptote as 𝑥 → ±∞.  We can also tell that the function will be a little 
+above the asymptote for 𝑥 → +∞ and a little below it for 𝑥 → −∞. 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(B) The derivative 
+
+Differentiating by branch: 
+
+𝑦′ =
+
+  1 −
+
+1
+
+(𝑥 − 1)2 ,   |𝑥| > 1
+
+−1 +
+
+{
+
+1
+
+(𝑥 − 1)2 ,   |𝑥| < 1 
+
+=
+
+  (𝑥 − 1)2 − 1
+(𝑥 − 1)2
+1 − (𝑥 − 1)2
+(𝑥 − 1)2
+
+{
+
+,   |𝑥| > 1
+
+,   |𝑥| < 1 
+
+=
+
+𝑥(𝑥 − 2)
+(𝑥 − 1)2 ,   |𝑥| > 1
+𝑥(2 − 𝑥)
+(𝑥 − 1)2 ,   |𝑥| < 1 
+
+{
+
+It should take a little bit of time and a lotta bit of care to set up the number line here, but we get: 
+
+For future reference, 𝑓(0) = 1, 𝑓(2) = 3, with both points being local minima. 
+
+(C) The second derivative 
+
+𝑦′′ =
+
+2
+
+(𝑥 − 1)3 ,   |𝑥| > 1
+
+2
+
+(𝑥 − 1)3 ,   |𝑥| < 1 
+
+−
+
+{
+
+Not much need for a number line here, but you should absolutely use one if it helps.  In either case, the result 
+is that the function is concave up for 𝑥 > −1 and concave down for 𝑥 < 1. 
+
+(D) The graph 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

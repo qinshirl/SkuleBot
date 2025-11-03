@@ -1,0 +1,1022 @@
+MIE 100S – DYNAMICS 
+January – April 2023 
+
+Lecture schedules and locations 
+
+Section 
+
+Instructor 
+
+Start Date 
+
+Lecture times 
+
+Room 
+
+LEC0101 
+
+LEC0102 
+
+LEC0103 
+
+LEC0104 
+
+LEC0105 
+
+LEC0106 
+
+Pierre Sullivan 
+pierre.sullivan@utoronto.ca  
+MC 225 
+
+Abbas Ali  
+mirabbas.ali@mail.utoronto.ca  
+MY 614  
+
+Lidan You 
+youlidan@mie.utoronto.ca   
+MC 316 
+
+Anthony Sinclair 
+sinclair@mie.utoronto.ca  
+MC 415 
+
+Edmond Young 
+edmond.young@utoronto.ca 
+MC 313 
+
+2023/01/09 
+
+2023/01/11 
+
+2023/01/12 
+
+2023/01/10 
+
+2023/01/12 
+
+2023/01/13 
+
+2023/01/09 
+
+2023/01/11 
+
+2023/01/13 
+
+2023/01/10 
+
+2023/01/11 
+
+2023/01/13 
+
+2023/01/10 
+
+2023/01/11 
+
+2023/01/13 
+
+2023/01/10 
+
+2023/01/12 
+
+2023/01/13 
+
+Final mark distribution 
+
+Final examination (Type D: aid sheet) 
+Covers: All material in Course 
+Quiz, (Type D: aid sheet) 
+Chapter 1,2 
+
+ Midterm Test, (Type D: aid sheet) 
+Chapters 2-5.4    
+
+Online assignments 
+
+Text 
+Engineering Mechanics: Dynamics, 9th Edition 
+James L. Meriam, L. G. Kraige, J. N. Bolton 
+
+ISBN: 978-1-119-39098-5 
+
+Mon 
+
+Wed 
+
+Thu 
+
+Tue 
+
+Thu 
+
+Fri 
+
+Mon 
+
+Wed 
+
+Fri 
+
+Tue 
+
+Wed 
+
+Fri 
+
+Tue 
+
+Wed 
+
+Fri 
+
+Tue 
+
+Thu 
+
+Fri 
+
+14:00  15:00 
+
+14:00  15:00 
+
+14:00  15:00 
+
+9:00  10:00 
+
+SS2102 (Mon) 
+WB116 (Wed) 
+PB B150 (Thu) 
+
+9:00  10:00 
+
+MC252 
+
+9:00  10:00 
+
+17:00  18:00 
+
+17:00  18:00 
+
+MS 2170     
+
+17:00  18:00 
+
+16:00  17:00  GB248 (Tue) 
+
+16:00  17:00 
+
+16:00  17:00 
+
+MC254 (Wed and 
+Fri) 
+
+10:00  11:00  LM162 (Tue) 
+10:00  11:00 
+SS2117 (Wed) 
+SF1101 (Fri) 
+
+10:00  11:00 
+
+10:00  11:00 
+
+10:00  11:00 
+
+GB248 
+
+10:00  11:00 
+
+January 31  
+1:00-2:15pm 
+[EX 100 and EX 200] 
+
+March 9  
+6-7:30pm 
+[EX 100 and EX 200] 
+
+50% 
+
+15% 
+
+30% 
+
+5% 
+
+WileyPlus is the homework platform for MIE100. 
+
+To purchase access to WileyPlus – please follow this Campus Bookstore Link 
+
+page 1  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Office hours 
+
+All instructors have offices in the Mechanical Engineering Building 
+5 King's College Road M5S 3G8 
+
+Instructor 
+
+Pierre Sullivan 
+pierre.sullivan@utoronto.ca 
+MC 225 
+
+Anthony Sinclair 
+sinclair@mie.utoronto.ca 
+MC 415 
+
+Lidan You 
+youlidan@mie.utoronto.ca  
+MC 316 
+
+Edmond Young 
+eyoung@mie.utoronto.ca 
+MC 313 
+
+Abbas Ali  
+mirabbas.ali@mail.utoronto.ca  
+MY 614  
+
+Office hours 
+everyday 
+
+Monday  
+
+10-11 AM 
+
+Tuesday 
+
+Noon - 1 PM 
+
+Wednesday  
+
+1-2 PM 
+
+Thursday  
+1-2 PM 
+
+Fri 
+1-2 PM 
+
+What do I do outside of lecture? 
+
+I study fluid mechanics and turbulence. My 
+focus is on aerodynamic control of low 
+Reynolds number flows. As well, my lab 
+designs high temperature pressure sensors 
+and hot water distribution systems. 
+
+See: http://turbulence.mie.utoronto.ca  
+
+Non-destructive material characterization 
+by means of ultrasound with applications to 
+nuclear power plants, aerospace, oil/gas 
+pipelines, protective coatings, welds, 
+material interfaces; ultrasonic phased 
+arrays; signal processing and image 
+enhancement. 
+www.mie.utoronto.ca  
+
+Muscular skeletal system biomechanics. 
+Specific focus: 1) the anti-resorptive effect 
+of mechanical loading on bone tissue; 2) 
+advanced microfluidics system for bone cell 
+mechanotransduction study; and 3) the 
+effect of mechanical loading on cancer 
+metastasis in bone. 
+http://cbl.mie.utoronto.ca  
+
+I study microfluidics and develop 
+microfluidic systems for biomedical 
+applications. Focus of my lab is on “organ-
+on-a-chip" engineering and technology 
+development, including microfabrication, 
+device design and materials, with 
+applications in lung and cancer research. 
+See lab website at: 
+https://ibmt.mie.utoronto.ca/  
+My research is focused on modeling lithium-
+ion battery aging using electrochemical and 
+data-based methods. Additionally, I look to 
+determine effective methods to diagnose 
+battery health in EV applications and 
+ultimately support the thermo-mechanical 
+design of battery packs.  
+See: https://atoms.mie.utoronto.ca/abbas-
+ali/  
+
+Students may attend the office hours of any of the course instructors 
+
+page 2  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Online access 
+
+Online  access  to  WileyPlus  website.  The  website  is  used  for  weekly  assignments  (as  described  in  Online 
+assignments).  
+
+Course Objectives 
+General: 
+
+•  Develop a working knowledge of the basic principles of classical mechanics 
+
+•  Acquire familiarity with various coordinate systems and associated vector calculus for describing the 
+
+motion of particles and two-dimensional objects 
+
+•  Develop skills to analyze a problem, extract and combine information given in the form of text or 
+
+diagrams 
+
+•  Gain familiarity with techniques for formulating and solving multi-step engineering problems, and 
+
+select an appropriate solution strategy from several possible candidates. 
+
+•  Build an understanding of the conceptual relationship between concepts in mechanical engineering and 
+
+electrical engineering 
+
+Specific Learning Objectives from the Dynamic Concept Inventory1 
+
+•  Different points on a rigid body have different velocities and accelerations, which vary continuously.  
+• 
+If the net external force on a body is not zero, then the mass center must have an acceleration and it 
+must be in the same direction as the force.  
+
+•  Angular velocities and angular accelerations are properties of the body as a whole and can vary with 
+
+time.  
+
+•  Rigid bodies have both translational and rotational kinetic energy.  
+•  The angular momentum of a rigid body involves translational and rotational components and requires 
+
+using some point as a reference.  
+
+•  Points on an object that is rolling without slip have velocities and acceleration that depend on the 
+
+rolling without slip condition.  
+In general, the total mechanical energy is not conserved during an impact.  
+
+• 
+•  An object can have (a) nonzero acceleration and zero velocity or (b) nonzero velocity and no 
+
+acceleration.  
+
+•  The inertia of a body affects its acceleration.  
+•  The direction of the friction force on a rolling rigid body is not related in a fixed way to the direction of 
+
+rolling.  
+
+•  A particle has acceleration when it is moving with a relative velocity on a rotating object. 
+
+1 Gray, Gary L., Francesco Costanzo, Don Evans, Phillip Cornwell, Brian Self, and Jill L. Lane. "The dynamics concept inventory assessment test: A 
+
+progress report and some results." In American Society for Engineering Education Annual Conference & Exposition. 2005. 
+
+page 3  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course outline and approximate timetable 
+
+Chapter 
+1, 2  
+
+Topic 
+
+Lecture hours 
+
+Approximate Starting date 
+
+3,4 
+
+5 
+
+6 
+
+8 
+
+•  Omit Graphical 
+
+Interpretations from 
+section 2.2,Omit 2.7 
+
+• 
+
+• 
+• 
+
+• 
+
+Omit Power and 
+Efficiency from 
+Section 3.6 
+Omit 3.12, 3.13, 3.14 
+Note: Central Force 
+Motion is covered in 
+Prof Sullivan’s video 
+lectures in weeks 4 
+and  6 
+Omit 4.6 and 4.7 
+
+•  Omit  5.7 
+
+Kinematics of Particles 
+
+8 hours 
+
+January 9th 
+
+Kinetics of Particles  
+
+10 hours 
+
+January 25th    
+
+Plane Kinematics of 
+Rigid Bodies 
+
+5 hours 
+
+February 27th  
+
+• 
+• 
+
+Omit Power from 6.6 
+Omit 6.7 
+
+Plane Kinetics of Rigid 
+Bodies 
+
+9 hours 
+
+March 9th 
+
+• 
+
+Omit Damped 
+Forced Vibrations 
+from 8.3 
+•  Omit 8.5 
+
+Vibrations and Time 
+Response 
+
+6 hours 
+
+March 30th 
+
+Exact starting date may vary among the various lecture sections. 
+
+Midterm tests and Final Examination 
+
+Midterm test 1 (Quiz): (covers chapter 1,2) January 31 (1PM), Exam Centre  
+Midterm test 2: (covers chapters 1-5.4 (RB Relative Velocity)) March 9 (6PM), Exam Centre  
+Final exam: All material listed in the course outline will be examinable. 
+Room assignments will be posted close to the date of each test and exam. 
+
+Calendar Course Description 
+
+This course on Newtonian mechanics considers the interactions which influence 2-D, curvilinear motion. These 
+interactions are described in terms of the concepts of force, work, momentum and energy. Initially the focus is on 
+the kinematics and kinetics of particles. Then, the kinematics and kinetics of systems of particles and solid bodies 
+are  examined.  Finally,  simple  harmonic  motion  is  discussed.  The  occurrence  of  dynamic  motion  in  natural 
+systems, such as planetary motion, is emphasized. Applications to engineered systems are also introduced. 
+
+Calculator 
+
+During the exam and midterm tests, students must use one of the following non-programmable calculators: 
+Casio FX991MS        
+
+Casio FX991ES PLUS     
+
+Casio FX991 
+Sharp EL520X    
+
+Casio FX991EX     
+  Sharp EL-520W 
+
+Additional information and updates can be found on the First-Year Office website 
+
+Email 
+
+For all emails regarding the course, start your subject with “MIE100 - ”. 
+Example: “MIE 100 - Problems with WileyPlus” 
+For all administrative queries related to problems with WileyPlus or tutorials:  email mie100-
+admin@mie.utoronto.ca Or try the WileyPlus Chat www.wileyplus.com/go/wpngsupport 
+For questions regarding technical course material, you can email your tutorial section TA’s (names posted on 
+
+page 4  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quercus), or see any one of the instructors or TA’s during office hours. 
+
+Quercus website 
+
+The course website is on Quercus,  https://q.utoronto.ca/ 
+Note that most information for this course will be posted  on Quercus under the heading of lecture section 
+L0101 – the posted information actually applies to ALL lecture sections of this course. 
+The course website will have available: contact information for your instructor and teaching assistants; some extra 
+(not  graded)  problems  and  their  solutions;  midterm  room  assignments;  details  on  the  course  outline  and  any 
+announcements made in class.  It will also have your midterm grades listed.  Students will be responsible for 
+checking the course website to ensure that midterm grades have been recorded accurately. 
+
+Online assignments 
+
+This course requires the completion of 10 weekly assignments. These will be accessible (and answers must be 
+submitted) through the WileyPlus website. To register on WileyPlus, you need to access your course on Quercus.  
+
+At the start of the term, use the instructions on Page 8 of this handout to register for our course.  
+
+Be sure to use your proper UofT registration name and UofT email address. 
+Each Wednesday night at 11:59 pm, starting January 11th 2023, there will be a list of assigned problems, which 
+must be solved and submitted on-line by the next Sunday night at 11:59 pm (see the calendar) eleven days after, 
+e.g., the first assignment is released on January 11, 2023 and is due January 22, 2022 at 11:59pm. These problems 
+will generate a different set of input data for each student and so copying from each other will not work, but you 
+are  encouraged  to  work  with  your  friends  and  TAs  (see  tutorial  information  below)  to  fully  understand  the 
+problem; this should then allow you to complete your individual calculations.  You will be given up to unlimited 
+chances (although too many efforts may result in a lockout from WileyPlus that is outside of MIE100 settings) to 
+enter the correct answer for each problem. This should give you an opportunity to correct any small calculation 
+errors and will be a good inspiration for thorough checking. Once the assignment is submitted, you cannot change 
+your answers. 
+If you must miss an assignment for any legitimate reason, a petition and supporting documents must be submitted 
+to the First-Year Office. 
+Link: https://undergrad.engineering.utoronto.ca/petitions/about-petitions/ 
+
+Tutorials 
+
+Tutorials start on Friday January 13th  
+Time 
+(End)  First day   Room  
+
+Day of 
+the week  
+
+Time 
+(Start) 
+
+Section  
+TUT0101   MO  
+TUT0102   TU  
+TUT0103   TH  
+TUT0104   TH  
+TUT0105   MO  
+TUT0106   WE  
+TUT0107   TH  
+TUT0108   MO  
+TUT0109   TU  
+TUT0110   TU  
+TUT0111   FR  
+
+TA 1  
+
+TA 2  
+Hanieh Rezaei 
+Joseph Sebastian  Michael Mohan 
+Shahzeb Mirza 
+Taha Sheikh 
+Khodr Jaber 
+Khodr Jaber 
+Howard Ho 
+
+16:00  18:00  1/16/2023   BA  1200   Kecheng Xu 
+15:00  17:00  1/17/2023   GB  303  
+14:00  16:00  1/19/2023   SF  2202   Celine Xiao 
+12:00  14:00  1/19/2023   SF  2202   Saeed Alkatheri 
+12:00  14:00  1/16/2023   SF  3202   Matthew Butler 
+9:00  11:00  1/18/2023   GB  304   Eric Floro 
+13:00  15:00  1/19/2023   GB  304   Adnan Machado 
+13:00  15:00  1/16/2023   SF  2202   Mahmoud Embabi  Md Akibul Islam 
+Md Akibul Islam 
+15:00  17:00  1/17/2023   SF  2202   Haleh Shahsa 
+Matthew Butler 
+15:00  17:00  1/17/2023   BA  1200   Howard Ho 
+Zinan Cen 
+13:00  15:00  1/13/2023   SF  2202   Kevin Perera 
+
+TUT0112   WE  
+
+10:00  12:00  1/18/2023   SF  2202  
+
+Joseph Sebastian  Michael Mohan 
+
+At each tutorial, an old quiz or midterm or exam question will be distributed and students will have some time to 
+work on it alone. This is intended to give you lots of practice under exam/test-like conditions. After this initial 
+exercise, you will be free to continue working on the problem with your classmates and the TAs will be there to 
+
+page 5  
+
+ 
+ 
+ 
+ 
+ 
+help. If there is a clarification needed for many students, a TA will give a small presentation. Halfway into the 
+tutorial, all students should have a firm grasp of the exam question and its solution. 
+Thereafter, the tutorial will be a work session for your assignments. Although answers must be submitted on-line, 
+dynamics problems are best solved with a pencil and paper. You should bring a copy of your assignment to the 
+tutorial (or a copy of the problems you are having difficulty with) where you will be free to work with your friends 
+and get individual help from the TA’s. The print version of the assignments will be enabled on the  WileyPlus 
+website. Finally, the tutorial will serve as a time to get help with posted weekly suggested problems as well.  
+Please stick to your assigned tutorial section. You should get to know your TA’s and desks are limited in all 
+sections. Your TAs will provide you with their email addresses during the tutorials. These will also be posted on 
+Quercus. 
+
+Petitions for term course work 
+
+Petitions for special consideration for term work (quiz, mid-term test, or weekly assignments) must be 
+submitted directly to the First-Year Office. Do not submit them to your TA or instructor. 
+(https://undergrad.engineering.utoronto.ca/petitions/about-petitions/) 
+
+Office hours 
+
+Office hours for instructors are listed on page 2. You can also e-mail TA’s or instructors for guidance, although 
+face-to-face assistance is probably a better way to give a pictorial view of a Dynamics problem. Also, try Piazza 
+– it is a great forum to discuss course material. 
+
+Required technology 
+
+See the Recommended Technology Requirements for Remote/Online Learning from the Vice Provost, Students.  
+
+Notice of video recording and sharing  
+
+This course, including your participation, may be recorded on video and will be available to students in the 
+course for viewing remotely. 
+
+Course videos and materials belong to your instructor, the University, and/or other source depending on the 
+specific facts of each situation and are protected by copyright. In this course, you are permitted to view session 
+videos and materials for your own academic use, but you should not copy, share, or use them for any other 
+purpose without the explicit permission of the instructor. 
+
+For questions about recording and use of videos in which you appear please contact your instructor.  
+
+Students may create audio/video-recordings of the lectures for their personal use. Recordings are intended to 
+permit lecture content review to enhance understanding of the topics presented. Audio/video-recordings are not 
+a substitute for attending class. 
+
+Students should note that since audio/video recordings are to be permitted, they may be recorded by others 
+during the class. Please speak to the instructor if this is a concern for you. 
+
+In accordance with the Accessibility for Ontarians with Disabilities Act, 2005, persons who have special needs 
+will be accommodated. 
+
+Students agree to the following terms when creating audio recordings of lectures: 
+•  Recordings are not to be distributed without the permission of the instructor via the Internet, using social 
+media such as Facebook, peer-to-peer file sharing such as One Drive or Dropbox, or other distribution 
+channels. 
+
+•  Recordings are not to be shared with other classmates unless they are to be used in collaborative 
+
+assignments, or if the instructor permits for other reasons. 
+
+Non-compliance with these terms violates an instructor’s intellectual property rights and the Canadian 
+Copyright Act. Students violating this agreement will be subject to disciplinary actions under the Code of 
+Student Conduct. 
+
+Inclusivity Statement 
+
+You belong here. The University of Toronto commits to all students, faculty and staff that you can learn, work 
+
+page 6  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and create in a welcoming, respectful and inclusive environment. In this class, we embrace the broadest range of 
+people and encourage their diverse perspectives. This team environment is how we will innovate and improve 
+our collective academic success. You can read the evidence for this approach here. 
+
+We expect each of us to take responsibility for the impact that our language, actions and interactions have on 
+others. Engineering denounces discrimination, harassment and unwelcoming behaviour in all its forms. You 
+have rights under the Ontario Human Rights Code. If you experience or witness any form of harassment or 
+discrimination, including but not limited to, acts of racism, sexism, Islamophobia, anti-Semitism, homophobia, 
+transphobia, ableism and ageism, please tell someone so we can intervene. Engineering takes these reports 
+extremely seriously. You can talk to anyone you feel comfortable approaching, including your professor or TA, 
+an academic advisor, our Assistant Dean, Diversity, Inclusion and Professionalism, the Engineering Equity 
+Diversity & Inclusion Action Group, any staff member or a U of T Equity Office. 
+
+You are not alone. Here you can find a list of clubs and groups that support people who identify in many diverse 
+ways. Working together, we can all achieve our full potential. 
+
+Statement on Accommodations 
+
+The University of Toronto supports accommodations for students with diverse learning needs, which may be 
+associated with mental health conditions, learning disabilities, autism spectrum, ADHD, mobility impairments, 
+functional/fine motor impairments, concussion or head injury, blindness and low vision, chronic health 
+conditions, addictions, deafness and hearing loss, communication disorders and/or temporary disabilities, such 
+as fractures and severe sprains, or recovery from an operation. 
+
+If you have a learning need requiring an accommodation the University of Toronto recommends that 
+students register as soon as possible with Accessibility Services. 
+
+Phone: 416-978-8060 
+Email: accessibility.services@utoronto.ca 
+
+Statement on Mental Health 
+
+As a university student, you may experience a range of health and/or mental health challenges that could result 
+in significant barriers to achieving your personal and academic goals. Please note, the University of Toronto and 
+the Faculty of Applied Science & Engineering offer a wide range of free and confidential services that could 
+assist you during these times. 
+As a U of T Engineering student, you have an Academic Advisor (undergraduate students) or a Graduate 
+Administrator (graduate students) who can support you by advising on personal matters that impact your 
+academics. Other resources that you may find helpful are listed on the U of T Engineering Mental Health & 
+Wellness webpage, and a small selection are also included here: 
+•  Accessibility Services & the On-Location Advisor 
+•  Graduate Engineering Council of Students’ Mental Wellness Commission 
+•  Health & Wellness and the On-Location Health & Wellness Engineering Counsellor 
+• 
+•  U of T Engineering Learning Strategist and Academic Success 
+•  My Student Support Program (MySSP) 
+•  Registrar’s Office 
+•  SKULE Mental Wellness 
+•  Scholarships & Financial Aid Office & Advisor 
+
+Inclusion & Transition Advisor 
+
+If you find yourself feeling distressed and in need of more immediate support resources, consider reaching out 
+to the counsellors at My Student Support Program (MySSP) or visiting the Feeling Distressed webpage. 
+
+Land Acknowledgement 
+The University of Toronto operates on land that for thousands of years has been the traditional land of the Huron-
+Wendat, the Seneca, and most recently, the Mississauga of the Credit River. Today, this meeting place is still the home 
+to many Indigenous people from across Turtle Island and we are grateful to have the opportunity to work on this land.  
+
+page 7  
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+WileyPlus Sign up Information 
+
+Your course section ID is B87037  
+
+*If you have already created a WileyPLUS account please skip to Step 2. 
+
+Step 1: Set your password 
+Your account has been created for you in WileyPLUS and you have been enrolled in your course for MIE100. 
+Please check your University of Toronto email for an email from noreply@WileyPLUS.com  
+Follow the link in the email to set your password: 
+
+Step 2: Access your course section 
+Login at www.WileyPLUS.com/go/login with the password you have created and click on the course for 
+MIE100. You can register for a 14-day trial or enter the access code from the bookstore once purchased.  
+
+Need Help? 
+Live chat support: https://wpsupport.wiley.com/s  
+
+If you have taken the course previously and had purchased WileyPLUS, please contact mie100-
+admin@mie.utoronto.ca to extend your subscription. 
+
+To Purchase WileyPlus access from the Campus Bookstore – please follow 
+this link 
+
+page 8  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional information 
+
+Videos of Course Material 
+On YouTube, videos will be provided to summarize course material and provide some worked 
+problems. These videos supplement course materials and will be released after the lectures are 
+delivered.  
+Please see the Quercus site for the weekly releases. 
+
+Open Source Software 
+Computer Algebra Software: 
+
+•  Smath Studio - https://en.smath.com/view/SMathStudio/summary 
+•  Mathcad Express - https://www.ptc.com/en/products/mathcad 
+•  SageMath: http://www.sagemath.org/ 
+
+Computer Algebra Websites 
+
+•  Wolfram|Alpha https://www.wolframalpha.com/ 
+•  Wolfram|Alpha Demonstration Projects https://demonstrations.wolfram.com 
+•  Smath Studio in the cloud https://en.smath.com/cloud/ 
+
+Matlab (programming) alternative 
+
+•  Scilab https://www.scilab.org 
+•  GNU Octave https://www.gnu.org/software/octave/ 
+•  Julia https://julialang.org/ 
+•  NumPy https://www.numpy.org/ 
+•  Scicos (Simulink option) http://www.scicos.org/ 
+
+Mechanics Software 
+
+•  Open Source Physics - https://www.compadre.org/osp/? 
+•  Tracker – good for projectile motion https://physlets.org/tracker/ 
+
+Blogs/YouTube 
+
+•  Prof Sullivan - MIE100 YouTube Channel - https://bit.ly/SulliMIE100  
+•  Rhett Allain – great superhero examples and others - http://bit.ly/RhettAllainWired 
+
+o  Also he has a helpful article “How to Ace Physics Class (Even if You Don’t Ace 
+
+Physics)” Wired August, 2021 
+
+•  Dynamics YouTube Site – Yiheng Wang - http://bit.ly/YihengWang  
+•  MIT OpenCourseware Classical Mechanics http://bit.ly/OCWClassicalMechanics  
+•  Cornell Note taking – Medium, August, 2017. You may find this helpful to organize the 
+
+ideas in this course. 
+
+References 
+
+•  Gray, Gary L., Francesco Costanzo, Don Evans, Phillip Cornwell, Brian Self, and Jill L. Lane. "The dynamics 
+concept inventory assessment test: A progress report and some results." In American Society for Engineering 
+Education Annual Conference & Exposition. 2005. 
+
+•  Gray, Gary L., et al. "Toward a nationwide dynamics concept inventory assessment test." American Society for 
+
+Engineering Education Annual Conference & Exposition. Westminster, CO: IEEE, 2003. 
+
+•  Evans, D. L., et al. "Progress on concept inventory assessment tools." 33rd Annual Frontiers in Education, 
+
+2003. FIE 2003.. Vol. 1. IEEE, 2003. 
+
+•  Self, Brian P., and James Widmann. "Work in progress-learning styles and performance on the dynamics 
+
+concept inventory." 2009 39th IEEE Frontiers in Education Conference. IEEE, 2009. 
+
+page 9  
+
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+MIE 100S – DYNAMICS ..................................................................................................................... 1 
+
+Lecture schedules and locations ........................................................................................................ 1 
+
+Final mark distribution ...................................................................................................................... 1 
+
+Text ................................................................................................................................................... 1 
+
+Office hours ...................................................................................................................................... 2 
+
+Online access .................................................................................................................................... 3 
+
+Course Objectives ............................................................................................................................. 3 
+
+Course outline and approximate timetable ....................................................................................... 4 
+
+Midterm tests and Final Examination ............................................................................................... 4 
+
+Calendar Course Description ............................................................................................................ 4 
+
+Calculator .......................................................................................................................................... 4 
+
+Email ................................................................................................................................................. 4 
+
+Quercus website ................................................................................................................................ 5 
+
+Online assignments ........................................................................................................................... 5 
+
+Tutorials ............................................................................................................................................ 5 
+
+Petitions for term course work .......................................................................................................... 6 
+
+Office hours ...................................................................................................................................... 6 
+
+Required technology ......................................................................................................................... 6 
+
+Notice of video recording and sharing .............................................................................................. 6 
+
+Inclusivity Statement ........................................................................................................................ 6 
+
+Statement on Accommodations ........................................................................................................ 7 
+
+Statement on Mental Health .............................................................................................................. 7 
+
+Land Acknowledgement ................................................................................................................... 7 
+
+WileyPlus Sign up Information ........................................................................................................ 8 
+
+Need Help? .................................................................................................................................... 8 
+
+Additional information ...................................................................................................................... 9 
+
+Videos of Course Material ............................................................................................................ 9 
+
+Open Source Software .................................................................................................................. 9 
+
+References ..................................................................................................................................... 9 
+
+page 10  
+
+ 
+ 
+ 
+ 
+ 
+ 
+

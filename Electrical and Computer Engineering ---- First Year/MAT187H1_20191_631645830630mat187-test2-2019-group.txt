@@ -1,0 +1,332 @@
+MAT187 - Calculus II
+
+Term Test 2 – Group Part - March 19, 2019
+
+Time allotted: 30 minutes
+
+Total marks: 10
+
+Aids permitted: None
+
+Name
+
+UTorID
+
+email @mail.utoronto.ca
+
+Instructions
+
+(READ CAREFULLY)
+
+•
+
+•
+
+•
+
+•
+
+•
+
+DO NOT WRITE ON THE QR CODE AT THE TOP OF THE PAGES.
+
+Read all the instructions carefully.
+
+This test contains 8 pages and a detached formula sheet. Make sure you have all of them.
+
+You can use page 7 for rough work or to complete a question (Mark clearly).
+
+DO NOT DETACH ANY PAGES.
+
+No calculators, cellphones, or any other electronic devices are allowed. If you have a cellphone
+
+with you, it must be turned oﬀ and in a bag underneath your chair.
+
+GOOD LUCK!
+
+MULTIPLE-CHOICE PART.
+
+(4 marks)
+
+ANSWER THESE QUESTIONS ON PAGE 8.
+
+Only your answer on page 8 will be graded.
+
+1.
+
+(1 mark) Consider the ODE
+
+y′′ + 2y′ + 2y = (t2 + 1)e−
+
+t + te−
+
+t sin(t)
+
+Which of the following terms is NOT part of the particular solution?
+
+(A) e−
+
+t
+
+(B) te−
+
+t
+
+(C) t2e−
+
+t
+
+(D) e−
+
+t sin(t)
+
+(E) t2e−
+
+t sin(t)
+
+2.
+
+(1 mark) Consider the function
+
+f (x) =
+
+∞
+
+n=0
+󰁛
+
+Select the one correct option.
+
+(A) f (23)(
+
+(B) f (23)(
+
+(C) f (23)(
+
+(D) f (23)(
+
+2) =
+
+2) =
+
+1
+33
+
+−
+
+−
+
+33
+
+2) =
+
+−
+2) = 0
+
+33
+
+−
+
+−
+
+−
+
+−
+
+1
+
+3!
+·
+1
+23!
+
+·
+
+(
+3n
+
+−
+−
+
+1)n
+20n!
+
+(x + 2)2n2n2n.
+
+(E) The function f does not have a 23rd derivative at x =
+
+2
+
+−
+
+Continued...
+
+LONG ANSWER PART
+
+3.
+
+It’s 1905 and everyone believes that Kinetic energy is given by the formula
+
+(8 marks)
+
+KC(s) =
+
+m s2.
+
+1
+2
+
+Here, m is the mass of the particle at rest and s is the speed of the particle.
+
+Albert Einstein just published his paper on Special Relativity. In it he claimed that kinetic energy
+
+is actually given by the formula
+
+where c is the speed of light and s is still the speed of the particle.
+
+KR(s) = mc2
+
+󰀵
+
+󰀷
+
+1
+
+s2
+c2
+
+1
+
+−
+
+,
+
+1
+󰀶
+
+−
+
+󰀸
+
+󰁴
+
+The scientiﬁc community is very skeptical; after all the new formula KR(s) looks completely diﬀerent
+from the classical one KC(s).
+
+Your job is to ﬁnd out how these two formulas are related.
+
+(a) (2 marks) Consider the function f (x) =
+
+p1(x) centred at a = 0.
+
+1
+√1
+
+−
+
+x
+
+and obtain its linear Taylor approximation
+
+p1(x) =
+
+Continued...
+
+(b) (2 marks) Use part (a) to approximate KR(s).
+
+(c) (1 mark) You just approximated KR(s). Compare this approximation to the formula for KC(s).
+
+What do you observe?
+
+Continued...
+
+(d) (1 mark) Assuming 0 < z < x < 1, show that
+
+3
+4
+
+(1
+
+−
+
+5
+2
+
+x)−
+
+f ′′(z)
+
+󰃑
+
+󰀏
+󰀏
+
+󰀏
+󰀏
+
+Continued...
+
+(e) (1 mark) Let R1(x) be the remainder for the approximation found in (a).
+
+Find a formula relating
+
+KR(s)
+
+KC(s)
+
+with R1
+
+−
+
+󰀏
+󰀏
+
+󰀏
+󰀏
+
+s2
+c2
+
+.
+
+󰀃
+
+󰀄
+
+(f ) (1 mark) Estimate
+
+KR(s)
+
+KC(s)
+
+in terms of m, c, and s.
+
+−
+
+󰀏
+󰀏
+
+󰀏
+󰀏
+
+KR −
+
+KC
+
+󰃑
+
+󰀏
+󰀏
+
+󰀏
+󰀏
+
+Continued...
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+The end.
+
+

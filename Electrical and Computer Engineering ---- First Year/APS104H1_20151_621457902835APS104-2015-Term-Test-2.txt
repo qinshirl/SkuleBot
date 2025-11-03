@@ -1,0 +1,1192 @@
+Please mark X to indicate your tutorial section.  
+Failure to do so will result in a deduction of 3 marks. 
+
+TUT 01 
+
+TUT 02 
+
+TUT 03 
+
+TUT 04 
+
+TUT 05 
+
+TUT 06 
+
+TUT 07 
+
+TUT 08 
+
+TUT 09 
+
+TUT 10 
+
+TUT 11 
+
+TUT 12 
+
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+TERM TEST 2 
+
+17 MARCH 2015 
+
+First Year 
+
+APS 104S 
+
+INTRODUCTION TO  MATERIALS AND CHEMISTRY 
+
+Exam Type B 
+
+Examiners:  G. Azimi, C Chin, T. Mirkovic, J. Nogami 
+
+NAME:  _____________________________________________________ 
+                Last  
+
+First 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+            /20 
+
+            /20 
+
+            /20 
+
+            /20 
+
+            /20 
+
+STUDENT NO:_______________________________________________ 
+
+Total 
+
+           /100 
+
+INSTRUCTIONS: 
+
+•  This is a Type B examination. Only non-programmable calculators are allowed. 
+•  Answer all  5 questions. 
+•  All work is to be done on the pages of this booklet. 
+•  When answering the questions include all the steps of your work on these pages and then fill 
+
+the answer in the respective boxes. For additional space, you may use the back of the preceding 
+page. 
+
+•  Do not unstaple this exam booklet. 
+•  A Formula Sheet and the periodic table are attached to the end of this exam booklet; if you wish, 
+
+you may tear-off  these sheets only. 
+
+•  Exam papers filled out in pencil will not be eligible for regrading. 
+
+Page 1 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+           
+           
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 1:  Ideal Gas Law (20 pts) 
+20 g of propane (C3H8) is in a 2 L container at 25°C.  
+
+a)  what is the pressure in the container (in atm), assuming that propane behaves like an ideal gas ? 
+
+[2 pts] 
+
+b)  assuming Van der Waals behavior, recalculate the pressure (a = 9.39 L2 atm mol-1  and b=0.0905 
+
+L/mol) [4 pts] 
+
+c)  calculate the exact number of moles of oxygen needed to burn all the propane according to: 
+
+𝐶!𝐻! +   5𝑂! = 3𝐶𝑂! + 4𝐻!𝑂 (𝑔) 
+
+[2 pts] 
+
+Page 2 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+d)  If  we add the exact number of moles of O2 from part c) into the same 2L container, and 
+
+assuming the reaction in part 1c) takes place completely, calculate the final pressure in the vessel 
+assuming: 
+• 
+ideal gas behavior 
+• 
+the temperature rises to 150°C 
+•  water remains as water vapor 
+
+[5 pts] 
+
+e)  recalculate the answer in part d) if you start with only half the amount of oxygen calculated in 
+part c), and also calculate (in addition to the total pressure) the partial pressures and mole 
+fractions of all the remaining gasses. [7 pts] 
+
+Page 3 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 2:  First Law of Thermodynamics (20 pts) 
+
+A quantity of 0.45 mol of neon is confined in a container at 3.5 atm and 298 K and then allowed to 
+expand under three different conditions.  
+
+(a)  In the first process, the gas expands adiabatically and reversibly to 1.00 atm. Calculate the final 
+
+temperature and the work done. [6 pts] 
+
+(b)   In the second process, the gas expands adiabatically against a constant pressure of 1.00 atm. 
+
+Calculate the final temperature and the work done. [6 pts]  
+
+(a)  In the third process, the gas expands isothermally and reversibly until its volume reaches the same 
+value as the final volume in part (a). Determine the value of the final volume and the final pressure 
+of this reversible isothermal expansion. [4 pts] 
+
+(d)  On a P-V diagram, sketch the paths described in (a) and (c). In which process was more work 
+performed? On the diagram, shade the area that represents the difference in the work done in process (a) 
+and process (c) [4 pts] 
+
+Page 4 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 3:  First Law of Thermodynamics (20 pts) 
+
+(a)  The density of liquid water at 100 ̊C is 0.9584 g/cm3, and that of steam at the same temperature 
+is 0.000596 g/cm3. If the enthalpy of evaporation of water at atmospheric pressure is 40.63 
+kJ/mol, what is ΔU? How much work is done by the system during the evaporation process?  
+Hint: Consider calculating molar volumes first. [5 pts] 
+
+(b) Would you expect for the fusion process (ice to water) the difference between  ΔU and ΔH to be 
+larger or smaller than the one calculate in (a) for the vaporization process? Explain. [3 pts] 
+
+(c)  How much heat is required to heat 2 moles of water (ice at -10 ̊C) to gasous water vapour at 
+
+110 ̊C? Sketch the process on a temperature vs heat graph. [6 pts] 
+ Given: ΔHfusion=6.	01 kJ/mol, ΔHvapourization= 40.67 kJ/mol,  
+C
+2.08J/gK
+=
+
+2.11J/gK
+
+4.18J/gK
+
+vapour
+
+water
+
+=
+
+=
+
+C
+
+C
+
+ice
+
+P
+
+P
+
+P
+
+(d) A chunk of ice at 270 K, weighing 30 grams, is dropped into 300 g of liquid water at 300 K. 
+Determine the final temperature of the system once equilibrium has been reached. Use any 
+constants that you need from parth (c). [6 pts] 
+
+Page 5 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+										
+								
+										
+Name: _________________________________                Student No: ___________________________ 
+
+Question 4: Thermochemistry 
+
+A table (4.1) with thermodynamic data is provided. The heat of combustion for formaldehyde 
+(CH2O) is -233 kJ (mol-1 CH2O) at the standard state (298.15 K, 1 bar, products and reactants 
+are both in the gas phase).  
+a)  Determine the heat of formation for formaldehyde (CH2O) at standard state. [5 pts] 
+
+b)  The heat of reaction for the reverse Water-Gas-Shift reaction (298.15 K, 1 bar) is:  
+CO2 (g) +H2(g) à H2O (l) +CO (g)     
+Δ=−
+Determine the heat of reaction for the following reaction at standard state: 
+CH2O (g) à CO (g) +H2(g) 
+Show your work. [5 pts] 
+
+kJ (mol-1) 
+
+RXNH
+
+288
+
+0
+
+c)  Determine the heat of combustion (in kJ (mol-1 CH2O)) for formaldehyde at 500 K. [4 pts] 
+
+Page 6 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+d)  Using Bond Enthalpy Table (Bond Dissociation Energies for the various bonds listed below), 
+
+estimate the heat of reaction for the following reaction at the standard state. [4 pts] 
+
+O
+
+C
+
+H
+
+H
+
+C
+
+O
+
++
+
+H H
+
+e)  The heat capacity for CO2 (liquid) is  HIGHER  
+
+LOWER   
+
+than       CO2(gas) 
+
+(circle one) [2 pts] 
+
+Table 4.1 Thermodynamic Data  
+
+Heat of formation at standard 
+state, 
+
+fH kJmol −
+Δ
+298.15 K, 1 bar 
+
+)
+
+(
+
+0
+
+1
+
+Heat Capacity at constant pressure, 
+CP
+)
+*independent of temperature 
+
+Jmol K−
+
+1
+−
+
+(
+
+1
+
+CO2 (g) 
+H2O (g) 
+H2O (l) 
+O2 (g) 
+CH2O 
+H2 (g) 
+
+-108 
+-241 
+-286 
+0 
+Not given for this problem 
+0 
+
+37 
+33 
+75 
+29 
+34 
+
+Page 7 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+Question 5: Entropy 
+
+i) 
+In a process taking place inside a system, 1.5 mole of a monoatomic ideal gas is expanded 
+adiabatically from 500°C and 5 bar to a final pressure of 2 bar. Calculate ΔSsystem, ΔSsurroundings, and 
+ΔSuniverse for the following conditions: 
+
+a)  if the process is reversible; [3 pts] 
+
+b)  if the process is irreversible and expansion is made against vacuum. [4 pts] 
+
+c)  if the process is irreversible and the work produced is 6000 J; [4 pts] 
+
+ii) 
+
+Are the following statements true or false? [4 pts] 
+
+Check one  
+T 
+
+F 
+
+  The entropy of a system cannot increase in any adiabatic process. 
+
+  ΔS (universe) for melting ice to water at 0 °C is ZERO. 
+
+It is possible to have the efficiency of the Carnot cycle equal to “1”. 
+
+. 
+
+. 
+
+In a process, «graphite» is transformed to «diamond». ΔS for this process is 
+negative. 
+
+Page 8 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+iii) 
+
+a)  Calculate the change in the entropy when 20 g of solid mercury (Hg(s)) at -50°C and 1 bar 
+
+transforms to gaseous mercury at its boiling point. Below are the required thermodynamic data 
+(specific heat capacities, Cp,m, are independent of temperature): [3 pts] 
+
+ΔHfusion = 2.33 kJ/mol 
+ΔHvaporization = 59.11 kJ/mol 
+Cp,m Hg(s) = 28.2 J/mol.K 
+Cp,m Hg(liq) = 27.9 J/mol.K 
+Melting temperature = -39°C 
+Boiling temperature = 357°C 
+
+b)  Using the thermodynamic data provided in part (a), sketch a qualitative graph of the molar 
+entropy of mercury (Hg) as a function of temperature in the range of 0 to 700 K at constant 
+pressure. [2 pts] 
+
+Page 9 of 11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+FORMULAE & CONSTANTS  (You may tear these sheets off.) 
+R	=	8.3145	J·K-1	mol-1	=	0.0820574587	L·atm·	K-1	mol-1	=	0.083145	L·bar·K-1·mol-1	
+1	atm	=	101.325	kPa		=	1.01325	bar	=	14.696	psi	=	760	Torr		=	760	mmHg	
+NA	=	6.022	x	1023	mol-1													k = 8.62 x 10-5 eV/K               1 eV = 1.60 x 10-19 J 
+T(K) = T(oC) + 273.15 K          F = 9.6485309 × 104 C mole-1                    e = 1.60217733 × 10-19 C 
+STP: 273.15K, 1 atm             SATP: 298.15K, 1 bar    
+
+1L atm = 101.325 J 
+
+nRT
+
+−
+
+=
+
+P
+
+PV =
+Idea	gas	equation	of	state:	
+Van	der	Waals	equation	of	state:	
+2
+an
+2
+V
+
+nRT
+nb
+V
+(
+−
+
+)
+First	law,	closed	systems	
+ΔU	=	q	+	w								dU	=	dq	+dw	
+dw=	–PextdV	
+dU	=	nCv,mdT	
+
+PV
+
+UH
+≡
++
+dH	=	nCp,mdT	
+For	ideal	gases,	Cp,m=Cv,m+R	
+Solids,	Liquids,		Cp,m	=	Cv,m	
+HG
+≡
+
+TS
+
+−
+dQ
+
+dS
+
+≡
+
+reversible
+T
+
+For	a	process	at	constant	temperature	
+ΔG=	ΔH-TΔS	
+
+For	 an	 isothermal	 reversible	 process	 (ideal	
+gas):	
+
+W
+
+rev
+
+V
+2
+
+−= ∫
+
+V
+1
+
+nRT
+V
+
+dV
+
+−=
+
+nRT
+
+ln
+
+V
+2
+V
+1
+
+−=
+
+nRT
+
+ln
+
+P
+1
+P
+2
+
+υi:	stoichiometric	coefficient	
+Assuming	no	phase	change,	constant	Cp	
+ΔH°rxn	=	Συi*ΔH°f,i		+	ΔCp*(T-25°C)	
+ΔCp	=	Συi*Cp,i	
+
+γ
+
+Adiabatic	reversible	process	(	ideal	gas):	
+VP
+11
+VT
+11
+
+VP
+=
+22
+1
+(γ
+)
+− =
+	VT	
+2
+2
+
+= PT
+
+⎛
+⎜⎜
+⎝
+
+]/)
+−
+γγ
+
+]/)
+−
+γγ
+
+PT
+1
+1
+
+1
+−
+
+1[(
+
+1[(
+
+γ
+
+(γ
+
+2
+
+2
+
+)
+
+C
+C
+
+Efficiency = |w|/qin 
+
+ε(ideal) = 1 – TC/TH	
+
+P
+
+V
+
+⎞
+γ=⎟⎟
+⎠
+
+For	solids	or	liquids:	
+
+Phase	transition	
+
+S
+Δ
+
+trans
+
+=
+
+H
+Δ
+T
+
+trans
+
+trans
+
+ΔS
+
+=
+
+nRln
+
+V
+f
+V
+i
+T
+f
+T
+i
+
+ΔS
+
+=
+
+nC
+
+V
+
+ln
+
+)
+
+(TΔS
+°
+2
+
+dT
+P T
+Standard	entropy	of	the	reaction	ΔS°rxn	=	Συi*Sm°i	
+
+C
+∫ Δ+
+
+(TΔS
+°
+1
+
+=
+
+)	
+
+T
+2
+
+T
+1
+
+ΔS
+
+=
+
+nC
+
+ln
+
+P
+
+T
+f
+T
+i
+
+(isotherma
+
+l)
+
+(change
+
+(change
+
+ Tin 
+
+at 
+
+const 
+
+V)
+
+ Tin 
+
+at 
+
+const 
+
+P)
+
+∆𝑆 = 𝑛𝐶! ln
+
+∆𝑆 = 𝑛𝐶! ln
+
+𝑇!
+𝑇!
+
+𝑇!
+𝑇!
+
+− 𝑛𝑅 ln
+
++ 𝑛𝑅 ln
+
+𝑃!
+𝑃!
+
+𝑉!
+𝑉!
+
+!!/!!
+
+T!
+T!
+
+=
+
+V!
+V!
+
+!/!!
+
+T!
+T!
+
+=
+
+P!
+P!
+
+Page 10 of 11 
+
+ 
+ 
+  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+				
+ 
+ 
+ 
+ 
+					
+		
+					
+	
+ 
+         
+ 
+         
+         
+Name: _________________________________                Student No: ___________________________ 
+
+Page 11 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

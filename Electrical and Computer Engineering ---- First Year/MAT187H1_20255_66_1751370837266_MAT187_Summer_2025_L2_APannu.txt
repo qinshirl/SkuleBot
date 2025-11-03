@@ -1,0 +1,417 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 2
+
+Instructor: Arman Pannu
+
+We will start at 6:10, use this time to make a new friend
+
+ 
+Sin
+
+dx
+
+cost do
+
+coodo
+
+code
+
+sint
+
+arcsin x
+
+1
+→1
+
+↑
+
+x 2 dx
+
+´
+
+L
+
+L
+
+do
+
+arcSi
+
+Trigonometric Substitution
+identies
+
+following
+
+use
+
+s.no
+
+EEcoso1
+
+ton 0
+
+sec
+
+seco 1
+
+ton't
+
+iTseax
+
+cot x
+
+cscix
+
+use.IE5 E.Eg.Id
+
+x atent when
+
+use
+
+a tx
+
+in
+
+integrand
+
+fseixdx tencn.ec
+
+fcsc xdx
+sec x tan x dx
+
+cot x
+
+C
+
+sec x
+
+Jcsc x cos x dx
+
+CSC a
+
+C
+
+C
+
+→4
+
+x 2
+x 2 dx
+↑
+
+´
+
+V
+
+asinoldo
+
+2COS
+dx 2sin do
+
+arccos 2
+
+try using
+
+x 2sint
+
+get some
+answer
+
+ton
+
+sect
+
+1
+
+2 1 2sinodo
+Stan'Odo
+
+eco 1 do
+
+not good
+
+arccos 7 C
+
+C
+
+tan
+tan arccos1
+VII tacos 8 C
+
+to
+
+ta
+
+1
+
+1+x 2 dx
+
+´
+
+X 1ton
+dx secedo
+
+Eng secodo
+fs secedo
+fId
+
+C
+
+anG c
+
+X tone
+
+arcton x
+
+x 2
+x 2+9dx
+
+´
+
+X
+3tanodx
+
+3s.ec do
+
+ffEtEa3secodo
+
+ffq 3sec do
+ton d
+
+C
+
+3 an0
+X Zarcton B
+
+C
+
+tano Is
+
+f
+
+remainder
+
+1
+
+1 1 9
+
+x 2
+x 2+9dx
+
+´
+
+f1dxfadx
+x 5 ad
+F 3d
+
+3dg
+
+3arcton
+
+x 3arcton 3 C
+
+33dg
+
+Partial Fraction Decomposition
+
+Integral of
+
+a
+
+rational
+
+function
+
+polynomial
+
+long
+
+division
+
+Decompose
+
+ˢ
+
+HK
+
+E
+
+Q x P x
+
+are
+
+polynomials
+
+Rex is lower
+degree than P x
+
+Éa
+
+t.net
+
+x
+
+end
+
+T.it
+cnn.FI
+
+Ei cEie Eagn
+
+EEIs
+
+repeated quadratic
+also possible
+
+roots
+
+Ed
+
+x 3
+
+´
+
+3x 2+2x+2
+
+3x+2 dx
+
+↑
+x 2
+
+↑
+
+x2 3
+
+Ñ3 3 2 2T
+
+723726
+
+fxdx
+
+ftfadxf.ae
+
+es
+
+1 25 2dx
+
+fxdx 2
+12 2 2 In x 11 2in x21
+
+1 E
+
+A
+
+21
+
+(2x
+
+2
+x
+↑
+1)2(x
+
+↑
+
+1) dx
+
+↑
+
+´
+
+77
+
+at Ena
+
+I
+
+AMxy.fi
+
+B ucl
+
+A
+
+B2A
+
+4C 0
+
+ie
+
+2
+
+2
+
+dx 3
+
+tedx 1
+
+dx
+
+In 12 11 3 2
+
+In 1
+
+constant
+
+2x+1
+1)(x 2+1) dx
+
+↑
+
+(x
+
+´
+
+X 1
+
+is
+
+irreducible quadratic
+
+factors
+
+I
+
+n
+
+AE E
+E
+
+1113 2
+
+I
+
+dx
+
+f i
+
+an
+
+A
+13 312
+112
+
+In it
+
+32 x
+
+dx If
+
+dx
+
+0
+
+sub
+
+Frigsub areten
+
+In x il
+
+In1 411 tartan x
+
+C
+
+

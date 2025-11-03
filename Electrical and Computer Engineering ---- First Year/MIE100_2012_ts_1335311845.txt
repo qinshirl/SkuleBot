@@ -1,0 +1,147 @@
+MIE100S Dynamics – Spring 2012 
+
+Midterm Test – February 28, 2012 
+
+6:15pm – 7:45pm 
+
+General Instructions: 
+
+COVER PAGE 
+
+Answer all questions in the exam booklets provided. 
+
+ 
+  Write your full ROSI name, student # and TUTORIAL # on your exam booklet(s). 
+
+Number of Pages: 
+
+ 
+
+4 (including cover page) 
+
+Number of Questions: 
+
+ 
+
+3 questions 
+
+Permitted Aids: 
+
+  Approved non-communicating/non-programmable calculator 
+  One aid sheet, any colour 
+
+Page 1 of four pages 
+
+ 
+ 
+ 
+1.  A particle travels on a path described by y = sin(x-π), as shown. The speed of the particle 
+
+along the path is constant at 0.4 m/s.  
+
+(a)  Determine the velocity ((cid:1874)(cid:3377)(cid:4667) of the particle at A expressed in the rectangular coordinates 
+
+given. 
+
+(b) Determine the velocity ((cid:1874)(cid:3377)(cid:4667) of the particle at A in polar (r-θ) coordinates, centered at 
+
+point O indicated in the diagram. 
+
+(c)  Determine the acceleration ((cid:1853)(cid:3377)(cid:4667) of the particle at A in normal-tangential (n-t) coordinates. 
+
+x
+
+(cid:2871)/(cid:2870)
+(cid:3432)
+
+y
+
+y = sin(x - π)
+
+O
+
+x = π/2
+
+A
+
+(cid:3428)(cid:2869)(cid:2878)(cid:4672)
+
+(cid:3118)
+(cid:4673)
+
+(cid:3279)(cid:3300)
+(cid:3279)(cid:3299)
+(cid:3279)(cid:3118)(cid:3300)
+(cid:3279)(cid:3299)(cid:3118)(cid:3628)
+
+(cid:3628)
+
+An equation that you may find useful: 
+
+(cid:2025)(cid:4666)(cid:1876)(cid:4667) (cid:3404)
+
+Page 2 of four pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  A collar of mass 0.1 kg is free to slide on a frictionless rod in the horizontal plane as shown. 
+A spring is positioned to restrict the movement of the collar and has an un-stretched length 
+(lo) of 125 mm and a spring constant of k = 20 N/m. The rod is rotating at a constant angular 
+speed of 5 rad/s and r is constant.  
+
+(a)  Draw the free body diagram of the collar at the instant shown in the diagram. Indicate the 
+exact directions that the forces exert on m.  You may omit all forces that exert at right 
+angles to the plane of motion. 
+
+(b) Determine the radial distance, r (neglect the width of the collar). 
+
+Page 3 of four pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  A ball of mass mA = 2 kg, connected to a spring with an un-stretched length (lo) of 200 mm 
+and a spring constant of k = 100 N/m, falls from rest through a frictionless channel and 
+collides with a larger ball of mass mB = 5 kg, as shown. Ball A comes to rest immediately 
+after impact. 
+
+(a)  Find the speed of ball A as it exits the channel just before impact with ball B. 
+(b) Find the speed of ball B immediately after impact. 
+(c)  Find the maximum angle, θ, formed by ball B. 
+
+Page 4 of four pages 
+
+ 
+ 
+ 
+

@@ -1,0 +1,252 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+Quiz #1 February 14, 2017 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total 
+of 23 questions (20 multiple-choice and 3 short-answer questions), worth 41 marks. The 
+questions are divided between two booklets.  
+
+Question Booklet #2 – Short-Answer Question Booklet 
+
+First Name: 
+Last Name: 
+UTOR Email: 
+
+  @mail.utoronto.ca 
+
+There are 3 short-answer questions, worth 21 marks in total. These must be answered 
+in the spaces provided in this Short-Answer Question Booklet. This question booklet, 
+with your name and UTOR Email filled in, must be returned with the multiple-choice 
+answer sheet slipped inside. Do not separate any pages. Do not write on the QR code 
+at the top of the pages. We are not looking for long paragraph answers. Use short 
+sentences or bullet points. 
+
+All short-answer questions refer to the following client statement. 
+
+Client Statement #2 – Photovoltaic Cells 
+Performance of photovoltaic systems greatly degrade as dust and dirt adhere to the 
+panels. As a result, water based washing systems have been developed to clean 
+photovoltaic systems. Unfortunately, many locations which are suitable to photovoltaic 
+systems have limited water availability (sunny skies means no rain). Design a water 
+efficient method for keeping large photovoltaic power systems clean. 
+
+Page 1 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: Cleaning of 200 W Photovoltaic Panels by Brian 
+Kusler 
+(https://www.flickr.com/photos/briankusler/2447511232/in
+/photostream/) 
+
+1.  (7 MARKS) Give ONE primary function, TWO important objectives, and ONE 
+important constraint for Client Statement #2 – Photovoltaic Cells. Metrics are 
+required for the objectives and constraint, but you do not need to include goals or 
+limits.  
+
+PRIMARY FUNCTION: 
+
+OBJECTIVE 1: 
+
+   Metric: 
+
+OBJECTIVE 2: 
+
+   Metric: 
+
+Page 2 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONSTRAINT: 
+
+   Metric:  
+
+Page 3 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  (7 MARKS) While designing a solution for Client Statement #2 – Photovoltaic Cells, 
+
+you need to know the amount of water consumed washing panels at the 550 
+Megawatt (MW) Desert Sunlight Solar Farm in the Mojave Desert. If the panels are 
+washed twice a week in the traditional way, estimate the annual water consumption 
+for this task in Litres. Use reasonable assumptions based on your personal 
+knowledge and the information provided here. You don’t have to get an exact 
+answer, but you do have to compute a number and demonstrate structured 
+thinking.   
+
+Page 4 of 5 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+3.  (7 MARKS) Given Client Statement #2 – Photovoltaic Cells, provide a Functional 
+
+Decomposition of the cleaning device.  
+
+a. In your Functional Decomposition identify the Primary Function, three 
+subfunctions, and at least one viable solution for each subfunction.  
+
+b. Use these viable solutions to propose an overall solution. 
+
+Page 5 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

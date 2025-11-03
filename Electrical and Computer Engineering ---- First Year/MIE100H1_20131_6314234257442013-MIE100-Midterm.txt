@@ -1,0 +1,172 @@
+MIE 100S Dynamics – Winter 2013   
+
+Midterm Test 
+
+Friday March 1, 2013 
+
+MIE 100S Dynamics – Spring 2013 
+
+Midterm Test 
+
+Friday March 1, 2013         
+
+Start Time: 12:15 pm      Duration: 1 hr 40 min 
+
+COVER PAGE 
+
+General Instructions: 
+
+•  Answer all questions in the exam booklet(s) provided. 
+•  Write  your  full  ROSI  name,  Student  #,  and  Tutorial  #  on  each 
+
+exam booklet you use. 
+
+•  You may keep the test paper and your aid sheet. 
+
+Number of Pages: 
+
+•  4 (including cover page) 
+
+Number of Questions: 
+
+•  Three  (3) questions 
+
+Permitted Aids: 
+
+•  Approved non-communicating/non-programmable calculator 
+•  One (1) aid sheet - 8.5”x11”, double-sided, any colour 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE 100S Dynamics – Winter 2013   
+
+Midterm Test 
+
+Friday March 1, 2013 
+
+Question 1 [35 marks total] 
+
+The two sliders A (mA = 0.1 kg) and B (mB = 0.3 kg) move without friction in the 
+horizontal  plane  circular  slot.  They  are  linked  together  by  a  string  of  zero  mass.  
+Both masses are at rest when the force P is applied in the direction shown.  
+
+a)  Draw  a  free  body  diagram  of  mass  A  in  the  position  shown.  Include  all 
+forces, in the plane of motion, that act on A. Include a sketch of the relevant 
+normal and tangential co-ordinates. [5 Marks] 
+
+b)  Draw  a  free  body  diagram  of  mass  B  in  the  position  shown.  Include  all 
+forces, in the plane of motion, that act on B; include a sketch of the relevant 
+normal and tangential co-ordinates. What is the normal acceleration of B in 
+the position shown? [10 Marks] 
+
+c)  What is the tension in the string AB, in the position shown?  
+
+[10 Marks] 
+
+d)  What  is  the  total  acceleration  of  mass  B  in  the  position  shown?  Use  the 
+
+normal and tangential co-ordinates from b) for your final answer.  
+[10 Marks] 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE 100S Dynamics – Winter 2013   
+
+Midterm Test 
+
+Friday March 1, 2013 
+
+Question 2 [25 marks total] 
+
+g = 9.81 m/s2 
+
+y 
+
+x 
+
+A  very  small  sphere  of  mass  3  kg  is  carried  by  the  parallelogram  linkage,  where 
+each side of the parallelogram has length 500 mm. The relaxed length of the spring 
+is 400 mm. Ignore the mass of the link arms. At time t=0,  θ = 90o and the linkage 
+is rotating in the clockwise direction such that the sphere has a speed of 4 m/s. 
+
+a)  What is the potential energy of the spring at time t=0? [10 Marks] 
+
+b)  What  will  be  the  direction  of  travel  of  the  sphere  when θ    gets  extremely 
+close to 180o ? (Express your answers in terms of the given x-y coordinate 
+system.) [5 Marks] 
+
+c)  Find the speed of the sphere when θ gets extremely close to 180o.  
+
+    [10 Marks] 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+ 
+ 
+ 
+ 
+ 
+MIE 100S Dynamics – Winter 2013   
+
+Midterm Test 
+
+Friday March 1, 2013 
+
+Question 3 [40 marks total] 
+
+g = 9.81 m/s2 
+
+At time t=0, the velocity of cylinder A is 0.4 m/s down. (Neglect all friction) 
+
+a)  Draw a free body diagram of cylinder A and a free body diagram of cylinder 
+
+B. [10 Marks] 
+
+b)  What is the velocity of cylinder B at t=0 ? [10 Marks] 
+
+c)  What is the acceleration of cylinder A at t=2 s and the acceleration of 
+
+cylinder B at t=2 s ? [10 Marks] 
+
+d)  Find the velocity of cylinder B at time t=2 s. [10 Marks] 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

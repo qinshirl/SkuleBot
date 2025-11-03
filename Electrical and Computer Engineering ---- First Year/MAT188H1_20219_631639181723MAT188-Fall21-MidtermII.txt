@@ -1,0 +1,1148 @@
+—
+
+University of Toronto
+Faculty of Applied Science & Engineering
+
+MAT188 – Midterm II, Fall 2021
+Course Coordinator: Camelia Karimianpour
+Instructors: Shai Cohen, Lennart D¨oppenschmitt, Melissa Greeﬀ, Camelia Karimianpour,
+Dinushi Munasinghe, Vardan Papyan, Caelan Wang
+
+Solutions
+
+Question Points Score
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Total:
+
+12
+
+15
+
+18
+
+21
+
+14
+
+80
+
+MAT188
+
+Solutions
+
+Midterm II
+
+1.
+
+(a) (8 points) Clearly circle all correct answers. There might be more than one correct
+answer. Choosing an incorrect answer may negatively aﬀect your mark. You don’t
+need to show your work.
+
+1. The determinant of
+
+
+
+
+
+
+
+1 0 0 0
+0 0 1 0
+0 1 0 0
+0 0 0 1
+
+
+
+
+
+
+
+is
+
+(i) −1
+
+(ii) 0
+
+(iii) 1
+
+(iv) −4
+
+(v) none of above
+
+Solution: (i)
+
+2. Assume A(cid:126)x = (cid:126)0 has a unique solution, where A is an n × p matrix. Choose all
+
+the phrases that are true.
+
+(i) The linear transformation T deﬁned by T ((cid:126)x) = A(cid:126)x is one to one (injective).
+(ii) The columns of A span Rp.
+(iii) A(cid:126)x = (cid:126)b has a solution for every (cid:126)b in Rp.
+(iv) There is at least one redundant vector among the columns of A.
+(v) The linear transformation T deﬁned by T ((cid:126)x) = A(cid:126)x is onto.
+(vi) If A(cid:126)x = (cid:126)b is consistent then it has a unique solution.
+(vii) The columns of A are linearly independent.
+(viii) n ≥ p.
+
+Solution: (i), (vi),(vii),(viii)
+
+MAT188
+
+Solutions
+
+Midterm
+
+3. Suppose T : R3 → R2 is a linear transformation such that T ((cid:126)v) = (cid:126)e1 and
+
+T ((cid:126)u) = 3(cid:126)e2. T (5(cid:126)u − 2(cid:126)v) is
+
+(i)
+
+(cid:21)
+
+(cid:20) −2
+151
+
+(ii)
+
+(cid:21)
+(cid:20)−2
+15
+
+(iii)
+
+(cid:21)
+
+(cid:20) 5
+−2
+
+(iv) not enough information
+
+Solution:
+
+(cid:21)
+(cid:20)−2
+15
+
+(b) (4 points) Match the following linear transformations in R2 with their associated
+
+matrix.
+
+I: Reﬂection about the line y = x.
+
+II: Reﬂection about the x-axis.
+
+III: Orthogonal projection onto the line
+y = x.
+
+IV: Counterclockwise rotation by π
+ans.
+
+4 radi-
+
+A =
+
+B =
+
+C =
+
+D =
+
+Solution: I-D, II-A, III-B, IV-C
+
+(cid:21)
+
+(cid:21)
+
+√
+√
+
+(cid:20)1
+0
+0 −1
+(cid:20)√
+√
+(cid:20)√
+√
+
+2/2
+2/2
+
+2/2
+2/2
+√
+2/2 −
+√
+2/2
+(cid:21)
+(cid:20)0 1
+1 0
+
+(cid:21)
+
+2/2
+2/2
+
+MAT188
+
+Solutions
+
+Midterm
+
+2. For each part write your ﬁnal answer in the provided box. You may use the blank area
+
+under each question to show your work. No justiﬁcation is required.
+
+
+(a) (3 points) Give an example of a vector in R3 that is in Span{
+
+Solution: take
+
+
+
+
+
+
+
+
+
+1
+2
+−1
+
+1
+2
+−1
+
+
+
+
+
+
+
+ ,
+
+
+
+
+
+}.
+
+0
+−1
+−1
+
+any other linear combination of the give vectors work.
+
+(b) (3 points) Give an explicit example of the standard matrix of a linear transforma-
+
+tion that is onto but not one to one.
+
+Solution: Take
+
+(cid:21)
+(cid:20)1 0 0
+0 1 0
+
+any matrix whose RREF has a free column work.
+
+MAT188
+
+Solutions
+
+Midterm
+
+be the standard matrix of an orthogonal linear trans-
+
+(c) (3 points) Let A =
+
+(cid:21)
+
+(cid:20)a b
+c d
+
+formation. Find A−1.
+
+Solution: AT =
+
+(cid:21)
+
+(cid:20)a c
+b d
+
+(d) (3 points) Let C =
+
+
+
+
+
+|
+
+|
+
+|
+|
+(cid:126)v1 (cid:126)v2 (cid:126)v3 (cid:126)v4
+|
+|
+
+|
+
+|
+
+
+
+. It is given that REF(C) =
+
+
+
+
+
+1 4 0 3
+0 1 2 0
+0 0 0 2
+
+
+
+ .
+
+Give a non-trivial linear relation among (cid:126)v1, (cid:126)v2, (cid:126)v3, (cid:126)v4 or explain why that is not
+possible.
+
+Solution:
+For example
+
+(cid:126)v3 = −8(cid:126)v1 + 2(cid:126)v2
+
+Any nontrivial solution to C(cid:126)x = (cid:126)0 gives a valid nontrivial linear relation among
+(cid:126)vi’s.
+
+MAT188
+
+Solutions
+
+Midterm
+
+(e) (3 points) Let B = {
+
+
+
+
+
+1
+−1
+1
+
+
+
+
+
+ ,
+
+
+
+
+
+ ,
+
+−1
+0
+1
+
+
+
+1
+} be a basis for R3. Apply Gram-Schmidt
+1
+
+2
+
+to B to ﬁnd an orthonormal basis for R3.
+
+Solution: Let (cid:126)b1 =
+
+
+ ,(cid:126)b2 =
+
+
+
+
+
+1
+−1
+1
+
+
+ ,(cid:126)b3 =
+
+
+
+
+
+−1
+0
+1
+
+
+
+1
+. Note that (cid:126)b2 is already
+1
+
+2
+
+
+
+
+
+5
+6
+5
+3
+5
+6
+
+.
+
+orthogonal to (cid:126)b1. Take (cid:126)u1 = (cid:126)b1
+(cid:107)(cid:126)b1(cid:107)
+
+and (cid:126)u2 = (cid:126)b2
+(cid:107)(cid:126)b2(cid:107)
+
+, (cid:126)b⊥ = (cid:126)b3 − proj((cid:126)u1,(cid:126)u2)
+
+(cid:126)b3 =
+
+
+
+Hence
+
+
+
+
+
+
+(cid:126)u1 =
+
+√
+
+3
+3
+√
+
+3
+
+−
+3√
+3
+3
+
+
+
+
+ , (cid:126)u2 =
+
+
+
+
+
+√
+
+−
+
+
+
+2
+
+ , (cid:126)u3 =
+
+2
+0
+√
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+√
+
+6
+6√
+6
+3√
+6
+6
+
+MAT188
+
+Solutions
+
+Midterm
+
+3. True or false? Clearly state “True” or “False” in the provided box. Justify you answer
+in the blank space under each question. You justiﬁcation may be a numerical computa-
+tion, a mathematical reasoning (proof) or a counter example.
+
+(a) (3 points) The matrix
+
+5
+
+7
+
+
+3
+2
+6 10 14 4
+
+
+3
+4
+
+3
+2
+
+5
+7
+
+8
+9
+
+
+
+
+
+
+
+is invertible.
+
+Solution: False. Let’s call this matrix A. Note that the ﬁrst two rows of A
+are multiple of each other. Hence columns of AT are not linearly independent,
+which implies det(AT ) = det(A) = 0. Hence A is not invertible.
+
+(b) (3 points) Let A be an orthogonal matrix. Consider its QR factorization, that is
+
+QR = A. The matrix R is an identity.
+
+Solution: True.
+If A is orthogonal, columns of A are orthonormal. Hence,
+applying Gram-Schmidt to it result on the same vectors. That is Q = A, which
+implies R is identity.
+
+MAT188
+
+Solutions
+
+Midterm
+
+(c) (3 points) Suppose A is an invertible matrix, then (ABA−1)4 = B4.
+
+(ABA−1)4 = (ABA−1)(ABA−1)(ABA−1)(ABA−1) =
+Solution: False,
+(AB(A−1A)B(A−1A)B(A−1A)BA−1) = (ABIBIBIBA−1) = AB4A−1 Take A
+any non-identity invertible matrix and any B for counter example.
+
+(d) (3 points) The image of the linear transformation
+
+
+
+
+
+
+
+
+T : R3 → R2, T
+
+
+
+
+
+
+
+ =
+
+(cid:20) 3x1 − 2x2 + 5x3
+−6x1 + 4x2 − 10x3
+
+(cid:21)
+
+is 2-dimensional.
+
+x1
+x2
+x3
+
+Solution: False. Consider the standard matrix A of this linear transformation
+
+(cid:20) 3 −2
+−6
+
+(cid:21)
+
+5
+
+(cid:21)
+
+(cid:20)3 −2 5
+0
+0
+0
+
+∼
+
+4 −10
+
+There is only one pivot among the columns of RREF (A). Hence dimension of
+the kernel of T is 1.
+
+MAT188
+
+Solutions
+
+Midterm
+
+(e) (3 points) Let A be an n × n matrix. If ker A = im A then A2(cid:126)x = (cid:126)0 for all (cid:126)x in Rn.
+
+Solution: True. A2(cid:126)x = A(A(cid:126)x). Now A(cid:126)x is in im A = ker A. Hence A(A(cid:126)x) = (cid:126)0
+
+(f) (3 points) Let S be the set of all solutions to 2x + y − z = 0 except for
+
+a subspace of R3.
+
+
+
+1
+0
+. S is
+
+2
+
+Solution: False. S is not closed under scalar multiplication. Consider (cid:126)v =
+
+
+2
+ ∈ S and r = 1
+0
+
+4
+
+2 ∈ R. r(cid:126)v is not in S.
+
+MAT188
+
+Solutions
+
+Midterm
+
+4. Consider the linear transformation T ((cid:126)x) = A(cid:126)x, where A =
+
+(a) (6 points) Find a basis for ker(T ). Show your work.
+
+
+
+
+
+3
+−2 2 4
+0
+
+0 6 −9
+0
+1 4 −3
+
+
+
+.
+
+Solution:
+
+Hence
+
+
+
+
+
+A =
+
+3
+−2 2 4
+0
+
+0 6 −9
+0
+1 4 −3
+
+
+
+
+
+ ∼
+
+
+
+1 0 2 −3
+0 1 4 −3
+0
+0 0 0
+
+
+
+
+
+ker(T ) = {
+
+
+
+
+
+
+
+−2x3 + 3x4
+−4x3 + 3x4
+x3
+x4
+
+
+
+
+
+
+
+, x3, x4 are free} = span(
+
+
+
+
+
+
+
+
+
+
+
+
+
+−2
+−4
+1
+0
+
+
+
+
+
+
+
+
+3
+3
+
+)
+
+0
+
+1
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+−2
+−4
+1
+0
+
+
+
+3
+3
+
+
+
+
+0
+
+
+1
+
+) are linearly independent and hence make a basis for
+
+,
+
+The vectors
+
+ker T .
+
+(b) (5 points) What is the dimension of im(T )? Justify.
+
+Solution: We found a basis for kernel of T made of two vectors. Hence dimen-
+sion of the kernel of T is 2. By rank nullity dim imT = 4−dim ker T = 4−2 = 2.
+Alternatively we can see that exactly two columns of RREF (A) have pivots.
+Hence exactly two columns of A are linearly independent. Those columns make
+a basis for imT .
+
+MAT188
+
+Solutions
+
+Midterm
+
+(c) (5 points) Using B to denote the basis you found in (a), can we ﬁnd the B-coordinates
+
+? If yes, ﬁnd it and show your work. If not, explain why.
+
+of x =
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+−7
+4
+3
+
+Solution:
+First note that A(cid:126)x = (cid:126)0. That is (cid:126)x ∈ ker T and we can write is as a linear
+
+
+
+
+
+
+
+
+
+
+
+
+
+−2
+−4
+1
+0
+
+
+
+3
+3
+
+
+
+
+0
+
+
+1
+
+,
+
+). We solve
+
+combination of any basis for the kernel of A. Let B = (
+
+
+
+
+
+
+
+for r1
+
+
+
+
+
+
+
+−2
+−4
+1
+0
+
++ r2
+
+
+
+3
+3
+
+
+
+
+0
+
+
+1
+
+=
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+1
+−7
+4
+3
+
+
+1
+−2 3
+−4 3 −7
+4
+0
+1
+3
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 0 4
+0 1 3
+0 0 0
+0 0 0
+
+∼
+
+Hence [(cid:126)x]B =
+
+(cid:20)4
+(cid:21)
+3
+
+.
+
+(d) (5 points) Suppose a vector (cid:126)v in R4 satisﬁes [(cid:126)v]B =
+
+(cid:21)
+(cid:20)−2
+. Find [(cid:126)x + (cid:126)v]B.
+1
+
+Solution: Note that change of coordinate is a linear transformation:
+(cid:21)
+(cid:20)−2
+1
+
+[(cid:126)x + (cid:126)v]B = [(cid:126)x]B + [(cid:126)v]B =
+
+(cid:21)
+(cid:20)4
+3
+
+(cid:21)
+(cid:20)2
+4
+
+=
+
++
+
+MAT188
+
+Solutions
+
+Midterm
+
+5. Let a ∈ R and let A =
+
+
+
+
+
+
+
+
+
+0 1 −a 0
+2 a −1 0
+
+.
+
+0
+1 1
+
+1
+a 4
+
+1
+π
+
+(a) (5 points) For what values of a is the matrix A invertible?
+
+Solution: Computing the determinant using a Laplace expansion along the last
+
+column, we have det A = det
+
+ . Computing this determinant using
+
+
+
+
+
+
+
+0 1 −a
+2 a −1
+1
+1 1
+
+a Laplace expansion along the ﬁrst row, we get:
+
+(−1)(3) − a(2 − a) = a2 − 2a − 3 = (a − 3)(a + 1).
+
+This is zero if and only if a = −1 or 3. So the matrix A is invertible if a (cid:54)= −1, 3.
+
+(b) (4 points) Suppose the number a is chosen so that A is invertible, and let B =
+{(cid:126)b1,(cid:126)b2,(cid:126)b3,(cid:126)b4} and C = {(cid:126)c1, (cid:126)c2, (cid:126)c3, (cid:126)c4} be bases of a vector space V so that the matrix
+A is the change-of-basis matrix SB→C from B to C. Find the C-coordinate of (cid:126)b3.
+
+Solution:
+
+A = SB→C =
+
+(cid:104)
+[(cid:126)b1]C
+
+[(cid:126)b2]C
+
+[(cid:126)b3]C
+
+[(cid:126)b4]C
+
+(cid:105)
+, that is [(cid:126)b3]C =
+
+
+
+
+
+
+
+
+
+
+
+
+
+−a
+−1
+1
+π
+
+(c) (5 points) Explain why B and C must have a vector in common.
+
+Solution: SB→C =
+This means that
+
+(cid:104)
+
+[(cid:126)b1]C
+
+[(cid:126)b2]C
+
+[(cid:126)b3]C
+
+[(cid:126)b4]C
+
+(cid:105)
+
+. So if SB→C = A, then [(cid:126)b4]C = (cid:126)e4.
+
+(cid:126)b4 = 0(cid:126)c1 + 0(cid:126)c2 + 0(cid:126)c3 + 1(cid:126)c4,
+
+so (cid:126)b4 = (cid:126)c4 and thus B ∩ C (cid:54)= ∅.
+
+MAT188
+
+Solutions
+
+Blank page
+
+Midterm
+
+MAT188
+
+Solutions
+
+Blank page
+
+Midterm
+
+MAT188
+
+Solutions
+
+Blank page
+
+Midterm
+
+

@@ -1,0 +1,565 @@
+Welcome to 
+APS104S – Introduction to Materials & 
+Chemistry 
+
+Lecture 3 
+January 8, 2016 
+
+Instructor: Gisele Azimi 
+
+Subjects we will study today 
+
+•  Atomic and ionic radii 
+•  Bond formation 
+•  Primary interatomic bonding 
+•  Secondary bonding 
+
+Atomic and ionic radii 
+
+Atomic Radii 
+
+Atomic radius is half the 
+distance between the nuclei 
+of two identical atoms when 
+they are bonded together. 
+
+A comparison of atomic and ionic sizes 
+
+In general all cations are 
+smaller than their parent atoms. 
+
+In general all anions are larger 
+than their parent atoms. 
+
+Periodic trend in atomic radii 
+
+Because it is impossible to measure the sizes of both metallic and 
+nonmetallic elements using any one method, chemists have developed 
+a self-consistent way of calculating atomic radii using the quantum 
+mechanical functions. These values provide a way to compare the 
+intrinsic sizes of all elements. 
+
+decreasing 
+
+Because in a row, 
+the number of shell 
+is constant, but the 
+numbers of protons 
+is increasing from 
+left to right ! the 
+effective nuclear 
+charge (Zeff) 
+increases and the 
+outer most electrons 
+are more attracted to 
+the nucleus ! 
+smaller atomic radii 
+
+Because the 
+number of shell 
+are increasing 
+
+Averill	  &	  Eldredge	  book	  
+
+Bond formation 
+
+Bond formation 
+
+attractive 
+forces 
+
+= 
+
+repulsive  
+forces 
+
+bond formation 
+
+If the atoms are too far apart, attraction are weak and no bonding 
+occurs. 
+If the atoms are too close, strong repulsions occur.  
+When atoms are optimally separated, net force is zero, and the 
+energy is at a minimum ! that’s when bond forms. 
+
+Generic bonding curve 
+
+•  At r0, the ions are more stable (have a lower potential energy) than they are at an 
+infinite internuclear distance. When oppositely charged ions are brought together 
+from r = ∞ to r = r0, the energy of the system is lowered (energy is released). 
+
+Primary interatomic bonding 
+(between atoms) 
+
+Primary interatomic bonds 
+
+1 - Ionic bonds – between metals and non-metals – the 
+metal gives up its valence electron (cation) & the non-metal 
+receives the electron (anion) – columbic interaction 
+between positive and negative ions 
+
+Ionic bonds are non-directional – anions and cations pack 
+closely together in mineral structures.  
+
+ 
+Ionic bonds 
+
+Properties (nature of ionic bonding in solids): 
+-   Exchange of electron between the metal and non-metal 
+-  Bonding energy high ! high melting T 
+-  Hard 
+-  Brittle 
+-  Electrically and thermally insulative (no free electrons) 
+
+electrosta)c	  
+a+rac)on	  
+
+high	  mel(ng	  points	  
+
+low	  electrical	  conduc(vity	  
+
+in	  solid	  state,	  bri8le,	  hard	  
+
+Ionic bonds 
+
+Usually between metals from column IA and IIA and non metals from VIA and VIIA 
+Examples: KCl, LiCl, LiBr, NaBr, BaS, CaO, CaF2, Na2S,CsF, MgS, … 
+
+h0p://www.ptable.com	  
+
+Primary interatomic bonds 
+
+2 - Covalent bonds – due to sharing of valence 
+electrons (usually between non metals) 
+
+Cl2, H2, F2, N2 
+CH4, H2O, HNO3 
+Diamond 
+SiC 
+Most polymers (along carbon 
+chains) 
+
+These materials can be very hard (like diamond) 
+and can have very high melting T 
+They can also be weak and have low melting T 
+
+Polar covalent bonds: electronegativity 
+
+ELECTRONEGATIVITY: The ability of an atom in a molecule to attract 
+the shared electrons in a covalent bond. 
+
+Electropositive elements: 
+Readily give up electrons 
+to become + ions.	  
+
+Electronegative elements: 
+Readily acquire electrons 
+to become - ions.	  
+
+Cl2	  
+
+NaCl	  
+
+Primary interatomic bonds 
+
+3 - Metallic bonds – consists of metal cores (net 
+positive charge) in a sea of free electrons – this 
+bond is non-directional 
+
+Properties (nature of metallic bonding 
+in solids): 
+-  Electrically and thermally conductive 
+
+(because of free electrons) 
+
+-  They exists between all metals in the 
+
+P-table 
+
+-  Ductile (can deform significantly 
+
+before fracturing (but ionic bonds are 
+brittle)) 
+
+Summary: 
+Primary interatomic bonding 
+(between atoms) 
+
+Ionic (electrostatic between cation & anion) 
+1. 
+2.  Covalent (electron sharing, stable electronic 
+
+structure) 
+
+3.  Metallic (positively charged ions, shielded 
+
+from each other, kept together by a sea of e-) 
+
+Secondary bonding 
+(between molecules) 
+
+Secondary bonding 
+
+1.  Van der Waals bonds: Fluctuating induced dipole 
+
+bonds – an electrically symmetric molecule (non-polar) 
+may loose its symmetry instantaneously and becomes 
+dipole and induces this to its neighbor – then there will 
+be attraction between these molecules (like noble 
+gases, Cl2, H2) 
+ Melting T and boiling T are very low; the weakest type of 
+
+bonding 
+
+Secondary bonding 
+
+2. Polar molecules – dipole bonds – between molecules 
+that are polar (have negative and positive poles due to 
+electronegativity difference) 
+Polar molecules consist of atoms with different 
+electronegativity like HCl, H2S, SO2  
+
+Polar molecules 
+
+dipole bonds 
+
+H 
+
+Cl 
+
+H 
+
+Cl 
+
++ 
+
+- 
+
+dipole bonds 
+
++ 
+
+- 
+
+ 
+  
+Secondary bonding 
+
+3. Hydrogen bonding– between molecules in which 
+hydrogen is bonded with F, O, or N (H – F) (H – O) (H – N) 
+(Example: HF, H2O, NH3) 
+Hydrogen is highly positively charged in these molecules 
+and it can accept an electron pair from the negative end of 
+an adjacent molecule ! each proton is like a bridge 
+between two negatively charged atoms. 
+
+  
+Summary: 
+Secondary bonding 
+(between molecules) 
+
+1.  Van der Waals bonds (Fluctuating 
+
+induced dipole bonds) (weakest) 
+
+2.  Dipole bonds (between polar molecules) 
+
+(intermediate) 
+
+3.  Hydrogen bonds (strongest) 
+
+Various types of solids 
+
+KCl,	  NaI	  
+
+Diamond,	  SiO2	  
+
+Au,	  Fe,	  Ba,	  …	  
+
+HF,	  H2O,	  NH3	  
+
+O2,	  Noble	  gases	  
+
+dipole	  bonds	  
+
+HCl,	  CO2	  	  
+
+Hydrogen	  bonding	  
+
+Van	  der	  Waals	  bonds	  
+
+Strength of the bonds 
+
+• 
+
+If you make covalent solids (atoms with covalent bonds 
+between them, like diamond, SiO2); they form a “solid 
+network” and they have the highest melting point. 
+
+•  After that, we have ionic solids, and then metallic solids. 
+Sometimes metallic solids has higher melting point, it is 
+case by case. 
+
+•  Then we have secondary bonding; hydrogen bonding is 
+
+the highest, then dipole bonding (between polar 
+molecules), and then van der Waals bonds (between non 
+polar molecules). They all make molecular solids. 
+
+•  Network solids > “ionic solids > metallic solids” > 
+
+“hydrogen bonds > dipole > van der Waals” 
+
+Case by case 
+
+Molecular solids 
+
+Example 
+
+Indicate what type of solid (ionic, network, metallic, or 
+molecular) each of the following forms on solidification: 
+
+(a) Br2    (b) KBr  (c) Ba (d) SiO2 (e) CO2 
+
+A.  molecular 
+
+B.  ionic 
+
+C.  metallic 
+
+D.  network 
+
+E.  molecular 
+
+  
+Example: compare melting points of 
+following compounds 
+
+HF, HCl, NaCl, diamond, SiO2, CH3OH, CH4  
+Answer: 
+
+Diamond > SiO2 > NaCl > HF > CH3OH > HCl > 
+CH4 
+
+ 
+ 
+Example: type of bonding in the following 
+materials 
+
+metallic 
+
+Metallic solid 
+
+ionic 
+
+•  Brass (Copper-zinc alloy) 
+•  BaS 
+•  Xenon 
+•  HF 
+
+Van der Waals 
+
+Ionic solid 
+
+Hydrogen bonding between molecules, 
+(covalent between atoms) 
+
+•  HCl 
+
+Dipole-dipole between molecules, 
+(covalent between atoms) 
+
+Molecular 
+solids 
+
+•  F2 
+
+Van der Waals between molecules, 
+(covalent between atoms) 
+
+ 
+Properties of the Major Classes of Solids 
+
+Network solids 
+
+The general order of increasing strength of interactions in a solid is molecular 
+solids < ionic solids ≈ metallic solids < network solids. 
+
+ Comparison of bond types and typical properties 
+(general trends) 
+Typical	  	  
+Solids	  	  	  
+
+Typical	  Proper(es	  	  	  
+
+Density	  	  	  
+(g	  cm	  -­‐	  3	  )	  	  	  
+
+Bond	  	  	  
+Energy	  	  	  
+eV/atom	  	  	  
+3.2	  	  	  
+10	  	  	  
+
+Melt.	  	  
+Temp.	  	  	  
+(°C)	  	  	  
+801	  	  	  
+2852	  	  	  
+
+Elas(c	  	  
+Modulus	  	  	  
+(GPa)	  	  	  
+40	  	  	  
+250	  	  	  
+
+3.1	  	  	  
+1.1	  	  	  
+
+4	  	  	  
+7.4	  	  	  
+
+1083	  	  	  
+650	  	  	  
+
+1410	  	  	  
+3550	  	  	  
+
+120	  	  	  
+44	  	  	  
+
+190	  	  	  
+827	  	  	  
+
+2.17	  	  	  
+3.58	  	  	  
+
+8.96	  	  	  
+1.74	  	  	  
+
+2.33	  	  	  
+3.52	  	  	  
+
+Ionic	  	  	  
+
+Metallic	  	  	  
+
+Covalent	  	  	  
+
+NaCl,	  	  	  
+(rock	  salt)	  	  	  
+MgO,	  	  
+(magnesia)	  	  	  
+C	  u	  	  	  
+Mg	  	  	  
+
+Si	  	  	  
+C	  	  
+(diamond)	  	  	  
+
+Generally	  electrical	  insulators.	  May	  become	  	  	  	  	  	  	  	  	  	  	  	  
+conducNve	  at	  high	  temperatures.	  	  	  
+High	  elasNc	  modulus.	  Hard	  and	  bri0le	  but	  	  
+cleavable.	  	  	  	  
+Thermal	  conducNvity	  less	  than	  metals.	  	  	  
+Electrical	  conductor.	  	  	  
+Good	  thermal	  conducNon.	  	  	  
+High	  elasNc	  modulus.	  	  	  
+Generally	  ducNle.	  Can	  be	  shaped.	  	  	  
+Large	  elasNc	  modulus.	  Hard	  and	  bri0le.	  Dia	  mond	  is	  	  
+the	  hardest	  material.	  	  	  
+Good	  electrical	  insulator.	  	  	  
+Moderate	  thermal	  conducNon,	  though	  diamond	  has	  	  
+excepNonally	  high	  thermal	  conducNvity.	  	  	  
+Low	  elasNc	  modulus.	  	  Some	  ducNlity.	  	  	  
+Electrical	  insulator.	  	  	  	  
+Poor	  thermal	  conducNvity.	  	  	  
+Large	  thermal	  expansion	  coeﬃcient.	  	  	  
+
+4	  	  	  
+9.1	  	  	  
+
+212	  	  	  
+0	  	  	  
+
+-­‐	  	  	  
+0.52	  	  	  
+
+1.3	  	  	  
+0.917	  	  	  
+
+PVC,	  	  
+(polymer)	  	  	  
+H	  2	  O,	  (ice)	  	  	  
+
+van	  der	  	  
+Waals:	  	  
+Hydrogen	  
+	  	  bonding	  
+van	  der	  	  
+Waals:	  	  	  
+Induced	  	  
+dipole	  	  	  
+From	  	  Principles	  of	  Electronic	  Materials	  and	  Devices,	  Second	  Edi6on	  ,	  S.O.	  	  Kasap	  (©	  McGraw	  
+h0p://Materials.Usask.Ca	  	  	  	  
+
+Crystalline	  
+	  Argon	   	  	  
+
+0.09	  	  	  
+
+-	  189	  	  	  
+
+Low	  elasNc	  modulus.	  	  	  
+Electrical	  insulator.	  	  	  	  
+Poor	  thermal	  conducNvity.	  	  	  
+Large	  thermal	  expansion	  coeﬃcient.	  	  	  
+
+Hill,	  2002)	  
+
+1.8	  	  	  
+
+8	  	  	  
+
+-­‐	  
+
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+	  	  
+

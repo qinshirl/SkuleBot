@@ -1,0 +1,428 @@
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+
+Quiz #1 February 13, 2015 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total 
+of 22 questions, worth 30 marks.  
+
+There are 18 multiple-choice questions, worth 1 mark each.  For multiple-choice 
+questions, you must use the multiple-choice answer sheet provided. Fill in your name 
+and student number correctly. Follow the directions on the sheet carefully to ensure that 
+you receive marks for the correct answer.  You should mark only the single, most 
+correct answer for each question.  Always mark the answer in the spot corresponding 
+to the question number. There is no penalty for wrong answers. 
+
+There are 4 short-answer questions, worth 12 marks. These must be answered in the 
+spaces provided on the question paper. The question paper, with your name and student 
+number filled in, must be returned with the multiple-choice answer sheet slipped inside. 
+Do not separate any pages. 
+
+Short-Answer Mark Breakdown 
+
+Question 
+19 
+20 
+21 
+22 
+Total 
+
+Possible Marks 
+3 
+2 
+3 
+4 
+12 
+
+Marks 
+
+Page 1 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+MULTIPLE-CHOICE QUESTIONS 
+
+1. In project management, a milestone is 
+a.  A task with a definite end point 
+b.  The conclusion of a project 
+c.  A specific point in a project 
+d.  A time when an external review is required 
+
+2. From a project management point of view, which of the following is a well-defined 
+task? 
+
+a.  Designing stop-watch app for a smartphone 
+b.  Researching existing stop-watch apps 
+c.  Determine the optimum human user interface for a stop-watch app 
+d.  Convincing my supervisor of the merits of my idea for a smart-watch app 
+e.  Writing the code and testing the functionality of a stop-watch app 
+
+3. We learned in the lectures that some of the reasons projects fail are: 
+
+1: Lack of planning. 2: Incomplete requirements. 3: Technology. 4: Lack of 
+management 
+
+The order of most important to least important reason for failure is 
+a.  1, 2, 3, 4 
+b.  2, 3, 4, 1 
+c.  4, 2, 3, 1 
+d.  2, 1, 4, 3 
+e.  3, 1, 2, 4 
+
+4. Levelling in project management software is used to 
+
+a.  Make sure all human resources are treated fairly where possible 
+b.  Spread costs over the project to prevent periods of very high expenditure 
+c.  Prevent over-allocation of resources 
+d.  Maximize resource effectiveness (cost / time required) 
+e.  Find underutilized or unused resources in a specific time period 
+
+5. Which of the following is needed in order to construct a critical path of a project? 
+
+a.  A list of all activities required to complete the project (typically categorized within 
+
+a work breakdown structure) 
+
+b.  The time (duration) that each activity will take to complete 
+c.  The dependencies between activities 
+d.  All items are needed  
+
+6. Open questions 
+
+a.  Are used to determine specific details 
+b.  Are used to end conversations 
+c.  Are used to avoid asking a lot of questions 
+d.  Are used to get a lot of details from the client 
+
+Page 2 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+7. Bias 
+
+a.  never exists in scientific and engineering writing 
+b.  invalidates information and makes it unusable 
+c.  has to be taken into account when using information 
+d.  can be overcome to make you “bias-free” 
+
+8. Service environment provides 
+
+a.  one of many points of view covered in a project requirements 
+b.  a bird’s eye view of the characteristics of a solution - e.g. waterproof 
+c.  a bias that has to be counterbalanced in determining solutions 
+d.  the “gap” that the proposed design is intended to fill 
+
+9. A complete claim 
+
+a.  has to have five paragraphs 
+b.  always has internal citations and a reference list 
+c. 
+d.  has a statement, explanation and evidence 
+
+is never used in engineering writing 
+
+10. An Executive Summary is 
+
+a.  a detailed introduction to your document 
+b.  a stand-alone document sent with the document 
+c.  written before the document, so it supplies an outline 
+d.  required to have references and a separate reference list 
+
+11. A client statement 
+
+a.  defines the functional basis of the project 
+b.  forms the “contract” between the client and the design team 
+c.  may contain bias and implied solutions  
+d.  creates scope creep partway through a project 
+
+12. Prior art is: 
+
+a.  the sum total of all information relevant to the design challenge at hand 
+b.  all patented designs for which the patent has run out 
+c.  any art, literature or technology from ancient history 
+d.  the functions, objectives and constraints of your project, before revision 
+
+<<Questions continue on next page>> 
+
+Page 3 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+Questions 13-15 are based on the following Case Study.  
+
+Client: Zippy Zappy Online Marketeria 
+Client statement: Speed and variety are our trademark but current delivery services take 
+too much time. We would like to speed up our delivery through the use of remote control 
+operated drones.  We want to be able to deliver, in three hours, what currently takes 
+three days. We want these to be cost efficient, saving us money in the long run, over 
+current conventional delivery systems. We want this system to be operable anywhere in 
+the world. 
+
+13. The functional basis for this design would be 
+
+a.  transport packages  
+b.  transmit information 
+c.  convey mass 
+d.  transform mass 
+
+14. This client statement has 
+
+a.  unintentional bias 
+b.  an implied solution 
+c.  a reasonable scope 
+d.  a complete claim 
+
+15. In your design document, you have identified the US Federal Aviation Administration 
+as a stakeholder. Its interest is: 
+
+a.  safe drones 
+b.  public safety 
+c.  safe aviation 
+d.  safe urban areas 
+
+<<End of questions pertaining to the case study>> 
+
+<<Other questions continue on next page>> 
+
+Page 4 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+16. The Occupational Health and Safety Act in Ontario provides workers with some 
+fundamental rights.  Which of the following rights does it NOT provide: 
+
+a.  The right to know the risks associated with work.  
+b.  The right to refuse unsafe work.  
+c.  The right to sue the employer in the case of an accident. 
+d.  The right to participate in health and safety management. 
+
+17.  In designing a new automated method of packaging potatoes in five kilogram bags, 
+
+an experienced design engineer should: 
+
+a.  Strive for simplicity in the basic concept of the design. 
+b.  Strive for simplicity in the final implementation of the design. 
+c.  Attempt to mimic the manual methods as closely as possible. 
+d.  Avoid researching existing solutions until after sufficient brainstorming. 
+
+18.  As an engineer takes on greater leadership in their organization and the world, 
+a.  she or he has to communicate with fewer and fewer people 
+b.  she or he has someone else to write their communication for them 
+c.  she or he has to communicate with other researchers, manufacturers, 
+
+and governments 
+
+d.  she or he gets funding automatically, without having to communicate at all 
+
+<<End of multiple-choice questions>> 
+
+<<Short-answer questions start on next page>>
+
+Page 5 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+SHORT-ANSWER QUESTIONS 
+
+We are not looking for long paragraph answers.  
+Short bullet–point answers are fine. Use the spaces 
+provided on the question paper to write your  
+answers. 
+
+Questions 19 & 20 refer to the following statement: 
+
+You work for a food company that will make a new energy bar with ground cashew nuts.  
+The nuts need to be ground into smaller pieces, and for the purposes of this quiz, we will 
+assume that no one has ever designed equipment to do this.  
+
+19.  (3 MARKS)  List TWO suitable objectives and ONE suitable constraint for the 
+
+design.  
+
+OBJECTIVES:   
+
+CONSTRAINT:  
+
+20. (2 MARKS) When designing the grinder, your boss has asked you to draw on 
+
+analogies to provide ideas.  Name two separate TYPES of analogy, and give an 
+example of each relevant to the current problem.  
+
+Page 6 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+21. (3 MARKS) You have just invented a new process for making waxed cardboard, 
+which is the perfect material for making pizza boxes. You are sure that you can 
+capture 40% of the “pizza box market” with your new cardboard, and you want to test 
+this idea in one town: Hamilton Ontario, which has a population of about 500,000.   
+You want to make enough cardboard to supply Hamilton for six months, before you 
+invest in a full sized factory to supply all of North America.    
+
+In the space below, estimate how many square metres of the new cardboard you 
+should produce for your test. You must compute an actual number, and the steps 
+used in making your estimate.  MAKE SURE YOU INDICATE THE UNITS OF ALL 
+QUANTITIES INVOLVED IN THE CALCULATION. 
+
+Page 7 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #:  ____________________________ 
+
+22. (4 MARKS) You are designing a water treatment system for a small cruise ship.  The 
+system’s job is to reduce the number of live bacteria in the water tanks by 99.99%. 
+
+IN THE SPACE BELOW, provide some evidence that you know how to start the 
+solution phase of such a problem with a STRUCTURED APPROACH, and show 
+some of your ideas for a solution.  
+
+Page 8 of 8 
+
+       
+ 
+ 
+  
+ 
+ 
+  
+ 
+

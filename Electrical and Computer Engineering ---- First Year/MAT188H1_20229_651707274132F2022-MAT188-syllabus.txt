@@ -1,0 +1,508 @@
+MAT 188 — Linear Algebra
+(cid:130) q.utoronto.ca
+Text: Linear Algebra With Applications, Otto Bretscher, 5th edition
+
+What is Linear Algebra?
+
+Linear algebra is the art of using algebra to study flat geometrical shapes, some examples
+of such geometrical shapes are lines and planes in the two and three dimensional spaces
+that you are familiar with. Linear algebra tells us how to use the power of algebra to think
+about higher dimensional flat objects and how to use them to solve a vast range of problems.
+Linear algebra underlies a great deal of applications in sciences and engineering such as
+acoustics and sounds, computer graphics, machine learning, and robotics to name a few.
+
+About the Course
+
+The purpose of this course is two-fold. On the one hand, you will learn concepts, techniques
+and algorithms in elementary linear algebra. On the other, you will learn how to identify
+these concepts in real world problems, model them, and apply technology (MATLAB) and
+numerical methods to solve them.
+We will start by learning how to solve systems of linear equations with the help of matrices.
+Then we will reinterpret matrices as linear transformations, these are functions that uniformly
+modify flat spaces. We will use our spacial intuition to guide our understanding of these
+functions. Linear transformations and their matrix representations will stay at the heart of
+the course throughout the semester. See the Course Calendar in this document for a detailed
+list of topics we discuss in this course.
+MAT188 will be taught via research-based teaching, learning, and assessment methods. In
+lectures and tutorials, students will engage in ideas through an active, student-centered
+teaching framework called inquiry-based learning. In an inquiry-based course students,
+TAs and instructors work together to make sense of mathematical definitions, theorems,
+and techniques to further our understanding of mathematical ideas and learn mathematical
+habits of mind. Such courses are organized around student engagement in exercises in class
+and outside of class.
+
+Learning Outcomes
+
+After taking this course, you will be able to:
+○ Identify applications of linear algebra in other contexts, and situations.
+○ Identify tools and employ technology to solve or understand problems.
+○ Demonstrate computational fluency by hand and in MATLAB.
+○ Distinguish between numerical evidence and mathematical argument.
+○ Distinguish between numerical evidence and mathematical argument.
+○ Translate between algebra and geometry to solve problems.
+○ Approach and apply mathematical knowledge to novel problems.
+
+1/9
+
+Textbook:
+
+Text: Linear Algebra With Applications, Otto Bretscher, 5th edition
+
+○ You should have a physical or an electronic copy of the textbook. All readings and
+
+homework are from this textbook.
+
+Teaching Team
+
+Instructor
+
+Arthur Chan
+
+Daniel Johnstone
+
+Section
+
+LEC0102
+
+LEC0107
+
+Email
+
+arthurwh.chan@utoronto.ca
+
+daniel.johnstone@utoronto.ca
+
+Camelia Karimianpour
+
+coordinator
+
+admin188@math.toronto.edu
+
+Geoffrey McGregor
+
+Vardan Papyan
+
+Ramon Ronzon Lavie
+
+LEC0104 & 0105
+
+ckarimia@math.toronto.edu
+
+LEC0103
+
+LEC0108
+
+LEC0101
+
+geoffrey.mcgregor@utoronto.ca
+
+papyan@math.toronto.edu
+
+ramon.ronzon@mail.utoronto.ca
+
+○ See Quercus for the list of TA names and contact information
+○ You can find the time and location of lectures here.
+○ Question hours and their location for each instructor will be posted on Quercus.
+○ If you have a question about any aspect of the course, please follow the Asking Questions
+
+section in this document.
+
+Course Website
+
+○ The official course page is https://q.utoronto.ca/courses/282151
+
+Quercus is our main communication platform. All course material and information, includ-
+ing announcements, tutorial information, TA and instructor question hours (office hours),
+homework and solutions, pre-class essential readings and in-class reflection surveys, exam
+details, and all the relevant deadlines and announcements are done via Quercus. Quercus
+will get updated frequently as the semester progresses. It is your responsibility to check it
+regularly, at least every 2-3 days.
+
+○ Find our Piazza class page here. Piazza is also accessible directly from the course page on
+
+Quercus.
+
+We will be using Piazza for class discussions. If you have a math question or a logistic
+question you should ask it in Piazza (and not over email). See the Asking Questions section
+in this document for more instructions. The earlier you start using Piazza, the happier
+you will be!
+
+2/9
+
+Assessments
+
+Assessment
+
+Weight
+
+Reflections
+
+Tutorials
+
+Online Homework (WeBWorK)
+
+Pre-Class Essentials
+
+Written Homework
+
+MATLAB Practicals
+
+Midterms
+
+Final Exam
+
+2%
+
+5%
+
+5%
+
+5%
+
+8%
+
+15%
+
+25%
+
+35%
+
+○ Reflections. The only way to learn mathematics is by doing mathematics. In this course
+you are asked to be an active agent in your own learning. You are expected to be present
+in all sessions of your lectures, tutorials, and practicals. During lectures, you will be asked
+to work on problems with help of your peers, and share your ideas with class. Some
+lectures will end by a reflection activity. The content and format varies and depends on
+the activities you have done in class that week.
+
+○ Tutorials. Tutorials are weekly sessions facilitated by your TAs. During tutorials you will
+work in groups on a tutorial worksheet. The worksheet covers a variety of standards such
+as basic computations, core concepts, analysis of ideas, and mathematical language. The
+specifics for each worksheet will vary. In tutorials, time will be dedicated to working on
+tutorial worksheets, including giving and receiving feedback from TAs and classmates. At
+the end of each tutorial, you will submit your work, as a group. Your submission will be
+graded against the set of course standards. You will receive feedback and a grade on your
+submission.‘
+Students should expect to submit a report about once every 2 weeks. Groups will be asked
+to resubmit reports that do not meet the course standards.
+
+○ WeBworK. There will be weekly online assignments called WeBWorK due every Wednes-
+day at 11:59 pm. The lowest two WeBWorK grades will be dropped. The first WeBWork is
+due on September 15th.
+
+○ Pre-Class Essentials (PCE). PCEs are assigned readings or videos, followed by a quiz.
+You are expected to do the PCE before the first lecture of the week. There will be weekly
+PCEs due every week. See our Quercus page for the due dates. The lowest two PCE grades
+will be dropped.
+
+○ Written HomeWork. There will be five written homework assignments. The lowest grade
+
+will be dropped. See our Quercus page for the dates.
+
+○ MATLAB Practicals. There will be weekly assignments during your practicals.
+
+○ Midterms. There will be two midterms, currently the midterms are scheduled for Oct 4,
+
+1-3 pm and Nov 17th, 7-9 pm. The dates are subject to change.
+
+3/9
+
+○ Gateway. The Gateway exam is an online test which will be open for two weeks. You can
+take the test as many times as you wish during the time the test is available until you pass
+it. Failing to pass the test will cost you a third of a letter grade in your final grade for the
+course (for example from B− to C +).
+
+Missing Evaluations Policy
+
+The petition policy of the Faculty of Applied Science and Engineering can be found at
+http://uoft.me/petitions. Do not wait to read these rules until an issue (like illness)
+arises. Read them now so that if things actually happen, you already know how to proceed.
+It is an academic offence to feign illness to skip any coursework. TAs are not authorized
+to give any kind of accommodation. Here are course specific policies that are applied on top
+of the FAES’s petition policy.
+
+Missing PCEs
+We are dropping your lowest two PCE marks. Therefore, you do not need to submit petitions
+unless you had a legitimate reason to miss more than two PCEs. However, in that case, you
+need to submit a petition for all occasions that you missed. Filing up to two petitions for
+PCEs will have no effect since the lowest two scores, including zeros, are dropped anyways,
+with or without petition.If you receive a zero on a PCE due to having committed an academic
+offence, that zero will not be dropped in any circumstances.
+If you miss more than two PCEs and have a valid petition for all occasions (including the
+“first two missed” PCEs), the remaining PCEs will be reweighed accordingly.
+
+Missing WeBWorK
+The same rules as for PCEs apply to WeBWorK.
+
+Missing Written Homework
+The same rules as for PCEs and WeBWorK apply to Written Homework. The only difference
+is we drop one lowest Written Homework as opposed to two. Therefore, you do not need
+to submit petitions unless you had a legitimate reason to miss more than one Written
+Homework. In that case, you need to submit a petition for all occasions that you missed
+your Written HomeWork.
+
+Missing an Exam
+If you miss a Test without a valid petition, you will receive a grade of zero.
+If you miss a Test and a petition for it was deemed valid, we will redistribute your marking
+scheme according to the course coordinator’s discretion. Regarding the final exam, there
+are dedicated faculty policies around petitions. Please refer to the faculty rules here: https:
+//undergrad.engineering.utoronto.ca/petitions/final-exam-petitions/
+
+4/9
+
+Course Structure
+
+Pre-Class Essentials (PCE). A typical week in our course starts by doing the PCEs for the
+following week. PCEs are assigned readings, followed by a quiz on those readings. You
+should do all the assigned readings for the week and submit your PCE quiz on Quercus
+before your first lecture of that week. You will need to review the textbook before the other
+two lectures in that week. PCEs make up 5% of your final grade. You should check our
+Quercus page for the due dates of PCEs.
+Lectures. You are assigned to a lecture section ranging between LEC0101 to LEC0108. You
+will have weekly lectures. Lectures assume that you have done the PCEs for that week. You
+are expected to actively participate in all lectures, and participate in all activities prompted
+by your instructor. Your active participation in lecture is part of your grade.
+Tutorials. You will have weekly tutorials. During tutorials, you will work with your class-
+mates in small groups on tutorial worksheets. Tutorial sessions are facilitated by your TAs
+and are one of the most important components of the course, because they facilitate your
+communication with your peers. Make the most out of these short sessions by actively
+explaining concepts to your group mates and ask them to do the same for you. Your active
+participation in tutorials is part of your participation grade. Tutorials will begin in the week
+of Sep 19th.
+Practicals. You will have weekly practicals. Practicals are computer labs. During the
+practicals you will learn to use MATLAB software to operate numerical computations related
+to the concepts you learn in lectures and tutorials. Practicals give you a hands-on opportunity
+to see the application of linear algebra in different disciplines and to practice problem solving
+through theory and computation. During practicals you will work individually or in pairs
+on your Lab assignments and projects. Lab assignments and exercises make up 15% of
+your final mark. Your active participation in practicals is part of your participation grade,
+measured by your answer to reflection questions in lab assignments. Practicals will begin in
+the week of Sep 13th.
+Homework. You will have four types of homework: weekly PCEs, weekly WeBWork assign-
+ments, five sets of Written Homework, and weekly Lab assignments. See the Assessments
+section in this document for details. You should regularly check Quercus for information
+regarding homework.
+
+How to Succeed
+
+Here are a few tips to help you succeed in this course. You will find more on our course
+webpage.
+○ Most of your learning in this course will happen when you work with your peers in
+tutorials, or on homework and suggested problems outside of class, and when you bring
+your questions to one of our many question hours. Reading the textbook and lectures
+only initiate the learning process. They are crucial to your learning, but are nowhere near
+enough.
+
+○ Form study groups and work with your peers as much as possible. Explain the concepts to
+your peers and listen to them explaining the concepts to you. You know you understand a
+concept if you can explain it well. Do not do all your study in isolation. Math is learned
+best in interaction with others.
+
+○ Get comfortable with feeling challenged. Learning is hard and challenging. If you don’t
+
+5/9
+
+feel challenged you are not learning. Indeed, learning feels quite uncomfortable for the
+most part.
+
+○ Never skip readings before class. You should always come to class with questions in
+mind. Do not expect everything to be explained in lectures. Lectures always assume your
+readings. Lectures are there to give you a guideline on how to approach new concepts
+and to address your questions.
+
+Asking Questions
+
+Our goal is to have all of your questions answered in a timely manner and to encourage you
+to ask more math questions. If your situation is urgent, talk to your professor after class or
+during their question hours (office hours), or come to your course coordinator’s question
+hours (office hours). You can find details about question hours on Quercus.
+
+In all other cases, if you have a question please follow the following procedure:
+○ All mathematical and administrative questions about the course should be asked in Piazza.
+Your question and the responses will be visible to all students and the teaching team. You
+should choose the most relevant folder in Piazza for your question.
+
+○ If you do not get an answer to your posted question on Piazza or, if your question contains
+personal information that cannot be shared with the rest of the class (for instance, if you
+have a question regrading your grade), then ask your question directly by emailing your
+TA. Your TA will either respond directly or will forward your question to another member
+of the teaching team who can address it.
+
+○ If, after emailing your TA, you still do not have an answer to your question, forward the
+email you sent to your TA to admin188@math.toronto.edu, or directly to your professor.
+Your course coordinator will check admin188@math.toronto.edu on a weekly basis.
+
+○ Once again, if your situation is urgent, talk to your professor after class or in their question
+hours (office hours), or come to your course coordinator’s question hours (office hours).
+
+Emailing Etiquette:
+○ You should always use your utoronto email address for all university related com-
+
+munication, including MAT188.
+
+○ Put MAT188 in the subject line followed by the subject of your email. For example
+
+”MAT188-Midterm 1 regrade request”.
+
+○ Include your full name and your utorid in your email.
+○ Always check the course syllabus, and Quercus and Piazza for the answer to your
+question. If your question is answered on the syllabus, Quercus, or Piazza we may
+not respond to your email.
+
+○ If your email is addressed to your professor start your email by ”Dear professor...”
+and end with ”Best” or ”Thank you”. Please use an appropriate tone and level of
+formality in your emails.
+
+○ Note that we will not answer any math questions over email. All such questions
+
+should be publicly asked on Piazza or during question hours.
+
+6/9
+
+Course Calendar
+
+Here is a tentative order in which we will cover material and is only meant to give you an
+overview. This order is subject to change.
+
+Week 0 (Sep8-Sep9)
+Week 1 (Sep 12-Sep 16)
+Week 2 (Sep 19-Sep 23)
+Week 3 (Sep 26-Sep 30)
+Week 4 (Oct 3-Oct 7)
+Week 5 (Oct 11-Oct 14)
+Week 6 (Oct 17-Oct 21)
+Week 7 (Oct 24-Oct 28)
+Week 8 (Oct 31-Oct 4)
+
+Topic
+motivation, intro to linear systems
+sets, vectors in Rn, lines and planes,
+solving a system, Matrix form of a system
+linear transformations, matrix algebra
+composition of maps, matrix multiplication, inverse
+determinant and properties
+image, kernel, subspaces, linear independence
+dimension, coordinates
+orthogonal projection, Grahm Schmidt
+
+Otto Bretscher
+1.1
+appendix A
+1.2, 1.3
+2.1,2.2
+2.3, 2.4
+6.1-6.2
+3.1, 3.2
+3.3, 3.4
+5.1, 5.2
+
+Week 9 (Nov 14-Nov 18)
+Week 10 (Nov 21-Nov 25)
+Week 11 (Nov 28-Dec 2)
+Week 12 (Dec5-Dec 8)
+
+orthogonal LT and matrices, least square
+diagonalization, eigenvalues and vectors
+more eigenvalues, applications
+symmetric matrices, spectral theorem
+
+5.3, 5.4
+7.1,7.2
+7.3
+8.1, 8.2
+
+Mental Health and Wellness
+
+As a university student, you may experience a range of issues regarding, for example your
+physical or mental health, your financial situation or your friends and family. These may
+result in significant barriers to achieving your personal and academic goals. The University
+of Toronto offers a wide range of free and confidential services and programs that may be
+able to assist you. We encourage you to seek out these resources early and often. You can
+find resources at http://studentlife.utoronto.ca/hwc. If, at some point during the year,
+you find yourself in need of immediate support, visit the Feeling Distressed Webpage:
+http://www.studentlife.utoronto.ca/feeling-distressed, for more campus resources.
+
+Immediate help is available 24/7 through U of T’s My Student Support Program in 35
+languages. You can call via phone or wifi or even chat using the app. Details can be
+found at
+
+https://studentlife.utoronto.ca/service/myssp/
+
+All students in the Faculty of Engineering have an Academic Advisor who can advise on aca-
+demic and personal matters. You can find your department’s Academic Advisor here: http:
+//undergrad.engineering.utoronto.ca/advising-support-services/academic-advising/
+
+7/9
+
+Academic Integrity: Why It Matters
+
+We at U of T want you to feel proud of what you accomplish as a student. Please
+respect all of the hard work you’re doing this term by making sure that the work you
+do is your own.
+
+We don’t expect you to score perfectly on the assessments and there will be some things
+that you may not know. Using an unauthorized resource or asking someone else for
+the answer robs you of the chance to later feel proud of how well you did because
+you’ll know that it wasn’t really your work that got you there.
+
+Success in university isn’t about getting a certain mark, it’s about becoming the very
+best person you can by enriching yourself with knowledge, strengthening yourself
+with skills, and building a healthy self-esteem based on how much you’ve grown
+and achieved. No one assessment captures that but your conscience will stay with
+you forever. Make yourself and your loved ones proud of the student that you are by
+conducting yourself honestly at all times.
+
+We know that the vast majority of students are honest. If you are one of them, we want to
+say that we appreciate this and thank you for your commitment to learning! Honouring the
+achievements of hardworking students like you is one of the major reasons why we implement
+the policies below. Honesty always pays off in the long run! If you are experiencing personal
+challenges that are having an impact on your academic work, please do NOT commit an
+academic offence. Instead, talk to us or your academic advisor. We are very understanding
+and happy to help if you are facing any issues. There is never a valid reason for committing
+an academic offence. Please talk to us!
+
+Academic Integrity: The Fine Print
+
+Familiarize yourself with the University of Toronto’s Code of Behaviour on Academic
+Matters, available at https://www.academicintegrity.utoronto.ca/.
+
+You are expected to know the rules. Not being aware of a rule is not an acceptable
+excuse for not having followed it (just as in real life).
+
+If you have any questions about what is or is not permitted in this course, please do
+not hesitate to contact us.
+
+As specified under Assessments for some of the course components the lowest, or the two
+lowest mark are dropped. This does not apply for an assessment in which an academic
+offense was committed and a sanction of “zero on the assessment” was imposed. Potential
+offenses include, but are not limited to:
+○ Posting assessment questions on any kind of website/online forum to solicit help,
+○ Using someone else’s ideas or words without appropriate acknowledgement,
+○ Looking at someone else’s answers during an exam or test,
+○ Misrepresenting your identity,
+○ Obtaining or providing unauthorized assistance on any assignment, and
+
+8/9
+
+○ Falsifying or altering any documentation required by the University, including (but not
+
+limited to) forms related to a petition.
+
+It is an Academic Offence both to receive or to provide unauthorized assistance. It does not
+matter if you “helped” or “were helped”. The University of Toronto treats cases of academic
+misconduct very seriously. All suspected cases of academic dishonesty will be investigated
+following the procedures outlined in the Code. The consequences for academic misconduct
+can be severe, including a failure in the course and a notation on your transcript. Every year,
+students get expelled from the University of Toronto for academic offences. Remember that
+you enrolled in University to learn something.
+
+Land Acknowledgment
+
+We wish to acknowledge this land on which the University of Toronto operates. For thousands
+of years it has been the traditional land of the Huron-Wendat, the Seneca, and most recently,
+the Mississaugas of the Credit. Today, this meeting place is still the home to many Indigenous
+people from across Turtle Island and we are grateful to have the opportunity to work on this
+land.
+
+9/9
+
+

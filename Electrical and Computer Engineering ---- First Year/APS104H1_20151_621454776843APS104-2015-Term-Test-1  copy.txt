@@ -1,0 +1,1310 @@
+Please mark X to indicate your tutorial section.  
+Failure to do so will result in a deduction of 5 marks. 
+
+TUT 01 
+
+TUT 02 
+
+TUT 03 
+
+TUT 04 
+
+TUT 05 
+
+TUT 06 
+
+TUT 07 
+
+TUT 08 
+
+TUT 09 
+
+TUT 10 
+
+TUT 11 
+
+TUT 12 
+
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+TERM TEST 1 
+
+10 FEBRUARY 2015 
+
+First Year 
+
+APS 104S 
+
+INTRODUCTION TO  MATERIALS AND CHEMISTRY 
+
+Exam Type B 
+
+Examiners:  G. Azimi, C Chin, T. Mirkovic, J. Nogami 
+
+NAME:  _____________________________________________________ 
+                Last  
+
+First 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+            /20 
+
+            /20 
+
+            /20 
+
+            /20 
+
+            /20 
+
+STUDENT NO:_______________________________________________ 
+
+Total 
+
+           /100 
+
+INSTRUCTIONS: 
+
+•  This is a Type B examination. Only non-programmable calculators are allowed. 
+•  Answer all  5 questions. 
+•  All work is to be done on the pages of this booklet. 
+•  When answering the questions include all the steps of your work on these pages and then fill 
+
+the answer in the respective boxes. For additional space, you may use the back of the preceding 
+page. 
+
+•  Do not unstaple this exam booklet. 
+•  A Formula Sheet and the periodic table are attached to the end of this exam booklet; if you wish, 
+
+you may tear-off  these sheets only. 
+
+•  Exam papers filled out in pencil will not be eligible for regrading. 
+
+Page 1 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+           
+           
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 1: Atomic Bonding and Crystal Structure (20 pts) 
+
+(a)    Write out the electron configuration for the following elements:[4 pts] 
+
+  Boron:     
+
+  Potassium:   
+
+ Chromium:   
+
+[1pt] 
+
+[1pt] 
+
+[2pt] 
+
+(b) The potential energy between Mg2+ and O2- ions in a MgO crystal (NaCl crystal structure) can be 
+
+estimated as 
+
+𝐸 = −
+
+𝐴
+𝑟
+
++
+
+𝐵
+𝑟! 
+
+where A = 1.61 x 10-27 J m, B = 3.87×10-96 J m8, r is the separation (between ion centers) in m, and E 
+is the potential energy in J. 
+
+(i) 
+
+Calculate the equilibrium separation between the ion centers. [5 pts] 
+
+Page 2 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Name: _________________________________                Student No: ___________________________ 
+Calculate the bonding energy between the Mg and O ions at this equilibrium distance. [2 pts] 
+
+(ii) 
+
+(iii) 
+
+If the ionic radius of Mg2+ is 0.072 nm, what is the ionic radius of O2- ?  [2 pts] 
+
+(iv)  What is the lattice constant for MgO?  [2 pts] 
+
+(c) Each of the words or phases on the right is associated with one of the four types of bonding.  Choose 
+the most appropriate bonding type for each, and put the corresponding letter in the box.   [5 pts] 
+
+A) Io nic
+
+ B)  Covalent
+
+ C)  Metallic
+
+ D)  van  del Waals
+
+ silicon
+
+CsCl
+
+Solid Arg on
+
+ fre e electrons
+
+nit rogen molecule
+
+Madelung  const ant
+
+Page 3 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 2:  Crystal Structure and Defects (20 pts) 
+
+(a)   Name the two defects in the ionic solid shown below [2 pts] 
+
+(b) What is the atomic density of copper, in atoms per cm3?  [2 pts] 
+Note: the density of Cu is 8.4 g/cm3 
+
+(c) 
+
+Given that copper is FCC, what is the lattice constant? 
+
+[4 pts]  
+
+Page 4 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+(d) 
+
+Given the the density of vacancies in a metal is given by: 
+
+𝑁! = 𝑁𝑒!!
+
+!" 
+
+where N is the density of Cu atoms per cm3, and Q = 0.9 eV is the activation 
+energy for vacancy formation. 
+
+What is the density of vacancies in Cu at 1000°C?   [4 pts]   
+
+(e) At what temperature is one out of 104 Cu atomic sites a vacancy? 
+
+[4 pts] 
+
+(f) True / False, one point for each answer  
+
+[4 pts total] 
+
+Check one  
+T 
+
+F 
+
+  The tensile strength of an alloy is generally lower than that of either of the 
+constituent pure elements.
+
+  The yield strength of a polycrystalline metal increases with increasing grain size.
+
+For a screw dislocation, the Burgers vector is parallel to the dislocation line. 
+
+In the zincblende crystal structure, the coordination number of the cation and the 
+anion are not the same. 
+
+Page 5 of 11 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 3: Directions, Planes and Densities (20 pts) 
+
+a) In the cubic unit cell below sketch the  
+[10
+
+plane.    [ 2 pts] 
+
+]3
+
+b) In the cubic unit cell below sketch 
+ direction.  [ 2 pts] 
+the
+
+(10
+
+)3
+
+c) In the cubic unit indicate the Miller 
+indices of the plane shown.  [2 pts] 
+
+d) In the cubic unit cell below, specify 
+the two directions marked.  [4 pts] 
+
+(              ) 
+
+[              ]         [              ] 
+
+3/4 
+
+1/3 
+
+1/2, 1/2 
+
+1/2, 1/2 
+
+Iron has a BCC crystal structure with a lattice parameter of 0.407 nm. For this unit cell: 
+
+e) Indicate the slip system for the  iron crystal structure.  
+
+[2 pts]  
+
+f) Calculate the planar density of the slip plane, in atoms per nm2     
+[4 pts]                   
+
+g) The linear density of atoms along  the slip direction, in atoms per nm.        [4 pts] 
+
+Page 6 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 4:  Mechanical properties of materials (20 pts) 
+The  stress  strain  profile  of  an  isotropic  material  (Material  A)  with  a  diameter  of  5.0  mm  is  shown  in 
+Figure 1.  The Poisson's ratio is 0.35. 
+
+(a)
+
+(b)	  Enlarge	  of	  (a)
+
+)
+a
+p
+M
+
+(
+
+)
+σ
+(
+
+s
+s
+e
+r
+t
+S
+g
+n
+i
+r
+e
+e
+n
+g
+n
+E
+
+i
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+)
+a
+p
+M
+
+(
+
+)
+σ
+(
+
+s
+s
+e
+r
+t
+S
+g
+n
+i
+r
+e
+e
+n
+g
+n
+E
+
+i
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+0
+
+0.02
+
+0.04
+
+0.06
+
+0.08
+
+0.1
+
+0.12
+
+0.14
+
+0
+
+0.005
+
+0.01
+
+0.015
+
+0.02
+
+0.025
+
+0.03
+
+Engineering	  Strain	  (ϵ)
+
+Engineering	  Strain	  (ϵ)
+
+Figure	  1.	  (a)	  Stress-­‐strain	  profile	  for	  Material	  A,	  (b)	  enlarged	  plot	  of	  the	  lower	  strain	  region	  of	  (a).	  	  	  
+
+4a.	  What	  is	  the	  Young’s	  Modulus	  of	  this	  material?	  
+
+[4	  pts]	   	  
+
+4b.	  Under	  a	  constant	  load,	  the	  cylinder	  diameter	  increases	  by	  2	  ×	  10-­‐3	  mm.	  The	  deformation	  is	  elastic.	  	  
+
+	   The	  stress	  is	  (circle	  the	  correct	  answer):	  	  
+
+[2	  pts]	  
+
+Tensile	  	  
+
+Compressive	  	  	  	  	  	  	  	  	  	  	  	  	  	  Sheer	  	  
+
+Torsion	  
+
+4c.	  
+
+Determine	  the	  load	  for	  question	  4b:	  	  [4	  pts]	  
+
+Page 7 of 11 
+
+ 
+  
+ 
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+4d.	  Show	  on	  Figure	  1b	  how	  you	  would	  determine	  the	  0.2	  %	  offset	  yield	  strength.	  The	  0.2%	  offset	  yield	  
+
+strength	  is________________.	  	  Show your answer on Figure 1b and fill in the box below to receive full 
+
+credit.  	  	  [2pts]	  
+
+(Material	  C)
+
+)
+a
+p
+M
+
+(
+
+)
+σ
+(
+
+s
+s
+e
+r
+t
+S
+g
+n
+i
+r
+e
+e
+n
+g
+n
+E
+
+i
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+(Material	  A)
+
+(Material	  B)
+
+0
+
+0.02
+
+0.04
+
+0.06
+
+0.08
+
+0.1
+
+0.12
+
+0.14
+
+Engineering	  Strain	  (ϵ)
+
+Figure	  2.	  (a)	  Stress-­‐strain	  profile	  for	  Materials	  A,	  B,	  and	  C.	  
+
+Questions	  4e-­‐g	  all	  refer	  to	  Figure	  2.	  
+
+4e)	  Classify	  the	  following	  Materials	  as	  corresponding	  to	  curves	  A,	  B,	  C.	  (circle	  one)	  	  	  	  [2	  pts	  each]	  
+
+Ceramic	  (Ionic	  Material)	  
+
+Polymer	  	  
+
+A	  	  
+
+A	  
+
+B	  	  
+
+B	  
+
+C	  
+
+C	  
+
+4f)	  Circle	  the	  correct	  answer:	  	  	  [2	  pts]	  
+
+Material	  	  	  A	  
+
+	  	  B	  
+
+C	  	  
+
+has	  the	  highest	  ductility	  
+
+4g)	  	  Circle	  the	  correct	  answer:	  [2	  pts]	  
+
+Material	  	  	  A	  
+
+	  	  B	  
+
+C	  	  
+
+has	  the	  highest	  toughness	  
+
+Page 8 of 11 
+
+ 
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+ 
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 5:  Polymers (20 pts) 
+ (a)   Draw the monomer and the polymer structure of polyethylene, and polypropylene. [4 pts] 
+
+(b)   The number-average molecular weight of a polypropylene is 1,500,000 g/mol, and an 𝑀! = 
+1,700,000. Compute the degree of polymerization and the polydispersity index for this sample. [4 pts]  
+
+(c)  Describe the polymer sample that has a polydispersity index of 1. [1 pts] 
+
+(d)  Name the different structures of polymeric chains shown below. [2 pts] 
+
+i)  
+
+ii)  
+
+iii)  
+
+iv)  
+
+Name  
+
+(e)  The mechanical properties of polymers are known to be temperature-dependant. Determine if the 
+following parameters will increase, decrease, or remain the same as the temperature is increased. [3 pts] 
+
+Property  
+
+Change  
+
+Modulus  of  elasticity  
+
+Tensile  strength  
+
+Percent  elongation  
+
+(f)  The graph below shows the logarithm of the relaxation modulus versus temperature of an amorphous 
+
+polymer. Name the five regions of viscoelastic behaviour and determine the glass transition 
+temperature (Tg) from the graph. [6 pts]  
+
+(a)__________________________ 
+
+(b)__________________________ 
+
+(c)__________________________ 
+
+(d)__________________________ 
+
+(e)__________________________ 
+
+Tg = _________________________ 
+
+Page 9 of 11 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+FORMULAE & CONSTANTS (You may tear this sheet off.) 
+
+Constants 
+R = 8.3145 J·K-1 mol-1 = 0.0820574587 L·atm· K-1 mol-1 = 0.083145 L·bar·K-1·mol-1  
+
+1 atm = 101.325 kPa   = 1.01325 bar  = 14.696 psi = 760 Torr  = 760 mmHg 
+NA	  =	  6.022	  x	  1023	  mol-­‐1	  	  	  	  	  	  	  	  	  	  	  k = 8.62 x 10-5 eV/K               1 eV = 1.60 x 10-19 J 
+T(K) = T(oC) + 273.15 K;     
+
+STP: 273.15K, 1 bar             SATP: 298.15K, 1 bar         	  
+
+Formulae from Callister 
+
+V
+
+=
+
+3r
+
+4
+π
+3
+
+=ρ
+
+m
+V
+
+=ρ
+
+nA
+C NV
+
+A
+
+=ρ
+
+A
+A
+
+)
+
+An
+(
+Σ+Σ′
+C
+NV
+C
+
+A
+
+𝐸 = 𝐹  𝑑𝑟     !
+!"
+
+(𝑥!)=n𝑥!!! 
+
+%
+
+IC
+
+1{
+−=
+
+exp[
+
+−
+
+(25.0
+
+X
+
+A X
+−
+
+B
+
+2 ×
+]})
+
+100
+
+APF =
+
+TotalSpher
+TotalUnitC
+
+eVolume
+ellVolume
+
+LD =
+
+NumberOfAt
+
+omsCentred
+
+OnDirectio
+
+nVector
+
+LengthOfDi
+
+rectionVec
+
+tor
+
+PD =
+
+NumberOfAt
+
+OnAPlane
+
+omsCentred
+e
+
+AreaOfPlan
+
+DP
+
+=
+
+M
+n
+m
+
+M ∑=
+n
+
+Mx
+i
+
+i
+
+M ∑=
+w
+
+Mw
+i
+
+i
+
+Polydispersity Index =  Mw / Mn 
+
+NV =
+
+N
+
+exp(-
+
+Q
+v
+kT
+
+)
+
+N S =
+
+N
+
+exp(-
+
+Q
+S
+2kT
+
+)
+
+N =
+
+fr N
+
+exp(-
+
+Q
+
+fr
+2kT
+
+)
+
+𝐸 = !
+!
+
+    𝜎 = !
+!
+
+    ∈= ∆!
+!
+
+    𝜏 = !
+!
+
+    𝜏 = 𝐺𝛾    𝑈! = !
+
+!
+
+𝜎!𝜀!    %CW = !!!!!
+!!
+
+×  100    G = E/(2(1 +ν)) 
+
+σy = σo + kyd -1/2      𝜈 = − !!
+!!
+
+= −
+
+!!
+!!
+
+      𝜏! = 𝜎  𝑐𝑜𝑠𝜙  𝑐𝑜𝑠𝜆      𝜎! =
+
+!!"##
+(!"#$  !"#$)!"#
+
+      𝑉 = 𝐼𝑅      𝜌 = !"
+!
+
+𝜎 = !
+!
+
+    𝐽 = 𝜎𝐸    𝐸 = !
+!
+
+    𝑣! = 𝜇!𝐸    𝜎 = 𝑛 𝑒 𝜇!    𝜃 = cos   !! (
+
+!!
+
+!!  !!!!!  !!!!!  !!
+!!!!
+
+!!!!
+
+! !!
+
+!!!!
+
+!!!!
+
+! ) 
+
+Page 10 of 11 
+
+ 
+ 
+ 
+ 
+ 
+             
+      
+                                      
+      
+    
+ 
+             
+ 
+ 
+      
+      
+      
+ 
+ 
+           
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+You may tear this sheet off. 
+
+Page 11 of 11 
+
+ 
+ 
+ 
+ 
+

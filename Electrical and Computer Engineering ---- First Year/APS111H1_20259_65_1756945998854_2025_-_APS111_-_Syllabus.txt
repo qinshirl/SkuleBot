@@ -1,0 +1,533 @@
+Engineering Strategies and Practice 
+APS111 - 2025 
+
+Syllabus 
+
+Engineering Strategies and Practice 
+
+Figure 1: Three pillars of Engineering Strategies and Practice (ESP) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+Table of Contents 
+
+1  What is Engineering Strategies and Practice (ESP)? .............................................................................. 3 
+
+2  What is ESP I (APS111)? ......................................................................................................................... 3 
+
+3 
+
+Teaching Team ....................................................................................................................................... 3 
+
+4  What are the Course Learning Objectives? ........................................................................................... 4 
+
+5 
+
+How Will I Be Evaluated in This Course? ............................................................................................... 4 
+
+5.1 
+
+5.2 
+
+Individual Assessments ................................................................................................................ 4 
+
+Team Assessments ....................................................................................................................... 4 
+
+6 
+
+Can I Use Artificial Intelligence (AI) in My Assignments? ...................................................................... 6 
+
+7  What Do I Need to Attend? ................................................................................................................... 6 
+
+7.1 
+
+7.2 
+
+7.3 
+
+Lectures ........................................................................................................................................ 6 
+
+Tutorials ........................................................................................................................................ 6 
+
+Team Meetings ............................................................................................................................. 7 
+
+8  What Do I Need to Read? ...................................................................................................................... 7 
+
+9 
+
+Accommodations ................................................................................................................................... 7 
+
+10  Mental Health ........................................................................................................................................ 8 
+
+11 
+
+Inclusivity Statement ............................................................................................................................. 8 
+
+12  Acknowledgment of Traditional Land.................................................................................................... 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+1  WHAT IS ENGINEERING STRATEGIES AND PRACTICE (ESP)? 
+
+Engineering Strategies and Practice (ESP) is a foundational design course sequence that uses the 
+engineering design process as a context for developing skills essential to the practice of engineering. It is 
+composed of two courses, APS111: Engineering Strategies and Practice I in the fall term and APS112: 
+Engineering Strategies and Practice II in the winter term.  
+
+Both courses challenge you to use your engineering design skills to solve your client’s problem. You will 
+learn and follow a formal design process to increase the credibility and efficiency of your design work. 
+You will learn to prepare written and oral reports to make persuasive engineering arguments supporting 
+your recommended solutions. Finally, you will achieve all this while working productively with a 
+randomly selected team of your peers (See Figure 1).  
+
+2  WHAT IS ESP I (APS111)? 
+
+ESP I introduces the design process through a design project common to all teams. In your assigned 
+team you will design an engineering solution for a real problem, though this term you will not have 
+direct contact with your client. The deliverable for the fall term will be a conceptual design. You will 
+grapple with the challenges of an engineering design problem while working effectively in a team. 
+Writing, reading, using visuals and other forms of communication, as engineering activities, are 
+introduced. You will learn how to identify and consider upfront design factors such as interest holders 
+and service environment.  
+
+3  TEACHING TEAM 
+
+All of the activities in the course fall under one or more of the "three pillars" of course content, as 
+depicted on the cover page of this syllabus (Figure 1). The teaching team is also organized around those 
+three pillars. Here is an overview of the teaching team:  
+
+•  Design Coordinator and Lecturers: Focused on the design aspects of the course. 
+•  Teamwork Coordinator and Lecturer: Focused on the teamwork aspects of the course. 
+•  Communication Coordinator and Lecturer: Focused on the communication aspects of the course. 
+
+Note that the "three pillars" of the course are usually not strictly separated from each other, but often 
+overlap. This will be reflected in the lecture content, as well as your work in the course.  
+
+In addition to the Lecturers and Coordinators, your tutorials will be led by a Teaching Assistant and a 
+Communication Instructor. Their duties are described below.  
+
+•  Teaching Assistant (TA): Focused on design content, design documents and professionalism. Will 
+provide feedback on teamwork and communication issues as well, especially as they impact 
+design work. TAs are the final authority on all design guidance and assessment in the tutorial.  
+•  Communication Instructor (CI): Focused on all forms of communication and teamwork, including 
+documentation, team communication and organization. CIs will also discuss design work with 
+you, while respecting the TA's role as the primary design authority.   
+
+ 
+ 
+4 
+
+4  WHAT ARE THE COURSE LEARNING OBJECTIVES? 
+
+The following are four high level learning objectives for ESP I. You can expect these to be discussed in 
+lectures and in textbook readings. They will be applied and evaluated in course assessments. Please 
+check the Course Learning Objectives document for a breakdown of these high level learning objectives.  
+
+By the end of this course, you should be able to: 
+
+•  Produce a credible design recommendation, defining functions, objectives and constraints with 
+metrics to measure their success, with appropriate documentation, in response to a client 
+request. 
+
+•  Address broader considerations in design, including the concerns of interest holders and service 
+
+environment. 
+
+•  Follow a team process to work effectively in a team, make team decisions and produce a team 
+
+created deliverable. 
+
+•  Apply the principles behind professional multimodal engineering communication for 
+
+interpersonal interactions and to produce documents and presentations for clients, professors, 
+and design team members. 
+
+5  HOW WILL I BE EVALUATED IN THIS COURSE? 
+
+Your ability to meet the Learning Objectives of this course will be assessed with a wide range of 
+assignments and activities. There are two types of assessments in ESP. 
+
+5.1  INDIVIDUAL ASSESSMENTS  
+You are expected to complete Individual Assessments on your own without the direct assistance of your 
+team. Only you will receive the grade for these assessments. 
+
+5.2  TEAM ASSESSMENTS 
+You are expected to work with your team on these assessments and contribute equitably. These 
+assessments will be evaluated as a whole and nominally all team members will receive the same grade. 
+However, if your assessor determines there has been an under-contribution from an individual, they will 
+assign an individual penalty to that team member. Over-contribution of team members is not rewarded 
+with additional marks, so it is important to have clear expectations of all team members and 
+contingency plans in place. These will be captured in your Team Charter.   
+
+Where applicable, your assessor will also apply team penalties to all team members. For example, late 
+submission penalties will be strictly enforced.  
+
+Your final grade will not benefit from your team assessments if you have not met the individual mastery 
+policy (See Course Policies document).  
+
+ 
+ 
+5 
+
+TC
+5.0%
+
+TC-
+Rev
+5.0%
+
+EO
+5.0%
+
+PR
+10.0%
+
+CDS
+20.0%
+
+PS 
+Quiz 
+5.0% TWA
+5.0%
+
+Perf-Rev
+10%
+
+Team
+Assessments
+40%
+
+Final Exam
+35.0%
+
+Individual
+Assessements 
+60%
+
+Figure 2: Pie chart mark breakdown for ESP I 
+
+Table 1: Mark breakdown for ESP I 
+Assessments  
+
+Individual Assessments 
+
+Engineering Observation (EO) 
+
+Problem Statement Quiz (PSQ) 
+
+Teamwork Analysis (TWA) 
+
+Performance Review (Perf-Rev) 
+
+Final Exam1 
+
+Individual Assessment Total 
+
+60% 
+
+Team Assessments2 
+
+Team Charter (TC) 
+
+Team Charter Revision (TC-Rev) 
+
+Design Project Assessments 
+
+  Project Requirements (PR) 
+
+  Conceptual Design Specification (CDS) 
+
+Team Assessment Total 
+
+FINAL GRADE 
+
+5 
+
+5 
+
+10 
+
+20 
+
+40% 
+
+100% 
+
+1 Writing the Final Exam is a mandatory component of the course. 
+2 Participation in all the team assessments is a mandatory component of the course.  
+
+% Final Grade 
+
+Assessor 
+
+5 
+
+5 
+
+5 
+
+10 
+
+35 
+
+CI 
+
+TA 
+
+CI 
+
+TA 
+
+- 
+
+CI 
+
+CI 
+
+TA 
+
+TA 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+
+6  CAN I USE ARTIFICIAL INTELLIGENCE (AI) IN MY ASSIGNMENTS? 
+
+The expectation is that students, whether individually or as a team, will submit original work as per the 
+Course Policies document and that students are ultimately accountable for the work that they submit. 
+Unless otherwise specified on an assignment, students may choose to use generative artificial 
+intelligence tools as they work through the assignments in this course; this use must be documented in 
+an appendix for each assignment. See the full AI policy in the Course Policies Document.  
+
+7  WHAT DO I NEED TO ATTEND? 
+
+The three main activities in this course are detailed below. All three are mandatory, but only the lectures 
+and tutorials will be attended by members of the teaching team. The detailed schedule for the course 
+can be found in Quercus.   
+
+7.1  LECTURES  
+
+Lectures in this course both re-enforce content in the textbook readings AND introduce material not 
+included in the readings. Therefore, you need to attend all lectures. If you are unavoidably absent from a 
+lecture, then it is your responsibility to learn the content by viewing the lecture recordings or lecturette 
+videos posted in Quercus. This substitution should only be used as an occasional exception, such as 
+when you are unexpectedly ill. The videos do not contain the activities used in lectures to re-enforce the 
+learning. It is preferrable to attend the in-person lectures whenever possible. If absence from lectures is 
+going to be a more frequent occurrence, then speak to the teaching team as soon as possible. 
+
+After Week 03 of the term, you will be sitting in lecture with your team. Therefore, you must attend 
+lectures to contribute equitably to the project. Before Week 04 you may sit anywhere.  
+
+The topics for each lecture can be found in the Module for that week.  
+
+•  Type: Synchronous In-person (Instructors in Attendance) 
+•  Requirement: Mandatory Attendance 
+•  Scope: 3 hours per week 
+•  Recorded: Yes 
+• 
+
+Location: MY150 
+
+7.2  TUTORIALS 
+
+Weekly Tutorials are mandatory, supervised work periods during which you will work as a team on their 
+team design project. The specific tasks for each tutorial will be laid out in the tutorial agenda, but it is 
+the responsibility of the team to organize themselves to complete these tasks. If tasks are not 
+completed during tutorial they will need to be completed outside tutorial. Punctual attendance and 
+engagement in the tutorials will be reflected in the Performance Review grade. 
+
+The agenda for each tutorial is found on Quercus in the module for that week.  
+
+•  Type: Synchronous In-person (TA and CI in Attendance) 
+
+ 
+ 
+7 
+
+•  Timing: As per individual student timetable 
+•  Requirement: Mandatory Attendance (Punctual attendance is factored into P-Rev) 
+•  Scope: 2 hours per week starting Week 03 (There are no tutorials in Weeks 01 & 02) 
+•  Recorded: No 
+• 
+
+Location: As per individual student timetable 
+
+7.3  TEAM MEETINGS 
+There is not enough time in tutorials to complete your project. You must meet with your team outside 
+of lectures and tutorials to achieve the course Learning Objectives. These meetings will not normally be 
+attended by members of the teaching team unless arranged ahead of time for special circumstances. 
+
+•  Type: Synchronous In-person / Online (Only Students in Attendance) 
+•  Timing: As scheduled by your team, but only after Week 04 
+•  Requirement: Mandatory Attendance. The teaching team will not be tracking this attendance; 
+
+however, attendance issues may be discussed in team work mediation meetings. 
+
+•  Scope: Estimated 2 hours per week starting Week 04. This will increase greatly just before a 
+
+team assignment deadline. 
+
+•  Recorded: No 
+• 
+
+Location: As scheduled by team 
+
+8  WHAT DO I NEED TO READ? 
+
+Textbook: Designing Engineers: An Introductory Textbook by S. McCahan, P. Anderson, M. Kortschot, P. 
+Weiss, and K. Woodhouse. You may purchase it in either digital or hard copy from multiple sources.  
+
+Other Readings: Posted on Quercus. 
+
+The assigned readings will be posted on Quercus and the Perusall textbook platform.    
+
+9  ACCOMMODATIONS 
+
+The University of Toronto supports accommodations for students with diverse learning needs, which 
+may be associated with mental health conditions, learning disabilities, autism spectrum, ADHD, mobility 
+impairments, functional/fine motor impairments, concussion or head injury, visual impairments, chronic 
+health conditions, addictions, D/deaf, deafened or hard of hearing, communication disorders and/or 
+temporary disabilities, such as fractures and severe sprains, or recovery from an operation. 
+
+If you have a learning need requiring accommodation the University of Toronto recommends that 
+students register with Accessibility Services as soon as possible. Register at: 
+https://studentlife.utoronto.ca/service/accessibility-services-registration-and-documentation-
+requirements/   
+
+We know that many students avoid seeking help because they feel that they should not need “unfair 
+advantages.” The purpose of academic accommodation is not to give an unfair advantage, but to help 
+
+ 
+ 
+remove an unfair disadvantage. It may feel difficult to ask for help, but it can make all the difference 
+during your time here. 
+
+8 
+
+Phone: 416-978-8060 
+
+Email: accessibility.services@utoronto.ca  
+
+10  MENTAL HEALTH 
+
+Engineering at the University of Toronto is a demanding program. The workload and the frequency of 
+assignments and tests can be challenging to balance and can feel overwhelming. As a result, students 
+can find themselves experiencing physical and/or mental health issues which impact their academic 
+performance and overall well-being. 
+
+If you find yourself feeling distressed and in need of more immediate support resources, consider 
+reaching out to the counsellors at My Student Support Program (MySSP) (www.uoft.me/myssp) or 
+visiting U of T Engineering’s Urgent Support – Talk to Someone Right Now webpage 
+(https://uofteng.ca/talknow). 
+
+If you are encountering challenges that significantly affect your academic performance and overall 
+wellbeing, there are a variety of free and confidential supports that can help you. As a U of T Engineering 
+student, you have a First-Year Advisor (www.uoft.me/fyo), a Departmental Upper-Year Undergraduate 
+Advisor (www.uoft.me/engadvisors), or a Departmental Graduate Administrator 
+(www.uoft.me/gradadmin) who can advise on personal matters that impact your academics. You can 
+find helpful people, services and resources like these listed on the U of T Engineering Mental Health & 
+Wellness webpage (www.uofteng.ca/mentalhealth). 
+
+A small selection is also included here:  
+
+•  Accessibility Services (www.studentlife.utoronto.ca/as) 
+
+•  On-Location Accessibility Advisor (www.uofteng.ca/onlocationaccessibility) 
+
+•  Health & Wellness (www.healthandwellness.utoronto.ca) 
+
+•  On-Location Health & Wellness Engineering Counsellor (www.uoft.me/wellnessadvisor)  
+
+•  Registrar’s Office (https://uoft.me/eng-registrar) 
+•  U of T Engineering’s Learning Strategist (www.uoft.me/englearningstrategist) 
+•  U of T Engineering’s Mental Health Programs Officer (www.uofteng.ca/mentalhealth#MHPO)  
+•  U of T Engineering’s Scholarships & Financial Aid Office and Advisor (www.uoft.me/engfinance)  
+
+We encourage you to access these resources as soon as you feel you need support; no issue is too small. 
+
+11  INCLUSIVITY STATEMENT 
+
+You belong here. The University of Toronto Engineering commits to all students, instructors, staff, 
+alumni and partners that you can learn, create and participate in a welcoming, healthy and respectful 
+environment. In this class, the participation and perspectives of everyone is invited and encouraged. The 
+broad range of identities and intersections of identities within an inclusive team environment will help 
+
+ 
+ 
+9 
+
+you achieve academic success. You can read the evidence for this approach on inclusion and diversity 
+here:  https:/www.weforum.org/agenda/2019/04/business-case-for-diversity-in-the-workplace/. 
+
+You are not alone. You are invited to talk to anyone in the Faculty that you feel comfortable 
+approaching, including your professor, teaching assistant, academic advisor, any staff member, the 
+Engineering Equity Diversity & Inclusion Action Group, a culture or identity club or group, or a U of T 
+Equity Office. 
+
+Academic Advisors: https://undergrad.engineering.utoronto.ca/first-year-office-2/first-year-office-
+team/ 
+
+Engineering Equity, Diversity & Inclusion Action Group & Clubs: www.uofteng.ca/edi  
+
+U of T Equity Offices: https://hrandequity.utoronto.ca/inclusion/equity-offices/ 
+
+You have rights under the Ontario Human Rights Code that protect you against all forms of harassment 
+or discrimination, including but not limited to acts of racism, sexism, Islamophobia, anti-Semitism, 
+homophobia, transphobia, ableism and ageism. Engineering denounces unprofessionalism or 
+intolerance of any kind, whether in person or online, on or off-campus. If you experience or witness any 
+of these behaviours, please tell someone so we can help with resources and resolution. Engineering 
+takes these reports extremely seriously. You can confidentially disclose directly to Marisa Sterling, P.Eng, 
+Assistant Dean, Diversity, Inclusion and Professionalism. 
+
+Phone: 416.946.3986 
+
+Email: disclosure.engineering@utoronto.ca  
+
+Submit confidential disclosure form: www.uofteng.ca/disclosure  
+
+Ontario Human Rights Code: http://www.ohrc.on.ca/en/students%E2%80%99-handouts/fact-sheet-1-
+ontario-human-rights-code  
+
+12  ACKNOWLEDGMENT OF TRADITIONAL LAND 
+
+We wish to acknowledge this land on which the University of Toronto 
+operates. For thousands of years it has been the traditional land of the 
+Huron-Wendat, the Seneca, and the Mississaugas of the Credit. Today, 
+this meeting place is still the home to many Indigenous people from 
+across Turtle Island and we are grateful to have the opportunity to work 
+on this land. 
+
+Figure 3: Stylized Dreamcatcher originally from the Anishinaabe First 
+Nation People it is now considered by many to be a common symbol 
+of the Indigenous People on Turtle Island (North America). 
+
+ 
+ 
+

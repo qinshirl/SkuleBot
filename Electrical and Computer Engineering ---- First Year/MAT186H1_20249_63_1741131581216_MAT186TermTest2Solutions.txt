@@ -1,0 +1,913 @@
+Duration: 100 minutes
+
+Thursday November 7, 2024
+
+MAT186 Calculus I
+Term Test 2
+
+Full Name: Sol Utions
+
+Student number:
+
+Email:
+
+Signature:
+
+Instructions:
+
+@mail.utoronto.ca
+
+1. This test contains a total of 12 pages, and a total of 39 marks available.
+
+2. DO NOT DETACH ANY PAGES FROM THIS TEST.
+
+3. There are no aids permitted for this test, including calculators.
+
+4. Cellphones, smartwatches, or any other electronic devices are not permitted. They must be turned off and in your
+
+bag under your desk or chair. These devices may not be left in your pockets.
+
+5. Write clearly and concisely in a linear fashion. Organize your work in a reasonably neat and coherent way.
+
+6. Show your work and justify your steps on every question unless otherwise indicated. A correct answer without
+explanation will receive no credit unless otherwise noted; an incorrect answer supported by substantially correct
+calculations and explanations may receive partial credit.
+
+7. For questions with a boxed area, ensure your answer is completely inside the box.
+
+8. The back side of pages will not be scanned nor graded. Use the back side of pages for rough work only.
+
+9. You must use the methods learned in this course to solve all of the problems.
+
+10. DO NOT START the test until instructed to do so.
+
+GOOD LUCK!
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+1. lim
+x→1
+
+(x − 1) − ln x
+(x − 1)2
+
+=
+
+? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ 0
+
+1
+2
+
+⃝ 1
+
+⃝ DNE (→ ∞)
+
+⃝ DNE (→ −∞)
+
+We observe that the limit has the indeterminate form 0
+
+0 and apply L’Hˆopital’s Rule. The result,
+
+1 − 1
+x
+2(x − 1)
+
+lim
+x→1
+
+still has the indeterminate form 0
+
+0 . We apply L’Hˆopital’s Rule a second time and find that
+
+1
+x2
+2
+
+=
+
+1
+2
+
+lim
+x→1
+
+2. Let f (x) = 10log2(x). Which of the limits below represents f ′(4)? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ lim
+h→0
+
+100(10log2(h)) − 100
+h
+
+.
+
+⃝ lim
+h→0
+
+100log2(h) − 100
+h
+
+.
+
+⃝ lim
+h→0
+
+10log2(4h) − 100
+h
+
+.
+
+10log2(4+h) − 100
+h
+
+.
+
+lim
+h→0
+
+By definition,
+
+Note that 10log2(4) = 102.
+
+f ′(4) = lim
+h→0
+
+f (4 + h) − f (4)
+h
+
+= lim
+h→0
+
+10log2(4+h) − 10log2(4)
+h
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+Use the following to answer Question 3 and Question 4.
+
+The table below gives the values for two differentiable functions f (x) and g(x), along with their derivatives
+f ′(x) and g′(x) at the points x = −2, −1, 0, 1, 2.
+
+x
+f (x)
+f ′(x)
+g(x)
+g′(x)
+
+-2
+-5
+2
+6
+-7
+
+-1
+-3
+3
+4
+-5
+
+0
+-2
+0
+0
+-3
+
+1
+-1
+3
+-1
+-1
+
+2
+2
+-4
+-2
+-1
+
+3. Let p(x) = f (x)g(x). Then p′(2) =
+
+? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ -4.
+
+⃝ -2.
+
+⃝ 4.
+
+6.
+
+⃝ 8.
+
+Using the product rule,
+
+p′(2) = f ′(2)g(2) + f (2)g′(2) = (−4)(−2) + (2)(−1) = 6.
+
+4. Let h(x) = f (g(x)). Then h′(2) =
+
+? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ -4.
+
+⃝ -3.
+
+-2.
+
+⃝ 2.
+
+⃝ 4.
+
+Using the chian rule,
+
+h′(2) = f ′(g(2))g′(2) = f ′(−2)g′(2) = (2)(−1) = −2.
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+5. It is generally understood that, given a sound source (e.g. a stereo speaker), each time we double of the number of
+speakers, the sound intensity increases by 3 decibels (dB).
+
+Let f (x) be the number of speakers, and let x be the sound intensity (in dB). Which of the following statements is the
+best interpretation of (f −1)′(15) = 0.2? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ If we have 15 speakers, then adding another speaker will increase the sound intensity by 0.2 dB.
+
+⃝ The sound intensity with 15 speakers is approximately 0.2 times the sound intensity with 16 speakers.
+
+⃝ With 15 speakers, the rate at which the sound intensity is increasing is 0.2 speakers per dB.
+
+The sound intensity with 13 speakers is approximately 0.4 dB less than the sound intensity with 15 speakers.
+
+⃝ If we increase the number of speakers from 15 to 16, then the sound intensity would be approximately 0.2 dB
+
+greater than the sound intensity with one speaker.
+
+The first option is incorrect as the sound intensity will increase by approximately 0.2 dB, not exactly 0.2 dB as stated.
+The second option expresses the derivative as a multiplicative factor which is incorrect, as well as reversing the roles of
+15 and 16 speakers in our interpretation. The third option assigns incorrect units to the derivative of the inverse (should
+be dB/speaker). The final option incorrectly references the relationship between (f −1)′(15), (f −1)′(16) and the sound
+intensity with one speaker. Therefore, the correct choice is the fourth statement. This statement correctly expresses the
+approximate linear relationship between the loudness at 15 speakers, and a nearby point (13 speakers).
+
+6. Suppose that f (x) is differentiable everywhere, and that f ′(x) > 0 for all x. Which of the statements below are true?
+[2 marks]
+
+You can fill in more than one option for this question (unfilled
+
+filled ).
+
+⃝ (f −1)′(x) =
+
+1
+f (x)
+
+.
+
+(f −1)′(x) =
+
+1
+f ′(f −1(x))
+
+.
+
+(f −1)′(x) > 0.
+
+(f −1)′(f (x)) > 0.
+
+If f ′(x) is increasing, then (f −1)′(f (x)) is decreasing.
+
+We are given f (x) is differentiable and striclty increasing (invertible) over its whole domain. Therefore, f (f −1(x)) = x
+for every x, and by chain rule
+
+f ′(f −1(x))(f −1)′(x) = 1
+
+which rearranges to the second option. The remaining three options follow from this expression.
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+7. Suppose that f (x) is a continuous function on [−4, 4]. Below is the graph of y = f ′(x).
+
+y
+
+3
+
+2
+
+1
+
+−4 −3 −2 −1
+
+1
+
+2
+
+3
+
+4
+
+x
+
+f ′(x)
+
+−1
+
+−2
+
+−3
+
+Use this graph to answer parts (a)-(e) below. For each part, fill in all the options that apply (unfilled
+
+filled ).
+
+(a) f (x) has a critical point at x =
+
+? [1 mark]
+
+-3.
+
+-2.
+
+⃝ -1.
+
+0.
+
+1.
+
+2.
+
+⃝ 3.
+
+(b) f ′(x) has a critical point at x =
+
+? [1 mark]
+
+⃝ -3.
+
+⃝ -2.
+
+-1.
+
+0.
+
+⃝ 1.
+
+⃝ 2.
+
+3.
+
+(c) f (x) has a local minimum at x =
+
+? [1 mark]
+
+⃝ -3.
+
+-2.
+
+⃝ -1.
+
+⃝ 0.
+
+⃝ 1.
+
+⃝ 2.
+
+⃝ 3.
+
+(d) f (x) has a local maximum at x =
+
+? [1 mark]
+
+-3.
+
+⃝ -2.
+
+⃝ -1.
+
+⃝ 0.
+
+⃝ 1.
+
+2.
+
+⃝ 3.
+
+(e) f (x) has a point of inflection at x =
+
+? [1 mark]
+
+⃝ -3.
+
+⃝ -2.
+
+-1.
+
+0.
+
+1.
+
+⃝ 2.
+
+⃝ 3.
+
+Graphing, Multiple Choice: No justification is required. Only your final answer will be graded.
+
+The graph of a slope field for a differential equation
+8 and Question 9.
+
+dy
+dx
+
+= f (x, y) is pictured below. Use this slope field to answer Question
+
+8. On the slope field, carefully sketch the solution for x ∈ (−5, 5) that passes through (0, 0). [2 marks]
+
+See above.
+
+9. The given slope field is the slope field of which differential equation below? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝
+
+⃝
+
+⃝
+
+dy
+dx
+dy
+dx
+dy
+dx
+dy
+dx
+
+= cos y cos 2x.
+
+= cos y sin 2x.
+
+= sin y sin 2x.
+
+= sin y cos 2x.
+
+Observing the slope field, we note that dy/dx = 0 at y ≈ π/2. In addition, we observe that dy/dx = 0 at x = ±π, for all
+y. The only option which satisfies these criteria is
+
+dy
+dx
+
+= cos y sin 2x.
+
+Graphing: No justification is required. Only your final answer will be graded.
+
+10. Carefully sketch the graph of a function f (x) on the axes below that satisfies all the given properties. [2.5 marks]
+
+• f (x) is continuous on (−4, 4).
+
+• f ′(x) is negative and increasing on (−4, 0).
+
+• f ′(x) is positive and decreasing on (0, 4).
+
+• lim
+h→0−
+
+f (h) − f (0)
+h
+
+= 0.
+
+• lim
+h→0+
+
+f (h) − f (0)
+h
+
+→ ∞.
+
+y
+
+4
+
+3
+
+2
+
+1
+
+−4 −3 −2 −1
+
+1
+
+2
+
+3
+
+4
+
+x
+
+−1
+
+−2
+
+−3
+
+−4
+
+To satisfy these conditions, for x < 0 we choose a function that is decreasing (f ′(x) is negative) and concave up (f ′(x) is
+increasing). Conversely, for x > 0 we choose a function which is increasing (f ′(x) is positive) and concave down (f ′(x) is
+decreasing). In addition, we require that the derivative of the function as it approaches x = 0 from the left is 0, while the
+derivative from the right approaches ∞ (i.e., tends towards a vertical line). Finally, both sides of the function must meet
+at the same y-value when x = 0 to maintain continuity.
+
+11. A function g(x) on (−4, 4) is pictured below on the left. Carefully sketch the graph of g′(x) on (−4, 4) on the given
+axes on the right. [2.5 marks]
+
+y
+
+4
+
+3
+
+2
+
+1
+
+y
+
+4
+
+3
+
+2
+
+1
+
+−4 −3 −2 −1
+
+1
+
+2
+
+3
+
+4
+
+−4 −3 −2 −1
+
+1
+
+2
+
+3
+
+4
+
+x
+
+x
+
+g(x)
+
+−1
+
+−2
+
+−3
+
+−4
+
+−1
+
+−2
+
+−3
+
+−4
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your final answer in the box provided.
+
+12. Consider the differential equation
+
+dL
+dt
+
+=
+
+1
+2
+
+(100 − L).
+
+(a) Sketch the phase line for this differential equation and classify the equilibrium point(s) on your sketch. [2 marks]
+
+Solving dL
+L > 100, the equilibrium is a stable equilibrium.
+
+dt = 0, we find a single equilibrium point at L(t) = 100. Since dL/dt > 0 for L < 100, and dL/dt < 0 for
+
+(b) The given differential equation models the function L(t), the percentage of a particular task that has been learned
+after t months. Assume that 20% had been learned at t = 0.
+
+(i) On the axes below, carefully sketch the solution to this initial value problem, clearly illustrating the long-term
+behaviour of the solution. Justify any intervals of concavity in your sketch in the blank space to the right of the
+given axes. [2.5 marks]
+
+L
+120
+
+80
+
+40
+
+One way to determine the concavity of the solu-
+tion is to differentiate both sides of the differen-
+tial equation:
+
+dL
+dt
+
+d
+dt
+d2L
+dt2 = −
+
+= −
+
+1
+2
+
+dL
+dt
+
+1
+4
+
+(100 − L)
+
+When L(t) < 100, we see that d2L/dt2 < 0,
+which implies that the solution is concave down.
+Another approach would be to sketch the graph
+of L′ vs. L and observe that L′ is positive and
+decreasing.
+
+t
+
+(ii) Use Euler’s method with step size ∆t = 0.5 to estimate the percentage learned after one month. Show all your
+
+work. [2.5 marks]
+
+We have, ˜L(0.5) = L′(0)(0.5) + L(0) = 40, and ˜L(1) = ˜L′(0.5)(0.5) + ˜L(0.5) = 55. Therefore, the percentage learned
+after one month is approximately 55%.
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your final answer in the box provided.
+
+13. The curve given by the equation
+
+defines y implicitly as a function of x.
+
+y2 − 1 = 1 + x2(y − 1)
+
+(a) Find
+
+dy
+dx
+
+. [2 marks]
+
+Implicitly differentiating both sides of the equation with respect to x using the product rule and chain rule gives:
+
+2y
+
+dy
+dx
+
+= 2x(y − 1) + x2 dy
+dx
+
+After re-arranging, we find dy
+
+dx = 2x(y−1)
+2y−x2 .
+
+(b) Find the equation of the tangent line T (x) to the curve at (−
+
+√
+
+2, 0). [2 marks]
+
+To find the equation of the tangent line, we consider a linear approximation to the relation at the point x = a, T (x) =
+f ′(a)(x − a) + f (a). Substituting a = −
+
+2 and y = f (a) = 0, and using our result for dy/dx above, we have:
+
+√
+
+T (x) =
+
+√
+
+2(−
+2(0) − (−
+
+2)(0 − 1)
+√
+2)2
+
+√
+
+2) = −
+
+√
+
+2(x +
+
+√
+
+2)
+
+(x +
+
+T (x) = −
+
+√
+
+2(x +
+
+√
+
+2)
+
+(c) Determine all points (x, y) where the tangent line to the curve is horizontal. [2 marks]
+
+We determine the points on the curve for which dy
+
+dx = 0. Since
+
+dy
+dx
+
+=
+
+2x(y − 1)
+2y − x2 ,
+
+dy
+
+dx = 0 when 2x(y − 1) = 0 and 2y − x2 ̸= 0. This occurs for x = 0, y ̸= 0 and y = 1, x ̸= ±
+(x, y), we use the original relation. For x = 0,
+
+√
+
+2. To find the actual points
+
+y2 − 1 = 1 + (02)(y − 1)
+y2 = 2
+√
+
+y = ±
+
+2
+
+For y = 1,
+
+(1)2 − 1 = 1 + x2((1) − 1)
+0 = 1
+
+we conclude the points (x, 1) are not on the curve.
+
+Therefore, the two points where the tangent line equals zero are (0,
+
+√
+
+2) and (0, −
+
+√
+
+2).
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way.
+
+14. A cylinder of radius r and height h is stored under a slanted roof as pictured below. The point (h, r) lies on the
+straight line L given by the equation ay + bx = ab, where a and b are fixed positive numbers such that a + b = 1.
+
+(a) Find an equation that represents h in terms of r and a. [2 marks]
+
+Since (h, r) lies on the line ay + bx = ab, we have h = x = a − a
+
+b y. Then, using that a + b = 1, we have
+a
+1 − a
+
+r
+
+h = a −
+
+You can also determine this relation using similar triangles. (Note that a is a constant parameter, and r is a variable...this
+matters in part (b)).
+
+(b) Use the Closed Interval Method to determine the point (h, r) that maximizes the volume of the cylinder. Your answer
+may include the letter a. [4 marks]
+
+Hint: The volume of a cylinder of radius r and height h is V = πr2h.
+
+Using part (a) we have,
+
+where a is a constant parameter. .
+
+V (r) = πr2(a −
+
+a
+1 − a
+
+r)
+
+From the Extreme Value Theorem, we know that V (r) must take on its maximum value on some closed interval at an
+endpoint, or at some interior point of the interval. From our diagram, we see that the interval of interest for r is between
+b = 1 − a (corresponding to a cylinder with 0 height), and 0, corresponding to a cylinder with 0 radius. Evaluating V at
+both of these locations returns V = 0, thus we expect our maximum volume to occur at a critical point inside this interval.
+
+Differentiating V (r) on (0, 1 − a), we find
+
+Solving V ′(r) = 0, we obtain:
+
+V ′(r) = π
+
+(cid:18)
+
+2ra −
+
+(cid:19)
+
+3r2a
+1 − a
+
+r =
+
+2
+3
+
+(1 − a)
+
+To confirm this is a maximum, we can check the value of V (r).
+
+V (
+
+2
+3
+
+(1 − a)) = π(
+
+2
+3
+
+(1 − a))2(a −
+
+2a
+3(1 − a)
+
+(1 − a))
+
+=
+
+4
+27
+
+πa(1 − a)2
+
+For a between 0 and 1, this volume is positive; therefore, this is the maximum volume for the cylinder.
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+

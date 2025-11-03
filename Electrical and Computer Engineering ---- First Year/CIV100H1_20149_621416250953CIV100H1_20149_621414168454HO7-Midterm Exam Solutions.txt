@@ -1,0 +1,138 @@
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIV100F and APS160F – MECHANICS  
+
+Midterm Examination – Sections 1, 2, 3, 4, 5, 6, 7, 8 and Online 
+Tuesday, 21st October 2014 
+
+Examiner: Staff in Civil Engineering 
+
+Time allowed: 1-½ hours 
+
+SURNAME: ________SEICA__________GIVEN NAME(S): _________M. _____________ 
+
+     (Please print clearly) 
+
+STUDENT NUMBER: _____Solutions______ DEPT. (ECE, Track One, etc.)____________ 
+
+CIRCLE YOUR SECTION AND THE NAME OF YOUR INSTRUCTOR: 
+
+1. Grasselli, Giovanni  
+
+5. Guner, Serhan 
+
+Online. Seica, Michael 
+
+2. Grasselli, Giovanni  
+
+6. Kamaleddine, Fouad 
+
+3. Briggs, Scott 
+
+4. Mercan, Oya 
+
+7. Sun, Min 
+
+8. Packer, Jeffrey 
+
+CIRCLE YOUR CALCULATOR TYPE: 
+
+CASIO 991 
+
+    SHARP 520 
+
+Notes:  1. Ensure that you have all 5 sheets of the examination paper. Page 5 is blank. 
+
+2. Answer all three questions. The value of the questions is indicated below. 
+
+3. If you need more space for a question, please use the back of the preceding question. In all  
+    cases, please indicate clearly where your calculations are continued. 
+
+4. The only calculators permitted are listed above. Please circle your model. 
+
+5. No other paper will be accepted for marking or allowed on the desk. 
+
+6. Do not remove the staple. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+        Page 2 of 5 
+
+1. The spring of modulus k = 3.5 kN/m is loaded by a tension force of 35 N when the disc centre O is in 
+the leftmost position (at x = 0). Determine the tension T required to position the disc centre at x = 150 mm. 
+For that position, calculate the distance OA if the moment reaction at the fixed support at A is 60.9 Nm. 
+The mass of the disc is 3 kg. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+        Page 3 of 5 
+
+2. Determine the forces in members CD, JK, EI and FI of this arched roof truss. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+        Page 4 of 5 
+
+3. The pipe ACDE is supported by ball-and-socket joints at A and E and by the wire DF. Determine the 
+tension in the wire when a force with a magnitude of 640N is applied at B, as shown. The weight of the 
+pipe is small and can be ignored. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NAME: _________________________________ 
+
+        Page 5 of 5 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

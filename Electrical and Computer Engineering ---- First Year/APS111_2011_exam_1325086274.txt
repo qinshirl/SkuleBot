@@ -1,0 +1,717 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Final Examination, December 12, 2011 
+Duration: 2.5 hours 
+APS111H1 F and APS113Y1 Y - Engineering Strategies & Practice 1 
+
+Calculator Type: 4 (No electronic or mechanical devices permitted) 
+Exam Type: A (Closed book, no aids permitted) 
+Course Coordinator: J. Bazylak 
+Communication Coordinator: Dr. P. Weiss 
+Module B Coordinator: Prof. P.H. Byer 
+
+Instructions: 
+This is a closed book exam; no calculators or aids are permitted, except for a translation-only 
+dictionary, i.e. direct word-to-word translations but no definitions. There are two parts of the 
+exam: multiple-choice questions, and a writing component. Read each question carefully. 
+
+For the multiple-choice portion, provide the most correct answer to each question on the 
+answer sheet. Only one answer is to be given for each question. Be sure to fill out the 
+answer sheet clearly with no overlaps, using a pencil. Erase any errors completely. There 
+are a total of 37 multiple-choice questions, each of which is worth about 1.6 marks, for a total 
+of 60 marks worth 60% of the exam.  
+
+The second part of the exam is a writing component worth 40% of the exam. Answer this 
+part in the exam booklet carefully following the instructions.  
+
+Part 1: 
+
+Multiple-choice questions (60%)  
+
+1. The Conceptual Design Specification helps develop which Critical Thinking ability?  
+a.  Ability to commit to a solution that balances the needs of different stakeholders. 
+b.  Ability to translate a client statement into an engineering need.  
+c.  Ability to generate multiple solutions and determine criteria for choosing one.  
+d.  Ability to understand and express a problem from multiple perspectives.  
+e.  Ability to reflect on lessons learned in a project so that your process improves.  
+
+2. Creativity tools, such as SCAMPER, are used to: 
+
+a.  expand the design space 
+b.  narrow the design space 
+c.  define the design space 
+d.  organize the design space 
+e.  constrain the design space 
+
+Page 1 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Suppose you are designing a new search engine algorithm to compete with Google. In 
+your requirements you have two primary objectives. The search engine should be: 
+
+#1  Fast: It should take no more than a microsecond to produce a search list. 
+#2  Accurate: The top listed site should be the most relevant for the user based on the 
+
+search words. 
+
+Which of the following is an appropriate metric for objective #2? 
+a.  The top 10 sites identified by the algorithm should contain the search words. 
+b.  Use a focus group to assess the user interface for usability. 
+c.  The algorithm should never produce irrelevant results. 
+d.  Use a focus group to rate the relevance of the top site identified by the algorithm in 
+
+normal use. 
+
+e.  Measure the time period from search word entry to the appearance of the top site. 
+
+4. Which of the following is a “best practice” for community consultation? 
+
+a.  Consultation is useful at every step of the process 
+b.  Wait until late in the process to address conflicts 
+c.  Consultation should mainly help stakeholders understand the proposed design 
+d.  a and b 
+e.  b and c 
+
+5. The systems approach to design is characterized by: 
+
+a.  the systematic thoughts of the users 
+b.  the use of electronic systems 
+c.  consideration of the relationships and interactions between elements of a design 
+d.  All of the above 
+e.  b and c 
+
+6. Which of the following is an objective of cyclists using a public bike rental system? 
+
+a.  Separate lanes for bikes and autos 
+b.  Inexpensive bike rentals 
+c.  Rentals must cost less than $5 per day 
+d.  All of the above 
+e.  a and b 
+
+7. Which of the following should be included in an individual's area of leadership? 
+
+a.  Charisma 
+b.  Bias 
+c.  Passions 
+d.  Financial needs 
+e.  All of the above 
+
+Page 2 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Which of the following is NOT one of the four leadership styles covered in the course? 
+
+a.  Authoritarian 
+b.  Analytical 
+c.  Driver 
+d.  Amiable 
+e.  Expressive 
+
+9. Which of the following is correct? 
+
+a.  The humanistic view alone can clearly see the relationship between people and 
+
+technology 
+
+b.  The Human-tech approach to design uses feedback 
+c.  Engineering design should fit human nature to accommodate technology 
+d.  All of the above 
+e.  None of the above 
+
+10.  Which of the following statements is NOT suggested by the human-tech view? 
+
+a.  Engineers help solve social problems. 
+b.  Engineers should have technical excellence. 
+c.  If technologically feasible, we should automate as many operator tasks as possible. 
+d.  If a system doesn't work for people, it doesn't work.  
+e.  Engineers should design systems, which take advantage of people's capabilities and 
+
+compensate for people's limitations.  
+
+11.  Which of the following creates a legal constraint for design decisions? 
+
+a.  Professional code of ethics  
+b.  Regulations  
+c.  Government guidelines  
+d.  All of the above 
+e.  a and b 
+
+12.  A company manufactures and sells a product that does NOT meet government safety 
+
+standards, and several users are injured because of this improper design. The company 
+would be subject to:  
+a.  criminal liability 
+b.  civil liability 
+c.  criminal liability and civil liability 
+d.  an ethical dilemma 
+e.  c and d 
+
+Page 3 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+13.  Which of the following has had significant social impacts? 
+
+a.  Vacuum cleaners 
+b.  Cell phones 
+c.  Roads constructed in areas where Aboriginal peoples hunt 
+d.  All of the above 
+e.  b and c 
+
+14.  For the design of an automobile, which of the following is an example of a strategy in 
+
+design for the environment (DfE)? 
+a.  Design the automobile so that it is easier to repair. 
+b.  Design the automobile with better air emission controls. 
+c.  Design the automobile with better fuel efficiency. 
+d.  All of the above 
+e.  a and c 
+
+15.  Which of the following is NOT a principle of industrial ecology (design for sustainability)? 
+a.  Industries should reduce pollution to levels needed to meet legal requirements 
+b.  Every product should be designed so that it can be used to create other useful 
+
+products at the end of its current life. 
+
+c.  Industries should make minimum use of materials and energy in products and 
+
+processes. 
+
+d.  Products and processes can produce residuals, but not waste. 
+e.  Materials used should be the least toxic for purpose. 
+
+16.  The use of recycled plastic bottles in the manufacturing of polyester clothing is an 
+
+example of: 
+a.  Design for the environment thinking 
+b.  Cradle-to-Grave thinking 
+c.  Industrial ecology 
+d.  Pollution control 
+e.  a and c  
+
+17.  Two designs are economically identical except that Design A has an initial investment of 
+$1,000 and no salvage value. Design B has an initial investment of $3,000 and a salvage 
+value of $2,000. Which of the following principles or concepts can be used to make a 
+recommendation? 
+a.  Time value of money 
+b.  Strategy of least commitment 
+c.  Pay back period 
+d.  Engineering estimation 
+e.  External costs 
+
+Page 4 of 14 
+
+ 
+ 
+  
+ 
+Questions 18 to 21 refer to the following situation: A company manufactures plastic 
+cups. The manufacturing facility operates 8 hours/day, 5 days/week. The company buys raw 
+plastics from another company and then uses a machine to mold the plastic into cups. It then 
+pays another company to transport the cups in boxes of 10,000 cups for sale around the 
+country; each truck can carry 1000 boxes. They sell each box for $100 and generally sell 
+between 50 and 200 truck-loads per year depending on the demand for their cups. In 
+addition to other costs, the company pays for following: 
+
+1.  Rent for the building where it manufactures the cups    
+2.  Heat for the manufacturing building 
+3.  Electricity for the molding machine 
+4.  Raw plastics 
+5.  Transportation of the cups for sale  
+
+18.  Which of these costs is a fixed, ongoing cost? 
+
+a.  1, 2 and 3 
+b.  2, 3 and 4 
+c.  3, 4 and 5 
+d.  1 and 2 
+e.  2 and 3 
+
+19.  The economic objective of the company is to: 
+
+a.  Minimize costs 
+b.  Maximize profit or net revenues 
+c.  Make a profit 
+d.  Keep within its budget 
+e.  Maximize revenues 
+
+20.  If the fixed costs are $2,400,000 per year, and the variable costs are $40 per box, which 
+
+of the following is correct? 
+a.  If the company sells 50,000 boxes/year, the net revenue = $ 600,000 per year. 
+b.  If the company sells 50,000 boxes/year, the net revenue = $ 2,000,000 per year. 
+c.  a is correct and the breakeven quantity is 40,000 boxes per year. 
+d.  a is correct and the breakeven quantity is 50,000 boxes per year. 
+e.  b is correct and the breakeven quantity is 40,000 boxes per year.  
+
+21.  If the price of a box of cups increases, which of the following will be correct? 
+
+a.  Fewer boxes will be sold 
+b.  Revenues will increase 
+c.  Net revenues will increase 
+d.  All of the above 
+e.  b and c 
+
+Page 5 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22.  A sensitivity analysis can be used to: 
+
+a.  understand the effects of uncertainties about economic costs and benefits 
+b.  understand the concerns of the stakeholders 
+c.  understand the health effects of pollutants on sensitive species 
+d.  All of the above 
+e.  None of the above 
+
+23.  The preferred design alternative is the one that: 
+
+a.  is the least expensive 
+b.  best meets the objectives of the client and users 
+c.  best addresses the objectives of the client, users and other stakeholders 
+d.  is the one that meets all regulations 
+e.  a and d 
+
+24.  The government is considering three alternative technologies to generate electricity, and 
+wishes to compare these technologies on the basis of their economic, environmental and 
+social impacts. Below are the rankings of these technologies on an ordinal scale, where 1 
+is the best and 3 is the worst, for each of these factors: 
+
+Technology 1 
+
+Technology 2 
+
+Technology 3 
+
+Economic impacts 
+Environmental impacts 
+Social impacts 
+
+1 
+2 
+1 
+
+2 
+1 
+3 
+
+3 
+3 
+2 
+
+   What can you conclude about these designs?  
+
+a.  Technology 1 is best  
+b.  Technology 2 is best  
+c.  Technology 3 is best  
+d.  Technology 1 is best and Technology 3 is worst 
+e.  There is insufficient information to make any of the above conclusions. 
+
+Page 6 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questions 25 through 37 relate to Case #1 which is described on page 13. 
+
+25.  In Case #1, an example of an explanation is found in which of the following sentences or 
+
+parts of sentences? 
+a.  Of particular concern to the environmental group is that the road would disturb the 
+
+habitat of a special species of bird that lives in the natural area.  
+
+b.  …since it would disturb the natural area and would increase noise and air pollution 
+that would disturb the homeowners and decrease the value of their properties. 
+c.  …it is not legally required by the Endangered Species Act to protect that particular 
+
+species of bird.  
+
+d.  The government states that the noise at the homes from the road use would be lower 
+
+than the regulated level of 50 dB... 
+
+e.  Homeowners and a local environmental NGO are understandably against route #1… 
+
+26.  In Case #1, an example of an effect on a stakeholder interest is found in which of the 
+
+following sentences or parts of sentences? 
+a.  Homeowners and a local environmental NGO are understandably against route #1… 
+b.  …it is not legally required by the Endangered Species Act to protect that particular 
+
+species of bird.  
+
+c.  …since it would disturb the natural area and would increase noise and air pollution 
+that would disturb the homeowners and decrease the value of their properties. 
+
+d.  The government states that the noise at the homes from the road use would be lower 
+
+than the regulated level of 50 dB... 
+
+e.  None of the above 
+
+27.  In the second paragraph of Case #1, the statement that is developed, overall, by the 
+
+paragraph is found in which of the following sentences or parts of sentences? 
+a.  …it is not legally required by the Endangered Species Act to protect that particular 
+
+species of bird.  
+
+b.  …since it would disturb the natural area and would increase noise and air pollution 
+that would disturb the homeowners and decrease the value of their properties. 
+c.  Of particular concern to the environmental group is that the road would disturb the 
+
+habitat of a special species of bird that lives in the natural area.  
+
+d.  Homeowners and a local environmental NGO are understandably against route #1… 
+e.  The government states that the noise at the homes from the road use would be lower 
+
+than the regulated level of 50 dB... 
+
+Page 7 of 14 
+
+ 
+ 
+ 
+ 
+28.  In Case #1, an example of evidence is found in which of the following sentences or parts 
+
+of sentences? 
+a.  Of particular concern to the environmental group is that the road would disturb the 
+
+habitat of a special species of bird that lives in the natural area.  
+
+b.  …it is not legally required by the Endangered Species Act to protect that particular 
+
+species of bird.  
+
+c.  Homeowners and a local environmental NGO are understandably against route #1… 
+d.  The government states that the noise at the homes from the road use would be lower 
+
+than the regulated level of 50 dB... 
+
+e.  …since it would disturb the natural area and would increase noise and air pollution 
+that would disturb the homeowners and decrease the value of their properties. 
+
+29.  In Case #1, truckers prefer route #1 because: 
+
+a.  On the psychological level of the Human-tech ladder, getting somewhere directly is 
+
+easier to learn than taking longer. 
+
+b.  On the organizational level of the Human-tech ladder, it enables them to meet their 
+
+company's goals more easily. 
+
+c.  On the physical level of the Human-tech ladder, it is better because it reduces the 
+
+time more than route #2. 
+
+d.  On the political level of the Human-tech ladder, people, rather than the system, will be 
+
+blamed for not getting to the destination on time. 
+
+e.  On the team level of the Human-tech ladder, it means that the shifts for drivers can be 
+
+more evenly divided. 
+
+30.  In Case #1, which of the following would NOT be a stakeholder in the design of this road? 
+
+a.  The environmental NGO 
+b.  Homeowners near the proposed route 
+c.  Birds in the natural area 
+d.  Commuters 
+e.  None of the above 
+
+31.  In Case #1, when designing the road, including its route, which of the following are 
+
+objectives that should be considered? 
+a.  The local homeowners want to minimize any loss in their property values. 
+b.  The government requires that the road cost less than $100 million to build. 
+c.  The road design must meet the requirements of the Endangered Species Act. 
+d.  All of the above 
+e.  a and b 
+
+Page 8 of 14 
+
+ 
+ 
+ 
+ 
+32.  In Case #1, in order to reduce the level of noise at the homes, the government has 
+
+decided that it will construct a noise barrier between the road and the homes. A noise 
+barrier is an example of a design that is based on: 
+a.  pollution prevention 
+b.  pollution control 
+c.  design for environment 
+d.  design for sustainability 
+e.  None of the above 
+
+33.  In Case #1, which of the following are social factors that would likely be affected by 
+
+building the new road? 
+a.  Leisure time 
+b.  Enjoyment of property 
+c.  Bird watching 
+d.  All of the above 
+e.  None of the above 
+
+34.  In Case #1, the government is also considering whether to use concrete or asphalt 
+
+pavement materials. An economic analysis has produced the following data for Route #1: 
+
+Concrete pavement 
+Asphalt pavement 
+
+Initial Cost 
+$60 million 
+$42 million 
+
+Ongoing Cost 
+$ 4 million/year 
+$ 6 million/year 
+
+What is the payback period for the concrete pavement compared with the asphalt 
+pavement for this route? 
+a.  7 years 
+b.  8 years 
+c.  9 years 
+d.  15 years 
+e.  22 years 
+
+35.  In Case #1, which of the following are likely to be environmental impacts that should be 
+
+considered when designing the road? 
+a.  Loss of bird habitat 
+b.  Human health and safety 
+c.  Cumulative effects on air quality 
+d.  All of the above 
+e.  b and c 
+
+Page 9 of 14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36.  In Case #1, a life-cycle assessment of a road made of concrete pavement should include: 
+a.  fuel that would be needed to operate the equipment used to mine the aggregate 
+
+(rocks) that is used in the pavement 
+
+b.  the pollution created during the manufacturing of the concrete 
+c.  the effects of the pollution created during the manufacturing of the equipment used to 
+
+build the road 
+d.  All of the above 
+e.  a and b 
+
+37.  In Case #1, during public consultation, a third route was proposed. The government 
+
+wishes to evaluate the three routes on the basis of cost, travel time and noise. The table 
+below shows the scores (on a scale of 0 to 10, where 10 is best) and weights (on a scale 
+of 0 to 100) for the three objectives for the three routes: 
+
+Cost 
+Travel time 
+Noise 
+
+Weights 
+30 
+50 
+20 
+
+Route #1 
+10 
+10 
+0 
+
+Scores for 
+
+Route #2 
+0 
+0 
+10 
+
+Route #3 
+8 
+8 
+8 
+
+  What can you conclude about the three alternative routes? 
+
+a.  Route #1 is the best route 
+b.  Route #2 is the best route 
+c.  Route #3 is the best route 
+d.  Route #1 and Route #3 are equally the best routes. 
+e.  Route #2 is dominated by Route #3 
+
+Page 10 of 14 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 2:  
+
+Long Answer Question (40%) 
+
+INSTRUCTIONS: This question requires three written answers. Use an exam booklet, and 
+write in your name, student number, course, and date of examination on the booklet’s cover 
+page. You may use as many pages as you need for your preliminary work, but the final 
+answers must be no more than four (4) pages single spaced or eight (8) pages double 
+spaced. Clearly indicate the final copy to be graded by writing “Final Copy” at the start of it. 
+Use headings, subheadings, paragraphs, and bullet lists where appropriate. 
+
+1.  Based on the case given below, identify the key stakeholders and their interests. 
+
+Identify functions, objectives and/or constraints that arise from their interests. Indicate 
+how particular functions, objectives or constraints are related to human factors, 
+economic or environmental concerns. (20%) 
+
+2.  Based on the case given below, write a concise Problem Statement in your own 
+
+words. (15%) 
+
+3.  Based on the case given below, identify the Service Environment. (5%) 
+
+The Case for Developing New Technology for Desalinating Water 
+
+PC Investment (PCI) is an organization that creates partnerships between industry, 
+government, researchers, and organizations such as the World Bank and Engineers without 
+Borders to solve the world's wicked problems. One such problem is access to clean water for 
+human consumption and agricultural purposes. 
+
+Background 
+
+Human population growth combined with over-use of water resources for domestic 
+purposes, industry, and irrigation has resulted in a shortage of fresh water supply in many 
+parts of the world. Only 0.5% of the water in the world is accessible fresh water, and this 
+water is not equally available in all parts of the world. Twenty-six countries do not have 
+sufficient water resources to sustain agriculture and economic development, and 
+approximately one billion people lack access to safe drinking water. In addition, the projected 
+40–50% growth in human population over the next 50 years, coupled with industrialization 
+and urbanization, will result in an increasing demand on the available water resources.  
+
+With nearly 98% of the world’s available water supply being sea or brackish water (part sea, 
+part fresh water, found near the mouths of rivers), desalination has become an important 
+alternative source of clean water. Although in 2009, worldwide seawater desalination 
+capacity increased by 12.4% and is projected to grow with increasing demand for clean 
+water, only 4% of these facilities were located in Africa, where, according to UN reports, 20% 
+of the world's population struggles for access to safe drinking water on a daily basis.  
+
+Obstacles to expanding desalination technologies around the world include:  
+-  energy and infrastructure costs, which deter the economical production and distribution 
+of clean water; these costs ranged, in 2009, between approximately $0.10 and $1.50 
+(US dollars) per 1 m3, 
+
+-  contamination due to microorganisms present in water coming into the plant, 
+
+Page 11 of 14 
+
+ 
+-  damage from salt that is not completely dissolved; this reduces the efficiency and life of 
+
+water treatment plants, resulting in high costs for water pre-treatment and early 
+replacement for the facility or parts of the facility, 
+
+-  weak economies and government instability which create challenges to the 
+
+establishment of costly water desalinization plants. 
+
+The Challenge: Meeting the Global Demand for Clean Water 
+
+Proposals are being sought for projects utilizing recent advances in nanotechnology, to 
+decrease total cost of desalination by increasing energy efficiency, minimizing costs 
+associated with water pre-treatment, and decreasing the capital costs. PCI will then become 
+involved to find private and public funding to support these projects. Proposals must identify 
+the location and scope of the projects. 
+
+This case study adapted from: T. Humplik, J. Lee, S.C. O’Hern, B.A. Fellman, M.A. Baig, S.F. Hassan, M.A. 
+Atieh, F. Rahman, T. Laoui, R. Karnik and E.N. Wang "Nanostructured Materials for Water Desalination" 
+Nanotechnology 22 (2011)   
+It also used information from Water for Children Africa (no date) "The Facts." 
+http://waterforchildrenafrica.org/facts.html (Accessed) 11/27/2011 6:11 PM 
+
+Page 12 of 14 
+
+You may remove this page in order to use it when answering questions 25 through 37. 
+
+Case Study #1: Road Design 
+
+The government is planning to build a new road to lessen the travel times for cars and trucks 
+between two cities. Two potential routes for the road are being considered. Route #1 is a 
+direct route that would go through a natural area next to a housing development and would 
+reduce travel times by about 25%. Route #2 is longer in order to avoid the natural area and 
+homes, but would only reduce travel times by 15%. Truckers and commuters, of course, 
+prefer route #1. All other potential routes have been eliminated since they would cost more 
+than the government budget of $100 million to build the road.  
+
+Homeowners and a local environmental NGO are understandably against route #1 since it 
+would disturb the natural area and would increase noise and air pollution that would disturb 
+the homeowners and decrease the value of their properties. Of particular concern to the 
+environmental group is that the road would disturb the habitat of a special species of bird 
+that lives in the natural area. The government states that the noise at the homes from the 
+road use would be lower than the regulated level of 50 dB, and that while the bird might be 
+disturbed, it is not legally required by the Endangered Species Act to protect that particular 
+species of bird. 
+
+Page 13 of 14 
+
+ 
+ 
+ 
+Intentionally blank page 
+
+Page 14 of 14 
+
+ 
+ 
+

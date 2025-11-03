@@ -1,0 +1,271 @@
+MAT187 - Calculus II
+
+Term Test 1 – Group Part - February 5, 2019
+
+Time allotted: 30 minutes
+
+Total marks: 10
+
+Aids permitted: None
+
+Name
+
+UTorID
+
+email @mail.utoronto.ca
+
+Instructions
+
+(READ CAREFULLY)
+
+• DO NOT WRITE ON THE QR CODE AT THE TOP OF THE PAGES.
+
+• Read all the instructions carefully.
+
+• This test contains 8 pages and a detached formula sheet. Make sure you have all of them.
+
+• You can use page 7 for rough work or to complete a question (Mark clearly).
+
+DO NOT DETACH ANY PAGES.
+
+• No calculators, cellphones, or any other electronic devices are allowed. If you have a cellphone
+
+with you, it must be turned oﬀ and in a bag underneath your chair.
+
+GOOD LUCK!
+
+MULTIPLE-CHOICE PART.
+
+(4 marks)
+
+ANSWER THESE QUESTIONS ON PAGE 8.
+
+Only your answer on page 8 will be graded.
+
+1.
+
+(2 marks) Consider the integral
+
+(cid:90) 23
+
+−1
+
+(cid:0) − x2 − 3x − 19(cid:1) dx. Choose the only correct ordering.
+
+(A) M242 <
+
+(cid:90) 23
+
+−1
+
+(cid:0) − x2 + 3x − 19(cid:1) dx < M121.
+
+(B) M242 < M121 <
+
+(cid:90) 23
+
+−1
+
+(cid:0) − x2 + 3x − 19(cid:1) dx.
+
+(C) M242 <
+
+(cid:90) 23
+
+(cid:0) − x2 + 3x − 19(cid:1) dx < T121.
+
+(D) T121 <
+
+−1
+(cid:90) 23
+
+−1
+
+(cid:0) − x2 + 3x − 19(cid:1) dx < M242.
+
+(E) M242 < T121 <
+
+(cid:90) 23
+
+−1
+
+(cid:0) − x2 + 3x − 19(cid:1) dx.
+
+2.
+
+(2 marks) To calculate the integral
+
+(cid:90) 6
+
+sec(x) dx, we need to split the integral into several integrals.
+
+−1
+Select a correct way to split the integral.
+
+sec(x) dx
+
+sec(x) dx
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(cid:90) 0
+
+−1
+
+(cid:90) π
+2
+
+−1
+(cid:90) π
+2
+
+−1
+
+(cid:90) π
+2
+
+−1
+
+sec(x) dx +
+
+sec(x) dx +
+
+sec(x) dx +
+
+sec(x) dx +
+
+(cid:90) 6
+
+0
+
+(cid:90) 6
+
+π
+2
+(cid:90) 3π
+2
+
+π
+2
+
+(cid:90) π
+
+π
+2
+
+sec(x) dx +
+
+(cid:90) 6
+
+3π
+2
+
+sec(x) dx
+
+sec(x) dx +
+
+(cid:90) 3π
+2
+
+π
+
+sec(x) dx +
+
+(cid:90) 6
+
+3π
+2
+
+sec(x) dx
+
+Continued...
+
+LONG ANSWER PART
+
+3.
+
+It’s the 1960’s and NASA is trying to ﬁnd out how much work it will take
+
+(6 marks)
+
+to get a spaceship to escape the gravitational pull of Earth. This means that the spaceship should
+
+be able to keep going forever, getting further and further away from Earth.
+
+The formula for work is W = F d, where F is the force acting on the object and d is the displacement.
+GM m
+r2
+M is the mass of the Earth, m is the mass of the spaceship, and r is the distance from the centre of
+
+, where G is the universal gravitational constant,
+
+The gravitational pull of Earth has magnitude
+
+the Earth. You can denote the radius of the Earth as R.
+
+(a) (2 marks) Find an integral formula for the work it takes to bring a spaceship from the surface
+
+of the Earth to a distance h from the surface.
+
+Explain every step and deﬁne all your variables and constants.
+
+(You can continue your answer to (a) on the next page)
+
+Continued...
+
+Continued...
+
+(b) (1 mark) Find an integral formula for the work it takes for a spaceship starting from the surface
+
+of the Earth to go on forever getting further and further away from Earth. Justify your answer.
+
+Hint. You don’t need to solve the integral.
+
+(c) (1 mark) Is the amount of work from (b) ﬁnite or inﬁnite? Justify your answer.
+
+Continued...
+
+(d) (2 marks) In reality, the mass of the spaceship also decreases, due to diminishing fuel.
+
+Assume that the mass of the spaceship is given by
+
+
+
+
+4a − br
+
+m(r) =
+
+if br < 3a
+
+(burning fuel)
+
+
+
+a
+
+if br = 3a
+
+(ran out of fuel)
+
+where a and b are positive constants.
+
+Is the amount of work it takes for a spaceship starting from the surface of the Earth to go on
+
+forever, getting further and further away from Earth, ﬁnite or inﬁnite? Justify your answer.
+
+Continued...
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+The end.
+
+

@@ -1,0 +1,782 @@
+Common Integrals
+Slusdx =xyx-x +2
+I a"dx =a +c
+Itik:In 1 +c
+/logalds =A +
+
+Common Derivatives
+die"= e"
+sins:coss
+coss)--sin
+*tansi =sec
+(n(g):I
+deg"*:goye"
+3 =
+seas:sectanc
+
+- (sat
+
+acots=-cs
+
+Function Properties
+
+since man"en go hange. Yo,
+
+tans)
+
+(CER, s F +nT
+
+Average Value of a Function
+Mean value theorem
+f(x) continuous on [a, b], thereexista point 2:
+f(x) =farg =b-a(af(x)dx
+
+Examination Aid Sheet 
+Faculty of Applied Science & Engineering 
+Both sides of the sheet may be used; 
+must be printed on 8.5” x 11” paper.  
+
+Integration By Parts
+·Judv=ur-Judu 1. Use long division -- proper
+
+Partial Fraction Decomposition
+
+2. Split into linear/quadraticfactor
+
+Trig substitution
+
+-
+
+1x+a
+
+O
+
+a
+
+x
+
+I
+
+x =fant
+
+C
+
+U-sub Tips Achange bound
+A perivative also appears
+* Inner function
+A Raised to the highest power
+* Appears in denominator
+
+Trig Identities
+
+tsse"the
+
+=2cos-1
+
+- 1- sin2*
+
+Calculus I MMAT187
+Subject:___________________________ 
+
+Candidate’s name:____________________ 
+
+Kexin Qian
+
+Candidate’s signature:_________________ 
+
+IR&
+
+3.Linear.Asabitane e any" +by'+ y =0
+
+s
+
+A
+
+second order ODE[Homogeneous]
+
+Top choice
+
+⑪
+
+·
+
+Log
+Inversetig
+Algebraic
+nential v
+
+* Ifrepeated factorincrease degree of
+denominator:pt + is +is
+
+A Top -> 1 degrees bottom
+
+Improper Integral
+8Infinite interval ofintergration P-test
+2Intergrand has vertical asymptote
+jafx)dx =bin( f(x)ds
+1f(ds =m(afli)ds)
+* converge- limitexist & finite
+* diverge -limitdoes notexist
+Comparison Test
+* f(x) &g(x)
+* f(x) <g(x) over [a, 0)
+
+continuouson [a,-)
+
+Case 1:
+
+Case 2:
+
+IPd Sodes
+·If q1-converge · itp<, 1- diverge
+·Ifp1 --diverge. If p</-converge
+IJaaods & Itgodss
+
+-
+
+same situation
+
+Exponential Test
+
+Jo **do
+
+I *Discontinuityatpoint
+
+· Ifa <0 -> converge
+· Ifa so -a diverge
+
+g(x)
+f(x)
+
+g() converge -> fill converge
+fill) diverge ->g(x) diverge
+
+Jafsydis- Jafend+feydo
+
+With
+
+order Linear y()H) +an(t)yin-"(+) + . . . . a,(t)y(t) +90(t)y(t) =f(t)
+
+with derivative
+
+Order
+
+nth derivative
+
+Firstorder separable
+y'() =g(y) f(t)
+solving 1 =G(y)f(t)
+gty,dy =f(t)d+
+Sgtyidy:(f(t)d+
+
+s
+
+somefert.
+
+Ordinary only 1
+
+independentvariable
+
+Integratingfactor
+standard form y(ct)+p(t)y =f(t)
+& Never lose solution e.g.
+Inly-to
+I. F:
+eS9(x)ds) -multiply all terms&
+
+integrate
+
+y.(I.F) =I (I.F) fit)
+
+First-order Antonomous
+y' =4 =f(y)
+* Noindependentvariable
+* Has phase plot
+Qualitative Analysis
+1. Find constantsolution-byH):<
+2 =0
+
+stable
+
+Unstable
+
+semisable
+
+3 incasei me
+
+-
+
+n
+
+A can connect to phase
+
+to determine
+
+type & glug values & interval
+
+2. Iff(x) =0 y'=f(y), Cisequilibrium & In direction field, same across -
+
+x
+
+-
+
+Jx?
+
+O
+
+I
+
+sh
+
+x=bsect
+
+2 solutions
+
+to
+y, andye
+LinearlyIndependent
+general solution
+y =x,y, +(2y2
+
+Discriminant:
+
+30 y(t) =c,et +cekt
+=0 yH) =C, exit +cent
+so y(t) =e+(C,coS(pt) + (cos(pt)
+solu
+Behaviour ra +Bir =a - Bi
+
+230
+
+a =0
+
+a<0
+
+un er Un
+
+b2xacoregiarg
+second order ODE[Non-Homogeneous]
+ay"+ by'+cy=f(t)
+solve
+1. Find general soln. Yc for homogeneous
+2. Find particular soln. Ys
+3.Add y, and
+Find a
+· Guess form -adjust
+· Works best ifflt)= polynomials, sin/cos, expo,
+A sum of particular to 2 ODEis soln.
+
+up for solution
+
+Method of undeterminedcoefficient
+Guess
+f(t)
+R
+ax+b
+
+As+B
+
+A
+
+as+bx+c
+
+As2+Bilt C
+
+ae)
+acosC+bsiBi ACosBcc+BsinBS2
+
+Ae
+
+*
+
+same
+This
+
+Ainclude all terms even if Box 2 =0
+* If cos or sin alone, need both terms
+Steps
+Isolve complementary equation and write general solu
+
+=0
+
+x
+
+the ODES
+
+to the sum of
+A soln is linear combination ofterms containfit) & Guess , based on f(H
+* After differentiation
+same term appear
+*Ifnotlinear independent, multiplyof until
+diff fromhomogeneous Sohn.
+
+& Check ifanyterm solves complementary, if so, *t
+& Sub a into ODE to find coefficient(s)
+5Add y, and ye
+
+theliner combination of
+
+Estimation Methods
+
+Left
+
+overestimate
+strictlydecreasing
+Rightstrictlyincreasing
+MidpointAlways concavedown
+Trapezoid Always concure up" down
+
+underestimate faila, start do D
+increasing
+"decreasing E,fili) os, end a lastpointB
+up + a b
++f(x)
+
+E*[f(0) +2f(x,) +f(x).. . .
+
+n
+
+Modelling with Riemann
+
+tative"intsGEr
+
+=sk*
+
+3. Use thefunction -> itexact, then limit
+
+Ratio Test
+
+Taylor series & Radius of Convergence
+f(x)=E f(R)(a)-* for KI-al
+
+·onlyif im Ra(s) =0
+
+or -interval in which fall:its Taylorseries
+
+Modelling Area Arclength
+
+- am. LetL:him a an:f(x)(a) Ara length
+
+(2) - Eolar) absolutelyconverge
+
+Taka. I are converge tot
+
+↳31 -an diverge
+L =1 -Inconclusive
+
+51 +(f(x)2 dx
+Area b/nc curves
+A:Sms(top-downdsc
+
+circle ofradius - a centre (a,b)
+
+1- 93+ly -b)
+
+=
+
+=22
+
+as0 Right
+
+b>0Up
+parametile
+
+A
+
+= rcosOfa
+
+y=usinofb
+
+Rose curves
+r =asin(nE)
+
+odd -> same petals
+
+r=acos(nE)
+at0
+
+even -> double petals.
+
+xitococi- only (cycle
+getals.
+
+:. exactnumber of
+
+n> 1,tE
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+
+Power Series
+
+Polar coordinates/Graghs
+Cr, 0)
+defendentindepent
+* see and pagefor information
+circle in polar coordinates
+
+centred a ( =a
+E(n(-a =(0 +c,(x - a) +c(x -at...
+*smooth funcf(x) -> taylow:power
+* Differentiable termby term on interval ofconvergence.Icircle with centre (9,0) & radius (al
+convergence of power series & (=6
+limecuCso-ag" exist
+Find where power series converge
+Applyratio test&find condition for so under 9 <
+3 cases of power series convergence - Iwhere is a or NS
+
+Cartesian Graph to Polar Curve
+1. Identifyhow a changes as a grows
+
+⑦ circle with centre Co, ald radius (al
+
+-> ky plane
+
+~againstr
+
+r =2asit
+
+r =2 acos
+
+Ho
+
+Motion Modelling
+(t) representation
+(t) position ="(t) acceleration
+(t) velocity(IH)1) speed
+Acceleration
+
+I(t) 11 =1
+objectmoving in sphere
+*It) constant
+115"(II constant
+Iconstantvelocity -constantspeed]
+11 (t) II constant
+"It) maynotbe constant
+I constantspeed, not constant]
+
+acceleration
+
+acceleration
+
+tangential
+
+my"+ cy'+ ky =0
+
+v"(t) =a(t) =aY(t) +C) SpringMass Systems
+at=*l15"Hill3 Not a rector me massing constantto
+9N
+a+(t) > 0 a+H) =09T(t)20 Simple Harmonic Motion
+speedingup tomystudy
+
+=K11 'Hill
+
+spring constant
+
+GNC) > 0
+
+9HH) =0 CNC) <0 mr+ cr+R =0 SE
+
+02(t)=2,cos]+ sind
+
+mean
+CharacteristicPolynomial:
+
+soln
+
+converge for all values of
+case I
+Case 2 diverge for all values of except a
+case 3 Exists RER such thatif(K-akR-Aconverge
+setof values 2 for series to converge
+->interval ofconvergence
+
+2. Identifyordered pairs, cr, 0), where:
+i) E =radian measurethatare easy to locate
+
+10, . , , etc
+
+Ix-akR -- diverge ii) r =0 -> points where curve
+
+goes through pole
+
+lie on opposite extension ofhangdirection notturningimpossible Definitions:
+
+iii) r s0 -> point
+
+terminal arm associated with 0
+
+Alternatingseries
+· Alternating signs & decreasingterms
+in magnitude
+
+Errorfor alternating series s
+S =SntRn = H)
+Error1=1S-SN 9N+1
+
+**
+
+D
+
+an
+
+↓
+(Rn)
+* The restofthe term besides
+unAl Sn does notmutter as
+they cancel/too small to be considered
+
+Calc inPolar coordinates
+
+Finding tangentline a point
+1.Slope of
+tangent
+
+d =
+
+rColsinO+wOSCOSO
+
+↓10) COSO-rI0)sinc
+
+Vector-valued functions
+
+E(t) =<fH), g(t),h(t)
+
+=f(t)Y -g(t)y +hit)E
+-[
+
+Derivative
+
+Limit
+principal Unittangent vector
+
+Integral apply to each vector
+
+(7):curve thatthe
+
+It)
+(t) =
+direction] H*Cl
+
+objectfollows
+Emotion]
+
+(x1-r0)coso)
+
+a curve
+
+* points to where the objectis moving
+* I'st)
+may notexist -- if not smooth
+
+Asector =E*A '() tangentto curve atit)
+
+2. Pointslope form
+y-r10)sinc
+↓ColsinO +ro) cost
+
+-
+
+↓10) COSO-rI0)sinc
+Findingarea bounded by
+1. circular sector
+2. A =Jdo
+
+Freeto FH =0, homo y'+wiyt0
+Forced to fit)EO, non-homo
+Period -> Frequency - [striod]
+Angular Frequency(W)rad/s
+
+w =mc
+
+2m
+
+c- 4mR
+Casel <0:Underdumping
+sit) =etie) +(c,cosW++ 2siwt)
+(use 230 overdamping
+xH) =c,et+( ert
+
+cases =0 critical dumping
+c(=(, + (t) et
+
+Restoring force =-Rx
+Dampingforce =-c
+
+curvature k
+
+t
+
+Parametric Equations
+toti= *(f().gH))=1e Finding area between curves
+ForOt IO, 02] & rc >
+A:IJ8(r2)-(r)" do
+
+· Infinitelymany pairs of functions - andg
+that results in same curve
+
+rate & orientation
+
+↳differ by
+Orientationof the curve
+· Directionofthe plane curve as
+parameter (t) increases
+Eliminating the parameter
+*change from implicitto explicitrelation
+*
+
+restrictions
+
+May have
+
+Imaginary Numbers
+(a+bi) +(c +di) =(a+c) +(b +di
+(a+bi) - (c+di) =(a- c) +(b - d);
+(a +bi)(c+di) =(ac -bd) +(ad+bc) i
+= (,)+ (?);
+
+I =a - bi
+
+conjugate
+
+12) =1462
+
+z z =zz =(z)2
+
+range
+· Isolate - from oneequation
+· sub into the other
+Derivative of Parametric & sc-y plane
+= we"*polar form:Example Parametrizations
+Behavior in to and byplane at
+x4in tiplane- Right in sky-plane & Circle
+A in by plane - up in sy-plane Rene (cos(2t), -sinert)) +ER
+
+Euler's identity: eile"=coss+isins
+Euler's formula:z =(cost+smE)
+
+&semicircle (2cost),2Sict)), +E [0,51] v
+
+(t2, t2 ; +6To, 5],"-
+
+CH2, 2-St) i+ ER "
+
+x +0
+-+,0
+
+y
+
+"
+
+* if objectspeedsup, magnitude of'l)↑ KH=tfor a curve (t) & H) to,
+principal unit normal vector
+YH) =I'()
+IH) +8
+
+=magnitudeofICA does notl
+
+curvature & time t
+k(t) =11 H)11
+11 '(+)11
+
+ircle that fits into the
+
+bend & time t
+
+R =kugest a
+
+11 (t)l)
+
+Interpretation
+
+points to the curve isturning (inward)
+I(t) is a straight line
+4 EH)
+T(r) =0 (t) has no curvature
+
+maychange directionofcurvature &to
+
+F(t)1IPAfor a curve parametrized by its
+Reparametrizingthe curve
+can change direction ofcurve, thenchange direction of
+r, (t) & V(t) are 2 regarametrizations ofthe same curve
+necessarily the same pointon the move
+then
+
+they are not
+
+·
+
+complete the square
+
+Toolbox!
+Newton's and Law:F =ma - m=-mg-BVs
+Indeterminate form
+=,
+<Addatandsubtractthe re
+DerivativeRules
+ProductRule (f(xg(x)=f(x)g(x) +f(x)g(x) chain Rule f(g(x))' =f'(g(x))g(x)
+Quotient Rule (is) =f'(gox-f(xg'(x)
+
+- 1,0.01. Divide all terms by
+
+coefficientof e
+
+2
+
+(g(x)
+
+arclength parametrization
+
+ECs) is in
+k() =1111
+
+Another Formula
+
+11'(t) x
+
+"(t)ll
+
+RH) =
+
+11
+
+(t)1IS
+
+Displacement / Distance/(t)
+
+Total displacementDistance traveled
+
+constant
+
+(b) - (a)All
+(,)often .i
+
+(E,E).
+
+· (,)
+
+I,
+
+900
+
+(1,0). F
+
+180
+
+0 0,0?
+
+Eastsuitthe
+
+[speed & t] -
+
+

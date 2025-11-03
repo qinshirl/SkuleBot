@@ -1,0 +1,163 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 12   
+Due: 4:00 pm on Friday November 30, 2012 
+In SF3201 
+
+O  
+
+24 
+
+y  
+
+100 
+
+C  
+
+1.  Determine the second moments 
+of  areas  (i.e.,  moments  of 
+inertias)  of  the  cross  sections 
+(a)  and  (b)  for  bending  about 
+their  centroidal  x  and  y  axes. 
+Determine  the  centroids  of  the 
+cross sections with reference to 
+origin  O.  (You  may  obtain  the 
+centroid  location  of  (a)  from 
+Problem Set 9.)  
+
+All dimensions in mm.  
+
+    200 
+
+   200  
+
+O  
+
+       20 
+      50 
+
+x  
+
+  150  
+
+C  
+
+x  
+
+       12 
+
+16 
+
+  300  
+
+     20  
+
+12 
+20  
+
+160  
+
+18 
+
+70  
+
+   (a)  
+
+2.  Beam ABCDE, supported by a 
+
+fixed connection at A, an internal pin at B and a 
+roller at C, is subjected to a uniformly-distributed 
+load  and  two  point loads  as  shown  in  figure  (a). 
+The beam is to be constructed from the structural 
+steel  with the  yield  strength  of  350  MPa  in  both 
+tension and compression. 
+
+i.)   Neatly  draw  the  shear  and  bending  moment 
+diagrams  for  beam  ABCD  and  indicate  all 
+key values. 
+
+ii.)  Beam  ABCD  is  to  be  designed  using  a 
+uniform-thickness  hollow  structural  steel 
+section  shown  in  figure  (b).  Using  a  load 
+factor  of  1.9,  determine 
+the  minimum 
+thickness  t  required.    Thicknesses  are  only 
+available in 2 mm increments.  
+
+25 kN/m  
+
+20 kN  
+
+ (b)  
+
+C  
+
+D 
+
+30 kN  
+
+E  
+
+50°  
+
+A 
+
+2.2 m 
+
+B  
+
+1.8 m 
+
+1.5 m  
+
+1.5 m  
+
+1.0 m  
+
+   (a)  
+
+t  
+
+250 mm  
+
+250 mm  
+
+  (b)  
+
+3.  The maximum internal service moment on a beam is calculated to be 50 kNm. This beam is to 
+be designed for a load factor of 2.0 and using a channel section having the yield stress of 300 
+MPa in both tension and compression.  
+
+i.)   Select a suitable section to minimize the material cost. 
+
+ii.)  Select  a  suitable  section to  minimize  the  depth  of the  beam  due to  an  overhead  clearance 
+
+requirement enforced by the city. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+

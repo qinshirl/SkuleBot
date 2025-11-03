@@ -1,0 +1,29 @@
+APS112&113 Winter 2017 Quiz #2 – Additional Grading Info for Question #32 
+
+32a) Correct descriptions of the risk equation elements or a partially complete risk equation (i.e. 
+risk = probability x severity) will gain students half marks (0.5/1). Full marks (1/1) are awarded 
+for the full risk equation (i.e. risk = probability of hazard x severity of consequence). 
+
+32b) Noting that an engineering operation may more safe in the presence of less risk and that an 
+engineering operation may be less safe in the presence of more risk will gain students half marks 
+(0.5/1). Full marks (1/1) are awarded to students who acknowledge safety as a process to 
+minimize risk (to an acceptable level) in any engineering operation. 
+
+32c) For a reasonable definition of an 'accident' that contains the words 'hazard', 'unintended', 
+'preventable', or 'unforeseen', half marks (0.5/1) will be awarded. Full marks (1/1) are awarded 
+for the engineering definition as outlined in the textbook: "An unintended exposure to a 
+hazard."  
+
+32d) i) Description of a real-world situation involving a hazard and a consequence (1/1). 
+        ii) Simply naming a hazard relating to the real-world situation given earns half marks 
+(0.5/1). Description of a relevant hazard, including an indication of how the hazard has the 
+potential to cause damage (e.g. exposure of a human to a hazardous material, causing injury or 
+death) earns full marks (1/1).  
+        iii) Description of a relevant and direct consequence of the hazard given (1/1). 
+
+ 
+ 
+ 
+ 
+ 
+

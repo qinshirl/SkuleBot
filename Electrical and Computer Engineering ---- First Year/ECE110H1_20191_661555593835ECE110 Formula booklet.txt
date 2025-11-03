@@ -1,0 +1,1514 @@
+𝐄 = 0 
+
+Cavity walls, inside isolated 
+conductor, in metal 
+
+(charges all reside at surface) 
+Cylindrical symmetry 
+λ
+2𝜋𝜀0𝑟
+
+E =
+
+qenc = λh
+
+= 𝜀0 ∮ 𝑬 ∙ 𝑑𝑨
+𝑆
+
+Voltage and Potential Energy 
+𝑄𝑞
+4𝜋𝜀0𝑟
+
+𝑄
+4𝜋𝜀0𝑟
+
+Vr>∞ =
+
+U =
+
+Voltages can be added up each 
+other (scalar) 
+
+Parallel plate capacitor 
+
+E =
+
+Q
+𝐴𝜀0
+Q
+𝐴𝜀0
+
+V =
+
+𝑑 
+
+C𝑝𝑝 =
+
+𝐴𝜀0
+𝑑
+
+(Ignore dielectric) 
+
+Energy Density 
+
+Vf =
+
+𝑐1
+𝑐1+𝑐2
+
+𝑉0          
+
+Power in Electric Fields 
+
+U = qRI 
+
+Power = dU
+𝑑𝑡
+Power = I2𝑅 = V2
+
+𝑅
+
+Biot-Savart Law 
+
+= 𝑉𝐼 [𝑊]  
+
+d𝐁 =
+
+𝜇0𝐼(𝑑𝑺 × 𝑟̂)
+4𝜋𝑟2
+
+𝜇0 = 4𝜋 ∙ 10−7 [𝐻/𝑚] 
+
+Ampere’s Law 
+
+∮ 𝑩
+𝐶
+∮ 𝐵𝑐𝑜𝑠(𝑩, 𝑑𝑺)
+𝐶
+
+𝑑𝑺 = 𝜇0𝐼𝑒𝑛𝑐 =
+𝑑𝑆  
+𝜇0𝐼
+2𝜋𝑅
+
+B =
+
+𝑄𝑞
+
+Coulomb’s Law 
+𝑭𝑞𝑄= 1
+𝑟2 𝑟̂  
+4𝜋𝜀0
+
+Electric Fields 
+𝐄Q = 1
+𝑟2 𝑟̂  
+4𝜋𝜀0
+𝜀0 = 8.854 ∙ 10−12 [𝐶2/𝑁𝑚2] 
+𝑘 = 8.99 ∙ 109 [𝑁𝑚2/𝐶2] 
+
+𝑄
+
+Electric Field line 
+
+Electric Flux [𝐍𝐦𝟐/𝐂] 
+
+Enclosed charge [C] 
+
+ϕnet = ∮ 𝑬 ∙ 𝑑𝑨
+𝑆
+= ∮ 𝐸 ∙ 𝑑𝐴 ∙ 𝑐𝑜𝑠(𝑬 𝑑𝑨)
+
+𝑆
+
+𝑞𝑒𝑛𝑐 = 𝜀0ϕnet
+
+= 𝜀0 ∮ 𝑬 ∙ 𝑑𝑨
+𝑆
+
+Isolated conductor 
+
+External elec. field 
+
+Two conducting planes 
+
+E = σ
+𝜀0
+
+   [N/C] or [V/m] 
+
+E =
+
+2σ1
+𝜀0
+
+=
+
+σ
+𝜀0
+
+Planar symmetry 
+
+E =
+
+σ
+2𝜀0
+
+Change in potential energy 
+
+Charge Density (linear, surface, volume) 
+λ 
+Linear density 
+
+qtot = ∫ λ(x) 𝑑𝑥  
+
+qtot = ∬ σ(x, y) 𝑑𝑥𝑑𝑦  
+
+σ 
+
+Surface 
+density  
+Volume 
+density  
+Potential Energy and Electric Potential 
+
+𝜌 
+
+qtot =
+∭ 𝜌(x, y, z) 𝑑𝑥𝑑𝑦𝑑𝑧  
+
+∆U = Uf − 𝑈𝑖 
+= 𝑊𝑞𝑝𝑝𝑙 = −𝑊𝑓𝑖𝑒𝑙𝑑  [ 𝐽 ] 
+= 𝑞(𝑉𝑓 − 𝑉𝑖) = −𝑞𝐸∆𝑆 
+
+Non-conducting 
+sheet (charge 
+density of σ) 
+
+ϕ
+= ϕl
++ ϕr
+= 2EA 
+
+∆U > 0 
+∆V > 0 
+Force applied 
+
+∆U < 0 
+∆V < 0 
+
+Field does 
+work 
+
+=
+
+Equipotential surface pic 
+
+Basic Circuit with capacitor 
+
+Capacitor 
+
+∆V = Vf − 𝑉𝑖  [𝑉] 
+𝑓
+= − ∫ 𝑬 𝑑𝑺
+𝑖
+
+∆U
+𝑞
+
+= −𝐸∆x 
+
+2𝜋𝜀0𝐿𝑟
+
+Cylindrical Capacitor 
+𝐄 = Q
+𝑟̂  
+ln (𝑏
+V = Q
+𝑎
+2𝜋𝜀0𝐿
+Ccyl = 2𝜋𝜀0𝐿
+
+)  
+
+ln(𝑏/𝑎)
+
+Spherical capacitor 
+𝐄 = Q
+4𝜋𝜀0𝑟2 𝑟̂  
+− 1
+(1
+V = 𝑄
+𝑏
+𝑎
+4𝜋𝜀0
+Csphy = 4𝜋𝜀0𝑎𝑏
+
+)  
+
+𝑏−𝑎
+
+𝐶𝑠𝑖𝑛𝑔𝑙𝑒_𝑠𝑝ℎ𝑦 = 4𝜋𝜀0𝑟 
+
+𝑎 is smaller radius, b is larger radius, 𝐿 is height, 𝑟 is radius 
+of gaussian surface 
+Capacitance + dielectric 
+
+℧𝑝𝑝 =
+𝑘𝐴𝜀0
+2𝑑
+
+=
+
+𝑈
+𝑉𝑜𝑙𝑢𝑚𝑒
+𝐸2𝑑2
+𝐴𝑑
+
+=
+
+𝐶𝑉2
+2𝐴𝑑
+
+=
+
+𝑈
+𝐴𝑑
+𝑘𝜀0𝐸2 
+
+=
+
+1
+2
+
+Increase area +  
+decrease distance + 
+dielectric 
+= high capacitance 
+
+C𝑝𝑝 =
+
+Ccyl =
+
+Csphy =
+
+𝑘𝜀0𝐴
+𝑑
+2𝜋𝑘𝜀0𝐿
+𝑏
+ln (
+𝑎
+4𝜋𝑘𝜀0𝑎𝑏
+𝑏 − 𝑎
+
+)
+
+𝑘: dielectric constant (k>1) 
+
+*Metal plates > 
+separation of charge 
+*Dielectric > increase 
+capacitance 
+*Capacitor is charged 
+
+Parallel Capacitor 
+
+Series Capacitor 
+
+QT = 𝑄1 = 𝑄2 = ⋯  
+VT = 𝑉1 + 𝑉2 + ⋯ 
+= 1
+𝐶1
+
++ 1
+𝐶2
+
++ ⋯  
+
+1
+
+𝐶𝑇
+
+I = ∬ 𝑱 𝑑𝑨 = JA 
+
+𝐉 = nq0𝒗𝒅 [A/m2] 
+
+QT = 𝑄1 + 𝑄2 + ⋯ 
+𝑉𝑇 = 𝑉1 = 𝑉2 = ⋯  
+QT = 𝐶𝑇𝑉 
+CT = 𝐶1 + 𝐶2 + ⋯ 
+
+Ohm’s Law and 
+current 
+
+I =
+
+R =
+
+ [Ω] 
+
+ [𝐴] 
+
+V
+𝐼
+𝑑𝑞
+𝑑𝑡
+= 𝑞0𝑁𝐴𝑣𝑑 
+Q = q0𝑁𝐴𝐿 [𝐶]
+= 𝑞0𝑁𝐴𝑣𝑑𝑡 
+
+Parallel Circuit (||) 
+
+Series Circuit (<->) 
+
+Magnetic Force 
+
+Magnetic Field 
+
+VT = 𝑉1 = 𝑉2 = ⋯  
+IT = 𝐼1 + 𝐼2 + ⋯ 
++ 1
+1
+= 1
++ ⋯  
+𝑅1
+𝑅2
+Σ𝐼 = 0 
+
+𝑅𝑇
+
+VT = 𝑉1 + 𝑉2 + ⋯  
+IT = 𝐼1 = 𝐼2 = ⋯ 
+RT = 𝑅1 + 𝑅2 + ⋯  
+Σ𝑉 = 0 
+
+𝐅𝐁 = q(𝐯 × 𝐁)
+= Bqv sin θ 
+
+Θ is  ∠(𝐯, 𝐁) 
+
+Magnetic force (wire) 
+𝐅𝐁 = I( 𝐋 × 𝐁)
+= BIL sin θ 
+
+Θ is ∠(𝐋, 𝐁) 
+
+Magnetic field due to current 
+Infinite wire 
+∞
+𝜇0𝐼
+4𝜋
+
+sin 𝜃
+𝑟2
+
+B =
+
+𝑑𝑥 
+
+∫
+−∞
+
+B =
+
+𝜇0𝐼
+2𝜋𝑅
+
+Semi-infinite wire 
+∞
+
+B =
+
+𝜇0𝐼
+4𝜋
+
+∫
+0
+
+sin 𝜃
+𝑟2
+
+𝑑𝑥 
+
+Centre of loop 
+𝜇0𝐼∅
+4𝜋𝑅
+
+B =
+
+𝜇0𝐼
+4𝜋𝑅
+
+∅ - angle of loop 
+(partial circular loop) 
+
+Measured in [T]  
+
+Force between two 
+parallel currents 
+𝜇0 𝐿 𝐼𝑎 𝐼𝑏
+2𝜋𝑑
+
+F =
+
+𝜇0
+2𝜋
+
+= 2 ∙ 10−7 
+
+B =
+
+𝜕ΦB
+𝜕𝑡
+
+Faraday’s law – ε ∝ 
+Lenz’ law – Direction of induced 
+I and ε against induced B 
+
+Self-induction (𝛆𝐋) 
+𝜕ΦB
+𝜕𝑡
+
+εL = −𝑁
+𝑑
+= −𝐿
+𝑑𝑡
+VL = −εL = 𝐿 𝑑
+
+𝐼(𝑡) 
+
+𝐼(𝑡)  
+
+𝑑𝑡
+
+EMF/current in loops 
+
+ε = (−)(N)Bvx𝑙 
+
+(N)Bvx𝑙
+𝑅
+
+I =
+I is induced by induced B 
+Energy in magnetic field 
+
+U = qV 
+dU = Vdq = qdV 
+Power = dU
+= 𝐼𝑉  
+dt
+dU = ILdI 
+U = 1
+𝐿𝐼2  
+2
+
+Power dissipated 
+P = VI = V2
+𝑁2𝐵2𝑣2𝑙2
+𝑅
+
+R
+
+= 𝐼2𝑅 =
+
+Ohm’s law & power 
+V(t) = 𝑅 𝐼(𝑡) 
+
+(𝑉(𝑡))
+
+P(t) = V(t)𝐼(𝑡) =
+2
+2
+𝑅(𝐼(𝑡))
+R=0 > V(t) = 𝑅 𝐼(𝑡) = 0 
+R=∞ > 𝐼(𝑡) = 𝑉(𝑡)
+
+= 0 
+
+=
+
+R
+
+𝑅
+
+Magnetic flux 
+
+ΦB = ∬ 𝑩  𝑑𝑨 [Wb] 
+ΦB = 𝐵𝐴 = 𝜇0𝑛𝐼𝐴 
+
+EMF (Faraday/Lenz) 
+ε = −(N) 𝜕ΦB
+𝜕𝑡
+−(N) 𝜕
+∬ 𝑩  𝑑𝑨  
+𝜕𝑡
+
+=
+
+Inductor 
+
+Inductance 
+
+B = 𝜇0𝑛𝐼 
+
+L =
+
+Solenoid is an inductor. 
+
+L = 𝑁ΦB
+ [H] 
+𝐼
+L = n2𝐴𝑙𝜇0 
+𝐵𝐴𝑁
+𝐼
+(N = n𝑙) 
+
+= N𝐴𝑛𝜇0 
+
+Gaussian surface 
+Sphere: 1 gaussian surf 
+Cylinder: 3 gaussian surf 
+Cube: 6 gaussian surf 
+𝑑𝑨 = 𝑑𝐴𝑛̂ (𝑛̂ ⊥ 𝐴) 
+
+Spherical Symmetry 
+q
+4𝜋𝜀0𝑅3) 𝑟  
+Eext = (
+𝑟 – radius of gauss surf 
+𝑅 – radius of sphere 
+q – charge enclosed 
+
+Eint = 0 
+
+𝑓
+
+∆V = − ∫ 𝑬 𝑑𝑺
+
+𝑄
+4𝜋𝜀0
+
+𝑖
+1
+(
+𝑟2
+
+−
+
+1
+𝑟1
+
+) 
+
+=
+
+Equipotential Surfaces 
+
+Vr =
+
+𝑄
+4𝜋𝜀0𝑟
+
+Same potential (+pot E) 
+Capacitance 
+q
+V
+q – charge stored in one 
+plate: not total charge! 
+
+  [F] 
+
+C =
+
+Energy in capacitor 
+U = ∫ 𝑑℧ = ∫ 𝑞 𝑑𝑉 =
+∫ 𝐶𝑉 𝑑𝑉  
+1
+2
+
+𝐶𝑉2 =
+
+𝑞2
+𝐶
+
+1
+2
+
+U =
+1
+2
+
+=
+
+𝑞𝑉  
+
+𝐉 =
+
+σ =
+
+𝜌 =
+
+ [Ω𝑚] 
+
+𝑬 = σ𝑬 
+
+ [1/Ω𝑚] 
+
+|𝑬|
+| 𝑱|
+1
+𝜌
+1
+𝜌
+𝐸𝑙
+𝐽𝐴
+Magnetic field ‘inside’? 
+Itot = 𝜋𝑅2𝐽0 
+Ienc = ∬ 𝑱 𝑑𝑨 = 𝜋𝑟2𝐽0   
+(dA = rdrd∅) 
+∮ 𝑩
+𝐶
+2𝜋𝐵𝑟  
+
+𝑑𝑺 = 𝜇0𝐼𝑒𝑛𝑐 =
+
+R =
+
+= 𝜌
+
+𝑙
+𝐴
+
+B =
+
+𝜇0𝐼𝑡𝑜𝑡𝑟
+2𝜋𝑅2  
+
+Solenoids 
+
+Ienc = 𝑛ℎ𝐼 
+𝜇0Ienc = 𝜇0𝑛ℎ𝐼 = 𝐵ℎ 
+B = 𝜇0𝑛𝐼 
+(n=number of loops/m) 
+(I=current on the loop) 
+
+Series Inductor 
+
+𝑉𝑇 = 𝐿𝑇
+
+𝑑𝐼
+𝑑𝑡
+
+LT = 𝐿1 + 𝐿2 + ⋯ 
+
+Parallel inductor 
+𝑑𝐼
+𝑑𝑡
+𝑉
+𝐿2
+1
+𝐿2
+
+𝑉 = 𝐿
+𝑉
+𝐿1
+1
+𝐿1
+
+V
+𝐿𝑇
+1
+𝐿𝑇
+
++
+
++
+
+=
+
+=
+
++ ⋯ 
+
++ ⋯ 
+
+Current Density 
+
+Resistivity/Conductivity 
+
+Formula Booklet ECE110 Final Exam | Revision 3.2 Apr 17, 2019 | 1 
+
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+𝑑𝑥  
+
+𝑑𝑡
+
+Basic Quantities 
+I(t) = dq(t)
+𝑡
+q(t) = ∫ 𝐼(𝑥)
+−∞
+V(t) = W(t)
+P = IV = I2𝑅 = 𝑉2
+
+𝑅
+Independent sources 
+Indep. Voltage source 
+
+q
+
+Kirchhoff’s Laws 
+Current Law (node) 
+∑ 𝐼𝑒𝑛𝑡𝑒𝑟 = ∑ 𝐼𝑙𝑒𝑎𝑣𝑒  
+
+Voltage Law (loop) 
+∑ 𝑉𝑑𝑟𝑜𝑝 = ∑ 𝑉𝑟𝑖𝑠𝑒  
+Nodal Analysis 
+(#Eq) = (#Node) - 1 - Nv 
+Nv is independent or 
+dependent voltage sources 
+
+Superposition 
+Deactivate all sources 
+except one source 
+- Holds for I, V but not 
+power 
+Deactivate source? 
+- Voltage source > short 
+- Current source > open 
+
+Thevenin Theorem 
+1) RL > open ckt > get VOC 
+2) RL > short ckt > get ISC 
+
+RTh =
+
+VOC
+ISC
+VTh = VOC 
+
+Capacitors 
+
+ic(t) = 𝐶
+
+q(t) = Cvc(𝑡) 
+𝑑vc(𝑡)
+𝑑𝑡
+𝑡
+∫ 𝑖(𝜏)
+𝑡0
+
+1
+c
+
+v(t) = v(t0) +
+
+𝑑𝜏 
+
+Intro to transient circuits 
+C 𝑑vc(𝑡)
++ vc(𝑡)
+𝑑𝑡
+𝑑vc(𝑡)
++ vc(𝑡)
+𝑑𝑡
+Vc(t) = 𝑉0𝑒−
+
+= 0  
+𝑡−𝑡0
+𝑅𝐶   
+
+= 0  
+
+𝑅𝐶
+
+𝑅
+
+2 terminal devices 
+
+Dependent voltage source 
+Voltage-control 
+
+V = αVx 
+
+Current-control 
+
+V = r𝐼x 
+
+Dependent current source 
+Voltage-control 
+
+I = gVx 
+
+Current-control 
+I = βIx 
+
+Indep. Current source 
+
+Node 
+More than 2 elements join 
+in one point 
+
+Branch 
+Section that contains only 
+one element 
+
+Loop 
+Closed path: start from 
+one node, visit other 
+nodes (only once), return 
+
+Conductance 
+
+G = 1
+= 𝐼
+ [S] 
+𝑉
+R
+𝐼(𝑡) = 𝐺𝑉(𝑡)  
+2
+
+𝑃(𝑡) =
+
+(𝐼(𝑡))
+
+𝐺
+
+2
+= 𝐺(𝑉(𝑡))
+
+Linearity 
+Vout
+= 𝛼1𝑉1 + 𝛼2𝑉2 + ⋯
++ 𝛽1𝐼1 + 𝛽2𝐼2 + ⋯ 
+
+Linear equations! 
+
+Voltage divider 
+a.k.a series circuit 
+I = V
+∑ 𝑅 
+Vi = 𝑉𝑠𝑜𝑢𝑟𝑐𝑒
+
+𝑅𝑖
+∑ 𝑅
+
+Current divider 
+a.k.a parallel circuit 
+𝑉 = 𝐼𝑠 (∑ 1
+𝑅
+𝐼i = 𝐼𝑠𝑜𝑢𝑟𝑐𝑒
+
+1/𝑅𝑖
+(∑(1/𝑅))
+
+−1
+
+)
+
+Mesh Analysis 
+(#Eq) = (#Loop) – NI 
+= Branch – Node + 1 - NI 
+NI is independent or 
+dependent current sources 
+Source transformation 
+
+- Voltages surround loops 
+- Kirchhoff’s voltage law 
+- Calculate for each loop 
+
+- Voltages at nodes 
+- Kirchhoff’s current law 
+- One ground node set 
+
+I1 – current through R 
+due to 𝑉1 only 
+I2 – current through R 
+due to 𝑉2 only 
+
+I𝑡𝑜𝑡 = 𝐼1 + 𝐼2 + ⋯ 
+2 𝑅
+𝑃𝑡𝑜𝑡 = 𝐼𝑡𝑜𝑡
+= R(𝐼1 + 𝐼2 + ⋯ )2 
+
+Norton Theorem 
+If sources independent 
+1) Get VOC 
+2) Deactivate sources 
+3) Replace RL into virtual 
+voltage source, find Req 
+4) Req = RN, IN = 𝐼𝑆𝐶 
+
+P = dW
+dt
+
+Wc(t) =
+
+C[v(t)]2 
+
+= 𝑣(𝑡) 𝑖(𝑡)  
+1
+2
+- vc must be continuous 
+- DC signal > capacitor 
+looks like open circuit 
+First-order transient ckts 
+𝑣(t) = 
+𝑣(∞)
++ (𝑣(𝑡0) − 𝑣(∞))𝑒−
+𝐿
+𝑅𝑇ℎ
+
+τ = RTh𝐶 =
+
+𝑡−𝑡0
+𝜏  
+
+VL = 𝑉𝑆
+
+𝑅𝐿
+𝑅𝐿 + 𝑅𝑆
+
+Multiple Thevenin usage 
+1) Divide circuit into two+ 
+2) Get VOC,RTh for one side 
+3) Substitue linear ckt in 2) 
+to VOC − RTh connection 
+4) Repeat 2) and 3) to get 
+RTh VOC and 𝐼𝑆𝐶 
+
+Inductors 
+
+L =
+
+NΦB
+𝑖
+𝑑iL(𝑡)
+𝑑𝑡
+𝑡
+∫ 𝑣(𝜏)
+𝑡0
+Resistor-Capacitor 
+
+VL(𝑡) = 𝐿
+1
+L
+
+𝑖(t) = 𝑖(t0) +
+
+𝑑𝜏 
+
+(1 − 𝑒−
+
+Vc(𝑡) = 𝑉𝑠
+
+𝑅
+𝑅+𝑅𝑔
+Vc−charge = 𝑉𝑚 (1 − 𝑒−
+Vc−discharge = 𝑉𝑚 (𝑒−
+Sinusodials (Fourier) 
+
+𝑡−𝑡0
+
+𝜏 )  
+
+𝑡−𝑡0
+
+𝜏 )  
+
+𝑡−𝑡0
+𝜏 )  
+
+v(𝑡) = 𝑉𝑚 cos(𝑤𝑡 + 𝜃) 
+
+2𝜋
+𝑇
+
+𝑤 = 2𝜋𝑓 =
+1
+𝑓
+
+𝑇 =
+
+Dependent sources in thevenin  Maximum power transfer 
+1) RL > open ckt > get VOC 
+
+To make this equivalent, 
+
+Vs = 𝐼𝑠 × 𝑅𝑠 
+𝑅𝑠 = 𝑅𝑝 
+
+2) RL > short ckt > get ISC 
+3) Do not remove dependent 
+sources in 1) and 2) 
+
+RTh =
+
+VOC
+ISC
+
+= 𝑣(𝑡) 𝑖(𝑡)  
+
+P = dW
+dt
+WL(t) =
+
+1
+2
+
+L[𝑖(t)]2 
+- iL must be continuous 
+- DC signal > inductor looks 
+like short circuit 
+
+Open circuit 
+- No current 
+- Voltage exists 
+- Disconnected wire 
+
+Short circuit 
+- No voltage across 
+- Current goes to R=0 
+- Connected wire 
+
+Supermesh 
+- Used when current 
+source is shared 
+between two loops 
+
+Supernode 
+- Two nodes connected by 
+voltage source 
+- None of them are 
+reference node 
+Equivalence 
+R1 ↔ 𝑅2  
+
+R1 + R2 
+
+R1|| 𝑅2 
+
+R1R2
+R1+R2
+
+V1 ↔ ±𝑉2 
+
+V1 ± 𝑉2 
+
+I1|| ± 𝑉2 
+
+I1 ± I2 
+
+Efficiency 
+
+Efficiency =
+
+𝑃𝑜𝑢𝑡
+𝑃𝑖𝑛
+
+Pin =
+
+2
+𝑉𝑇ℎ
+𝑅𝐿 + 𝑅𝑇ℎ
+2 𝑅𝐿
+𝑉𝑇ℎ
+(𝑅𝐿 + 𝑅𝑇ℎ)2 
+
+1
+
+𝐿𝑇
+
+= ∑ 1
+𝑖
+𝐿𝑖
+
+𝐶T = ∑ 𝐶𝑖
+
+𝑖
+
+1
+
+𝑅𝑇
+
+= ∑ 1
+𝑖
+𝑅𝑖
+
+IL = 𝑉𝑇ℎ
+𝑅𝑇ℎ+𝑅𝐿
+𝑉𝑇ℎ
+𝑅𝑇ℎ+𝑅𝐿
+
+2𝑅𝐿 = (
+
+2
+)
+
+RL  
+
+= 𝑉𝑇ℎ(𝑅𝐿 + 𝑅𝑇ℎ)(𝑅𝐿 − 𝑅𝑇ℎ) 
+
+PL = 𝐼𝐿
+ dPL
+
+𝑑𝑅𝐿
+
+PLmax = 𝑃𝑜𝑢𝑡𝑚𝑎𝑥 
+2 𝑅𝑇ℎ
+2 = 𝑉𝑇ℎ
+= 𝑉𝑇ℎ
+4𝑅𝑇ℎ
+
+2 𝑅𝑇ℎ
+4𝑅𝑇ℎ
+
+Series 
+Inductor 
+
+Capacitor 
+
+Resistor 
+
+LT = ∑ 𝐿𝑖
+
+𝑖
+
+1
+
+𝐶𝑇
+
+= ∑ 1
+𝑖
+𝐶𝑖
+
+RT = ∑ 𝑅𝑖
+
+𝑖
+
+Resistor-Inductor 
+
+Pout =
+
+Parallel 
+Inductor 
+
+Capacitor 
+
+Resistor 
+
+VL + iL𝑅𝑇ℎ = 𝑉𝑇ℎ 
+𝑉𝑇ℎ
+L
+𝑅𝑇ℎ
+RTh
+
+𝑑𝑖𝐿
+𝑑𝑡
+
++ 𝑖𝐿 =
+𝐿
+𝑅𝑇ℎ
+
+τ =
+
+Lead/Lag 
+
+- Same Frequency 
+- All functions should be 
+cosine or sine 
+- All amplitudes should be 
+positive or negative 
+- 0 ≤ separation < 180° 
+
+Complex Number Identities (𝐣 = √−𝟏 = 𝟏∠(𝝅/𝟐)) 
+
+Z = x + jy 
+= r(cosθ + jsinθ) 
+= rejθ ( θ = tan−1 𝑦
+ ) 
+𝑥
+Re(Z) = x, Im(𝑍) = y 
+𝑍̅ = 𝑥 − 𝑗𝑦 
+
+Z1 ± 𝑍2 = (𝑥1 + 𝑥2) ±
+j(y1 + 𝑦2)  
+Z1𝑍2 = (x1𝑥2 − 𝑦1𝑦2) +
+𝑗(𝑥2𝑦1 + 𝑥1𝑦2)  
+|𝑍1|
+𝑍2𝑍2̅̅̅̅ =
+|𝑍2|
+
+= 𝑍1𝑍2̅̅̅̅
+
+∠(θ1 − 𝜃2)  
+
+𝑍1
+𝑍2
+
+Phasor Relationships 
+v(t) = 𝑉𝑚 cos(𝑤𝑡 + 𝜃𝑣) 
+= 𝑅𝑒[ 𝑉𝑒𝑗𝑤𝑡] 
+𝑉 = 𝑉𝑚𝑒𝑗𝜃𝑣 = 𝑉𝑚∠θv 
+
+i(t) = 𝐼𝑚 cos(𝑤𝑡 + 𝜃𝑖)
+= 𝑅𝑒[ 𝐼𝑒𝑗𝑤𝑡] 
+𝐼 = 𝐼𝑚𝑒𝑗𝜃𝑖 = 𝑉𝑚∠θi 
+
+Impedance - Resistor 
+
+Impedance and admittance 
+
+ZR = 𝑅 [Ω] 
+
+VR(𝑡) = 𝐼𝑅(𝑡) 𝑅 
+
+Z =
+
+Y =
+
+𝑉
+𝐼
+1
+Z
+
+= 𝑅 + 𝑗𝑥 
+
+= 𝐺 + 𝑗𝐵 
+
+Z - impedance 
+Y - Admittance 
+G - Conductance 
+B - Susceptance 
+
+Impedance - Inductor 
+VL(𝑡) = 𝐿 𝑑iL(𝑡)
+𝑑𝑡
+Re[ 𝑉𝑒𝑗𝑤𝑡] 
+
+= 𝑅𝑒 [𝐿 𝑑
+ 𝐼𝑒𝑗𝑤𝑡]  
+𝑑𝑡
+= 𝑅𝑒[𝐿𝑗𝑤 𝐼𝑒𝑗𝑤𝑡]  
+Parallel/series impedance 
+series 
+
+Zeq = ∑ 𝑍𝑖
+
+𝑖
+
+Parallel 
+
+1
+Zeq
+
+1
+𝑍𝑖
+
+= ∑
+
+𝑖
+
+ZL = 𝑗𝑤𝐿 [Ω] 
+
+Im =
+
+𝑉𝑚
+𝑤𝐿
+cos (𝑤𝑡 + 𝜃𝑣 −
+
+i(t) =
+
+𝑉𝑚
+𝑤𝐿
+
+Resonance frequency 
+
+w0 =
+
+1
+
+√𝐶𝐿
+
+(When Zeq becomes real) 
+
+𝜋
+2
+
+) 
+
+Impedance - Capacitor 
+ic(t) = 𝐶 𝑑vc(𝑡)
+𝑑𝑡
+Re[𝐼𝑒𝑗𝑤𝑡] 
+
+= 𝑅𝑒 [𝐶 𝑑
+ 𝑉𝑒𝑗𝑤𝑡]  
+𝑑𝑡
+= 𝑅𝑒[𝐶𝑗𝑤 𝑉𝑒𝑗𝑤𝑡]  
+Trigonometric Identities 
+
+sin(wt + θ)
+
+= cos (𝑤𝑡 + 𝜃 −
+
+cos(wt + θ)
+
+= sin (𝑤𝑡 + 𝜃 +
+
+𝜋
+2
+
+) 
+
+𝜋
+2
+
+) 
+
+ZC =
+
+= −
+
+𝑗
+1
+𝑗𝑤𝐶
+𝑤𝐶
+Im = 𝑤𝐶𝑉𝑚 
+
+ [Ω] 
+
+i(t) = 𝐼𝑚 cos (𝑤𝑡 + 𝜃𝑣 +
+
+𝜋
+
+2
+
+)  
+
+− sin(wt + θ)
+= cos(𝑤𝑡 + 𝜃 − 𝜋) 
+
+− cos(wt + θ)
+= cos (𝑤𝑡 + 𝜃 + 𝜋) 
+
+Formula Booklet ECE110 Final Exam | Revision 3.2 Apr 17, 2019 | 2 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

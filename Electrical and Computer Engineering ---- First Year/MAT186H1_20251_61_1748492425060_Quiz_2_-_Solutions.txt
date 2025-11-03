@@ -1,0 +1,85 @@
+Name: ________________________________ 
+
+Student number:_______________________ 
+
+MAT 186 
+Quiz 2 
+
+1.  Solve for 𝒙 if 
+
+𝟐𝒙𝟑 + 𝟑𝒙𝟐 + 𝒙 − 𝟒
+𝟐𝒙 − 𝟑
+
+≤ 𝟐 
+
+I messed up on this one.  The factoring for the numerator does not work. 
+
+There  will  be  plenty  more  opportunities  to  demonstrate  your  knowledge  on  the  attributes  attached  to  this 
+question, so we just used the question to see if we could find a few marks for (a) showing attempts at factoring 
+and (b) knowing to bring the two sides together and then take a common denominator, rather than multiplying. 
+
+The marks for question 1 will not have a negative effect on anyone’s grades. 
+
+2.  Solve for all 𝜽 for which 𝐜𝐨𝐬(𝟐𝜽) = 𝟏. 
+
+AB5 
+
+There are two options here. 
+
+Method I: Solve for 2𝜃. 
+
+We can use the unit circle, with 𝑥 = 1 because we are looking at cosine. 
+
+This gives us 2𝜃 = 2𝜋𝑘. 
+
+Dividing by two, we get our answer: 
+
+𝜃 = 𝜋𝑘, 𝑘 ∈ ℤ 
+
+Method II: Double-angle formula. 
+
+The given equation becomes 2 cos2 𝜃 − 1 = 1 (or we can use 1 − 2 sin2 𝜃 = 1) 
+
+This simplifies to cos2 𝜃 = 1, or cos 𝜃 = ±1. 
+
+Returning to the unit circle, we have all of the multiples of 𝜋, which is the same as the answer above. 
+
+Continued on back 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Solve for 𝒙 if 𝐥𝐨𝐠𝟓(𝟑𝒙 + 𝟐) = 𝟏 − 𝐥𝐨𝐠𝟓(𝟐𝒙 + 𝟏). 
+
+It’s probably best to get the two logarithms together. 
+
+AB1 
+
+AB3 
+
+log5(3𝑥 + 2) + log5(2𝑥 + 1) = 1 
+
+log5(3𝑥 + 2)(2𝑥 + 1) = 1 
+
+(3𝑥 + 2)(2𝑥 + 1) = 51 
+
+6𝑥2 + 7𝑥 + 2 = 5 
+
+6𝑥2 + 7𝑥 − 3 = 0 
+
+(3𝑥 − 1)(2𝑥 + 3) = 0 
+
+𝑥 = 1/3 or 𝑥 = −3/2 are the results, but the second one needs to be removed, as it leads to logarithms of 
+negative numbers.  So, 𝑥 = 1/3 is the only solution. 
+
+ 
+ 
+ 
+

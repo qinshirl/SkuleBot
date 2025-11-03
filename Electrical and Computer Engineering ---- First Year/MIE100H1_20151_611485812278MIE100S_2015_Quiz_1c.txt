@@ -1,0 +1,16 @@
+LAST Name (as seen on ROSI): __________________________________________   Tutorial Number: __________ 
+
+FIRST Name (as seen on ROSI):_______________________________________    Student Number:___________________ 
+
+MIE 100S - Quiz number 1c: Jan 14, 2015:  quiz duration = 20 minutes 
+
+A particle’s position is defined by x = sin(3t) and y = 4x3       (x, y, and t are in SI units) 
+
+(a)  What is the particle’s velocity at t = 4s? 
+(b) What is the x-component of the acceleration at t = 7s? 
+
+ 
+              
+ 
+ 
+

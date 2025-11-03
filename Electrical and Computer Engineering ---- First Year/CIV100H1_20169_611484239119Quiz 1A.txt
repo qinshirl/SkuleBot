@@ -1,0 +1,159 @@
+CIV100 - SECTION 3 - MECHANICS – QUIZ #1 – 1 HOUR – SEPTEMBER 29, 2016 
+
+READ CAREFULLY THE RULES:  
+
+No aids are permitted.     Only one of the three specified non-programmable calculators are permitted:  
+- SharpEL520  
+
+- CasioFX991   
+
+Answers must include the appropriate units.   
+Use 5 significant digits (two decimal points for angles) in the calculations and 3 significant digits in the answers. 
+
+Draw a Free Body Diagram (FBD) for each problem.  
+
+Family name: 
+
+Given name: 
+
+Student ID 
+
+Page left blank intentionally 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 4 
+
+Question #1 [4 points] 
+
+Using the Cartesian notation, calculate the resultant force of the system. 
+Determine the sum of the moments of forces F, P, Q about points A, B, C  
+Use one sketch for all calculations.  
+[Report the final answers in Cartesian form on the grid besides] 
+Assume: 
+F= 50 KN  
+=45 deg 
+
+P= 20 KN  
+=30 deg 
+
+Q= 30 KN 
+
+R =  
+[1point] 
+
+MA =  
+[1point] 
+
+MB =  
+[1point] 
+
+MC =  
+[1point] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 4 
+
+Question #2 [5 points] 
+
+Determine the equivalent resultant R to the system of 
+forces and the location of its line of action with respect to 
+the line y=2.  
+Calculate the sum of the moments of all forces about the 
+point A. 
+Include appropriate sketches. 
+Assume: 
+F= 5000 N  
+=30 deg 
+
+P= 10 KN  
+
+Q= 12 KN 
+
+T= 20KN 
+
+[Report the final answers on the grid besides] 
+
+R =  
+[1point] 
+
+|R| =  
+[1point] 
+
+ =  
+[1point] 
+
+x=  
+[1point] 
+
+MA =  
+[1point] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 4 
+
+Question #3 [1 point] 
+
+The ends of the triangular plate are subjected to three couples. Determine 
+the magnitude of the force F so that the resultant couple moment is 400 N m  
+clockwise.  
+Given: 
+
+F =  
+[1point] 
+
+[Report the final answers on the grid besides] 
+
+600 N250 N1 m4012FFa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

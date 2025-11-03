@@ -1,0 +1,962 @@
+UNIVERSITY OF TORONTO 
+
+Tutorial 
+Section 
+Number: 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+Q6 
+
+/25 
+
+       /10 
+
+       /17 
+
+       /18 
+
+       /15 
+
+       /20 
+
+       /105 
+
+TERM TEST 2 
+
+28 MARCH 2013 
+
+First Year 
+
+APS 104S 
+
+INTRODUCTION TO  MATERIALS AND CHEMISTRY 
+
+Exam Type B 
+
+Examiners:  T. Bender, N. P. Kherani, T. Mirkovic 
+
+Duration:  1 hour 45 minutes 
+
+NAME:  _________________________________________________________ 
+                Last 
+
+First 
+
+STUDENT NO:____________________________________________________ 
+
+INSTRUCTIONS: 
+
+  This is a Type B examination. Only non-programmable calculators are allowed. 
+
+  Answer all  6 questions. 
+
+  All work is to be done on the pages of this booklet. 
+
+  When answering the questions include all the steps of your work on these pages and then 
+
+write (in ink) the answer in the respective boxes where provided. For additional space, you 
+may use the back of the preceding page. 
+
+  Do not unstaple this exam booklet. 
+
+  A Formula Sheet and the periodic table are attached to the end of this exam booklet; if you 
+
+wish, you may tear-off  these sheets only. 
+
+Page 1 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+QUESTION 1: (25 pts) 
+
+A.  Copper oxide occurs in two forms:   
+
+cuprous oxide:   Cu2O (also known as Copper (I) Oxide) 
+cupric oxide:  CuO (also known as Copper (II) oxide) 
+
+Now consider pure cupric oxide which is exposed to a reducing atmosphere at an elevated 
+temperature, and as a result some of the Cu2+ ion become Cu+. 
+(i) 
+
+Name two possible defects that can form in order to maintain charge neutrality. [4 pts] 
+
+(ii) 
+
+  For each of the defects identified in part (i), how many Cu+ ions are required? [1 pts] 
+
+(iii) Write a chemical formula to represent in general this nonstoichiometric material. [1 pts] 
+
+B.   Define (succinctly in words or,and using a clearly labelled illustration) the following: 
+
+(i)  Schottky defect [1 pt] 
+
+(ii) Grain boundary [1 pt] 
+
+(iii) Edge dislocation [1 pt] 
+
+(iv)  Twin boundary [1 pt] 
+
+Page 2 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+C.  Consider a typical ceramic and a typical metal.  
+
+(i)  Draw the stress strain curves for the two 
+
+materials on the graph provided on the right. 
+Clearly draw the curves (solid lines) starting 
+from the origin and ending at fracture, and label 
+appropriately (i.e., ceramic or metal). Also, 
+clearly show the strain at fracture (precisely 
+indicated with dashed lines). [4 pts] 
+
+ 
+
+(ii) Which material is tougher? [1 pt] 
+
+ 
+
+(iii)Which material is more resilient? [1 pt] 
+
+(iv) Provide an explanation (at an atomic level) for the differences in the stress-strain behaviour of the 
+
+materials. [1 pt] 
+
+D.  A bronze rod is 115 mm in length and 12.5 mm in diameter. The modulus of elasticity of this bronze 
+
+alloy is 115 GPa. Further, plastic deformation begins at 275 MPa.  
+
+(i)  Calculate the maximum load that may be applied up to which point the material exhibits 
+
+resiliency. [3pts]  
+
+(ii) Calculate the total length of the rod just before the onset of plastic deformation. [3pts] 
+
+(iii)Given a Poission coefficient of 0.34, calculate the lateral strain. [2pts] 
+
+Page 3 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+QUESTION 2: (10 pts) 
+
+A.  A single crystal of silver is oriented such that a 
+
+tensile stress is applied along a [001] direction, as 
+illustrated in the diagram on the right. Slip occurs on 
+a (111) plane and in the direction 
+. The critical 
+resolved shear stress is 0.45 MPa. Calculate the yield 
+stress for silver. [6 pts] 
+
+B.  True or False? Circle the correct answer. [4 pts]  
+
+(i)  Generally, a fine-grained (i.e., small-grained) material is harder and stronger than a coarse-
+
+grained material.  
+
+(ii) Alloying with impurity atoms which go into substitutional or interstitial solid solution is not a 
+strengthening mechanism as these impurity atoms do not typically impose lattice strains on the 
+surrounding host. 
+
+TRUE        FALSE 
+(iii)Edge dislocations of the same sign ( +  ) and lying on the same slip plane will exert a mutually 
+attractive force and upon meeting they will annihilate each other, thus rendering a region of 
+perfect crystal. 
+
+TRUE        FALSE 
+
+TRUE        FALSE 
+
+(iv) Cold working of 8mm diameter flexible copper pipe makes it harder and stronger. 
+
+TRUE        FALSE 
+
+Page 4 of 11 
+
+]011[ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+QUESTION 3: (17 pts) 
+
+The graphs below illustrate an isothermal reversible expansion (i) or isothermal reversible compression 
+(ii) that goes through three points: 1, 2 and 3.  
+
+The temperature is kept at 300 K, and the respective pressures at points 1, 2, and 3 are: 
+P1 = 4 atm, P2 = 2 atm, and P3 = 1 atm. 
+
+(a)  On the graphs below, sketch the work done in a two-step series of irreversible expansion (i) and 
+
+irreversible compression (ii) processes at constant pressure. [4 pts] 
+
+(i) 
+
+                                                (ii) 
+
+(b) Calculate the values of w, q, ΔH and ΔU for a reversible isothermal expansion of 1 mole of 
+
+monatomic ideal gas. The gas is initially at point 1, where P1 = 4 atm, and expands to point 3, where 
+P3 = 1 atm. [7 pts] 
+
+(c)  Calculate the work done for an irreversible isothermal expansion of 1 mole of monatomic ideal gas 
+
+in the two-step process (1  2   3) described in part (a). [3 pts] 
+
+(d) Calculate the work done for an irreversible isothermal compression of 1 mole of monatomic ideal 
+
+gas in the two-step process (3  2   1) described in part (a). [3 pts] 
+
+Page 5 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+QUESTION 4: (18 pts) 
+
+In another experiment, one mole of an ideal monatomic gas is initially at 300 K and 4 atm and expands 
+to a final pressure of 1 atm. 
+
+(a)  Calculate the values of w, q, ΔH and ΔU if the expansion occurred via an adiabatic and reversible 
+
+path. [7 pts] 
+
+(b) Use a PV-diagram to illustrate the difference in values for work that you obtained in question 4(a) 
+
+(reversible adiabatic expansion) and 3(b) (reversible isothermal expansion). Note that both processes 
+had the same starting point, and the gases expanded to the same final pressure. [4 pts] 
+
+(c)  Calculate the values of w, q, ΔH and ΔU if the expansion occurred via an adiabatic and 
+
+irreversible path. [7 pts] 
+
+Page 6 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+QUESTION 5: (15 pts) 
+
+A.  When 120 mg of naphthalene (C10H8(s)) was burned in a constant pressure calorimeter the 
+
+temperature rose by 3.05 K. 
+(i) 
+
+Given Hc,napthalene = -5157 kJ mol-1, calculate the heat capacity of the calorimeter.[3pts] 
+
+(ii) 
+
+How much will the temperature rise in the same calorimeter if 10 mg of phenol (C6H6O(s)) is 
+burned in the same calorimeter (Hc,phenol = -3054 kJ mol-1)? [2pts]  
+
+B.  Calculate rH° for the following reaction:  
+
+[4pts] 
+
+KCl(s) + 3/2 O2(g)  KClO3(s) 
+
+given the following thermodynamic data: 
+
+K(s) + 1/2 Cl2(g)  KCl 
+K(s) + 1/2 Cl2(g) + 3/2 O2(g)  KClO3 
+
+-436.75 
+-392.1 
+
+fH° (kJ mol-1) 
+
+C.  Calculate fH° for sodium bicarbonate (NaHCO3) from the following thermodynamic data:  [6pts] 
+
+H° (kJ mol-1) 
+
+Na(s) + 1/2 O2(g) + 1/2 H2(g)  NaOH(s) 
+NaHCO3(s)  NaOH(s) + CO2(g) 
+C(s) + O2(g)  CO2(g) 
+
+-425.61 
+127.5 
+-393.51 
+
+Page 7 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+QUESTION 6: (20 pts) 
+
+A.  Under standard conditions, predict whether the entropy  change (S) for the following processes or 
+chemical reactions is positive, negative or approximately 0 (circle the appropriate response). [5pts] 
+
+(i)   H2O(g)  H2O(l) 
+
+(ii)  CaCO3(s)  CaO(s) + CO2(g) 
+
+(iii) H2(g) + I2(g)  2HI(g) 
+
+(iv)  the temperature of a mass of copper decreases 
+
+(v)  Cgraphite  Cdiamond 
+
++ 
+
++ 
+
++ 
+
++ 
+
++ 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0  
+
+B.  The enthalpy of the Cgraphite  Cdiamond phase transition, which under 100 kbar occurs at 2000 K, is 
+
++1.9 kJ mol-1. Calculate the entropy of the transition. [2pts]  
+
+C.  Calculate the standard change in entropy (Sm°) for the burning of glucose according to the 
+
+following chemical reaction: 
+
+[3pts]  
+
+C12H22O11(s) + 12 O2(g)  12 CO2(g) + 11 H2O(l) 
+
+given the following thermodynamic data: 
+
+C12H22O4(s) 
+O2(g) 
+CO2(g) 
+H2O(l) 
+
+fSm° (J K-1 mol-1) 
+
+360.2 
+205.14 
+213.74 
+69.91 
+
+D.  Water phase transition.  
+
+(i)  Calculate the total change in entropy of 100 g of ice (H2O(s)) at 0 °C as it is melted, heated to 
+100 °C and then vaporized at 100 °C. Assume the energy is supplied by a heater at a constant 
+rate. The following is relevant thermodynamic data: 
+
+[3pts] 
+
+fusH = 6.01 kJ mol-1; vapH = 40.7 kJ mol-1; Cv,H2O(l) = 4.18 J K-1 g-1. 
+
+(ii) Sketch of graph of entropy as a function of temperature for the process outlined in part a. [2pts] 
+
+Page 8 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+E.  Consider a system consisting of 1.5 mol CO2(g), initially at 15 °C and 9 atm and confined to a 
+
+cylinder of cross-section 100.0 cm2. It is allowed to expand adiabatically against an external pressure 
+of 1.5 atm until the piston has moved outwards through 15 cm. Assume that CO2(g) may be 
+considered a perfect gas with CV,m = 28.8 J K–1 mol–1 (which remains constant over the temperature 
+range of this problem) and calculate:  (i) q, (ii) w, (iii) ΔU, (iv) ΔT, (v) ΔS. 
+
+[5pts]  
+
+Page 9 of 11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+FORMULAE & CONSTANTS  (You may tear this sheet off.) 
+
+R = 8.3145 J·K-1 mol-1 = 0.0820574587 L·atm· K-1 mol-1 = 0.083145 L·bar·K-1·mol-1 
+1 atm = 101.325 kPa  = 1.01325 bar = 14.696 psi = 760 Torr  = 760 mmHg 
+NA = 6.022 x 1023 mol-1k = 8.62 x 10-5 eV/K               1 eV = 1.60 x 10-19 J 
+T(K) = T(oC) + 273.15 KF = 9.6485309 × 104 C mole-1e = 1.60217733 × 10-19 C 
+1L atm = 101.325 J 
+STP: 273.15K, 1 bar             SATP: 298.15K, 1 bar    
+
+    ∫     
+
+    =n     
+
+σy =σo +kyd -1/2           
+
+          (
+
+)        G = E/(2(1 +)) 
+
+             | |   
+
+√   
+
+dH = nCp,mdT 
+For ideal gases, Cp,m=Cv,m+R 
+Solids, Liquids,  Cp,m = Cv,m 
+
+Idea gas equation of state: 
+Van der Waals equation of state: 
+
+First law, closed systems 
+U = q + wdU = dq +dw 
+dw= –PextdV 
+dU = nCv,mdT 
+
+For  an  isothermal  reversible  process  (ideal 
+gas): 
+
+Adiabatic reversible process ( ideal gas): 
+
+For a process at constant temperature 
+ΔG= ΔH-TΔS 
+
+υi: stoichiometric coefficient 
+Assuming no phase change, constant Cp 
+ΔH°rxn = Συi*ΔH°f,i  + ΔCp*(T-25°C) 
+ΔCp = Συi*Cp,i 
+
+Efficiency = |w|/qin 
+
+ε(ideal) = 1 – TC/TH 
+
+For solids or liquids: 
+
+Phase transition 
+
+Standard entropy of the reaction ΔS°rxn = Συi*Sm°i 
+
+Page 10 of 11 
+
+343rVACNVnA100]})(25.0exp[1{%2BAXXICellVolumeTotalUnitCeVolumeTotalSpherAPFtorrectionVecLengthOfDinVectorOnDirectioomsCentredNumberOfAtLDeAreaOfPlanOnAPlaneomsCentredNumberOfAtPDmMDPniinMxMiiwMwM)kTQexp(- vNNV)2kTQexp(- SNNS)2kTQexp(- frfrNNnRTPV22)(VannbVnRTPPVUHTSHGTdQdSreversible2112lnln21PPnRTVVnRTdVVnRTWVVrevtranstranstransTHSVPCC       2211VPVP      VT VT)(γ)(γ122111]/)1[(22]/)1[(11 PTPT2112TTPTdTC) (TΔS)(TΔSP) const at T in (change         TTlnnCΔSV) const at T in (change         TTlnnCΔSl)(isotherma         VVnRlnΔSifPifVif 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+  
+  
+ 
+   
+ 
+ 
+          
+ 
+ 
+     
+  
+  
+ 
+   
+  
+  
+   
+  
+  
+                    
+     
+              
+       
+   
+  
+ 
+   
+ 
+ 
+         
+ 
+ 
+     
+    
+                  
+      
+      
+     
+      
+      
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Name: 
+
+First Name: 
+
+Student No. 
+
+(You may tear this sheet off.) 
+
+Page 11 of 11 
+
+ 
+ 
+ 
+ 
+ 
+

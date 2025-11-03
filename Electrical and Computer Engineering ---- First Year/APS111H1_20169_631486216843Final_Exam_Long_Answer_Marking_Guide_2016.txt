@@ -1,0 +1,330 @@
+APS111/113 (Fall) 2016 FINAL EXAM: CIs’ LONG ANSWER MARKING GUIDE 
+
+In general, what we are looking for in questions 35, 36, 37: 
+
+•  Understands key course concepts well enough to write intelligently about them, including putting the problem into engineering terms and 
+
+developing appropriate functions, objectives, constraints and research questions 
+
+•  Paragraph level: Communicates using cohesive, unified, well-organized paragraphs with some sentence to sentence relationship 
+•  Sentence level: Sentences are clear, concise, and any errors do not impede comprehensibility or significantly impeded ease of reading 
+
+What we do NOT expect under exam–writing conditions: 
+
+•  Research or research citations 
+•  Metrics or goals 
+•  Perfect grammar, super-polished writing 
+
+Question 35.  
+
+Based on Case Study 3: RFP for a Personal Data Management Assistant, located in Appendix C, in paragraph form (one or more paragraphs) write 
+a concise Problem Statement in your own words. You may, if you wish, add a brief introduction, identifying the client. DO NOT COPY SENTENCES 
+WORD-FOR-WORD FROM THE CASE STUDY IN YOUR PROBLEM STATEMENT. YOU WILL RECEIVE NO MARKS FOR MATERIAL COPIED WORD-FOR-
+WORD FROM THE CASE STUDY. (20 marks)  
+
+Fails (F) 9/20 and below 
+Does not recognize the 
+actual problem. 
+Misidentifies problem. 
+
+Lack of organization or 
+structure in paragraphs.  
+
+Criteria 
+Content 
+
+Organization & 
+Presentation at 
+sentence, 
+paragraph & 
+document level  
+
+Below (C, D) 10-13/20 
+Recognizes some of 
+actual problem, but 
+does not transform it to 
+engineering terms. 
+Some attempt at 
+organization in 
+paragraphs. 
+Overreliance on 
+“transition” words. 
+
+Meets (B) 14-15/20 
+Recognizes problem, 
+transforms it into 
+solution-independent 
+engineering terms. 
+Demonstrates deliberate 
+& consistent logical 
+development of material  
+
+Exceed (A) >16/20 
+Recognizes problem, identifies gap 
+and transforms information 
+entirely into solution independent 
+engineering terms. 
+Excellent paragraph organization in 
+paragraphs: thoughtful topic 
+sentence skilfully developed 
+through both sentence order and 
+use of transition words and 
+conjunctions 
+
+ 
+ 
+ 
+ 
+ 
+Sentences unrelated to one 
+another 
+
+or Inconsistent or 
+inaccurate use of 
+conjunctions/transition 
+phrases  
+
+Overuse/dependence on 
+language of question, case 
+study, or definitions 
+
+Ideas are lost as a result of 
+poor word choice or poor 
+sentence structure 
+
+Language of question 
+and/or case study 
+mixed with some 
+personal language 
+
+Ideas are 
+comprehensible with 
+effort; everyday 
+vocabulary dominates 
+
+Major and/or frequent 
+syntax, usage, vocabulary 
+or language form errors 
+
+Somewhat free of 
+syntax, usage, 
+vocabulary or language 
+form errors 
+
+Satisfactory paragraph 
+organization: clear 
+relationship between 
+topic sentences and 
+organization of following 
+sentences, careful choice 
+of transition or linking 
+strategies. 
+Language of case study, 
+questions used 
+strategically and 
+accurately with mostly 
+personal language 
+Meaning is clear at 
+paragraph, sentence, and 
+word choice level with 
+minimal error  
+
+Sentences are simple, 
+direct; mostly accurate 
+use of course terms, 
+some repetition 
+
+Mostly free of syntax, 
+usage, vocabulary or 
+language form errors 
+
+Guides the reader with appropriate 
+use of structure, presentation, & 
+word choices  
+
+Language of case study/questions 
+integrated with student’s language 
+as part of the discipline discourse 
+
+Meaning presented in clear, 
+elegant, and concise prose 
+Combination of simple and 
+complex sentences; concise; 
+precise and accurate use of course 
+terms 
+
+Entirely free of syntax, usage, 
+vocabulary or language form errors 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 36.  
+
+Based on Case Study 3: RFP for a Personal Data Management Assistant located in Appendix C, generate Functions, Objectives and Constraints. 
+Utilize course tools such as Functional Basis and Functional Decomposition. In total, you should have about 10 items, whether they are Primary 
+Functions, Secondary Functions, Unintended Functions, Objectives or Constraints. Treat this like a section of a design document with a section 
+introduction and sub-sections. Introduce each of the sub-sections (e.g. Functions, Objectives, Constraints) with a few sentences that help the 
+reader understand their nature and significance. (15 marks)  
+
+Component 
+Introductory sentences 
+
+Fails (F) 7/15 and below 
+Does not introduce lists or 
+introduces lists in way 
+that is not meaningful 
+
+Below (C, D) 7.5-10/15 
+Uses textbook definitions 
+
+Meets (B) 10.5-11.5/15 
+Adapts textbook 
+definitions to specific 
+situation 
+
+Functional basis 
+
+Primary functions 
+
+Secondary functions 
+
+Objectives 
+
+Constraints 
+
+Does not provide 
+Functional basis or 
+provides incorrect 
+functional basis 
+Does not correctly identify 
+primary function(s) 
+
+Provides partial functional 
+basis – e.g. uses verb 
+“control” rather than 
+specific kind of control 
+Identifies one primary 
+function 
+
+Provides one functional 
+basis according to form, 
+likely some form of 
+control of information 
+Identifies two primary 
+functions 
+
+Does not provide relevant 
+secondary functions  
+Objectives vague and/or 
+meaningless 
+
+Provides some relevant 
+secondary functions 
+Some meaningful 
+objectives given 
+
+Misses constraints in 
+Client Statement 
+
+Some constraints given 
+but may be in terms of 
+client statement 
+
+Provides a fairly complete 
+list of secondary functions 
+All objectives are 
+reasonable, not 
+necessarily measurable 
+All constraints indicated in 
+client statement are 
+translated into 
+engineering language 
+
+Exceed (A) >12/15 
+In addition to “meets” 
+adds meaningful 
+dimensions to 
+introductory sentences 
+Incorporates functional 
+basis in the introduction 
+in a meaningful way. 
+
+Identifies primary 
+functions, in language 
+that moves beyond 
+functional basis 
+Provides a comprehensive 
+list of secondary functions 
+Objectives may have goals 
+added and seem to be 
+measurable 
+Constraints from problem 
+statement, in engineering 
+language, are augmented 
+by reasonable other 
+constraints (laws, codes) 
+
+ 
+ 
+ 
+Question 37.  
+
+Identify five key research questions you would want to answer in order to check the validity of your claims and to develop the three top 
+objectives further. (Don’t worry about whether the questions are open or closed.) (5 marks) 
+
+Like the PSQ assignment:  
+
+• 
+•  Can students recognize what they don't know that they need to know 
+• 
+I.e., Can they identify what additional information they need? 
+•  Can they come up with some ideas on where/how to find it? 
+•  To get full marks (5/5) only have to meet expectations, not exceed (exam) 
+
+1-1.5 
+Provides 1 Q. useful 
+for 
+validating/developing 
+chosen objectives 
+
+2-3 
+Provides 1 or 2 questions 
+useful for 
+validating/developing the 
+chosen objectives 
+
+FULL MARKS 4-5/5 
+All 5 Qs. target info that 
+would validate or 
+develop the chosen 
+objectives 
+
+FAIL 0/5 
+No answer 
+
+Qs have no relationship 
+to objectives discussed 
+
+Questions already 
+answered in case study 
+
+ 
+ 
+ 
+ 
+ 
+

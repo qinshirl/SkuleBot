@@ -1,0 +1,195 @@
+MAT186H1F CALCULUS I: Course Information as of
+August 27, 2013
+MAT186H1F is an introduction to calculus and its applications. We assume only that you have seen
+limits and some derivatives in your high school courses. We will start the course with a ‘review’ of
+trigonometric formulas, and inverse trigonometric functions.
+
+Section Instructors: By now you should be scheduled into one of the following Sections:
+
+LEC0101 Cohen, S.
+LEC0103 Burbulla, D. LEC0104 Shorser, L.
+
+LEC0102 Tyros, K.
+
+Textbook: The textbook for this course is Anton, Bivens & Davis’s Calculus, Early Transcendentals
+Version, 10th edition. Any version of this book will do, be it hardcover or binder-ready softcover.
+
+Marking Scheme: WeBWorK Assignments: 5%; Quiz: 15%; Test: 30%; Exam: 50%
+
+Tutorials: You should attend attend your tutorial on a regular basis; it is one place you can get help
+with your homework, and it is the only place you can pick up your graded tests and have the
+solutions taken up. One tutorial will be devoted to general advice. Another tutorial will ‘review’
+conics, since these are no longer covered in high school. Tutorials start Monday, Sep 9th and
+end Monday, Dec 2nd. There are no tutorials on Monday, Oct 14th.
+
+Homework: All the odd-numbered exercises have answers in the back; consider them all as home-
+work, although the ones that require a graphing utility or a computer algebra system are optional.
+
+WeBWorK: Information regarding this on-line homework website will be posted on the course web-
+site in the second week of classes. WeBWorK homework will not begin until September 23.
+
+Quiz: One 50-min quiz is scheduled in your tutorial during the week of Nov 11-15.
+
+Test: a 100-minute term test is scheduled for Tuesday, Oct 15, 12:10-1:55 PM, locations TBA.
+
+Final Exam: There will be a common ﬁnal exam, 150 min long, during the exam period, Dec 9-20.
+
+Math Aid Oﬃce: GB 149. Hours: MTWRF 12:10-2 PM
+
+Calculators: Use of a Casio FX-991MS or Sharp EL-520X calculator will be permitted during all
+quizzes, tests and exams. However, it is still your responsibility to explain your work. A correct
+answer with no justiﬁcation will receive no marks.
+
+Course Coordinator: D. Burbulla. Oﬃce: GB 149
+
+email: burbulla@math.toronto.edu; oﬃce hours: MTWRF 12:10-2 PM.
+
+Course Websites: In addition to the course websites which can be accessed through the U of T
+portal there is the coordinator’s home page: http://www.math.toronto.edu/burbulla/
+
+Lecture and Tutorial Schedule: see the back of this page for an approximate schedule of lecture
+
+and tutorial topics.
+
+Chapter
+Before Calculus
+
+Limits and Continuity
+
+The Derivative
+(high school review)
+
+Limits at Inﬁnity; End Behavior of a Function
+
+Inverse Functions; Inverse Trigonometric Functions
+Limits (An Intuitive Approach)
+
+Section Topic
+Appx B Trigonometry Review
+Sec 0.4
+Sec 1.1
+Sec 1.2 Computing Limits
+Sec 1.3
+Sec 1.5 Continuity
+Sec 1.6 Continuity of Trig, Exponential and Inverse Functions
+Sec 2.1 Tangent Lines and Rates of Change
+Sec 2.2 The Derivative Function
+Sec 2.3
+Sec 2.4 The Product and Quotient Rules
+Sec 2.5 Derivatives of Trigonometric Functions
+Sec 2.6 The Chain Rule
+Sec 3.1
+
+Introduction to Techniques of Diﬀerentiation
+
+Implicit Diﬀerentiation
+
+Topics in Diﬀerentiation Sec 3.2 Derivatives of Logarithmic Functions
+
+Local Linear Approximation; Diﬀerentials
+L’Hˆopital’s Rule; Indeterminate Forms
+Increase, Decrease and Concavity
+
+Sec 3.3 Derivatives of Exponential & Inverse Trig Functions
+Sec 3.4 Related Rates
+Sec 3.5
+Sec 3.6
+Sec 4.1
+Sec 4.2 Relative Extrema; Graphing Polynomials
+Sec 4.3 Rational Functions, Cusps and Vertical Tangents
+Sec 4.4 Absolute Maxima and Minima
+Sec 4.5 Applied Maximum and Minimum Problems
+Sec 4.6 Rectilinear Motion
+Sec 4.7 Newton’s Method
+Sec 4.8 Rolle’s Theorem; Mean Value Theorem
+Sec 5.1 An Overview of the Area Problem
+Sec 5.2 The Indeﬁnite Integral
+Sec 5.3
+Sec 5.4 The Deﬁnition of Area as a Limit; Sigma Notation
+Sec 5.5 The Deﬁnite Integral
+Sec 5.6 The Fundamental Theorem of Calculus
+Sec 5.7 Rectilinear Motion Revisited Using Integration
+Sec 5.8 Average Value of a Function and its Applications
+Sec 5.9
+Sec 6.1 Area Between Two Curves
+Sec 6.2 Volumes By Slicing; Discs and Washers
+Sec 6.3 Volumes By Cylindrical Shells
+Sec 6.4
+Sec 6.5 Area of a Surface of Revolution
+Sec 6.6 Work
+Sec 6.9 Hyprebolic Functions and Hanging Cables
+
+Evaluating Deﬁnite Integrals by Substitution
+
+Integration by Substitution
+
+Length of a Plane Curve
+
+The Derivative
+in Graphing
+and Applications
+
+Integration
+
+Applications of the
+Deﬁnite Integral
+in Geometry,
+Science and
+Engineering
+
+Lectures
+2
+2
+1
+1
+1
+1
+1
+1/2
+1/2
+1/2
+1/2
+1/2
+1/2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+optional
+optional
+1
+1
+1
+1
+1
+1/2
+1/2
+1
+1
+1
+1
+1/2
+1/2
+1
+1
+
+Tut 1: diagnostic tests Tut 2: general advice Tut 3: conics
+Tut 5: pre-test Q & A Tut 6: related rates
+Tut 9: pre-quiz Q & A Tut 10: quiz
+
+Tut 7: test returned
+Tut 11: quiz returned Tut 12: pre-exam Q & A
+
+Tut 4: continuity
+Tut 8: L’Hopital’s rule
+
+

@@ -1,0 +1,289 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Department of Electrical and Computer Engineering 
+
+ECE110S – Electrical Fundamentals 
+Midterm Test 1 – February 10, 2011, 6:00 – 7:30 p.m. 
+
+ANSWER ALL QUESTIONS ON THESE SHEETS, USING THE BACK SIDE IF NECESSARY. 
+1.  Non-programmable calculators are allowed. 
+2.  For full marks, you must show methods, state UNITS and compute numerical answers when  requested. 
+3.  Write in PEN. Otherwise, no remarking request will be accepted. 
+4.  There is one extra blank page at the end for rough work. 
+5.   One 8 1/2” x 11” aid sheet allowed 
+_______________________________________________________________________________________ 
+
+Last Name:  ____________________________________________________ 
+
+First Name:  ____________________________________________________ 
+
+Student Number:  _______________________________________________ 
+
+Tutorial Section 
+ (YOU LOSE ONE MARK FOR NOT MARKING YOUR TUTORIAL SESSION CORRECTLY): 
+
+01  WB342  Mon. 3-5 p.m. 
+
+     02  GB304  Mon. 3-5 p.m. 
+03  WB342  Tue. 4-6 p.m. 
+
+04  GB304 
+
+Tue. 4-6 p.m. 
+
+05  GB404  Wed. 4-6 p.m. 
+
+06  WB219  Wed. 4-6 p.m. 
+
+07  SF2202  Wed. 2-4 p.m. 
+
+08  WB219  Wed. 2-4 p.m. 
+
+09  GB120 
+
+Fri. 4-6 p.m. 
+
+10  WB130 
+
+Fri. 4-6 p.m. 
+
+11  SF2202 
+12  WB130 
+
+Fri. 2-4 p.m. 
+Fri. 2-4 p.m. 
+
+Question 
+
+Mark 
+
+1 
+
+2 
+
+3 
+
+TOTAL 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. [10 marks] A uniform infinitely long positive volume charge density  [C/m3] is distributed inside a 
+cylinder of radius a. Answer the following questions: 
+
+(a)  What is the electric field (
+
+) for 0<r<a. Identify both magnitude and direction. (3 marks) 
+
+(b) What is the electric field (
+(c)  A positive charge q has moved from point P1 to P2. As the result of this movement has the electrostatic 
+potential (ΔV) increased or decreased and by how much? (Give an expression for ΔV) (4 marks) 
+
+) for a<r<∞. Identify both magnitude and direction. (3 marks) 
+
+(a)    
+
+               radial outward 
+
+(b)    
+
+        radial outward 
+
+(c)      
+
+         voltage increased due to movement from P1 to P2 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+             
+ 
+  
+   
+ 
+   
+   
+ 
+ 
+ 
+ 
+    
+   
+      
+  
+  
+ 
+2. [10 marks] The figure below shows a parallel-plate capacitor with an area of 0.15m2. The capacitor is 
+charged to a voltage of 120 Volts by a battery and then the battery is disconnected. A dielectric material of 
+thickness 0.5cm with a dielectric constant of 3 is then inserted symmetrically between the plates as shown. 
+Determine: 
+
+(a)  Capacitance before inserting the dielectric (2 marks)  
+(b) Capacitance after inserting the dielectric (3 marks) 
+(c)  Electric potential difference across the plates after inserting the dielectric (2 marks) 
+(d) Whether the dielectric is pulled in or must be pushed in and work required to insert the dielectric (3 
+
+marks) 
+
+(a) 88.5 pF 
+
+(b) 114 pF 
+
+(c)  93.16 V 
+
+(d) -142.5 nJ, pulled in 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. [10 marks] Consider the infinitely long conductor of radius R=10 mm, located along the y-axis. The 
+1000 A current flows in a positive y direction and is uniformly distributed through its cross-section.  
+
+(a)  Where in the x-z plane is the magnetic field the greatest? Consider the area inside and outside the 
+
+conductor. What is the maximum value of the magnetic field? (3 marks) 
+
+(b) What is the minimum value of the magnetic field inside the conductor and where does this occur.  
+      (1 marks) 
+(c) Calculate the magnitude and the direction of the magnetic field at point A (40m, 10m, 30m).   (3 marks) 
+(d) Assume that 10nC charge is located at A and is moving with velocity v = 1m/s in the positive y direction.  
+
+Calculate the force vector on the charged particle. (3 marks) 
+
+(a) Maximum at r=R, Bmax=20mT 
+
+(b) Bmin=0 at r=0  
+
+(c)  BA=4 microTesla perpendicular to the radius 
+
+(d) F=4x10-14
+
+ N radial inward (toward the conductor) 
+
+Page 4 of 4 
+
+yxzIR = 10mm 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,241 @@
+Written Answer (marks per question as indicated on question; 14 marks total) 
+
+Write answers into the spaces provided on the question paper. 
+
+Client Statement #1 (Questions 17-22) 
+I use a motorized wheelchair (see figure 1) to get from my car 
+to the baseball diamond to watch my daughter’s baseball 
+games. Some of the parks where the games are played do not 
+have paved access from the street to the diamonds. Often I 
+have to try to cross grass and sometimes mud using my 
+wheelchair to get to the baseball diamond. More than once I 
+have gotten stuck in a dip in the grass or in some mud. Once I 
+even tipped over. I need you to redesign my wheelchair to increase its motor to 300 horsepower 
+to keep me from getting stuck. The motor must be mounted on the bottom of the chair to keep the 
+center of mass low and keep me from tipping over. The structure of the chair will need to be 
+strengthened to handle the additional weight of the motor and the torque it will apply when 
+running. Titanium is stronger than steel and so you can use less of it so it will save money. Please 
+use tricks like this to keep costs low. Try to keep the new chair from costing more than my 
+existing chair. I want mud flaps to keep me clean if I go through a puddle, and a drink holder.  
+
+**Note from Course Coordinator to markers: These are guidelines. Consult with me if any 
+specific issues arise that don’t fit these answers.** 
+
+17. (2 mark) The functional basis for this project is:  to 
+
+Noun 
+mass 
+energy 
+information 
+
+Verb 
+•  Sense, detect, indicate, identify 
+•  Support, maintain, secure, steady, hold constant 
+•  Combine, connect, join, mix, merge, bond 
+•  Separate, split, detach, parse 
+•  Store, deposit, place 
+•  Extract, remove, mine, retrieve, recover 
+•  Transport, transmit, convey, move, channel, rotate 
+•  Transform, convert, alter, modify, adapt 
+•  Control 
+
+2 marks: Transport, covey, move  mass 
+1.5 marks: support, transmit, channel 
+1 mark: control, transform, convert, alter, modify, adapt, place, deposit  mass 
+0.5 marks: anything else from the table above 
+0 marks: Uses wheelchair or user instead of mass  
+
+mass 
+
+APS112 & APS113 – Quiz #1 – 2013 – Answer Key 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+Modifiers 
+-0.5 additional qualifier 
+…safety and efficiently transport the mass across the soft grassy area. 
+Synonyms: if the verb or noun used is not on the list, but is a close synonym you can give it a -
+0.5 penalty and then grade it as if it were on the table. EX. Matter instead of mass; transfer 
+instead of transport 
+
+18. (2 marks) What is the purpose of defining the functional basis at the start of a project? 
+
+One sentence will be fine. One of the following or similar will get 2 marks. 
+
+To dissect an engineering design problem and understand it from a functional perspective. 
+To have an abstract / high level definition of the problem that keeps the design space open.  
+Helps identify the underlying functionality of the design.  
+Identify comparable technologies to use as analogies. 
+To scope the project while keeping the design space as open as possible. 
+To understand the client’s fundamental need. 
+
+Give partial marks if they don’t quite say one of these examples, but they are close. 
+
+19. (2 mark) Give one stakeholder and state their interest. 
+
+1 Mark for each (must have one stakeholder and one interest) 
+**If multiple stakeholders are given grade the top one in the list and don’t look at the others.** 
+
+Daughter  
+Disable rights organizations   – Bettering the lives of disabled people 
+NGO’s  
+
+– Family value; sports 
+
+– Better the lives of disabled people 
+– Encourage use of public parks 
+– Avoid unnecessary work 
+
+Grounds caretakers  
+Wheelchair manufacturers   – Increase profit; diversify product line; recruit more customers 
+– Developing productive citizens 
+Government  
+– Support self-sufficiency of disable 
+– Encourage use of Public Park 
+- Family values; self-sufficiency; live life ‘normally’; independence 
+
+Client / User*   
+*Textbook says no, but we’ll give them grades. 
+
+No marks 
+Better wheelchair 
+Avoid getting stuck 
+Avoid tipping over 
+Have a drink holder 
+
+APS112 & APS113 – Quiz #1 – 2013 – Answer Key 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20.  (3 marks) Give one primary function, one objective and one constraint for the project. 
+
+They only need to give you one of each, but I gave several examples of each.  
+
+Primary Function:  Support user; Move user; transport user (client will work as well) 
+
+Objective:  Inexpensive; Minimize sinking into soft surfaces 
+
+Constraint:  Retro fit of existing wheelchair; [wheelchair regulations] 
+
+NO: Low centre of mass; 300 hp; Use titanium; more power 
+
+21. (3 Marks) Use the Pugh method to select which of these three alternatives methods for 
+opening a bottle of root beer best meets the following objectives (show your work):  
+
+•  Minimal training 
+•  Safe 
+• 
+
+Inexpensive 
+
+Bottle opener 
+
+Spoon 
+
+Chainsaw 
+
+Minimal Training 
+Safe 
+Inexpensive 
+Sum + 
+Sum S 
+Sum - 
+
+Total 
+
+S 
+S 
+S 
+0 
+3 
+0 
+0 
+
+-1 
+-1 
++1 
+1 
+0 
+-2 
+-1 
+
+-1 
+-1 
+-1 
+0 
+0 
+-3 
+-3 
+
+**Methodology is the important thing, not the exact ratings though the chainsaw definitely 
+required more training, is more expensive and is much less safe.** 
+
+**If they used different notation than -1, S, +1 that is fine as long as they are still doing a 
+pairwise comparison of the alternatives. I.E. -1, 0, +1; 1, 2, 3 are both OK. ** 
+
+The alternative that best meets the stated objectives is 
+
+Bottle Opener (or Spoon) [**depends 
+on result of correct Pugh Method**] 
+
+because 
+
+though it is slightly more expensive then the spoon it is slightly safer and easier to use. 
+
+APS112 & APS113 – Quiz #1 – 2013 – Answer Key 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+**No marks for Q. #21 if they didn’t do a correct Pugh Method.** 
+
+22. (2 marks) In general explain a limitation of the Pugh method. 
+
+The Pugh method assumes an equal weighting for all objectives. The example above treats safety 
+equally important to minimal training.   
+
+APS112 & APS113 – Quiz #1 – 2013 – Answer Key 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+

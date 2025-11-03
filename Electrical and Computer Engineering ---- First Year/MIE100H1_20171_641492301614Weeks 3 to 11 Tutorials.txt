@@ -1,0 +1,435 @@
+MIE100S – Winter 2017  
+Tutorial Problem 03a 
+
+A child  A is  swinging from  a swing that  is  attached to  a trolley that  is  free to  move  along  a 
+fixed rail. Letting L = 2.5 m, if at a given instant              ,        ,          
+ and 
+                , determine the magnitude of the acceleration of the child relative to the rail 
+at that instant. 
+
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 03a 
+
+A child  A is  swinging from  a swing that  is  attached to  a trolley that  is  free to  move  along  a 
+fixed rail. Letting L = 2.5 m, if at a given instant 𝑎𝐵 = 3.7 𝑚/𝑠2, 𝜃 = 23°, 𝜃̇ = 0.45
+ and 
+𝜃̈ = −0.2 𝑟𝑎𝑑/𝑠2, determine the magnitude of the acceleration of the child relative to the rail 
+at that instant. 
+
+𝑟𝑎𝑑
+
+𝑠
+
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 03b 
+
+The force of the motor M on the cable is shown in the graph. Determine the velocity of the 400-kg 
+crate A when t = 2 s. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 03b-Solution 
+
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 04a 
+
+A 5-kg mass is placed on a rough inclined surface (𝜃=15º) to slide (𝜇𝑠 = 0.45; 𝜇𝑘 = 0.4) subjected 
+
+to a non-constant force P = 5𝑡 𝑖  Newtons, where 𝑡 is measured in seconds.  
+
+How much time will it take for the mass to reach a speed of 10 m/s? 
+
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 04b 
+
+A 54-kg pilot flies a jet trainer in a half vertical loop of 1200 m 
+
+radius  so  that  the  speed  of  the  trainer  increases  at  a  constant 
+
+rate.  Knowing  that  the  normal  forces  exerted  on  the  pilot  at 
+
+points A and C are  1750  N  and  703.5  N,  respectively, 
+
+determine  the  normal  force  exerted  on  her  by  the  seat  of  the 
+
+trainer when the trainer is at Point B. 
+
+	
+	
+	
+MIE100S – Winter 2017   
+
+Tutorial Problem 04b-Solution 
+
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 05a 
+
+The 5 𝑘𝑔 block starts at rest on the incline in a system as shown above. A non-constant force, 𝐹, 
+is  applied  to  the  block.  The  contact  surface  between  the  block  and  incline  is  smooth,  and  the 
+attached spring-mass system is in equilibrium before the force is applied. Determine the block’s 
+speed when 𝑠 = 0.5 𝑚. 
+
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 05a-Solution 
+
+ 
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 05b 
+
+The  collar  has  a  mass  of  2  kg  and  is  attached  to  the  light  spring,  which  has  a 
+stiffness of 30 N/m and an unstretched length of 1.5 m. The collar is released from 
+rest at A and slides up the smooth rod under the action of the constant 50 N force. 
+
+a)  What is the potential energy of the spring at time t=0?  
+
+b)  Find the velocity of the collar as it passes position B.  
+
+c)  Draw a free body diagram of the collar when it is in position B. Indicate 
+the direction (as they act on the mass) of all forces in the plane of motion. 
+It is not necessary to calculate their magnitudes. 
+
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 05b-Solution 
+
+ 
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 06a 
+
+The  0.5      collar  slides  with  negligible  friction  along  the  fixed  spiral  rod,  which  lies  in  the 
+vertical  plane.  The  rod  has  the  shape  of  the  spiral   =0.3 ,  where     is  in  meters  and     is  in 
+radians. The collar is released from rest at A and slides to B under the action of a constant radial 
+force  =10 . Calculate the magnitude of velocity of the slider as it reaches  . 
+
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 06a-Solution 
+
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 06b 
+
+A very small sphere of mass 3 kg is carried by the parallelogram linkage, where 
+each side of the parallelogram has length 500 mm. The relaxed length of the spring 
+is 400 mm. Ignore the mass of the link arms. At time t=0, θ = 90o
+ and the linkage is 
+rotating in the clockwise direction such that the sphere has a speed of 4 m/s. 
+
+a)  What is the potential energy of the spring at time t=0?  
+
+b)  What  will  be  the  direction  of  travel  of  the  sphere  when  θ  gets  extremely 
+close  to  180o?  (Express  your  answers  in  terms  of  the  given  x-y  coordinate 
+system.)  
+
+c)  Find the speed of the sphere when θ gets extremely close to 180o. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 06b-Solution 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 07a 
+
+The centre   of the smaller wheel has a velocity        = 0.4  /  in the direction shown. The cord which 
+connects  the  two  wheels  is  securely  wrapped  around  the  respective  peripheries  and  does  not  slip. 
+Calculate the  velocity  of  point     when  in the position  shown.  Also  compute  the change  Δ   which 
+occurs per second if        is constant 
+
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 07a-Solution 
+
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 07b 
+
+At the instant shown in the figure, point B of the T-shaped bar has a velocity of 1     
+acceleration of 2     
+
+    and an 
+
+    .  
+
+a)  Determine the velocity of point D in x-y coordinates.  
+
+b)  Determine the angular velocity of the T-shaped bar.  
+
+ 
+ 
+ 
+ 
+MIE100-Winter 
+Tutorial Problem 07b-Solution 
+
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 08a 
+
+Given point C is moving to the right at         
+
+ and linkage BD has an angular acceleration of 
+   , in the direction shown, find the magnitude of acceleration of point B at the given 
+
+instant. 
+
+ 
+ 
+         
+   
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 08b 
+
+In the mechanism shown, the initial velocity of point D is 1 
+
+acceleration 𝑎CD of bar CD is −5  
+
+𝑟𝑎𝑑
+
+𝑠2 .  
+
+𝑚
+
+𝑠
+
+ î, and the initial angular 
+
+a.  What is the initial velocity of point B, expressed in x-y coordinates?  
+
+b.  What is the acceleration of point D? Express your answer in normal-tangential coordinates.  
+
+c.  What is the initial velocity of point A, expressed in Cartesian coordinates?  
+
+d.  What is the initial angular velocity 𝜔𝐴𝐵 of bar AB?  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 08b-Solution 
+
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 09a 
+
+A uniform spinning disk drops a very short distance onto a flat horizontal surface. Initially, the 
+disk will slip, and accelerate in horizontal direction. Eventually, it will roll without slipping, with 
+constant  velocity.  Determine  the  final  velocity  of  the  center  of  the  disk.  Ignore  the  potential 
+energy associated with this small vertical drop.  
+
+Radius of the disk = R  
+Mass of the disk = M  
+Initial angular velocity = ω0  
+Kinetic and static friction coefficients = μk and μs 
+
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 09a-Solution 
+
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 09b 
+
+A rod AB, with mass of 0.75  g and length of 1.2  , is at rest. A force of P = 2N is applied to 
+one end of the rod.  Find initial         in terms of supplied x-y. 
+
+x-y plane is horizontal  
+
+Neglect friction  
+
+ω1 = 0  
+
+mAB = 0.75 kg  
+
+ AB = 1.2 m  
+
+P = 2 N 
+
+yxPABG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 09b-Solution 
+
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 10a 
+
+A uniform disk with a mass of 6 𝑘g and radius of 0.2 𝑚 pivots without friction about a horizontal 
+axis through point O. A long slender rod with a mass of 2 kg is fastened to the disk as shown. If 
+the  system  is  nudged  from  rest  while  in  the  position  shown,  determine  its  angular  velocity  𝜔 
+after it has rotated 180°. 
+
+ 
+ 
+MIE 100 - Winter 2017 
+Tutorial problem 10a - Solution
+
+MIE100S – Winter 2017 
+Tutorial Problem 10b 
+
+A  uniform  disk  with  mass  24  𝑘g  and  radius  0.3  𝑚  is  initially  at  rest.  It  is  then  acted  upon  by  a 
+constant 100 𝑁 force as shown and rolls without slipping.  
+
+Determine:  
+
+(a) The velocity of its centre of mass, G, after it has moved 1.8 𝑚  
+
+(b) The friction force required to prevent slipping  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE 100 - Winter 2017 
+Tutorial problem 10b - Solution
+
+MIE100S – Winter 2017 
+Tutorial Problem 11a 
+
+The homogeneous slender rod of mass m = 16 kg and length of L = 850 mm is supported by a pin 
+at A and is able to rotate about A. The bar is connected to a spring and damper as shown. The bar 
+is initially in equilibrium with the spring relaxed at the position shown in the diagram on the left. 
+
+a)  What is the moment of inertia of the rod about A? 
+
+b)  What is the differential equation for the motion of the rod in terms of 𝜃? Assume the 
+
+motion only involves small angles of 𝜃. 
+
+ 
+ 
+ 
+ 
+ 
+MIE 100 - Winter 2017
+Tutorial problem 11a - Solution
+
+MIE100S – Winter 2017 
+Tutorial Problem 11b 
+
+ Calculate the natural frequency 𝜔𝑛 of the system shown in the figure. The mass and the friction 
+of the pulleys are negligible. 
+
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 11b-Solution 
+
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 11a 
+
+The uniform 40 kg slender bar AC rotates in a vertical plane about the pin at B. The ideal spring 
+AD has a spring constant k=20  N/m and an undeformed length of L0=3m. The bar is released at 
+rest in the position        When the bar reaches the horizontal position, find: 
+
+a)  Angular velocity of the bar. 
+b)  Force at pin B. 
+
+8 m 
+
+6 m 
+
+3 m 
+
+ 
+ 
+MIE100S - Winter 2017 
+Tutorial problem 11a - Solution
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 11b 
+
+ 
+MIE100S - Winter 2017 
+Tutorial problem 11b - Solution
+
+

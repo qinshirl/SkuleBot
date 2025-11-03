@@ -1,0 +1,879 @@
+ECE 110S – Electrical Fundamentals 
+
+Course Information 
+
+Winter 2023 
+
+1  Contacts 
+
+Instructor 
+Paul Yoo, Coordinator 
+Berj Bardakjian 
+Mo Mojahedi 
+Belinda Wang 
+Xilin Liu,  
+Daniel Tovbis, Head TA 
+
+email 
+paul.yoo@utoronto.ca  
+berj.bardakjian@utoronto.ca 
+mojahedi@waves.utoronto.ca 
+belinda.wang@utoronto.ca 
+xilinliu@ece.utoronto.ca 
+daniel.tovbis@utoronto.ca  
+
+Office Hours 
+TBD 
+TBD 
+TBD 
+TBD 
+TBD 
+TBD 
+
+1.1  Discussion  Board (Piazza) 
+
+We will  use  Piazza  for  the  class  discussion  board.  Piazza  is  connected  through  Quercus.    For 
+information on joining the Piazza site for this course, please see  the  document  Piazza‐  Quercus 
+Student Experience.pdf , under the “Course Information” module. 
+
+Please post all your course-related questions to Piazza as it is quite likely others will have the 
+same question and it is good to have the responses available to everyone. If you have a personal 
+issue, please contact one of the instructors directly. 
+
+Class signup link: https://piazza.com/utoronto.ca/winter2023/ece110 
+
+2  Required  Text 
+
+Title: Custom Print “Fundamentals of Physics” + “Basic Engineering Circuit Analysis” 
+Authors: D. Halliday, R. Resnick, J. Walker and J.D. Irwin, R.M. Nelms 
+Publisher: Wiley 
+
+1.  Halliday/Irwin print custom textbook, WP access for Halliday, and Irwin enhanced etextbook –
+
+(ISBN: 9781119894247) ‐  $139.95 
+Irwin enhanced etextbook + Halliday WP access (ISBN: 9781119893363) ‐ $65 
+
+2. 
+
+Instructions for purchasing can be found on Quercus (see Word document in the Course 
+Information section). Please visit or contact the UofT Bookstore for purchasing a physical copy. 
+
+The following link for WileyPLUS purchase instructions. 
+https://wileyplus.gallery.video/student/detail/videos/registration-videos/video/4950839906001/first-
+day-of-class---getting-started-with-wileyplus-and-canvas-student?autoStart=true 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please Note: it’s mandatory for every student to have a WileyPLUS access code. If there is a 
+problem with accessing your WileyPLUS account you can contact 
+https://support.wileyplus.com/s/contactsupport first and then the Head TA, Daniel Tovbis at 
+daniel.tovbis@utoronto.ca if your issue persists.  
+
+3  Calendar  Description 
+
+Fixed Credit Value: 0.50 
+Hours: 38.4L/38.4P 
+
+An overview of the physics of electricity and magnetism: Coulomb’s law, Gauss’ law, Ampere’s 
+law, Faraday’s law, Lenz’s law, and Ohm’s law. Physics of capacitors, resistors, and inductors. 
+An  introduction  to  circuit  analysis:  resistive  circuits,  nodal  and  mesh  analysis,  linearity  and 
+superposition, Thévenin’s and Norton’s theorems, maximum power transfer, first-order RC and 
+RL transient response, and sinusoidal steady-state analysis. 
+
+4  Learning  Outcomes 
+
+Learn  the  laws  govern  the  behaviors  of  electric  charges,  and  interactions  between  charges.  
+Understand the concepts of electric fields, electric potentials and electric potential energies. 
+
+Learn about electrical  energy  storing elements, such as capacitors, and then use them in various 
+electrical circuits.  
+
+Learn  about  magnetism,  magnetic  forces  on  moving  electric  charges  and  on  current  carrying 
+wires. Learn about the concept of magnetic fields, magnetic energy, and magnetic energy storing 
+devices such as inductors. Understand how inductors behave in electrical circuits.  
+
+Learn about basic circuit elements such as power supply, resistor, capacitor and inductor. Learn 
+how  to  analyze  resistive  circuits  under  DC  excitation.  Learn  about  various  circuit  analysis 
+techniques:  Kirchhoff’s  law,  current/voltage  division  rules,  nodal/mesh  analysis,  and 
+superposition principles. 
+
+Learn the roles of a capacitor and an inductor in RC and RL transient circuits respectively, and 
+the step-by-step technique in analyzing first-order transient circuits. 
+
+Learn about the concepts of phasors and impedances, and use them to analyze sinusoidal steady-
+state (AC) circuits. 
+
+Learn  about  Thevenin’s  and  Norton’s  theorems  and  their  significance  in  circuit  analysis.  Apply 
+Thevenin/Norton theorems and maximum power transfer theorem to resistive networks (DC) 
+and sinusoidal steady-state (AC) circuits. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5  Real-World  Relevance 
+
+Electric charges are everywhere in our physical world and electromagnetic energy powers our 
+modern  existence.  The  materials  covered  in  this  course  teach  you  something  about  the 
+fundamental  particles  (electric  charges)  that  are  ubiquitous  in  our  world  and  their  awesome 
+power that we cannot live without.  
+
+6  Structure 
+
+Lectures 
+Office Hours 
+Tutorials 
+Labs 
+
+Format 
+In-person 
+TBD 
+In-person 
+In-person 
+
+Number  Hours/week 
+
+38/39 
+12 
+12 
+- 
+
+3 
+1  
+2 
+- 
+
+Office hours will be determined based on student input. 
+
+The weekly tutorials are integral part of this course. A teaching assistant will lead the tutorial. 
+The TA will review the materials covered in the week, and then solve a few selected problems. 
+Students can interact with the TA during the session to discuss problems in the assignments. The 
+tutorials will start in the second week of the semester (week of January 16, 2021). You can see the 
+file Tutorial Schedule.pdf under the “Course Information” module for more details.  
+
+The  labs  are  important  part  of  this  course  and  is  where  you  gain  hands-on  experience  using 
+electronic instruments, building and testing circuits.  
+
+7  Lecture Timetable  
+
+All lectures will be delivered in-person. Please confirm your lecture section and lecture rooms.  
+
+Lectures 
+Section 101  Prof. Xilin Liu 
+Section 102  Prof. Xilin Liu 
+Section 103  Prof. Berj Bardakjian 
+Section 104  Prof. Belind Wang 
+Section 105  Prof. Paul Yoo 
+Section 106  Prof. Mo Mojahedi 
+
+W   5 – 6 pm 
+W   4 – 5 pm 
+W    4 – 5 pm 
+
+T   5 – 6 pm 
+T   4 – 5 pm 
+T   4 – 5 pm 
+T    10 – 11 am  Th    10 – 11 am 
+M    12 – 1 pm   W    12 – 1 pm  
+M    3 – 4 pm  W    3 – 4 pm 
+
+F   5 – 6 pm 
+F   4 – 5 pm 
+F    4 – 5 pm 
+F    9 – 10 am 
+F    2 – 3 pm  
+Th   3 - 4 pm 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assignment Due Dates: 
+
+There  are  7  online  (auto-graded)  assignments.  Student  can  access  these  assignments  through  the 
+“Assignments” module. Similar problems can also be found in the end-of-chapter-problems sections of 
+the textbook. The Head TA (Daniel Tovbis: daniel.tovbis@utoronto.ca) will handle student inquiries 
+related to assignments.  
+
+Assignment 0: not graded, but essential practice to learn how to use the Assignment software (the same 
+system will be used for all online assessments in this course), especially the “SHOW WORK” feature 
+which will be used for submitting written work (optional) during assessments. 
+
+Assignment 1: January 28, 2023 
+Assignment 2: February 11, 2023 
+Assignment 3: March 4, 2023 
+Assignment 4: March 18, 2023 
+Assignment 5: April 1, 2023 
+Assignment 6: April 8, 2023 
+Assignment 7: April 15, 2023 
+
+8  Grade  Composition 
+
+Not-closely 
+supervised work  
+Term Test 1 
+Term Test 2 
+Final Exam 
+Total 
+
+15% 
+
+20% 
+20% 
+45% 
+100% 
+
+9  Assessment Scheme 
+
+Typically the term test will take 1.5 hours and the final assessment will take 2.5 hours. More details will 
+be posted in due course. 
+
+Note: The Final Assessment is mandatory in order to complete the course. In another word, if you 
+decide to skip the Final Assessment, you will receive incomplete (INC) for the course. 
+
+10  Course  Outline 
+
+There are three main goals of this course: 
+
+1.  To understand basic laws governing the physical behaviors of electric charges, fundamental 
+
+principles of electricity and magnetism, and functionalities of circuit elements. 
+
+2.  To become comfortable applying fundamental laws of physics to study the behaviors of 
+
+electric charges. 
+
+3.  To become comfortable using various methods and techniques to analyze electrical 
+
+circuits. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jan. 16 
+
+Jan. 23 
+
+10 
+
+Jan. 30 
+
+11 
+
+12 
+
+13 
+
+Feb. 7 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+The lecture outline below is only approximate. The actual topics and lecture schedule may vary. 
+
+Lec  Week 
+
+Topics 
+
+Sections 
+
+Sections 
+
+Important 
+Dates 
+
+Course introduction, Coulomb’s law 
+
+Jan. 9  
+
+Coulomb’s law, Charge is quantized, 
+Charge is conserved, Conductors and 
+insulators 
+The electric field, The electric field due to a 
+charged particle, A point charge in an 
+electric field 
+Electric flux, Gauss law, A charged isolated 
+conductor 
+Applying Gauss law (cylindrical, planar, 
+and spherical symmetry) 
+Electric potential, Equipotential surfaces 
+and the electric field 
+Potential due to a charged particle, Electric 
+potential energy of a system of charged 
+particles 
+Capacitance, Calculating the capacitance 
+Capacitors in parallel and series,  
+Energy stored in an electric field, Capacitor 
+with a dielectric 
+Electric current, Current density, Resistance 
+and resistivity, Ohm’s law (excluding: A 
+microscopic view of Ohm’s law), Power in 
+electric circuits (excluding: semiconductors 
+and superconductors) 
+Review on electricity (catch-up lecture) 
+Magnetic fields and definition of B, 
+Magnetic force on a current-carrying wire 
+Magnetic field due to a current, Force 
+between two parallel currents 
+Ampere’s law, Solenoids (excluding: 
+Toroids) 
+Faraday’s law and Lenz’s law 
+
+Halliday (11th 
+Ed., Text Book) 
+21-1 
+21-1 
+
+Halliday (11th 
+Ed., WileyPlus) 
+1-1, 2, 3 
+1-1, 2, 3 
+
+22-1, 2, 6 
+
+2-1, 2, 6 
+
+23-1, 2,3 
+
+3-1, 2,3 
+
+23-4, 5, 6 
+
+3-4, 5, 6 
+
+24-1, 2 
+
+24-3, 7 
+
+4-1, 2 
+
+4-3, 7 
+
+25-1, 2 
+25-3, 4, 5 
+
+5-1, 2 
+5-3, 4, 5 
+
+26-1, 2, 3, 4, 5 
+
+6-1, 2, 3, 4, 5 
+
+Assign 1 due, 
+Jan. 28 
+
+28-1, 6 
+
+29-1, 2 
+
+29-3, 4 
+
+30-1 
+
+7-1, 6 
+
+8-1, 2 
+
+8-3, 4 
+
+9-1 
+
+Feb. 14 
+
+Induction and energy transfers 
+Inductors and inductance, Self-induction, 
+Energy stored in magnetic field (inductor), 
+Series and parallel connections of inductors 
+
+30-2 
+30-4, 5, 7 
+
+9-2 
+9-4, 5, 7 
+
+Review on magnetism (catch-up lecture) 
+
+Feb. 21  Reading Week 
+
+System of units, Basic quantities, Circuit 
+elements, Ohm’s law, Kirchhoff’s laws  
+
+19 
+
+Feb. 28 
+
+20 
+
+21 
+
+Single-loop circuits (voltage divider), 
+Single-node-pair circuits (current divider), 
+Series and parallel resistor combinations 
+Nodal analysis 
+
+5 
+
+Irwin (11th Ed., 
+Text book) 
+1.1, 2, 3,  
+2.1, 2 
+2.3, 4, 5 
+
+Irwin (11th Ed., 
+WileyPlus) 
+10.1, 2, 3,  
+11.1, 2 
+11.3, 4, 5 
+
+3.1 
+
+12.1 
+
+Assign 2 due, 
+Feb. 11 
+
+Test-1, Feb. 16 
+5:10-6:40 pm 
+Lec 1–14 
+inclusive 
+
+Assign 3 due, 
+Mar. 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lec  Week 
+
+Topics 
+
+Sections 
+
+Sections 
+
+22  Mar. 6  Loop analysis 
+23 
+24 
+25  Mar. 13  More on superposition 
+26 
+
+Nodal/loop analyses (dependent sources) 
+Equivalence, Linearity, Superposition 
+
+Thevenin’s and Norton’s theorems 
+More on Thevenin’s/Norton’s theorem’s 
+(dependent sources) 
+
+27 
+
+28  Mar. 20  Maximum power transfer 
+29 
+
+Review on DC circuits (catch-up lecture) 
+Capacitors, Inductors, Capacitor and 
+Inductor combination (series and parallel 
+combinations) 
+
+30 
+
+3.2 
+3.1, 2 
+5.1, 2 
+5.2 
+5.3 
+5.3 
+
+5.4 
+
+12.2 
+12.1, 2 
+13.1, 2 
+13.2 
+13.3 
+13.3 
+
+13.4 
+
+6.1, 2, 3 
+
+14.1, 2, 3 
+
+31  Mar. 27  First-order circuits (step-by-step technique) 
+More on first-order circuits 
+32 
+Sinusoids 
+
+33 
+
+7.1, 2 
+7.2 
+8.1 
+
+15.1, 2 
+15.2 
+16.1 
+
+34 
+
+35 
+
+36 
+
+Apr. 3  Review of complex numbers  
+
+Sinusoidal and complex forcing Functions, 
+Phasors 
+Phasor relationships for circuit elements, 
+Impedance and admittance 
+
+37  Apr. 10  Basic Analysis using Kirchhoff's laws 
+More on AC circuits 
+38 
+Course review 
+
+39 
+
+Appendix 
+8.2, 3 
+
+Appendix 
+16.2, 3 
+
+8.4, 5 
+
+16.4, 5 
+
+8.7 
+8.7 
+
+16.7 
+16.7 
+
+Important 
+Dates 
+
+Assign 4 due, 
+Mar.18 
+
+Test-2, Mar. 23 
+6:10-7:40pm 
+Covers Lec 15–
+27 inclusive 
+
+Assign 5 due, 
+Apr. 1 
+
+Assign 6 due, 
+Apr. 8 
+
+Assign 7 due, 
+Apr. 15 
+
+11    Notice of  video recording and sharing (Download permissible;   
+
+re-use  prohibited) 
+
+At times during this course, some interactions including your participation, may be recorded on 
+video and will be available to students in the course for viewing remotely and after each session. 
+
+Course  videos  and  materials  belong  to  the  instructors,  the  University,  and/or  other  source 
+depending on the specific facts of each situation and are protected by copyright. In this course, 
+you  are  permitted to download session videos and materials for your own academic use, but you 
+should not copy, share, or use them for any other purpose without the explicit permission of the 
+instructor. For questions about recording and use of videos in which you appear,  please contact your 
+instructor. 
+
+12  Academic Integrity Policies 
+
+http://www.academicintegrity.utoronto.ca/ 
+https://governingcouncil.utoronto.ca/secretariat/policies/code-behaviour-academic- 
+matters-july-1-2019 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13  Land  Acknowledgement 
+
+I (we) wish to acknowledge this land on which the University of Toronto operates. For thousands 
+of years, it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the 
+Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous 
+people from across Turtle Island and we are grateful to have the opportunity to work on this land. 
+
+14 
+
+Inclusivity, Accommodations and Mental Health Support 
+
+14.1  Statement on Inclusivity 
+
+You belong here. The University of Toronto commits to all students, faculty and staff that you can 
+learn, work and create in a welcoming, respectful and inclusive environment. In this class, we 
+embrace  the  broadest  range  of  people  and  encourage  their  diverse  perspectives.  This  team 
+environment is how we will innovate and improve our collective academic success. You can read 
+the evidence for this approach  here. 
+
+We  expect each of us to take responsibility for the impact that our language, actions and interactions 
+have on others. Engineering denounces discrimination, harassment and unwelcoming behaviour in 
+all its forms. You have rights under the Ontario Human Rights Code. If you experience or witness 
+any form of harassment or discrimination, including but not limited to, acts of racism, sexism, 
+Islamophobia, anti-Semitism, homophobia, transphobia, ableism and ageism, please tell someone 
+so we can intervene. Engineering takes these reports extremely seriously. You can talk to anyone you 
+feel comfortable approaching, including your professor or TA, an academic advisor, our Assistant 
+Dean, Diversity, Inclusion and Professionalism, the Engineering Equity Diversity and Inclusion 
+Action Group, any staff member or a U of T Equity Office. 
+
+You are not alone. Here you can find a list of clubs and groups that support people who identify 
+in many diverse ways. Working together, we can all achieve our full potential. 
+
+14.2  Statement on Accommodations 
+
+The University of Toronto supports accommodations for students with diverse learning needs, which 
+may be associated with mental health conditions, learning disabilities, autism spectrum, ADHD, 
+mobility impairments, functional/fine motor impairments, concussion or head injury, blindness 
+and low vision, chronic health conditions, addictions, deafness and hearing loss, communication 
+disorders and/or temporary disabilities, such as fractures and severe sprains, or recovery from an 
+operation. 
+
+If you have a learning need requiring an accommodation, the University of Toronto recommends 
+that students register as soon as possible with Accessibility Services. 
+Phone: 416-978-8060 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Email: accessibility.services@utoronto.ca 
+
+In  this  course,  we  do  not  have  makeup  assignments  or  tests.  However,  if  you  missed  some 
+assigned tasks, some considerations may be given, as described below. It is very important to 
+note that these considerations will be applicable if and only if there are legitimate reasons (e.g. 
+sickness,  car  accident,…).  Student  must  submit  the  required  online  petition  with  the 
+supporting documents to the First-Year Office. 
+
+14.2.1 Missing Assignments: 
+There are seven assignments in this course. All assignments run over many days. If you missed 
+no more than four assignments, we will use the marks of the remaining assignments to calculate 
+your  overall  assignment  grade.  If  you  missed  five  assignments,  we  will  use  the  marks  of  the 
+remaining two assignments minus 20% to calculate your overall assignment grade. If you missed 
+six assignments, we will use the marks of the remaining assignment minus 30% to calculate your 
+overall  assignment  grade.  If  you  missed  all  seven  assignments,  you  will  receive  zero  for  the 
+assignment grade. 
+
+14.2.2 Missing Term Tests: 
+There  are  two  term  tests  in  this  course.  If  you  missed  one  term  test,  we  will  use  your  final 
+assessment mark to calculate your marks for the missed term test. You must keep in mind that 
+the final assessment is cumulative (it includes all the materials covered in the course) and more 
+substantial  than  the  term  tests.  If  you  missed  both  term  tests,  your  Final  Assessment  will  be 
+worth 60% and you will be given an oral test worth 25% of the course grade. 
+
+Important Notice: In the case of unfortunate and unforeseen circumstances such as long-term 
+hospitalization, chronical heath issues or similar difficulties, which causes you to miss many of 
+the course assignments and tests, please contact your course instructor and the course 
+coordinator as soon as possible to discuss your situation and possible available options. 
+
+14.3  Statement on Mental Health 
+
+As a university student, you may experience a range of health and/or mental health challenges that 
+could result in significant barriers to achieving your personal and academic goals. Please note, the 
+University of Toronto and the Faculty of Applied Science & Engineering offer a wide range of free 
+and confidential services that could assist you during these times. 
+
+As a U of T Engineering student, you have an Academic Advisor (undergraduate students) or a 
+Graduate Administrator (graduate students) who can support you by advising on personal matters 
+that impact your academics. Other resources that you may find helpful are listed on the U of T 
+Engineering Mental Health & Wellness webpage, and a small selection are also included here: 
+
+14.3.1  Accessibility Services & the On-Location Advisor 
+
+14.3.2  Graduate Engineering Council of Students’ Mental Wellness Commission 
+
+14.3.3  Health & Wellness and the On-Location Health & Wellness Engineering  Counsellor 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.3.4  Inclusion & Transition Advisor 
+
+14.3.5  U of T Engineering Learning Strategist and Academic Success 
+
+14.3.6  My Student Support Program (MySSP) 
+
+14.3.7  Registrars Office 
+
+14.3.8  SKULE Mental Wellness 
+
+14.3.9  Scholarships & Financial Aid Office & Advisor 
+
+If you find yourself, feeling distressed and in need of more immediate support resources, consider 
+reaching out to the counsellors at My Student Support Program (MySSP) or visiting the Feeling 
+Distressed webpage. 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+

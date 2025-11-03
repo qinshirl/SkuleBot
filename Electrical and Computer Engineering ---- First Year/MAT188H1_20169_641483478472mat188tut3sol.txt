@@ -1,0 +1,599 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 3
+
+
+
+
+1 (a) Do the lines
+
+intersection.
+
+
+
+ =
+
+x
+y
+z
+
+
+
+
+
+3
+1
+ + s
+
+3
+
+
+
+
+
+1
+−2
+3
+
+ and
+
+
+
+
+
+
+
+ =
+
+
+
+ + t
+
+
+4
+6
+
+1
+
+
+2
+3
+
+1
+
+
+
+ intersect? If they do, ﬁnd the point of
+
+x
+y
+z
+
+Solution: Suppose that the two lines intersect, then there is a point with coordinates (x, y, z) that
+lies on both lines, i.e.
+
+
+
+
+
+
+
+x
+y
+z
+
+
+3
+1
+
+3
+
+
+
+
+
+
+
+1
+−2
+3
+
+
+
+
+
+4
+6
+ + t
+
+1
+
+
+2
+3
+
+1
+
+ =
+
+ + s
+
+
+
+ =
+
+
+
+(1)
+
+or equivalently,
+
+
+
+
+
+
+
+2
+3
+ =
+
+1
+for some s, t ∈ R. Notice that the above system is satisﬁed for s = t = −1. Therefore, the point (2, 3, 0)
+lies on both lines, i.e. the lines intersect. Another way to solve this is to row-reduce the augmented
+matrix of (2), into:
+
+1
+5
+−2
+
+1
+−2
+3
+
+ − t
+
+(2)
+
+
+
+
+
+
+
+
+
+
+
+s
+
+1
+1 −2
+2 −3
+5
+3 −1 −2
+
+
+
+
+
+ ∼
+
+
+
+
+
+1
+0
+0
+
+0 −1
+1 −1
+0
+0
+
+
+
+(3)
+
+which shows that (2) is always consistent and thus has a unique solution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 (b) Consider the non-parallel lines
+
+
+
+ =
+
+
+
+ + s
+
+ and
+
+
+
+ =
+
+
+
+ + t
+
+1
+−1
+0
+
+
+1
+1
+
+1
+
+x
+y
+z
+
+2
+−1
+3
+
+
+
+3
+1
+. Find the shortest
+
+0
+
+distance between the two lines and ﬁnd the points on the lines that are closest together.
+
+Solution: Let P (1+s, −1+s, s) and Q(2+3t, −1+t, 3) be the points on the lines corresponding to the
+shortest distance. Then, the vector from P to Q is denoted as PQ = Q − P = (1 + 3t − s, t − s, 3 − s).
+Because P and Q represent the shortest distance between the two lines, then PQ is orthogonal to both
+lines, i.e. PQ · u1 = 0 and PQ · u2 = 0, where u1(1, 1, 1) and u2(3, 1, 0) are the direction vectors of
+the two lines. Thus, we can write:
+
+PQ · u1 = 0
+PQ · u2 = 0
+
+⇐⇒
+
+⇐⇒
+
+4t − 4s + 4 = 0
+
+10t − 4s + 3 = 0
+
+(4)
+
+(5)
+
+Solving the system of equations (4) and (5), we get t = 1/6 and s = 7/6, so that PQ = (1/3, −1, 11/6),
+P = (13/6, 1/6, 7/6) and Q = (5/2, 5/6, 3), and the shortest distance is |PQ| = (cid:112)1/9 + 12 + 121/36 =
+(cid:112)161/36
+
+1 (c) Show that the shortest distance from a point Q to the line through the point P with direction vector
+
+d is
+
+|| (cid:126)P Q × d||
+||d||
+
+Solution: Recall that || (cid:126)P Q × d|| is the area of the paralellogram with base length (cid:107)d(cid:107). In general,
+the area of a paralellogram is base × height. Therefore, || (cid:126)P Q × d|| = base × height = (cid:107)d(cid:107) × height, or
+equivalently, height = || (cid:126)P Q×d||
+
+, which is the shortest distance from point Q to the line.
+
+||d||
+
+1 of 3
+
+
+
+
+
+x
+y
+z
+
+2. Consider the system of linear equations
+
+x1 − 3x2 = 2
+−2x1 + 6x2 = −4
+
+(a) Give two diﬀerent particular solutions to the given system (your choice). Write your solutions as
+(x1, x2) + (y1, y2)
+2
+
+(x1, x2) and (y1, y2). i.e. Think of them as points common to both lines. Show that
+is a solution to the system but (x1, x2) + (y1, y2) is not.
+Solution: Let (x1, x2) = (5, 1) and (y1, y2) = (2, 0), and notice that both of them satisfy the above
+system of equations. (x1,x2)+(y1,y2)
+= (7/2, 1/2) satisﬁes both equations, but (x1, x2) + (y1, y2) = (7, 1)
+does not.
+
+2
+
+(b) Show that if (x1, x2) and (y1, y2) are two solutions to the given system, then a(x1, x2) + b(y1, y2) is
+
+also a solution if and only if a + b = 1.
+Solution: Substitute a(x1, x2) + b(y1, y2) in the ﬁrst equation to get:
+
+ax1 + by1 − 3ax2 − 3by2 = 2
+
+⇐⇒ a(x1 − 3x2) + b(y1 − 3y2) = 2
+⇐⇒ 2a + 2b = 2
+
+⇐⇒ 2(a + b) = 2
+
+⇐⇒ (a + b) = 1
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+where we used the fact that (x1, x2) and (y1, y2) satisfy the system of equations, so that x1 − 3x2 = 2
+and y1 − 3y2 = 2.
+
+3. Consider the system of linear equations
+
+ax1 + bx2 = c
+bx1 + cx2 = d
+
+where a (cid:54)= 0. Find conditions on the remaining constants b, c, d such that the system has a unique
+solution; inﬁnitely many solutions; or no solutions.
+
+Solution: Reducing the above system we get:
+
+(cid:20) 1
+0
+
+a
+b
+c − b2
+a
+
+c
+a
+d − b c
+a
+
+(cid:21)
+
+(11)
+
+Note that we may divide by a since we have assumed that a (cid:54)= 0.
+
+(i) If c − b b
+
+a (cid:54)= 0, then there is a unique solution.
+
+(ii) If c − b b
+
+a = 0, then there are two further possibilities: if d − b c
+
+a = 0 then there are inﬁnitely many
+
+solutions, while if d − b c
+
+a (cid:54)= 0 there are no solutions at all.
+
+4. Suppose a linear system of equations in the variables x1, x2, x3 has augmented matrix
+
+
+
+
+1
+1
+c
+
+
+
+1
+c
+1
+
+c
+1
+1
+1
+1 −2
+
+
+
+For what values of c is the system (i) inconsistent, (ii) consistent with a unique solution, and (iii)
+consistent with inﬁnitely many solutions?
+
+2 of 3
+
+Solution: The operations R3 − cR1andR2 − R1 give
+
+
+
+
+
+Now R3 + R2 gives
+
+1
+c − 1
+
+c
+1
+0
+1 − c
+0 1 − c 1 − c2 −c − 2
+
+1
+0
+
+
+
+
+
+
+
+
+
+1
+0
+0
+
+1
+c − 1
+0
+
+c
+1 − c
+
+1
+0
+
+2 − c − c2 −c − 2
+
+
+
+
+
+If c (cid:54)= 1 and c (cid:54)= −2. Then, c − 1 (cid:54)= 0 and 2 − c − c2 (cid:54)= 0. This allows us to perform the operations
+2−c2−c R2 which gives
+
+1
+
+and
+
+1
+c−1 R2
+
+
+
+
+
+1
+0
+0
+
+1
+c
+1 −1
+1
+0
+
+
+
+
+
+1
+0
+−c−2
+2−c2−c
+
+so that the system has a unique solution.
+
+If c = 1 then we have,
+
+
+
+
+
+1
+0
+0
+
+1
+0
+0
+
+1
+1
+0
+0
+0 −3
+
+
+
+
+
+which gives us no solution since the last row gives us the equation 0 = −3.
+
+Finally, if c = −2 we have,
+
+which after −R2/3 gives
+
+
+
+
+
+1
+0 −3
+0
+0
+
+1 −2
+3
+0
+
+
+
+
+
+1
+0
+0
+
+
+
+
+
+1
+0
+0
+
+1 −2
+1 −1
+0
+0
+
+
+
+
+
+1
+0
+0
+
+which gives us inﬁnitely many solutions (Column 3 has no leading co-eﬃcient, i.e. x3 can be set as a
+
+parameter).
+
+Thus we have c = 1 gives no solution, c = −2 gives us inﬁnitely many solutions to the system of equations.
+
+And for all other values of c we have a unique solution to the system.
+
+3 of 3
+
+

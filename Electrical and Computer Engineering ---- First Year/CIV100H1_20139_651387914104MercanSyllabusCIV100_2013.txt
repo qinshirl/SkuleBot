@@ -1,0 +1,286 @@
+CIV100F-MECHANICS-Section 2 
+
+2013 
+
+Prof. O.Mercan 
+
+2013-2014 
+
+                            MECHANICS - CIV 100F 
+
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+Lecturer: 
+
+Prof. Oya Mercan, Room GB 331, 416-978-5971, oya.mercan@utoronto.ca              
+Office hours: by appointment. 
+
+TA’s: 
+
+Bingyue Shao, bingyue.shao@mail.utoronto.ca 
+Reza Mirza Hessabi, reza.hessabi@mail.utoronto.ca 
+
+Lectures:  
+
+Mon.:       14:00-15:00   BA 1170 
+Tue. :       16:00- 17:00  MC 252   
+
+                          Thu. :       14:00-15:00  MC 252          
+
+Tutorial: 
+
+Fri. :         14:00-16:00  SF 3202                                             
+
+Evaluation:  Weekly tutorial problems sets                       5%     
+
+              40% term work component 
+
+Quiz 1- Oct. 4 - ( 2:10pm  in  SF3202)        2.5% (1 hour)               (will be normalized to a 
+Term Test – Oct. 22-(12-2pm, common)    30% (1.5 hours)          class average of 28/40) 
+
+                          Quiz 2- Nov. 22 - ( 2:10pm  in  SF3202)     2.5% (1 hour) 
+
+Final Examination (TBA) 
+
+                 60%                                    (common for Year I) 
+               100% 
+
+Text and notes:  
+Engineering Mechanics: Statics, 13th Edition in SI units, R.C. Hibbeler, Pearson Prentice-Hall, 2013, and 
+the  associated  study  pack.  Complementary  notes,  dated  July,  2010,  on  three  topics  in  strength  of 
+materials are shrunk-wrapped  with the texts.  Complementary  notes  are also available as  pdf file on the 
+Portal/Blackboard.  Students taking MIE100S will purchase both the statics and dynamics text, along with 
+the shrunk-wrapped notes. 
+
+Quizzes,  test  and  exam  will  be  "closed-book"  i.e.,  no  aids  allowed  except  for  a  non-programmable 
+calculator. 
+Permissible non-programmable calculators are: Casio FX991, Sharp EL520 (Trailing letters after a model 
+number are irrelevant.) In class you may use only one of the three calculators listed. 
+
+For each of the teaching sections  of CIV 100F, the  40% term work component  will be  normalized to  a 
+class average of 28/40 (i.e., 70%).  This may require either raising or lowering the actual marks obtained. 
+
+Portal/Blackboard (http://portal.utoronto.ca) is going to be used for the posting of marks.  
+Plagiarism is an academic offence. Sanctions range from a zero for the work to an expulsion from 
+the university and a notation on the transcript. 
+Petitions for missing exams or remarks are handled by first year office. 
+
+Eating,  drinking,  any  kind  of  disruptive  behaviour  (talking,  the  use  of  laptop,  mobile  phone  etc.) 
+are not permitted in lectures and tutorials. 
+
+Some Notes on Tutorials: 
+
+1.  Attendance may be taken at tutorials. 
+
+2.  The tutorial problem sheets will be handed out at the beginning of a tutorial period.  The pages of the 
+completed  problem  set,  including  the  original  problem  sheet  as  the  last  page,  MUST  be  stapled 
+together - problem sets fastened with paper clips or folds will not be accepted.  
+
+3.  Problem sets must be done neatly in pencil on one side only of the engineering problem paper.  (Do 
+not  write  on  the  back  of  the  pages.)    Pads  of  this  paper  are  sold  in  the  Eng.  Society  Store,  in  the 
+basement of the Sandford Fleming Bldg.  A straight edge and eraser are required for drawings. 
+
+4.  The  completed  problem  set  is  to  be  submitted  before  the  beginning  of  the  Tuesday  lecture.  Late 
+
+submission will not be accepted. 
+
+5.  A  problem  set  will  be  marked  (2  =  excellent,  0  =  unsatisfactory)  and  returned  at  the  next  tutorial 
+
+period. 
+
+6.  A  problem  set  with  a  mark  of  0  can  be  resubmitted  again  for  remarking  before  the  beginning  of  the 
+
+next lecture.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+                                                                                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CIV100F-MECHANICS-Section 2 
+
+2013 
+
+Prof. O.Mercan 
+
+Class schedule  
+
+Week of: 
+
+Chapter 
+
+Tentative Lecture Topics & Pages (from the 13th edition) 
+
+Sept. 2 
+
+1 
+
+Introduction, engineering design, units, housekeeping  
+
+Sept. 9  
+
+2& 3 
+
+Sept. 16 
+
+Sept. 23 
+
+4 
+
+4 & 5 
+
+Sept. 30 
+
+2, 3, 4 
+
+Scalar approach - 2D  
+Concept of a force, scalar addition of forces (p. 16-37) 
+Equilibrium of a particle, free body diagram of concurrent forces (p.85-
+p.93) 
+
+Moment of a force (p.117-120), principle of moments (p.128-130), 
+moment of a couple (p.148-153), force-couple resultant (p.160-165), a 
+single resultant force and its location (p.170-175) 
+
+Distributed and concentrated loading on beams (p.186-188) 
+Equilibrium of a rigid body, two and three force members, 
+Free body diagrams, equations of equilibrium (p. 199-236) 
+
+Vector approach - 3D 
+Cartesian vector (p.43), Equilibrium of a particle in 3D (p.103-108) 
+Position vector (p.56), vector along a line (p.59), dot product (p.69,71) 
+Cross product (p.121), moment of a force about at point (p.124-127 ) 
+
+Oct. 7 
+
+4& 5 
+
+Moment of a force about a specified axis (p.139- ), triple mixed product 
+(p.140-), Equilibrium of a rigid body in 3D (p.237- ); Support reactions 
+(p.238-239) 
+
+Oct.14 
+
+6 
+
+Structural analysis: Trusses (No Space Trusses)  
+Method of joints, zero force members, method of sections (p. 263-289)  
+
+Oct. 21 
+
+Oct.28 
+
+Nov. 4 
+
+Nov.11 
+
+Nov.18 
+
+Nov.25 
+
+Dec .2 
+
+6; 
+Complementary 
+notes (pdf) 
+
+Structural analysis: Frames  
+Frames, free body diagrams, analysis; machines, pulleys (p.294,324) 
+ Strength of materials, design of axially loaded bars 
+Stress-strain in axially loaded bars, Hooke’s law, design of sections  
+
+7 
+
+9 
+
+9 
+
+10; 
+Complementary 
+notes (pdf); 
+
+Complementary 
+notes (pdf) 
+
+Internal forces in beams  
+Examples of shear (V), diagrams and moment (M) diagrams, 
+relationship between W, V, M (p.330, 366) 
+
+Centre of gravity 
+Centroids (p. 450), composite bodies (p. 474) 
+(Note: only regular shapes; no integration)  
+
+Hydrostatic Pressure:  
+Resultant of pressure distribution over a surface (p.498-508),  
+(only regular shapes; no integration) 
+
+Strength of materials, design of beams 
+Moment of inertia of an area, I (p.516, 517), Stresses due to bending  
+
+Section modulus (S); stress blocks, bending stress formula.  
+
+Review problems 
+
+Note: The following topics/sections are omitted: 
+
+  Reduction of a force system to a wrench (p. 173);  
+  Space trusses (section 6.5);  
+  Cables (section 7.4);  
+  Chapter 8 
+  Chapter 11 
+  Buckling (supplementary notes);  
+
+With regards to the topics of centroids, area moment of inertia, hydrostatic pressure, and the shapes of distributed 
+loads on beams, we will only use simplified/regular shapes (rectangles and triangles or their compositions). The use 
+of calculus is not required for analyzing these topics.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,274 @@
+Engineering Strategies & Practice 
+
+University of Toronto, Faculty of Applied Science and Engineering 
+APS111 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Jason Bazylak  
+Communication Coordinator: Ted Nolan 
+Team Coordinator: Patricia Sheridan 
+Instructors: P Sheridan, S McCahan, T Nolan, J Bazylak 
+Final Examination Question Booklet 
+Start: December 11, 2020, 6:00 am ET (Toronto Time) 
+Finish: December 11, 2020, 6:00 pm ET (Toronto Time) 
+
+Declaration 
+In submitting this assessment, I confirm that my conduct during this final exam adheres to the 
+Code of Behaviour on Academic Matters. I confirm that I did NOT act in such a way that would 
+constitute cheating, misrepresentation, or unfairness, including but not limited to, using 
+unauthorized aids and assistance, impersonating another person, and committing plagiarism. I 
+pledge upon my honour that I have not violated the Faculty of Applied Science & Engineering’s 
+Honour Code during this assessment. 
+
+Final Exam Instructions  
+
+  We estimate this final exam will take 150-minutes to complete the five questions.  
+  Type X: An “open book” examination. The candidate may bring to the examination and 
+
+use, any books, notes or other printed or written material, without restriction. 
+  You may not solicit or provide exam information to or from anyone outside of the 
+
+teaching team during the exam period.  
+
+  Type your responses directly into the final exam answer booklet. Do NOT input your 
+
+answers into this booklet.  
+
+  The word count indicates our expectations for each question, but it is not an enforced 
+word limit. We want you to get to the point and not ramble, but also do not spend 
+excessive time editing for concision.  
+
+  The marks listed on each question indicate our expectations. 
+  You can submit your completed answer booklet as a .docx or PDF into Quercus as per 
+
+the instructions below.  
+
+  Remember to save your work frequently! Good luck!  
+
+ 
+ 
+ 
+ 
+ 
+ 
+Engineering Strategies & Practice 
+
+Part 1: Writing the Final Exam 
+
+1.  Download three documents: Final Exam Client Statement (PDF), Final Exam Questions 
+
+Booklet (PDF), and the Final Exam Answer Booklet (.docx) to your computer.  
+
+2.  Rename the final exam answer booklet to the following where you insert your name and 
+
+student number for the placeholders. 
+
+APS111_Exam_First name_Last name_Student number 
+
+APS113 students should use “APS113” in place of “APS111” in the naming convention. 
+
+3.  Read the Client Statement (see the separate PDF). 
+4.  Answer the 5 questions by typing directly into the final exam answer booklet. Be sure to 
+
+save the document frequently as you work.  
+
+Note: Completing the final exam answer booklet does not in itself constitute submission of the 
+final exam. You must submit in Part 2: Submitting the Final Exam.  
+
+Part 2: Submitting the Final Exam 
+Once you have completed the final exam answer booklet in Part 1: Writing the Final Exam, you 
+must submit it. You must do this through Quercus. DO NOT email the files to us. The process of 
+submitting your final exam through Quercus is detailed below.  
+
+To submit your final exam answer booklet (.docx or PDF) into Quercus. 
+
+1.  Click on Submit Assignment. 
+2.  Click on Choose File and then select your completed final exam answer booklet file 
+
+(.docx or PDF) (APS111_Exam_First name_Last name_Student number). 
+
+3.  Check off the box “I agree to the tool’s End-User Licence Agreement. This assignment 
+
+submission is my own, original work.”  
+
+4.  Click on Submit Assignment. 
+
+Final Exam Questions 
+
+0)  READING COMPREHENSION: Careful read the Client Statement. Analyze the Client Statement 
+
+noting important phrases that maybe indicate gap, scope, functions, objectives, constraints and 
+other course concepts. Do not submit this analysis but use it to answer the following questions. 
+This question is here to indicate what your first step should be. Do NOT submit anything for this 
+question.  
+[0 marks; 30 minutes; 0 words] 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engineering Strategies & Practice 
+
+1)  PROBLEM STATEMENT: Write a concise Introduction and Problem Statement in your own 
+
+words. The required content listed below must be included and clearly indicated to the reader, 
+however, be sure to write this as a single Problem Statement, and not a series of disjointed 
+sentences. We are NOT looking for a bulleted or numbered list. Use the Client Statement only, 
+you do not have to do any additional research.  
+[25 marks; 30 minutes; 300-500 words] 
+
+Required Content: 
+1)  Introduction – Introduce the client, the project, and the current situation. 
+2)  Important Context – What are the essential contextual factors to consider? 
+3)  Gap – What is missing in the client’s world? 
+4)  Scope – What are the boundaries on the design space?  
+
+Do NOT include: 
+1)  Solutions 
+2)  Sentences copied word-for-word form the Client Statement. 
+3)  Headers 
+4)  Functions, objectives or constraints 
+5)  Additional research 
+
+2)  DETAILED REQUIREMENTS: Identify the components that you would use to write a Detailed 
+
+Requirements. The required processes and content listed below must be included and clearly 
+indicated to the reader. This does NOT have to be a complete Detailed Requirements. A series of 
+bulleted lists along with your work done on the processes is fine.  
+[25 marks; 30 minutes; 250 words] 
+
+Do NOT include: 
+1)  Solutions 
+2)  Sentences copied word-for-word form the Client Statement. 
+3)  Headers or introductions. A series of bulleted lists is fine.  
+4)  Additional research 
+
+a.  1 Primary Function 
+
+ Use Functional Basis to identify ONE Primary Function for the problem 
+
+described in your Problem Statement in Question 1. Write this ONE Functional 
+Basis in your answer using the proper two component format without 
+qualifiers. 
+
+ Write a well-formed Primary Function from this Functional Basis.  
+ In your answer clearly label which is your Functional Basis and which is your 
+
+Primary Function.  
+
+ Do NOT include more than ONE Functional Basis. Do NOT include more than 
+ONE Primary Function. If you do only the first one of each will be marked. 
+
+b.  3 Secondary Functions 
+
+ Use Functional Decomposition to derive these THREE secondary functions. 
+
+Include your completed Functional Decomposition chart here.  
+
+ Do NOT include more than THREE Secondary Functions. If you do only the first 
+
+three will be marked.  
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Engineering Strategies & Practice 
+
+c.  3 Objectives including Metrics and Goals 
+
+ Use a Pairwise Comparison table to rank these THREE objectives. Include this 
+
+table here. List the Objectives in order of the most important first.  
+
+ Do NOT include more than THREE Objectives. If you do only the first three will 
+
+be marked.  
+
+ You do not need to backed up these metrics and goals with research, as you 
+normally would be required to do. Instead, provide an estimation and your 
+assessor will evaluate the reasonableness of this estimation 
+
+3)  IDEA GENERATION: Use Functional Decomposition and a Morphological Chart to generate 
+
+THREE possible solutions to the problem you defined in your Problem Statement (Question 1) 
+and Detailed Requirements (Questions 2).  
+[25 marks; 30 minutes; 250 words] 
+
+a.  Copy the Functional Decomposition you generated in Question 2 and paste it here. 
+b.  Add a row of Means to the Functional Decomposition. Include THREE means for each of 
+your three Secondary Functions. Do NOT include more than THREE means for each 
+Secondary Function. If you do only the first three will be marked. 
+
+d. 
+
+c.  Create a Morphological Chart using these NINE means statements. Include this chart 
+here. Draw lines through this Morphological Chart to generate THREE complete 
+solutions.  
+In 25 words, name and describe the first of the three possible solutions and explain how 
+it works. You may include a labelled sketch, but it is NOT required.  
+In 25 words, describe the second of the three possible solutions and explain how it 
+works. You may include a labelled sketch, but it is NOT required. 
+In 25 words, describe the third of the three possible solutions and explain how it works. 
+You may include a labelled sketch, but it is NOT required. 
+
+e. 
+
+f. 
+
+4)  IDEA SELECTION: Use a Pugh Method and the three ranked Objectives you determined in 
+
+Question 2 to recommend a design to your client. Use the Client Statement only, you do not 
+have to do any additional research.  
+[10 marks; 15 minutes; 150 words] 
+
+a.  Use Pugh Method and the THREE ranked Objectives (Question 2) to determine a 
+
+recommended design. Include your completed Pugh Method chart here. You do NOT 
+need to include a justification column.  
+
+b.  Justify why your recommended design would solve the problem you identified in the 
+
+Problem Statement. Include discussion of the trade-offs between the Objectives in this 
+justification. 
+
+5)  TEAM: The design team working on this project is struggling to ensure that everyone is able to 
+
+share ideas on what the solution should look like. They are seeking your advice as an upper year 
+student who has completed ESP before and learned about how to be an effective team member. 
+[15 marks; 15 minutes; 100 words] 
+
+a.  Why should the team develop a Team Charter to address this situation? 
+b.  What is one important way of working they should include to address this challenge? 
+
+How will this way of working address the problem? 
+
+c.  What is one contingency plan that might need to accompany this way of working to 
+
+ensure that everyone on the team can share ideas? Why? 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

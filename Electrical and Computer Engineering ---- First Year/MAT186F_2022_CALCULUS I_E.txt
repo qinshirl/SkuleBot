@@ -1,0 +1,609 @@
+Duration: 150 minutes
+
+Wednesday December 14, 202^
+
+Page 1
+
+MAT186  Final Exam  - Booklet #0746
+
+Faculty of Applied Science & Engineering 
+University of Toronto
+
+MAT186 Calculus I 
+Final Exam
+
+Full Name:
+
+Student number:
+
+Email :
+
+Signature:
+
+Instructions:
+
+.Omail.utoronto.ca
+
+1. This test contains a total of 16 pages.
+
+2. DO NOT DETACH ANY PAGES FROM THIS TEST.
+
+3.  There are no aids permitted for this exam, including calculators.
+
+4.  Cellphones, smartwatches, or any other electronic devices are not permitted. They must be turned off and in your 
+
+bag under your desk or chair. These devices may not be left in your pockets.
+
+5.  Write clearly and concisely in a linear fashion. Organize your work in a reasonably neat and coherent way.
+
+6.  Show your work and justify your steps on every question unless otherwise indicated. A correct answer without 
+explanation will receive no credit unless otherwise noted; an incorrect answer supported by substantially correct 
+calculations and explanations may receive partial credit.
+
+7.  For questions with a boxed area, ensure your answer is completely inside the box.
+
+8.  The back side of pages will not be scanned nor graded. Use the back side of pages for rough work only.
+
+9.  You must use the methods learned in this course to solve all of the problems.
+
+10. DO NOT START the test until instructed to do so.
+
+GOOD LUGK!
+
+Page 2
+
+MAT186 Final Exam - Booklet #0746
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+1. Suppose f{x) is differentiable at a; == 0. Which of the following statements must be true? [2 marks]
+
+You can fill in more than one option for this question (unfilled O filled •).
+
+O /(O) is defined.
+
+O lini f{x) exists.
+
+z-»0
+
+O f{x) is continuous at x = 0.
+
+O f'{^) is differentiable at x = 0.
+
+2. If fix) = ln(2x + 3), then (/-i)'(l) =
+
+.? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled O filled •).
+
+21n5 + 3
+2
+
+O
+o1
+o -e
+0|
+
+Page 3
+
+MAT186 Final Exam - Booklet #0746
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+3. As an airplane takes off, the weight of the airplane decreases as its altitude increases. Let f{x) be the weight of 
+the plane in kilograms, at an altitude of x kilometres. Which of the statements below is a correct interpretation of 
+(/-i)'(2000)? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled O filled •).
+
+O For a plane weighing 2000 kg, the exact amount the plane’s altitude must change for its weight to increase by 
+
+1 kilogram. The quantity (f~^)'(2000) is negative.
+
+O For a plane weighing 2000 kg, the approximate amount the plane’s altitude must change for its weight to increase 
+
+by 1 kilogram. The quantity (/~^)'(2000) is negative.
+
+O For a plane weighing 2000 kg, the exact amount the plane’s altitude must change for its weight to increase by 
+
+1 kilogram. The quantity (/“^)'(2000) is positive.
+
+O For a plane weighing 2000 kg, the approximate amount the plane’s altitude must change for its weight to increase 
+
+by 1 kilogram. The quantity (/“^)'(2000) is positive.
+
+4. Consider the initial value problem
+
+P'(t) = P(P - 1)(P - 2)^(P - 3) 
+P(0) = 2.5
+
+If P(t) solves this initial value problem, then lim P(t) =
+
+t~>oo
+
+.? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled O filled •).
+
+o 1
+o 2
+
+O 3
+
+o DNE (-^ +oo)
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+Page 4
+
+MAT186 Final Exam - Booklet #0746
+
+5. A water tank is initially full and the water is pumped out at a constant 
+rate in litres per minute. The graph on the right shows the change of the 
+water level inside the tank over time. Which of the following water tanks 
+is used?
+
+[1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled O filled •).
+
+>
+
+time
+
+o
+
+o
+
+o
+
+o
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+6. A deer is walking in a forest. The table below summarizes the deer’s walking speed over a six second interval.
+
+Page 5
+
+MAT186  Final Exam  - Booklet #0746
+
+time (seconds)
+
+0
+speed (metres per second) 0.1
+
+2
+1
+0.7  0.9
+
+3
+1.1
+
+5
+
+4
+0.8  0.6 
+
+6
+0.5
+
+Which of the following represents a right-endpoint Riemann sum approximation of the deer’s distance travelled over the 
+first six seconds. [2 marks]
+
+You can fill in more than one option for this question (unfilled O filled •).
+
+o 0.1-1-0.74-0.9-1-1.1-10.8-1-0.6 
+
+O 0.1-10.7-10.9-11.1-10.8-10.64-0.5 
+
+O 2(0.94-0.84-0.5)
+
+O 2(0.74-1.14-0.6)
+
+O 3(1.1-10.5)
+
+7. Which of the following definite integrals is always overestimated with a right-endpoint R.iemann sum? That is, a 
+right-endpoint Riemann sum will always give a greater value than the definite integral. [2 marks]
+
+You can fill in more than one option for this question (unfilled O filled •).
+
+1Lo
+fo
+
+2xdx
+
+1 - 2x dx
+
+i:o
+o /'
+
+2dx
+
+dx
+
+Page 6
+
+MAT186  Final Exam  - Booklet #0746
+
+Multiple Choice; No justification is required. Only your final answer will be graded.
+
+8. Which of the following sum of definite integrals represents the shaded area enclosed by the functions
+
+f(y) - (y-if
+
+g{x) = X - I and h{x) = (x - 2)^ + 1.
+
+pictured below. [2 marks]
+
+You can fill in more than one option for this question (unfilled O filled •).
+
+O J iVx + 1) - (-\/^ +l)dx + (x - 1) - ((x - 2)^ + 1) dx
+
+O j'{-y/x + 1) - {^/x + l)dx + {x 
+
+- 2)2 + 1 - (x - 1) dx
+
+O j (\/x + 1) - (-%/x + 1) dx + ^ (x - 2)^ + 1 - (x - 1) dx 
+
+O j^iy + ^)-iy-'^?dy + 
+
+2- y/y
+
+- 1 - (y - ^fdy
+
+O ^ (j/ + 1) - (y - 1)^ 
+
+^ 2 + ^/y^ -{y- 1)^ dy
+
+j
+
+..
+
+t
+
+y
+
+2.5-
+
+2
+
+1.5 •
+
+0.5
+
+-0.5
+
+-1/
+
+5 
+
+2 
+
+X
+
+2 :5
+
+Page 7
+
+MAT186 Final Exam - Booklet #0746
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+9. Let p{x) represent the traffic density on College street, measured in cars per kilometres, where x is the number of 
+kilometres west of the intersection of College street and Spadina avenue. Which of the following is a correct interpretation
+
+^ p{x)dxl [1
+
+of
+
+mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled O filled •).
+
+O The total traffic density on College street from Spadina avenue to a point 1 kilometre west of Spadina avenue.
+
+O The total change in traffic density on College street from Spadina avenue to a point 1 kilometre west of Spadina 
+
+avenue.
+
+O The total number of cars on College street from Spadina avenue to a point 1 kilometre west of Spadina avenue. 
+
+O None of the above.
+
+10. The area of a circle changes as a function of its radius, r, and its radius changes as a function of time r = g{t). If
+dA
+dr
+
+= /(r), then the total change in area between t = 0 and t = 1 is =
+
+.? [2 marks]
+
+You can fill in more than one option for this question (unfilled O filled •).
+
+’^(9(1))^
+
+O /
+
+dA
+
+J-K
+
+7r(g(0))2
+
+9(1)
+
+fir) dr
+
+o/
+
+9(0)
+
+O I\i9it))9'it)dt
+
+O None of the above.
+
+Short Answer: Unsupported answers will not receive full credit. Organize j'our work in a reasonably neat and coherent 
+way. Put your final answer in the boxes provided.
+
+11. Let f{x) represent the fuel efficiency, in kilometres per litres, of a car travelling at a speed of x kilometres per hour.
+
+Page 8
+
+MAT186  Final Exam  - Booklet #0746
+
+(a) What are the units of f'{x)l No justification is required for this part. [1 mark]
+
+(b) Suppose /'(99) = -0.35. If you are driving at 99 kilometres per hour, should you speed up or slow down to be more 
+fuel efficient? Briefly explain. Enter either “speed up” or “slow down” in the box provided as your final answer.
+[3 marks: 1 mark for correct answer; 2 marks for explanation]
+
+Answer:
+
+Page 9
+
+MAT186  Final Exam  - Booklet #0746
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent 
+way. Put 3^our final answer in the box provided.
+
+12. Water leaking onto your bedroom floor creates a circular pool with an area that increases at the rate of 3 square 
+centimetres per minute. How fast is the radius of the pool increasing when the radius is 10 centimetres? [5 marks]
+
+Answer:
+
+Short Answer: No justification is required. Only your final answer will be graded. Put your final answer in the boxes 
+provided.
+
+Page 10
+
+MAT186  Final Exam  - Booklet #0746
+
+13. The graph of a function f{x) is pictured below.
+
+y
+
+■2-
+
+1 -■
+
+-4
+
+3 
+
+-2
+
+1
+
+i i i
+
+4
+
+1
+
+—a
+
+.1
+
+i
+T
+i
+
+\
+
+i X
+
+5
+
+Let F{x) be an antiderivative of f{x), whose domain is the same as that of f{x).
+
+(a) Determine the interval(s) where F{x) is strictly increasing and strictly decreasing. [1 mark]
+
+F{x) is strictly increasing on:
+
+F{x) is strictly decreasing on:
+
+(b) Determine the point(s) at which F{x) has a local maximum. [1 mark]
+
+F{x) has local maximum at a: =
+
+(c) Determine the interval(s) where F{x) is concave up and concave down. Jl mark]
+
+F{x) is concave up on:
+
+F{x) is concave down on:
+
+(d) Determine the inflection point(s) of F{x). Jl mark]
+
+F{x) has a point of inflection at a; =
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent 
+wa}^
+
+Page 11
+
+MAT186  Final Exam  - Booklet #0746
+
+14. Let I = [ 
+Jo
+
+functions.
+
+cos^ X dx. The goal of this problem is to evaluate I without using antiderivatives of any trigonometric
+
+(a) Using the substitution u = - - x, show that I can be rewritten as / = 
+
+TT
+
+using antiderivatives. [2 marks]
+
+j f{x) dx = - f{x) dx
+
+Hint:
+
+P
+
+sin^ X dx. Do not evaluate the integrals
+
+(b) Using part (a), show that ^ without using antiderivatives of any trigonometric functions. [2 marks]
+
+Page 12
+
+MAT186  Final Exam  - Booklet #0746
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent 
+way. Put your final answer in the box provided.
+
+15. A company hires you to solve the following problem. They would like to manufacture soap dishes with the shape 
+shown in the figure below on the left. They require the base to be circular with a radius of 2 cm and that its total volume 
+be T.Stt cm^. You very cleverly notice that you can model a cross-section of the soap dish using the following functions, 
+fm{x) = X™ -b 1 and y = 2.
+
+y
+
+2 --
+
+1
+
+X
+
+2
+
+(a) Write a sum of definite integrals that represents the volume of the solid obtained by rotating the area bounded by 
+fm{x)
+
+x*” -|-l,y = 2, x = 2 and both axes, pictured above on the right, about the y-axis. [3 marks]
+
+(b) Find the suitable value of m e M to obtain the requested volume of T.Stt cm^. [2 marks]
+
+m —
+
+Page 13
+
+MAT186 Final Exam - Booklet #0746
+
+16. Consider a log of wood given in the figure below with length 10 metres. The cross-section x metres from the leftmost 
+point of the log is a circle with radius r{x) = 2 + 0.1(.t — 5)^ metres, where x S [0,10]. There is moss growing on the 
+entire surface of the log except on the shaded portions at the endpoints. You would like to approximate the mass of moss 
+growing on the log.
+
+Suppose that the density of the moss growth, x metres from the leftmost point of the log, is given by p{x) = 100(5.t -t- 3) 
+grams per squared metre, for x S [0,10]. That is, the more you move to the right on the log, the more dense the moss 
+growth is.
+
+Write a Riemann sum approximation, with n subintervals, modelling the mass of moss growing on the log. Make sure to 
+state your assumptions and explain all your steps. You are encouraged to annotate the figure to support your explanation. 
+[5 marks]
+
+10 m
+
+16. EXTRA PAGE FOR Q16 ONLY, if needed.
+
+Page 14
+
+MAT186  Final Exam  - Booklet #0746
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+Page 15
+
+MAT186  Final Exam  - Booklet #0746
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+?
+
+IF NEEDED, USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+Page 16
+
+MAT186  Final Exam  - Booklet #0746
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+Formula Sheet for MAT186 Final Exam
+
+Trigonometric Formulas;
+
+:„2
+• sm X =
+
+1 - cos 2x
+2
+
+• sinx = cos (I - x)
+
+• COS^ X =
+
+1 + cos 2x
+2
+
+• tanx =
+
+sma;
+cosx
+
+• sin(a ± P) = sin a cos /3 ± cos a sin P
+
+• cos(a ± P) = cos a cos /? =F sin a sin P
+
+Logarithms and Exponentials:
+
+• loga = •'C
+
+. (a^)- = a'’‘=
+
+Limits:
+
+• lim (1 + ah) = e“
+
+/i-^O
+
+sinx
+
+• lim 
+
+x->0 X
+
+= 1
+
+• a'°S“ ^ = x
+
+• log„ be = log„ b + log„ c
+
+• 
+
+= clog„6
+
+• lim
+x-^oo
+
+• lim
+X—>0
+
+1 - cos X
+
+X
+
+= 0
+
+

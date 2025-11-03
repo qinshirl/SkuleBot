@@ -1,0 +1,211 @@
+UNIVERSITY OF TORONTO
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+Final exam. Apr 21, 2023, 150 Minutes INSTRUCTOR: S.
+
+Zabanfahm
+
+First Name: (write as lepbly possible within the boxes)
+
+Fatnilly Name:
+
+Student Id Number:
+
+i............ ................  i.............. ......................................... ......
+Reminder:
+
+• No textbook notes, calculator or other eiids are allowed.
+
+Question
+
+2
+3
+4
+5
+6
+7
+8______
+Total
+
+Maximum Mark
+6
+6
+3
+3
+5
+3
+3
+3
+32
+
+Date: April 21st.
+
+1
+
+Question 1. (7 points)Determine if the following statements 
+are True or False. In case that they are false, provide a counter 
+example.
+
+(1)  If matrix A is in reduced row-echelon form, then at least 
+
+one of the entries in each column must be 1.
+
+(2)  Given that U and V are subspaces ofW^, then U nV is 
+
+a subspace ofW^.
+
+(3)  If A is an orthogonal matrix, then det{A) = 1.
+(4)  If A is ann xn matrix with n distinct eigenvalues, then 
+
+A is symmetric.
+
+(5)  If T ; R” IR” is a linear map corresponding to pro­
+jection to a subspace W, and S ; R" R" is reflection 
+about W-^, then T o S is not invertible.
+
+(6) The matrix
+
+rQ f 
+0 0
+
+is similar to
+
+0 0
+0 1
+
+2
+
+Question 2. (6 points) Give an example of
+
+(a) j4 Zinear map T : R® —> 
+
+with rank^A) = 2 and
+
+tr{A') = 3.
+
+(b) A 3 X 3 matrix A, such that AA"^ = 4I3.
+
+Linear map S,T ; R’ 
+and rank{T o S') = 2.
+
+R’ such that rank{S o T) = 2
+
+(d) A 4x4 upper triangular matrix A, such that A is or­
+
+thogonally diagonalizable and det{A) = tr{A).
+
+(e) A matrix that is diagonalizable but not orthogonally di­
+
+agonalizable.
+
+(f) A matrix with no real eigenvalues.
+
+3
+
+Question 3. (3 points) Consider the plane 2xi — 212 +4x3 = 0. 
+
+Find a basis B for this plane such that [v]h =
+
+2
+2
+
+, where
+
+V =
+
+■f 
+1 
+0
+
+4
+
+Question 4. points) Find the projection of 63 6 S'* on the 
+subspace spanned by
+Y 
+1 
+0 
+1
+
+1 
+-2 
+0 
+1
+
+0 
+0 
+1
+
+w =
+
+u =
+
+■-1' 
+
+V =
+
+5
+
+Question 5. (5 points) Let 
+
+A =
+
+-1 
+1 -1 1 
+-1 1 -1 
+1 
+1 -1 1
+-1
+
+(1)  Find an orthonormal eigenbasis for A.
+(2)  compute
+
+6
+
+Question 6. (3 points) Find the QR factorization of the matrix
+
+A =
+
+25 ■
+0
+
+3 
+0 
+4  -25
+
+7
+
+Question 7. (3 points) Find the inverse of the following matrix:
+
+A =
+
+4
+
+2 3 
+2 -3 -4 
+2-3 4
+2 3-4
+
+5 
+5 
+-5 
+-5
+
+(Hint: Note that the columns of A are orthogonal to each other.)
+
+8
+
+Question 8. (3 points) Let T : 
+6e an orthogonal
+transformation. With real distinct eigenvalues Ai,A2 each with 
+algebraic multiplicity 2.
+
+(1)  What is the relation between Ai and Aa
+(2)  Suppose thatToT J4, is it possible forT to be orthog­
+
+onally diagonalizable?
+
+Briefly Justify your answer for each part.
+
+9
+
+

@@ -1,0 +1,420 @@
+B9B7D42E-8COA-4652-ACAB-C63A849F 057 
+
+mat187-2017-finale 
+
+#833 
+
+1 of  12 
+
+UNIVERSITY OF TORONTO,  FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+MAT187H1S  - Calculus II 
+
+Final Exam  - April 26, 2017 
+
+EXAMINERS: S. COHEN, A. FENYES,  B.  GALvAO-SOuSA,  P.  MILGRAM, 
+
+D.  PANCHENKO,  F.  PARSCH, N. SABQIJIS 
+
+Time allotted: 150 minutes 
+
+Total marks: 80 
+
+No Aids permitted 
+
+Full Name: 
+
+Student ID: 
+
+Email: 
+
+Instructions 
+
+Last 
+
+First 
+
+©mail.utoronto.ca  
+
+DO NOT WRITE ON THE QR CODE AT THE TOP OF THE PAGES. 
+
+Please have your  student card  ready for inspection, turn off all cellular phones, and read all the 
+
+instructions carefully. 
+
+DO NOT start the test until instructed to do so. 
+
+This test contains 12 pages and a detached formula sheet.  Make sure you have all of them. 
+
+You can use pages 10-12 for rough work or to complete a question  (Mark clearly). 
+
+DO NOT DETACH ANY PAGE. 
+
+GOOD LUCK! 
+
+L!1 
+
+mat187-2017-finale 
+
+#833 
+
+2  of  12 
+
+PART I.  No explanation is necessary. 
+
+(20 Marks) 
+
+1. 
+
+(2 marks) 
+
+25 - r2  dx  = 
+
+(2 marks) Consider the function 
+
+It can be decomposed into 
+
+with 
+
+a= 
+
+4x3  + 5x2  - lix - 22 
+x 2 -4 
+
+f(x)=ax+b+ 
+
+c 
+
+d 
+
++ 
+x-2 x+2 
+
+d - 
+
+3. (2 marks) Consider a continuous function  f(x)  which satisfies 
+
+rb 
+I 
+J—b 
+
+1 
+f(x)dx=1+— 
+b 
+
+for all b>1. 
+
+Circle the one correct conclusion. 
+
+There is enough information to decide that f  f(x) dx  must converge. 
+There is enough information to decide that f  f(x) dx  must diverge. 
+There is not enough information to decide about the convergence of f  f(x) dx. 
+
+4. (2 marks) Let  f(x)  be twice differentiable satisfying f(0) = 6, f(1) = 7 and f'(l) = 6. Then 
+
+ 1 
+
+f 
+
+xf " (x) dx= 
+
+5. (2 marks) Give an example of a power series with radius of convergence  R = 3. 
+
+CIO 
+
+Continued... 
+
+E8C45075-10A5-4BC6-A697-049306DF6C31  i::i.kv 
+
+mat187-2017-finale 
+
+44833 
+
+3  of  12
+
+L!1. 
+
+6.  (2 marks)  urn 
+x—O 
+
+24 cos(x) + 12x sin(x) - 24 + x4  
+
+7. 
+
+(2 marks) The vector-valued function (t) = (3_ t3, 0,3 
+
+t3)  traces (circle the correct conclusion) 
+
+a straight line. 
+
+(c) a circle. 
+
+(e) a helix. 
+
+a cubic. 
+
+(d) an ellipse. 
+
+(f) a spiral. 
+
+8.  (2 marks) Consider a vector-valued function 710 
+
+(cos(t) 
+
+, 
+
++ 
+
+sin(t)). 
+
+Then the curvature at t = 0 is 
+
+k(0)  = 
+
+9. (2 marks) The solution of 
+
+y"(t) + 2y'(t) - 3y(t) = 0 
+
+Y(0)  = 0 
+
+y'(0)  = 4 
+
+10. 
+
+(2 marks) Consider the same differential equation 
+
+y"(t) + 2y'(t) - 3y(t) = 0. 
+
+Give an example of a solution that satisfies y(t)  > 0 and lim y(t) = 0. 
+
+t 400 
+
+Continued... 
+
+ 
+L1 
+
+mat187-2017-finale 
+
+#833 
+
+4  of  12 
+
+PART II. 
+
+11. You are working for Texas Instruments and need to program the function 
+
+(20 Marks) 
+
+arctan(x) into a calculator. The calculator can only add, subtract, multiply, and divide numbers. 
+
+One way to do it is to use Taylor Series. 
+
+(a) (3 marks) Use a substitution to show that arctan(x) = f  1 
+
+du. 
+
+(b) (7 marks) What is the Taylor series for arctan(x) centred at a = 0? Justify your answer. 
+
+Hint. Recall the geometric series, as given in the formula sheet. 
+
+Continued... 
+
+ 
+302CF5E2 -DFC1-4BAF- 982D-C72 7EC3CBD74 
+
+mat187-2017-finale 
+
+#833 
+
+5 of  12 
+
+(5 marks) What is the radius of convergence of this series? Justify your answer. 
+
+(5 marks) We want to compute arctan(). How many terms do we have to add to make sure 
+that the error is smaller than 28?  Justify your answer. 
+
+Hint.  Once you have an inequality describing the number of terms needed, guess and check 
+
+to find the smallest number of terms that satisfies the inequality. 
+
+Continued... 
+
+43889FFA-9865-4471-812A-34B9F8019CF6 
+
+mat187-2017-fina].e 
+
+#833 
+
+6  of  12 
+
+12.  Consider a drone performing some acrobatics with position 
+
+(20 Marks) 
+
+(t) = (x(t),  y(t), z(t)) 
+
+(3 cos(t) 
+
+,  3 sin(t) 
+
+,  2(t - 1)2 + 
+
+ 1), 
+
+where t is measured in seconds and the position is measured in metres. 
+
+(a) (5 marks) What is the minimum altitude  z(t)  flown by the drone? Justify your answer. 
+
+(b) (5 marks) What is the magnitude of the acceleration? 
+
+Continued... 
+
+6F177609-8258-4D43-958D-54BB511flF2 
+
+mat187-2017-finale 
+
+#833 
+
+7 of  12 
+
+C 
+[:il 4
+vaa 
+
+(c) (10  marks) The drone works up to an altitude of only 163m. What is the total distance 
+
+travelled by the drone until it stops working? Justify your answer. The answer can be in terms 
+
+b 
+sec  3(u) du without having to compute this integral. 
+
+of  f
+
+Continued... 
+
+IF 
+
+5F753319-237E-482A-814B-D293C265C5B5 
+
+mat187-2017-finale 
+
+#833 
+
+8  of  12 
+
+13.  Consider a boat propeller with the shape 
+
+(20 Marks) 
+
+r  = 1.5 + cos(30) 
+
+27 
+3)-. 
+
+(5 marks) We can fit a circle cen- 
+
+tred at the origin inside this curve 
+
+What is the maximum radius of 
+
+such a circle? Justify your answer. 
+
+/ 
+
+6 
+
+77r
+
+/ 
+
+6 
+
+1 
+
+2 
+
+x 
+
+v 
+
+/ 
+
+/
+
+6 
+
+47 
+
+57r 
+
+(7 marks) What is the tangent line for the first positive angle 9 where the curve touches the 
+
+centre circle found in  (a)? Justify your answer. 
+
+Hint,  sin () 
+
+and cos () = 
+
+Continued... 
+
+DA525817-8404-4B98-8E62-76483796097E 
+
+mat187-2017-finale 
+
+#833 
+
+9 of  12 
+
+F 
+
+IjI.. 
+
+(c) (8 marks)  What is the area of the shaded blade of the propeller excluding the centre circle 
+
+found in (a)? Justify your answer. 
+
+Continued... 
+
+5E16CCGC-6A9F--4D56- 
+
+mat187-2017-finale 
+
+#833 
+
+10  of  12 
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS. 
+
+If you wish to have this page marked, make sure to refer to it in your original solution. 
+
+Continued... 
+
+FC8745FC-2C8A-4557-80C9-6159FD5F92F7 
+
+mat187-2017-finale 
+
+#833 
+
+11 of  12 
+
+10 bEl 
+
+USE  THIS PAGE TO CONTINUE OTHER QUESTIONS. 
+If you wish to have this page marked, make sure to refer to it in your original solution. 
+
+Continued... 
+
+LI  L!J 
+
+mat187-2017-finale 
+
+#833 
+
+12  of  12 
+
+USE THIS PAGE FOR ROUGH WORK. 
+
+The end. 
+
+

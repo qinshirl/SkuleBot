@@ -1,0 +1,723 @@
+University of Toronto, Faculty of Applied Science and Engineering
+
+MAT187H1S – Calculus II – Final Exam - April 16, 2019
+
+Examiners: G. Chen, S. Cohen, B. Galv˜ao-Sousa, P. Milgram, F. Parsch, M. Pugh
+
+MULTIPLE-CHOICE QUESTIONS
+
+AND
+
+FORMULA SHEET
+
+Instructions:
+
+• DO NOT OPEN until instructed to do so.
+
+• THIS PART WILL NOT BE COLLECTED.
+
+• This part contains 6 pages.
+
+MAT187 – Final Exam
+
+MULTIPLE-CHOICE PART.
+
+(20 marks)
+
+ANSWER THESE QUESTIONS ON PAGE 16 OF THE TEST.
+
+For questions 1.–4., consider the graphs:
+
+y
+
+y
+
+y
+
+x
+
+1
+
+x
+
+1
+
+x
+
+1
+
+A
+
+B
+
+C
+
+y
+
+y
+
+2
+
+D
+
+x
+
+x
+
+1
+
+E
+
+1. (2 marks) Which of the graphs A–E represents the following vector-valued function ?
+
+(cid:126)r1(t) = (cid:104)t + sin(5t), t + cos(5t)(cid:105)
+
+2. (2 marks) Which of the graphs A–E represents the following vector-valued function ?
+
+(cid:126)r2(t) = (cid:104)cos(5t), sin(3t)(cid:105)
+
+3. (2 marks) Which of the graphs A–E represents the following vector-valued function ?
+(cid:28)
+
+(cid:29)
+
+(cid:126)r3(t) =
+
+sin(t),
+
+cos(t) − cos(2t)
+
+1
+2
+
+4. (2 marks) Which of the graphs A–E represents the following polar function ?
+
+r =
+
+1
+| cos(θ)| + | sin(θ)|
+
+Page 2 of 6
+
+MAT187 – Final Exam
+
+5. (2 marks) Consider the polar curve
+
+r = 1 + cos(3θ) . Select ALL of the following values of θ for
+
+which the curve passes through the origin.
+
+(A) θ = 0
+
+(B) θ =
+
+π
+3
+
+(C) θ =
+
+π
+2
+
+(D) θ = π
+
+6. (2 marks) Consider the polar curve
+
+r = 1 + cos(3θ) .
+
+What is the tangent line at θ =
+
+(A) θ = − π
+3
+
+(B) θ =
+
+π
+3
+
+π
+3
+
+?
+
+(C) θ =
+
+π
+2
+
+(D) θ = π
+
+(E) θ =
+
+5π
+3
+
+(E) θ =
+
+5π
+3
+
+7. (2 marks) The power series
+
+convergence of
+
+∞
+(cid:88)
+
+n=0
+
+(A) R = 0
+
+(B) R =
+
+1
+π
+
+(C) R = 1
+
+8. (2 marks) Calculate the limit
+
+an(x − 4)n has radius of convergence R = π. What is the radius of
+
+∞
+(cid:88)
+
+n=0
+
+(cid:19)n
+
+(cid:18) x − 4
+π
+
+an
+
+?
+
+(D) R = π2
+
+(E) R = ∞
+
+ex + cos(x) + sin(x) − 2
+
+1−x + 2x2 + 2x3 + 2 (cid:0)1 − 1
+x6
+
+4!
+
+lim
+x→0
+
+(cid:1) x4 + 2 (cid:0)1 − 1
+5!
+
+(cid:1) x5
+
+.
+
+(A) −2 −
+
+2
+6!
+
+(B) −
+
+2
+6!
+
+(C) −2
+
+(D) 0
+
+(E) The limit does not exist.
+
+Page 3 of 6
+
+MAT187 – Final Exam
+
+9. (2 marks) Consider two particles with positions
+
+(cid:126)r1(t) = (cid:104)3 sin(t), 2 cos(t)(cid:105)
+
+(cid:126)r2(t) = (cid:104)−3 + cos(t), 1 + sin(t)(cid:105)
+
+for 0 (cid:54) t (cid:54) 2π.
+
+How many times do their paths intersect?
+
+(A) 0 times.
+
+(C) 2 times.
+
+(E) 6 times.
+
+(B) 1 time.
+
+(D) 3 times.
+
+10. (2 marks) Consider the same particles with positions as in the previous question
+
+(cid:126)r1(t) = (cid:104)3 sin(t), 2 cos(t)(cid:105)
+
+(cid:126)r2(t) = (cid:104)−3 + cos(t), 1 + sin(t)(cid:105)
+
+for 0 (cid:54) t (cid:54) 2π.
+
+How many times do these particles collide?
+
+(A) 0 times.
+
+(C) 2 times.
+
+(E) 4 times.
+
+(B) 1 time.
+
+(D) 3 times.
+
+Page 4 of 6
+
+MAT187 – Final Exam
+
+FORMULA SHEET FOR MAT187
+
+Important Formulas.
+
+• cos2(x) =
+
+(cid:16)
+
+1 +
+
+• lim
+n→∞
+
+1 + cos(2x)
+2
+= ea
+
+(cid:17)n
+
+a
+n
+
+• sin2(x) =
+
+1 − cos(2x)
+2
+
+• sin(x) = cos
+
+(cid:17)
+
+− x
+
+(cid:16) π
+2
+
+Trigonometric Integrals.
+
+(cid:90)
+
+(cid:90)
+
+(cid:90)
+
+•
+
+•
+
+•
+
+sec(x) = ln (cid:0) sec(x) + tan(x)(cid:1) + C
+
+(cid:90)
+
+sec3 dx =
+
+cos(x)
+(cid:0)1 − sin2(x)(cid:1)2 dx
+
+1
+
+1 + x2 dx = arctan(x) + C
+
+Applications of integration.
+
+• Arc length for y = f (x)
+
+• Area of a surface of revolution y = f (x) revolved around x−axis
+
+Numerical Integration.
+
+• Left-Hand Rule
+
+• Right-Hand Rule
+
+• Midpoint Rule
+
+• Trapezoid Rule
+
+(cid:90) b
+
+a
+(cid:90) b
+
+a
+(cid:90) b
+
+a
+(cid:90) b
+
+a
+
+f (x) dx ≈ Ln =
+
+f (x) dx ≈ Rn =
+
+n
+(cid:88)
+
+i=1
+n
+(cid:88)
+
+f (xi−1)∆x,
+
+f (xi)∆x,
+
+f (x) dx ≈ Mn =
+
+i=1
+n
+(cid:88)
+
+f (x) dx ≈ Tn =
+
+(cid:18) xi−1 + xi
+2
+
+f
+
+(cid:19)
+
+∆x,
+
+f (xi−1) + f (xi)
+2
+
+∆x,
+
+i=1
+n
+(cid:88)
+
+i=1
+
+(cid:113)
+
+1 + (cid:0)f (cid:48)(x)(cid:1)2 dx
+
+(cid:90) b
+
+a
+
+2πf (x)
+
+(cid:113)
+
+1 + (cid:0)f (cid:48)(x)(cid:1)2 dx
+
+(cid:90) b
+
+a
+
+|EL| (cid:54) b − a
+2
+
+(cid:0)∆x(cid:1) max
+x∈[a,b]
+
+(cid:12)f (cid:48)(x)(cid:12)
+(cid:12)
+(cid:12)
+
+|ER| (cid:54) b − a
+2
+
+(cid:0)∆x(cid:1) max
+x∈[a,b]
+
+(cid:12)f (cid:48)(x)(cid:12)
+(cid:12)
+(cid:12)
+
+|EM | (cid:54) b − a
+24
+|ET | (cid:54) b − a
+12
+
+(cid:0)∆x(cid:1)2 max
+x∈[a,b]
+
+(cid:12)f (cid:48)(cid:48)(x)(cid:12)
+(cid:12)
+(cid:12)
+
+(cid:0)∆x(cid:1)2 max
+x∈[a,b]
+
+(cid:12)f (cid:48)(cid:48)(x)(cid:12)
+(cid:12)
+(cid:12)
+
+Diﬀerential Equations.
+
+• Linear DE: y(cid:48) + p(t)y = g(t)
+
+• Separable DE: g(y)
+
+dy
+dt
+
+= h(t)
+
+Page 5 of 6
+
+µ(t) = e
+
+(cid:82) p(t) dt
+
+y =
+
+(cid:90)
+
+1
+µ(t)
+
+µ(t)g(t) dt +
+
+C
+µ(t)
+
+(cid:90)
+
+g(y) dy =
+
+(cid:90)
+
+h(t) dt
+
+MAT187 – Final Exam
+
+Power Series.
+
+• Taylor Theorem
+
+• Geometric Series (for −1 < x < 1)
+
+• Exponential Series
+
+• Binomial Series (for −1 < x < 1)
+
+• Sine Series
+
+• Cosine Series
+
+• Logarithmic Series (for −1 (cid:54) x < 1)
+
+Vector-Valued Functions.
+
+• Area inside a polar function r = f (θ)
+
+• Length of a parametric curve (cid:126)r(t)
+
+• Length of a polar curve r = f (θ)
+
+• Unit tangent and normal vectors
+
+
+
+
+
+
+f (x) = pn(x) + Rn(x)
+n
+(cid:88)
+
+pn(x) =
+
+f (k)(a)
+k!
+
+(x − a)k
+
+Rn(x) =
+
+(x − a)n+1
+
+k=0
+f (n+1)(c)
+(n + 1)!
+
+1
+1 − x
+
+=
+
+∞
+(cid:88)
+
+k=0
+
+xk
+
+ex =
+
+∞
+(cid:88)
+
+k=0
+
+1
+k!
+
+xk
+
+(1 + x)p =
+
+∞
+(cid:88)
+
+k=0
+
+p(p − 1) · · · (p − k + 1)
+k!
+
+xk
+
+sin(x) =
+
+∞
+(cid:88)
+
+k=0
+
+(−1)k
+(2k + 1)!
+
+x2k+1
+
+cos(x) =
+
+∞
+(cid:88)
+
+k=0
+
+(−1)k
+(2k)!
+
+x2k
+
+ln(1 − x) = −
+
+∞
+(cid:88)
+
+k=1
+
+1
+k
+
+xk
+
+1
+2
+
+(cid:90) β
+
+(cid:0)f (θ)(cid:1)2 dθ
+
+α
+
+(cid:90) b
+
+a
+
+(cid:12)(cid:126)r (cid:48)(t)(cid:12)
+(cid:12)
+
+(cid:12) dt
+
+(cid:113)(cid:0)f (θ)(cid:1)2 + (cid:0)f (cid:48)(θ)(cid:1)2 dθ
+
+(cid:90) β
+
+α
+
+(cid:126)T (t) =
+
+(cid:126)r (cid:48)(t)
+(cid:12)(cid:126)r (cid:48)(t)(cid:12)
+(cid:12)
+(cid:12)
+
+,
+
+(cid:126)N (t) =
+
+(cid:126)T (cid:48)(t)
+(cid:12) (cid:126)T (cid:48)(t)(cid:12)
+(cid:12)
+(cid:12)
+
+• Tangential and normal components of acceleration
+
+• Curvature
+
+κ =
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+Page 6 of 6
+
+,
+
+dt
+
+aT = d |(cid:126)r (cid:48)(t)|
+(cid:12)
+(cid:12) (cid:126)T (cid:48)(t)(cid:12)
+(cid:12)
+(cid:12)(cid:126)r (cid:48)(t)(cid:12)
+(cid:12)
+(cid:12)
+
+d (cid:126)T
+ds
+
+=
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+aN = κ|(cid:126)r (cid:48)(t)|2
+(cid:12)
+(cid:12)(cid:126)v × (cid:126)a(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)(cid:126)v(cid:12)
+(cid:12)
+
+=
+
+3
+
+

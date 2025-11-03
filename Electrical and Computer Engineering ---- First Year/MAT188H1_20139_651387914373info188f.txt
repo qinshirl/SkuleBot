@@ -1,0 +1,191 @@
+MAT188H1F LINEAR ALGEBRA: Course Information as of
+
+November 4, 2013
+
+Section Instructors: By now you should be scheduled into one of the following Sections:
+
+LEC0101 Cohen, S. LEC0102 Cho, S.
+LEC0105 Bell, J.
+
+LEC0106 Burbulla, D. LEC0107 Hay, D.
+
+LEC0108 Santiago, L.
+
+LEC0103 Huang, J. J. LEC0104 Pugh, M.
+
+Textbook: Elementary Linear Algebra with Applications by Jeﬀrey Holt. Any version of this book,
+be it hard cover or binder-ready soft cover, will do. Warning: this is the ﬁrst time we are
+using Holt’s book. Its order of topics is totally diﬀerent than the book we were using previously.
+Keep this in mind when you look at old quizzes and term tests. Moreover, Holt includes much
+more material on linear transformations than our previous book, but less material on vectors in
+three dimensions than our previous book. Anything you know from high school—such as the
+dot product, the cross product, equations of lines and planes in three dimensions—can be used
+in this course, if it helps you.
+
+Tutorials: By now you should be scheduled into one tutorial. You should attend tutorials on a
+regular basis; it is one place you can get help with your homework, and it is the only place
+you can pick up your graded term tests and see the solutions taken up. There will also be
+some tutorials devoted to general advice and supplementary topics, such as proof by induction
+and complex numbers, which you may or may not have seen in high school. Tutorials start on
+Monday, Sep 9th and end on Monday, Dec 2nd. There will be no tutorials on Monday, Oct 14th.
+
+Marking Scheme: Diagnostic test: 5%; WeBWorK: 5%; Quiz: 10%; Test: 30%; Final Exam: 50%
+
+WeBWorK: Information regarding this on-line homework website will be posted on the course web-
+site in the second week of classes. WeBWorK homework will not begin until September 23.
+
+Homework: Consider all the odd numbered exercises from the textbook, which have answers in the
+
+back of the book, as your homework. You can get help from your TA in tutorials.
+
+Quiz: A 50-min quiz will be written in your tutorial during the week of Sep 30-Oct 4.
+
+Test: a 100-min term test is scheduled for Tuesday, Oct 29, 12:15-1:55 PM, locations TBA.
+
+Final Exam: There will be a common ﬁnal exam, 150 min long, during the exam period, Dec 9-20.
+
+Math Aid Oﬃce: GB 149. Hours: MTWRF 12:10-2 PM.
+
+Classroom Deportment: the format of lectures is more formal than what you may be used to.
+This means that during lectures there should not be any disruptions that would prevent other
+students from hearing or seeing the instructor. That is: no talking, no cell phones, no music, no
+eating or drinking. You should raise your hand to ask a question. You should arrive on time. If
+you do arrive late, please enter by a back door and sit down in the ﬁrst available seat so as not
+to disrupt the rest of the class.
+
+Calculators: Use of a Casio FX-991MS or Sharp EL-520X calculator will be permitted during all
+quizzes, tests and exams. However, it is still your responsibility to explain your work. A correct
+answer with no justiﬁcation will receive no marks.
+
+Course Outline, Lecture Schedule and Tutorial Schedule: The following schedule of 38 lectures
+is only approximate. Sections marked with an asterisk (*) are optional and may not be covered in
+lectures, but you may ﬁnd them interesting to read! Optional sections will not be tested or examined.
+
+Chapter
+
+Euclidean Space
+
+↓ Oct 2 ↓
+Matrices
+
+Systems of Linear Equations
+
+Topic
+Lines and Linear Equations
+Linear Systems and Matrices
+Applications of Linear Systems
+Vectors
+Span
+Linear Independence
+Linear Transformations
+
+Section
+Sec 1.1
+Sec 1.2
+Sec 1.4
+Sec 2.1
+Sec 2.2
+Sec 2.3
+Sec 3.1
+Sec 3.2 Matrix Algebra
+Inverses
+Sec 3.3
+Sec 3.4* LU Factorization
+Sec 3.5* Markov Chains
+Sec 4.1
+Sec 4.2
+Sec 4.3
+Sec 5.1
+Sec 5.2
+Sec 5.3
+Sec 6.1
+Eigenvalues and Eigenvectors Sec 6.3
+Sec 6.4
+Sec 6.5* Complex Eigenvalues
+Systems of Diﬀerential Equations
+Sec 6.6
+Dot Products and Orthogonal Sets
+Sec 8.1
+Projections and the Gram-Schmidt Process
+Sec 8.2
+Sec 8.3
+Diagonalizing Symmetric Matrices
+Sec 8.4* The Singular Value Decomposition
+Sec 8.5* Least Squares Regression
+
+Introduction to Subspaces
+Basis and Dimensions
+Row and Column Spaces
+The Determinant Function
+Properties of the Determinant
+Applications of the Determinant
+Eigenvalues and Eigenvectors
+Change of Basis
+Diagonalization
+
+Determinants
+↓ Nov 6 ↓
+
+Orthogonality
+
+Subspaces
+
+↓ Dec 4 ↓
+
+Lectures
+2
+2
+1
+1
+2
+2
+2
+2
+2
+optional
+optional
+2
+2
+1
+2
+2
+1
+2
+2
+2
+optional
+1
+2
+2
+1
+optional
+optional
+
+We will not cover numerical methods, Sections 1.3 and 6.2. Some tutorial time will be spent on complex
+numbers, reference Section 6.5, because they no longer seem to be covered in high school. Your lecturer
+may or may not include complex eigenvalues in Sections 6.5 and 6.6. Either way, quizzes, tests and
+exams in MAT188H1F will not require complex numbers. In Section 8.3 we’ll skip QR Factorization.
+We won’t do anything from Chapters 7, 9, 10 or 11.
+Tutorial Schedule: Tn represents the n-th tutorial, 1 ≤ n ≤ 12.
+
+T1: proof/induction
+T5: linear maps of R2 T6: invertibility
+T9: test returned
+
+T10: determinants
+
+T2: notation/advice T3: pre-quiz Q & A T4: quiz on Ch 1 & 2
+
+T7: pre-test Q & A T8: subspaces/dimension
+T11: eigenvectors
+
+T12: diagonalization
+
+Course Coordinator: D. Burbulla. Oﬃce: GB 149
+
+email: burbulla@math.toronto.edu; oﬃce hours: MTWRF 12:10-2 PM.
+
+Course Websites: In addition to the course websites which can be accessed through the U of T
+portal there is the coordinator’s home page: http://www.math.toronto.edu/burbulla/
+
+

@@ -1,0 +1,852 @@
+Duration: 100 minutes
+
+Tuesday October 1, 2024
+
+MAT186 Calculus I
+Term Test 1
+
+Full Name: SOLUTIONS
+
+Student number:
+
+Email :
+
+Signature:
+
+@mail.utoronto.ca
+
+Instructions:
+
+1. This test contains a total of 12 pages.
+
+2. DO NOT DETACH ANY PAGES FROM THIS TEST.
+
+3. There are no aids permitted for this test, including calculators.
+
+4. Cellphones, smartwatches, or any other electronic devices are not permitted. They must be turned off and in your
+
+bag under your desk or chair. These devices may not be left in your pockets.
+
+5. Write clearly and concisely in a linear fashion. Organize your work in a reasonably neat and coherent way.
+
+6. Show your work and justify your steps on every question unless otherwise indicated. A correct answer without
+explanation will receive no credit unless otherwise noted; an incorrect answer supported by substantially correct
+calculations and explanations may receive partial credit.
+
+7. For questions with a boxed area, ensure your answer is completely inside the box.
+
+8. The back side of pages will not be scanned nor graded. Use the back side of pages for rough work only.
+
+9. You must use the methods learned in this course to solve all of the problems.
+
+10. DO NOT START the test until instructed to do so.
+
+GOOD LUCK!
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+1. Which of the intervals below represents the set of values of x for which |x + 1| < 1? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+(−2, 0)
+
+⃝ (0, 2)
+
+⃝ (−2, 2)
+
+⃝ (−∞, −2) ∪ (0, ∞)
+
+⃝ (−∞, 0) ∪ (2, ∞)
+
+Explanation: The inequality |x + 1| < 1 defines the set of points that are within 1 unit of -1, so −2 < x < 0.
+
+2. Which of the intervals below represents the entire domain of f (x) =
+
+ln(ln x)
+x − 4
+
+? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ (−∞, 4) ∪ (4, ∞)
+
+⃝ (0, 4) ∪ (4, ∞)
+
+(1, 4) ∪ (4, ∞)
+
+⃝ (e, 4) ∪ (4, ∞)
+
+⃝ (4, ∞)
+
+Explanation: Recall that the domain of ln x is x > 0. Therefore, ln(ln x) is defined when ln x > 0, that is when x > 1.
+We must also exclude x = 4 in the domain of the function ln(ln x)
+x−4 . Therefore, the set of numbers in (1, 4) ∪ (4, ∞) is the
+domain.
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+Use the following information to answer Questions 3 & 4 below, and Question 5 on the next page.
+
+Based on the principle of conservation of energy, an object’s Escape Velocity represents the minimum speed it
+must be travelling to “escape” from the gravitational attraction of a nearby massive body, such as a planet. In
+particular, for some object escaping the gravitational attraction of a body with fixed mass M ≫ 0 (measured
+in kilograms kg), the escape velocity ve (measured in metres per second m
+s ) when the escaping object is a
+distance r (measured in meters m) from the centre of the massive body is given as:
+
+In the equation, G is the positive-valued Universal Gravitational Constant.
+
+ve(r) =
+
+(cid:114)
+
+2GM
+r
+
+3. What are the units of G? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝
+
+⃝
+
+⃝
+
+(cid:114) kg
+m
+
+m
+kg
+
+m2
+kg · s
+
+m3
+kg · s2
+
+⃝ G is unitless
+
+Explanation: After rearranging the equation, the units of G must satisfy:
+
+[G] =
+
+[v]2[r]
+[M ]
+
+=
+
+[m2/s2][m]
+[kg]
+
+=
+
+m3
+kg · s2
+
+4. Which of the following are properties of the function ve(r) ? [2 marks]
+
+You can fill in more than one option for this question (unfilled
+
+filled ).
+
+⃝ The domain is r ∈ (0, ∞), and the range is ve ∈ R.
+
+The domain is r ∈ (0, ∞), and the range is ve ∈ (0, ∞).
+
+⃝ ve(r) is strictly increasing on its domain.
+
+ve(r) is strictly decreasing on its domain.
+
+ve(r) is an invertible function over its whole domain.
+
+(cid:113) 2GM
+Explanation: Observe that
+r
+strictly decreasing over its domain is invertible over its domain.
+
+is non-negative if r > 0, and strictly decreasing. Furthermore, any function that is
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+Use the following information to answer Question 5 below. (This paragraph is repeated from the previous page.)
+
+Based on the principle of conservation of energy, an object’s Escape Velocity represents the minimum speed it
+must be travelling to “escape” from the gravitational attraction of a nearby massive body, such as a planet. In
+particular, for some object escaping the gravitational attraction of a body with fixed mass M ≫ 0 (measured
+in kilograms kg), the escape velocity ve (measured in metres per second m
+s ) when the escaping object is a
+distance r (measured in meters m) from the centre of the massive body is given as:
+
+In the equation, G is the positive-valued Universal Gravitational Constant.
+
+ve(r) =
+
+(cid:114)
+
+2GM
+r
+
+5. Which of the statements below most accurately describes the meaning of the inverse of ve(r)? [1 mark]
+
+Indicate your final answer by filling in exactly one circle below (unfilled
+
+filled ).
+
+⃝ The inverse of ve(r) gives the accumulated distance r of an escaping object from a body with mass M when it
+
+is travelling at speed ve.
+
+The inverse of ve(r) gives the distance r between a body of mass M and an escaping object such that the object
+will escape the gravitational attraction of the massive body when its speed is ve.
+
+⃝ The inverse of ve(r) gives the speed ve required for an object to escape the gravitational attraction of a body
+
+with mass M when the distance between the massive body and the object is r.
+
+⃝ The inverse of ve(r) has no meaning since ve(r) is not invertible on its domain.
+
+⃝ The inverse of ve(r) has no meaning since ve(r) is not invertible on r ∈ R.
+
+Explanation: From the previous part, we know that ve(r) is an invertible function. As ve(r) gives velocity as a function
+of distance, the inverse of ve(r) will give distance as a function of velocity.
+
+Multiple Choice: No justification is required. Only your final answer will be graded.
+
+Use the following graphs to answer Question 6 and Question 7 below.
+
+y
+
+5
+
+4
+
+3
+
+2
+
+1
+
+y
+
+5
+
+4
+
+3
+
+2
+
+1
+
+−4 −3 −2 −1
+
+1
+
+2
+
+3
+
+4
+
+−4 −3 −2 −1
+
+1
+
+2
+
+3
+
+4
+
+x
+
+x
+
+f (x)
+
+−1
+
+−2
+
+−3
+
+g(x)
+
+−1
+
+−2
+
+−3
+
+6. Which of the following statements are true? [2 marks]
+
+f (x) is continuous at -2
+
+lim
+x→0
+
+⃝ lim
+x→0
+
+⃝ lim
+x→0
+
+g(f (x)) exists and g(f (0)) is defined.
+
+g(f (x)) does not exist but g(f (0)) is defined.
+
+g(f (x)) exists but g(f (0)) is undefined.
+
+⃝ g(f (x)) is continuous at 0.
+
+Solution: We see from the graph of f that it is continuous at x = −2. We also know that g(f (0)) is defined since
+g(f (x)) exists since if x is in an interval around 0 (but not exactly
+g(f (0)) = g(−2) = 2. Furthermore, we know that lim
+x→0
+
+0), f (x) is approaching −2 from above. Therefore, we conclude that,
+
+using the graph of g. However, g(f (x)) is not continuous at x = 0 since lim
+x→0
+
+g(f (x)) = 0 ̸= g(f (0)) = 2.
+
+lim
+x→0
+
+g(f (x)) = lim
+
+y→−2+
+
+g(y) = 0
+
+7.
+
+lim
+x→−3
+
+f (g(x)) =
+
+? [1 mark]
+
+⃝ 1
+
+⃝ 2
+
+3
+
+⃝ 4
+
+⃝ does not exist
+
+Solution: If x is in an interval around −3, g(x) takes on the constant value 2. Therefore, near x = −3, we conclude that
+f (g(x)) takes on the constant value f (2) = 3. We conclude that lim
+x→−3
+
+f (g(x)) = 3.
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way.
+
+8. Decide if the following statements are true or false. If the statement is true, explain why. If the statement is false,
+either give a formula for f (x) or draw a possible graph of f (x) that is a counterexample (that is, it satisfies the hypothesis
+of the statement but not the conclusion).
+
+Indicate your final answer by filling in exactly one circle corresponding to your choice (unfilled
+
+filled ).
+
+(a) If a is in the domain of f (x), then lim
+x→a
+
+f (x) = f (a). [2 marks]
+
+⃝ True.
+
+False.
+
+If a is in the domain of f (x), it is possible for lim
+x→a
+
+f (x) ̸= f (a) (i.e. f is discontinuous at x = a) if either:
+
+• lim
+x→a
+
+f (x) does not exist. For example, for f (x) =
+
+right limits at x = 0 differ.
+
+(cid:40)
+
+1 x > 0
+0 x ≤ 0
+
+, the limit lim
+x→0
+
+f (x) does not exist since the left and
+
+• lim
+x→a
+
+f (x) exists but differs from f (a). For example, if g(x) =
+
+(cid:40)
+
+0 x ̸= 0
+1 x = 0
+
+, we have lim
+x→0
+
+g(x) = 0 but it is not equal
+
+to g(0) = 1.
+
+y
+
+1
+
+y
+
+1
+
+x
+
+1
+
+−1
+
+−1
+
+x
+
+1
+
+−1
+
+−1
+
+Figure 1: Graph of f (x) (left) and g(x) (right)
+
+(b) If lim
+x→1
+
+f (x) = 0, then f (0.99) is closer to 0 than f (0.9). [2 marks]
+
+⃝ True.
+
+False.
+
+If
+
+h(x) =
+
+(cid:40)
+
+0 x ̸= 0.99
+1 x = 0.99
+
+,
+
+we have lim
+x→1
+
+h(x) = 0, but h(0.99) = 1 is further away from 0 than h(0.9) = 0 is.
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your final answer in the box provided.
+
+9. Suppose you have two pieces of wire that are exactly 10 cm long each. You hold the pieces together horizontally and
+cut at approximately their midpoint, leaving you with two pairs of wires; a pair on your left of equal length, and a pair
+on your right of equal length. The pair on your left may differ in length from the pair on your right. You then arrange
+the four pieces to form a rectangular frame.
+
+How close to the midpoint does your cut need to be if you want the area inside the frame to be within 1cm2 of 25cm2?
+[4 marks]
+
+Let x be distance from the midpoint where you have cut the wires. We now have two pieces of wire of length 5 − x and
+two pieces of wire of length 5 + x. The area of the frame is therefore (5 − x)(5 + x) = 25 − x2 (cm2).
+
+To ensure that the frame is within ±1cm2 of 25cm2, we must ensure that
+
+24 ≤ 25 − x2 ≤ 26.
+
+We have 25 − x2 ≤ 26 is always true since x2 ≥ 0 for all x. To ensure that 24 ≤ 25 − x2, we must have x2 ≤ 1, or |x| ≤ 1.
+
+Therefore, we must cut within 1cm of the midpoint to guarantee our area is within the acceptable error.
+
+You must cut within
+
+1cm of the midpoint
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way. Put your final answer in the boxes provided.
+
+10. Evaluate the limits below, if they exist, and give a careful argument that your answer is correct. Write “DNE” in
+the box for your final answer if the limit does not exist.
+
+(a)
+
+lim
+x→ π
+2
+
+−
+
+cos x cos(tan x). [4 marks]
+
+For all real x, we have
+
+Therefore, for 0 ≤ x < π
+
+2 , we have
+
+−1 ≤ cos x ≤ 1.
+
+−1 ≤ cos(tan x) ≤ 1.
+
+Now, for 0 ≤ x < π
+
+2 , cos x is non-negative, and therefore
+
+− cos x ≤ cos x cos(tan x) ≤ cos x
+
+Finally, since cos x is continuous at π
+
+2 , we have
+
+lim
+x→ π
+2
+
+−
+
+− cos x = 0 = lim
+x→ π
+2
+
+−
+
+lim
+x→ π
+2
+
+−
+
+cos x cos(tan x) = 0
+
+cos x from which we conclude
+
+by the Squeeze Theorem.
+
+(b)
+
+lim
+x→−∞
+
+√
+
+3x
+4x2 + x − 2x
+
+. [4 marks]
+
+Observe that since x is negative,
+
+(cid:112)
+
+4x2 + x =
+
+(cid:114)
+
+4x2(1 +
+
+√
+
+1
+4x
+
+) =
+
+(cid:114)
+
+4x2
+
+1 +
+
+1
+4x
+
+(cid:114)
+
+= |2x|
+
+1 +
+
+1
+4x
+
+(cid:114)
+
+= −2x
+
+1 +
+
+1
+4x
+
+lim
+x→ π
+2
+
+−
+
+cos x cos(tan x)=
+
+0
+
+where we have used
+
+√
+
+x2 = |x| for all x, and |x| = −x since x is negative.
+
+Therefore, using the previous observation:
+
+lim
+x→−∞
+
+√
+
+3x
+4x2 + x − 2x
+
+= lim
+
+x→−∞
+
+(cid:113)
+
+−2x
+
+3x
+
+1 + 1
+
+4x − 2x
+
+= lim
+
+x→−∞
+
+−2
+
+where we have used lim
+
+x→−∞
+
+1
+4x
+
+= 0 to complete the calculation.
+
+3
+
+(cid:113)
+
+1 + 1
+
+4x − 2
+
+=
+
+3
+(−2)(1) − 2
+
+= −
+
+3
+4
+
+lim
+x→−∞
+
+√
+
+3x
+4x2 + x − 2x
+
+=
+
+− 3
+4
+
+11. On the axes below, sketch a well-labeled graph of a function f (x) defined everywhere that satisfies the given properties
+below. [6 marks]
+
+• f (−1) = 1
+
+• lim
+x→3+
+
+f (x) → ∞
+
+• f (x) is invertible on (3, 5)
+
+• lim
+x→∞
+
+f (x) = 2
+
+• f (x) is not continuous at x = −1
+
+• lim
+x→3−
+
+f (x) = 1
+
+• lim
+x→5−
+
+f (x) ̸= lim
+x→5+
+
+f (x)
+
+•
+
+lim
+x→−∞
+
+f (x) does not exist but
+
+lim
+x→−∞
+
+f (x) ̸→ ±∞
+
+There are many possible solutions. One possibility is shown below:
+
+y
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+−6
+
+−5
+
+−4
+
+−3
+
+−2
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+x
+
+−1
+
+−2
+
+−3
+
+−4
+
+−5
+
+−6
+
+Short Answer: Unsupported answers will not receive full credit. Organize your work in a reasonably neat and coherent
+way.
+
+12. Show that the equation
+
+has at least two solutions. [6 marks]
+
+x186 +
+
+188
+x2 + 1 + cos2 x
+
+= 100
+
+First, observe that x2 + cos2 x + 1 ≥ 1 and therefore, x2 + 1 + cos2 x is strictly positive for all real numbers. We conclude
+that x2 + 1 + cos2 x is never zero, and our function
+
+f (x) = x186 +
+
+188
+x2 + 1 + cos2 x
+
+is a continuous function for all real x. Furthermore, our argument also shows that so f (x) ≥ x186 for all real x since
+
+188
+x2 + 1 + cos2 x
+
+is a positive number.
+
+At this point, there are several methods that can be used to reach the solution.
+
+Method 1 - “Strict” IVT Argument: We know that f (0) = 188
+
+2 = 96 and f (2) ≥ 2186. Since
+
+f (0) = 96 < 100 < 2186 < f (2)
+
+and f (x) is continuous, the Intermediate Value Theorem guarantees a solution f (c) = 100 with 0 < c < 2. To show that
+there is a second solution, observe that f (−2) also satisfies f (−2) ≥ 2186. Therefore, the Intermediate Value Theorem
+guarantees a solution f (d) = 100 with −2 < d < 0. We are guaranteed c ̸= d as c is positive and d is negative, so
+f (x) = 100 has at least two distinct solutions.
+
+Method 2 - IVT-Like Argument: We observe that lim
+x→∞
+
+f (x) → ∞ and similarly,
+
+lim
+x→−∞
+
+f (x) → ∞ since f (x) ≥ x186
+
+for all real x. Therefore, since f (0) = 96, 100 > 96 and f is continuous, f (x) = 100 has must have at least one positive
+and one negative solution.
+
+Method 3 - A Symmetry Argument: Finally, we can observe that f (x) is an even function (that is f (−x) = f (x)).
+This is because (−x)n = xn for any even n and cos(−x) = cos x. Therefore, if we can show that f (c) = 100 for some value
+of c ̸= 0 (using Solution 1 or 2), we will also have f (−c) = f (c) = 100. Solutions −c and c must be distinct since c ̸= 0.
+
+

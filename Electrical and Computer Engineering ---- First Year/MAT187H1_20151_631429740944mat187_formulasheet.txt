@@ -1,0 +1,239 @@
+FORMULA SHEET FOR MAT187
+
+• sin2(x) =
+
+1 − cos(2x)
+2
+
+• sin(x) = cos
+
+(cid:17)
+
+− x
+
+(cid:16) π
+2
+
+Trigonometric Identities.
+
+1 + cos(2x)
+2
+Applications of integration.
+
+• cos2(x) =
+
+• Arc length for y = f (x)
+
+• Area of a surface of revolution y = f (x) revolved around x−axis
+
+• Hyperbolic Functions
+
+Power Series.
+
+• Taylor Theorem
+
+• Binomial Series
+
+• Sine Series
+
+• Cosine Series
+
+• Logarithmic Series
+
+Vector-Valued Functions.
+
+• Area of a polar function r = f (θ)
+
+• Length of a parametric curve (cid:126)r(t)
+
+• Length of a polar curve r = f (θ)
+
+• Tangent and Normal vectors
+
+• Curvature
+
+(cid:113)
+
+1 + (cid:0)f (cid:48)(x)(cid:1)2 dx
+
+(cid:90) b
+
+a
+
+2πf (x)
+
+(cid:113)
+
+1 + (cid:0)f (cid:48)(x)(cid:1)2 dx
+
+(cid:90) b
+
+a
+
+
+
+
+
+
+sinh(x) =
+
+cosh(x) =
+
+ex − e−x
+2
+ex + e−x
+2
+
+
+
+
+
+
+f (x) = pn(x) + Rn(x)
+n
+(cid:88)
+
+pn(x) =
+
+f (k)(a)
+k!
+
+(x − a)k
+
+Rn(x) =
+
+(x − a)n+1
+
+k=0
+f (n+1)(c)
+(n + 1)!
+
+(1 + x)p =
+
+∞
+(cid:88)
+
+k=0
+
+p(p − 1) · · · (p − k + 1)
+k!
+
+xk
+
+sin(x) =
+
+∞
+(cid:88)
+
+k=0
+
+(−1)k
+(2k + 1)!
+
+x2k+1
+
+cos(x) =
+
+∞
+(cid:88)
+
+k=0
+
+(−1)k
+(2k)!
+
+x2k
+
+ln(1 − x) = −
+
+∞
+(cid:88)
+
+k=1
+
+1
+k
+
+xk
+
+1
+2
+
+(cid:90) β
+
+(cid:0)f (θ)(cid:1)2 dθ
+
+α
+
+(cid:90) b
+
+a
+
+(cid:12)(cid:126)r (cid:48)(t)(cid:12)
+(cid:12)
+
+(cid:12) dt
+
+(cid:113)(cid:0)f (θ)(cid:1)2 + (cid:0)f (cid:48)(θ)(cid:1)2 dθ
+
+(cid:90) β
+
+α
+
+(cid:126)T (t) =
+
+(cid:126)r (cid:48)(t)
+(cid:12)
+(cid:12)(cid:126)r (cid:48)(t)(cid:12)
+(cid:12)
+
+,
+
+(cid:126)N (t) =
+
+κ =
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+d (cid:126)T
+ds
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+,
+
+(cid:126)T (cid:48)(t)
+(cid:12) (cid:126)T (cid:48)(t)(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12) (cid:126)T (cid:48)(t)(cid:12)
+(cid:12)
+(cid:12)(cid:126)r (cid:48)(t)(cid:12)
+(cid:12)
+(cid:12)
+
+=
+
+(cid:126)B(t) = (cid:126)T × (cid:126)N
+
+=
+
+(cid:12)(cid:126)v × (cid:126)a(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)(cid:126)v(cid:12)
+(cid:12)
+(cid:12)
+
+3
+
+

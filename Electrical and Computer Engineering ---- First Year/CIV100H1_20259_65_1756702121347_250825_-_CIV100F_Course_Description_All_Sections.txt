@@ -1,0 +1,303 @@
+UNIVERSITY OF TORONTO 
+Faculty of Applied Science and Engineering 
+Course Information 
+
+CIV100F and APS160F – “MECHANICS” 
+
+ September 2025 
+
+Course: 
+
+Lecturers: 
+
+CIV100F is the in-person option of the course. All students are initially registered in this course. 
+APS160F is the optional online option of the course. Students are encouraged to enroll in the online 
+option to experience a more technologically advanced method of course delivery (refer to F.1). 
+
+Course Coordinator: Prof. M. Seica 
+Section 1: Prof. M. Seica  
+Section 2: Prof. M. Seica  
+Section 3: Prof. T. El-Diraby 
+
+Section 4: Prof. O. Mercan 
+Section 5: M. Haghighi   
+Section 6: Prof. S. Saxe   
+
+Section 7: Prof. D. Panesar 
+Section 8: C. Pavlidis 
+Online:     Prof. M. Seica 
+
+Teaching Assistants:  Two TAs will be assigned to each tutorial section. 
+
+Lectures: 
+
+Most subject matter and new concepts will be disseminated: 
+•  CIV100F: In class/person. Refer to ACORN for up-to-date timetable and location. 
+•  APS160F: No classroom lectures. Online videos will be made available on Quercus on a weekly 
+
+basis, on Saturdays at 00:05, for asynchronous delivery. 
+
+Support: 
+
+Tutorials (and optional Additional Help sessions) will be provided: 
+•  CIV100F: In class/person. Refer to ACORN for up-to-date timetable and location. 
+•  APS160F: Exclusively through online communication tools (MS Teams & Piazza). 
+•  Refer to the specific details published in each individual course section site(s) on Quercus. 
+•  E-mail communication is not acceptable. Do NOT send e-mails to the Teaching Team. 
+
+Basis of Final Grade:  Weekly Assigned Problem Sets 
+Quizzes  
+Midterm Examination 
+Final Examination 
+Total 
+
+= 5% 
+= 10% 
+= 35% 
+= 50%   
+= 100%  
+
+Calculators:   A  scientific  calculator  is  extremely  valuable  for  this  course.  The  following  non-programmable 
+calculators are approved by the Faculty of Applied Science and Engineering, and are mandatory. 
+Absolutely no other calculator model will be permitted at tests. 
+
+Required Text: 
+
+•  Casio FX-991 (any suffix is acceptable) 
+•  Sharp EL-W516, or EL-520 (any suffix is acceptable) 
+
+Hibbeler, R.C. “Engineering Mechanics: Statics”, 15th Edition, SI Units, Pearson Education 
+(eText and optional Mastering Engineering). Students can purchase the eText version or the 
+hard copy from Pearson Education, the UofT Bookstore, the Engineering Stores, or from 
+elsewhere. Students in APS160F must purchase access to Mastering Engineering from 
+Pearson  Education,  either  as  a  package  with  the  textbook,  or  separately. 
+Complementary Notes on additional topics (some optional), not covered in the textbook, will 
+be available for download from Quercus. Second-hand (i.e. used) textbooks are acceptable; 
+other/older editions of the textbook are not. 
+
+over… 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Content: 
+
+Refer to the additional handout, posted on Quercus. 
+
+Course Website: 
+
+Quercus will be used extensively, including for posting of course material, 
+communications and listing of unofficial marks. 
+
+There are two course shells available for CIV100F: Lectures and Tutorials. Each shell 
+contains dedicated modules for each Lectures section (e.g. LEC0101, LEC0102,…, 
+LEC0108) and Tutorials section (e.g. TUT0101, TUT0102,…, TUT0122). Important 
+information relevant to the students in all sections will be posted and section-specific 
+material and activities will be disseminated and conducted. 
+
+There is a general course shell with comprehensive instructions and lecture material 
+intended for APS160F students (APS160F ONLINE). It is important that APS160F 
+students read and become familiar with the relevant instructions posted there. In 
+addition, the CIV100F Lectures shell will also be available. 
+
+Notes about the Assigned Problem Sets, Quizzes and Examinations 
+
+A.  Assigned Problem Sets 
+
+A.1. Assignments must be done neatly, in pencil, on one side only of the paper. Engineering problem paper, 
+which is sold in pads by the Engineering Stores located in the basement of the Sandford Fleming Building is 
+strongly recommended. Other paper, preferably quad ruled, will be accepted only if engineering paper cannot 
+be sourced. Digital engineering paper for computers and tablets is acceptable. A straight edge is required 
+for drawing lines, but scales and protractors are not mandatory. A good eraser is invaluable. Lack of neatness 
+will be promptly penalised. 
+
+A.2. The assigned problem sheet will be posted on Quercus, on a weekly basis. Details will be announced in 
+Quercus.  The  solution,  excluding  the  problem  sheet,  must  include  the  final  answer(s),  clearly  identified, 
+together with all the necessary diagrams and calculations. 
+
+A.3. The completed assignments must be submitted by uploading the solution in PDF format on Quercus. 
+Late submissions will normally not be accepted and assessed. 
+
+A.4. Each assigned problem set will contain four or more problems which all must be attempted. Up to 5 
+marks will be awarded for one question only, selected randomly. If one or more questions are not attempted 
+reasonably, a mark of zero will be assigned instead. The marks obtained will be posted on Quercus. 
+
+A.5.  The  purpose  for  the  assignments  (non-closely  supervised  tests)  is  to  practice  problem  solving  in 
+preparation for the common closely supervised tests. The assignments represent a bare minimum and, for 
+achieving success in the course, additional problems can be found in the textbook and elsewhere. 
+
+B.  Quizzes  
+
+CIV100F Students 
+
+B.1. There will be two half-hour, in-person quizzes, scheduled on 23 September and 11 November (subject 
+to change). Details will be announced in due course in the CIV100F Lectures section. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS160F Students 
+
+B.2. Weekly quizzes will be ½ hour long and will be held online using an automated online system (Mastering 
+Engineering). They will be on the same topic as the problem set assigned in the previous week. 
+
+B.3. The quizzes will be made available on Wednesdays by 20:00 EDT/EST and must be completed by the 
+following Monday at 20:00 EDT/EST. The problems, although similar for all students, may have the data 
+randomized. Students will have two attempts to submit their answers within the time allocated. 
+
+B.4. Each quiz will be marked out of 10 marks. At the end of the term, one quiz score (the lowest) will be 
+dropped for each student. The marks obtained will be posted on Quercus. 
+
+C.  Midterm Examination 
+
+C.1. The midterm examination will be conducted in person, will be 1-½ hours long, and is scheduled on 
+Thursday, 23 October (subject to change). Details will be announced in due course in the CIV100F Lectures 
+section.  
+
+C.2. The midterm examination is common for all CIV100F and APS160F students. 
+
+D.  Term Work Re-mark Requests 
+
+D.1. Any requests for re-marking of term work shall be submitted by filling in and submitting / uploading a 
+Quiz & Test Re-mark Request Form available on Quercus (CIV100F Lectures), clearly indicating the reasons 
+why the student believes a re-evaluation is necessary. 
+
+D.2. The form must be submitted to the Teaching Assistant responsible for grading the work considered. 
+Additional details will be provided in due course. 
+
+E.  Final Examination 
+
+E.1. The final examination will be conducted in person and will be 2-½ hours long. The date, time and location 
+for the examination will be published by the Registrar’s Office (see ACORN) in early November.  
+
+E.2. The final examination is common for all CIV100F and APS160F students. 
+
+F.  Miscellaneous 
+
+F.1. For all administrative questions, including requests to enroll in APS160F (online), please contact 
+the First-Year Office. 
+
+F.2. Important: This course requires the use of computers and IT equipment, and relies on a fast and 
+stable Internet connection, and many things can go wrong when using such devices and services. You 
+are responsible for ensuring that you maintain regular backup copies of your files, use antivirus software 
+(if using your own computer), maintain a reliable connection to the Internet and schedule enough time 
+when completing your homework and tests, in order to allow for potential delays due to technical 
+difficulties. Computer viruses, crashed hard drives, broken printers, lost or corrupted files, incompatible 
+file formats, disconnection from the Internet and similar mishaps are common issues when using 
+technology, and are not acceptable grounds for deadline extensions. (Note: If an unexpected technical 
+issue occurs with a university system (e.g. Quercus) that affects its availability or functionality, it may be 
+necessary to revise the timing or weighting of the assessments.) 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F.3. The University of Toronto has made efforts to ensure that students are able to access the online 
+tools which are necessary for the successful completion of the course. In an unlikely event that this 
+access may be impeded, such a situation will be evaluated and resolved on an individual and specific 
+basis. 
+
+F.4. Video recording and sharing: This course is pre-recorded and/or will be recorded on video, 
+including student participation, and will be available to the students in the course for viewing remotely 
+and after each session. All course videos and materials belong to the course instructor, the University 
+and/or to other sources, depending on the specific conditions of each situation, and are protected by 
+copyright. Do not download, copy, or share any course or student materials or videos without the 
+explicit permission of the instructor. For questions about recording and use of videos in which you may 
+appear, please contact your instructor. 
+
+F.5. A final note: Plagiarism is a serious academic offence; sanctions can range from a zero mark to 
+expulsion from the university programme and a note on the transcript. While student collaboration is 
+encouraged,  note  that  plagiarizing  the  work  for  assignments,  quizzes  and  examinations  will  defeat  the 
+educational purpose of these tests. Without adequate training, study and practice, a successful performance in 
+the course will be in jeopardy. 
+
+4 
+
+ 
+ 
+

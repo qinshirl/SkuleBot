@@ -1,0 +1,88 @@
+MIE100S – Winter 2017  
+Tutorial Problem 02a 
+
+A  baseball  player  releases  a  ball  with  an  initial 
+velocity of 35 m/s at an angle 35o with the horizontal. 
+If  t=0  is  the  time  of  release  from  the  player’s  hand, 
+determine the rate of change of the speed, at t=1s.  
+
+Hint: the rate of change of speed occurs along the line 
+of  the  path  (at).  Use  geometry  to  find  the  direction 
+along the path. 
+
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 02a-Solution 
+
+A  baseball  player  releases  a  ball  with  an  initial 
+velocity of 35 m/s at an angle 35o with the horizontal. 
+If  t=0  is  the  time  of  release  from  the  player’s  hand, 
+determine the rate of change of the speed, at t=1s.  
+
+Hint: the rate of change of speed occurs along the line 
+of  the  path  (at).  Use  geometry  to  find  the  direction 
+along the path. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 02b 
+
+From MIE 100 Dynamics Midterm 2005 
+
+A point mass is located at                  m with respect to a given set of rectangular axes.  
+Following is some information about its motion: 
+
+        m/s, 
+
+       m/s, 
+
+        m/s2, 
+
+       m/s2 
+
+Find: 
+
+(i)  The speed of the particle. 
+(ii) The velocity of the particle, expressed in normal-tangential coordinates.  
+(iii) The tangential acceleration     
+(iv) The radius of curvature of the particle's path,  .  
+(v) Sketch the direction of    .  
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+MIE100S – Winter 2017  
+Tutorial Problem 02b-Solution 
+
+i) 
+
+ii) 
+
+iii) 
+
+ 
+ 
+ 
+ 
+iv) 
+
+v) 
+
+  
+ 
+ 
+

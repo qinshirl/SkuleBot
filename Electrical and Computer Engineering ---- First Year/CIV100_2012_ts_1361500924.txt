@@ -1,0 +1,182 @@
+-
+
+Page 2 of4 
+
+Name ______________ __ 
+
+l.) The member shown is supported by a vertical cable AD and rollers at both locations C and B.  For the given loading 
+and if the system  is in equilibrium: 
+
+a)  Draw a separate free body diaaram of 
+the entire body showing all forces 
+
+b)  Determine the reaction forces at C and 
+
+B, and the tension  in cable AD. 
+
+~"' 
+A  CABLE 
+/ 
+
+4kN/m 
+
+e 
+
+·. 
+
+- C(5)+"(4-)t"IZ(5")+9"{5)- o 
+
+S"!11-6"c  .,..sf:-o 
+-! C.- f. -fht  - c  <  B)( =  ~ c - 77 @  W 
+
+.B>c-C  -t-l'-·8-o 
+
+) 
+
+(~ 
+
+,:,Jo ([) 
+
+.u.,  Q 
+
+13  I(  - c  + l,.g =  0 
+(iC-?)-c t-lb•R  .. o 
+
+@ 
+
+~"" 
+
+. :f-(~4.s)-1- B" =o 
+
+-~c.,.•=tR-o 
+
+.  c, JA .. ~ k1.1  ~ 
+
+•. 
+
+Bx.-=  7. r h.J  of-
+
+t 
+
+~b .. o 
+
+- f  c ....  D..I>  - ~ - 12.""' 0 
+
+TA.D.,..  3 7, '  k1..1  (T) 
+
+T AC>  - 3f-. i.  u.{r) 
+~ -.2  u.s (._1-J 
+'l. 
+-,., .,.  lt...sJ q-
+81(  -
+
+(t  .Z.rtt..s =o 
+
+~ =o 
+'iF"  =  o 
+
+Page 3 of4 
+
+Name ________  _ 
+
+2. The member ABCD (AB is  parallel to x, BC is parallel toy and CD is parallel to z axis), has negliaible weight  and is 
+supported by a ball·and socket at A, by a ball-and socket at D which has been modified to  provide reactions only in the x 
+andy direction, and by cable EF. 
+a) Draw the Free Body Diagram of ABCD. 
+b) Detcnnine the tension in cable EF. 
+
+· 
+' 
+
+w 
+
+-os  .1j 
+
+0 
+
+-1.~  ;-
+
+-Go  o 
+
+Page 4 of4 
+
+Name ________  _ 
+
+3. Shown is a truss supported by a piD at A and pla-coaMCted member ED.  All truss connections are pins. The truss 
+is carrying a load of 250 kg by two cables MH and MG, and the truss  is also canying a force of 325 N at C. The truss is in 
+equilibrium and the weight of the truss members is negligible. 
+
+a)  Draw a fiee body diagram of the truss and determine 
+the reactions at the two suppons. 
+
+b) Using the '"fthod piHdJOf!l, determine the forces 
+in the following members of the truss: FD, FL, HL 
+aDd CJ.  Please ensure that for every step of your 
+analysis you have an accompanying free body diagram 
+drawn.  Also indk:ate if the forces are in tension or 
+compression. 
+
+EO 
+-c---
+
+3~~ 
+
+....-+---F---+-~t 
+
+I'Z.t" 
+
+f.~A •o 
+
+ltz,(M)+ IZZ'{-.6)- '15(~.(.)- etl (6.4) ::.o 
+
+79~- liTo- 5".4-(ecl  ~0 
+
+'8C>  -
+
+li.U.  IJ  .._ 
+
+b) 
+
+LF 
+
+A~ - 12.26 .<2.  - o 
+
+1226  (i.z)t- Ut(o.q)-o 
+
+t.H  -t~3S'" IJ 
+Lf.t  •  t{,~!)IV (c.) 
+
+0: 
+
+£1"~ .. 0 
+
+1'3~- !-bF -~FL. =o 
+.;  l>F +  F'L  .- 2.o4-S. 1f"N 0 
+
+~FA - o 
+
+- A.45"2. t- fl:>P  - ~ I FL  •  0 
+
+t> F= 3oq.r u (f) 
+
+.:  f) f - ,..t.. - 40 B 7 
+lo z..z. A) 
+to Z.Z.IV~) 
+
+-
+
+r1- -
+FL.  -
+
+~· 
+cJ 
+
+J;.  £F)(  -o 
+
+C.J  { 
+
+- 147( - 0 
+
+C.J- ~4~~ IJ(rj 
+
+

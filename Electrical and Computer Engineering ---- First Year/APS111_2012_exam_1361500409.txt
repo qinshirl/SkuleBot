@@ -1,0 +1,637 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS111 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Prof. J. Bazylak 
+Communication Coordinator: Prof. P. Weiss 
+Module A Coordinator: Prof. S. McCahan 
+Midterm Examination 
+October 25, 2012 
+
+This is a 70 minute midterm. There are 30 questions on the test. It is a multiple choice 
+midterm and is closed book. No aids are permitted. Read each question thoroughly and 
+provide the answer on the answer sheet. Be sure to fill out the answer sheet clearly with 
+no overlaps. Fill out the answer sheet using a pencil. Erase any errors completely. One 
+answer  per  question  and  each  question  is  worth  1  mark.  There  is  no  deduction  for 
+wrong answers. Select the answer that best satisfies the question. You are not required 
+to hand in the exam question booklet. You may tear off the appendix to ease answering 
+of questions. 
+
+1.  The engineering design process does NOT include: 
+
+A.  Implementation. 
+
+B.  Evaluation of alternatives. 
+
+C.  Norming. 
+
+D.  Project definition. 
+
+2.  Which of the following is TRUE? 
+
+A.  A function is what a design should be. 
+
+B.  A function is how a design should look. 
+
+C.  An objective is what a design should do. 
+
+D.  A constraint is a requirement the design must meet. 
+
+3.  Which of the following is TRUE? 
+
+A.  An indeterminate, or under determined problem is one that has too much 
+
+information to solve uniquely. 
+
+B.  An indeterminate problem has just the right amount of information to solve 
+
+uniquely. 
+
+C.  A determinate problem has just the right amount of information to solve uniquely. 
+
+D.  An over determined problem has just the right amount of information to solve 
+
+uniquely. 
+
+Page 1 of 13 
+
+ 
+ 
+ 
+ 
+4.  The difference between design and problem solving can best be described as: 
+
+A.  Problem solving is used to address open-ended problems versus design which is 
+
+used to address close-ended problems. 
+
+B.  Problem solving is used to address indeterminate problems versus design which 
+
+is used to address over determined problems. 
+
+C.  Problem solving is used to address determinate problems versus design which is 
+
+used to address indeterminate problems. 
+
+D.  Problem solving is used to address over determined problems versus design 
+
+which can be used to address any type of problem. 
+
+5.  A synonym for “iterate” is: 
+
+A.  Restate. 
+
+B.  Repeat. 
+
+C.  Explain. 
+
+D.  Organize. 
+
+6.  A how-why tree is used to: 
+
+A.  Organize objectives and generate measureable criteria. 
+
+B.  Prioritize objectives and identify the most important goals. 
+
+C.  Organize functions into primary and secondary categories. 
+
+D.  Prioritize functions and create measureable goals. 
+
+7.  Universal design is the principle of: 
+
+A.  Putting the user at the center of the design process. 
+
+B.  Involving users and user groups as members of the design team. 
+
+C.  Designing for users with as broad a range of characteristics as possible. 
+
+D.  Designing with the experience of the user as the primary focus of the process. 
+
+8.  Developing a Use Case or Concept of Operations is a strategy for: 
+
+A.  Documenting the operation of a technology from the users’ perspective. 
+
+B.  Comparing alternative design ideas against the user requirements. 
+
+C.  Describing the operation of an existing technology from the client’s perspective. 
+
+D.  Organizing the requirements to focus on the user’s psychological needs. 
+
+Page 2 of 13 
+
+ 
+ 
+ 
+9.  Divergent thinking is most closely associated with: 
+
+A.  Development of the requirements. 
+
+B.  Idea generation. 
+
+C.  Solution evaluation. 
+
+D.  Detailed design work. 
+
+10. Decision making in the engineering design process is different than decision making 
+
+in other types of contexts because: 
+
+A.  Engineering decisions have substantial consequences. 
+
+B.  Engineering decisions are based on documented engineering requirements. 
+
+C.  Engineering decisions are based only on quantitative considerations. 
+
+D.  Engineering decisions must conform to ethical standards. 
+
+11. The Conceptual Design Specification relies on and develops the following Critical 
+
+Thinking skills: 
+
+A.  Understanding bias and creating logical argument that is entirely free from bias. 
+
+B.  Generating multiple solutions and generating evaluation criteria. 
+
+C.  Organizing efficiently and promoting a solution that will excite the client. 
+
+D.  Reflecting on a situation and planning strategies to build on strengths and 
+
+overcome weaknesses. 
+
+12. One technique that skeptical thinkers use is: 
+
+A.  Rejecting any idea that offends their personal values. 
+
+B.  Searching out a cause-and-effect relationship in ideas. 
+
+C.  Relying on expert opinion to prove that an idea is valid. 
+
+D.  Triangulating – finding different sources to support ideas. 
+
+13. When using the multi-voting technique it is allowable for team members to: 
+
+A.  Put all of their votes next to one idea. 
+
+B.  Put more than one vote next to an idea, as long as it isn’t their own idea. 
+
+C.  Only rate the ideas against the top two objectives. 
+
+D.  Distribute their votes among many different ideas. 
+
+Page 3 of 13 
+
+ 
+ 
+ 
+Questions 14 to 18 pertain to the Team Study – ABC’s of Teamwork located at the back 
+of this exam booklet. 
+
+14. Using the Tuckman model; on October 11th this team can best be described as: 
+
+A.  Forming. 
+
+B.  Storming. 
+
+C.  Norming. 
+
+D.  Performing. 
+
+15. The type of problem team behaviour demonstrated by Zeb is called: 
+
+A.  Hitchhiking. 
+
+B.  Hijacking. 
+
+C.  Isolationism. 
+
+D.  Enabling. 
+
+16. The strategies used by the team leading up to the PR submission were: 
+
+A.  Out loud editing, time blocking, and discussion. 
+
+B.  Time blocking, discussion, and setting early deadlines. 
+
+C.  Discussion, setting early deadlines, and revising team rules. 
+
+D.  Setting early deadlines, revising team rules, and out loud editing. 
+
+17. Which of the following strategies would be most helpful for this team moving forward: 
+
+A.  Set action items at the end of each team meeting to keep work moving at a 
+
+steady pace before a deadline. 
+
+B.  Listen and value each other’s ideas more. 
+
+C.  Use meeting minutes so everyone knows what has been decided at the meeting 
+
+and what has been said. 
+
+D.  Set agendas so meetings do not go on so long. 
+
+Page 4 of 13 
+
+ 
+ 
+ 
+18. Suppose you are this team’s Project Manager (i.e. their supervisor) and you are 
+aware of what happened during the time leading up to the PR submission. What 
+feedback would you give the team? 
+
+A.  “This report is uneven; some parts are good and others are not. Try to do better 
+
+next time.” 
+
+B.  “I am glad you found a way to resolve the situation. I suggest you continue to 
+
+work out your differences.” 
+
+C.  “Zeb is obviously to blame here. How are you going to handle it when he lets you 
+
+down again?”  
+
+D.  “Except for the stakeholders section the report is well written. What strategies will 
+
+you be using to keep the team on track for the next report?” 
+
+End of Questions pertaining to the Team Study – ABC’s of Teamwork located at the 
+back of this exam booklet. 
+
+Questions 19 to 27 pertain to the Case Study – Preventing Terrestrial Wildlife 
+Movement at Large Streams and Rivers located at the back of this exam booklet. 
+
+19. Which of the following is outside the scope of this project? 
+
+A.  Developing a barrier for watercourses 0.1 meters deep. 
+
+B.  Developing a barrier for watercourses 0.5 meters deep. 
+
+C.  Developing a barrier for watercourses 5 meters deep. 
+
+D.  Developing a barrier for watercourses 10 meters deep. 
+
+20. Using functional basis the underlying need in this case can best be described as: 
+
+A.  Maintaining a separation between caribou and their predators. 
+
+B.  Creating a barrier across a watercourse that prevents animal movement. 
+
+C.  Controlling the movement of ungulate predators. 
+
+D.  Modifying a fence to work in a different way. 
+
+21. An appropriate benchmarking activity in this case would be: 
+
+A.  Research ungulate behaviour. 
+
+B.  Research cattle grids (i.e. cattle guards). 
+
+C.  Research wolves and their hunting habits. 
+
+D.  Research dog harness systems. 
+
+Page 5 of 13 
+
+ 
+ 
+ 
+22. If you applied the Black Box Method to this case, appropriate outputs would include: 
+
+A.  Caribou. 
+
+B.  Fencing. 
+
+C.  Information about the seasonal conditions. 
+
+D.  Maintenance of the barrier. 
+
+23. Allowing floating debris, such as logs, to move freely down the watercourse in this 
+
+case can best be described as: 
+
+A.  A primary function. 
+
+B.  A secondary function. 
+
+C.  An unintended function. 
+
+D.  A complementary function. 
+
+24. “…a good solution will allow 1 to 5 breaches per year.” Should be interpreted as: 
+
+A.  A function. 
+
+B.  An objective. 
+
+C.  An objective goal. 
+
+D.  A constraint. 
+
+25. “Any solution must not intentionally cause harm to any wildlife…” should be 
+
+interpreted as: 
+
+A.  A function. 
+
+B.  An objective. 
+
+C.  An objective goal. 
+
+D.  A constraint. 
+
+26. Which of the following is NOT part of the service environment for this design project? 
+
+A.  Floating debris, such as downed trees. 
+
+B.  Temperatures from -40 to 40 °C. 
+
+C.  Conventional fencing for wildlife that will occur adjacent to the watercourse. 
+
+D.  The Oil Sands Leadership Initiative. 
+
+Page 6 of 13 
+
+ 
+ 
+ 
+27. During an idea generation session for this project a member of your group comes up 
+
+with the idea of using a water wheel as a barrier. This ideation strategy is an 
+example of: 
+
+A.  Functional decomposition. 
+
+B.  SCAMPER. 
+
+C.  Design by analogy. 
+
+D.  The “why, why, why” method. 
+
+End of questions that pertain to the Case Study – Preventing Terrestrial Wildlife 
+Movement at Large Streams and Rivers located at the back of this exam booklet. 
+
+Questions 28 to 30 pertain to the Problem Statement - Preventing Terrestrial Wildlife 
+Movement at Large Streams and Rivers. 
+
+28. The team that wrote the problem statement looked at the websites of both 
+
+opponents and supporters of the Alberta Oil Sands project. Therefore, their problem 
+statement should be graded as: 
+
+A.  Exceeds expectations because of balanced research. 
+
+B.  Meets expectations because it defines a clear gap. 
+
+C.  Below expectations because websites are not enough research. 
+
+D.  Fails because of its use of value-laden language. 
+
+29. From the references in the problem statement, you can deduce that the term: 
+
+A.  Alberta Tar Sands is used by supporters of the Alberta Tar Sands project. 
+
+B.  Alberta Oil Sands and Alberta Tar Sands have the same implied meaning. 
+
+C.  Alberta Oil Sands is used by opponents of the Alberta Oil Sands project. 
+
+D.  Alberta Tar Sands is used by opponents of the Alberta Tar Sands project. 
+
+30. Which of the following is a correct stakeholder and their interest? 
+
+A.  Government of Alberta – interest in economic stability for the province. 
+
+B.  Sierra Club Canada – interest in preventing tar sands projects. 
+
+C.  Oil Sands Leadership Initiative – interested in maximizing profit. 
+
+D.  Competitors in Saudi Arabia and Venezuela – interest in using Canadian 
+
+technology on their tar sands. 
+
+End of questions pertaining to the Problem Statement - Preventing Terrestrial Wildlife 
+Movement at Large Streams and Rivers. 
+
+There are no questions beyond this point. 
+
+Page 7 of 13 
+
+ 
+ 
+Appendix A: Written Sources 
+
+There are no questions in this appendix. You may detach this appendix for ease of 
+answering the questions that pertain to the Team Study, Case Study, and Problem 
+Statement. 
+
+A.1 - Case Study - Preventing Terrestrial Wildlife Movement at Large Streams and 
+Rivers 
+
+(Taken from Innocentive Challenge ID #9932952 with minor modifications) 
+
+Challenge Overview 
+Large fenced in areas are being considered for the protection of Caribou in the boreal 
+forest of northern Alberta. Predators are kept out of the area by fences, but this 
+becomes problematic when the fence line inevitably crosses rivers or streams.  
+
+The Oil Sands Leadership Initiative (OSLI; http://www.osli.ca/) is looking for creative and 
+innovative ideas to prevent predators (Bears, wolves, coyotes) from crossing a line 
+specific to a river or stream.  
+
+The Oil Sands Leadership Initiative (OSLI) is a collaborative network of companies 
+operating in the Canadian oil sands. Each OSLI company develops its assets 
+individually, but works collaboratively to achieve significant improvements in key 
+performance areas: environmental sustainability, social well-being and economic 
+viability. To formalize this approach, in April 2010 ConocoPhillips Canada, Nexen Inc., 
+Statoil Canada, Suncor Energy Inc. and Total E&P Canada Ltd. signed the OSLI 
+Charter, agreeing to work collaboratively on non-competitive issues, and share research 
+and best practices. Shell Canada joined in 2011. 
+
+The initiative is founded on a common understanding among OSLI members of the 
+need to work together to meet the challenges of responsible development. 
+
+Detailed Description & Requirements 
+Background 
+The Oil Sands Leadership Initiative (OSLI) is investigating the feasibility of a project to 
+reduce predation risk to Woodland Caribou in the northeast boreal forest of Alberta. 
+Caribou are classified as "threatened" under Alberta's Wildlife Act and Canada's 
+Species at Risk Act. The federal and provincial governments define threatened as "a 
+species likely to become endangered if limiting factors are not reversed."  
+
+One option being considered is to create “fenced safe zones” to protect caribou until 
+sufficient functional habitat can be restored. The construction of a fence to exclude 
+caribou predators such as wolves, bears and coyotes is being considered in the boreal 
+forest of northern Alberta. This fence may run for hundreds of kilometers, enclose an 
+
+Page 8 of 13 
+
+ 
+area of thousands of kilometers-squared, and inevitably need to cross streams and 
+rivers. These streams and rivers create several problems with respect to fencing such 
+as:  
+
+•  Water level depth and width vary over the summer months  
+•  Streams may freeze solid over the winter  
+•  Rivers continue to run under the ice during the winter  
+•  Any structure rooted within the river will be impacted by ‘frost heave’ and 
+
+movement of ice  
+
+•  Rivers may have debris floating downstream, such as downed trees  
+•  Streams may be in remote locations where regular maintenance will be difficult  
+•  Conventional fencing is not feasible across larger waterways and may violate 
+
+some provincial and federal regulations concerning restriction of water flow and 
+fish populations.  
+
+A typical fence is shown below and is usually thick wire fencing, 2-3 meters high that is 
+buried to some depth in the ground to prevent digging under it.  
+
+A major issue with fenced enclosures is controlling the movements of predator (wolves, 
+bears and coyotes). These are smart animals and excellent climbers so they can easily 
+find small gaps or ways around the fence. Rivers and streams provide natural travel 
+corridors for these animals and the intersection of fence and waterway will be ‘tested’. 
+Since the conventional fence will probably stop at the high water mark of a stream or 
+river, they can easily walk around it, especially when the water level is low during the 
+summer months. Hence, the need for ideas for some type of innovative “barrier” across 
+rivers and streams. Please refer to the figure below.  
+
+Page 9 of 13 
+
+ 
+ 
+There are also inherent challenges associated with working in the boreal forest. These 
+can be very remote location to establish infrastructure (although monitoring of “fence” 
+will be conducted once established). The diverse range of topography includes: bog, 
+upland, riparian, fen, swamp with relatively poor drainage.  
+
+The Challenge 
+The Oil Sands Leadership Initiative (OSLI; http://www.osli.ca/) is looking for creative 
+ideas for a “barrier” to prevent predators from breaching a protected, fenced area where 
+the fence intersects with rivers and streams. Please note that the “barrier” does not 
+necessarily mean a conventional fence or even a structure at all. It just has to prevent 
+predators from entering the protected area along a line crossing a stream or river. Ideas 
+should be as non-invasive as possible and avoid disturbing water flow, fish populations 
+and even navigation (if the waterway is considered navigable).  
+
+For this Challenge, the design team can assume watercourses are at least 3 meters 
+wide and 0.5 meters deep – up to 50 meters wide and 10 meters deep.  
+
+Any proposal should address as many of the following Technical Guidelines as 
+possible.  
+
+1.  The method (physical barrier or otherwise) will keep predators (bears, wolves, 
+
+and coyotes) and ungulates (woodland caribou, moose, deer) from breaching an 
+exclosure fence where the fence intersects with a river. Ideally the solution will 
+not allow any breaches, although to be realistic, some breaches are acceptable. 
+Generally speaking, a good solution will allow 1 to 5 breaches per year; a better 
+solution will allow 1 or fewer breaches per year; the best solution will not allow 
+any breaches.  
+
+2.  The solution should cause the least amount of disturbance to the watercourse 
+
+(as per the Canadian Department of Fisheries and Ocean’s regulation regarding 
+fish habitat disruption http://www.dfo-mpo.gc.ca/habitat/role/141/1415/14151-
+eng.htm and Transport Canada’s navigable waters regulation 
+http://www.tc.gc.ca/eng/marinesafety/tp-tp14838-3099.htm).  
+
+(Note: We do not expect the design team to interpret all regulations to determine what 
+100% “acceptable” is. Any solution will be subject to scrutiny by several governing 
+bodies after the Challenge; however, the best solutions with the least amount of 
+disturbance and infrastructure will be awarded, as determined by the OSLI, and brought 
+up for consideration.)  
+
+3.  The solution needs to ‘link up’ with conventional fencing for wildlife that will occur 
+adjacent to the watercourse. If the solution is not a structure, there will be no 
+physical “link”, but the design team should show how continuous protection is 
+maintained across the stream and beyond.  
+
+Page 10 of 13 
+
+ 
+4.  Woodland caribou must also not be able to cross this perimeter fence (in the 
+
+other direction). 
+
+5.  The solution must work year round, irrespective of seasonal conditions, including 
+snow, ice, moving frost lines, changing water levels, and temperature ranging 
+from -40 to 40 °C. The solution will be utilized (and maintained) for at least 40 
+years. 
+
+6.  Any solution must not intentionally cause harm to any wildlife including an animal 
+
+attempting a breach the barrier. 
+
+Page 11 of 13 
+
+ 
+ 
+ 
+A.2 - Team Study – The ABC’s of Teamwork 
+
+Xavier, Yana and Zeb are working on an ESP design team together. At first everyone 
+was getting along well and contributing. Zeb is chosen as the team leader.  They agree 
+that Xavier would write the Problem Statement and Service Environment for their PR 
+report; Yana would be in charge of the Functions and the Constraints; and Zeb would 
+write the Objectives and Stakeholders sections. The plan is to have their draft materials 
+together by Wednesday October 10th because the submission date is Friday the 12st.  
+
+As the 10th is approaching it looks like Zeb is not doing much work. There is very little 
+showing up in the Google Docs file from him. When asked about this he says he is still 
+“researching” his sections and will start writing soon. On the 10th Zeb adds a list of the 
+objectives the team developed, and a few sentences about the stakeholders. However, 
+the work shows little research or depth. Xavier and Yana are really frustrated by this. 
+The team meets to discuss what to do. Zeb admits that he underestimated the work 
+required to do his part, and he is going to try to put more into it before the deadline. 
+Xavier and Yana also realize that they forgot to write a conclusion and the appendices 
+will also take time. The team schedules a three hour meeting for October 11th to get 
+everything finished. Zeb manages to get a bit more done so his sections are at least 
+minimally adequate. The team uses the long meeting on the 11th to get the document 
+into shape for submission. Xavier and Yana are not very happy with the way it all came 
+together, but they now understand the importance of setting early, intermediate 
+deadlines for this team. 
+
+Page 12 of 13 
+
+ 
+ 
+ 
+ 
+A.3 - Problem Statement - Preventing Terrestrial Wildlife Movement at Large 
+Streams and Rivers 
+
+The Alberta Tar Sands project presents a threat to life, wildlife and nature in the 
+previously untouched Boreal forest of Northern Canada. Home to thousands of species 
+of plants and animals, the Boreal forest in Northern Alberta contains 35% of the 
+wetlands for all of Canada. Tar Sands development in this area is forcing animals out of 
+their homes [1]. However, the Alberta Tar Sands are also a veritable gold mine of oil, as 
+it is the third largest reserve of crude oil in the world, after Saudi Arabia and Venezuela 
+[2]. It is predicted that the Alberta Tar Sands will produce around 5 million barrels of oil 
+a day by 2030 [3] and with current prices at around $100 per barrel, [4] that equals a lot 
+of money. Our client, the Oil Sands Leadership Initiative (OSLI) is a collaborative 
+network of oil companies seeking to reduce the damage of Tar Sands development by 
+fencing parts of the wilderness to prevent animals following their natural paths into 
+areas that have been destroyed by either surface mining [1] or the toxic “tailings,” 
+residuals, from the resource intensive water-based extraction process [3]. The function 
+of the fence is to control wildlife – it must keep predators and ungulates away from 
+rivers, but not make any fundamental change to the river or the wildlife in the river. It 
+needs to link with existing fences so that the wildlife is entirely trapped within its 
+perimeters, but all wildlife must be safe at all times.  
+
+[1] Sierra Club Canada. (no date) Tar Sands & the Boreal Forest. [Online] Accessed October 16, 2012. 
+Available: http://www.sierraclub.ca/en/tar-sands/publications/tar-sands-boreal-forest  
+
+[2] Alberta Energy. (1995-2012) Oil Sands. [Online] Accessed October 16, 2012. Available: 
+http://www.energy.alberta.ca/ourbusiness/oilsands.asp  
+
+[3] Worldwatch Institute. (2012) Oil Sands: The Costs of Alberta's "Black Gold". [Online] Accessed 
+October 16, 2012. Available: http://www.worldwatch.org/node/4222  
+
+[4] US Energy Information Administration. (October, 2012) Petroleum and Other Liquids – Spot Prices. 
+[Online] Accessed October 16, 2012. Available: http://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm  
+
+Page 13 of 13 
+
+ 
+ 
+

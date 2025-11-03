@@ -1,0 +1,444 @@
+MIE100S Term Test: March 7, 2017.  Place Answers in CrowdMark Booklet 
+Test instructions are provided on the front page of the Crowdmark booklet. 
+
+1.  The center of the1.8-kg sphere C travels along the outer surface of a pipe “D” guided by arm OA, on a 
+
+path described by 	(cid:1870) (cid:3404) 0.7 sin (cid:2016). A small motor at point “O” forces the arm OA to rotate 
+counterclockwise with a constant angular velocity of (cid:2016)(cid:4662) (cid:3404) 2.5	
+k=100 N/m and is compressed by 0.33 m when  = 63 degrees. The sphere C is in contact with only one 
+edge of the slotted arm.  Motion occurs in the horizontal plane such that the effects of gravity can be 
+ignored. Assume that there is no friction. 
+
+.  The spring has a stiffness of  
+
+(cid:3045)(cid:3028)(cid:3031)(cid:3036)(cid:3028)(cid:3041)(cid:3046)
+
+(cid:3046)
+
+For ϴ = 63 degrees determine the following: 
+
+a)  Draw a large, CLEAR free body diagram of the sphere. Include the angles (in degrees) at which 
+forces operate with respect to the x-axis, but do not calculate the magnitudes of the forces. 
+
+b)  Determine the velocity (cid:1874)(cid:1318) of the sphere “C” in polar (r-) coordinates. 
+c)  Determine ar and a for the sphere “C”. 
+d)  Determine the “r” component of the force exerted by the pipe on the sphere “C”. 
+
+8 
+
+5 
+
+7 
+
+5 
+
+25 marks 
+
+y 
+
+A 
+
+sphere “C”
+
+D
+
+ 
+
+O
+
+ x 
+
+origin “O” 
+
+Page 1 of 2 pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  
+
+In Figure I shown below, the spring with k = 100 N/m is relaxed. The spring is then compressed as shown 
+in Figure II by moving the very small block B of mass 0.5 kg to the left a distance . The block is then 
+released so that it can slide to the right and then up the ramp as shown in Figure III. Note that the block is 
+not attached to the spring. Assume no sudden reduction in speed of “B” when it reaches the bottom of the 
+ramp, only a change in direction. 
+
+a)  Determine the amount  that the spring was compressed in Figure II so that the block reaches point 
+
+“A” at a speed of 3.5 m/s as shown in Figure III. Assume that there is no friction. 
+
+b)  What is the angular momentum of block “B” about the origin when it reaches “A”? Express your final 
+
+answer as a vector in x-y-z coordinates. 
+
+c)  What is the linear impulse provided to the block B in the very short time interval when it switches 
+direction to go up the 30-degree slope? Express your final answer using the x-y coordinate system 
+shown.  
+
+5 
+
+5 
+
+5 
+
+10 
+
+d)  Now assume that the coefficient of kinetic friction µk is equal to 0.25 on both the sloped and horizontal 
+surfaces. If the spring is initially compressed by an amount  = 35 cm, what will be the speed of block 
+“B” when it reaches point “A”? 
+
+25 marks 
+
+g = 9.81 m/s2 
+
+ A
+
+y 
+
+Figure I: The spring is relaxed, with the block B 
+touching the spring. 
+
+B 
+
+30o 
+
+0.2 m 
+
+0.8 m 
+
+O 
+
+x 
+
+B 
+
+o 
+
+30
+
+ 
+
+0.2 m 
+
+0.8 m 
+
+ A 
+
+ A 
+
+y 
+
+30o 
+
+O 
+
+x 
+
+0.2 m 
+
+0.8 m 
+
+Figure II: The spring has now been compressed a 
+distance , with the block B touching the spring. 
+
+Figure III: The spring has been released, allowing 
+the block B to slide along the ground, and then 
+up the ramp to the point “A”. 
+
+Page 2 of 2 pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.(a) 
+
+Note: 
+Draw a free body diagram ………………… 1pts 
+(Three  forces  in  total  with  roughly  correct 
+force directions) 
+
+The angle between Fpipe and x axis equals to 
+36o    (The key is that this force points from 
+the center of the 
+pipe)………………………..............……………..3pts 
+
+The angle between Fstring and x axis equals 
+to -117o ……………………………..……………....2pts 
+
+The angle between Farm and x axis equals to 153o …………………………………………………………….…...2pts 
+
+Either a clear presentation of these angles on the diagram or clear statements of these angles will 
+be considered valid. 
+
+1.(b) 
+
+As 
+
+Then, we can obtain 
+
+At 
+
+, 
+
+= 0.794 m/s…………………………………………………….……………….…..1pts 
+
+The velocity of the sphere can be calculated using the following equation, 
+
+……………………………………………………………………………………………….……………….…..2pts 
+
+Then, 
+
+  ……………………………………………………………….……………….….…..2pts 
+
+Note: Missing unit in the final presentation will lose 0.5pts. 
+
+1.(c) 
+
+At 
+
+………………………………………………………..………………………………….……………….…..1pts 
+
+……………………….…………………………………………………….…..1pts 
+
+0.7sinr0.7cosr36o0.7cosrrvrere0.7940.7sinrvee0.7941.56/rveems0.7cosr0.7si07cosn.r36o220.7sin0.7co632.56303.9/soorms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+…………….……………….……………………………………………………………………………………….1.5pts 
+
+…………………………………………1pts 
+
+…….……………………………………………………………………………………………………….…….1.5pts 
+
+…………………………………………………………………….….……1pts 
+
+Note: Missing unit in the final presentation will lose 0.5pts. 
+
+1.(d) 
+
+The magnitude of the spring force can be calculated from, 
+
+……………………………………………………………………………… 2pts 
+
+The direction of the pipe force 
+
+can be shown by   
+
+When  calculating  the  r  component  of  the  force  exerted  by  the  pipe  on  the  sphere,  it  should 
+
+satisfy 
+
+. 
+
+……………………………………………………………………………………………….….……2pts 
+
+Then, 
+
+Note: Missing unit in the final presentation will lose 0.5pts. 
+
+……………………………………………………………………….….….…1pts 
+
+2rrar223.90.7sin632.53.93.97.8/romsa+2arr20+20.7942.53.97msa1000.3333springFNmmNpipeFrrFmaspringpiperrFFma7.1.83318.968piperNF 
+ 
+ 
+ 
+ 
+2 (a)  
+Define	initial	position	with	spring	compressed	as	position	1	
+(cid:1846)(cid:3002) (cid:3404) (cid:1846)(cid:2869) (cid:3397) (cid:1847)(cid:2869)→(cid:3002)		
+(cid:2869)
+(cid:2870) (cid:3404) 0 (cid:3397)
+
+(cid:1863)(cid:2012)(cid:2870) (cid:3398) (cid:1865)(cid:1859)(cid:1986)(cid:1860)		
+
+(cid:2869)
+
+(cid:4672)
+
+(cid:4673) (cid:4666)(cid:2012)(cid:4667)(cid:2870) (cid:3398) 																											 (cid:4666)0.5(cid:1863)(cid:1859)(cid:4667)(cid:4666)9.81(cid:1865)/(cid:1871)(cid:4667)(cid:4666)0.8(cid:1872)(cid:1853)(cid:1866)30°(cid:4667)			
+
+(cid:1865)(cid:1874)(cid:3002)
+(cid:2870)
+(cid:4666)0.5(cid:1863)(cid:1859)(cid:4667)(cid:4666)3.5(cid:1865)/(cid:1871)(cid:4667)(cid:2870) 		 (cid:3404)
+(cid:2869)(cid:2868)(cid:2868)(cid:3015)
+
+(cid:2870)
+(cid:2869)
+
+(cid:2870)
+(cid:2869)
+
+(cid:3040)
+
+(cid:2870)
+3.0625 (cid:3404) 50(cid:2012)(cid:2870) (cid:3398) 2.2655		
+(cid:2012)(cid:2870) (cid:3404) 0.10656		
+(cid:2238) (cid:3404) (cid:2777). (cid:2780)(cid:2779)(cid:2783)(cid:2195)		
+
+2 (b) 
+(cid:1834)(cid:3042)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:1318) (cid:3404) (cid:1870)(cid:1318) (cid:3400) (cid:1865)(cid:1874)(cid:1318)		
+						(cid:3404) (cid:4666)0.8(cid:1872)(cid:1853)(cid:1866)30°(cid:2836)̂(cid:1865)(cid:4667) (cid:3400) (cid:4666)(cid:1855)(cid:1867)(cid:1871)30°(cid:2835)̂ (cid:3397) (cid:1871)(cid:1861)(cid:1866)30°(cid:2836)̂(cid:4667)(cid:4666)3.5(cid:1865)/(cid:1871)(cid:4667)(cid:4666)0.5(cid:1863)(cid:1859)(cid:4667)		
+						(cid:3404) 0.70(cid:3435)(cid:3398)(cid:1863)(cid:3552)(cid:3439)(cid:1863)(cid:1859). (cid:1865)(cid:2870)/(cid:1871)		
+(cid:2164)(cid:2197)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:1318) (cid:3404) (cid:3398)(cid:2777). (cid:2784)(cid:2777)	(cid:2193)(cid:3553) 	(cid:2193)(cid:2189). (cid:2195)(cid:2779)/(cid:2201)		
+
+2 (c) 
+Find	speed	of	B	at	the	bend	((cid:1874)(cid:3042)),	using	energy	balance:	
+(cid:1831)(cid:3036)(cid:3041)(cid:3036)(cid:3047)(cid:3036)(cid:3028)(cid:3039),(cid:3007)(cid:3036)(cid:3034)	(cid:3010)(cid:3010) (cid:3404) (cid:1831)(cid:3029)(cid:3032)(cid:3041)(cid:3031)  
+(cid:2869)
+(cid:1865)(cid:1874)(cid:3042)
+
+(cid:2870)  
+
+(cid:2869)
+
+(cid:3040)
+
+(cid:1863)(cid:2012)(cid:2870) (cid:3404)
+(cid:3038)
+(cid:2870) (cid:3404)
+
+(cid:2870)
+(cid:2012)(cid:2870)  
+
+(cid:2870)
+(cid:1874)(cid:3042)
+(cid:1874)(cid:3042) (cid:3404) (cid:3495) (cid:3038)
+(cid:3040)
+(cid:1874)(cid:3042) (cid:3404) 4.616(cid:1865)/(cid:1871)  
+
+(cid:2012)  = (cid:3495)
+
+(cid:2869)(cid:2868)(cid:2868)(cid:3015)/(cid:3040)
+
+(cid:2868).(cid:2873)(cid:3038)(cid:3034)
+
+0.326(cid:1865) 
+
+	
+	
+Note	that	the	speed	immediately	before	((cid:1874)(cid:3042),(cid:2879))	and	after	
+((cid:1874)(cid:3042),(cid:2878))	entering	the	ramp	are	equal	(but	their	velocities	have	
+different	directions) 
+
+(cid:1838)(cid:1861)(cid:1866)(cid:1857)(cid:1853)(cid:1870)	(cid:1861)(cid:1865)(cid:1868)(cid:1873)(cid:1864)(cid:1871)(cid:1857) (cid:3404) (cid:1986)(cid:4666)(cid:1865)(cid:1874)(cid:1318)(cid:4667) (cid:3404) (cid:1865)(cid:4666)(cid:1874)(cid:3042),(cid:2878)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:1318) (cid:3398) (cid:1874)(cid:3042),(cid:2879)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:4652)(cid:1318)(cid:4667)		
+																																(cid:3404) (cid:4666)0.5(cid:1863)(cid:1859)(cid:4667)(cid:4666)(cid:1874)(cid:3042)(cid:4666)(cid:1855)(cid:1867)(cid:1871)30°(cid:2835)̂ (cid:3397) (cid:1871)(cid:1861)(cid:1866)30°(cid:2836)̂(cid:4667) (cid:3398) (cid:4666)(cid:1874)(cid:3042)(cid:2835)̂(cid:4667)(cid:4667)		
+(cid:2168)(cid:2191)(cid:2196)(cid:2187)(cid:2183)(cid:2200)	(cid:2191)(cid:2195)(cid:2198)(cid:2203)(cid:2194)(cid:2201)(cid:2187) (cid:3404) (cid:4666)(cid:3398)(cid:2777). (cid:2780)(cid:2777)(cid:2786)(cid:2841)̂ (cid:3397) (cid:2778). (cid:2778)(cid:2782)(cid:2781)(cid:2842)̂(cid:4667)(cid:2193)(cid:2189). (cid:2195)/(cid:2201)		
+
+2 (d) 
+Calculate	normal	force	for	the	bottom	and	the	ramp	
+Free body diagram (bottom)
+
+Free body diagram (ramp)
+
++   ∑ (cid:1832)(cid:3052) (cid:3404) 0		
+(cid:1840)(cid:3029)(cid:3042)(cid:3047)(cid:3047)(cid:3042)(cid:3040) (cid:3398) (cid:1865)(cid:1859) (cid:3404) 0		
+(cid:1840)(cid:3029)(cid:3042)(cid:3047)(cid:3047)(cid:3042)(cid:3040) (cid:3404) (cid:4666)0.5(cid:1863)(cid:1859)(cid:4667)(cid:4666)9.81
+(cid:1840)(cid:3029)(cid:3042)(cid:3047)(cid:3047)(cid:3042)(cid:3040) (cid:3404) 4.905(cid:1840)		
+
+(cid:3040)
+
+(cid:3046)
+
+(cid:4667)		
+
+  ∑ (cid:1832)(cid:3015)(cid:3042)(cid:3045)(cid:3040)(cid:3028)(cid:3039) (cid:3404) 0		
++
+(cid:1840)(cid:3045)(cid:3028)(cid:3040)(cid:3043) (cid:3398) (cid:1865)(cid:1859)(cid:1855)(cid:1867)(cid:1871)30° (cid:3404) 0		
+(cid:1840)(cid:3045)(cid:3028)(cid:3040)(cid:3043) (cid:3404)
+
+(cid:4666)0.5(cid:1863)(cid:1859)(cid:4667)(cid:4666)9.81
+(cid:3046)
+(cid:1840)(cid:3045)(cid:3028)(cid:3040)(cid:3043) (cid:3404) 4.248(cid:1840)		
+
+(cid:3040)
+
+(cid:4667)(cid:4666)0.8660(cid:4667)		
+
+Energy balance between initial position (Figure II) and position 
+A (Figure III) 
+(cid:1846)(cid:3002) (cid:3404) (cid:1846)(cid:3036)(cid:3041)(cid:3036)(cid:3047)(cid:3036)(cid:3028)(cid:3039),(cid:3007)(cid:3036)(cid:3034)	(cid:3010)(cid:3010) (cid:3397) (cid:1847)(cid:3034)(cid:3045)(cid:3028)(cid:3049) (cid:3397) (cid:1847)(cid:3046)(cid:3043)(cid:3045)(cid:3036)(cid:3041)(cid:3034) (cid:3397) (cid:1847)(cid:3033)(cid:3045)(cid:3036)(cid:3030)(cid:3047)(cid:3036)(cid:3042)(cid:3041)  
+
+ 
+	
+ 
+ 
+ 
+(cid:2869)
+
+(cid:2869)
+
+(cid:1865)(cid:1874)(cid:3002)
+
+(cid:2870) (cid:3404) 0 (cid:3397) (cid:4666)(cid:3398)(cid:1865)(cid:1859)(cid:1986)(cid:1860)(cid:4667) (cid:3397)
+
+(cid:1863)(cid:2012)(cid:2870) (cid:3398) (cid:2020)(cid:3038)(cid:4666)(cid:1840)(cid:3029)(cid:3042)(cid:3047)(cid:3047)(cid:3042)(cid:3040)(cid:1986)(cid:1871)(cid:3029)(cid:3042)(cid:3047)(cid:3047)(cid:3042)(cid:3040) (cid:3397)
+
+(cid:2870)
+(cid:2870)
+																																																																								(cid:1840)(cid:3045)(cid:3028)(cid:3040)(cid:3043)(cid:1986)(cid:1871)(cid:3045)(cid:3028)(cid:3040)(cid:3043)(cid:4667)  
+(cid:2869)
+(cid:4666)0.5(cid:1863)(cid:1859)(cid:4667)(cid:4666)(cid:1874)(cid:3002)(cid:4667)(cid:2870) (cid:3404) (cid:4666)(cid:3398)0.5(cid:1863)(cid:1859)(cid:4667)(cid:4666)9.81(cid:1865)/(cid:1871)(cid:4667)(cid:4666)0.8(cid:1872)(cid:1853)(cid:1866)30°(cid:1865)(cid:4667) (cid:3397)
+(cid:4666)100(cid:1840)/(cid:1865)(cid:4667)(cid:4666)0.35(cid:1865)(cid:4667)(cid:2870) (cid:3398) 0.25 (cid:3436)4.905(cid:1840)(cid:4666)0.55(cid:1865)(cid:4667) (cid:3397)
+
+(cid:2869)
+
+(cid:2870)
+
+(cid:2870)
+
+																																																																									4.248(cid:1840) (cid:4672)
+(cid:2870) (cid:3404) (cid:3398)2.2655 (cid:3397) 6.125 (cid:3398) 0.6744 (cid:3398) 0.9815  
+
+(cid:2868).(cid:2876)(cid:3040)
+
+(cid:3030)(cid:3042)(cid:3046)(cid:2871)(cid:2868)°
+
+(cid:4673)(cid:3440)  
+
+(cid:2870) (cid:3404) 2.2036/0.25  
+
+0.25(cid:1874)(cid:3002)
+(cid:1874)(cid:3002)
+(cid:2204)(cid:2157) (cid:3404) (cid:2779). (cid:2786)(cid:2784)(cid:2195)/(cid:2201)  
+
+														
+ 
+ 
+

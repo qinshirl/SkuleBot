@@ -1,0 +1,45 @@
+LAST Name (as seen on ROSI): __________________________________________   Tutorial Number: __________ 
+
+FIRST Name (as seen on ROSI):_______________________________________    Student Number:___________________ 
+
+MIE 100S - Quiz number 1d: Jan 15, 2015:  quiz duration = 20 minutes 
+
+At time t = 0, a particle is at (x, y) = (-3, 8) meters, and has a velocity of 4
+to 2
+
+ m/s2.  
+
+ + 3
+
+ – 3
+
+ m/s. Its acceleration is constant, equal 
+
+(a)  At t = 0, find the normal component of the acceleration. Will this answer change with time? (yes or no). 
+
+𝚤̂
+
+𝚥̂
+
+(b) At time t = 0, express the unit vector ûθ, and find the angle that ûθ makes relative to the x-axis. 
+(c)  Find the magnitude of the position vector (
+x = xo + vot  +  ½ aot2 ;          
+
+ = v û t + vθ û n = v û t + v2/ρ û n ;     
+
+v = vo + aot ;               
+
+) at t = 3 seconds. 
+
+𝑟⃗
+
+𝑣 ���⃗
+
+𝚤̂
+
+𝚥̂
+
+ 
+ 
+ 
+

@@ -1,0 +1,310 @@
+University of Toronto - Engineering 
+
+MIE100S - Applied Mechanics: Dynamics 
+Final Examination - April 2018 
+Exam length: 150 minutes 
+
+First Year: Mechanical, Industrial, Electrical, Computer, Track One 
+
+Instructors: 
+
+A.N. Sinclair 
+L.A. Sinclair 
+L. You 
+E. Young 
+
+General Instructions: 
+
+Answer all questions in the CrowdMark booklet provided, on the correct pages. 
+All rough work must be NEAT and CLEAR to earn credit for each question. 
+You must use a pen or dark pencil. 
+Answer all seven questions. Total marks on this exam = 100. 
+For your final answers, express vector quantities using the coordinate system specified in the 
+question. 
+
+This is a Type D examination. Permitted Aids: 
+
+Non-communicating/non-programmable calculator, such as Casio FX-991 or Sharp EL-520 
+
+One 8 'A" x 11" aid sheet, any colour and format, brought to the test by the student. You may 
+write on both sides of the sheet. 
+
+Page 1 of seven pages 
+
+Block B and Block C are on a hill sloped at 20 degrees as shown in the diagram. The blocks are 
+linked by a rope in tension that passes around a pulley. The pulley has zero mass, and the center 
+of the pulley is attached to a wall. There is friction between the two blocks, and between the 
+ground and block B; the coefficients of friction between all flat surfaces are p,  = 0.3 and 
+pk = 0.2. The mass of block C is 10 kg, and the mass of block B is 8 kg. 
+
+A force P = 50 î Newtons is applied to block C as shown. Block C has a velocity of 8 1 m/s at the 
+instant shown in the diagram. 
+
+12  Draw separate free-body diagrams of block B and block C, showing clearly the direction in which 
+
+each of the forces acts. What is the acceleration of block C at the instant shown in the diagram? 
+
+(Make sure your work is clearly laid out, neat, and easy to understand) 
+
+Page 2 of seven pages 
+
+V 
+
+2. 
+
+A particle P is travelling in a spiral path as shown. At the instant shown in the diagram, the 
+particle's speed is increasing at a constant rate of 2 mIs2, and its distance from the origin "0" is 
+increasing at a constant rate of 4 m/s. At the instant shown in the diagram, the particle's position 
+is {x,y} = {14,0} meters, and its speed is 7 m/s. 
+
+Determine 
+
+dO 
+dt 
+
+ for the particle P at the instant shown in the diagram, where 9 is the angular 
+
+8 
+
+position of P measured with respect to the x-axis in polar coordinates. 
+
+Also determine the x-component of the particle's acceleration a at the instant shown in the 
+diagram. 
+
+1,O} meters 
+
+Page 3 of seven pages 
+
+V 
+
+5 
+
+10 
+
+3. 
+
+At the instant shown in the attached diagram, the bar AB is rotating in the positive direction 
+with an angular velocity of  WAB  = 42.5 radians/s. 
+
+(a) At the instant shown in the diagram, what is the velocity of point B? Use the co-ordinate 
+
+system provided to express your answer. 
+
+(b) Using your answer from part (a), find both the velocity of point D and the angular velocity of 
+bar BD at the instant shown in the diagram. Use the co-ordinate system provided to express 
+your answers. 
+
+5 
+
+(c) Using your answers from part (a) and (b), find the acceleration of point B at the instant shown 
+
+in the diagram if the speed of B is also increasing by 8m/s2. Use the co-ordinate system 
+provided to express your answer. (5  marks) 
+
+120 mm 
+
+120 mm 
+
+10 1 
+
+A
+
+/ 
+
+120 mm 
+
+B 
+
+G 
+
+PI] 
+
+'~ 
+
+150 mm 
+
+45 
+
+A4 
+
+Y 
+
+L, 
+
+Page 4 of seven pages 
+
+ 
+4. A slender rod of mass m = 1.3 kg and length L = 2.0 in is falling straight down from Position 1, as 
+shown in the diagram (dotted lines). A rope with negligible mass is attached to the fixed point at A 
+on the ceiling, and tied to the end of the rod at B. The rope is initially not in tension. The rope is 
+suddenly in tension when the rod reaches Position 2, and the rope is hanging straight down. The 
+rope stays in tension afterwards, but is allowed to swing. 
+
+(a) Draw the free body diagram of the rod immediately after the rope is in tension. 
+
+FT-1 
+
+If V'G  = -31 m/s just before the rope is in tension, what is the rod's angular velocity, w, 
+immediately after the rope is in tension? 
+
+6 
+
+(c) 
+
+= -2.51 m/s immediately after the rope is in tension, what is the rod's total kinetic energy 
+
+at that moment? 
+
+(d) If the rod is initially at rest in Position (1), and h = 1.5 m and the rope has a length of 2m, what 
+
+F-1 
+
+is velocity of point C, v, just before it reaches Position (2)? 
+
+Rope initially not 
+
+-intension 
+
+Y 
+
+1 VA 
+
+-
+
+--------- 
+
+- 
+
+l.5 m1 
+
+-- 
+
+) 
+
+x 
+
+\\o=200 
+
+h 
+
+- 
+
+rope in tension 
+
+-, 
+
+Position (I) 
+
+g = 9.81 mIs2 
+
+G 
+
+Position (2) 
+
+Page 5 of seven pages 
+
+ 
+The wheel C has a mass = 200 kg, and the bar AB has a mass = 100 kg. One end of the bar AB is 
+connected by a pin to the center of the wheel. The other end of the bar is leaning against a vertical 
+wall and can slide on the wall without friction. Bar AB is 10 meters long, and the radius of wheel 
+C is 1 m. The spring stiffness k = 200 N/rn. One end of the spring is attached to the ceiling, and 
+the other end is attached to a rope that is wound around a pulley and then wound around wheel C 
+as shown in the diagram. The relaxed length of the spring is 2m. Coefficients of friction between 
+the wheel and ground are y, = 0.4, and ,Uk  = 0.3. The system is initially at rest as shown in the 
+diagram, with the spring length equal to 3m. 
+
+a) Draw a free body diagram of bar AB and a separate diagram for wheel C at the instant shown 
+
+17-1 
+
+in the diagram. 
+
+Fq b)  The system is then released from rest at the position shown in the diagram. Find 9 if both the 
+
+bar AB and the wheel C remain stationary after the system is released. 
+
+12 
+
+c) If 0= 30°, find (xAB  and ctc after the system is released from rest. 
+
+Y 
+
+i1 
+
+wheel C 
+
+Page 6 of seven pages 
+
+6.  The mass moves only in the vertical direction. Ignore any rotation of the mass. Assume that the 
+
+rope wound around the pulley remains in tension at all times. At time t=0, the mass is lifted a 
+small distance from its equilibrium position, and then released. 
+
+m=l5kg 
+
+k1 100N/m 
+
+k2 =35NIm 
+
+C=40--- 
+rn/s 
+
+6] (a) Find the period Td for damped, unforced vibrations of this system. 
+
+-2 
+
+F
+
+(b) How long will it take for the vibration amplitude to diminish to 3% of its initial value? 
+
+y 
+
+VT 
+
+g= 9.81 mis2  
+
+7.  A uniform thin rod AB of mass 10 kg and length 4.4 meters is pinned at point C. The rod is in 
+equilibrium in the horizontal position as shown. Spring k1  = 120 N/rn, and k2  = 180 N/rn. 
+
+(a) Determine the natural frequency of vibration Cv, for very low-amplitude oscillations. 
+6 
+____  (b) A moment M = 4 sin (w,, t) Newton-meters is then applied to make the rod oscillate with a 
+F6 
+
+very small amplitude about point C. Determine the steady-state vertical amplitude of 
+oscillation of point B, if  co  = 5 s'. 
+
+>< 
+
+A 
+
+0.75m 
+
+k1 
+A ft 
+
+Y 
+
++ 
+
+3m 
+
+< 
+
+1.4m  - 
+
+cA 
+
+g9.81 mls2  
+
+B 
+
+1.2m 
+
+k2  
+
+100 marks total 
+
+Page 7 of seven pages 
+
+

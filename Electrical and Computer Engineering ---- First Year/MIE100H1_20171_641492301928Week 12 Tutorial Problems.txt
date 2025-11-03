@@ -1,0 +1,22 @@
+MIE100S – Winter 2017 
+Tutorial Problem 12a 
+
+A 5-kg block is suspended from a spring having a stiffness of 300 N/m. If the block is acted upon by a vertical 
+periodic force 𝐹 = (7 sin 8𝑡)𝑁 where t is in seconds, determine the equation which describes the motion of the 
+block when it is pulled down 100 mm from the equilibrium position and released from rest at 𝑡 = 0. Consider 
+positive displacement to be downward. 
+
+ 
+ 
+ 
+ 
+MIE100S – Winter 2017 
+Tutorial Problem 12b 
+
+The small block at A has a mass of 4 kg and is mounted on the bent rod having negligible mass. If 
+the rotor at B causes a harmonic movement 𝛿𝐵 = (0.1 cos 15𝑡) 𝑚, where t is in seconds, determine 
+the steady-state amplitude of vibration of the block. 
+
+ 
+ 
+

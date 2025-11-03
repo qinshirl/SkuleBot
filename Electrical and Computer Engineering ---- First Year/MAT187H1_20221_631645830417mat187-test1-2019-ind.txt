@@ -1,0 +1,180 @@
+MAT187 - Calculus II - Winter 2019
+
+Term Test 1 - February 5, 2019
+
+Time allotted: 70 minutes.
+
+Total marks: 50
+
+Aids permitted: None.
+
+Instructions:
+
+• Do not write on the QR code at the top of the pages.
+
+• This test contains 12 pages and a detached booklet for multiple-choice questions and formula sheet.
+
+DO NOT DETACH ANY PAGES.
+
+• You can use pages 10–11 to complete questions (mark clearly which questions you are answering).
+
+• Calculators, cellphones, or any other electronic devices are not allowed. If you have a cellphone
+
+with you, it must be turned oﬀ and in a bag underneath your chair.
+
+• DO NOT START the test until instructed to do so.
+
+GOOD LUCK!
+
+LONG ANSWER PART
+
+7. Consider the integral
+
+√ π
+
+2
+
+(cid:90)
+
+0
+
+sin(x2) dx.
+
+(13 marks)
+
+This integral can’t be calculated using elementary functions, so we need to approximate it.
+
+(a) (5 marks) If you want to make sure your approximation is less than the actual integral (that it
+
+underestimates the integral), which method would you use to approximate this integral? Justify
+
+your answer.
+
+Hint. What is the sign of the derivative of the integrand?
+
+(b) (5 marks) Your boss doesn’t want to know about your reasoning for (a) and she decides that
+
+you must use the Right-hand rule. She also wants the error to be smaller than
+
+intervals should you use? Justify your answer.
+
+1
+100
+
+. How many
+
+Hint 1. There is only one solution of 2z2 tan(z2) = 1 in (cid:2)0, (cid:112) π
+2
+
+(cid:3), whose values you can assume are
+
+z1 = 0.8 and cos(z2
+
+1) = 0.8.
+
+OR
+Hint 2. Note that (cid:112) π
+2
+
+(cid:54) 1.3.
+
+(c) (3 marks) Consider a function f (x) which is continuous in the interval [0, 4] satisfying f (0) =
+
+f (4) + 8 and consider the integral
+
+Calculate L128 − R128.
+
+(cid:90) 4
+
+0
+
+f (x) dx.
+
+8. It’s the 1960’s and NASA is trying to ﬁnd out how much work it will take
+
+(13 marks)
+
+to get a spaceship to escape the gravitational pull of Earth. This means that the spaceship should
+
+be able to keep going forever, getting further and further away from Earth.
+
+The formula for work is W = F d, where F is the force acting on the object and d is the displacement.
+GM m
+r2
+M is the mass of the Earth, m is the mass of the spaceship, and r is the distance from the centre of
+
+, where G is the universal gravitational constant,
+
+The gravitational pull of Earth has magnitude
+
+the Earth. You can denote the radius of the Earth as R.
+
+(a) (8 marks) Find an integral formula for the work it takes to bring a spaceship from the surface
+
+of the Earth to a distance h from the surface.
+
+Explain every step and deﬁne all your variables and constants.
+
+(You can continue your answer to (a) on the next page)
+
+(b) (1 mark) Find an integral formula for the work it takes for a spaceship starting from the surface
+
+of the Earth to go on forever, getting further and further away from Earth. Justify your answer.
+
+(c) (4 marks) Is the amount of work you found in (b) ﬁnite or inﬁnite? Justify your answer.
+
+9. Consider two functions f (t) and g(t) that satisfy the properties:
+
+(12 marks)
+
+(P1) f 2(t) + g2(t) = 1
+
+for all t;
+
+(P2) f (cid:48)(t) = g(t)
+1
+tg(t)
+
+(P3) g(cid:48)(t) =
+
+for all t;
+
+for all t (cid:54)= 0.
+
+We want to study the integral
+
+(cid:90) (cid:112)
+
+1 − x2 dx.
+
+(a) (4 marks) As a ﬁrst step, use the substitution x = f (t) to show that
+
+(cid:90) (cid:112)
+
+1 − x2 dx =
+
+(cid:90)
+
+g2(t) dt.
+
+Hint. Use properties (P1) and (P2).
+
+(b) (4 marks) Now, integrate by parts to calculate the integral
+
+(cid:90) (cid:112)
+
+1 − x2 dx.
+
+(c) (4 marks) This question is independent of the others.
+
+Find a function g(t) that satisﬁes property (P3). Ignore the properties (P1) and (P2).
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+

@@ -1,0 +1,285 @@
+Name: ________________________ 
+
+Student number:_______________ 
+
+MAT 186 
+Quiz 9 Redux 
+
+1.  Evaluate 
+
+CF16  CF22 
+
+Write with confidence. 
+
+𝟓
+
+∫ (𝒙 − 𝟏)√𝒙 + 𝟒 𝒅𝒙
+𝟎
+
+Two good solutions exist.  We can substitute for 𝑥 + 4 (that is the solution shown here), but 
+it would actually be much better to use √𝑥 + 4.  Try that one yourselves. 
+
+Let 𝑢 = 𝑥 + 4, so 𝑑𝑢 = 𝑑𝑥. 
+
+5
+
+∫ (𝑥 − 1)√𝑥 + 4 𝑑𝑥
+0
+
+9
+
+= ∫ 𝑢3/2 − 5𝑢1/2 𝑑𝑢
+
+9
+
+= ∫ (𝑢 − 5)√𝑢 𝑑𝑢
+
+4
+
+4
+2
+5
+2
+5
+
+= [
+
+𝑢5 2⁄ −
+
+9
+
+𝑢3 2⁄ ]
+
+= (
+
+35 −
+
+33) − (
+
+10
+3
+10
+3
+
+4
+2
+5
+
+25 −
+
+10
+3
+
+23) 
+
+= 𝑢𝑔ℎ, 𝑜𝑟 316/15 
+
+2.  Find the area of the region between 𝒚 = |𝒙 − 𝟐| and 𝒙 + 𝟐𝒚 = 𝟓. 
+
+AB4  CF16  CF25 
+
+We need to take cases: 
+
+|𝑥 − 2| = {
+
+2 − 𝑥,
+𝑥 − 2,
+
+𝑥 < 2
+𝑥 ≥ 2
+
+These will intersect at (−1,3) and (3,1) .  So, we need to find the area using two integrals 
+(we could use symmetry and just double one of them): 
+
+2
+
+𝐴 = ∫ (
+
+−1
+
+5 − 𝑥
+2
+
+3
+
+) − (2 − 𝑥)
+
+ 𝑑𝑥 + ∫ (
+
+2
+
+5 − 𝑥
+2
+
+) − (𝑥 − 2) 𝑑𝑥
+
+Continued on back. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+2
+= ∫
+
+𝑥
+2
+−1
+𝑥2
+4
+
+= (
+
++
+
++
+
+1
+2
+
+ 𝑑𝑥
+
+3
++ ∫ −
+2
+
+3𝑥
+2
+
++
+
+9
+2
+
+ 𝑑𝑥
+
+𝑥
+2
+
+)
+
+2
+
+−1
+
++ (−
+
+3𝑥2
+4
+
++
+
+9𝑥
+2
+
+)
+
+3
+
+2
+
+= 3 
+
+3.  A spherical balloon is being filled so that the rate of growth of its radius is constant.   
+
+CF10 
+
+Show that its volume is increasing at a rate that is proportional to its surface area. 
+
+We are given that 
+
+𝑑𝑟
+
+𝑑𝑡
+
+= 𝑘, for some 𝑘.  So: 
+
+𝑑𝑉
+𝑑𝑡
+
+=
+
+𝑑
+𝑑𝑡
+
+(
+
+4
+3
+
+𝜋𝑟3) 
+
+𝑑𝑟
+𝑑𝑡
+
+= 4𝜋𝑟2 ⋅
+
+= 𝑆𝐴 ⋅ 𝑘 
+
+[This one is optional.  Solve it if you need better marks in the main attribute tested here.  If 
+you try this problem, it will not lower your mark.] 
+
+4.  Find  𝐥𝐢𝐦
+𝛉→𝟎+
+
+(𝐬𝐢𝐧 𝜽)𝐭𝐚𝐧 𝜽. 
+
+This limit is of the form 00, so L’Hopital’s rule applies. 
+
+AB3  AB5  CF6  CS13  CS14 
+
+tan 𝜃 ln(sin 𝜃) 
+
+(sin 𝜃)tan 𝜃 
+
+= lim
+𝜃→0+
+
+𝐿 = lim
+𝜃→0+
+𝐥𝐧 𝑳 = lim
+𝜃→0+
+ln(sin 𝜃)
+1
+tan 𝜃
+1
+sin 𝜃
+(−csc2 𝜃)
+
+lim
+𝜃→0+
+
+𝐿′𝐻
+=⏞
+
+(
+
+(
+
+)
+
+⋅ cos 𝜃)
+
+− sin 𝜃 ⋅ cos 𝜃 = 0 
+
+= lim
+𝜃→0+
+∴ 𝐿 = 𝒆𝟎 = 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

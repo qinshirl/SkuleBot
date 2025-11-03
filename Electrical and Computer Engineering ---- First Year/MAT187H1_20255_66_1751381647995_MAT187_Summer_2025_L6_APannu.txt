@@ -1,0 +1,1035 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 6
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Sequences
+
+A sequence
+
+is
+
+an
+
+infinite list
+
+of
+
+numbers
+
+A As As Ay
+
+ex
+
+s
+
+21,48,16 32
+1,1 7 1 1
+
+an 2n 1
+An 2ⁿ
+An 1
+
+explicitly
+defined
+
+Sequences
+
+A O
+art
+a
+
+A 2
+
+Anti An
+anean
+an and
+
+Ant 2am
+
+a
+
+Fibonin
+
+9 1
+
+art
+
+aneanan.ge istg
+
+defined
+
+Sequence Convergence
+We say a
+
+sequence converges
+Imoan L
+
+to L
+
+if
+
+sequence
+
+diverges
+
+if
+
+1mgan doesn't exist
+
+exit
+
+an 0
+
+010,0
+
+An
+
+n
+
+1 2,3
+
+115,5
+
+an t
+an L Dnflili tili.il
+An
+
+fifties in
+
+to zero
+
+lipan limo0 0
+I'm
+no
+
+limon no
+
+converges
+
+diverges
+
+ligan limntn Olomverges
+limp an hang 1 DNE diverges
+
+an C1
+
+1 1
+
+1
+
+1
+
+diverge
+
+Monotone Convergence Theorem
+
+Given a
+
+sequence
+
+an
+
+an
+
+an
+
+an
+
+is
+
+in
+
+is
+
+bounded
+
+above
+
+if
+
+in
+
+bounded
+
+below in
+if
+
+anCM for all n
+anim for all
+
+n
+
+bounded
+
+below and above
+
+bounded above
+sequence doesn't
+ine at
+
+cross
+M
+
+___
+
+M
+
+ti
+
+Ma
+
+boinded
+
+MITE.TT
+
+tsg and bounded
+
+above
+
+then
+
+it
+
+converges
+
+or
+
+decreasing
+
+11
+
+below
+
+bounded
+
+increasing and
+must
+finite value
+
+converge to some
+
+Series
+A series
+
+is
+
+a
+
+sum of
+
+numbers
+
+A Aa Azt
+A 92 93
+
+An
+
+Ai
+
+Éai
+
+finite series
+
+infinite series
+
+excl
+
+infinite
+
+series
+
+II 0
+E 42
+
+Otototot
+
+see
+
+O
+
+seise fm t
+
+Defin
+
+given a
+
+series E an define km particles
+
+as
+
+the sum of
+
+first
+
+K
+
+terms
+
+Sk
+
+an
+
+a Azt
+
+Aki Ak
+
+Defin A series
+
+sums
+
+Iran converges
+S
+
+converges
+
+if
+
+the sequence of
+
+partial
+
+exit
+
+a o
+
+sk
+
+oqj.me
+
+0
+
+n
+
+0an
+
+5 1
+52 1 2 3
+53 1 2 3 6
+
+KEI
+
+G
+
+mo0 0
+
+Sia
+
+E o
+
+Sk Lm
+
+k
+
+no
+
+Ifn diverges
+
+ex Geometric Series
+
+Ato some constant
+
+arm a
+
+rotr
+
+r
+
+r3
+
+n 0
+
+exit
+
+1
+
+at
+
+Convergence
+
+Sk arotar
+r Sk
+
+ar
+
+an
+
+ark
+
+ankt
+
+anotqfje.cn
+
+ankt
+
+r Sk Sk ankt
+
+a
+
+III
+
+5
+
+Sk l
+
+for me
+
+Game
+
+at
+
+LgEIEam
+
+Divergence Test
+
+Given a
+
+series
+
+an
+
+if
+
+series converges
+
+then limpan o
+
+if
+
+limanto then Iran doesn't converge
+
+Ian 1 2 3 1
+
+Ein 1 4 9 164
+
+limon to
+
+hmm
+
+0
+
+Ein doesn't
+
+converge
+
+series
+
+doesn't
+
+comorge
+
+converse
+
+is
+
+not
+
+true
+
+ie
+
+if
+
+lipan o
+
+then
+
+series
+
+q may or maynot
+him an 0
+
+exec ant
+
+converge
+
+but Iftdivenges
+
+Integral Test
+Let F be
+
+continous
+
+a
+
+positive decreasing
+
+function
+
+then
+
+Fly dx
+
+1
+
+converges
+
+ifa
+
+ex
+
+regent
+
+ax
+Trt
+
+s.t.ly Flx o
+
+donlyfE.cn converge
+
+asee.EE
+
+Ig.Fcomerges
+
+P diverges
+
+pse diverges
+
+note that
+
+integral
+
+test doesn't
+
+tell
+
+us
+
+the value
+
+of
+
+the series
+
+Intuition
+
+FEE
+
+Iii
+
+left
+
+endpoint
+with ME
+
+approx
+
+f left endpoint ax
+
+ax
+
+right endpoint with ox
+
+1
+
+dx
+
+g
+
+underestimate
+
+left endpoint
+
+is
+
+overestimate
+
+using
+
+this
+
+we
+
+can
+
+find upper lower bounds
+
+for IIan
+
+→n=1
+
+1
+np
+
+!
+
+done above
+
+converges
+
+diverges
+
+for
+for
+
+PSI
+PII
+
+1
+n ln(n)
+
+→n=1
+22
+
+!
+
+2
+
+L
+
+If dy
+
+Xin x
+
+is
+
+positive
+
+decreasing
+
+0
+
+iontinia
+
+Fed
+
+incical
+
+12 In Inca
+
+In Ina
+
+by integral
+
+test
+
+series diverges
+
+Comparison Test
+series Ean
+
+Given
+
+and on
+
+where Osanston
+
+if
+
+if
+
+bn converges
+
+then Ifan converges
+
+Iran diverges
+
+then
+
+bn diverges
+
+n
+
+!
+
+!
+
+!
+
+→n=1
+
+1
+n2+4
+
+Int which converges
+
+so try to
+
+upper bound
+
+ha
+
+m
+
+he converges
+
+by comparision
+
+Into comerges
+
+→n=1
+
+n2+1
+n3+2
+
+I diverges so try
+
+to lower
+
+bound
+
+t.me
+
+Instant
+
+→n=1
+
+3
+5n+1
+
+a
+
+by comparison
+
+since
+
+series dverges
+
+diverges
+
+1
+
+geometric
+
+series
+
+3
+
+t
+
+converges
+
+by
+
+comparison
+
+series
+
+converges
+
+Ratio Test
+
+Given
+
+series
+
+I on
+L 1
+if
+if 2 1
+1 1
+
+if
+
+let
+
+2 11
+
+then
+
+then
+
+then
+
+then
+
+series
+
+series
+
+is
+
+is
+
+convergent
+
+divergent
+
+series
+
+may
+inconclusive
+
+or may
+
+not
+
+be
+
+convergent
+
+Intuition
+
+if
+
+h limo
+
+as
+
+non
+
+eventually
+series
+
+lantil Llant
+the
+series
+
+An NL
+
+looks
+
+like
+
+a
+
+geometric
+
+converges
+for
+1 1
+
+for
+
+Lel dierges
+
+Lot
+
+ratio
+
+test
+
+inconclusive
+
+→n=1
+
+3n
+n!
+
+an
+
+malate.li
+
+→n=1
+
+n2
+5n
+
+an
+
+!
+
+!
+
+→n=1
+
+2nn!
+nn
+
+!
+mad
+
+0C1
+
+If
+
+him
+
+1 252
+
+IE
+
+series
+
+ki
+l
+l
+ta.lEtL
+converges by ratio test
+l
+the.li
+converges by
+ratio test
+
+ti
+
+s
+
+1
+
+itta.kitl
+Ec1
+
+series
+
+converges
+
+smft
+
+series
+
+is
+
+a
+
+series
+
+of the form
+
+ÉC1 an
+
+no
+
+a
+
+a 92 as an as a
+
+for an
+
+or
+
+C 1
+
+an
+
+Got a
+
+art
+
+c man
+
+if
+
+an
+
+is
+
+decreasing and
+
+n o
+
+then
+
+the Inching series
+since an decreasing Sa below s
+
+converges
+
+Is an 0
+
+So ao
+
+g
+
+S a a
+
+i
+
+r
+
+l
+
+s
+
+l
+
+s
+
+l
+
+l
+
+In
+
+exit alternating
+
+harmonic
+
+series
+
+Eyed t
+
+1
+
+3 tt
+
+by AST
+
+I
+
+0
+
+and
+
+is
+
+decreasing
+
+5 alternating
+
+harmonic
+
+series
+
+converges
+
+We say
+
+a
+
+series
+
+a
+
+is
+
+absolutely
+
+convergent
+
+if
+
+lant
+
+is
+
+n o
+
+convergent
+
+ex
+
+II I't
+
+convergent
+not absolutely convergent
+Eled t
+
+IT t
+
+b c
+
+doesn't conerge
+
+If
+
+a
+
+series
+
+is
+
+absolutely
+
+convergent
+
+then its convergent
+
+

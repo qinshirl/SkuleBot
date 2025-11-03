@@ -1,0 +1,205 @@
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+ECE110 – Electrical Fundamentals 
+
+Midterm May 30, 2024 
+
+DURATION: 80 Minutes 
+
+Calculator Type: 2 (non-programmable calculators) 
+
+Examiner: Hamid S. Timorabadi 
+
+FAMILY NAME:  
+
+GIVEN NAME:  
+
+STUDENT NUMBER:  
+
+K = 1/(4o) = 8.99 x 109 Nm2/C2 
+
+ε0 = 8.854×10−12 F⋅m−1 
+
+MARKS 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Total 
+
+/7 
+
+/10 
+
+/6 
+
+/7 
+
+/30 
+
+Midterm ECE110 
+
+Page 1 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 1 [7 Marks] 
+
+Four charges are located at the corners of a square of side a=2 m as shown in the Figure below.  If 
+Q1= Q2= Q3 =10 µC and Q4 = -10 µC. 
+
+a)  Find  the  magnitude  of  the  electric  field  at  the  center  of  the  square,  at  point  (0,  0).  Clearly 
+
+show the direction of the electric field on the diagram. 
+
+b)  If a test charge Q=2 µC is placed at the square center, point (0, 0), find the magnitude of the 
+
+electric force on this test charge due the other four charges. 
+
+Midterm ECE110 
+
+Page 2 of 6 
+
+ 
+ 
+ 
+Question 2 [10 Marks] 
+
+Two infinite parallel plates with a surface charge density of σ C/m2 are shown in the 
+following Figure. Determine the electric potential between points A and B (VAB) in terms of 
+distance a and charge density σ. 
+
+y 
+
+B 
+
+(0, 3a) 
+
+(0, a) 
+
+A 
+
+(-2a, 0) 
+
+(0, -a) 
+
++σ 
+
+x 
+
++σ 
+
+Midterm ECE110 
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 3: [6 Marks] 
+
+A cylindrical capacitor consisting of two coaxial cylinders of radius a and b (b>a) and length 
+(L) where L>>b is shown in the Figure below. The inner shell has a total charge of +Q and 
+the outer shell has a total charge of -Q. Fringing may be neglected. 
+Develop a relationship for capacitance of this device in terms of a, b, and L. 
+
+Midterm ECE110 
+
+Page 4 of 6 
+
+ab 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 3 [7 Marks] 
+
+A  parallel-plate  capacitor  of  plate  area  A=10.5  cm2,  plate  separation  2d=7.12  mm,  and 
+dielectric  constants  of  κ1=21,  κ2=42,  and  κ3=58  is  shown  in  the  following  Figure. 
+Determine the capacitance. 
+
+Midterm ECE110 
+
+Page 5 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+This Page Left Blank to provide additional workspace. If this page is separate then you MUST write your student 
+number. 
+Student Number: 
+
+Midterm ECE110 
+
+Page 6 of 6 
+
+ 
+ 
+

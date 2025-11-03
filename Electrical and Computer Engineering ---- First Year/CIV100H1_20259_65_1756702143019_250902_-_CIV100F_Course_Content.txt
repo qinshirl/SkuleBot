@@ -1,0 +1,188 @@
+COURSE CONTENT OF CIV100/APS160 MECHANICS FOR 2025-26 
+
+COURSE DESCRIPTION: 
+
+The principles of statics are applied to the composition and resolution of forces, moments and couples. The equilibrium 
+state of particles and rigid bodies are examined in the two-dimensional and three-dimensional space. Throughout, the 
+free body diagram concept is emphasized and utilized. Vector algebra is used where it is most useful, and distributed 
+loading and pressure blocks are introduced. Simple structures such as trusses, and frames and machines, are analysed 
+from a static equilibrium standpoint. First- and second-moment of areas are explained. Shear force and bending 
+moment diagrams for beams are discussed. The action of forces produced by fluids on structures is also covered.  
+
+TEXT AND NOTES: 
+
+Hibbeler, R.C. “Engineering Mechanics: Statics”, 15th Edition, SI Units, Pearson Education (eText and optional Mastering 
+Engineering). Complementary Notes on additional topics (some optional), not covered in the textbook, will be available for 
+download from Quercus. 
+
+MATERIAL TO BE COVERED 
+The course will consist of the following chapters in the text and complementary notes. The video lectures may not 
+cover the material in the same sequence as in the text. Although the text places some emphasis on the use of vector 
+mechanics operations (see overleaf), the course will rely mostly on the use of scalar operations. It is assumed that 
+students have not covered calculus integration in other courses and integration is not required in this course. 
+
+TEXT 
+
+Chapter 1 
+
+General Principles 
+
+Chapter 2 
+
+Force Vectors 
+
+Chapter 3 
+
+Equilibrium of a Particle 
+
+Chapter 4 
+
+Force System Resultants (In Section 4.8 omit Reduction to a Wrench; In Section 4.9 omit distributed 
+loads other than uniform, uniformly varying, and combinations thereof) 
+
+Chapter 5 
+
+Equilibrium of a Rigid Body. The vector mechanics operations listed on the back of this document will 
+normally be covered as a second aspect of this chapter.  
+
+Chapter 6 
+
+Structural Analysis (Omit Section 6.5 on Space Trusses) 
+
+Chapter 7 
+
+Internal Forces (Omit Section 7.4 on Cables) 
+
+Chapter 8 
+
+Friction (Omit this Chapter) 
+
+Chapter 9 
+
+Centre of Gravity and Centroid. Only areas consisting of rectangles, triangles and circles will be 
+covered, and only volumes consisting of related prismatic shapes. (Omit Sections 9.3 and 9.4; In 
+Section 9.5 omit fluid pressure acting on curved surfaces) 
+
+Chapter 10 
+
+Moment of Inertia (Second Moment of Area) (Omit Sections 10.3, 10.5, 10.6, 10.7 and 10.8) 
+
+Chapter 11 
+
+Virtual Work (Omit this Chapter) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMPLEMENTARY NOTES 
+
+Chapter 1 
+
+Axial Stress and Strain, Hooke’s Law, Buckling. Included: Sections 1.1 and 1.2  
+(Optional: Sections 1.3, 1.4 and 1.5) 
+
+Chapter 2 
+
+Load, Pressure, and Stress Blocks. Included: Sections 2.1, 2.2 and 2.3 
+
+Chapter 3 
+
+Stresses Due to Bending of Beams. Included: Sections 3.1, 3.2 and 3.3 (Optional: Section 3.4) 
+
+These interesting applications of mechanics to design are presented in the video lectures, but are optional subjects and 
+will not be covered in the tests and exams in this course:  
+
+(i)  Design of tension members using yielding as the failure criterion 
+(ii) Design of beams using initial yielding due to bending moment as the failure criterion 
+
+***************************************** 
+
+TOPICS IN VECTOR MECHANICS 
+
+With one important exception the course material will be taught using scalar mechanics. The exception is the 
+
+use of vector operations including vector (‘cross’) and scalar (‘dot’) products for solving problems in mechanics 
+requiring the summation of forces and of moments of forces about lines and points in the three-dimensional space. The 
+following topics will be covered as specific material: 
+
+- 
+
+- 
+
+- 
+
+vector representation of forces and lines using either unit vectors or parenthetical notation, e.g. (p, q, r) 
+
+computing a unit vector in a given direction 
+
+scalar and vector components of a forced in the direction of a given line (dot product followed by the scalar 
+multiplication of a unit vector) 
+
+-  moment of a force about a point (cross product) 
+
+-  moment of a force about a line passing through the point (cross product followed by a dot product) 
+
+-  moment of a force about a line expressed as a vector 
+
+- 
+
+equilibrium problems in three dimensions. 
+
+September 2025 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

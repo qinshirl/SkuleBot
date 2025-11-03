@@ -1,0 +1,211 @@
+Practise Problem Set 2
+
+MAT 187 - Summer 2025
+
+These questions are meant for your own practice for quiz 2 and are not to be handed in.
+Some of these questions, or problems similar to these, may appear on the quizzes or exams.
+Therefore, solutions to these problems will not be posted but you may, of course, ask about
+these questions during office hours, or on Piazza.
+
+Suggestions on how to complete these problems:
+
+• Solution writing is a skill like any other, which must be practiced as you study. After
+you write down your rough solutions, take the time to write a clear readable solu-
+tion that blends sentences and mathematical symbols. This will help you to retain,
+reinforce, and better understand the concepts.
+
+• After you complete a practice problem, reflect on it. What course material did you
+use to solve the problem? What was challenging about it? What were the main ideas,
+techniques, and strategies that you used to solve the problems? What mistakes did
+you make at the first attempt and how can you prevent these mistakes on a Term Test?
+What advice would you give to another student who is struggling with this problem?
+
+• Discussing course content with your classmates is encouraged and a mathematically
+healthy practice. Work together, share ideas, explain concepts to each other, compare
+your solutions, and ask each other questions. Teaching someone else will help you
+develop a deeper level of understanding. However, it’s also important that reserve
+some time for self-study and self-assessment to help ensure you can solve problems on
+your own without relying on others.
+
+1. For each of the following, evaluate the integral using the definition or show it diverges.
+
+1
+
+0
+
+(a) (cid:82) ∞
+(b) (cid:82) 1
+(c) (cid:82) ∞
+(d) (cid:82) ∞
+(e) (cid:82) 1
+
+ln x
+x2 dx
+1√
+1−x2 dx
+1
+1+x2 dx
+0 xe−xdx
+ln x√
+x dx
+
+0
+
+0
+
+2. For each of the following, evaluate the integral using the definition or show it diverges.
+
+(a) (cid:82) 1
+
+−1
+
+1√
+
+|x|
+
+dx
+
+(b) (cid:82) 1
+
+0
+
+1
+x ln x dx
+
+1
+
+(c) (cid:82) 2
+
+−1
+
+1
+
+(x−1)2 dx
+
+3. For each of the following, use the comparison test to determine if the following converge
+
+0
+
+1
+
+1
+
+or diverge.
+(a) (cid:82) ∞
+(b) (cid:82) 1
+(c) (cid:82) 1
+(d) (cid:82) ∞
+(e) (cid:82) ∞
+
+x(ln x)2 dx
+1√
+x+x dx
+1
+x0.9(1−x)0.9 dx
+x
+1+x3 dx
+ln x
+xp dx
+
+0
+
+0
+
+2
+
+(where p > 1)
+
+4. Consider the function
+
+f (x) =
+
+4x
+(4x2 − 4x + 2)(x − 1)2
+
+(a) Evaluate the indefinite integral (cid:82) f (x)dx.
+
+(You may have already done this in
+
+Practise Problem 1)
+
+(b) Which of the following improper integrals converge?
+
+(cid:90) 0
+
+−∞
+
+f (x)dx
+
+(cid:90) 1
+
+−10
+
+f (x)dx
+
+(cid:90) 10
+
+1
+
+f (x)dx
+
+(cid:90) ∞
+
+10
+
+f (x)dx
+
+5. Consider the following improper integral.
+
+(cid:90) ∞
+
+√
+
+I =
+
+√
+
+x − 1
+x(x3/2 + 1)
+
+dx
+
+0
+(a) Write the improper integral I as a sum of limits of proper integrals.
+(b) Use the substitution x = u2 to calculate the proper integrals you obtained in part
+
+(a).
+
+(c) Does the improper integral I converge or diverge? If it converges, find its value.
+
+6. In a heat sink design, a thin metal fin conducts heat away from a base located at x = 0.
+
+The heat flux q(x) along the length of the fin is modeled by:
+
+q(x) =
+
+1
+√
+x
+
+where x is the distance (in meters) from the base of the fin, and q(x) is measured in
+watts per meter.
+
+Compute the total heat conducted (in watts) from the base to a point 1 meter away:
+
+7. An infinitely long, straight wire lies along the x-axis and carries a uniform linear charge
+density of λ = 1 µC/m. Let P be a point located a distance a > 0 meters above the
+origin on the y-axis.
+
+(a) Using Coulomb’s law and symmetry, derive an expression for the vertical component
+of the electric field Ey at point P , due to a small element of charge dq = λ dx at
+position x on the wire.
+(Hint: Use the formula for the electric field due to a point charge and express the
+vertical component in terms of x and a.)
+
+(b) Set up and evaluate the improper integral that gives the total vertical electric field
+
+Ey at point P . Does the integral converge?
+
+2
+
+

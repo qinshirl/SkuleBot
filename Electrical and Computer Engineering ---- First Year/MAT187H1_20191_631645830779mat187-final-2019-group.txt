@@ -1,0 +1,212 @@
+University of Toronto, Faculty of Applied Science and Engineering
+
+MAT187H1S – Calculus II – Final Exam – Group Part - April 16, 2019
+Examiners: G. Chen, S. Cohen, B. Galv˜ao-Sousa, P. Milgram, F. Parsch, M. Pugh
+
+Time allotted: 45 minutes
+
+Total marks: 8
+
+No aids permitted
+
+Name
+
+UTorID
+
+email @mail.utoronto.ca
+
+Instructions
+
+(READ CAREFULLY)
+
+• DO NOT WRITE ON THE QR CODE AT THE TOP OF THE PAGES.
+
+• Read all the instructions carefully.
+
+• This test contains 8 pages and a detached formula sheet. Make sure you have all of them.
+
+• You can use pages 6–7 for rough work or to complete a question (Mark clearly).
+
+DO NOT DETACH ANY PAGES.
+
+• No calculators, cellphones, or any other electronic devices are allowed. If you have a cellphone
+
+with you, it must be turned oﬀ and in a bag underneath your chair.
+
+GOOD LUCK!
+
+MULTIPLE-CHOICE PART.
+
+(2 marks)
+
+ANSWER THESE QUESTIONS ON PAGE 8.
+
+Only your answer on page 8 will be graded.
+
+1.
+
+(1 mark) The power series
+
+convergence of
+
+∞
+(cid:88)
+
+n=0
+
+(A) R = 0
+
+(B) R =
+
+1
+e
+
+(C) R = 1
+
+an(x − 4)n has radius of convergence R = e. What is the radius of
+
+∞
+(cid:88)
+
+n=0
+
+(cid:19)n
+
+(cid:18) x − 2
+e
+
+an
+
+?
+
+(D) R = e2
+
+(E) R = ∞
+
+2.
+
+(1 mark) From the following functions, select ALL that satisfy f (2019)(1) = 2019.
+
+(A) f (x) = −(x − 1) cos(x − 1)
+
+(B) f (x) = (x − 1) cos(x − 1)
+
+(C) f (x) = sin(x − 1)
+
+(D) f (x) =
+
+(E) f (x) =
+
+∞
+(cid:88)
+
+n=1122
+n=1122
+n=1122
+∞
+(cid:88)
+
+n=2305
+n=2305
+n=2305
+
+(−1)n−1
+(n − 1)!
+
+(−1)n−1
+(n − 1)!
+
+(x − 1)n
+
+(x − 1)n
+
+LONG ANSWER PART
+
+3. You work for a roller coaster construction company and Canada’s Wonderland
+
+(6 marks)
+
+is asking you to design a new ride. Your job is to design a speciﬁc part of the ride.
+
+The trajectory should follow the curve given by
+
+(cid:28)
+
+(cid:126)r(t) =
+
+(cid:90) t
+
+b
+
+0
+
+cos(u2) du ,
+
+ct
+
+,
+
+b
+
+(cid:29)
+
+sin(u2) du
+
+(cid:90) t
+
+0
+
+in metres,
+
+for 0 (cid:54) t (cid:54) 10 seconds.
+
+Consider parts (a) and (b) as independent.
+
+(a) (1 mark) Riders should never exceed a speed of 50 m/s. What are the restrictions on b and c?
+
+Your answer should not include t. Justify your answer.
+
+(b) (1 mark) Taking safety and durability into account, the curvature should not exceed 1
+
+10 m−1.
+What are the restrictions on b and c? Your answer should not include t. Justify your answer.
+
+Note. For this question, do not use the restrictions that you found in (a).
+
+(c) (1 mark) Give values b (cid:54)= 0 and c (cid:54)= 0 that fulﬁl all the above design requirements. Your answer
+
+should not include t. Justify your answer.
+
+(d) (1 mark) Your manager asked you to calculate (cid:126)r(1) .
+
+Approximate using Taylor polynomials of degree 4 centred at 0. Justify your answer.
+
+(cid:42)
+
+(cid:126)r(1) ≈
+
+,
+
+,
+
+(cid:43)
+
+(e) (2 marks) Using your approximation in (d), ﬁll in the boxes below. Justify your answer.
+
+(cid:54)
+
+(cid:90) 1
+
+0
+
+cos(u2) du (cid:54)
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS.
+
+If you wish to have this page marked, make sure to refer to it in your original solution.
+
+

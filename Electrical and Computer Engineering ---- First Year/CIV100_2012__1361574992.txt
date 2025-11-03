@@ -1,0 +1,118 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 9   
+Due: 4:00 pm on Friday November 09, 2012 
+In SF3201 
+
+1.  Locate the centroid of the z-section with reference to the 
+origin. Show the result on a separate section sketch. All 
+dimensions shown are in mm. 
+
+24 
+
+y  
+
+100 
+
+O  
+
+80 
+
+80 
+
+18 
+
+70  
+
+x  
+
+16 
+
+2.  Locate the centroid of the composite area. Show 
+
+the result on a separate sketch. 
+
+20 kN  
+
+15 kN  
+
+10 kN  
+
+3.  A truss structure is supported by one roller 
+
+and one pin and subjected to four point loads 
+as shown.  
+
+A  
+
+i.) Assuming that the truss members have a 
+mass per unit length of 20 kg/m and g=10 
+m/s2 for simplicity, locate the centre of mass 
+with reference to origin and show it on a new 
+sketch. Ignore all point loads shown. 
+
+B  
+
+C  
+
+25 kN  
+
+D  
+
+F  
+
+y  
+
+6.0 m  
+
+O  
+
+x  
+
+4.0 m  
+
+4.0 m  
+
+4.0 m  
+
+ii.)  Determine the support reactions due to the self-weight of the truss. Ignore all point loads shown. 
+
+iii.)Using the method of sections, determine the internal forces of members BD, CD, CO, DF and OF.
+  Use a new FBD. Indicate whether the members are in compression or tension. Neglect the self-
+  weight of the members. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

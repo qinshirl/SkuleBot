@@ -1,0 +1,334 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 1
+
+Instructor: Arman Pannu
+
+We will start at 6:10, use this time to make a new friend
+
+ 
+About MAT187
+
+↭ Continuation of Calculus I:
+
+↭ Key topics:
+
+↭ Integration Techniques
+
+↭ Sequences & Series
+
+↭ Taylor Approximations
+
+↭ ODEs
+
+↭ Emphasis: Engineering applications & problem-solving.
+
+Course Structure
+
+↭ Pre-Class Essentials (PCEs): short readings + quizzes
+
+before class.
+
+↭ Lectures: 6 hours/week, fast-paced.
+
+↭ Tutorials: Weekly, review and preparation for quiz.
+
+↭ Self Study: Double pace course
+
+Study twice as much
+
+→
+
+↭ Weekly Quiz: Demonstrate your knowledge.
+
+Assessments Overview
+
+↭ PCEs: 10% (best 25 of 32).
+
+↭ Quizzes: 50% (6 total; weighted).
+
+↭ Final Exam: 40%.
+
+↭ Optional Mini-Project: Can replace part of quiz weight,
+
+bonus marks possible.
+
+ 
+Key Online Platforms
+
+↭ Quercus: Course materials & announcements.
+
+↭ Gradescope: Quizzes & grading.
+
+↭ Piazza: Discussion forum.
+
+↭ Zoom: Some o!ce hours/online lectures.
+
+Contact Information and E-mail Policy
+
+arman.pannu@mail.utoronto.ca
+
+↭ Include ”MAT187” in the subject title.
+
+↭ Ask questions on Piazza whenever possible.
+
+↭ Refrain from sending math questions over email.
+
+↭ I will try to respond to all e-mails in 24 hours.
+
+O!ce Hours
+
+Friday 11-12?
+
+Any questions?
+
+Let’s Review Di”erentiation!
+Ifcasting.FId
+
+slope of tangent
+rate of
+
+change in
+
+F with change
+time
+input
+
+in
+
+1,4
+
+Techniques
+
+for
+
+diffrentiation
+
+power
+
+rule
+
+day xn
+
+nx
+
+Product quotient
+
+rule
+
+chain
+
+rule
+
+Let’sReviewIntegration!FHAIFw.itIrenaContinoussomintegralallowsustotakecontinoussumsdensityFxexitFIXTsMiMaM3tanksf'fCadxKgperitemaKgpermeterFundamental Theorem of Calculus
+
+JIG dx
+
+a
+
+F b Fca
+
+where
+
+F x
+
+FG
+
+F
+
+is
+
+anti derivehe
+
+motivation
+
+to
+
+talk
+
+about
+
+anti derivatives
+
+ffCx dx
+
+indefinite
+anti derivative
+
+integral
+
+Compute anti derivates
+
+x'dy
+
+fsincx dx
+
+x'lac
+
+Cosa
+
+t
+
+frostydx
+
+since c
+
+Integration by
+
+substitution
+
+fCg x g x dx
+
+Fco do
+
+u g x
+
+ex
+
+fxsin x dx
+
+demuative
+
+T.IE
+
+2x
+
+x
+
+sinco do
+
+Cosco
+
+Cos x2
+
+C
+
+C
+
+do 2xdx
+
+Integration by Parts
+
+reverse
+
+of
+
+product
+
+role
+
+Fg gf
+Fg
+fg fig fgf
+fg ffg fgf
+Sfg Fg fgf
+
+a
+start
+
+integration by parts
+
+one
+
+exchange
+
+in
+
+differentiating other part
+
+9
+integral
+part
+for
+
+e x
+
+fee 1 dx
+
+e x
+
+e
+
+xex dx
+
+´
+
+ex
+
+e
+
+g x
+
+L
+
+x 2ex dx
+
+´
+
+fY
+
+gun
+
+ln(x)dx
+
+´
+
+Xin x fx dx
+ffdx
+Xin y
+
+XInCxxc
+
+sin2xdx
+
+´
+
+Sin x
+
+sine dy
+
+Fa sin x
+g x
+
+sin x
+
+g x
+
+cos x
+
+cos x since
+
+cos
+
+x sin x
+
+cos Cx Sin x
+
+cos x dx
+
+fl ios x
+fcosa x dy
+fl
+
+sin x dy
+
+fsin x dx
+
+cos
+
+x sin x
+
+xx
+
+x dx
+
+fsin
+
+fsin x dx
+
+ecosysindx
+
+

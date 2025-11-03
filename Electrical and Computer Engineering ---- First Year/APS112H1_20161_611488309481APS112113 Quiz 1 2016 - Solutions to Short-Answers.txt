@@ -1,0 +1,386 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+
+Quiz #1 February 12, 2016 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total of 19 
+questions, worth 30 marks. The questions are divided between two booklets.  
+
+Question Booklet #2 – Short-Answer Question Booklet 
+
+First Name: 
+
+Last Name: 
+
+UTOR Email: 
+
+There are 4 short-answer questions, worth 15 marks in total. These must be answered in the 
+spaces provided in this Short-Answer Question Booklet. This question booklet, with your name 
+and UTOR Email filled in, must be returned along with the multiple-choice answer sheet. Do not 
+separate any pages. Do not write on the QR code at the top of the pages. 
+
+@mail.utoronto.ca 
+
+Page 1 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We are not looking for long paragraph answers. Use the spaces provided on the question paper 
+to write your answers in short sentences or bullet points for Questions 16-19. (Questions 1 to 15 
+are found in the multiple-choice question booklet.) 
+
+All short-answer questions refer to the following problem statement and figure: 
+
+Figure 1: This is a solar panel on a vertical post. It can rotate around a vertical axis at the base of the post. 
+There is very little friction, so it would be easy for a person to rotate the panel by hand.  
+(Figure based on a Sketchup model Solar Tree 1.0 uploaded by Simon V. on 12/13/13 to the 3d warehouse at 3dwarehouse.sketchup.com) 
+
+You are designing an ultra-low-cost tracking system to rotate a solar panel to follow the sun 
+from morning to night. (You are not designing the panel or post. The solar panel already exists 
+and is mounted on a post with a freely rotating base.)  
+
+A typical commercial tracking system has sensors and motors and is computer controlled. You 
+need to design a mechanical system that can be set in motion by a human each morning, and 
+will approximately follow the sun during the day with no further human assistance. The target 
+market is remote and isolated communities in northern Bangladesh that have no access to 
+power, and have a low level of technological development. 
+
+16.  (4 MARKS) List ONE Function, TWO important objectives and ONE important constraint for 
+
+the design.  
+
+FUNCTION: 
+
+1)   Track the sun – sense position of the sun – actuate to move the panel  
+
+OBJECTIVES:  
+
+1)   As X as possible    X = inexpensive, durable, intuitive (easy to operate), reliable, easy to 
+
+maintain,  etc.  
+Suitable metrics and goals could be added to each of these but are not required here.  
+
+CONSTRAINT:  
+Design must be X :  Any concrete  X will do the job.  Safe, Less than $2, Maintainable with local 
+materials, etc.  
+
+Page 2 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17. (2 MARKS) When designing the tracking device, you are asked to draw on analogies to 
+
+provide ideas. Provide a useful analogy, and explain what type of analogy it is and how it is 
+relevant to the current problem.  
+
+The design will have to include several subfunctions, and we could find suitable analogies for 
+each.  Subfunctinos include storing energy, a slow timing mechanism to calibrate release of 
+energy, or a sunshine tracking device, an actuation device. 
+
+Sunshine tracker 
+
+Biological analogy:   
+
+•  Sunflower or other plant that follows the sun? 
+
+Personal analogy:   
+
+•  How does a person do it – sensing the position of the sun for sunbathing (with eyes 
+
+closed perhaps)? 
+
+Technical analogy:   
+
+•  How would we sense a light for a motion detector or some other camera? 
+•  How does a sundial work? 
+
+Clock Mechanism 
+
+Technical analogy:  
+
+•  How does a clock mechanism work? 
+•  How does an hour glass work? 
+
+Energy Storage for gradual release 
+
+Technical Analogy 
+
+•  How is energy stored in a grandfather clock?  In a wind up watch? 
+
+Biological Analogy 
+
+•  Energy lost from a melting icicle (storage and clock?)  
+
+1 mark for identifying a USEFUL i.e. relevant analogy and 1 mark for naming it.  
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. (4 MARKS)  One solar panel generates 100 W (1 Watt = 1 J/s) at noon during full sunshine. 
+In the village, solar energy is stored in batteries and used after dark only to provide light for 
+reading and other nighttime activities.  
+
+In the space below, estimate how many solar panels are needed for a village of 1000 people 
+in a remote and underdeveloped part of northern Bangladesh. You must compute an actual 
+number, and show the steps used in making your estimate. Most of the marks will be 
+assigned for showing that you know how to do such a calculation.  
+Do all calculations using Watt-hours (Wh) as your unit of energy.  
+
+Useful Information: A bright LED flashlight needs 4W of power.  
+
+BASIS is 1 day: 
+
+Energy consumed 
+
+1000 people x 1 household/5 people =  200 households 
+
+200 households x 2 lights per household x 3 hours per day x 4 W/light ~  5000 W hrs 
+
+Energy generated  
+
+100W/panel x 12 hours of daylight x .7 average of noon power output during the day (assuming 
+
+tracking) x .7 loss of efficiency going to the battery and back  
+
+= 600 W hrs/day per panel 
+
+5000W hrs / 600 W hrs/panel = 8 panels   
+
+It is not necessary to have every factor. It is not necessary to use the same numbers.    
+Reasonable estimates could result in  
+
+2000 W hrs <energy consumed < 20000 W hrs 
+
+The output of the panel should be estimated much tighter:  
+
+300 W hrs < energy generated < 1200 W hrs (hard maximum) 
+
+So the answer could vary quite widely as follows  
+
+(20,000 W hrs/300 W hrs  per panel) 60 panels > answer > 2 panels (2000 W hrs/1200 W hrs)  
+
+1 mark for having the general method correct including not using too many significant figures in 
+the calculations 
+1 mark for identifying the need to estimate consumption and generation 
+1 mark for capturing most of the basic assumptions 
+1 mark for an answer in range, assuming that the method has been followed.  
+0 marks for a guess
+
+Page 4 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5 MARKS) IN THE SPACE BELOW, provide a Functional Decomposition of the required 
+tracking device, propose some viable solutions for the main subfunctions, and propose an 
+overall solution.  
+
+Some hints are in the previous question:  The main function is to rotate the panel in to keep 
+it as perpendicular as possible to the sun.  A human will “set” it in the morning, and then go 
+off to work.  By using such a device, an extra 30% efficiency can be gained over a stationary 
+panel.  
+
+Subfunctions:  
+•  Store energy  
+•  Convert energy to movement of the panel.  
+•  Timing mechanism   OR   Solar tracking mechanism 
+
+You can simply brainstorm solutions for the subfunctions, or you can use SCAMPER, Triz, 
+Analogy or some other technique to help you generate more possible solutions.  
+
+Simple solutions for storing energy:  Lift a weight.  Start with a fresh candle or piece of wood 
+(which has chemical energy)  Compress air in a 2L pop bottle, wind up a spring, etc.  
+
+Simple solutions for converting energy to movement.  Weight drops slowly and moves a rope 
+attached to one side of the panel.  Air expands and pushes a plunger.  Spring (bungee cord) 
+retracts and pulls on the panel. Heat from candle expands air in piston attached to the panel. 
+
+Simple timing mechanisms:  water dripping from a tiny hole in a bottle.  Sand pouring out of a 
+hole in a bucket.  Slow burn of candle.  Pendulum and gear mechanism like a grand father 
+clock.  Movement through a very viscous medium. 
+
+Simple tracking mechanism:  Wax that melts when shadow moves and exposes it to sunlight.  
+Long tube or slot with solar cell in the end – generates power only when lined up with the sun.  
+Anything that is painted black and heats in the sunshine so that it moves to put itself back in the 
+shade – bimetal strip.  Gas in a pipe. Etc.  
+
+Any combination would be ok.   
+
+1)  Human pumps up an old car innertube that slowly leaks into a bicycle pump pushing it 
+
+out over the day rotating the panel.  
+
+2)  Human winds up a spring and puts in a square of black wax to hold it in place.  When 
+the sun moves and hits the wax it starts to melt and the panel rotates it so it is back in 
+the shade.   
+
+1 mark for knowing what a functional decomposition is and making an effort.  
+1 mark for getting the key subfunctions 
+1 mark for generating at least two solutions for storing energy 
+1 mark for generating at least two solutions for timing  AND/OR tracking 
+1 mark for putting it together in a final answer 
+
+Page 5 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Do NOT write on this page 
+
+Page 6 of 6 
+
+ 
+ 
+

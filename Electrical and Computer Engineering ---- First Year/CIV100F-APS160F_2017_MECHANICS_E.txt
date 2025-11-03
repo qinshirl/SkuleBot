@@ -1,0 +1,375 @@
+i· 
+
+~-
+
+£Bl 8111 
+
+final-exam-f6d53 
+
+1  sf  7 2 
+
+-
+
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIVJ00F and APS160F -MECHANICS 
+
+Final Examination - Sections 1, 2, 3, 4,  5, 6, 7, 8 and Online 
+
+Thursday, 14th  December 2017 
+
+Examiner: Staff in Civil Engineering 
+
+Time allowed:  2-½ hours 
+
+SURNAME: ________  GIVEN NAME(S): ________  _ 
+
+(Please print clearly) 
+
+STUDENT NUMBER: 
+
+- - - - - - - - -
+
+DEPT. (ECE, Track One, etc.) 
+
+- - - - - -
+
+CIRCLE YOUR SECTION AND THE NAME OF YOUR INSTRUCTOR: 
+
+1.  Panesar, Daman 
+
+5.  El-Diraby, Tamer 
+
+Online.  Seica, Michael 
+
+2.  Saxe,Shoshanna 
+
+6.  Tousignant, Kyle 
+
+3.  Mercan, Oya 
+
+7.  Xia, Kaiwen 
+
+4.  Bruun, Edvard 
+
+8.  Packer, Jeffrey 
+
+CIRCLE YOUR CALCULATOR TYPE: 
+
+CASIO 991 
+
+SHARP 520 
+
+Notes:  1. Ensure that you  have all 12  pages of the examination paper. Page 12 is blank. 
+
+2. Answer all five questions. The value of the questions is  indicated below. 
+
+3. If you  need more space for a  question, continue on the page indicated at the bottom. 
+
+4. The only calculators permitted are listed above. Please circle your model. 
+
+5. This is  a  closed-book examina_tion. No other paper will be allowed on the desk. 
+
+6.  Do not remove the staple. 
+
+DO NOT WRITE IN THIS SPACE. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+TOTAL 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/60 
+
+[!] ~ □ F63A2C60-560A-466D-9BBC-53FAA31DA66F 
+
+~~" :~«  .. .....r  -·~~"!1-TGt~.\.,"ti,::,,,aN'~'oQf:~-J ... 
+
+... 
+
+~ •  final-exam-f6d53 
+□~ #132 
+
+.... 
+
+2  of  12 
+
+.-
+
+._..,,. 
+
+NAME: -----------------
+
+Page 2 of 12 
+
+1. The 7.5  m-long timber floor beam,  having a square cross-section,  is  to  be designed to  carry the  loads 
+shown. Because only  5 m-long timbers are available, the beam  is  to  be fabricated from  two pieces 
+connected together by a nailed joint, D.  You are required to: 
+(a) In the  space provided, draw the shear force and bending moment diagrams for the beam  indicating the 
+values at points A, B, and C,  and any potential  local maxima and  minima; 
+(b) If wood has a strength of30 MPa,  in  both tension and compression, determine the required size, a,  for 
+the beam such that it can  safely carry the floor loads. The load factor for timber in  bending is  l .67; and 
+( c) Determine the distance b for the  most advantageous position of the joint D, knowing that nailed joints 
+are strong in shear but weak in  bending. 
+
+\' 
+
+~-5 w.. 
+
+A 
+
+5m  ----~--2.5 m 
+
+Detail  of joint at D 
+
+Solution can be continued on Page 3 
+
+0BO6F122-843C-45A4-9113-9CCSEB75C6BB 
+
+final-exam-f6d53 
+
+#132 
+
+3  of  12 
+
+NAME: -------------------
+
+Page 3 of 12 
+
+Question  I can  be continued on this page. 
+
+Solution can  be continued on  Page  12 
+
+8B08CBCF-D8C0-415F-B639-7B9442515AF1 
+
+final-exam-f6d53 
+
+#132 
+
+4  of  12 
+
+• 
+
+• 
+
+NAME: -----------------
+
+Page 4  of 12 
+
+2.  Determine the tension  in  the cable at B when the  180 N  force  is  applied to  the pedal at E.  Also, calculate 
+the reaction force components at the pins at A and D.  If the cable at B has a diameter of 7 .0 mm and the 
+yield stress of the cable material  is  70  MPa, determine the actual  load (safety) factor for the cable.  In  your 
+opinion,  is this a  'safe' design? In all  your calculations, neglect friction  and the mass of the components. 
+
+Solution can  be continued on Page 5 
+
+496BF221-EOCE-4C76-8555-ABFE4BE69709 
+
+final-exam-f6d53 
+
+#132 
+
+5  of  12 
+
+NAME: _____________  _ 
+
+Page 5 of 12 
+
+Question 2 can  be continued on  this page. 
+
+Solution can  be  continued on  Page  12 
+
+.. 
+
+■ ..  □ 
+! 
+.. 
+.... ~~-
+■ ..  a ... 
+
+4EAD4315-FA62-421B-A32C-120C09F7DBFO 
+
+final-exam-f6d53 
+
+#132 
+
+6  of  12 
+
+NAME: _ __ __ ___ ____  _ 
+
+Page 6 of 12 
+
+3. The fresh  water channel  illustrated can be emptied by opening the 6,300 kg solid gate ABC (represented 
+in  cross-section). The gate is  5  m wide (into the paper), is  pinned at A,  rests against the vertical wall at B 
+and can be operated by pulling on  the cable attached to  it  at C.  Determine the  minimum magnitude of the 
+force,  F, required to open the gate. 
+
+Solution can  be continued on Page 7 
+
+797E6125-88AC-4084-BB61-D9DA2EF68084 
+
+final-exam-f6d53 
+
+#132 
+
+7  of  12 
+
+NAME: ------------------
+
+Page  7 of 12 
+
+Question 3 can  be continued on  this page. 
+
+Solution can  be continued on Page  12 
+
+4D5146AF-C24F-4E69-88D6-88015DC60810 
+
+final-exam-f6d53 
+
+#132 
+
+8  of  12 
+
+... 
+
+NAME: - - - - - - - - - - - - - - - -
+
+Page 8 of 12 
+
+4. Determine the force  in  members BC,  CJ,  DF, FH, Hf and state if the  members are  in  tension or 
+compression. Members CJ,  DF and FH are  to  be fabricated  using the same circular hollow section having 
+an external diameter of 30  mm  and a yield  stress of 150 MPa.  Knowing that the  load factor for  members in 
+axial  tension  is  1.5, determine the minimum  wall  thickness of the cross-section,/, such that the three 
+members are safe.  The wall  thickness can be selected in  0.5  mm  increments. Also,  what is  the elongation 
+of member DF? The modulus of elasticity for the material  is  69,000 M Pa. 
+
+t 
+
+E 
+00 
+
+E 
+
+G 
+
+1.2  m 
+
+1.2  Ill 
+
+00 P- 15  kN 
+
+\I 
+
+E 
+00 
+
+5 kN 
+
+L, 
+
+Solution can  be continued on Page 9 
+
+.-
+
+4.• 
+
+2373A81B-0753-4905-BBAB-B5A59F9EE29F 
+
+final-exam-f6d53 
+
+#132 
+
+9  of  12 
+
+NAME: ------------------
+
+Page 9 of 12 
+
+Question 4 can  be continued on this page. 
+
+Solution can  be  continued on  Page  12 
+
+.. 
+
+OA76EF7A-058D-4D17-81El-7C838B10BDF9 
+
+final-exam-f6d53 
+
+#132 
+
+10  of  12 
+
+NAME: -----------------
+
+Page  JO  of 12 
+
+5.  The frame  shown is  supported by a ball-and-socket joint at A  and a pin at C.  (The pin  is  similar to  a 
+ball~and-socket joint that was  modified to  allow translation  in  the x-direction.) The strut EF has a ball-and 
+socket joint at each end. The cable EBD  runs over a small  frictionless pulley at B and carries a 2,700 N 
+weight at D. Neglecting the weight of the members, determine the force exerted by member EF on  the 
+frame at F  and the magnitude of the total  reaction at  C. 
+
+z 
+
+Dimensions  in  metres 
+
+Solution can  be continued on Page  11 
+
+....... 
+
+AOB39AF5-26C8-4D55-9A3B-60Al6F99663F 
+
+final-exam-f6d53 
+
+#132 
+
+11  of  12 
+
+NAME: ____________  _ 
+
+Page  11  of 12 
+
+Question 5 can  be continued on this page. 
+
+Solution can  be  continued on  Page  12 
+
+066F7D30-4B66-4792-9215-4E04BAA4E490 
+
+final-exam-f6d53 
+
+#132 
+
+12  of  12 
+
+Ii 
+□  • I 
+
+NAME: -----------------
+
+...... -
+,.,  . 
+
+.  .... 
+
+Page  12 of 12 
+
+

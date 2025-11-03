@@ -1,0 +1,181 @@
+Page 1 of  
+
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIV100S - MECHANICS 
+
+Final Examination 
+
+2611  April 2018 
+
+Examiner: Prof. Michael Seica 
+
+Time allowed: 2-'/2 hours 
+
+FAMILY NAME: 
+
+GIVEN NAME(S): 
+
+(Please print clearly) 
+
+STUDENT NUMBER: 
+
+CIRCLE THE MODEL NUMBER OF YOUR CALCULATOR: 
+
+CASIO FX991 
+
+SHARP EL520 
+
+NOTES: 1. Ensure that you have all 7 sheets of the examination paper. Page 7 is blank. 
+
+Answer all five questions. The value of the questions is indicated below. 
+
+If you need more space for a question, please use the back of the preceding question. In 
+
+all cases, please indicate clearly where your calculations are continued. 
+
+The only calculators permissible are listed above. Please circle your model. 
+
+This is a closed-book examination. No other paper will be allowed on the desk. 
+
+Do not remove the staple. 
+
+DO NOT WRITE IN THIS SPACE. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+TOTAL 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/60 
+
+NAME: 
+
+Page 2 of 7 
+
+1. The 7.5 rn-long timber floor beam, having a 180x180 mm square cross-section (a = 180 mm), is loaded 
+as shown. Because only 5 rn-long timbers are available, the beam was fabricated from two pieces 
+connected together by a nailed joint, D. You are required to: 
+
+In the space provided, draw the shear force and bending moment diagrams for the beam, indicating the 
+
+values at points A, B, and C, and any potential local maxima and minima; 
+
+If the distance b = 4.2 rn, determine whether the location selected for joint D is advantageous, knowing 
+
+that nailed joints are strong in shear but weak in bending. 
+
+If wood has a strength of 20 MPa in both tension and compression, determine whether the beam as 
+
+designed can carry the loads safely? What is the implied load factor? 
+
+_i  1a.5IAk 
+
+Mi 
+[ERR RREEK,  
+
+P,.O k-N/m 
+
+Detail of joint at D 
+
+A 
+
+NAME: 
+
+Page 3 of 7 
+
+2. A vertical section of an oil sump is shown. The access plate at the bottom covers a rectangular opening 
+which has dimensions of 600x400 mm. Calculate the total force R exerted by the oil on the plate and the 
+location x of R. If the plate is attached to the sump wall with two bolts at A and two bolts at B, calculate 
+the force in each of the bolts. The distance from the centre of the bolts to the edge of the wall opening is 
+75 mm (i.e. AB = 750 mm). The oil has a density of 900 kg/ni3. 
+
+NAME: 
+
+Page 4 of 7 
+
+3. Neglecting the weight of the members, determine the magnitude of the pin reaction force components at 
+B, D and E when the frame illustrated is loaded by the couple shown. Show your final answers on a 
+summary sketch of the members of the frame. 
+
+200 
+
+.400 
+
+8  I.1 
+r) 
+
+D 
+
+I 
+I . Pie  F 
+
+i 
+
+00 
+2N-m 
+
+E 
+
+• 
+
+200 
+
+Dimensions in mm 
+
+ 
+NAME: 
+
+Page 5 of 7 
+
+4. The window below has a mass of 20 kg, which acts at the geometric centre of the window, at G. The 
+window is attached at A and B by two hinges which can be idealized as ball-and-socket supports. Find all 
+forces acting on the window when it is held open in the position shown by the rope attached to it at C. The 
+hinge at B has been modified to allow translation along its own axis of rotation (i.e. in the x direction). 
+
+NAME: 
+
+Page 6 of 7 
+
+5. Determine the force in members BC, CJ, If, FH and HI, and state if the members are in tension or 
+compression. From a different loading condition than that shown, the tension force in member DF has a 
+magnitude of 31.4 kN, and this member is fabricated using a circular solid section made of steel with a 
+yield stress of 200 IviPa and a modulus of elasticity of 200,000 MPa. Knowing that the load factor for 
+members in axial tension is 2.0, determine the minimum diameter of the circular cross-section, d, such that 
+member DF is safe. The diameter of the section can be selected in 0.20 mm increments. Also, what is the 
+elongation of member DF, as designed? 
+
+E 
+
+00 
+
+F 
+
+HI 
+
+NAME: 
+
+____ 
+
+Page 7 of 7 
+
+

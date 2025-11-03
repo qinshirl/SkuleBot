@@ -1,0 +1,288 @@
+MAT 186 
+Quiz 3 
+
+AB4 
+
+CF1 
+
+Name: ________________________________ 
+
+Student number:_______________________ 
+
+1. Evaluate: 
+
+Method I: 
+
+Method II: 
+
+|𝒙𝟐 − 𝟒𝒙 + 𝟑|
+|𝒙 − 𝟑|
+
+𝐥𝐢𝐦
+𝒙→𝟑
+
+|𝑥2 − 4𝑥 + 3|
+|𝑥 − 3|
+
+lim
+𝑥→3
+
+|(𝑥 − 1)(𝑥 − 3)|
+|𝑥 − 3|
+|𝑥 − 1||𝑥 − 3|
+|𝑥 − 3|
+
+|𝑥 − 1| 
+
+= lim
+𝑥→3
+
+= lim
+𝑥→3
+= lim
+𝑥→3
+
+= 2 
+
+|𝑥2 − 4𝑥 + 3|
+|𝑥 − 3|
+
+lim
+𝑥→3
+
+= lim
+𝑥→3
+
+|(𝑥 − 1)(𝑥 − 3)|
+|𝑥 − 3|
+
+Draw a number line with the points 1 and 3 on it to get where each term is positive and negative. 
+
+|𝑥2 − 4𝑥 + 3|
+|𝑥 − 3|
+
+lim
+𝑥→3−
+
+−(𝑥 − 1)(𝑥 − 3)
+−(𝑥 − 3)
+
+𝑥 − 1 
+
+= lim
+𝑥→3−
+= lim
+𝑥→3−
+
+= 2 
+
+|𝑥2 − 4𝑥 + 3|
+|𝑥 − 3|
+
+lim
+𝑥→3+
+
+(𝑥 − 1)(𝑥 − 3)
+(𝑥 − 3)
+
+𝑥 − 1 
+
+= lim
+𝑥→3+
+= lim
+𝑥→3+
+
+= 2 
+
+Therefore, the limit is 2. 
+
+2.  Find the value(s) of 𝒂 that makes the following function continuous: 
+
+AB6 
+
+CS4 
+
+𝒇(𝒙) = {
+
+𝒙𝟑 − 𝟒𝒙𝟐 +
+
+𝒂
+𝒙
+
+,   𝒙 ≥ 𝟏
+
+𝟐𝒙𝟐 + 𝟑𝒙 − 𝒂𝟐𝒙 − 𝟐,   𝒙 < 𝟏
+
+For continuity, we need the function to have the same limit on either side of 𝑥 = 1. 
+
+The  right-hand  limit  does  not  need  to  be  calculated,  as  the  function  is  continuous  and  defined  up  to  and 
+including 𝑥 = 1.  So, we only need 𝑓(1) = 𝑎 − 3. 
+
+The left-hand side does require a limit: 
+
+Continued on back. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These need to be equal, so we have 𝑎 − 3 = 3 − 𝑎2. 
+
+lim
+𝑥→1−
+
+2𝑥2 + 3𝑥 − 𝑎2𝑥 − 2 = 3 − 𝑎2 
+
+𝑎2 + 𝑎 − 6 = 0 
+
+(𝑎 + 3)(𝑎 − 2) = 0 
+
+Therefore, 𝑎 = 2 or −3 will work. 
+
+3.  Find the following limit for 𝒏 = 𝟏, 𝟐, 𝟑, and 𝟒:   
+
+CF1 
+
+CF2 
+
+CF3 
+
+Remember to show all work. 
+
+𝐬𝐢𝐧𝟐 𝜽
+𝜽𝒏  
+
+𝐥𝐢𝐦
+𝜽→𝟎
+
+𝑛 = 1: 
+
+𝑛 = 2: 
+
+𝑛 = 3: 
+
+sin2 𝜃
+𝜃1 = (lim
+
+𝜃→0
+
+lim
+𝜃→0
+= 1 ⋅ 0 
+= 𝟎 
+
+sin 𝜃
+𝜃
+
+) ⋅ (lim
+𝜃→0
+
+sin 𝜃) 
+
+sin2 𝜃
+𝜃2 = [lim
+
+𝜃→0
+
+lim
+𝜃→0
+= 12 
+= 𝟏 
+
+2
+
+(
+
+sin 𝜃
+𝜃
+
+)]
+
+sin2 𝜃
+𝜃3 = [lim
+
+𝜃→0
+
+(
+
+sin 𝜃
+𝜃
+
+2
+)]
+
+lim
+𝜃→0
+
+⋅ (lim
+𝜃→0
+
+1
+𝜃
+
+) 
+
+= 1 ⋅ lim
+𝜃→0
+
+1
+𝜃
+
+This requires two one-sided limits, giving us the forms [
+opposite infinities, so the two-sided limit does not exist. 
+
+1
+0+] on the right and [
+
+1
+0−] on the left.  These lead to 
+
+𝑛 = 4: 
+
+lim
+𝜃→0
+
+sin2 𝜃
+𝜃4 = [lim
+1
+𝜃2 
+
+𝜃→0
+
+= 1 ⋅ lim
+𝜃→0
+
+= [
+
+1
+0+] 
+= +∞ 
+
+2
+)]
+
+(
+
+sin 𝜃
+𝜃
+
+⋅ (lim
+𝜃→0
+
+1
+𝜃2) 
+
+ 
+ 
+ 
+ 
+ 
+

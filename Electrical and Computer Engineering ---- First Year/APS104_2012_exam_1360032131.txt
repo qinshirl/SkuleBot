@@ -1,0 +1,1503 @@
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+FINAL EXAMINATION 
+
+20 APRIL 2012 
+
+First Year 
+
+APS 104S 
+
+INTRODUCTION TO  MATERIALS AND CHEMISTRY 
+
+Exam Type B 
+
+Examiners:  N. P. Kherani, K. Lian, T. Mirkovic 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+Q6 
+
+Q7 
+
+/15 
+
+/10 
+
+/16 
+
+/9 
+
+/15 
+
+/15 
+
+/20 
+
+Total 
+
+/100 
+
+NAME:  _________________________________________________________ 
+                Last 
+
+First 
+
+STUDENT NO:____________________________________________________ 
+
+INSTRUCTIONS: 
+
+  This is a Type B examination. Only non-programmable calculators are allowed. 
+
+  Answer all  7 questions. 
+
+  All work is to be done on the pages of this booklet. 
+
+  When answering the questions include all the steps of your work on these pages and then fill 
+the answer in the respective boxes where provided. For additional space, you may use the 
+back of the preceding page. 
+
+  Do not unstaple this exam booklet. 
+
+  A Formula Sheet is attached to the end of this exam booklet; if you wish, you may tear-off 
+
+this sheet only. 
+
+Page 1 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 1 (15 points):  Materials Science 
+Part A. Multiple Choice (circle only one) – 5 points 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+The equilibrium interatomic spacing between atoms in a molecule or solid is determined by: 
+a)  Attractive forces;  b)  Repulsive forces;  c)  Attractive and repulsive forces;  d) none of these. 
+
+Hydrogen bonding is a form of: 
+a)  Ionic bonding;     b) Covalent bonding;     c)  Dipole bonding;     d) Metallic bonding.  
+
+The cesium cholride (CsCl) crystal structure can be described as having the cation at the cube-
+centre and the anions at the corners of the cube. The coordination number for both ion types is: 
+a)  4 ;   
+d)   12. 
+
+b)  6 ;    
+
+c)  8 ;    
+
+(iv) 
+
+The allotropes of carbon include: 
+a)  Carbon nanotubes;    b)  graphite;   c)   fullerene;   d)  diamond;   e)   all of the preceding. 
+
+(v)  Wood, rubber, cotton, wool and silk are: 
+
+a.  Synthetic polymers;  b)  polymorphs;   c)  natural poymers;  d) none of the preceding. 
+
+Part B. Calculations – 10 points 
+Gold has  an FCC crystal structure with a lattice constant of 407.82 x 10-10 cm and an atomic mass of 
+196.66 g/mole.  
+a) 
+
+ Calculate the density of gold.   Note: NA = 6.023 x 1023 atoms mole-1.  (3 points) 
+
+b) 
+
+Identify the family of planes and family of directions with the highest atomic planar density and 
+atomic linear density, respectively. ( 2 points) 
+
+c) 
+
+24 karat gold is pure gold, while 18 karat gold is 75% pure (i.e., 18 parts pure gold and 6 parts 
+other alloying elements such as silver, copper, and zinc)? From a mechanical perspective, what 
+purpose do the alloying elements serve? (1 point) 
+
+d) 
+
+Calculate the linear atomic density along the [110] direction? (1 point) 
+
+e) 
+
+Calculate the atomic planar density for the (110) plane? ( 3points) 
+
+Page 2 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 2 (10 points):  Materials Science 
+
+a) 
+
+The larger multiplicity of independent combination of slip planes and slip directions in FCC and 
+BCC metals makes it more likely that one of these combinations will be favourably aligned 
+under an applied stress and thus is the basis of these metals exhibiting ductile behaviour. (1 pt) 
+Circle One :   
+
+True                False 
+
+b) 
+
+Define resilience ( 1 point).   
+
+c) 
+
+d) 
+
+Name the two defects in the diagram 
+shown on the right. The larger circles are 
+the anions and the smaller circles are the 
+cations. ( 2 points) 
+
+_____________ 
+_____________
+_____________ 
+
+_____________ 
+_____________
+_____________
+_ 
+
+The northern winters in Canada result in frost damage due to water expansion upon freezing, 
+specifically about 9% increase in volume due to the phase change from liquid to solid. Frost 
+damage occurs to buildings, roads, and equipment every winter. Smaller buildings and roads are 
+particularly affected by ground movements due to frost heave. In southern Ontario the depth of 
+ground freezing varies from 1.0 metre near Windsor to 1.8 metres in the Ottawa area. 
+
+(i) 
+
+Consider the case where the ground freezes to a depth of 1.8 metres. Assuming that the 
+ground comprises entirely of water, estimate the vertical movement of the ground. 
+Assume that all the movement is upwards, that is the ground does not yield sideways or 
+downwards. Hint: Start with an unfrozen cube with side length of 1.8 m length, as shown 
+x 
+below. (3 points) 
+
+ground level  
+prior to freezing 
+
+y 
+
+z 
+
+ground 
+
+(ii) 
+
+If the ground comprises of 50% water, estimate the vertical movement (1 point) 
+
+(iii)  Explain why pot-holes get progressively larger during the winter season. (1 point) 
+
+Page 3 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 3  (16 points):  Thermodynamics 
+
+(a) For an isothermal process explain why  |w|irrev  > |w|rev   for compression?  Use a diagram to support 
+
+your answer.  (3 marks) 
+
+(b) State whether q, w, ΔU, ΔH and ΔS are positive (+), negative (-) or zero (0) for the reversible melting 
+
+of ice at 1 atm and 0°C. (5 marks) 
+
+q =  
+
+w =  
+
+ΔU =    
+
+ΔH =    
+
+ΔS =    
+
+(c) A mass of 30.0 g of H2O (g) at 373 K (called A) flows into 300 g of H2O (l) at 300 K (called B) and 
+1 atm.  
+
+Given:   GMW (H2O) = 18.02 g/mol   CP,m (H2O(l)) = 75.291 J mol-1 K-1   ΔHvap (H2O(l))= 40.65 kJ/mol 
+
+i) Calculate the final temperature of the system once equilibrium has been reached. Assume that CP,m for 
+
+H2O is constant at its values for 298 K throughout the temperature range of interest.  (3 marks) 
+
+ii) Calculate the entropy change of A, B, and the entire system. (5 marks) 
+
+Page 4 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 4:  (9 points)   Thermodynamics 
+
+Consider:       Br2 (l) ⇌ Br2 (g) 
+
+At 1 bar pressure liquid bromine boils at 58.2°C, and at 9.3°C its vapour pressure is 0.1334 bar.  
+
+(a) Write the expression for KP for the above reaction.  (1 mark) 
+
+(b) Calculate ΔG°  for the above reaction at 58.2°C and at 9.3°C. (2 marks) 
+
+(c) Assuming ΔS° and ΔH° to be temperature independent, calculate their values.  (3 marks) 
+
+(d) Calculate the vapour pressure and ΔG°  at 25°C.  (3 marks) 
+
+Page 5 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 5 (15 points):   Phase Diagrams 
+
+A)  Identify “True” or “False” for the following statements (2 marks) 
+
+(i.)  At an invariant point, there are two phases at the equilibrium  
+
+True 
+
+[      ] 
+
+(ii.)  Eutectoid reaction is the transformation from one solid to two other solids.  [      ] 
+
+False 
+
+[      ] 
+
+[      ] 
+
+B)   Based on the phase diagram below, answer the following questions. (7 marks) 
+
+i) 
+
+The melting point of Sn is  _______________.   
+
+ii) 
+
+The eutectic temperature is ________ and the eutectic composition is _______. 
+
+iii)  For point A on the phase diagram, 
+
+a.  Determine the phase compositions. 
+
+b.  The relative fraction of each phase. 
+
+iv)  For Point B on the phase diagram, 
+
+a.  Determine the relative fraction of each phase in terms of  and the eutectic composition. 
+
+b.  What is the maximum solubility of Sn in Pb at this temperature? 
+
+Page 6 of 9 
+
+ABAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+C) 
+
+In a hypothetical phase diagram given below, please complete the following: (6 marks) 
+
+i) 
+
+Draw the corresponding structures in the squares 
+
+ii)  Write the eutectic reaction and mark the eutectic point on the graph 
+
+Page 7 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 6 (15 points):  Electrochemistry 
+
+Consider the galvanic cell depicted below.   
+
+Ag+
+Pb2+
+
+(aq) + e-  →   Ag(s)       E° = +0.80 V 
+(aq) + 2 e-  →   Pb(s)    E° = -0.13 V 
+
+(a)  Write the balanced reaction equation and shorthand cell expression for this cell. (3 marks) 
+
+(b)  Assuming standard conditions, calculate E°cell , K and G° for this reaction? (6 marks) 
+
+(c)  What is Ecell if the cathode ions are present at 5 M concentration, and anode ions are present at 1 
+
+M? (3 marks) 
+
+(d)  Calculate the mass change (in grams) of the silver electrode after the cell has supplied a constant 
+
+current of 10.0 A for 25 min? ( 3marks) 
+
+Given: atomic mass of Ag  = 107.9  g/mol 
+
+Page 8 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 7 (20 points):  Electricity & Magnetism 
+
+A)  Identify “True” or “False” for the following statements (3 marks) 
+
+i)  The energy band gap in intrinsic semiconductors is usually less than 2 eV 
+
+True 
+[       ]   
+
+False 
+[       ] 
+
+ii)  Permanent magnets are often composed of hard magnetic materials      
+
+[       ]   
+
+[       ] 
+
+iii)  At the Curie temperature, antiferromagetic turns into paramagtetic 
+
+[       ]   
+
+[       ] 
+
+B)  Classify the following as diamagnetic, paramagnetic, ferromagnetic, antiferromagnetic or 
+ferrimagnetic (4 marks) 
+
+i)  Fe3O4   ________________________           ii) O2      ______________________  
+
+iii) Argon  ________________________ 
+
+    iv) MnO  ______________________ 
+
+C)  Select the best answer for each question (2 marks) 
+
+i)   Electrical conductivity increases with temperatures in which of the following materials: (Circle one) 
+
+a) conductor & semiconductor    b) semiconductor & insulator 
+d) all of the above   
+
+c) conductor & insulator    
+
+ii)  Which statement(s) is(are) correct? (Circle one or more) 
+
+a) “Hole” has a positive charge 
+b) “Hole” has a negative charge 
+c) “Holes” are located in the conduction band 
+d) “Holes” are located in the valence band 
+
+D)  i) Calculate the mass ratio of steel (Fe) and aluminum (Al) wires having the same resistance and 
+
+same length.   
+
+    Given Fe = 1.1x107 (-m)-1; Al = 3.8x107 (-m)-1; dFe = 7.9Mg/m3; dAl == 2.7Mg/m3. (4 marks) 
+
+    ii) If the price of Al wire is 5 times more than steel wire and based on your result in D) i), which 
+
+material would you recommend for streetcar cables (1mark)? 
+
+iii)  In addition to the thermal effect, what other 2 factors influence/affect the resistivity of a material 
+(2 marks)? 
+
+1) 
+
+_____________________ 
+
+      2)  ________________________ 
+
+E)  Draw a hysteresis B-H loop (start from origin) for a ferromagnetic material and indicate on it (4 
+marks) 
+
+(a) the saturation induction Bs ,  
+
+(b) the remanence flux density Br , and  
+
+(c) the coercive force Hc. 
+
+Page 9 of 9 
+
+HBHB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORMULAE & CONSTANTS (You may tear this sheet off.) 
+Constants 
+
+R	=	8.3145	J·K‐1	mol‐1	=	0.0820574587	L·atm·	K‐1	mol‐1	=	0.083145	L·bar·K‐1·mol‐1		
+1	atm	=	101.325	kPa		=	1.01325	bar	=	14.696	psi	=	760	Torr		=	760	mmHg	
+NA	=	6.022	x	1023	mol‐1											k = 8.62 x 10-5 eV/K               1 eV = 1.60 x 10-19 J 
+T(K) = T(oC) + 273.15 K        F = 9.6485309 × 104 C mole-1        e = 1.60217733 × 10-19 C	
+Formulae from Callister 
+nA
+C NV
+A
+eVolume
+ellVolume
+
+    (cid:1831) (cid:3404) (cid:1516) (cid:1832)	(cid:1856)(cid:1870)     (cid:3031)
+nVector
+
+TotalSpher
+TotalUnitC
+
+NumberOfAt
+
+omsCentred
+
+OnDirectio
+
+LengthOfDi
+
+rectionVec
+
+4
+
+3
+
+APF 
+
+2 
+]})
+
+A X
+
+
+(25.0
+
+LD 
+
+exp[
+
+100
+
+
+
+tor
+
+IC
+
+3r
+
+1{
+
+%
+
+X
+
+V
+
+
+
+
+
+
+
+
+
+B
+
+(cid:3031)(cid:3051)
+
+(cid:4666)(cid:1876)(cid:3041)(cid:4667)=n(cid:1876)(cid:3041)(cid:2879)(cid:2869) 
+
+PD 
+
+NumberOfAt
+
+OnAPlane
+
+omsCentred
+AreaOfPlan
+e
+
+DP
+
+
+
+M
+n
+m
+
+M
+
+n
+
+
+
+Mx
+i
+
+i
+
+M 
+w
+
+Mw
+i
+
+i
+
+N V 
+
+N
+
+exp(-
+
+(cid:1831) (cid:3404)
+
+(cid:3097)
+
+(cid:3084)
+
+    (cid:2026) (cid:3404)
+
+(cid:3007)
+
+(cid:3002)
+
+)
+
+Q
+v
+kT
+    ∈(cid:3404)
+
+∆(cid:3039)
+
+(cid:3039)
+
+σy = σo + kyd -1/2      (cid:2021) (cid:3404) (cid:3398)
+(cid:3023)
+
+    (cid:1836) (cid:3404) (cid:2026)(cid:1831)    (cid:1831) (cid:3404)
+
+(cid:2026) (cid:3404)
+
+(cid:2869)
+
+(cid:3096)
+
+(cid:3039)
+
+N S 
+
+N
+
+exp(-
+
+Q
+S
+2kT
+
+)
+
+N 
+fr
+
+N
+
+exp(-
+
+Q
+
+fr
+2kT
+
+)
+
+(cid:3007)
+
+(cid:2869)
+
+(cid:3002)
+(cid:3404) (cid:3398)
+
+    (cid:2028) (cid:3404) (cid:1833)(cid:2011)    (cid:1847)(cid:3045) (cid:3404)
+(cid:3106)(cid:3300)
+(cid:3106)(cid:3301)
+
+    (cid:2028) (cid:3404)
+(cid:2870)
+(cid:3106)(cid:3299)
+      (cid:2028)(cid:3019) (cid:3404) (cid:2026)	(cid:1855)(cid:1867)(cid:1871)(cid:2038)	(cid:1855)(cid:1867)(cid:1871)(cid:2019)      (cid:2026)(cid:3052) (cid:3404)
+(cid:3106)(cid:3301)
+    (cid:1874)(cid:3031) (cid:3404) (cid:2020)(cid:3032)(cid:1831)    (cid:2026) (cid:3404) (cid:1866)|(cid:1857)|(cid:2020)(cid:3032)    (cid:2016) (cid:3404) cos (cid:2879)(cid:2869) (cid:4666)
+
+(cid:2026)(cid:3026)(cid:2013)(cid:3026)    %CW (cid:3404) (cid:4672)
+
+(cid:2885)(cid:3116)(cid:2879)(cid:2885)(cid:3162)
+(cid:2885)(cid:3116)
+(cid:3099)(cid:3278)(cid:3293)(cid:3294)(cid:3294)
+(cid:4666)(cid:3030)(cid:3042)(cid:3046)(cid:3109)	(cid:3030)(cid:3042)(cid:3046)(cid:3090)(cid:4667)(cid:3288)(cid:3276)(cid:3299)
+
+(cid:4673)	100    G = E/(2(1 +)) 
+(cid:3019)(cid:3002)
+
+      (cid:1848) (cid:3404) (cid:1835)(cid:1844)      (cid:2025) (cid:3404)
+
+(cid:3039)
+
+(cid:3048)(cid:3117) (cid:3048)(cid:3118)(cid:2878)(cid:3049)(cid:3117)	(cid:3049)(cid:3118)(cid:2878)(cid:3050)(cid:3117)	(cid:3050)(cid:3118)
+(cid:3118)(cid:2878)(cid:3049)(cid:3118)
+
+(cid:3118)(cid:2878)(cid:3050)(cid:3117)
+
+(cid:3118)(cid:4667)(cid:4666)(cid:3048)(cid:3118)
+
+(cid:3118)(cid:2878)(cid:3049)(cid:3117)
+
+(cid:3118)(cid:2878)(cid:3050)(cid:3118)
+
+(cid:4667) 
+
+(cid:3118)(cid:4667)
+
+(cid:3493)(cid:4666)(cid:3048)(cid:3117)
+
+nRT
+
+Formulae from Engel & Reid 
+PV 
+Idea	gas	equation	of	state:	
+Van	der	Waals	equation	of	state:	
+2
+an
+2
+V
+
+)
+First	law,	closed	systems	
+U	=	q	+	w																				dU	=	dq	+dw	
+
+nRT
+V
+(
+
+
+nb
+
+P
+
+
+
+
+
+PV
+
+UH
+
+
+dH	=	nCp,mdT	
+For	ideal	gases,	Cp,m=Cv,m+R	
+Solids,	Liquids,		Cp,m	=	Cv,m	
+
+HG
+
+
+TS
+
+
+dQ
+
+dw=	–PextdV	
+
+dS
+
+
+
+reversible
+T
+
+dU	=	nCv,mdT	
+For	 an	 isothermal	 reversible	 process	 (ideal	
+gas):	
+
+W
+
+rev
+
+V
+2
+
+ 
+
+V
+1
+
+nRT
+V
+
+dV
+
+
+
+nRT
+
+ln
+
+V
+2
+V
+1
+
+
+
+nRT
+
+ln
+
+P
+1
+P
+2
+
+For	a	process	at	constant	temperature	
+ΔG=	ΔH‐TΔS	
+υi:	stoichiometric	coefficient	
+Assuming	no	phase	change,	constant	Cp	
+ΔH°rxn	=	Σ	υi*ΔH°f,i		+	ΔCp*(T‐25°C)	
+ΔCp	=	Σ	υi*Cp,i	
+
+
+
+Adiabatic	reversible	process	(	ideal	gas):	
+VP
+
+
+VT
+
+
+
+VP
+ 
+ VT 
+
+ PT
+
+
+
+]/)
+
+
+/)
+]
+
+22
+
+11
+
+1[(
+
+1[(
+
+
+
+(γ
+
+
+
+
+
+1
+
+1
+
+)
+
+)
+
+(γ
+2
+
+11
+
+PT
+1
+1
+
+2
+
+2
+
+2
+
+C
+C
+
+Efficiency = |w|/qin 
+
+ε(ideal) = 1 – TC/TH	
+
+
+
+
+
+P
+
+V
+
+For	solids	or	liquids:	
+
+ΔS
+
+m 
+
+lnC
+m
+
+T
+f
+T
+i
+
+ΔS
+
+
+
+nRln
+
+Phase	transition	
+
+S
+
+
+
+
+trans
+
+H
+
+T
+
+trans
+
+trans
+
+ΔS
+
+
+
+nC
+
+V
+
+ln
+
+(isotherma
+
+l)
+
+(change
+
+in 
+
+ at T 
+
+const
+
+V) 
+
+2
+
+T
+2
+
+)
+
+) 
+
+
+
+ΔS
+
+ΔS
+
+
+(T
+
+
+(T
+
+dT
+P T
+Standard	entropy	of	the	reaction	ΔS°rxn	=	Σ	υi*Sm°i	
+Standard	free	energy	of	a	reaction:	ΔG°rxn	=	Σ	υi*ΔG°f,i				or	ΔG°rxn	=	ΔH°rxn	‐	TΔS°rxn				
+
+ 
+C
+
+T
+1
+
+1
+
+P
+
+i
+
+ΔS
+
+
+
+nC
+
+ln
+
+(change
+
+in 
+
+ at T 
+
+const
+
+P) 
+
+f
+
+i
+
+f
+
+V
+V
+T
+T
+T
+T
+
+i
+
+f
+
+ΔG°	=	‐RTlnK				
+
+Total	free	energy	of	the	reaction	aA	+bB	=>	cC	+dD					
+
+		ΔGrxn	=	ΔGrxn
+
+Ø	+	RT	ln(Q)																																																																						ΔGrxn	=	ΔGrxn
+
+Ø	+	RT	ln(QP)	,	where			
+
+	where	
+
+Q
+
+
+
+c
+aa
+C
+a
+aa
+A
+
+d
+D
+b
+B
+
+
+
+
+
+
+
+
+
+	where		a=		activity	(~	concentration)	
+
+Q
+
+p
+
+
+
+
+
+
+
+
+
+
+P
+C
+
+P
+P
+A
+
+P
+
+G 
+
+nFE
+
+E
+
+
+
+E
+
+o
+
+
+
+RT
+nF
+
+ln
+
+Q
+
+E
+
+
+
+E
+
+o
+
+
+
+0
+
+.
+
+0592
+n
+
+Qlog
+
+C25 at
+
+
+
+I 
+
+nC
+t
+
+c
+
+a
+
+
+
+
+
+
+
+
+d
+
+b
+
+
+
+
+
+
+
+
+P
+D
+
+P
+P
+B
+
+P
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+      
+      
+             
+ 
+      
+      
+      
+ 
+ 
+    
+ 
+    
+ 
+ 
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     
+ 
+ 
+     
+ 
+         
+         
+         
+       
+       
+     
+

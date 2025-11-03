@@ -1,0 +1,875 @@
+Algebra Solutions:
+
+1.
+
+=
+
+11
+14
+
+A
+
+−
+
+12
+7
+−1
+14
+
+√
+
+1764 is
+
+2.
+
+A an integer
+
+B
+
+5
+14
+
+C
+
+−1
+7
+
+D
+
+−13
+14
+
+B a number with ﬁnitely many decimal places
+
+C an inﬁnite non-repeating decimal
+
+D an inﬁnite repeating decimal
+
+3. 6 (
+
+3 − 2(−1)2
+14
+3 − (−5)
+
+−1
+
+)
+
+=
+
+A
+
+18
+29
+
+4.
+
+9x2y
+3x7y−3 + 9x2y
+
+=
+
+B 58
+
+C 2
+
+D 18
+
+A
+
+3y4
+x5 + 1
+
+B
+
+3y4
+x5 + 3y4
+
+C
+
+3
+x5y−4 + 1
+
+D
+
+3
+x9y−4 + 3
+
+Divide all of the terms on top and bottom by 3x2 and then multiply by y3.
+
+5. not graded
+
+Page 1 of 11
+
+6. If y = 2x + 5 and also y = 2 − x, then (x, y) =
+
+A (1, 7)
+
+B (3, −1)
+
+C (−1, 3)
+
+D (7, 1)
+
+7. When x = −8,
+
+(x)
+
+3 − (x)
+
+3 + (x)
+
+−2
+
+1
+
+0
+
+=
+
+A 7
+
+B 3
+
+When x = −8, (−8)
+
+−2
+3 =
+
+C
+
+13
+4
+
+D Does not exist
+
+1
+
+((−8)
+
+1
+3 )
+
+2 and (−8)
+
+1
+
+3 = −2.
+
+8. The region described by both y ≤ 3x + 5 and y ≥ 2 − x contains the point:
+
+A (1, 9)
+
+B (0, 0)
+
+C (3, −1)
+
+D (4, 1)
+
+Both solutions are correct.
+
+9. 1 ≤ ∣x∣ ≤ 2 describes the same x-values as
+
+A [1, 2]
+
+B [−2, 2]∪[−1, 1]
+
+C [−2, −1]∪[1, 2]
+
+D (−∞, −2]∪[−1, 1]∪[2, ∞)
+
+∣x∣ ≤ 2 implies −2 ≤ x ≤ 2 and ∣x∣ ≥ 1 implies that x ≤ −1 and x ≥ 1.
+
+10. not graded
+
+Page 2 of 11
+
+Function Solutions:
+
+11. 2c2(3abc − 4ab) + 7abc − abc2 − 5abc3 =
+
+A 6abc3 − 2abc2 B abc3 − 5abc2 + 7abc C abc3 − 6abc2 + 7abc D abc3 − 9abc2 + 7abc
+
+12. If f (x) =
+
+1
+2
+
+∣x − 2∣
+x − 4
+
+=, then f (−2) =
+
+A
+
+1
+3
+
+B
+
+−1
+3
+
+C 0
+
+D
+
+1
+6
+
+13. The function f (x) = 4x2 + 4x + 1 has
+
+A exactly 1 distinct root
+
+B exactly 2 distinct roots
+
+C exactly 3 distinct roots
+
+D no roots
+
+Using the formula for the roots of a quadratic equation (“quadratic formula”), we get:
+x = −4±
+
+= −2.
+
+√
+
+16−16
+2
+
+14. The factored form of x3 + 2x2 − x − 2 includes the following factor:
+
+A (x − 2)
+
+B
+
+(x + 2)
+
+C (2x − 1)
+
+D (x − 1)2
+
+(−2)3 + 2(−2)2 − (−2) − 2 = −8 + 8 + 2 − 2 = 0 Therefore, (x + 2) is a factor .
+
+Page 3 of 11
+
+15. The domain of f (x) =
+
+√
+
+3 − x is equal to the range of:
+
+A g(x) = −2(x + 1)2 − 3.
+
+B g(x) = −5(x + 1)2 + 3.
+
+C g(x) = (x + 1)2 − 3.
+
+D g(x) = 2(x + 1)2 + 3.
+
+which is equal to (−∞, 3].
+
+16. Let f (x) =
+
+−2x + 1
+x + 3
+
+. Then f −1(x) =
+
+A
+
+x − 2
+3x + 1
+
+We set x =
+
+B
+
+x − 3
+x + 2
+
+C
+
+3x − 1
+x + 2
+
+D
+
+1 − 3x
+x + 2
+
+−2y + 1
+y + 3
+
+and solve for y.
+
+17. If
+
+a
+b
+
+− 6 = 5b, then
+
+A a is a function of b, but b is not a function of a.
+
+B b is a function of a, but a is not a function of b.
+
+C a is a function of b, AND b is a function of a.
+
+D Neither variable is a function of the other.
+
+Multiplying both sides by b we get: a − 6b = 5b2 which is equivalent to a = 5b2 + 6b.
+This is a parabola that passes the vertical line test when b is the variable, but not when a
+is.
+
+18. If f (x) = x2 + 2x − 1 and g(x) =
+
+, then f (g(4)) =
+
+x
+√
+x
+√
+
+C
+
+23
+
+√
+
+D 2
+
+2 + 3
+
+A 23
+
+B 7
+
+f (g(4)) = f (2) = 7
+
+19. not graded
+
+Page 4 of 11
+
+20. If (1, 4) is on the graph of y = f (x) then the graph of y = f −1(f (f −1(x))) necessarily
+
+includes the point:
+
+A (1, 4)
+
+B (−1, −4)
+
+C (−4, −1)
+
+D (4, 1)
+
+If (1, 4) is on the graph of y = f (x), then (4, 1) is on the graph of y = f −1(x).
+
+So f −1(f (f −1(4))) = f −1(f (1)) = f −1(4) = 1
+
+Page 5 of 11
+
+Graphing Solutions:
+
+21. The points (−3, 1) and (1, 9) are on the same line as
+
+A (0, 7)
+
+B (0, 2)
+
+C (−1, 4)
+
+D (−1, 3)
+
+That line is given by the equation y = 2x + 7.
+
+22. The set of points that are 4 units away from (1, −2) form the graph of:
+
+A (x − 1)2 + (y + 2)2 = 16
+
+B (x − 1)2 + (y + 2)2 = 4
+
+C (x + 1)2 + (y − 2)2 = 2
+
+D (x + 1)2 + (y − 2)2 = 4
+
+23. The vertex of the graph of y = −2x2 + 12x + 1 is:
+
+A (−3, 19)
+
+B (36, 8)
+
+C (36, 19)
+
+D (3, 19)
+
+y = −2x2 + 12x + 1 = −2(x2 − 6x) + 1 = −2(x2 − 6x + 9 − 9) + 1
+
+= −2(x2 − 6x + 9) + 18 + 1 = −2(x − 3)2 + 19 which has vertex (3, 19).
+
+24. A parabola with vertex (1, −4) has an axis of symmetry given by the equation:
+
+A x = −4
+
+B y = −4
+
+C y = 1
+
+D x = 1
+
+25. To transform the graph of y =
+
+x into the graph of y = 3
+
+x − 2, we can
+
+√
+
+√
+
+A stretch the graph by a factor fo 3 in the x-direction and shift 2 units to the left.
+
+B stretch the graph by a factor fo 3 in the y-direction and shift 2 units to the left.
+
+C stretch the graph by a factor fo 3 in the x-direction and shift 2 units to the right.
+
+D stretch the graph by a factor fo 3 in the y-direction and shift 2 units to the right.
+
+Page 6 of 11
+
+26. The graph of y = 2x − 1 intersects the graph of x2 + y2 = 9 at
+
+A exactly one point.
+
+B two distinct points.
+
+C no points but they pass within one unit of each other.
+
+D no points and they stay farther than one unit away from each other.
+
+The line includes the point (0, −1) which is strictly inside the circle. Therefore the graphs
+have to intersect when the line enters the circle and again when it exits.
+
+27. The graph of y =
+
+1
+x + π
+
+A intersects both the x-axis and y-axis.
+
+B intersects neither of the x-axis and y-axis.
+
+C intersects the x-axis, but not the y-axis.
+
+D intersects the y-axis, but not the x-axis.
+
+y ≠ 0.
+
+28. If the point (3, 4) is on the graph of y = f (x), then the point (−3, −4) is necessarily on
+
+the graph of
+
+A y = f (−x)
+
+B y = −f (−x)
+
+C y = −f (x)
+
+D y = f (x)
+
+29. not graded
+
+30. The graph of 3(x − 5)2 + (y + 3)2 = 6 is
+
+A a circle
+
+B an ellipse
+
+C a parabola
+
+D an hyperbola
+
+(x − 5)2
+2
+
++
+
+(y + 3)2
+6
+
+= 1
+
+Page 7 of 11
+
+Trigonometry Solutions:
+
+31. cos (
+
+A
+
+π
+3
+
+)
+
+1
+√
+3
+
+√
+3
+2
+
+B
+
+C
+
+1
+√
+2
+
+D
+
+1
+2
+
+32. tan (
+
+nπ
+3
+
+) ≥ 0 when n =
+
+A 1, 3, 5
+
+B 2, 4, 6
+
+C 1, -1, 0
+
+D 1, 4, 7
+
+33. sin (
+
+17π
+4
+
+) =
+
+A sin (
+
+π
+4
+
+)
+
+B sin (
+
+5π
+4
+
+)
+
+C sin (
+
+7π
+4
+
+)
+
+D sin (
+
+13π
+4
+
+)
+
+34. sin (−θ) − cos (−θ) =
+
+A − sin(θ) − cos(θ)
+
+B sin(θ) − cos(θ)
+
+C cos(θ) − sin(θ)
+
+D sin(θ) + cos(θ)
+
+35. The radian measure of 15○ is
+
+C
+
+π
+12
+
+D
+
+π
+24
+
+A
+
+15 ×
+
+π
+3
+π
+180
+
+B
+
+=
+
+π
+4
+π
+12
+
+.
+
+36. not graded
+
+Page 8 of 11
+
+37. Let f (x) = 3 cos(2x − 4) + 5. The y-values of the graph of y = f (x) are all between
+
+A −3 and 3
+
+B 2 and 8
+
+C −7 and −1
+
+D 3 and 5
+
+The interval from −3 to 3 gets shifted upwards by 5 to get the interval from 2 to 8.
+
+38. not graded
+
+39. Let triangle ABC have a side of length a = 6 that is positioned across from angle A = 30○.
+
+Let b be the side facing angle B. Then the value of the expression
+
+sin B
+b
+
+is
+
+1
+5
+
+A
+tion.
+
+B 3
+
+C
+
+1
+12
+
+D indeterminate. We do not have enough informa-
+
+This ratio is equal to
+
+sin A
+a
+
+by the Sine Law.
+
+40. A building has a 25m shadow. A line between the top of the building and the end of the
+
+shadow makes an angle of π
+From this we can conclude that the height of the building is
+
+3 with the ground.
+
+A 25
+
+tan π
+
+3 =
+
+√
+
+B 25
+
+√
+3
+
+C 50
+
+D
+
+25
+3
+
+3 This is also equal to x
+
+25, where x is the height of the building.
+
+Page 9 of 11
+
+Exponential and Logarithm Solutions:
+
+41. 5 ln(e2) =.
+
+A 0
+
+B 5 ln(2e)
+
+C 7
+
+D 10
+
+5 ln(e2) = 5(ln e)2 = 10 ln e = 10(1) = 10.
+
+42. If A > 0 and B > 0 then ln(A + B) =
+
+A (ln A)(ln B)
+
+B ln A + ln B
+
+C
+
+ln A
+ln B
+
+D no other expression. This expression does not simplify.
+
+43. If 2w = 7, then
+
+A log2 w = 7
+
+B log2 7 = w
+
+C log7 w = 2
+
+D log7 2 = w
+
+44. log5 (
+
+1
+125
+
+) =
+
+A
+
+1
+3
+
+√
+3
+
+B
+
+C -3
+
+D 0.3
+
+45. The domain of the function f (x) = ln ∣x∣ is
+
+A (−∞, ∞)
+
+B (0, ∞)
+
+C (−∞, 0)
+
+D (−∞, 0) ∪ (0, ∞)
+
+Page 10 of 11
+
+46. The equation ln ∣x2 + 4x − 21∣ − ln ∣x + 7∣ = 1 has
+
+A 1 solution
+
+B 2 solutions
+
+C 3 solutions
+
+D no solution
+
+ln ∣
+
+x2 + 4 − 21
+x + 7
+
+∣ = 1 which implies that
+
+ln ∣
+
+(x + 7)(x − 3)
+(x + 7)
+
+∣ = 1.
+
+If ln(x − 3) = 1, then eln(x−3) = e1. So x − 3 = e and x = e + 3 which turns x2 + 4x − 21
+and x+7 into positive expression. Therefore, the original equation is well deﬁned and true.
+
+47. The graphs of the function f (x) = ex and g(x) = ln x
+
+A intersect only once.
+
+B intersect once on either side of the y-axis.
+
+C intersect once on either side of the x-axis.
+
+D do not intersect.
+
+48. The solutions to e−x(x2 + 3x − 40) ≤ 0 are contained inside the interval
+
+A (−∞, −8] ∪ [5, ∞)
+
+B [−8, 5]
+
+C (−∞, −5] ∪ [8, ∞)
+
+D [−5, 8]
+
+e−x is always positive.
+zero between the roots x = −8 and x = 5.
+
+x2 + 3x − 40 = (x + 8)(x − 5). This is less than or equal to
+
+49. If 23x+1 = 82x−1 then x =
+
+A -2
+
+B
+
+4
+3
+
+C 5
+
+D There is no solution to this equation.
+
+23x+1 = (23)2x−1 which is equivalent to 23x+1 = 26x−3.
+
+50. The following expression is equal to 2:
+
+A − log2 −4
+
+2
+B (eln 1)
+
+C log2
+
+√
+2
+
+D e− ln 1
+
+2
+
+e− ln 1
+
+2 = eln 1
+
+2
+
+−1
+
+= eln 2 = 2
+
+Page 11 of 11
+
+

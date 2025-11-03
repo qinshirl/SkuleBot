@@ -1,0 +1,114 @@
+MIE100 Quiz – Jan 31, 2017  
+Allotted time: 80 minutes. Answer all questions 
+Answers to be placed in CrowdMark Booklets 
+
+1.  The blocks “M” and “E” can slide horizontally on the floor. They are attached to a system of 4 pulleys and 
+two ropes as shown.  Assume both ropes remain taut at all times. Both blocks move only in the horizontal 
+direction, without rotation. The acceleration of block “M” is not constant, and is given by the following 
+formula in S.I. units: 
+
+(cid:3040)
+
+(cid:3051)
+
+ (cid:1853)(cid:1318) (cid:3404)
+
+(cid:3046)(cid:3118) 	(cid:2835)̂ 
+At time t = 0, the position of block “M” is {x,y} = {8, 3 } meters,  
+and its velocity is:  (cid:1874)(cid:1318) (cid:3404) (cid:3398)2
+
+		(cid:2835)̂ 
+
+(cid:2873)(cid:2868)
+
+(cid:3040)
+
+(cid:3046)
+
+(a)  Express the initial velocity of block “M” in  
+polar (r - ) coordinates, based on the origin  
+“O” and direction of angle  indicated in  
+the diagram. 
+
+E 
+
+5 
+
+10 
+
+10 
+
+(b)  Determine the velocity of block “E” at  
+
+time t=0 in x-y coordinates. 
+
+(c)  What will be the position of block “M”  
+in x-y coordinates when its velocity  
+reaches 2.3 m/s  (cid:2835)̂?  
+
+y 
+
+ 
+
+O 
+
+M 
+
+x 
+
+25 marks for question #1 
+
+2.  The small particle P starts from rest at the point {x,y} = {-3, 3.5} meters at time t = 0. It then speeds up 
+to the right at a constant rate of 19.6 m/s2 as it follows the curved track. The rounded portion of the track 
+has a radius of curvature of 3.5 m. 
+
+(a)  What is the velocity of P in r- co-ordinates when it reaches point B? (The coordinate  is measured 
+
+relative to the x-axis in the direction shown in the diagram.) 
+
+(b) What are the values of 	(cid:1870)(cid:4663) and  (cid:2016)(cid:4663) when particle P reaches point C, expressed in S.I. units?  
+
+(c)  What is the acceleration of P as it passes point C in normal-tangential co-ordinates? 
+
+5 
+
+5 
+
+5 
+
+10 
+
+(d) Find the values for  r and  of particle P at   t = 1.1 seconds. 
+
+ 25 marks for question #2 
+
+P 
+
+y 
+
+B 
+
+3.5  meters 
+
+ 
+
+O 
+
+C 
+
+x 
+
+ 
+		
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

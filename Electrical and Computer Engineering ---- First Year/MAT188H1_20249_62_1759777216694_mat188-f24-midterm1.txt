@@ -1,0 +1,767 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+MAT188 – Midterm I – Fall 2024
+
+LAST (Family) NAME:
+
+FIRST (Given) NAME:
+
+Email address:
+
+STUDENT NUMBER:
+
+@mail.utoronto.ca
+
+Time: 90 mins.
+
+1. Keep this booklet closed until an invigilator announces that the test has
+started. You may fill out your information in the box above before the test
+begins.
+
+2. Please place your student ID card in a location on your desk that is easy
+
+for an invigilator to check without disturbing you during the test.
+
+3. Please write your answers in the boxes. There is ample space within each
+one.
+If you must use additional space, please use the blank pages at the
+end of this booklet and clearly indicate in the given box that your answer is
+continued on the blank page. You can also use the blank pages as scrap
+paper. Do not remove them from the booklet.
+
+4. This test booklet contains 18 pages, excluding the cover page, and 7 questions.
+If your booklet is missing a page, please raise your hand to notify an invigilator
+as soon as possible.
+
+5. Do not remove any page from this booklet.
+
+6. Remember to show all your work.
+
+7. No textbook, notes, or other outside assistance is allowed.
+
+8. No calculator or equivalent devices allowed.
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+12
+
+2
+
+9
+
+3
+
+10
+
+4
+
+6
+
+5
+
+9
+
+6
+
+6
+
+7
+
+8
+
+Total
+
+60
+
+Student Number:
+
+1 Part A
+
+Midterm I , Page 1 of 18
+
+1. (12 points) Fill in the bubble for all statements that must be true. You don’t need to
+include your work or reasoning. Some questions may have more than one correct answer.
+For those questions, you may get a negative mark for incorrectly filled bubbles.
+
+(a) The magnitude of
+
+
+
+1
+0
+
+
+
+
+1
+
+
+2
+
+is
+
+⃝ 4
+
+⃝ 2
+
+√
+
+6
+
+⃝
+
+⃝ 6
+
+(b) Consider the sets ℓ1 and ℓ2:
+
+ℓ1 =
+
+
+
+
+
+
+t1
+
+
+
+1
+1
+ +
+
+0
+
+
+
+
+
+
+1
+ | t1 ∈ R
+3
+1
+
+
+
+
+
+
+ℓ2 =
+
+
+
+
+
+
+t2
+
+
+
+2
+0
+ +
+
+3
+
+Choose all that apply.
+
+
+
+
+
+−1
+1
+1
+
+
+ | t2 ∈ R
+
+
+
+
+
+
+⃝ ℓ1 and ℓ2 represent lines in R2
+
+⃝ ℓ1 and ℓ2 are parallel
+
+⃝ ℓ1 and ℓ2 intersect at a point
+
+⃝ ℓ1 and ℓ2 do not intersect
+
+Student Number:
+
+Midterm I , Page 2 of 18
+
+(c) For a system with two distinct equations and four variables, which of these could
+
+be true of the solution set? Mark all that apply
+
+⃝ The solution set could be empty
+
+⃝ The solution set could contain a single vector
+
+⃝ The solution set could have exactly one parameters
+
+⃝ The solution set could have exactly two parameters
+
+⃝ The solution set could have exactly three parameters
+
+(d) For what value(s) of a will the following linear system be inconsistent?
+
+ax + y = 1
+
+2x + (3a + 1)y = −2
+
+⃝ a = 1
+
+⃝ a = 2
+3
+
+⃝ a = −1
+
+⃝ No such value exists
+
+(e) Let A =
+
+(cid:21)
+(cid:20)1 1 1
+1 1 1
+
+. Let ⃗v ∈ R3. Choose all that apply.
+
+⃝ A⃗v is not defined
+
+⃝ A⃗v is a vector in R2
+
+⃝ A⃗v is a vector in R3
+
+⃝ A⃗v is parallel to all columns of A.
+
+⃝ A⃗v is perpendicular to all columns of A.
+
+Student Number:
+
+Midterm I , Page 3 of 18
+
+2. Fill in the blank. You do not need to include your computation or reasoning.
+
+(a) (2 points) Suppose M is a linear transformation given by left multiplication by a
+
+4 × 5 matrix. The domain of M is
+
+and the codomain of M is
+
+
+
+
+
+|
+|
+|
+⃗v1 ⃗v2 ⃗v3
+|
+|
+|
+
+
+
+ be a matrix that
+
+(b) (1 point) Suppose
+
+
+
+1
+3
+ = 2⃗v1 + 3⃗v2 + 5⃗v3. Let A =
+
+6
+
+has ⃗v1, ⃗v2 and ⃗v3 as its columns.
+
+Then A
+
+
+
+2
+3
+ is
+
+5
+
+.
+
+(c) (2 points) Suppose T : R2 −→ R2 is a linear transformation satisfying T
+
+(cid:21)
+(cid:20)−3
+7
+
+and for all a ∈ R,
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)1
+2
+
+=
+
+(cid:18)(cid:20) −2 + a
+−4 + 3a
+
+T
+
+(cid:21)(cid:19)
+
+− T
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20) a
+−a
+
+(cid:20) 6 + 8a
+−14 + 12a
+
+(cid:21)
+
+,
+
+=
+
+The second column of the standard matrix of T is
+
+.
+
+Student Number:
+
+Midterm I , Page 4 of 18
+
+(d) (4 points) An angle between two planes P1 and P2 in R3 is defined to be the angle
+between any two vectors perpendicular to each plane. Using this definition, calculate
+the angle between the planes given by equations P1 : 3x + 4y + 5z = 12 and
+P1 : 7x + y = 8. You can leave your answer in terms of cos−1.
+
+The angle between the planes is
+
+Find the vector parametric equation of the intersection line of the planes P1 and P2,
+described in set notation.
+
+P1 ∩ P2 =
+
+Consider the vectors perpendicular to P1 and P2 you chose to calculate the angle between
+the planes. Call them ⃗v1 and ⃗v2 respectively. Let ⃗d be a nonzero vector in P1 ∩ P2. Then
+
+⃝ ⃗d perpendicular to both ⃗v1 and ⃗v2.
+
+⃝ ⃗v1, ⃗v2 are parallel to ⃗d.
+
+⃝ ⃗d is parallel to at least one of ⃗v1 and ⃗v2.
+
+⃝ None of the given statements are true.
+
+⃝ ⃗v1, ⃗v2 and ⃗d are all perpendicular to each other.
+
+Student Number:
+
+Part B
+
+Midterm I , Page 5 of 18
+
+3. Consider the following linear transformations:
+
+R : R2 → R2 rotates vectors counter-clockwise about the origin by π
+
+4 (or, if you prefer, 45◦).
+
+T : R2 → R2 reflects vectors with respect to the line ℓ where
+
+ℓ = {t
+
+(cid:21)
+
+(cid:20) 1
+−1
+
+, t ∈ R}.
+
+The following square has corners at
+
+and
+
+(cid:20)1
+(cid:21)
+1
+
+. It is called the unit square.
+
+(cid:21)
+(cid:20)0
+0
+
+,
+
+(cid:21)
+(cid:20)1
+,
+0
+
+(cid:21)
+(cid:20)0
+,
+1
+
+(a) (2 points) Draw the output of the unit square after
+
+applying R.
+
+(b) (2 points) Let A be the standard matrix of R. That is R(⃗x) = A⃗x, for all ⃗x ∈ R2.
+
+Find A. Justify your answer.
+
+A=
+
+Student Number:
+
+Midterm I , Page 6 of 18
+
+(c) (2 points) Draw the output of the unit square after
+
+applying T ◦ R
+
+(d) (2 points) Let C be the standard matrix of T ◦ R. That is T ◦ R(⃗x) = C⃗x.
+
+Find C. Justify your answer.
+
+C=
+
+(e) (2 points) Find a matrix B such that BA = C. Justify your answer.
+
+B=
+
+Student Number:
+
+Midterm I , Page 7 of 18
+
+4. Given a set of n particles in R3 with position vectors ⃗v1, ⃗v2, · · · , ⃗vn and masses m1, m2, ..., mn,
+
+the position vector of the center of mass of the system is
+
+⃗vcm =
+
+1
+M
+
+(m1⃗v1 + m2⃗v2 + · · · + mn⃗vn),
+
+where M = m1 + m2 + · · · + mn.
+
+Consider four particles with position vectors
+
+⃗v1 =
+
+
+
+
+
+
+1
+0
+ , ⃗v2 =
+1
+
+
+
+
+
+2
+1
+−1
+
+
+
+
+
+
+
+−3
+1
+0
+
+ , ⃗v3 =
+
+
+
+ , ⃗v4 =
+
+
+
+
+
+
+
+
+
+−2
+1
+−2
+
+forming a pyramid in the space.
+
+We want to distribute a total mass of 9 kg among these particles so that the position vector
+
+4
+4
+. You can assume that the mass of the rest
+1
+
+of the centre of the mass becomes ⃗vcm = 1
+9
+
+
+
+
+
+of the pyramid itself is negligible.
+
+(a) (2 points) Set up a system of linear equations whose general solution is the set of
+all the possible values of m1, m2, m3, m4 that give us the desired center of mass.
+
+Student Number:
+
+Midterm I , Page 8 of 18
+
+(b) (3 points) Find a matrix A and a vector ⃗b such that your system is equivalent to
+
+A⃗x = ⃗b.
+
+A =
+
+and
+
+⃗b =
+
+(c) (1 point) You can assume that the matrix A in the previous part row-reduces to
+
+the 4 × 4 identity matrix. That is
+
+A ∼
+
+
+
+
+
+
+
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+
+
+
+
+
+
+
+.
+
+Is it possible to distribute the mass of 9 kg among these particles so that the posi-
+
+tion vector of the centre of the mass becomes ⃗vcm = 1
+9
+
+⃝ Yes
+
+⃝ No
+
+
+
+4
+4
+? Justify your choice.
+
+1
+
+Student Number:
+
+Midterm I , Page 9 of 18
+
+5. State whether each statement is true or false by writing “True” or “False” in the small box,
+and provide a short and complete justification for your claim in the larger box. If you think
+a statement is true, explain why it must be true. If you think a statement is false, give a
+counterexample.
+
+(a) (3 points) If the sum of two vectors in Rn is ⃗0, they are parallel.
+
+(b) (3 points) A vector is called a unit vector if its magnitude (or norm) is one. The
+
+intersection between the set of unit vectors perpendicular to
+
+of unit vectors perpendicular to
+
+
+
+0
+ in R3 is has exactly two vectors.
+1
+
+0
+
+
+
+1
+ in R3 and the set
+0
+
+0
+
+(c) (3 points) Let ⃗c be a solution to A⃗x = ⃗0, and ⃗y be a solution to A⃗x = ⃗b. Then ⃗c + ⃗y
+
+is a solution to A⃗x = ⃗b.
+
+Student Number:
+
+Midterm I , Page 10 of 18
+
+6. In each part, give an explicit example of the mathematical object described or explain why
+
+such an object does not exist.
+
+(a) (2 points) A linear transformation T which maps the set L =
+
+to the set T (L) =
+
+
+
+
+
+
+t
+
+
+
+1
+ , t ∈ R
+3
+
+6
+
+
+
+
+
+
+.
+
+(cid:21)
+(cid:26)(cid:20)8
+4
+
++ t
+
+(cid:21)
+(cid:20)2
+1
+
+(cid:27)
+
+, t ∈ R
+
+(b) (2 points) The normal equation of a plane in R3 that passes through the origin and
+
+contains the points (1, 0, 4) and (1, 1, 1).
+
+(c) (2 points) A linear transformation from R2 to R2 that stretches the x-axis by a
+
+factor of 5 and does not change the y-axis.
+
+Student Number:
+
+Part C
+
+Midterm I , Page 11 of 18
+
+7. Methane is CH4 (that is, one carbon atom and four hydrogen atoms) and propane is C3H8
+(three carbon, eight hydrogen). When a mixture of the two is burned in the right conditions,
+the chemical reaction produces only water (H2O) and carbon dioxide (CO2):
+
+a · CH4 + b · C3H8 + c · O2 (cid:55)→ d · CO2 + e · H2O
+
+(a) (2 points) Create a system of equations to represent a balanced reaction (that is,
+the number of atoms of each type on one side must equal the number from the other
+side).
+
+(b) (1 point) Put your variables in alphabetical order and find the augmented matrix
+
+corresponding to this system.
+
+Student Number:
+
+Midterm I , Page 12 of 18
+
+(c) (1 point) Find the RREF of the augmented matrix of your system.
+
+(d) (2 points) Solve the system and describe the solution in set notation.
+
+Student Number:
+
+Midterm I , Page 13 of 18
+
+(e) (2 points) Why does the solution have the number of parameters that appear?
+
+Interpret your answer in terms of the given chemical reaction.
+
+Student Number:
+
+Midterm I , Page 14 of 18
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 15 of 18
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 16 of 18
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 17 of 18
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+Student Number:
+
+Midterm I , Page 18 of 18
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+

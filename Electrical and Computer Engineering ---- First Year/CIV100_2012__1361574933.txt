@@ -1,0 +1,94 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 6   
+Due: 4:00 pm on October 19, 2012 
+
+35 kN  
+
+35 kN  
+
+35 kN  
+
+35 kN  
+
+1.  Determine the force in each member of the truss shown 
+and indicate whether the members are in tension or 
+compression.  
+
+A  
+
+2.  Determine the force in each member of the truss shown 
+and indicate whether the members are in tension or 
+compression.  
+
+B  
+
+C  
+
+D  
+
+F  
+
+3.5 m 
+
+4.0 m  
+
+E  
+4.0 m  
+
+4.0 m  
+
+50 kN  
+
+C  
+
+3.  Determine the force in members CD and CE of the 
+
+truss shown and indicate whether the members are in 
+tension or compression. Use the method of sections. 
+
+30 kN  
+
+20 kN  
+
+4.  Determine the force in members IJ, EJ, and CD of the 
+truss shown and indicate whether the members are in 
+tension or compression. Use the method of sections.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

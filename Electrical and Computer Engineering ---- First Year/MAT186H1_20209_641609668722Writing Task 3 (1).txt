@@ -1,0 +1,710 @@
+Infectious Disease Modeling Modules: D2, D3  
+
+In this problem set, we examine a simple model for the spread of a contagious disease. Our model makes the 
+
+following assumptions:  
+
+• The disease can only be transmitted by human-to-human contact in a single specific population;  
+
+• The size of the population remains constant in time (that is, no births or deaths occur and the population is 
+
+cut out  from the outside world);  
+
+• The disease confers no immunity after someone has recovered from infection.  
+
+Of course, these assumptions limit the applicability of our model to real-life epidemics, but they provide a good
+
+foundation upon which more complex and accurate models can be based. Let time be denoted by 𝑡 ∈ [0, ∞),
+
+measured in days. From the above assumptions, the population can be divided into two groups:  
+
+• 𝑆(𝑡) = 
+
+fraction of the population that is susceptible 
+
+to infection but not actually infected at time 𝑡, and 
+
+ • 𝐼(𝑡) = 
+
+fraction of the population that is infected 
+
+at time 𝑡.  
+
+Our model requires two parameters with values in (0, 1): the infection rate 𝑎 and the recovery rate 𝑏, both with
+
+units of (days)
+
+−1
+
+​(in practice, these numbers would need to be estimated using patient data). In words, we can
+
+think of 𝑏Δ𝑡 as the
+
+proportion of infected individuals recovering
+
+and returning to the susceptible group over a
+
+small time interval of length Δ𝑡. Similarly, we can think of 𝑎Δ𝑡 in the following way:
+
+out of all those susceptibles
+
+who came into contact with an infected individual during the small time interval, 𝑎Δ𝑡 is the proportion who
+
+actually end up getting infected as a result of that contact
+
+.  
+
+1. Explain why the following identity holds for all 𝑡:  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+​
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+ 
+Your answer must be contained in one or two sentences.  
+
+A: People in the population can either be infected or not infected, in which case they are susceptible. Therefore, 
+
+the sum of the proportion of the people who are infected and susceptible must equal one because the sum 
+
+represents the entire population. 
+
+2. In this problem, we derive an ordinary differential equation that can be solved (or simulated) to find 𝐼(𝑡). For
+
+now, suppose that at every instant in time everyone in the population is in contact with one and only one other
+
+person. Every Δ𝑡 days, the contacts change up. So the
+
+proportion of people whose contact is an infected person
+
+during a time interval
+
+is approximately 𝐼(𝑡) and the
+
+proportion of people whose contact is a susceptible person
+
+during a time interval 
+
+is approximately 𝑆(𝑡).  
+
+(a) Let Δ𝐼
+
+denote the change in 𝐼(𝑡) due only to recoveries occurring in the time interval [𝑡, 𝑡 +Δ𝑡]. Argue 
+
+​recovered 
+
+why we have  
+
+               Δ𝐼
+
+≈ −𝑏Δ𝑡𝐼(𝑡) 
+
+​recovered 
+
+A: As stated earlier, 
+
+ is the proportion of infected individuals recovering and becoming susceptible over 
+
+. To get the proportion of the total population that is recovering, multiply the proportion of infected individuals 
+
+that are recovering by the proportion of individuals that are infected, meaning the expression we get is 
+
+. 
+
+Since this is the proportion of individuals coming out of the infected group, the proportion of individuals infected 
+
+goes down by 
+
+, hence the change  Δ𝐼
+
+is equal to 
+
+​recovered 
+
+(b) Let Δ𝐼
+
+denote the change in 𝐼(𝑡) due only to infections occurring in the time interval [𝑡, 𝑡 + Δ𝑡]. Argue 
+
+​infected 
+
+why we have  
+
+Δ𝐼
+
+​infected 
+
+≈ 𝑎Δ𝑡𝐼(𝑡)𝑆(𝑡)  
+
+A: For a susceptible person to be infected, their contact needs to be an infected person. If we were to choose a 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+​
+​
+​
+ 
+​
+​
+random person from the population, the probability of choosing a susceptible person is 
+
+. Now we need to 
+S(t)
+​
+
+randomly choose their contact. The probability of randomly choosing an infected person is 
+
+. The probability of 
+I(t)
+​
+
+choosing a susceptible person 
+
+ an infected person to be a pair is 
+and
+​
+
+. The proportion of 
+
+susceptible people in contact with an infected person that get infected is 
+
+, hence the 
+
+Adding (2) to (3) and dividing both sides by Δ𝑡,  
+
+And by taking the limit as delta t approaches 0 of both sides: 
+
+Using (1) to eliminate 𝑆, we can convert (5) to the following differential equation for 𝐼(𝑡) alone.  
+
+(𝑡) of (6) that is constant in time. Give a condition on
+3. Recall that an equilibrium solution of (6) is a solution 𝐼
+​0
+
+the ratio 𝑅
+​0
+
+≐ 𝑎/𝑏 that is necessary for a nonzero equilibrium solution to exist. Write down the equilibrium
+
+.  
+solution in terms of 𝑅
+​0
+
+A: The ratio
+
+. This is because if
+​0 needs to be greater than 1 because a > b
+R
+​
+
+, then both the coefficients of
+a < b
+​
+
+I
+
+in 
+
+ are negative, meaning the only possibility for an equilibrium (the only way  
+
+Now, setting 
+
+ equal to 0: 
+
+​
+​
+​
+ 
+ 
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+​
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Ignoring the solution of 
+
+, 
+I = 0
+​
+
+We need this expression in terms of
+
+, so the obvious thing to do would be to split up the fraction and put what
+
+remains in terms of 
+
+: 
+
+4. How do you think solutions of (6) will behave as 𝑡 → ∞ when 𝑎 and 𝑏 are chosen so that 𝑅
+​0
+
+∈ (0, 1)? Answer
+
+in four sentences or less.  
+
+A: If
+
+​0 is between 0 and 1, that means that
+R
+
+meaning
+
+a < b which would mean that, as explained
+
+earlier,
+
+is negative. As
+
+t approaches infinity, the function
+
+I(t) is just going to keep on decreasing. However,
+
+I
+
+cannot become negative because if this were the case,
+
+would instantly become positive and
+
+I would instantly
+
+rise above the x-axis again. This means that
+
+I(t) is going to asymptomatically approach 0 as that is the only way it
+
+can be decreasing forever but not negative. 
+
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+​
+​
+​
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

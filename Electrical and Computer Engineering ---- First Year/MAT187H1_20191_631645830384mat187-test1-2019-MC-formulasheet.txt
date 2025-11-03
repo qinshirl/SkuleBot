@@ -1,0 +1,613 @@
+MAT187 - Calculus II - Winter 2019
+
+Term Test 1 - February 5, 2019
+
+MULTIPLE-CHOICE QUESTIONS
+
+AND
+
+FORMULA SHEET
+
+Instructions:
+
+• DO NOT OPEN until instructed to do so.
+
+• THIS PART WILL NOT BE COLLECTED.
+
+• This part contains 6 pages.
+
+MAT187 – Term Test 1
+
+MULTIPLE-CHOICE PART.
+
+(12 marks)
+
+ANSWER THESE QUESTIONS ON PAGE 10 OF THE TEST.
+
+1. (2 marks) When expanding the rational function
+
+x3 + 2x2 + 3x + 4
+
+(x + 5)(x − 3)3(cid:0)(x + 1)2 + 9(cid:1)2 into partial frac-
+
+tions, which of the following terms will NOT be necessary in the decomposition?
+
+(A)
+
+A
+x + 5
+
+(B)
+
+B
+(x − 3)2
+
+(C)
+
+(D)
+
+(E)
+
+C
+(cid:0)(x + 1)2 + 9(cid:1)2
+
+Dx
+(cid:0)(x + 1)2 + 9(cid:1)2
+Ex2
+(cid:0)(x + 1)2 + 9(cid:1)2
+
+2. (2 marks) Consider the integral
+
+numerical approximations.
+
+(cid:90) 23
+
+−1
+
+(cid:0)x2 + 3x − 19(cid:1) dx. Choose the only correct ordering of these
+
+(A) M242 <
+
+(cid:90) 23
+
+−1
+
+(cid:0)x2 + 3x − 19(cid:1) dx < M121.
+
+(B) M242 < M121 <
+
+(cid:90) 23
+
+−1
+
+(cid:0)x2 + 3x − 19(cid:1) dx.
+
+(C) M242 <
+
+(cid:90) 23
+
+(cid:0)x2 + 3x − 19(cid:1) dx < T121.
+
+(D) T121 <
+
+−1
+(cid:90) 23
+
+−1
+
+(cid:0)x2 + 3x − 19(cid:1) dx < M242.
+
+(E) M242 < T121 <
+
+(cid:90) 23
+
+−1
+
+(cid:0)x2 + 3x − 19(cid:1) dx.
+
+Page 2 of 6
+
+MAT187 – Term Test 1
+
+3. (2 marks) To ﬁnd the mass of a quarter circular ring of radius 1 m
+with density ρ(x, y) = (xy)2 kg/m, we need to slice the ring as in the
+
+ﬁgure.
+
+We then need to approximate the ring with a simpler shape in each
+
+slice.
+
+Select the simple shape that we should choose so that the resulting
+
+Riemann sum converges to the mass of the quarter ring.
+
+(A) A horizontal line passing through the midpoint
+
+(cid:18)
+
+xi−1+xi
+2
+
+,
+
+(cid:113)
+
+1 − (xi−1+xi)2
+
+4
+
+(cid:19)
+
+.
+
+(B) A straight line passing through both endpoints
+
+(cid:16)
+
+xi−1,
+
+(cid:113)
+
+(C) A parabola passing through both endpoints
+
+(cid:16)
+
+xi−1,
+
+(cid:113)
+
+(D) A cubic passing through both endpoints
+
+(cid:16)
+
+xi−1,
+
+(cid:113)
+
+1 − x2
+i−1
+(cid:17)
+
+(cid:17)
+
+and
+
+(cid:16)
+
+(cid:113)
+
+xi,
+(cid:113)
+
+1 − x2
+i−1
+(cid:17)
+
+1 − x2
+
+i−1
+
+and
+
+(cid:16)
+
+xi,
+
+and
+
+(cid:16)
+
+xi,
+(cid:113)
+
+1 − x2
+i
+(cid:17)
+
+1 − x2
+i
+
+.
+
+(cid:17)
+
+.
+
+1 − x2
+i
+(cid:17)
+
+.
+
+4. (2 marks) To calculate the integral
+
+(cid:90) 5
+
+−2
+Select a correct way to split the integral.
+
+1
+sin(x)
+
+dx, we need to split the integral into several integrals.
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(cid:90) 0
+
+−2
+
+(cid:90) π
+
+−2
+(cid:90) 0
+
+−2
+
+(cid:90) 0
+
+−2
+
+1
+sin(x)
+
+1
+sin(x)
+
+1
+sin(x)
+
+1
+sin(x)
+
+dx +
+
+dx +
+
+dx +
+
+dx +
+
+(cid:90) 5
+
+0
+
+(cid:90) 5
+
+π
+(cid:90) π
+
+0
+
+(cid:90) 3
+
+0
+
+1
+sin(x)
+
+dx
+
+1
+sin(x)
+
+1
+sin(x)
+
+1
+sin(x)
+
+dx
+
+dx +
+
+dx +
+
+(cid:90) 5
+
+π
+
+(cid:90) π
+
+3
+
+1
+sin(x)
+
+dx
+
+1
+sin(x)
+
+dx +
+
+(cid:90) 5
+
+π
+
+1
+sin(x)
+
+dx
+
+Page 3 of 6
+
+11xyMAT187 – Term Test 1
+
+5. (2 marks) Consider the initial-value problem
+
+
+
+
+y(cid:48)(x) = y(x) + x2ex + 1 − e−1
+
+
+
+y(−1) = −1
+
+Select the only correct statement.
+
+(A) The solution is increasing at x = −1.
+
+(B) The solution is decreasing at x = −1.
+
+(C) The solution has a local maximum at x = −1.
+
+(D) The solution has a local minimum at x = −1.
+
+(E) The solution has an inﬂection point at x = −1.
+
+6. (2 marks) Note that the initial-value problem
+
+
+
+
+y(cid:48)(x) = (cid:0)y(x)(cid:1)2
+
+
+
+y(0) = 0
+
+has the solution y(x) = 0. This should help you to determine the following:
+
+If a Separable initial-value problem has a solution, then the method we learned to solve Separable
+
+ODEs...
+
+(A) never ﬁnds a solution.
+
+(B) sometimes ﬁnds a solution.
+
+(C) always ﬁnds a solution.
+
+(D) always ﬁnds all solutions.
+
+Page 4 of 6
+
+MAT187 – Term Test 1
+
+Page 5 of 6
+
+MAT187 – Term Test 1
+
+FORMULA SHEET FOR MAT187
+
+Trigonometric Identities.
+
+• cos2(x) =
+
+1 + cos(2x)
+2
+
+• sin2(x) =
+
+1 − cos(2x)
+2
+
+• sin(x) = cos
+
+(cid:17)
+
+− x
+
+(cid:16) π
+2
+
+Trigonometric Integrals.
+
+(cid:90)
+
+(cid:90)
+
+(cid:90)
+
+•
+
+•
+
+•
+
+sec(x) = ln (cid:0) sec(x) + tan(x)(cid:1) + C
+
+(cid:90)
+
+sec3 dx =
+
+cos(x)
+(cid:0)1 − sin2(x)(cid:1)2 dx
+
+1
+
+1 + x2 dx = arctan(x) + C
+
+Applications of integration.
+
+• Arc length for y = f (x)
+
+• Area of a surface of revolution y = f (x) revolved around x−axis
+
+Numerical Integration.
+
+• Left-Hand Rule
+
+• Right-Hand Rule
+
+• Midpoint Rule
+
+• Trapezoid Rule
+
+(cid:90) b
+
+a
+(cid:90) b
+
+a
+(cid:90) b
+
+a
+(cid:90) b
+
+a
+
+f (x) dx ≈ Ln =
+
+f (x) dx ≈ Rn =
+
+n
+(cid:88)
+
+i=1
+n
+(cid:88)
+
+f (xi−1)∆x,
+
+f (xi)∆x,
+
+f (x) dx ≈ Mn =
+
+i=1
+n
+(cid:88)
+
+f (x) dx ≈ Tn =
+
+(cid:18) xi−1 + xi
+2
+
+f
+
+(cid:19)
+
+∆x,
+
+f (xi−1) + f (xi)
+2
+
+∆x,
+
+i=1
+n
+(cid:88)
+
+i=1
+
+(cid:113)
+
+1 + (cid:0)f (cid:48)(x)(cid:1)2
+
+(cid:90) b
+
+a
+
+2πf (x)
+
+(cid:113)
+
+1 + (cid:0)f (cid:48)(x)(cid:1)2
+
+(cid:90) b
+
+a
+
+dx
+
+dx
+
+|EL| (cid:54) b − a
+2
+
+(cid:0)∆x(cid:1) max
+x∈[a,b]
+
+(cid:12)
+(cid:12)f (cid:48)(x)
+
+(cid:12)
+(cid:12)
+
+|ER| (cid:54) b − a
+2
+
+(cid:0)∆x(cid:1) max
+x∈[a,b]
+
+(cid:12)
+(cid:12)f (cid:48)(x)
+
+(cid:12)
+(cid:12)
+
+|EM | (cid:54) b − a
+24
+|ET | (cid:54) b − a
+12
+
+(cid:0)∆x(cid:1)2
+
+(cid:12)
+(cid:12)f (cid:48)(cid:48)(x)
+
+(cid:12)
+(cid:12)
+
+max
+x∈[a,b]
+
+(cid:0)∆x(cid:1)2
+
+(cid:12)
+(cid:12)
+(cid:12)f (cid:48)(cid:48)(x)
+(cid:12)
+
+max
+x∈[a,b]
+
+Diﬀerential Equations.
+
+• Separable DE: g(y)
+
+dy
+dt
+
+= h(t)
+
+(cid:90)
+
+(cid:90)
+
+g(y) dy =
+
+h(t) dt
+
+Page 6 of 6
+
+

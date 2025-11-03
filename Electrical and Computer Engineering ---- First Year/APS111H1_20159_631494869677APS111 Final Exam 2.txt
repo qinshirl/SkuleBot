@@ -1,0 +1,1798 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Final Examination, December 11, 2015 
+Duration: 2.5 hours 
+APS111H1 F and APS113Y1 Y - Engineering Strategies & Practice 1 
+
+Calculator Type: 4 (No electronic or mechanical devices permitted) 
+Exam Type: A (Closed book, no aids permitted) 
+Course Coordinator: Micah Stickel 
+Communication Coordinator: Peter Weiss 
+Module B Coordinator: Jacinta O’Brien 
+
+Instructions: 
+This is a closed book exam; no calculators or aids are permitted, except for a translation-only 
+non-electronic dictionary, i.e., direct word-to-word translations but no definitions.  
+
+To start:  Fill out both the answer sheet (scan sheet) and the exam booklet (blank lined 
+booklet) with: 
+
+•  Your name 
+•  Your student number 
+•  Your course (APS111 or APS113) 
+•  Today’s date 
+•  You do not need to fill out the course instructor or form code. 
+
+There are two parts to the exam: multiple-choice questions, and a writing component.  
+
+Multiple-Choice (60%): 
+
+•  There are a total of 34 multiple-choice questions, each of which is worth about 1.7 
+
+marks, for a total of 60 marks worth 60% of the exam.  
+
+•  Answer this part on the answer sheet (scan sheet). 
+•  Read each question carefully and provide the most correct answer on the answer 
+sheet:  do not answer the multiple-choice questions on these exam question pages. 
+
+•  Only one answer is to be given for each question.  
+•  There is no penalty for incorrect answers. 
+•  Be sure to fill out the answer sheet clearly with no overlaps, using a pencil.  
+•  Erase any errors completely.  
+
+Writing Component (40%): 
+
+•  The second part of the exam is a writing component worth 40% of the exam.  
+•  Answer this part in the exam booklet: do not answer the written component questions 
+
+on these exam question pages. 
+•  Carefully follow the instructions.  
+
+When you are done the exam, insert the answer sheet (scan sheet) into the exam booklet 
+and hand in both together. You may keep the question pages. 
+
+Page 1 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Part 1: 
+
+Multiple-choice questions (60%)  
+
+1.  Hydrogen has been proposed as a fuel for internal combustion engines, in part 
+
+because the only emissions are heat and water. However, hydrogen is difficult to store, 
+it takes up too much volume at room temperature, and is dangerous when compressed.  
+To overcome these difficulties, nanotubes can be used.  Nanotubes offer a very large 
+surface area within a very small volume; however, they are very costly.  Scientists have 
+demonstrated that heating waste chicken feathers creates structures that are almost 
+identical to nanotubes at a much lower cost, thereby offering an economically and 
+technically feasible alternative to nanotubes.  Using the waste chicken feathers to store 
+hydrogen is an example of which one of the 3Rs? 
+a.  Reduce. 
+b.  Reuse. 
+c.  Recycle. 
+d.  Renew. 
+
+2.  Professional engineering in Canada is a self-regulated profession.  The philosophy 
+underlying self-regulated professions is that the members of the profession are the 
+most appropriate group of individuals to determine the standard of professional 
+competence and ethics required to protect the public.  Professional engineering is also 
+a "closed" profession.  This means that professional engineering in Canada is: 
+a.  Available to only a limited number of practitioners because there is an upper limit to 
+
+the number of professional engineering licenses there are in Ontario. 
+
+b.  Restricted to only those individuals who are deemed qualified to be professional 
+
+engineers. 
+
+c.  Open only to applicants who have graduated from an accredited engineering 
+
+program. 
+
+d.  A very expensive career path. 
+
+3.  Researchers at the Delft University of Technology have developed "bioconcrete" using 
+a type of bacteria that is naturally found in highly alkaline lakes or inside certain rocks. 
+When the bacteria are added as an ingredient to concrete, the bacteria induce the 
+formation of calcite, which can stop the formation of cracks.  Using bacteria to prevent 
+the formation of cracks in concrete is an example of which of the following?   
+a.  Biomagnification. 
+b.  Pollution Control. 
+c.  Sustainability. 
+d.  Biomimicry. 
+
+4.  A by-law is: 
+
+a.  A law made by a municipal government that applies within its own boundaries. 
+b.  A provincial law that applies to municipalities. 
+c.  A law that applies to retail stores. 
+d.  A federal regulation. 
+
+Page 2 of 17 
+
+ 
+ 
+ 
+ 
+ 
+5.  Which statement best describes bioaccumulation? 
+
+a.  The entry of persistent toxic substances into the environment. 
+b.  The build-up of persistent toxic substances in the fatty tissues of organisms. 
+c.  The concentration in the tissues of an organism of substances occurring in the 
+
+environment.  
+
+d.  The increase in the concentration of a substance in the tissues of organisms at 
+
+successively higher levels in a food chain. 
+
+6. 
+
+In designing the Telehealth system, Intel Corporation considered a number of issues 
+about the users of the system, including their age, their lack of technology awareness 
+and limited computer skills, their isolation, and their lack of mobility.  Which of the 
+following statements best describes Intel Corporation's approach?  
+a.  Balancing economy, environment and social considerations. 
+b.  Accounting for social considerations in design. 
+c.  Stakeholder engagement. 
+d.  Changing cultural values. 
+
+7.  Which of the following definitions for Adaptive Capacity is TRUE? 
+
+a.  An industrial system that emulates an efficient, sustainable natural system. 
+b.  The ability of a product or system to adjust to changing environmental conditions. 
+c.  Using a graphic decision chart and a weighted decision matrix to choose among 
+
+alternatives. 
+
+d.  A rigorous method for analyzing the production, operating, and end-of-life 
+
+environmental costs for a technology in terms of mass and energy. 
+
+8. 
+
+9. 
+
+In Ontario law, good character comprises three components, including the courage to 
+do what is right, no matter the personal consequences.  This component of the Ontario 
+law is also referred to as which of the following? 
+a.  Due diligence. 
+b.  Code of Ethics. 
+c.  Whistle-blower clause. 
+d.  Professional Engineers Ontario. 
+
+Lead occurs naturally in the environment and is an important element used in paints, 
+pipes, and car batteries.  Lead is also released back into the environment during lead 
+battery recycling.  Exposure to moderate concentrations of lead can cause neurological 
+damage, especially in children.  A company is considering different locations for a new 
+lead battery recycling facility.  As part of the economic evaluation, the company's 
+design engineer estimated the cost to provide health care to children who live near the 
+lead battery recycling facility.  What is this type of cost? 
+a.  Fixed Cost. 
+b.  Internal cost. 
+c.  External cost. 
+d.  Variable cost. 
+
+Page 3 of 17 
+
+ 
+ 
+ 
+ 
+ 
+10.  Sustainability is defined as the intersection of economic, environmental, and social 
+
+considerations, as shown in Figure 1.  It is also possible to define the intersection of 
+each pair of considerations.  Which one of the following describes the intersections of 
+(A) environmental and social considerations, (B) economic and social considerations, 
+and (C) economic and environmental considerations? 
+a.  "A"=Vulnerable; "B"=Feasible; "C"=Fair". 
+b.  "A"=Feasible; "B"=Viable; "C"=Equitable".  
+c.  "A"=Beneficial; "B"=Equitable; "C"=Viable". 
+d.  "A"=Beneficial; "B"=Exponential; "C"=Questionable". 
+
+Figure 1. Chart for Question 10. 
+
+11.  Which of the following statements about present worth is TRUE? 
+
+a.  Present worth relies on simple interest calculations and a fixed interest rate. 
+b.  Present worth is only used for private sector engineering design projects. 
+c.  Present worth cannot be applied to external costs and benefits. 
+d.  Present worth is calculated by discounting future cash flows. 
+
+12.  Which of the following statements about laws is TRUE? 
+
+a.  It is mandatory for design engineers to comply with legislation and regulations, but 
+
+there is no legal requirement for design engineers to comply with policies or 
+guidelines. 
+
+b.  When there is a federal election and the political party that is elected changes, all 
+
+federal laws must also change. 
+
+c.  The City of Toronto and the International Organization for Standardization (ISO) can 
+
+create laws. 
+
+d.  Due diligence is not relevant to engineering designs. 
+
+Page 4 of 17 
+
+  
+ 
+ 
+ 
+ 
+13.  Based on the Brundtland Commission definition of sustainable development, which of 
+
+the following statements is TRUE? 
+a.  Sustainable development does not affect rare or endangered species. 
+b.  Sustainable development enables future generations to meet their needs. 
+c.  Sustainable development meets the needs of people in developing countries. 
+d.  Sustainable development will help the Lego Group to build the new sustainability 
+
+centre. 
+
+14.  Figure 2 shows a graphical representation of costs as a function of output.  Which of 
+
+the following statements is TRUE? 
+a.  Line 0-X represents the fixed cost and Line X-X represents the variable cost. 
+b.  Line 0-Y represents the variable cost and Line X-Z represents the total cost.  
+c.  Line 0-X represents the indirect cost and Line X-X represents the total cost.  
+d.  Line X-Z represents the fixed cost and Line X-X represents the total cost. 
+
+Figure 2. Chart for Question 14. 
+
+15.  Which one of the following statements best describes compounds that are 
+
+biodegradable? 
+a.  Compounds that are biological. 
+b.  Compounds that cause harm to humans.  
+c.  Compounds that remain in the environment. 
+d.  Compounds that break down via natural processes.  
+
+16.  NGOs, such as Greenpeace and the Conference Board of Canada, are stakeholders 
+
+that may have an interest that is affected by your design.  NGO stands for: 
+a.  Next Generation Optimization.  
+b.  New Government Organization. 
+c.  Non-Governmental Organization. 
+d.  Nouveau Gouvernement de l'Ontario.  
+
+Page 5 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.  Life cycle assessment is different from industrial ecology because: 
+
+a.  Life cycle assessment ends with the final disposal of the product, whereas industrial 
+ecology considers uses for the product after the end of the products service life.  
+b.  Life cycle assessment has been applied to many different products and systems, 
+
+but industrial ecology has only been applied at Kalundborg, Denmark. 
+
+c.  Life cycle assessment applies to products and industrial ecology is restricted to 
+
+large-scale industries. 
+
+d.  Life cycle assessment identifies waste emissions, whereas industrial ecology 
+
+identifies waste emissions as inputs to other industrial processes.  
+
+18.  The supply of and demand for labour, the cost of a barrel of crude oil, and the Bank of 
+
+Canada interest rate are all examples of what type of factors?   
+a.  Microeconomic.  
+b.  Macroeconomic. 
+c.  Triple Bottom Line.  
+d.  Engineering Economic. 
+
+19.  Which one of the following statements about stakeholders is TRUE?   
+
+a.  For private sector projects, the government has limited interest and little influence. 
+b.  Design engineers can ignore the public because they usually have little interest and 
+
+no influence. 
+
+c.  The Ontario Environmental Assessment Act does not require stakeholder 
+
+consultation.  
+
+d.  For public sector projects, where the government is the client, the government has 
+
+high interest and high influence.  
+
+20.  A group of designers has been given the task of improving the ticket vending machine 
+
+for the Austrian Railway. They spend some time watching how passengers interact with 
+the current design, considering the steps the passengers followed, the amount of time it 
+took and the mistakes made. This process is: 
+a.  Task analysis. 
+b.  Snapshot. 
+c.  Participatory design. 
+d.  Organizational Human Factors.  
+
+<<More questions on next page>> 
+
+Page 6 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21.  Team X is “storming” – their first assignment did not receive the grade they had hoped. 
+Now they are trying to agree on a schedule and work breakdown, but one member, 
+Lee, is getting angry at Jackie. The rest of the team does not understand why. Jackie is 
+saying she can make it to any of the meetings, but she is sitting with her arms folded in 
+front of her, not making eye contact and speaking without inflection. This shows that, in 
+communication,  
+a.  Words often have more influence than body language and tone. 
+b.  Tone often has more influence than words and body language. 
+c.  Body language and tone often have more influence than words. 
+d.  Body language, tone and words all have equal influence.  
+
+Q22 - 34 pertain to Case Study #1: Lego Goes Sustainable located in Appendix A. 
+
+22.  The Lego Group conducted two life cycle assessments (LCAs): one for the existing 
+fossil fuel-based plastic and one for a new plastic that uses corn as the primary 
+ingredient.  The Lego Group limited the scope of each LCA to raw material extraction, 
+raw material transport, formation of the plastic, and toy brick production.  The LCAs 
+followed procedures described in ISO 14040 and ISO 14044, and collected and 
+assessed information about air and water emissions, solid waste generation, and 
+energy requirements for each type of plastic.  The results of the LCAs indicated that 
+neither type of plastic was environmentally preferable.  This means the LCAs: 
+a.  Should be redone at the Lego Group's sustainability centre. 
+b.  Provide information about current processes and can serve as baselines when the 
+
+Lego Group conducts future LCAs. 
+
+c.  Must have a different scope to ensure the results identify which plastic is less 
+
+environmentally harmful. 
+
+d.  Were a waste of time and money. 
+
+23.  The Lego Group has factories in Denmark, Hungary, the Czech Republic, and Mexico.  
+It will soon open a new factory in China.  The Lego Group uses a cost index published 
+by Thomson Reuters / Jefferies CRB to account for the wages paid to workers who 
+make the toy bricks at the different factory locations.  By using a cost index the Lego 
+Group is able to account for which one of the following factors? 
+a.  Inflation. 
+b.  Present worth. 
+c.  Regional Variation. 
+d.  Time value of money. 
+
+<<More questions on next page>> 
+
+Page 7 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24.  LEGO® toy bricks have a very high product safety rating, with zero product recalls every 
+year for the last 5 years.  To demonstrate this high level of safety to consumers in 
+Canada who buy the toy bricks for their children, the Lego Group relies on:  
+a.  Demand-side legislation. 
+b.  Children who volunteer to test the toy bricks. 
+c.  Certification by the Canadian Standards Association. 
+d.  Plastic that is formed using fossil fuels extracted from the Alberta oil sands. 
+
+25.  The Lego Group has hired you as the chief design engineer to locate and build the new 
+sustainability centre.  Instead of locating the new centre in Billund, the Lego Group has 
+chosen a location on the island of Vadehavet, which is about 120 kilometres west of 
+Billund off the west coast of Denmark.  The site is remote with a local population of less 
+than 100 residents, and is currently without road access.  Your assignment is to identify 
+and evaluate all the steps required to access the site, build the new sustainability 
+centre, and establish transport routes for bringing workers and materials to the centre.  
+As part of your assignment, which of the following should you do?  
+a.  Assume Canadian design practices and standards can be applied. 
+b.  Not worry about the local residents, since the new sustainability centre will take 
+precedence and the Lego Group will pay for the residents to be relocated to the 
+Danish mainland. 
+
+c.  Avoid developing a range of options because the shortest distance to the new 
+centre will have the least cost and must be chosen as the preferred design. 
+
+d.  Consider the possible impacts of the new sustainability centre and its operations on 
+
+local residents and the local environment. 
+
+26.  LEGO(cid:147) toy bricks are made in manufacturing facilities that incur a number of different 
+types of costs.  Which one of the following statements about the costs of the toy bricks 
+is TRUE? 
+a.  The cost of the plastic used to the produce the toy bricks represents a fixed 
+
+operating cost. 
+
+b.  Rent and taxes paid for the manufacturing facility are variable costs. 
+c.  The cost of advertising LEGO(cid:147) toy bricks is a direct cost. 
+d.  Workers wages are an indirect cost. 
+
+<<More questions on next page>> 
+
+Page 8 of 17 
+
+ 
+ 
+ 
+ 
+27.  As a design engineer, you have been asked by the Lego Group to investigate the 
+
+possibility of implementing an industrial symbiosis (industrial ecology) as one of the 
+criteria for evaluating different locations for the new sustainability centre.  You know 
+that many global companies have manufacturing facilities located in Billund, including 
+Bang & Olufsen, Ecco, and CCI Europe. You agree to use the criterion, but you want to 
+ensure the Lego Group fully understands the principles, so you explain that one of the 
+following statements about industrial ecology is FALSE:  
+a.  Most inputs should be obtained through recycling. 
+b.  Industries should minimize the use of materials and energy. 
+c.  Products should be designed so they have a finite service life. 
+d.  Products and processes can produce residuals, but not wastes. 
+
+28.  During the production of LEGO(cid:147) toy bricks, excess heat is released into the 
+
+atmosphere as the heated plastic is injected into the moulds.  The Lego Group 
+estimates the annual amount of waste heat is sufficient to meet the energy needs of 
+500 households.  The Lego Group has hired you as the design engineer to build a 
+system to capture the excess heat and convert it to electricity.  Which of the following 
+terms best describes what you have been asked to do with the excess heat? 
+a.  Reuse. 
+b.  Reduce. 
+c.  Recover. 
+d.  Renewable. 
+
+29.  The year is 2030, and you have been hired as a design engineer by the Lego Group to 
+
+work at their sustainability centre.  You have been experimenting with different 
+materials that could be used instead of the fossil-fuel based plastic, and you have 
+identified 3 potential substitutes:  milk protein, polycaprolactone (PCL), and silica.  The 
+Lego Group has given you 3 objectives for the new sustainable material: (1) heat 
+resistance up to 310°C, (2) compatibility with existing toy brick moulds, and (3) 
+manufacturing costs using the new sustainable material not to exceed current costs.  
+To compare how well the different materials satisfy the objectives, you propose to use 
+a decision-making method.  Which of the following statements best describes which 
+method you will use and why?  
+a.  Multi-voting, because it is simple to use and provides a high degree of confidence. 
+b.  Graphic decision chart, because it can be used for more than 2 objectives. 
+c.  Pugh Method, because it is simple to use and works best with only a few 
+
+alternatives. 
+
+d.  A risk-based model, because it is simple to use and captures the significant risks 
+
+involved in changing the plastic used for the toy bricks. 
+
+Page 9 of 17 
+
+ 
+ 
+ 
+ 
+ 
+30.  As the design engineer hired by the Lego Group, you plan to use the scale shown in 
+
+Table 1 to evaluate the new sustainable materials against the 3 objectives of (1) heat 
+resistance up to 310°C, (2) compatibility with existing toy brick moulds, and (3) 
+manufacturing costs using the new sustainable material not to exceed current costs. 
+The Lego Group has determined the weight for each objective, and this information is 
+shown in Table 2, which also shows the value you have assigned to each alternative to 
+indicate how well it meets each objective.  Using a weighted matrix method, which of 
+the following recommendations would you make to the Lego Group?  
+a.  Milk protein is the preferred new sustainable material because it was the alternative 
+
+with the highest weighted score. 
+
+b.  PCL is the preferred new sustainable material because it satisfies all 3 objectives 
+
+equally. 
+
+c.  Silica is the preferred new sustainable material because it was the alternative with 
+
+the highest weighted score. 
+
+d.  None of the alternatives are preferred because the standard deviation of the results 
+
+is less than 10%. 
+
+Table 1 for Question 28. 
+
+Scale 
+
+Does not meet the objective 
+Somewhat meets the objective 
+Mostly satisfies the objective 
+Almost completely satisfies the objective 
+Fully satisfies the objective 
+
+Value 
+0 
+2 
+5 
+8 
+10 
+
+Table 2 for Question 28. 
+
+Objective 
+
+(1) Heat resistance up to 310°C 
+(2) Compatibility with existing toy brick moulds 
+(3) Manufacturing costs using the new 
+sustainable material not to exceed current 
+costs 
+
+Values for Each 
+Alternative 
+
+Weight 
+2 
+6 
+3 
+
+Milk 
+Protein 
+2 
+8 
+2 
+
+PCL 
+5 
+5 
+5 
+
+Silica 
+10 
+5 
+2 
+
+31.  What price should the Lego Group charge for the toy bricks so that the payback period 
+is equal to the time between now and the opening of the new sustainability centre, 
+assuming the number of toy bricks sold annually remains constant? 
+a.  0.02¢ per toy brick. 
+b.  0.03¢ per toy brick. 
+c.  0.038¢ per toy brick. 
+d.  0.0002¢ per toy brick. 
+
+Page 10 of 17 
+
+ 
+ 
+ 
+ 
+32.  The Lego Group has decided to build a manufacturing facility in Ontario.  They are 
+using the same production processes as all the other factories that build LEGO(cid:147) toy 
+bricks, including the same packaging.  Recently, the Ontario government announced 
+new legislation that will come into effect in 2030 that would make manufacturers legally 
+responsible for the packaging they use for their products.  Since LEGO(cid:147) toy bricks 
+come in cardboard boxes, this means the Lego Group:  
+a.  Must implement pollution prevention to control the production of the cardboard 
+
+packaging. 
+
+b.  Can create a program to recycle the packaging. 
+c.  Will close their Ontario manufacturing facility because complying with the new law 
+
+will be too costly. 
+
+d.  Does not have to do anything because the legislation is not mandatory. 
+
+33.  After graduating in 2019, you relocated to Denmark and began working for the Lego 
+Group, rising from an entry level position as a design engineer to the head of the 
+research and development department.  In your current role, you supervise a team of 
+chemical, electrical, industrial and materials engineers working on new LEGO(cid:147) 
+products and you have responsibility for developing raw material specifications and 
+negotiating raw material prices.  A former U of T classmate works for a plastics 
+manufacturer and has contacted you about becoming a supplier.  The Lego Group has 
+a policy that states all suppliers should be evaluated through a competitive process, 
+except under special circumstances. Vendors must pay the Lego Group to participate 
+in the process.  Your classmate has offered you a cash payment (equal to half the cost 
+of participating in the competitive process) if you allow your classmate's company to 
+become a supplier to the Lego Group without going through the competitive process.  
+What action should you take and why? 
+a.  Allow your classmate's company to bypass the competitive process, but do not 
+
+accept the cash payment. 
+
+b.  Talk to your boss about the policy to find out if your classmate's company qualifies 
+
+for the special circumstance exemption.  
+
+c.  Encourage the classmate to follow the competitive process and do not accept the 
+
+cash payment because doing so would put you in a conflict of interest. 
+d.  It does not matter what you do because you are not a licensed professional 
+
+engineer and a policy is not a legal requirement. 
+
+<<More questions on next page>> 
+
+Page 11 of 17 
+
+ 
+ 
+ 
+ 
+34.  A new LEGO® design engineer proposes an “out-of-the-box” idea for the sustainable 
+toy bricks – they will be the same sizes and weights as the current bricks but look 
+completely different. His supervisor challenges this idea on the basis of how humans 
+interact with technology – her reasoning is: 
+
+a.  On a political level, the new shapes look like aircraft control mechanisms and 
+
+therefore should not be used. 
+
+b.  On a psychological level, the new toys are more intuitive when they look like 
+
+the existing toys. 
+
+c.  On a physical level, the shapes the designer is proposing will require new 
+
+shapes of packaging. 
+
+d.  On a social level, the company is doing enough by introducing sustainability – it 
+
+does not need more ideas. 
+
+End of questions pertaining to Case Study #1: Lego Goes Sustainable located in 
+Appendix A. 
+
+End of multiple-choice questions. 
+
+<<Long-answer questions start on the next page>> 
+
+Page 12 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 2:  
+
+Long Answer Questions (40%)  
+
+Questions 35 to 37 are based on Case Study #2: RFP for a Security System for 
+Foldable Electric Cars, located in Appendix B. 
+
+INSTRUCTIONS: This section requires 3 written answers. Use an exam booklet, and write in 
+your name, student number, course, and date of examination on the booklet’s cover page. 
+You may use as many pages as you need for your preliminary work, but the final answers 
+must be no more than four (4) pages single-spaced or eight (8) pages double spaced. 
+Clearly indicate the final copy to be graded by writing “Final Copy” at the start of it. Use full 
+sentences and paragraphs and bullet lists where appropriate. 
+
+This section of the exam evaluates your ability to 
+
+•  Communicate in clear, concise, well-organized sentences and paragraphs with minimal 
+
+error 
+
+•  Structure a logical argument, making clear claims and supporting them with the evidence 
+
+currently available to you 
+
+•  Recognize the kinds of information you would need, moving forward, to validate and 
+better support your claims and generate specific questions to help you find that 
+information 
+
+•  Read, understand, and analyse engineering-related material under time pressure 
+
+35.  Based on Case Study 2: RFP for a Security System for Foldable Electric Cars, located 
+
+in Appendix B, in paragraph form (one or more paragraphs) write a concise Problem 
+Statement in your own words. DO NOT COPY SENTENCES WORD-FOR-WORD 
+FROM THE CASE STUDY IN YOUR PROBLEM STATEMENT. YOU WILL RECEIVE 
+NO MARKS FOR MATERIAL COPIED WORD-FOR-WORD FROM THE CASE 
+STUDY. (20 marks) 
+
+36.  Based on Case Study 2: RFP for a Security System for Foldable Electric Cars located 
+
+in Appendix B, generate Functions, Objectives and Constraints. Utilize course tools 
+such as Functional Basis and Functional Decomposition. In total, you should have 
+about 10 items, whether they are Primary Functions, Secondary Functions, Unintended 
+Functions, Objectives or Constraints. Treat this like a section of a design document 
+with a section introduction and sub-sections. Introduce each of the sub-sections (e.g. 
+Functions, Objectives, Constraints) with a few sentences that help the reader 
+understand their nature and significance. (15 marks) 
+
+37. 
+
+Identify five key research questions you would want to answer in order to check the 
+validity of your claims and to develop the three top objectives further. (Don’t worry 
+about whether the questions are open or closed.) (5 marks) 
+
+End of all questions for this exam. 
+
+Page 13 of 17 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page is intentionally left blank. 
+
+The appendices (case studies) start on the next page. 
+
+Page 14 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You may remove the appendix in order to use it when answering questions. 
+
+Appendix A: Case Study #1: LEGO(cid:147) Goes Sustainable  
+
+The Lego Group first introduced its shiny, hollow-tubed plastic rectangular toy bricks in 1958.  
+
+Source: http://www.lego.com/en-us/aboutus/media-library#?filter&ids=7aa7836d702840bfb024e51c7b0b9d10 
+
+The plastic used by the Lego Group to make its toy bricks is fossil fuel-based.  During the 
+manufacturing process, the plastic is heated to between 230°C (degrees Celsius) and 
+310°C, and then injected into moulds.  The force used to inject the heated plastic into the 
+moulds can reach 29,000 psi (pounds per square inch).  In comparison, the tire pressure for 
+the average car does not usually exceed 43 psi.  The moulds used to manufacture the toy 
+bricks are accurate to within 0.0004 mm (millimetres).  The Lego Group has factories in 
+Denmark, Hungary, the Czech Republic, and Mexico.  It will soon open a new factory in 
+China.  All LEGO(cid:147) toy bricks are fully compatible with each other, regardless of when (from 
+1958 to today) or where they were made.   
+
+According to the Lego Group, the plastic “offers great quality, fulfills the highest safety 
+standards, and lasts for a long time making it a very durable product”.  In 2014, Lego Group 
+produced more than 60 Billion toy bricks. 
+
+In July, 2015, Lego Group announced that it will search for a new sustainable material to 
+replace the fossil fuel-based plastic for its toy bricks.  The Lego Group is investing $150 
+million to build a sustainability centre in Billund, a small town on Denmark’s Jutland 
+peninsula, to investigate alternative materials. The Lego Group wants to start production of 
+its toy bricks using the new sustainable material by 2030.  
+
+Page 15 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B: Case Study #2: RFP for a Security System for Foldable Electric Cars 
+
+At the Toronto-based start-up, Vision 20/20 Inc., we are in the business of creating products 
+for the future. As such, we are seeking proposals for a security device for electric folding 
+cars. Three such automobile designs currently exist: 
+-  The Hiroko developed by Massachusetts Institute of Technology (MIT) and a Spanish 
+
+redevelopment agency, DENOKINN [1]; 
+
+-  The Armadillo-T developed by the Korean Advanced Institute of Science and Technology 
+
+(KAIST) [2]; 
+
+-  The Casple Podadera developed by the Spanish business group Casple and the 
+
+designer Francisco Podadera [3]. 
+
+Figure 1: Diagram of Hiroko Folding car, from G. Munro [1] 
+
+Figure 2: Armadillo-T driving and folded configurations. From K. Munro [2] 
+
+Page 16 of 17 
+
+ 
+ 
+ 
+Figure 3: Casple-Podadera driving and folded configurations. From A. MacKenzie [3] 
+
+Measuring between 2.30 and 2.80 metres in use and between 1.65 and 1.90 metres when 
+folded [1-3], these two person vehicles are the ultimate answer to the challenges of city 
+driving and city parking! Up to three of these could fit in a conventional Toronto parking 
+space (5.6*2.6 metres) [4]. So, how it works is, the driver finds a parking spot about a third of 
+the size of a normal spot, gets out of the car, folds it and parks it through a smart phone app.  
+However, at Vision 20/20, we foresee a major drawback for these cars. They are so light (the 
+Hiroki is a mere 452Kg [1] and the Armadillo-T is 3 Kg [2] lighter than that), they could easily 
+be lifted and carried away by a small number of strong people with a minimal amount of 
+equipment. 
+
+So, we believe that as these new foldable electric cars start to come on the market, there will 
+be a need for a security device that prevents unauthorized removal of the vehicle while 
+allowing law enforcement to tow when necessary. It would also be desirable for the security 
+system to warn the car owner in the case of the car being moved. However, any such alarm 
+system cannot create a disturbance if the car is parked in a residential neighbourhood at 
+night. Finally, if an electrical source or a source of energy transformable to electrical power is 
+available, it would be an added benefit if the security system could also charge the car’s 
+battery while the car is parked. In the case of this add-on, electromagnetic systems would be 
+preferred. 
+
+[1]   G. Munro (2013 Jan 2) “New for 2013-The Hiroko-The Foldable Car!” [Online] efergy  
+Available: http://efergy.com/blog/new_for_2013-the_hiroko_the_foldable_car/#  
+
+[2]   K. Munro (2013 Aug 13) “Armadillo-T Foldable Electric Micro-car by KAIST” [Online] de 
+zeen magazine Available: http://www.dezeen.com/2013/08/23/armadillo-t-foldable-
+electric-micro-car-by-kaist/  
+
+[3]   A. MacKenzie (2013 Feb 18) “The Casple-Podadera City Car Knows When to Fold 'Em” 
+[Online] Gizmag  Available: http://www.gizmag.com/casple-podadera-folding-car/26268/  
+
+[4]  City of Toronto (2014 Aug 19) Chapter 200 Parking Space Regulations [Online] 
+
+Available: 
+http://www.toronto.ca/zoning/bylaw_amendments/ZBL_NewProvision_Chapter200.htm  
+
+Page 17 of 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+APS111&113 Fall 2015 Final Exam - Answer Key to Multiple-Choice Questions
+
+Question
+MC1
+MC2
+MC3
+MC4
+MC5
+MC6
+MC7
+MC8
+MC9
+MC10
+MC11
+MC12
+MC13
+MC14
+MC15
+MC16
+MC17
+MC18
+MC19
+MC20
+MC21
+MC22
+MC23
+MC24
+MC25
+
+Correct
+Answer
+C
+B
+D
+A
+B
+B
+B
+C
+C
+C
+D
+A
+B
+D
+D
+C
+A
+B
+D
+A
+C
+B
+C
+C
+D
+
+MC26
+MC27
+MC28
+MC29
+MC30
+MC31
+MC32
+MC33
+MC34
+
+C
+C
+C
+C
+A
+A
+B
+C
+B
+
+After analyzing the results, the professors decided to make question #26 
+bonus. Students who answered it correctly received a bonus mark. Students 
+who answered incorrectly were not penalized. The multiple-choice portion of 
+the exam was marked out of 33 instead of 34. It's possible to score 34/33.
+
+APS111 2015 FINAL EXAM: CIs’ LONG ANSWER MARKING GUIDE 
+
+In general, what we are looking for in questions 35, 36, 37: 
+
+•  Understands key course concepts well enough to write intelligently about them: functions, objectives, research questions 
+•  Paragraph level: Communicates using cohesive, unified, well-organized paragraphs with some sentence to sentence relationship 
+•  Sentence level: Sentences are clear, concise, and any errors do not impede comprehensibility or significantly impeded ease of reading 
+
+What we do NOT expect under exam–writing conditions: 
+
+•  Research or research citations 
+•  Metrics or goals 
+•  Perfect grammar, super-polished writing 
+
+Question 35.  
+
+Based on Case Study 2: RFP for a Security System for Foldable Electric Cars, located in Appendix B, in paragraph form (one or more paragraphs) 
+write a concise Problem Statement in your own words. DO NOT COPY SENTENCES WORD-FOR-WORD FROM THE CASE STUDY IN YOUR PROBLEM 
+STATEMENT. YOU WILL RECEIVE NO MARKS FOR MATERIAL COPIED WORD-FOR-WORD FROM THE CASE STUDY. (20 marks) 
+
+Fails (F) 9/20 and below 
+Does not recognize the 
+actual problem. 
+Misidentifies problem. 
+
+Lack of organization or 
+structure in paragraphs.  
+
+Criteria 
+Content 
+
+Organization & 
+Presentation at 
+sentence, 
+paragraph & 
+document level  
+
+Below (C, D) 10-13/20 
+Recognizes some of 
+actual problem, but 
+does not transform it to 
+engineering terms. 
+Some attempt at 
+organization in 
+paragraphs. 
+Overreliance on 
+“transition” words. 
+
+Meets (B) 14-15/20 
+Recognizes problem, 
+transforms it into 
+solution-independent 
+engineering terms. 
+Demonstrates deliberate 
+& consistent logical 
+development of material  
+
+Exceed (A) >16/20 
+Recognizes problem, identifies gap 
+and transforms information 
+entirely into solution independent 
+engineering terms. 
+Excellent paragraph organization in 
+paragraphs: thoughtful topic 
+sentence skilfully developed 
+through both sentence order and 
+use of transition words and 
+conjunctions 
+
+ 
+ 
+ 
+ 
+ 
+Sentences unrelated to one 
+another 
+
+or Inconsistent or 
+inaccurate use of 
+conjunctions/transition 
+phrases  
+
+Overuse/dependence on 
+language of question, case 
+study, or definitions 
+
+Ideas are lost as a result of 
+poor word choice or poor 
+sentence structure 
+
+Language of question 
+and/or case study 
+mixed with some 
+personal language 
+
+Ideas are 
+comprehensible with 
+effort; everyday 
+vocabulary dominates 
+
+Major and/or frequent 
+syntax, usage, vocabulary 
+or language form errors 
+
+Somewhat free of 
+syntax, usage, 
+vocabulary or language 
+form errors 
+
+Satisfactory paragraph 
+organization: clear 
+relationship between 
+topic sentences and 
+organization of following 
+sentences, careful choice 
+of transition or linking 
+strategies. 
+Language of case study, 
+questions used 
+strategically and 
+accurately with mostly 
+personal language 
+Meaning is clear at 
+paragraph, sentence, and 
+word choice level with 
+minimal error  
+
+Sentences are simple, 
+direct; mostly accurate 
+use of course terms, 
+some repetition 
+
+Mostly free of syntax, 
+usage, vocabulary or 
+language form errors 
+
+Guides the reader with appropriate 
+use of structure, presentation, & 
+word choices  
+
+Language of case study/questions 
+integrated with student’s language 
+as part of the discipline discourse 
+
+Meaning presented in clear, 
+elegant, and concise prose 
+Combination of simple and 
+complex sentences; concise; 
+precise and accurate use of course 
+terms 
+
+Entirely free of syntax, usage, 
+vocabulary or language form errors 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 36.  
+
+Based on Case Study 2: RFP for a Security System for Foldable Electric Cars located in Appendix B, generate Functions, Objectives and 
+Constraints. Utilize course tools such as Functional Basis and Functional Decomposition. In total, you should have about 10 items, whether they 
+are Primary Functions, Secondary Functions, Unintended Functions, Objectives or Constraints. Treat this like a section of a design document with 
+a section introduction and sub-sections. Introduce each of the sub-sections (e.g. Functions, Objectives, Constraints) with a few sentences that 
+help the reader understand their nature and significance. (15 marks) 
+
+Component 
+Introductory sentences 
+
+Fails (F) 7/15 and below 
+Does not introduce lists or 
+introduces lists in way 
+that is not meaningful 
+
+Below (C, D) 7.5-10/20 
+Uses textbook definitions 
+
+Functional basis 
+
+Primary functions 
+
+Secondary functions 
+
+Objectives 
+
+Constraints 
+
+Does not provide 
+Functional basis or 
+provides incorrect 
+functional basis 
+Does not correctly identify 
+primary function(s) 
+
+Provides partial functional 
+basis – e.g. uses verb 
+“control” rather than 
+specific kind of control 
+Identifies one primary 
+function 
+
+Does not provide relevant 
+secondary functions  
+Objectives vague and/or 
+meaningless 
+
+Provides some relevant 
+secondary functions 
+Some meaningful 
+objectives given 
+
+Misses constraints in 
+Client Statement 
+
+Some constraints given 
+but may be in terms of 
+client statement 
+
+Meets (B) 10.5-11.5/20 
+Adapts textbook 
+definitions to specific 
+situation 
+
+Provides one functional 
+basis according to form 
+
+Identifies two primary 
+functions 
+
+Provides a fairly complete 
+list of secondary functions 
+All objectives are 
+reasonable, not 
+necessarily measurable 
+All constraints indicated in 
+client statement are 
+translated into 
+engineering language 
+
+Exceed (A) >12/15 
+In addition to “meets” 
+adds meaningful 
+dimensions to 
+introductory sentences 
+Identifies two functional 
+bases – one controlling 
+mass, the other 
+controlling information 
+Identifies primary 
+functions, in language 
+that moves beyond 
+functional bases 
+Provides a comprehensive 
+list of secondary functions 
+Objectives may have goals 
+added and seem to be 
+measurable 
+Constraints from problem 
+statement, in engineering 
+language, are augmented 
+by reasonable other 
+constraints (laws, codes) 
+
+ 
+ 
+ 
+Question 37.  
+
+Identify five key research questions you would want to answer in order to check the validity of your claims and to develop the three top 
+objectives further. (Don’t worry about whether the questions are open or closed.) (5 marks) 
+
+Like the PSQ assignment:  
+
+• 
+•  Can students recognize what they don't know that they need to know 
+• 
+I.e., Can they identify what additional information they need? 
+•  Can they come up with some ideas on where/how to find it? 
+•  Evaluate their ability to link questions with the claims they made in Q. 34 
+•  To get full marks (5/5) only have to meet expectations, not exceed (exam) 
+
+1-1.5 
+Provides 1 Q. useful 
+for 
+validating/developing 
+chosen objectives 
+
+2-3 
+Provides 1 or 2 questions 
+useful for 
+validating/developing the 
+chosen objectives 
+
+FAIL 0/5 
+No answer 
+
+Qs have no relationship 
+to objectives discussed 
+
+Questions already 
+answered in case study 
+
+FULL MARKS 4-5/5 
+At least 3 questions 
+
+All Qs. target info that 
+would validate or 
+develop the chosen 
+objectives 
+
+Each objective 
+addressed by at least 
+one question 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B: Case Study #2: RFP for a Security System for Foldable Electric Cars 
+
+At the Toronto-based start-up, Vision 20/20 Inc., we are in the 
+business of creating products for the future. As such, we are seeking 
+proposals for a security device for electric folding cars. Three such 
+automobile designs currently exist: 
+
+-  The Hiroko developed by Massachusetts Institute of 
+
+Technology (MIT) and a Spanish redevelopment agency, 
+DENOKINN [1]; 
+
+-  The Armadillo-T developed by the Korean Advanced 
+Institute of Science and Technology (KAIST) [2]; 
+
+-  The Casple Podadera developed by the Spanish business 
+group Casple and the designer Francisco Podadera [3]. 
+
+Figure 1: Diagram of Hiroko Folding 
+car, from G. Munro [1] 
+
+Figure 2: Armadillo-T driving and folded configurations. From K. Munro [2] 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3: Casple-Podadera driving and 
+folded configurations. From A. 
+MacKenzie [3] 
+
+Measuring between 2.30 and 2.80 
+metres in use and between 1.65 and 
+1.90 metres when folded [1-3], these 
+two person vehicles are the ultimate 
+answer to the challenges of city 
+driving and city parking! Up to three 
+of these could fit in a conventional 
+
+Toronto parking space (5.6*2.6 metres) [4]. So, how it works is, the driver finds a parking spot about a third of the size of a normal spot, gets out 
+of the car, folds it and parks it through a smart phone app.  
+
+However, at Vision 20/20, we foresee a major drawback for these cars. They are so light (the Hiroki is a mere 452Kg [1] and the Armadillo-T is 3 
+Kg [2] lighter than that), they could easily be lifted and carried away by a small number of strong people with a minimal amount of equipment. 
+
+So, we believe that as these new foldable electric cars start to come on the market, there will be a need for a security device that prevents 
+unauthorized removal of the vehicle while allowing law enforcement to tow when necessary. It would also be desirable for the security system 
+to warn the car owner in the case of the car being moved. However, any such alarm system cannot create a disturbance if the car is parked in a 
+residential neighbourhood at night. Finally, if an electrical source or a source of energy transformable to electrical power is available, it would be 
+an added benefit if the security system could also charge the car’s battery while the car is parked. In the case of this add-on, electromagnetic 
+systems would be preferred. 
+
+[1]   G. Munro (2013 Jan 2) “New for 2013-The Hiroko-The Foldable Car!” [Online] efergy  Available: http://efergy.com/blog/new_for_2013-the_hiroko_the_foldable_car/#  
+
+[2]  
+
+K. Munro (2013 Aug 13) “Armadillo-T Foldable Electric Micro-car by KAIST” [Online] de zeen magazine Available: http://www.dezeen.com/2013/08/23/armadillo-t-foldable-electric-micro-car-
+by-kaist/  
+
+[3]  
+
+A. MacKenzie (2013 Feb 18) “The Casple-Podadera City Car Knows When to Fold 'Em” [Online] Gizmag  Available: http://www.gizmag.com/casple-podadera-folding-car/26268/  
+
+[4]   City of Toronto (2014 Aug 19) Chapter 200 Parking Space Regulations [Online] Available: http://www.toronto.ca/zoning/bylaw_amendments/ZBL_NewProvision_Chapter200.htm  
+
+APS11113 Fall 2015 Final Exam – Explanation of Questions with which Students had Difficulty 
+
+5.  Which statement best describes bioaccumulation? 
+
+a.  The entry of persistent toxic substances into the 
+
+“Entry” does not describe accumulation 
+
+Question 
+
+Rationale 
+
+environment. 
+
+b.  The build-up of persistent toxic substances in the fatty 
+
+“Build-up” = accumulation 
+
+tissues of organisms. 
+
+c.  The concentration in the tissues of an organism of 
+
+substances occurring in the environment.  
+
+8. 
+
+d.  The increase in the concentration of a substance in the 
+
+tissues of organisms at successively higher levels in a food 
+chain. 
+
+In Ontario law, good character comprises three components, 
+including the courage to do what is right, no matter the personal 
+consequences.  This component of the Ontario law is also 
+referred to as which of the following? 
+a.  Due diligence. 
+
+b.  Code of Ethics. 
+
+c.  Whistle-blower clause. 
+
+d.  Professional Engineers Ontario. 
+
+“Concentration” is a measure of the amount of 
+contaminant at the time a sample is taken; it does not 
+describe accumulation 
+This is the definition of “bio-magnification” presented in 
+the Economics 1 lecture; the key is the second part of 
+the answer. 
+
+Due diligence is defined as “taking reasonable care to 
+ensure all relevant standards, codes, and statues are 
+adhered to...”; it applies more to an approach to 
+engineering work, rather than a behavior. 
+The Code of Ethics is a guide to appropriate behavior 
+that is embedded in the Professional Engineers Act and 
+Regulations. 
+“Whistle-blower” clause is described as the “courage to 
+do what is right, no matter the personal consequences”, 
+taken directly from the lecture (see Slide 18 in the 
+November 27 lecture – I even use a large arrow to point 
+it out). 
+This is the organization that requires “good character”. 
+
+ 
+ 
+Question 
+
+Rationale 
+
+11.  Which of the following statements about present worth is 
+
+TRUE? 
+a.  Present worth relies on simple interest calculations and a 
+
+fixed interest rate. 
+
+b.  Present worth is only used for private sector engineering 
+
+design projects. 
+
+c.  Present worth cannot be applied to external costs and 
+
+benefits. 
+
+Simple interest calculations and fixed interest rate can 
+be used, but so can compound interest and variable 
+interest rate.  Furthermore, in Economics 2 lecture, I 
+explained that most engineering (and real world) time 
+value of money calculations are based on compound 
+interest – see Slide 12. 
+Private sector projects do not have a monopoly on 
+present worth; it can be used for public sector, and not-
+for-profit sector, projects, too. 
+Present worth can be applied to any type of costs and 
+benefits. 
+
+d.  Present worth is calculated by discounting future cash flows.  This is the definition directly from Economics 2 (see 
+
+Slide 14). 
+
+17.  Life cycle assessment is different from industrial ecology 
+
+because: 
+a.  Life cycle assessment ends with the final disposal of the 
+
+product, whereas industrial ecology considers uses for the 
+product after the end of the products service life.  
+
+b.  Life cycle assessment has been applied to many different 
+
+products and systems, but industrial ecology has only been 
+applied at Kalundborg, Denmark. 
+
+c.  Life cycle assessment applies to products and industrial 
+
+ecology is restricted to large-scale industries. 
+
+d.  Life cycle assessment identifies waste emissions, whereas 
+industrial ecology identifies waste emissions as inputs to 
+other industrial processes.  
+
+This is a main difference between LCA and Industrial 
+ecology:  LCA ends with final disposal, but with industrial 
+ecology, “disposal is not the end” (see lecture on 
+Sustainability, Slide 24). 
+Incorrect because industrial ecology has been applied 
+beyond Kalundborg. 
+
+Incorrect because LCA can be applied to systems (as 
+well as products) and industrial ecology is not restricted 
+to large-scale industries. 
+Both LCA and industrial ecology identify waste 
+emissions (so this is not a difference), and there is 
+nothing to stop an LCA from concluding that waste 
+emissions could be used as an input to another process. 
+
+ 
+ 
+Question 
+26.  LEGO(cid:147) toy bricks are made in manufacturing facilities that incur 
+a number of different types of costs.  Which one of the following 
+statements about the costs of the toy bricks is TRUE? 
+a.  The cost of the plastic used to the produce the toy bricks 
+
+represents a fixed operating cost. 
+
+b.  Rent and taxes paid for the manufacturing facility are 
+
+variable costs. 
+
+c.  The cost of advertising LEGO(cid:147) toy bricks is a direct cost. 
+
+d.  Workers wages are an indirect cost. 
+
+27.  As a design engineer, you have been asked by the Lego Group 
+to investigate the possibility of implementing an industrial 
+symbiosis (industrial ecology) as one of the criteria for 
+evaluating different locations for the new sustainability centre.  
+You know that many global companies have manufacturing 
+facilities located in Billund, including Bang & Olufsen, Ecco, and 
+CCI Europe. You agree to use the criterion, but you want to 
+ensure the Lego Group fully understands the principles, so you 
+explain that one of the following statements about industrial 
+ecology is FALSE:  
+a.  Most inputs should be obtained through recycling. 
+
+b.  Industries should minimize the use of materials and energy. 
+
+c.  Products should be designed so they have a finite service 
+
+life. 
+
+Rationale 
+
+False because the amount of plastic depends on how 
+many bricks are manufactured; the cost of plastic is a 
+variable cost. 
+False because rent and taxes must be paid on a regular 
+basis (monthly, annually) no matter how many bricks are 
+made or how many hours / days / months the 
+manufacturing facility operates; these are fixed costs. 
+The cost of advertising a product must be taken into 
+consideration when determining the cost to the client. 
+False, because as with advertising, worker’s wages are 
+a direct cost of toy brick production. 
+
+This statement is TRUE: “most inputs should be 
+obtained through recycling” (Sustainability, Slide 28, #5). 
+This statement is TRUE: “minimize the use of materials 
+and energy” (Sustainability, Slide 28, #3). 
+This statement is FALSE: a key principle is to design 
+products to create other useful products at the end of the 
+product’s originally-intended service life (Sustainability, 
+Slide 28, #6). 
+
+ 
+ 
+Question 
+d.  Products and processes can produce residuals, but not 
+
+This statement is TRUE (Sustainability, Slide 28, #1). 
+
+Rationale 
+
+wastes. 
+
+28.  During the production of LEGO(cid:147) toy bricks, excess heat is 
+
+released into the atmosphere as the heated plastic is injected 
+into the moulds.  The Lego Group estimates the annual amount 
+of waste heat is sufficient to meet the energy needs of 500 
+households.  The Lego Group has hired you as the design 
+engineer to build a system to capture the excess heat and 
+convert it to electricity.  Which of the following terms best 
+describes what you have been asked to do with the excess 
+heat? 
+a.  Reuse. 
+
+b.  Reduce. 
+
+c.  Recover. 
+
+d.  Renewable. 
+
+Reuse means there is “no essential change to the 
+component in order for it to be utilized for a different 
+purpose” (see Textbook definition, p. 594).  The question 
+specifies that the design engineer is to “build a system to 
+capture the excess hear and convert it to electricity” – if 
+anything, this is an example of “recycling”. 
+Reduce means to use less – but the question is about 
+using excess heat; there is no mention of reducing heat 
+generation.  
+The question specifies that the design engineer is to 
+“build a system to capture the excess heat and convert it 
+to electricity”.  This is an example of waste heat 
+“recovery”; related to the energy from waste example 
+described in Environment  1.  
+A manufacturing process is not considered a renewable 
+energy source. 
+
+ 
+Question 
+
+Rationale 
+
+31. What price should the Lego Group charge for the toy bricks so 
+
+that the payback period is equal to the time between now and the 
+opening of the new sustainability centre, assuming the number of 
+toy bricks sold annually remains constant? 
+
+a.  0.02¢ per toy brick. 
+b.  0.03¢ per toy brick. 
+c.  0.038¢ per toy brick. 
+d.  0.0002¢ per toy brick. 
+
+Let P = price per toy brick in $ 
+
+See calculation below. 
+Incorrect. 
+Incorrect.  
+The answer is $0.0002; this amount must be multiplied 
+by 100 to obtain the amount in cents. 
+
+Payback period = the time between now and the opening of the new sustainability centre = assume 15 years 
+
+Number of toy bricks sold annually = assume to be # manufactured annually = 60 billion = 60 x 109/ year 
+
+Cost for the new sustainability centre = $150 million = $150 x 106  
+
+Payback period  
+
+= 15 years = 𝐶𝐶𝐶𝐶 𝑓𝐶𝑓 𝐶ℎ𝑒 𝑛𝑒𝑛 𝐶𝑠𝐶𝐶𝑠𝑠𝑛𝑠𝑠𝑠𝑠𝑠𝐶𝑠 𝑐𝑒𝑛𝐶𝑓𝑒
+
+𝐴𝑛𝑛𝑠𝑠𝑠 𝑅𝑒𝑅𝑛𝑠𝑒
+
+Annual revenue 
+
+= (Price per toy brick) x (Number of bricks sold annually) 
+
+=  $𝑃
+𝐵𝑓𝑠𝑐𝐵
+
+ x 60,000,000,000 𝐵𝑓𝑠𝑐𝐵𝐶
+𝑌𝑒𝑠𝑓
+
+ = $60P x 109/ year 
+
+Thus, payback period  
+
+= 15 years = 𝐶𝐶𝐶𝐶 𝑓𝐶𝑓 𝐶ℎ𝑒 𝑛𝑒𝑛 𝐶𝑠𝐶𝐶𝑠𝑠𝑛𝑠𝑠𝑠𝑠𝑠𝐶𝑠 𝑐𝑒𝑛𝐶𝑓𝑒
+
+𝐴𝑛𝑛𝑠𝑠𝑠 𝑅𝑒𝑅𝑛𝑠𝑒
+
+ = 
+
+$150,000,000
+
+$60,000,000,000𝑃/𝑠𝑒𝑠𝑓
+
+= (15 years) x ($60,000,000,000P/year) = $150,000,000 
+
+= $900,000,000,000P = $150,000,000 
+
+= P =  150,000,000
+900,000,000,000
+
+ = $0.000167 ≈ $0.0002 
+
+There are 100¢ in $1, therefore multiply P x 100 to get the amount in cents = (100¢ / $) x $0.0002 = 0.02¢ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29.  The purpose of Q29 was to test the student’s understanding of the different methods to choose among alternatives.  The 
+answer to Q29 is “c”, and the choices come from the chart on p. 151 of the text book, which lists different decision-making 
+models, along with the descriptions of the models on the pages thereafter.   
+
+The year is 2030, and you have been hired as a design engineer by the Lego Group to work at their sustainability centre. You 
+have been experimenting with different materials that could be used instead of the fossil-fuel based plastic, and you have 
+identified 3 potential substitutes: milk protein, polycaprolactone (PCL), and silica. The Lego Group has given you 3 objectives for 
+the new sustainable material: (1) heat resistance up to 310°C, (2) compatibility with existing toy brick moulds, and (3) 
+manufacturing costs using the new sustainable material not to exceed current costs. To compare how well the different materials 
+satisfy the objectives, you propose to use a decision-making method. Which of the following statements best describes which 
+method you will use and why? 
+
+a. Multi-voting, because it is simple to use and provides a high degree of confidence. Per the chart on p. 151 of the textbook, 
+multi-voting is simple to use but provides a low level of confidence, so the statement that multi-voting provides a high 
+degree of confidence is incorrect. 
+
+b. Graphic decision chart, because it can be used for more than 2 objectives. Per the description on p. 152  and the diagram 
+on p. 153 of the textbook, a graphic decision chart is used to compare against 2 criteria, not more than 2 as is the case 
+here with 3 objectives identified, so the statement that the method can be used for more than 2 objectives is not 
+correct.  
+
+c. Pugh Method, because it is simple to use and works best with only a few alternatives. The Pugh method is listed under the 
+“Simple Models” on p. 154 of the textbook, and the description in the chart on p. 151 actually states that the Pugh 
+Method “works best with only a few alternatives”, making this answer the best one of the  4 choices available. 
+
+d. A risk-based model, because it is simple to use and captures the significant risks involved in changing the plastic used for the 
+toy bricks. Per the chart on p. 151 of the textbook, risk-based models are identified as “very difficult” to use, and while 
+this type of model will capture the risks, the first part of the answer is incorrect. 
+
+ 
+ 
+

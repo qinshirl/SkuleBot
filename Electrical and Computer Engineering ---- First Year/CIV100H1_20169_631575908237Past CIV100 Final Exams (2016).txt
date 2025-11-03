@@ -1,0 +1,466 @@
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2016	
+
+Question 1 
+The structure ABCDE is used to prevent fresh water from flowing out of the long channel on the right. 
+The weight of vertical panel ABC may be neglected and BCDE is made of reinforced concrete with a 
+density of 2,400 kg/m3. Determine the reaction force components at the fixed base A. 
+
+Question 3 
+The hinged beam illustrated below is made of three rigid segments, connected by pins at C and E. 
+(a) Draw the shear force and bending moment diagrams in the space reserved below, indicating 
+the values at A, B, C, D, E, F and G, as well as any potential local maxima and minima; 
+(b) The beam is made of two identical C-shaped bent plates, welded ‘toe-to-toe’ to form a hollow 
+rectangle, as shown in the cross section. Before bending, each plate can be cut in multiples of 10 
+mm. Determine the width, b, of the beam such that it can safely carry the loads applied. The beam 
+material is Grade 6061-T4 aluminium with a yield stress of 110 MPa and the required load factor 
+for flexure is 1.5. 
+
+Question 2 
+The rectangular prism is made of a solid, homogenous material having a density of 1,400 kg/m3 and must 
+support a cylindrical container at C. The prism is supported by a cable DE and by ball-and-socket joints at 
+A and B. The support at E lies in the x-y plane. Determine the magnitude of the force in cable ED. Express 
+the force in cable ED in Cartesian vector format. 
+
+Answers: 
+
+Ax = 397 kN/m  
+Ay = 259 kN/m 
+MA = 674 kNm/m 
+
+BB
+Hodgetts
+
+TED = 123.6 kN (Tension) 
+A10######⃗ = −105.95⃗ + 35.3*⃗ − 53.0-#⃗	-/ 
+
+Answers: 
+
+Answer: 
+
+b = 90.0 mm 
+
+m
+
+Question 5 
+Illustrated below is a portal crane used in a ship-building yard. While lifting materials, the crane is 
+also affected by wind loading. The forces acting on the crane from both lifting and wind are as 
+illustrated. 
+(a) Find the forces in members DE, DI, IK and KL of the truss; 
+(b)  Member DI is to be constructed from a built-up steel hollow section constructed from four 
+plates welded together, as indicated in the cross section. Determine the minimum plate thickness, 
+t, considering that the material is available in one millimetre intervals. The yield stress for steel is 
+350 MPa and the load factor for axial tension is 1.1; 
+(c) Knowing that the modulus of elasticity for steel is 200,000 MPa, determine the elongation of 
+member DI, as designed. 
+
+Question 4 
+The three straight members in the structure shown are pin-connected and the pulley is frictionless. The 
+rope is attached at one end to member CD, at G. Determine the components of all the forces acting on 
+member ACEF. Present your answers on a separate free-body diagram of member ACEF. Neglect the 
+weight of the members and pulley. 
+
+     Answer: 
+
+FM
+
+kN	
+
+     Answers: 
+
+     FDE = 353 kN (C) 
+     FDI = 500 kN (T) 
+     FIK = 707 kN (T) 
+     FKL = 290 kN (C) 
+
+MBma.ba
+
+     t = 6.00 mm 
+     DDI = +4.68 mm 
+             (T = Tension; C = Compression) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2016	
+
+Question 1 
+The structure ABCDE is used to prevent fresh water from flowing out of the long channel on the right. 
+The weight of vertical panel ABC may be neglected and BCDE is made of reinforced concrete with a 
+density of 2,400 kg/m3. Determine the reaction force components at the fixed base A. 
+
+Answers: 
+
+Ax = 397 kN/m  
+Ay = 259 kN/m 
+MA = 674 kNm/m 
+
+Question 3 
+The hinged beam illustrated below is made of three rigid segments, connected by pins at C and E. 
+(a) Draw the shear force and bending moment diagrams in the space reserved below, indicating 
+the values at A, B, C, D, E, F and G, as well as any potential local maxima and minima; 
+(b) The beam is made of two identical C-shaped bent plates, welded ‘toe-to-toe’ to form a hollow 
+rectangle, as shown in the cross section. Before bending, each plate can be cut in multiples of 10 
+mm. Determine the width, b, of the beam such that it can safely carry the loads applied. The beam 
+material is Grade 6061-T4 aluminium with a yield stress of 110 MPa and the required load factor 
+for flexure is 1.5. 
+
+Question 2 
+The rectangular prism is made of a solid, homogenous material having a density of 1,400 kg/m3 and must 
+support a cylindrical container at C. The prism is supported by a cable DE and by ball-and-socket joints at 
+A and B. The support at E lies in the x-y plane. Determine the magnitude of the force in cable ED. Express 
+the force in cable ED in Cartesian vector format. 
+
+Answer: 
+
+b = 90.0 mm 
+
+Answers: 
+
+TED = 123.6 kN (Tension) 
+A10######⃗ = −105.95⃗ + 35.3*⃗ − 53.0-#⃗	-/ 
+
+Question 4 
+The three straight members in the structure shown are pin-connected and the pulley is frictionless. The 
+rope is attached at one end to member CD, at G. Determine the components of all the forces acting on 
+member ACEF. Present your answers on a separate free-body diagram of member ACEF. Neglect the 
+weight of the members and pulley. 
+
+     Answer: 
+
+kN	
+
+Question 5 
+Illustrated below is a portal crane used in a ship-building yard. While lifting materials, the crane is 
+also affected by wind loading. The forces acting on the crane from both lifting and wind are as 
+illustrated. 
+(a) Find the forces in members DE, DI, IK and KL of the truss; 
+(b)  Member DI is to be constructed from a built-up steel hollow section constructed from four 
+plates welded together, as indicated in the cross section. Determine the minimum plate thickness, 
+t, considering that the material is available in one millimetre intervals. The yield stress for steel is 
+350 MPa and the load factor for axial tension is 1.1; 
+(c) Knowing that the modulus of elasticity for steel is 200,000 MPa, determine the elongation of 
+member DI, as designed. 
+
+     Answers: 
+
+     FDE = 353 kN (C) 
+     FDI = 500 kN (T) 
+     FIK = 707 kN (T) 
+     FKL = 290 kN (C) 
+
+     t = 6.00 mm 
+     DDI = +4.68 mm 
+             (T = Tension; C = Compression) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,496 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 9
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Di!erentialEquationsDefinAdifferentialequationisanequationthatinvolvesavariableyandit'sderivativesfGgxOFlyg4,470TenuatesUseWhenderivativeofaquantitydependsonthequantityitselexyPopulationmorepopulationmorebabieshigherderivatieChemicalconcentrationsexradioactivedecaymorenexttimeGivendifferentialequationtheorderisthelargestderivativethatappearsinequationexcyyx2x01storder9y'yx02ⁿᵈorderAlinearODEisonewhereallderivativesappearlinearlyexy2yyxolineary2yyononlinear92y'y0nonlinearYxy240linearAdifferentialequationisautonomousifitdoesn'tdependontheindependandvariableXortorexityyOautonomousYx0notautonomousYxy0dydx+2y=cos(x)y→→+y·dydx=0dydx=y(1→y)Ilinearnonautonomous1storder2ndordernonlinearautonomousyy1storderautonomousnonlinearSolving Di!erential Equations - Guess and Check
+
+ex
+
+ex
+
+y y
+function
+
+y e
+9 0
+y 3e
+
+equal
+
+to its own denuctive
+
+e Flex
+01 0
+
+3e
+
+3e
+
+y By
+not
+
+e
+
+y 3y
+CE 3
+c 3
+
+but what about
+y e
+plugin
+
+e
+
+yes
+
+y →→ = 3y
+
+exponential
+
+try e
+
+Y
+
+e
+
+y
+
+try e
+
+y Cec
+
+34 30
+3
+
+this works
+
+y →→ =
+
+3y →
+
+→
+cosine
+try y cos cx
+
+solin
+
+and
+
+y e
+Check y Cert Cre Bx
+
+Ci C ER
+s
+
+1 solution
+
+y
+
+C cos cx
+
+CE 3
+
+3y 3cos ax
+B
+
+C
+
+y COS B
+
+also
+
+also
+
+y sinBI
+y
+
+Effete
+c.sn BY C2C05 Bx
+
+Solutions to ODE
+
+A particular solution
+
+to
+
+an
+
+ODE
+
+is
+
+any yex that
+
+is
+
+the
+
+family of all possible
+
+satisfies
+
+the OPE
+
+t
+
+The.EE
+
+tcnODEexlly
+y
+Y 3g
+
+General
+
+solution
+
+y ce
+
+CER
+
+General solin y CCOSBx C sin Bx
+9 2 4
+
+C GEIR
+
+CEIR
+
+i
+
+y X
+
+In general
+
+1st
+
+order ODE
+
+has
+
+i e
+
+one
+
+free
+
+ID
+constant
+
+solution space
+
+2nd order ODE
+i e
+
+two
+
+has
+
+20
+
+solution
+
+space
+
+free
+
+constants
+
+An initial
+with
+
+value
+
+an
+
+problem IVP
+initial
+
+condition
+
+is
+
+an
+
+ODE along
+
+1st order
+
+flyiy.x.to
+y x o y
+
+FCY.yig.x.to
+
+2nd order Y 7 0 Y
+Y x o Vo
+
+specifies the choice of
+constant c
+
+specify
+
+constants
+
+C C2
+
+ex
+
+yay
+yctol y
+
+radioactive decay
+starting amount
+
+general soln yet cet
+
+plugin
+
+i
+
+yCt y
+
+y o Ce Yo
+
+C yo
+
+we
+
+can
+
+learn
+
+lot
+
+about
+
+a
+
+system without
+
+Analyzing Di!erential Equations
+
+a
+for
+
+even
+
+Given
+
+are
+
+an
+
+solving
+
+ODE
+1st order autonomousODE Y Fly
+y O
+
+the points where
+
+equibrium no
+
+change
+
+in
+
+the
+
+an
+
+equilibrium point
+
+system
+
+ex deer population
+
+reproduction
+
+carrying capacity
+
+equities
+
+zero deer
+population at
+
+capacity
+
+An equilibrium point
+stable if
+unstable
+
+is
+
+f so
+
+at equilibrium point
+
+if
+Semistable if
+
+f so
+f
+
+i
+
+is
+
+i
+
+in
+
+local min or Max
+
+stable
+
+if you move
+system eventually
+equilibrium
+
+away from equilibrium
+
+reback
+
+to some
+
+unstable moves away from equilibrium when
+
+perturbed
+
+semi stable retuns back when perturbed
+
+in
+
+one
+
+direction
+
+and moves away
+
+in
+
+other
+
+dy
+dx
+
+= y (2
+
+→
+
+y )(y + 3).
+
+Classify each equilibrium solution as stable or unstable.
+Determine the behaviour between the equilibrium Points
+
+equilibrium
+
+0 G y 2 y y 3
+
+yo
+
+9 2
+
+9 3
+
+I.it iItiiiti
+
+it
+
+Increasing
+
+decreasing
+
+iii
+
+unstable stable
+
+stable
+
+decreasing
+
+Increasing decreasing
+
+growing
+ye 3
+
+Direction Fields
+
+visualization
+
+of
+
+y Fly.x
+
+nd
+
+each arrow
+
+has slope y fly x
+
+x
+
+autonomous ODE
+arrows don't
+change with
+
+x
+
+zero is
+equilibrium
+
+x
+
+Direction Field for dy
+
+dx = y
+y
+
+F Xy
+
+iif
+
+my
+
+Direction Field for dy
+
+dx = sin(x)
+y
+
+jEC
+
+t
+
+y
+
+non autonomous
+
+no
+
+equilibrum
+
+x
+
+Direction Field for dy
+
+dx = y (1
+
+y
+
+y ) + x
+
+→
+
+It
+
+non autonomous
+
+x
+
+

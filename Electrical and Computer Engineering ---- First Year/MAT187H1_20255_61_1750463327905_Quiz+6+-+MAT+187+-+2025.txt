@@ -1,0 +1,293 @@
+Date: Jun 18, 2025
+Duration: 50 minutes
+
+Name:
+
+e-mail:
+
+Student Number:
+
+Quiz 6
+
+Course: MAT 187 (Calculus II)
+Examiner: Armanpreet Pannu
+
+@mail.utoronto.ca
+
+Instructions
+• This is a Type A assessment and does not allow any external aids.
+• Read all instructions carefully and justify all your answers. No points will be awarded for a correct
+
+answer without justification.
+
+• Read each question carefully. No clarification or content related questions will be answered.
+
+You may use the following space for scratch work or to continue your solutions if you run out of room. If
+you do so, please clearly indicate in the original question that part of your solution appears here.
+
+1. (2 points) Explain what multiplying a complex number by i does geometrically in the complex plane.
+
+Include a sketch to support your explanation.
+
+Solution:
+
+Multiplying a complex number by i rotates it 90◦ counter-
+clockwise around the origin.
+
+Im
+
+iz
+
+z
+
+iz
+
+z
+
+Re
+
+2. (3 points) Consider the driven oscillator described by the equation
+
+¨x + ω2x = cos(ωt).
+
+This system experiences resonance. Explain in plain words (i.e., without using math) what resonance
+means in this context, and why it occurs in this particular case.
+
+Solution: Resonance is a phenomenon that occurs when an external force drives a system at the
+same frequency as the system’s natural frequency. In this situation, each push from the external
+force adds energy at just the right time to reinforce the system’s motion.
+
+In this particular case, the system’s natural frequency is ω, and the forcing term also oscillates with
+frequency ω. Because they match, the system absorbs energy efficiently and the motion builds over
+time. This leads to a steadily increasing amplitude — a hallmark of resonance — even though the
+force itself is not getting stronger.
+
+3. (5 points) Find the general solution to the ODE.
+
+y′′′ − 5y′′ + 8y′ − 4y = 0
+
+Hint: (r − 2)2(r − 1)
+
+Solution: We begin by solving the characteristic equation associated with the differential equation:
+
+r3 − 5r2 + 8r − 4 = 0
+
+We can verify that the characteristic polynomial:
+
+r3 − 5r2 + 8r − 4 = (r − 2)2(r − 1)
+
+This gives us the characteristic roots:
+
+r = 2 (multiplicity 2),
+
+r = 1 (multiplicity 1)
+
+From these roots, the general solution to the ODE is:
+
+where C1, C2, C3 ∈ R are arbitrary constants.
+
+y(t) = C1e2t + C2te2t + C3et
+
+MAT187
+
+Page 2 of 4
+
+Jun 18, 2025
+
+4. (10 points) Solve the initial value problem.
+
+y′′ − 3y′ + 2y = 2t,
+
+y(0) = 0,
+
+y′(0) = 1
+
+Solution: Step 1: Solve the homogeneous equation.
+
+The associated homogeneous equation is:
+
+y′′ − 3y′ + 2y = 0
+
+The characteristic equation is:
+
+r2 − 3r + 2 = 0 ⇒ (r − 1)(r − 2) = 0
+
+So the general solution to the homogeneous equation is:
+
+yh(t) = C1et + C2e2t
+
+Step 2: Find a particular solution to the non-homogeneous equation.
+
+Since the forcing term is a polynomial 2t, we guess a particular solution of the form:
+
+Then:
+
+Substitute into the differential equation:
+
+yp(t) = At + B
+
+y′
+p = A,
+
+y′′
+p = 0
+
+0 − 3A + 2(At + B) = 2t ⇒ 2At + 2B − 3A = 2t
+
+Match coefficients:
+
+2A = 2 ⇒ A = 1,
+
+2B − 3A = 0 ⇒ 2B = 3 ⇒ B =
+
+3
+2
+
+So a particular solution is:
+
+Step 3: General solution.
+
+The general solution is:
+
+yp(t) = t +
+
+3
+2
+
+y(t) = C1et + C2e2t + t +
+
+3
+2
+
+Step 4: Apply initial conditions.
+
+Use y(0) = 0:
+
+Compute the derivative:
+
+Apply y′(0) = 1:
+
+C1 + C2 +
+
+3
+2
+
+= 0 ⇒ C1 + C2 = −
+
+3
+2
+
+(1)
+
+y′(t) = C1et + 2C2e2t + 1
+
+C1 + 2C2 + 1 = 1 ⇒ C1 + 2C2 = 0 (2)
+
+Solve (1) and (2): From (2): C1 = −2C2
+Substitute into (1):
+
+−2C2 + C2 = −
+
+3
+2
+
+⇒ −C2 = −
+
+3
+2
+
+⇒ C2 =
+
+3
+2
+
+, C1 = −3
+
+Final Answer:
+
+y(t) = −3et +
+
+3
+2
+
+e2t + t +
+
+3
+2
+
+MAT187
+
+Page 3 of 4
+
+Jun 18, 2025
+
+5. A mass is attached to a spring, stretched, and released at time t = 0. The motion of the system is
+
+described by the function:
+
+x(t) = 10 cos(2t).
+
+(a) (5 points) Determine the initial value problem (i.e., the differential equation and initial condi-
+
+tions) that governs the motion of this system.
+
+Solution: We recognize this as the solution to an undamped harmonic oscillator, which has
+the general form:
+
+¨x + ω2x = 0,
+
+where ω is the natural frequency of the system. In this case, ω = 2, so the equation becomes:
+
+¨x + 4x = 0.
+
+To find the initial conditions, we evaluate x(t) and ˙x(t) at t = 0:
+
+x(0) = 10,
+
+˙x(0) = −20 sin(0) = 0.
+
+Final answer:
+
+(cid:40)
+
+¨x + 4x = 0
+x(0) = 10,
+
+˙x(0) = 0
+
+(b) (5 points) Now suppose the spring-mass system is placed in an environment where it experiences
+a damping force 2 ˙x that opposes the velocity. The mass is again stretched and released with the
+same initial conditions as in part (a).
+Sketch the position as a function of time and provide a written justification for your sketch.
+
+Solution: The equation governing the motion is:
+
+¨x + 2 ˙x + 4x = 0.
+
+This is a second-order linear differential equation with constant coefficients. The characteristic
+equation is:
+
+r2 + 2r + 4 = 0 ⇒ r = −1 ± i
+
+3.
+
+√
+
+Since the roots are complex with a negative real part, the system is underdamped. The
+solution exhibits oscillatory motion with an amplitude that decays exponentially over time.
+
+x(t)
+
+10
+
+underdamped
+
+t
+
+MAT187
+
+Page 4 of 4
+
+Jun 18, 2025
+
+

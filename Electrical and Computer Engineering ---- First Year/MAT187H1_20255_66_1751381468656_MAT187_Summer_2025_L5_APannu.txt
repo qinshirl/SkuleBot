@@ -1,0 +1,468 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 5
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Derivative and Linear Appoximations
+F x
+
+f x
+
+L
+
+is
+
+slope of
+
+tangent
+
+or rate of chang
+
+w I.IE Egoes
+
+through point pFCp
+
+derivative
+
+is
+
+a
+
+tool
+
+to
+
+compute
+
+a
+
+linear
+
+approximate
+
+for
+
+f x
+
+closer
+
+we
+
+are
+
+the
+
+approximation
+
+approx
+
+to point P the better
+local
+
+line
+
+is
+
+tangent
+
+Taylor Polynomials
+
+can
+
+we
+
+Polynomial
+
+f x
+F
+
+F x
+F p
+
+approximate
+
+FLY with
+
+a
+
+higher degree
+
+do a x p
+ot Eep
+292 x P
+
+a
+
+a x p
+
+an x p
+A plug in xp
+
+man P
+
+match deriva
+to compute
+coeff
+
+plug in
+
+p
+
+292
+F a
+f p 202
+
+n n i
+
+x p
+
+a2
+
+F
+
+x
+
+F
+F p
+
+n n i
+
+n an
+
+1 an
+
+an
+
+t.FI
+
+Def'n Given
+at
+
+function
+
+xp
+
+f
+
+is
+
+the n'th
+
+Taylor polynomial
+
+centered
+
+Tn.p x
+
+Fcp F D G p FYI p
+a nth degree
+
+is
+
+fI
+
+xp
+
+approximation
+
+the taylor polynomial
+FG
+
+of
+
+approximation
+xp
+taylor poly matches
+
+to
+
+excl
+
+is
+
+better
+
+the closer
+
+we
+
+are
+
+local approximation
+
+derivatives of
+
+f
+
+at
+
+centered at
+It
+
+I
+
+best
+
+f x 3 2 2 1
+To y
+Te x 2 1
+Taio x 3 2 2 1 FG
+
+best
+
+xp
+xD
+approx mean xo
+
+linear appox near no
+
+G ex
+Trip F o F o x
+
+centered at
+
+x o
+
+0 x2
+
+FIfnxnf.EE
+
+eiEFco t
+
+itiii.si
+tiiiiiiI
+
+nisi 25
+FCO F o
+
+Two a
+
+x 0
+
+F
+
+x o
+
+I
+
+f o 3 0742107 1
+1 8 IE
+
+for small
+2401
+
+Find the Taylor polynomials of sin(x) centered at 0 up to the 4th
+degree.
+
+f x sin x
+F x
+f x
+
+cost
+
+sin x
+
+f
+
+f
+
+x
+
+cosa
+
+x
+
+Sin X
+
+FCO 0
+F o 1
+F d
+f
+
+o
+
+d
+
+1
+
+F
+
+o 0
+
+To 7 Flo Fff x o
+Ta o x
+Ts o x
+Told
+
+X
+
+X
+
+sin x
+
+x
+
+for small
+
+X
+
+it
+
+Without computing, sketch the 2nd order Taylor polynomial
+centered at 0 for the functions ln(1 + x), e→
+
+and tan(x)
+
+x 2
+
+tangent of querty Sight
+
+Parabola
+matches
+
+tangent n
+
+1st order approx
+ᵗ gff
+
+point at
+
+inflection
+zero so 2nd taylor
+polynomial
+is most
+
+likely
+
+linear
+
+Taylor’s Remainder Theorem
+
+Let
+
+Riate F x Taa x
+
+error remainder
+
+term
+
+Racx Fif
+
+fat
+
+wherecela.no
+
+faster
+
+larger
+
+x a
+
+K
+
+a
+
+when
+
+0
+term smaller
+
+for
+
+order
+
+Taylor
+
+better approx
+
+error
+
+larger
+
+are
+
+for
+larger K
+polynomials generally
+
+for
+
+each
+
+x
+
+there
+
+is
+
+makes
+
+equation
+
+true
+
+different
+
+ce a x
+
+which
+
+use
+
+of
+
+an
+C
+
+upper
+
+bound
+
+for F
+
+c
+
+independan
+
+When using the third degree Taylor polynomial to approximate
+maximum
+sin 0.2, what is the error?
+
+3
+
+F
+
+sinfx
+
+X
+
+Sin 0 2
+
+0.2
+
+Rs x
+
+IR
+
+f 0.23 0.198666
+
+0.2 0
+
+0.2
+
+e 0,0 2
+
+1 since
+
+1
+
+0.000066
+
+

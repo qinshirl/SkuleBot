@@ -1,0 +1,79 @@
+Problem #4, MIE100, final exam  
+april 2016
+
+d
+
+kG = 1.5m.
+
+router=1.8m 
+
+G
+
+rinner=1.2m 
+
+mg
+
+x
+
+Ff
+
+q=42 degrees
+
+N
+
+y
+
+Fc
+
+Missing a force (-1)
+Wrong direction for 
+friction (-0.5)
+Missing two forces 
+(usually normal and 
+tension) (-2.5)
+
+No Instantaneous 
+Centre (-2.5)
+
+Correct rotation 
+direction (CCW) 
+and wrong IC (-1.5) 
+
+Part A (Remove from 5)
+
+Missing a force (-1)
+Wrong direction for friction (-0.5)
+Missing two forces (usually normal 
+and tension) (-2.5)
+
+Part B (Remove from 5)
+
+No Instantaneous Centre (-2.5)
+
+Correct rotation direction (CCW) and 
+wrong IC (-1.5) 
+
+Part C (Final Mark given)
+
+Wrong distance (3m) - 9.5 
+with everything  else correct
+
+Missing gravity 8
+
+Right idea but not complete 
+7
+
+Mercy Marks 3
+
+Mercy marks with correct 
+moment of inertia 4
+
+No friction work - 7.5 marks 
+(everything else good)
+
+Some idea of what to do- 5
+
+Energy solution but 
+confused - 6.5
+
+

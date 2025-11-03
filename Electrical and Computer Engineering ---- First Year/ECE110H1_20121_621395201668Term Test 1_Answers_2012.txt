@@ -1,0 +1,418 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Department of Electrical and Computer Engineering 
+
+ECE110S – Electrical Fundamentals 
+Term Test 1 – February 16, 2012, 6:10 – 7:30 p.m. 
+
+ANSWER ALL QUESTIONS ON THESE SHEETS, USING THE BACK SIDE IF NECESSARY. 
+1.  Non-programmable calculators are allowed. 
+2.  For full marks, you must show methods, state UNITS and compute numerical answers when  requested. 
+3.  Write in PEN. Otherwise, no remarking request will be accepted. 
+4.  There is one extra blank page at the end for rough work. 
+5.   One 8 1/2” x 11” (double-sided) aid sheet allowed 
+_______________________________________________________________________________________ 
+
+Last Name: ____________________________________________________ 
+
+First Name:  ___________________________________________________ 
+
+Student Number: _______________________________________________ 
+
+Tutorial Section 
+ (YOU LOSE ONE MARK FOR NOT MARKING YOUR TUTORIAL SECTION CORRECTLY): 
+
+01  WB342  Mon. 3-5 p.m. 
+
+02  GB304  Mon. 3-5 p.m. 
+03  WB342  Tue. 4-6 p.m. 
+
+04  GB304 
+
+Tue. 4-6 p.m. 
+
+05  GB404  Wed. 4-6 p.m. 
+
+06  BA2185  Wed. 4-6 p.m. 
+
+07  SF2202  Wed. 2-4 p.m. 
+
+08  GB304  Wed. 2-4 p.m. 
+
+09  GB120 
+
+Fri. 4-6 p.m. 
+
+10  SF3202  Fri. 4-6 p.m. 
+
+11  SF2202  Fri. 2-4 p.m. 
+12  WB130  Fri. 2-4 p.m. 
+
+Question 
+
+Mark 
+
+1 
+
+2 
+
+3 
+
+TOTAL 
+
+Answers only (not a full solution) 
+
+Page 1 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. [10 marks] Consider two parallel, infinite non-conducting thin sheets of charge which have uniform 
+surface charge densities of +2σ and –σ separated by a distance L. A cylindrical Gaussian surface with radius 
+r, extending a distance L on either side is constructed around the planes as shown in the figure. 
+
+(a)   What is the net flux through this cylindrical Gaussian 
+
+surface? [2 marks] 
+
+𝜎
+
+2
+
+𝜋𝑟
+𝜀0
+
+(b)  What is the magnitude of the electric field which emerges from its top, bottom and sides? [3 marks] 
+
+Etop = Ebottom = 
+
+  Esides = 0 
+
+𝜎
+2𝜀0
+
+Page 2 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+An infinite non-conducting thin line of charge which has a uniform line charge density of +λ, is positioned 
+perpendicularly to the planar sheets of charge and aligned with the central axis of the cylindrical Gaussian 
+surface, as shown in the picture below. Neglect the effects of the intersection of the wire with the sheets.  
+
+(c)  What is the net flux through the Gaussian surface?  
+
+[2 marks] 
+
+2
+
+1
+𝜀0 (𝜋𝑟
+
+𝜎 + 3𝐿𝜆)
+
+(d)  What is the magnitude of the electric field which emerges from its top, bottom and sides? [3 marks] 
+
+Etop = Ebottom = 
+
+Esides = 
+
+𝜎
+2𝜀0
+
+𝜆
+2𝜋𝜀0𝑟
+
+Page 3 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. [10 marks] A cylindrical capacitor consisting of two coaxial cylinders of radius a and b (b>a) and length 
+(L) where L>>b is shown in the Figure below. The inner shell has a total charge of +Q and the outer shell 
+has a total charge of -Q. Fringing may be neglected. 
+Develop a relationship for capacitance of this device in terms of a, b, and L. 
+
+2𝜋𝜀0𝐿
+ln (𝑏
+𝑎� )
+
+𝐶 =
+
+a
+
+b
+
+Page 4 of 5 
+
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+3. [10 marks] Three thin long wires are positioned in the form of an equilateral triangle with current I0 (I0 is 
+positive) as shown below. There is no electric contact between the wires where they intersect each other and 
+you can assume the wires are infinitely long.  
+
+a) What is the magnetic field (
+
+) direction and magnitude at the point o? [6 marks] 
+
+b) Initially an electron is moving along the positive x-axis at the point o. Does the trajectory of the electron 
+change as the result of the magnetic field at o? If yes, in which direction will the electron be deflected?  
+[2 marks] 
+
+𝐵�⃗
+
+c) Now consider another electron moving initially along the positive z-axis at the point o. Does the magnetic 
+
+field (
+
+) do work on the electron? Justify your answer. [2 marks] 
+
+a) 
+
+b) 
+
+c) 
+
+𝐵�⃗
+𝝁𝟎𝑰𝟎
+𝟐𝝅𝒅  𝒌
+yes, in +xy direction  
+
+no. 
+
+d 
+
+d 
+
+o 
+
+I0 
+
+d 
+
+I0 
+
+I0 
+
+y 
+
+z 
+⊙
+
+x 
+
+Page 5 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+

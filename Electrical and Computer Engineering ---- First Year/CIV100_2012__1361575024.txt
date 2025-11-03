@@ -1,0 +1,193 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS  – GROUP G (107) 
+Problem Set 11 (3 Questions in total.)  
+Due: 4:00 pm on Friday November 23, 2012 
+In SF3201 
+
+20 kN  
+
+All dimensions in mm.  
+
+A 
+
+C 
+
+3000 
+
+3000 
+
+q kN/m  
+
+B 
+
+D 
+
+20  
+
+F 
+
+160 
+
+150 MPa 
+
+E 
+
+G 
+
+120  
+
+12  
+
+50 
+
+130  
+
+σt 
+
+Fig. (a): Beam and Loading  
+
+Fig (b): Cross Section and Internal Stresses at C  
+
+1.  Simply-supported  beam  AB  is  subjected  to  a  uniformly-distributed  load  and  a  point  load  as 
+shown in Fig. (a). The cross section of the beam and the stress distribution due to the internal 
+bending moment at C are shown in Fig. (b). The beam is constructed from the structural steel 
+with a yield strength of 400 MPa. Determine: 
+
+i.)   the location of the centroid of the cross section with reference to line DE, 
+ii.)  the total compression force acting on the cross section, 
+iii.) the maximum tensile stress, σt, (and comment on the adequacy of the cross section) 
+iv.) the magnitude of the internal bending moment at point C, 
+v.)  the magnitude of the force acting on DEFG, and (indicate whether tension or compression) 
+vi.) the value of the uniformly distributed load, q. 
+
+Please turn the page over. 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Beam AB, supported by a roller at A and a pin at B, is subjected to a uniformly distributed load,
+a point load and a couple moment as shown in Fig (a). At point C, the internal stress distribution
+due to bending of the beam, which has an opening at mid-height, is shown in Fig. (b). Compute: 
+
+i.)   the magnitude of the stress σc in MPa, 
+ii.)  the internal bending moment acting on the beam at C in kNm, and 
+iii.) the magnitude of the point load P in kN. 
+
+200  
+
+σc 
+
+10 kN/m 
+
+P  
+
+C 
+
+A 
+
+4.0 
+
+1.0  1.0 
+
+2.0 
+
+All dimensions in m.  
+Figure (a)  
+
+40 kNm 
+
+100  
+
+B 
+
+100  
+
+120  
+
+10 MPa  
+
+28 MPa  
+
+All dimensions in mm.  
+
+Figure (b)  
+
+3.  Plate ABCD is supported by a ball-and-socket at A, a 
+cable at B and a special pin at D which only restrains 
+the movements along x- and z-directions. The plate 
+carries a distributed loading as shown. Determine: 
+
+1100  
+
+200 
+
+E  
+
+z 
+
+All dimensions in mm. 
+
+i.)   the magnitude, and x and y coordinates of the 
+
+resultant force acting on the plate, and 
+
+1300 
+
+ii.)   the force in cable BE. Draw a neat free body 
+
+diagram at the beginning of your solution. Use a 
+3D vector approach. 
+
+8 kN/m2 
+
+A 
+
+14 kN/m2 
+
+D 
+
+y 
+
+B 
+
+x 
+
+A 
+
+1200 
+
+1500 
+
+C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,178 @@
+Cooling Fins
+
+Modules: E1-E4
+
+For a body with total surface area 𝐴𝑠 and uniform surface temperature 𝑇𝑠, the instantaneous rate of convective
+heat transfer out of the body is modeled by Newton’s law of cooling:
+
+̇𝑄conv = ℎ𝐴𝑠(𝑇𝑠 − 𝑇∞)
+where ℎ is a constant and 𝑇∞ is the ambient temperature (temperature of the room). The units are as follows:
+
+̇𝑄conv ∶ Watts
+ℎ ∶ Watts/(meters squared ⋅ degrees Kelvin)
+𝐴𝑠 ∶ meters squared
+(𝑇𝑠 − 𝑇∞) ∶ degrees Kelvin
+
+What if we extended this model a bit? Say we constructed a cooling fin shaped as a solid of revolution. Let our
+fin be the solid created when the area between a function 𝑟(𝑥) and the 𝑥 axis between 𝑥 = 0 to 𝑥 = 𝐿 is revolved
+around the 𝑥-axis. All distances are in meters. As a simplifying assumption, suppose the surface temperature
+of the fin 𝑇𝑠 = 𝑇𝑠(𝑥) depends only on the horizontal distance from the origin (note this is no longer a uniform
+surface temperature). We want to find an expression for the instantaneous rate of convective heat transfer out
+of our entire cooling fin,
+
+̇𝑄conv.
+
+1. Explain a plan to break this problem up into parts, providing the notation you will use.
+2. Explain how you are approximating ̇𝑄conv on one of your individual parts. Be specific in explaining what
+is being approximated by what, and any choices you are making. Units are an important part of this
+explanation.
+
+3. Add up your approximations to come up with an expression for the approximate value of
+
+̇𝑄conv for the
+
+whole fin.
+
+4. Use your answer to the previous part to explain how to obtain a definite integral formula for the ̇𝑄conv for
+
+the whole fin; use appropriate mathematical notation to relate the two.
+
+Your answer to this problem will involve the functions 𝑟(𝑥) and 𝑇𝑠(𝑥) as well as the constants ℎ, 𝑇∞, and 𝐿. You
+should not assume 𝑟(𝑥) looks as pictured below.
+
+Writing Task 5: Cooling Fins (E1-E4)
+
+MAT186 Calculus I, – Due Dec. 6
+
+Writing Task 5: Cooling Fins (E1-E4)
+
+MAT186 Calculus I, – Due Dec. 6
+
+Clarity and conciseness of
+written exposition;
+consideration of audience
+
+Good movement between
+English & Mathematics
+
+Mathematical Thinking
+
+Below ex-
+pectations
+(0)
+
+Writing is confusing, or shows
+signs of carelessness through high
+level of error; does not
+demonstrate application of
+engineering communication; only
+understandable to the writer.
+
+Math is presented without
+context; it is difficult to
+reconstruct the meaning of
+equations.
+
+No demonstration of any
+significant level of mathematical
+analysis at an appropriate level.
+No serious attempt to apply
+mathematics.
+
+Shows
+potential
+(1)
+
+Meets ex-
+pectations
+(2)
+
+While the writing is clear, the
+math is kept completely separate
+from it; requires some effort to
+understand how the math and
+writing are connected.
+
+A serious attempt is made to apply
+appropriate math and explain
+mathematical reasoning,
+regardless of completeness or
+correctness.
+
+Writing requires some effort to
+understand, or has some errors
+rarely affecting understanding;
+some evidence of communication
+principles but may be awkward or
+simplistic; offers sufficient
+information and demonstrates
+mostly logical development of
+ideas; generally directed to the
+instructor or TA.
+
+Writing shows appropriate
+selection and balance of text and
+image (if necessary); demonstrates
+clarity at the paragraph, sentence,
+and word choice levels, with
+minimal error; writing applies
+principles in ways that enhance
+the reading experience; generally
+directed towards a fellow student
+who understands the math but
+not this particular instance.
+
+The interaction of the text with
+the math is adequate; any
+transitions between math and text
+are appropriately placed and
+make sense; any equations and
+variables are introduced and
+explained in an organized manner;
+any solutions are interpreted in a
+real-world context where
+appropriate; no guesswork is
+needed by the reader.
+
+The response shows a good ability
+to analyze a situation using math;
+relevant topics are applied with
+proper notation; any solutions are
+critically analyzed for sensibility;
+any obviously incorrect solutions
+are remarked upon and followed
+up with a sketch of an alternative
+idea or plan.
+
+Above
+expecta-
+tions;
+bonus (3)
+
+The writing demonstrates
+professional polish through word
+choice, sentence structure choices,
+clarity, concision, proofreading,
+etc. This solution is presentable as
+a textbook example or exposition.
+
+The math is merged very well with
+the writing; any equations and
+variables are embedded, clear, and
+concise; any transitions between
+text and mathematics aid
+understanding; any solutions are
+contextualized and explained in a
+professional manner.
+
+The analysis is excellent, creating
+a large amount of insight into the
+prompt and demonstrates
+mastery of the topic at or above
+the course level.
+
+Writing Task 5: Cooling Fins (E1-E4)
+
+MAT186 Calculus I, – Due Dec. 6
+
+

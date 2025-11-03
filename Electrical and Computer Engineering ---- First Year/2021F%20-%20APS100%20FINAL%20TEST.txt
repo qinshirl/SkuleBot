@@ -1,0 +1,454 @@
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+APS100 FINAL TEST - 2021F 
+
+ This is a preview of the published version of the quiz 
+
+Started: Nov 28 at 3:51p.m. 
+
+Quiz Instructions 
+
+There are three parts to the APS100 Final Test; multiple-choice, short-answer, and long-answer.  Please 
+ensure that all three parts are completed and submitted by 11:59pm EDT on December 7th 2021.  
+Students will have a maximum of 90 minutes to complete this test (between the hours of 6:00pm and 
+11:59pm).  The test will end when the student presses send/submit/save, or when 90-minutes have 
+elapsed, or at 11:59pm EDT, whichever occurs first.  
+
+Students are NOT to use any unauthorized aids (including chat, discussion, etc), but can use all course 
+materials (lecture and tutorial notes, etc).  This test is considered "open-book" without any student-to-
+student or similar exchange of information. 
+
+All students may receive unique questions and are therefore strongly advised NOT to share or compare 
+answers with others (this would, of course, constitute an Academic Offense, at a minimum).  All student 
+responses are processed for Academic Integrity thoroughly.  Any infractions will be addressed as per the 
+rules and regulations of the Faculty of Applied Science and Engineering, University of Toronto, and may 
+include penalties including (but not limited to) permanent notation on official transcripts, failing the 
+program, expulsion, etc. 
+
+Please disable "ad-block" or any such extensions before writing this test.   
+
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+Important note for Part One: this is the multiple-choice part of the test.  Please review your question(s) 
+carefully, and submit only (1) most-correct response.  Students are to use only 1 attempt to solve these 
+questions and are reminded to save/submit their work prior to the deadline.  If you re-open any part of 
+this test where you have already submitted a response, your original response will be over-written -- we 
+will NOT be able to look at anything but your submission, so please use this system carefully.  Students 
+must press the "submit/send/save" button, if available to submit their work.  Students are responsible 
+for submitting their complete/correct submission by the deadline.  All students have one submission 
+attempt.  Feel free to make reasonable assumptions, and answer the questions as best you can.  We will 
+attempt to periodically monitor APS100 Piazza (but in "private" mode: all Q&A will be between 
+instructor-and-student only).  Students may not provide a link (url) to an external source (such as an 
+external Google Document or similar) in their response to questions.  Students are responsible for 
+submitting their own, correct work by the deadline.   
+
+Part 1 = 10 marks (1 mark per question, ten questions in total) 
+
+Part 2 = 10 marks (5 marks per question, two questions in total) 
+
+Part 3 = 10 marks (10 marks per question, one question in total)   
+
+Students will have until 11:59pm EDT on December 7th 2021 to complete all three parts of this test.  
+Students have 90 minutes to complete this test (from start to finish, or until 11:59pm).  Please use your 
+time wisely and good luck to all. 
+
+Note: this is a timed quiz. You may check the remaining time you have at any point while taking the quiz 
+by pressing the keyboard combination SHIFT, ALT, and T... Again: SHIFT, ALT, and T... 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+Flag question: Question 1 
+
+Question 1-0 pts 
+
+"I confirm that my submission for the APS100-2021F Final Test ("this test") is an accurate and true 
+representation of my own work, knowing that by signing this declaration untruthfully I will incur an even 
+greater penalty if it is later discovered that I have cheated or otherwise behaved dishonestly on this 
+assessment." 
+
+Please type your full name and student number below to indicate your understanding and agreement to 
+this statement.   
+
+Flag question: Question 2 
+
+Question 2-1 pts 
+
+Which of the following statements is the most correct regarding academic integrity violations? 
+
+Group of answer choices 
+
+A.  Academic integrity violations are treated on a case by case basis. 
+
+B.  Academic integrity violations always lead to failed courses. 
+
+C.  Academic integrity violations are something you should be afraid of doing accidentally. 
+
+D.  Academic integrity violations are treated the same for every student and every situation. 
+
+Flag question: Question 3 
+
+Question 3-1 pts 
+
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+Which of the following is NOT a good test and exam study tip? 
+
+Group of answer choices 
+
+A.  One long study session is more effective than multiple short sessions 
+
+B.  For long-term retention, do your best to connect new knowledge to old understandings. 
+
+C.  Re-reading texts is usually not enough: instead, be active in your learning. 
+
+D.  Prioritize multiple exams not only by the day that they occur but by their difficulty. Make a study 
+
+schedule that puts the most difficult aspects of each course as early as possible. 
+
+Flag question: Question 4 
+
+Question 4-1 pts 
+
+Which of the following is NOT one of the four components of Polya's Problem Solving Principles? 
+
+Group of answer choices 
+
+A.  Understanding the Problem 
+
+B.  Carrying out the Plan 
+
+C.  Breaking down the Problem 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+D.  Devising a Plan 
+
+Flag question: Question 5 
+
+Question 5-1 pts 
+
+Which of the following is NOT a Code of Ethics that we follow/consider as UofT Engineering students: 
+
+Group of answer choices 
+
+A.  Waterloo Academic Code of Conduct 
+
+B. 
+
+Institute of Electrical and Electronics Engineers Code of Ethics 
+
+C.  UofT Code of Behaviour on Academic Matters 
+
+D.  Professional Engineers Ontario Code of Ethics 
+
+Flag question: Question 6 
+
+Question 6-1 pts 
+
+We discussed the SMART goal setting method in APS100. Which does not qualify as a SMART goal: 
+
+Group of answer choices 
+
+A.  All of the above are SMART goals 
+
+B. 
+
+I will meet with my study group to prepare for the CIV100 final tonight 
+
+C. 
+
+I will scan over my notes and then choose 2 chapters to work on. 
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+D.  I will spend 20 minutes studying chapter 4 practice problems 
+
+Flag question: Question 7 
+
+Question 7-1 pts 
+
+Which one of these is NOT one of the five factors in the thriving framework? 
+
+Group of answer choices 
+
+A.  Diverse Citizenship 
+
+B.  Negative Perspective 
+
+C.  Academic Determination 
+
+D.  Engaged Learning 
+
+Flag question: Question 8 
+
+Question 8-1 pts 
+
+In tutorial, we discussed the 4-7-8 breathing technique. Which of the following is NOT critical when 
+performing this exercise?  
+
+Group of answer choices 
+
+A.  Exhaling through the mouth instead of the nose 
+
+B.  The exact duration of 4, 7, 8 seconds 
+
+C.  Emptying the lungs of air before you begin 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+D.  The ratio of 4:7:8 
+
+Flag question: Question 9 
+
+Question 9-1 pts 
+
+If you do not do well on a test, it is important to remember: 
+
+Group of answer choices 
+
+A.  To review any feedback provided when it is marked 
+
+B.  One test grade does not determine the success or failure and does not correctly reflect who you 
+
+are as a person 
+
+C.  There are resources to help you improve your test taking (Academic Success Centre, Learning 
+
+Strategist) 
+
+D.  All of these points are important to remember 
+
+Flag question: Question 10 
+
+Question 10-1 pts 
+
+Equity, diversity, and inclusion were terms highlighted in APS100. Which of the following examples 
+demonstrate inclusion best: 
+
+Group of answer choices 
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+A.  A TA puts their students in randomized breakout rooms on BB Collaborate. They notice one 
+room ends up having only 5 male students. The TA assigns Samantha to join that group. 
+
+B.  Professor S is holding a 3 hour lecture, and notices that none of the students are speaking up 
+when she asks her class questions. To increase engagement, she randomly calls upon Jerry to 
+answer her question. 
+
+C.  Michelle is placed in a group of 4, and two other students are already her friends. She spends 
+the beginning of each group meeting catching up with her two friends and comparing their 
+CIV100 lecture notes. 
+
+D.  Alex was nominated as Team Lead in his extracurricular club. Twenty minutes into a Zoom 
+
+meeting, Alex notices a new member, Joey, seems to stay muted the entire time and has not 
+spoken up. Alex privately messages Joey if they would like to add in their thoughts to the 
+meeting. 
+
+Flag question: Question 11 
+
+Question 11-1 pts 
+
+After an unusually difficult midterm, you overhear some classmates discussing how they were able to 
+divide the test questions among themselves and share solutions to solve ensuring they received a better 
+grade. While it is clear a serious academic offence has been committed, consider our discussion in 
+APS100 of the Professional Engineers Ontario (PEO) & Institute of Electrical and Electronics Engineers 
+(IEEE) Codes of Ethics. Which of the following least applies to this situation regarding the appropriate 
+action? 
+
+Group of answer choices 
+
+A.  To avoid real or perceived conflicts of interest whenever possible, and to disclose them to 
+
+affected parties when they do exist. (IEEE 2) 
+
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+B.  A practitioner shall maintain the honour and integrity of the practitioner's profession and 
+
+without fear or favour expose before the proper tribunals unprofessional, dishonest or unethical 
+conduct by any other practitioner. R.R.O. 1990, Reg. 941, s. 77; O. Reg. 48/92, s. 1. (PEO 8) 
+
+C.  A practitioner shall act towards other practitioners with courtesy and good faith. (PEO 2.i) 
+
+D.  A practitioner must disclose immediately to the practitioner's client any interest, direct or 
+
+indirect, that might be construed as prejudicial in any way to the professional judgment of the 
+practitioner in rendering service to the client. (PEO 4) 
+
+Flag question: Question 12 
+
+Question 12-5 pts 
+
+Describe why ethics are so important to the work of an engineer.  Use at least one practical engineering 
+example to support your claim.  
+
+(suggested 75 - 150 words; any citations, if used, do not count towards the word count) 
+
+Flag question: Question 13 
+
+Question 13-5 pts 
+
+Briefly describe what the U of T Student Code of Conduct is, and why it is important that the University 
+have a such a code.  Identify two possible offences that might be considered violations of this code of 
+conduct. Write your answer in the text box.  
+
+(suggested 75 - 150 words; any citations, if used, do not count towards the word count) 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+APS100-2021F Final Test (POSTED TO COURSE WEBSITE) 
+
+Flag question: Question 14 
+
+Question 14-10 pts 
+
+Based on your mastery of the APS100 course content, you are now hired as an APS100 Teaching 
+Assistant (“TA”), and are responsible for writing a professional email to one of the three students in the 
+case study attached below, helping that student transition into their first-year in engineering.  
+
+Using the course learning outcomes, syllabus, course calendar, lecture/tutorial content and/or any other 
+relevant aid, please write a ~1 page (275 words max; citations don't count) email to ONE of the three 
+students mentioned in the case study attached, in the box below.  As a representative of the course, 
+first select the student you are responding to, then introduce yourself with the purpose of creating a 
+personal connection with the student.   In your email, you must carefully identify at least one positive 
+learning opportunity that you think the student will identify with and explain why.  Finally, identify a 
+challenge that you think they may face in their first-year and mention two different ways to 
+resolve/address that challenge.  Conclude the email in a supportive manner.  You may make 
+reasonable/logical assumptions as needed.   
+
+(Backup Text of Case Study)  
+
+It is August 30th, 2022, and incoming students are looking forward to starting their first-ever term at the 
+Faculty of Applied Science and Engineering, University of Toronto.  Samuel, Rohan, and Lily are part of 
+the incoming cohort of students.  They have had a mix of in-person and online experiences at the high-
+school level and have a wealth of learning experiences (academic and non-academic) as well.  Samuel is 
+coming from a local Toronto high school, has participated on the school basketball team, and enjoys 
+team-based activities.  Rohan is an international student, lives in-residence, is an avid chess player, and 
+enjoys reading science-fiction books in his spare time.  Lily has traveled a lot, enjoys trying new things, is 
+originally from Vancouver B.C., and is presently living with her uncle and aunt in downtown Toronto.  
+Each of these students is trying to prepare themselves for the fall semester, and have done quite well in 
+high school). 
+
+  
+ 
+  
+ 
+ 
+  
+ 
+

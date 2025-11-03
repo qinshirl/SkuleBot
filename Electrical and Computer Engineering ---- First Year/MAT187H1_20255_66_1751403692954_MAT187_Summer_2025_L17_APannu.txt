@@ -1,0 +1,441 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 17
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+We Value Your Feedback!
+
+Course Evaluations Are Open!
+
+↭ Your feedback is anonymous and makes a real di!erence.
+↭ It helps us improve the course for future students.
+↭ It helps instructors reﬂect and grow in their teaching.
+
+What to Comment On:
+
+↭ Course structure - was it clear and well-organized?
+↭ Teaching style - what worked (or didn’t)?
+↭ Assessments - were they fair and helpful?
+↭ Resources - were they accessible and useful?
+↭ Suggestions - what could be improved for next time?
+
+Bonus: Consider leaving a review on platforms like
+RateMyProfessors.com to help other students too!
+
+Parametric Curves
+
+A parametric curve
+
+is
+
+a
+
+function
+
+t
+
+Xlt yet
+
+from IR IR
+112 1123
+
+or
+
+Uses
+
+represent
+
+or
+
+the Gct yet z t
+path of
+
+an
+
+object
+
+in
+
+2D or 3D
+
+time t
+
+represent
+
+a
+
+2D or
+
+1 dimensional object
+
+3D space
+
+1T age
+
+t.EE
+
+embedded
+
+in
+
+ID string
+ox's c
+
+excl
+
+E
+
+t.t
+IF
+
+jsgjgPlotsomet
+
+gg
+
+0t8
+
+0 0,0
+
+t
+
+Points
+
+1 0.1
+4 0.5
+
+1
+
+to
+
+80.1 01,01
+
+0.5.0.51
+
+1,1
+
+Eliminate
+
+the parameter X E
+
+close timing
+informan
+
+Xp
+Slaight line
+
+with slope 1
+
+note
+represent
+
+that multiple
+the
+
+same
+
+functions 847
+curve
+
+can
+
+ex 8 t
+
+24,2
+
+see
+
+E
+
+sinct
+cost
+TETE
+x2 y
+
+cos f
+
+octa
+
+o
+
+octet
+
+5m t 1
+
+circle
+
+x y
+bounds of
+to
+t
+
+parameterization
+
+810
+trial
+
+1,0
+
+1,0
+
+from 0,0 to
+
+i
+
+speed
+
+halffire
+
+to
+
+Sketch the following curves:
+(x, y ) = (cos t, cos(2t))
+
+O t T
+
+to
+
+1 1
+
+XH yet both
+decrease
+
+0
+
+1
+
+7 2 m 0
+
+(x, y ) = (2t + 1, t2)
+
+O t 2
+
+E 2 1
+YCH E
+
+t
+
+y
+
+t
+
+1.1
+
+to
+
+the
+
+t
+
+t 2
+
+4 41 112
+
+Parabola
+edge ctx 1
+
+I
+
+senvatyf.IEttyYi
+
+possibly acts
+
+The
+
+velocity
+
+of
+
+t
+
+at
+
+time
+
+t
+
+is
+
+the
+
+component by component
+g t
+
+X t
+
+t
+
+derivative w.it
+
+to
+
+speed of
+the
+velocity 118 All
+
+the
+is
+X ty'LTT
+
+norm of
+
+The tangent
+t
+time
+slope
+
+line
+
+is
+
+a
+
+to
+
+8
+
+at
+line with
+
+and passing through
+
+t
+
+84
+
+Determine the velocity vector and tangent line for each curve at
+t = 0.
+(x, y ) = (t2 + 2t, t3 + t)
+
+f
+
+ease
+
+to
+
+X101,5101
+
+2,1
+
+(x, y ) = (cos(t) + t, sin(t)
+
+t.IT
+
+g.t
+
+passes through t o
+y y m x Xo
+y
+
+1
+
+t2)
+
+→
+
+0,0
+
+x y
+line passing
+through Xoy
+
+xce.ge
+
+to
+
+sinct 1 cosct 2t 1 IpE5Ef t
+
+1101,610711,16
+
+passes throug
+
+to Xoyo
+
+1.0
+
+y y m x x
+6 1 x 1
+4
+
+AYY curve
+
+length
+
+ret
+
+x.cti.ge
+
+asteb
+
+How to find its
+
+siege
+
+into pieces
+
+divide
+of
+
+come
+size as
+EEngin Jds
+
+concision
+
+arclength
+
+i
+
+a
+
+gdt
+
+I
+I
+
+compute ds
+ds
+
+idxtdytii.EE it
+is
+xctdtjndtT
+ICHYCTA
+
+ds
+
+Determine the arc length of (x, y ) = (t2, t3
+
+3 ), 0
+
+dt
+
+at
+
+arclength f.it h gi
+f C2tET
+ftreat
+
+do
+
+t
+
+2
+
+↑
+
+↑
+f E
+yet Is
+
+f 2t
+yet E
+
+feat
+
+

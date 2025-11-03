@@ -1,0 +1,66 @@
+MIE 100S - Quiz number 1c: Jan 14, 2015
+Solution
+
+a)
+
+First derive the velocity equations:
+
+x = sin(3t)
+˙x = 3 cos(3t)
+y = 4x3
+˙y = 12x2 ˙x
+
+= 36 sin2(3t) cos(3t)
+= 18 sin(3t) sin(6t) *using → sin(2u) = 2 sin(u) cos(u)
+
+Find the velocities at t = 4s and combine them:
+
+˙x(4) = 3 cos(3 ∗ 4)
+= 2.53
+
+˙y(4) = 36 sin2(3 ∗ 4) cos(3 ∗ 4)
+
+= 8.75
+
+v(4) = (cid:112) ˙x(4)2 + ˙y(4)2
+
+= 9.11 ←− ﬁnal answer
+
+2.93∗∗
+
+1.52∗∗
+
+3.31∗∗
+
+b)
+First derive the x acceleration equation:
+
+¨x = −9 sin(3t)
+
+Find the x acceleration at t = 7s:
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+¨x = −9 sin(3 ∗ 7)
+
+= −7.53 ←− ﬁnal answer
+
+−3.23∗∗
+
+(7)
+
+∗∗ denotes the answers using degrees instead of radians, which is incorrect.
+
+1
+
+

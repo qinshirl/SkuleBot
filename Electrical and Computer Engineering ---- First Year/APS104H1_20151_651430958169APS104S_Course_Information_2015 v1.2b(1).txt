@@ -1,0 +1,1629 @@
+APS104 Course Information Sheet v 1.2e 
+
+APS104S 
+
+INTRODUCTION TO MATERIALS & CHEMISTRY 
+
+Jan-Apr 2015 
+
+Access via:  weblogin.utoronto.ca    (Sign-in using your UTORid and look for APS104) 
+
+INSTRUCTORS 
+Professors 
+Gisele Azimi 
+Cathy Chin 
+Tihana Mirkovic  
+Jun Nogami 
+Scott Ramsay (Lab Co-ordinator) 
+Jun Nogami (Co-ordinator) 
+
+Tutorial TAs 
+Hui-Lin Hsu (Head TA) 
+Ayman Elzoka 
+David Lynall 
+Yujin Kim 
+David Wisniewski 
+Ivan Matijevic 
+
+Laboratory TAs 
+Camila Londono             
+Haiting Cai         
+Jianhuai (Jackie) Ye         
+Nafees Rahman             
+Nathan Hilker             
+Bo Xing 
+
+Office 
+
+Tel                     Email 
+
+WB113 
+WB 12 
+LM250 
+WB 140 
+WB150B 
+WB 140 
+
+SF2206 
+WB254 
+HA 202 
+SF2206 
+HA211 
+WB171 
+
+WB323 
+WB04 
+WB02 
+CCBR1130 
+WB123       
+WB251 
+
+946-7568 
+978-8868 
+946-7633 
+946-0684 
+978-3628 
+946-0684 
+
+g.azimi@ utoronto.ca 
+cathy.chin@ utoronto.ca 
+tmirkovi@ chem.utoronto.ca 
+jun.nogami@ utoronto.ca   
+scott.ramsay@ utoronto.ca     
+jun.nogami@ utoronto.ca 
+
+huilin.hsu@ mail.utoronto.ca 
+ayman.elzoka@ mail.utoronto.ca 
+david.lynall@ utoronto.ca 
+iamyujin.kim@ mail.utoronto.ca 
+dave.wisniewski@ mail.utoronto.ca 
+ivan.matijevic@ mail.utoronto.ca 
+
+c.londonoferroni@ utoronto.ca 
+haiting.cai@ mail.utoronto.ca 
+jackie.ye@ mail.utoronto.ca 
+nafees.rahman@ mail.utoronto.ca 
+nathan.hilker@ utoronto.ca 
+bo.xing@ utoronto.ca 
+
+LECTURE SCHEDULE (for room location/description see http://www.osm.utoronto.ca) 
+For up-to-date class room information, see:  http://www.apsc.utoronto.ca/timetable/winter.html 
+
+Lecture 
+1 
+2 
+3 
+
+Day & Time 
+Mon     10:00    11:00 
+Tue      11:00    12:00 
+Thu      10:00    11:00 
+
+Room 
+BA1190 
+
+Instructors 
+G. Azimi 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+Mon      10:00    11:00 
+Tue      11:00    12:00 
+Thu      10:00    11:00 
+
+Mon 
+Tue 
+Thu 
+
+10:00  11:00 
+11:00  12:00 
+10:00  11:00 
+
+MC254 
+
+C. Chin 
+
+BA1180 
+
+T. Mirkovic 
+
+Mon      11:00    12:00 
+Wed      11:00    12:00 
+Thu       11:00    12:00 
+
+MC252 
+MC252 
+BA1160 
+
+J. Nogami 
+
+Section 
+
+LEC 01 
+
+LEC 02 
+
+LEC 03 
+
+LEC 04 
+
+GRADING 
+
+ Labs 
+ Term Tests  (1.5 h, 2 term tests) 
+
+1.  Lectures and Tutorial Problem Sets 
+2. 
+3. 
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  Test	  1:	  Tues	  Feb	  10,	  2015	  -­‐	  from	  12	  to	  2pm	  	  
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  Test	  2:	  Tues	  Mar	  17,	  2015	  	  -­‐	  from	  12	  to	  2pm	  	  
+4.  Final Exam: (2.5 hr, numerical problems & concepts, Type B exam 
+
+          15%   
+
+8% 
+37% 
+
+40% 
+100 % 
+
+1 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+
+RECOMMENDED TEXTBOOKS (available at the UofT Bookstore (College & St.George)) & Eng Bookstore 
+
+This course has 2 recommended texts owing to the curriculum consisting of fundamentals and applications of 
+materials science and thermodynamics. 
+
+1. 
+
+“CUSTOM INTRODUCTION TO THERMODYNAMICS Edition 4”.  
+Package ISBN 10: 1269711830;  
+Package ISBN 13: 9781269711838; Suggested list price: 72.95  
+Selected chapters from “Physical Chemistry”, 3rd Edition, Engel and Reid, Pearson. 
+This package contains the following components: 
+   Introduction to Thermodynamics   - 1256948624 
+   Custom e-book plus chemplace website  -  1269640992 
+
+2. 
+
+Introduction to Materials Science 
+Selected chapters from “Fundamentals of Materials Science & Engineering: An Integrated Approach”, 
+4th Edition, Callister and Rethwisch, John Wiley & Sons.   
+
+There are two options: 
+a)      Custom text - $70.95 - 9781118888230 
+b)      Full e-text - $71.95 9781118297759 – Digital CEI 
+
+REFERENCE TEXTS 
+
+Fundamentals of Materials Science and Engineering: An Integrated Approach, 4e 
+William D. Callister, David G. Rethwisch 
+
+Materials Science and Engineering: An Introduction, 8th Edition 
+William D. Callister, David G. Rethwisch 
+
+Crystals and Crystal Structures 
+Richard J. D. Tilley 
+
+Electronic Properties of Engineering Materials 
+James D. Livingston 
+
+Foundations of Materials Science and Engineering, 4th Edition  
+ William F. Smith, Javad Hashemi 
+
+Materials in Today’s World, 2nd Edition 
+Peter Thrower 
+
+Physical Chemistry, 2nd Edition 
+Thomas Engel, Philip Reid 
+
+Physical Chemistry, 4th Edition 
+Robert J. Silbey, Robert A. Alberty, Moungi G. Bawendi 
+
+Physical Chemistry, 6th Edition, 
+Ira N. Levine 
+
+2 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+
+TUTORIAL SCHEDULE 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+5. 
+6. 
+
+The tutorials will commence the week of January 12th 2015. There will be no tutorials during the first 
+week of classes. 
+each Tutorial, there will be a Tutorial Problem Set. The TA will go over the solutions to some of the 
+problems, but one or more problems will be assigned to the students for solution during the last 15 
+minutes of each session. (open book), and submit each Tutorial Problem Set (which will be marked 
+by the TAs). The marked problems will be returned the following week at the end of the tutorial. 
+Students must bring their text book(s) with them for the open book Tutorial Problem Set. (A 
+Formula Sheet will not be provided.) 
+Each tutorial will be 50m minutes in length.  
+There will also be no tutorials during Reading Week or during the week of March 30 – April 3 
+For the tutorials during the weeks of Feb 9-13 and  March 16-20 (i.e. the weeks with the two 
+midterm exams) there will be tutorials, but no marked problems. 
+
+Tutorial Program 
+
+1.  All students are required to attend their respective tutorial sections, no exceptions. Do Not Switch 
+
+Tutorial Sections! 
+
+2.  All students are expected to solve the assigned problems prior to coming to the tutorials. Reading 
+
+through the additional specified review problems is also recommended. 
+
+3.  During each weekly tutorial, the TAs will handout a Tutorial Problem Set that students are required to 
+solve and hand-in at the end of the tutorial hour. The TAs will only assist by answering conceptual 
+questions and providing hints as appropriate. Students are more than welcome to discuss with TAs, but 
+should not completely rely on TAs to help solve the Problem Set. 
+
+4.  Students will work individually and each student will submit a Tutorial Problem Set for marking. 
+
+Textbook and any handouts are allowed during the tutorial section. 
+
+5. 
+
+In order to succeed in this course, solving the assigned problems and attending the tutorials is 
+essential. Practicing to solve as many problems as possible is the key to success. 
+
+Tutorial Sections 
+
+Section 
+
+Day 
+
+Start 
+
+Finish 
+
+Room 
+
+TA 
+
+TUT 01 
+
+TUT 02 
+
+TUT 03 
+
+TUT 04 
+
+TUT 05 
+
+TUT 06 
+
+TUT 07 
+
+TUT 08 
+
+TUT 09 
+
+TUT 10 
+
+TUT 11 
+
+TUT 12 
+
+Fri 
+
+Fri 
+
+Fri 
+
+Fri 
+
+Fri 
+
+Fri 
+
+Tue 
+
+Tue 
+
+Tue 
+
+Tue 
+
+Tue 
+
+Tue 
+
+13:00 
+
+13:00 
+
+13:00 
+
+13:00 
+
+13:00 
+
+13:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+14:00 
+
+15:00 
+
+15:00 
+
+15:00 
+
+15:00 
+
+15:00 
+
+15:00 
+
+BA2185  Ayman Elzoka 
+
+BA1230  Yujin Kim 
+
+WB130  David Lynall 
+
+BA2165  Hui-Lin Hsu 
+
+BA1210 
+
+Ivan Matijevic 
+
+BA2175  David Wisniewski 
+
+BA2175  David Lynall 
+
+BA2185  Ayman Elzoka 
+
+BA2195  David Wisniewski 
+
+BA2145 
+
+Ivan Matijevic 
+
+BA2155  Yujin Kim 
+
+BA2165  Hui-Lin Hsu  
+
+3 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+
+LAB SCHEDULE 
+
+Up to four experimental labs will be given in this course. 
+
+•  All labs will be scheduled for Tuesdays 18:00 – 20:00 
+•  The first possible lab date will be Jan 27, 2015 
+•  The four labs are as follows: 
+
+Lab 1:  Crystallography  
+Lab 2:  Mechanical Properties of Materials 
+Lab 3:  Thermodynamics 
+Lab 4:  Energy   
+
+•  The labs occur on alternative weeks.  Please note “meeting” dates for your Practical Section. 
+• 
+
+tentative dates as follows: 
+
+Section 
+
+Day 
+
+Start 
+
+Finish 
+
+Room 
+
+TA 
+
+Meets: 
+
+PRA 01 
+
+Tue 
+
+18:00 
+
+20:00 
+
+HA403 
+
+Camila Londono             
+
+PRA 03 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB404 
+
+Haiting Cai         
+
+PRA 05 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB304 
+
+Jianhuai (Jackie) Ye         
+
+PRA 07 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB412 
+
+Nafees Rahman             
+
+PRA 09 
+
+Tue 
+
+18:00 
+
+20:00 
+
+SF3201  Nathan Hilker             
+
+PRA 11 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB405 
+
+Bo Xing 
+
+PRA 02 
+
+Tue 
+
+18:00 
+
+20:00 
+
+HA403 
+
+Jianhuai (Jackie) Ye         
+
+PRA 04 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB404 
+
+Haiting Cai         
+
+PRA 06 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB304 
+
+Nathan Hilker             
+
+PRA 8 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB412 
+
+Nafees Rahman             
+
+PRA 10 
+
+Tue 
+
+18:00 
+
+20:00 
+
+SF3201  Camila Londono             
+
+PRA 12 
+
+Tue 
+
+18:00 
+
+20:00 
+
+GB405 
+
+Bo Xing 
+
+Jan 27 
+
+Feb 10 
+
+Mar 3 
+
+Mar 24 
+
+Feb 3 
+
+Feb 24 
+
+Mar 10 
+
+Mar 31 
+
+4 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+
+2015 CALENDAR 
+
+Sessional Dates of Note 
+
+•  Lectures commence Monday January 5th  
+
+•  Tutorials commence week of January 12th  
+
+•  Lab 1 – PRA 01 -06 :  Tuesday January 27th 
+
+•  Lab 1 – PRA 07 -12 :  Tuesday February 3rd 
+
+•  Term Test 1:  Tuesday February 10th, 12:00-14:00 (no 
+
+tutorials this week) 
+
+•  Lab 2 – PRA 01 – 06 :  Tuesday February 10th  
+
+•  Family Day:  Monday February 16th  
+•  Reading Week:  Tuesday Feb 17th to Friday Feb 20th   
+
+•  Lab 2 – PRA 07 – 12 :  Tuesday February 24th   
+
+•  Lab 3 – PRA 01 – 06 :  Tuesday March 3rd   
+
+•  Lab 3 – PRA 07 – 12 :  Tuesday March 10th  
+
+•  Lab 4 – PRA 01 – 06 :  Tuesday March 24th  
+
+•  Term Test 2:  Tuesday March 17th, 12:00-14:00 (no 
+
+tutorials this week) 
+
+•  No Tutorials:  week of March 30 – April 3   
+
+•  Lab 4 – PRA 07 -12 :  Tuesday March 30th    
+
+•  Last Day for Lectures:  Thursday April 9th  
+
+5 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+SYLLABUS SUMMARY 
+
+This is an introductory undergraduate course presenting the fundamentals of materials and chemistry. In 
+addition to the material covered in the lectures, students are required to completely study (read and understand) 
+the identified sections/chapters from the recommended course textbooks and any additional handouts, as well 
+as to solve corresponding/assigned problems.  
+
+Since much of the course will be self-taught, it is important that you be conscientious in pacing your studies. A 
+breakdown of the main topics of the course and relevant tips are provided below. 
+
+Module  Topics 
+I. 
+
+MATTER 
+Atomic Theory & Bonding 
+
+Chapter Titles 
+
+1.  Atomic Structure and Interatomic 
+
+Bonding (Ch 2, Callister) 
+
+Crystal Structure in Condensed Matter 
+
+2.  Structures of Metals and Ceramics (Ch 
+
+Mechanical Properties of Solids 
+
+II. 
+
+ENERGY AND MATTER 
+Molecular Theory of Gases  
+
+Energy and Matter 
+
+Energy Transformation and 
+Directionality 
+
+3, Callister) 
+
+3.  Polymer Structures (Ch 4, Callister) 
+4.  Imperfections in Solids (Ch 5, 
+
+Callister) 
+
+5.  Mechanical Properties (Ch 7, Callister) 
+6.  Deformation & Strengthening 
+Mechanisms (Ch 8, Callister) 
+
+7.  Fundamental Concepts of 
+
+Thermodynamics (Ch 1, Ch 7 
+Engel&Reid) 
+
+8.  Heat, Work, Internal Energy, 
+
+Enthalpy, and the First Law of 
+Thermodyamics (Ch2, Engel&Reid) 
+9.  Thermochemistry (Ch4, Engel&Reid) 
+10. Phase Diagrams (Ch8,           
+      Engel&Reid; Ch10, Callister) 
+11. Entropy and the Second and Third 
+Laws of Thermodynamics (Ch5, 
+Engel&Reid) 
+
+12. Chemical Equilibrium (Ch6, 
+
+Engel&Reid) 
+
+III. 
+
+APPLICATIONS 
+Electrical Properties and Applications 
+Magnetic Properties and Applications 
+Electrochemistry and Applications 
+
+13. Electrical Properties (Ch12, Callister) 
+14. Magnetic Properties (Ch 18, Callister) 
+15. Electrochemical Cells, Batteries, and 
+Fuel Cells (Ch 11, Engel&Reid) 
+
+6 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+STUDY POINTERS 
+
+Studying 
+
+Effective  studying  consists  of  taking  lecture  notes,  active  reading  of  the  primary  reading  material, 
+
+tutorial  attendance  and  note  taking,  and  solving  various  exercises  on  your  own.  Begin  studying  your  lecture 
+
+notes by reviewing the lecture outlines. Ask yourself questions about the material; for example, ask yourself to 
+
+provide definitions, to summarize the purpose, method and results of studies. 
+
+Read the chapter "in chunks". The size of these chunks should be determined by natural breaks in the 
+
+text,  and  by  your  ability  to  assimilate  the  material  being  read.  Make  brief  notes  in  the  margins  of  the  text  as 
+
+necessary. It is inadvisable to make extensive notes from the textbook. However, it is helpful to make one- or 
+
+two-page summary notes per chapter showing the major headings and key concepts. 
+
+Note-Taking in Lectures 
+
+If you can, read all the relevant text material before attending the lectures on a given topic. Much of 
+
+learning involves discovering how new information relates to knowledge you already possess. The more you 
+
+know about a particular subject the easier it is to use new information to expand your current knowledge basis. 
+
+If you read the relevant text chapters before you attend the lectures on a particular topic, you will learn more 
+
+from the lectures and you will be able to take better notes. Your familiarity with the key concepts and major 
+
+theories in a specific area will help you judge what is important in a lecture. Review your lecture notes soon 
+
+after each lecture and proceed to read and study the required text. 
+
+Problems 
+
+§  Solving assigned problems is absolutely essential in developing a complete understanding of the concepts 
+
+introduced in the lectures and corresponding chapters/sections. 
+
+§  The term tests and final exam are largely based on the assigned problems as well as conceptual/definition 
+
+type questions to test your grasp of the subject matter. 
+
+§  Please take advantage of the tutorials to clarify issues you do not understand. Do this as questions arise 
+
+rather than wait until just before a test or exam. Ask specific questions on how to solve a given problem, 
+
+rather than “What is the answer to question 5?” 
+
+7 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+DETAILED LECTURE SCHEDULE 
+(Tentative schedule and topics; actual schedule and topics covered may differ.) 
+
+  LECTURE 
+
+TOPICS 
+
+New Editions 
+HOMEWORK 
+QUESTIONS 
+
+Old Editions 
+HOMEWORK 
+QUESTIONS 
+
+Introduction 
+Atomic Theory and Bonding 
+Chapter 2 (Callister) 
+“ Atomic Bonding in Solids” 
+
+2.5 – 2.8 (Forces and energies) 
+
+2.14, 2.16, 2.21 
+
+2.9, 2.10, 2.13 
+
+Tutorial Material* 
+
+Topics to be 
+covered in  
+Tutorial 1  
+(Tutorials commence 
+week of Jan 12th) 
+
+Crystal Structure in 
+Condensed Matter 
+Chapter 3 (Callister) 
+“Crystal Structures” 
+3.4, 3.5 (Metallic) 
+
+3.5, 3.7, 3.14 
+
+3.2, 3.3, 3.7 
+
+Tut 2 
+
+3.6, 3.7 (Ceramic; Densities) 
+
+3.24, 3.26, 3.34 
+
+3.12, 3.13, 3.17 
+
+3.9, 3.13 (Carbon; Directions) 
+
+3.40, 3.52, 3.55 
+
+3.20, 3.27, 3.29 
+
+Lecture 1 
+Lecture 2 
+
+Lecture 3 
+
+Lecture 4 
+
+Lecture 5 
+
+Lecture 6 
+
+Lecture 7 
+
+3.14, 3.15 (Planes and 
+densities) 
+
+3.62, 3.63, 3.78 
+
+3.35, 3.36, 3.44 
+
+Tut 3 
+
+Lecture 8 
+
+Lecture 9 
+
+Chapter 4 (Callister) 
+“Polymer Structures” 
+4.4 – 4.7;   qualitative 4.11, 
+4.12 
+Mechanical Properties of 
+Solids 
+Chapter 5 (Callister) 
+“Imperfections in Solids” 
+5.2 – 5.4, 5.7, 5.8 
+
+4.4, 4.5, 4.9 
+
+4.2, 4.4, 4.5 
+
+5.7, 5.11, 5.13 
+
+5.4, 5.5, 5.6 
+
+Lecture 10  Chapter 7 (Callister) 
+
+7.7, 7.8, 7.14 
+
+7.4, 7.5, 7.7 
+
+“Mechanical Properties” 
+7.1 – 7.4 (Basic concepts) 
+
+Lecture 11 
+
+Lecture 12 
+
+7.5, 7.6 (Elastic and tensile) 
+
+7.16, 7.20, 7.29 
+
+7.8, 7.10, 7.15 
+
+7.10 – 7.12 (Ceramics) 
+
+7.51, 7.57 
+
+7.25, 7.28 
+
+Lecture 13 
+
+7.13 – 7.15 (Polymers) 
+
+7.59, 7.66 
+
+7.29, 7.32 
+
+Lecture 14  Chapter 8 (Callister) 
+
+“Deformation/Strengthening” 
+8.3 – 8.6 (Dislocations) 
+
+8.7, 8.13, 8.18 
+
+8.4, 8.7, 8.9 
+
+Lecture 15 
+
+8.7, 8.9 – 8.11 (Strengthening) 
+
+8.23, 8.28, 8.32 
+
+8.12, 8.14, 8.16 
+
+Lecture 16  Molecular Theory of Gases 
+
+Chapter 1 (Engel & Reid) 
+“Fundamental Concepts of 
+Thermodynamics” 
+Introduction, systems (closed, 
+open, isolated), variables 
+(T,P,V), zeroth law (1.2) 
+Ideal gas, equations of state, 
+absolute zero  
+(1.4) 
+
+Lecture 17 
+
+Q 1.4, 1.7 
+
+Q1.6, 1.7, 1.9 
+
+P 1.1, 1.2, 1.7, 1.10, 
+1.16, 1.21, 1.29, 1.33 
+
+P1.1, 1.2, 1.7, 1.10, 
+1.16, 1.21, 1.22, 
+1.29, 1.33 
+
+Tut 4 
+
+Tut 5 
+
+Tut 6 
+
+8 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+
+Lecture 18 
+
+Ideal gas mixtures, density, 
+Real gases, (1.5, 7.2., 7.3) 
+
+Lecture 19 
+
+Energy and Matter 
+Chapter 2 & 3 (Engel & Reid)j 
+“Heat, Work, Internal Energy, 
+Enthalpy, and the First Law of 
+Thermodynamics” 
+Definition of heat and work, 
+Definition of internal energy, 
+First law (2.1-2.3) 
+
+Lecture 21 
+
+Lecture 20  Heat capacities (Cp and Cv), 
+state functions,  
+(2.4-2.5) 
+Equilibrium, reversible and 
+irreversible work,  
+Reversible adiabatic 
+expansion (2.6, 2.7, 2.10) 
+Enthalpy and relation to 
+internal energy and  
+heat capacity (2.8-2.9 and 3.2-
+3.6) 
+
+Lecture 22 
+
+Lecture 23  Chapter 4 (Engel & Reid) 
+
+Enthalpy and chemical 
+reactions, Hess’s law  
+(4.1-4.4) 
+
+Lecture 24 
+
+Lecture 25 
+
+Energy Transformation and 
+Directionality 
+Chapter 5 (Engel & Reid) 
+“Entropy and the Second and 
+Third Laws of 
+Thermodynamics” 
+Directionality in natural 
+processes, second law  
+of thermodynamics (5.1-5.2) 
+Entropy (S), relation between 
+S, q, w and T;  
+entropy equations (5.3-5.6) 
+
+Lecture 26  …cont’d  
+
+Entropy (S), relation between 
+S, q, w and T;  
+entropy equations (5.3-5.6) 
+
+Q1.3, 7.16, 7.18 
+P1.4, 1.5, 1.12, 1.17, 
+1.18, 1.26, 1.27 
+Q 2.1, 2.9, 2.11, 2.13 
+P 2.10, 2.36, 2.39 
+
+Q1.3, P1.4, 1.5, 1.12, 
+1.17, 1.18 1.26, 1.27 
+
+Q2.1, 2.9, 2.11, 2.13, 
+2.10, 2.36, 2.39 
+
+Tut 7 
+
+Tut 8 
+
+Q 2.5, 2.14  
+P 2.4, 2.5, 2.13, 
+2.25, 2.31, 2.34 
+Q 2.10, 2.15 
+P 2.1, 2.6, 2.8, 2.11, 
+2.14, 2.15, 2.17, 
+2.18, 2.32 
+Q 3.2 
+P 2.2, 2.3, 2.7, 2.12, 
+2.16, 2.20, 2.21, 
+2.23, 2.26, 2.27, 
+2.28, 2.30, 2.37, 
+2.38, 2.43  
+P 3.3, 3.5, 3.8, 3.12 
+Q 4.6, 4.10, 4.15, 
+4.17,   
+P 4.1, 4.2, 4.4, 4.5, 
+4.7, 4.8, 4.9, 4.11, 
+4.12, 4.16, 4.17, 
+4.19, 4.23, 4.24, 
+4.26, 4.27, 4.28, 
+4.30, 4.31, 4.33 
+Q 5.2, 5.4, 5.9, 5.10, 
+5.18 
+
+Q2.5, 2.14, P2.4, 2.5, 
+2.13, 2.25, 2.31, 2.34 
+
+Q2.10, 2.15, P2.1, 
+2.6, 2.8, 2.11, 2.14, 
+2.15, 2.17, 2.18, 2.32 
+
+Q3.2, P2.2, 2.3, 2.7, 
+2.9, 2.12, 2.16, 2.20, 
+2.21, 2.23, 2.26, 
+2.27, 2.28, 2.30, 
+2.37,2.38, 2.43, 3.3, 
+3.5, 3.8, 3.12 
+
+Q4.3, 4.6, 4.7, 4.10, 
+P4.1, 4.2, 4.4, 4.5, 
+4.7,4.8, 4.9, 4.11, 
+4.12, 4.16, 4.17, 
+4.19, 4.23, 4.24, 
+4.26, 4.27, 4.28, 
+4.30, 4.31, 4.33 
+
+Q5.2, 5.3, 5.7, 5.8, 
+5.14 
+
+P 5.6, 5.17, 5.19, 
+5.22, 5.23, 5.26, 5.29  
+
+5.6, 5.17, 5.19,5.22, 
+5.23,5.26, 5.29  
+
+Tut 9 
+
+5.35, 5.36, 5.40, 
+5.42, 5.43    
+
+5.32, 5.34,5.35,5.37, 
+5.41, 5.43,5.44    
+
+Lecture 27  Chapter 6 (Engel & Reid) 
+
+Q 6.3, 6.4, 6.7, 6.10 
+
+Q3, 4, 7, 10 
+
+“Chemical Equilibrium” 
+Free energy, and relationships 
+between thermodynamic 
+properties 
+
+P 6.2, 6.6, 6.8, 6.10, 
+6.11, 6.18, 6.31, 
+6.32, 6.36 
+
+P2, 6, 8, 10, 11, 18, 
+31, 32, 36 
+
+Lecture 28  Gibbs free energy changes in 
+
+chemical reactions.  
+
+Lecture 29  Chemical potential and 
+
+equilibrium 
+
+Tut 10 
+
+9 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 Course Information Sheet v 1.2e 
+Lecture  30  Chapter 8 (Engel & Reid) 
+Phase Diagrams of Pure 
+Substances 
+8.1-8.4, 8.9 
+
+Q8.2,  
+P8.5, 8.9, 8.15 
+
+Lecture 31  Chapter 10 (Callister) 
+
+10.1, 10.5, 10.12 
+
+10.1, 10.3, 10.7 
+
+Tut 11 
+
+Lecture 32 
+
+Lecture 33 
+
+“Phase Diagrams” 
+10.1 – 10.7 (Basic concepts) 
+
+10.8, 10.11, 10.12 (Diagram  
+types) 
+
+10.19, 10.28, 10.35 
+
+10.11, 10.16, 10.20 
+
+10.13 – 10.16 (Transformations) 
+
+10.39, 10.40, 10.44 
+
+10.22, 10.23, 10.25 
+
+Lecture 34  Applications 
+
+Q 11.4 
+
+Q4 
+
+Chapter 11 (Engel & Reid) 
+“Electrochemical Cells, 
+Batteries, and Fuel Cells” 
+11.1, 11.2, 11.9, 11.3, 11.4 
+11.5, 11.6, 11.7, 11.10 
+11.11, 11.12, 11.13 
+
+Lecture 35 
+Lecture 36 
+Lecture 37  Chapter 12 (Callister) 
+“Electrical Properties” 
+12.1 – 12.5 
+12.6 – 12.9 
+
+Lecture 38 
+Lecture 39  Chapter 18 (Callister) 
+“Magnetic Properties” 
+18.1 – 18.5 
+Time Permitting: 
+18.6 – 18.8, 18.9 – 18.12 
+
+P 11.1, 11.3, 11.6, 
+11.11, 11.14, 11.23 
+
+P1, 3, 6, 11, 14, 23 
+
+12.1, 12.5, 12.7 
+
+12.1, 12.3, 12.4 
+
+12.12, 12.14, 12.16 
+18.1, 18.4, 18.6 
+
+12.6, 12.7, 12.8 
+18.1, 18.2, 18.3 
+
+18.16, 18.17, 18.26; 
+18.28, 18.29, 18.32 
+
+18.8, 18.11, 18.14; 
+18.15, 18.16, 18.17 
+
+*The tutorial bracketing indicates the topics scheduled to be covered in the respective tutorials. 
+
+10 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

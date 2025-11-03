@@ -1,0 +1,332 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Separable Di!erential Equations
+
+A separable ODE
+
+is
+
+a
+
+first order ODE of
+
+the form
+
+y fly g x
+
+separate
+
+can
+y stuff and the x stuff
+
+the
+
+ex
+
+y xy
+
+Y xy
+
+Y x e
+y
+
+x y
+
+separable
+
+separable
+
+flyly g x x
+x
+fly y g x
+
+y sincy
+
+separable
+
+nonseparable
+
+Ho
+
+faction
+
+excl
+
+f g go
+
+g g x
+
+integrate both sides
+w.r.t.to
+
+x
+
+jyyyggg
+
+gigg
+
+fiaxfdyfxdx
+
+Intyl
+
+the
+
+y.ee
+
+hc
+
+ce
+
+y → = x 2+1
+2y
+
+and y (3) =
+
+5
+
+→
+
+2ydy
+
+f2ydy
+
+y
+
+3
+
+72 1 dx
+
+xii dx
+
+3
+
+C
+
+4 11 3720 1
+
+depends
+
+on
+
+Ivp
+
+general
+
+solution
+
+3 33 3 C
+
+É
+25 12 6
+1136
+
+2
+
+136
+
+9 113
+negative root b c
+IVP
+
+of
+
+y → = 2x
+
+y 2+1 and y (0) = 1
+
+separablete ODE
+
+8 2
+g dyf2xdx
+
+3y3 y X
+
+Implicit
+
+general
+
+solution
+
+y x o
+
+1
+
+1 3 1 07C
+
+C
+
+y3y X24
+
+implicit
+
+solution to IVP
+
+(1 + x)y → = (x + 2)(y
+
+1)
+
+→
+
+GeneralsolutionI
+
+Integrating Factors
+
+the method of using integrating
+
+solve any linear
+
+firstorder ODE
+
+factors works to
+
+yitguly.hn
+
+PCx
+
+Method multiply ODE by some unknown function
+and use product
+y g x y h x
+149seg
+
+rule
+multiply by plx
+
+hldpe
+
+Pr
+PodDyct
+
+rplecyyppyyy
+
+pÉYj
+glx
+g x
+fg x dx
+P x exp Sgcxdx
+
+Anp x
+
+In PCxi
+
+with integrating factor
+hex pCx
+
+c g
+
+feey dx fh plddx
+h x p x dx
+
+P x y
+
+y
+
+hCYp
+
+for appropriate
+choice of p x
+
+pcx7 exp Sge
+
+y → + y = ex and y (0) = 2
+
+1st order
+
+linear
+
+use integrating
+
+factor
+
+a
+
+pyÉ y py
+
+ig
+
+Éi
+
+e
+
+g
+ey
+Ey fedx
+C
+e y
+
+e
+
+y E
+
+General solin
+
+9
+
+ee
+
+C 32
+y bex 3
+
+y → + 2y
+
+x = sin(x) and y (ω/2) = 0
+
+firstorder
+
+linear
+
+use
+
+integrating
+
+factors
+
+PCx exp Sgcx dx
+
+exp Edx
+
+e
+
+x2
+
+ia
+
+ycx.tn pesheidx
+
+fxsincidx
+
+full derivation method
+
+pass.net
+
+P x
+
+P x
+
+JXgiag.gg
+
+In p 21n x
+P x
+
+Xy x2sin x
+y
+
+fx sin x dx
+
+yby parts
+cos x
+
+use Iv
+
+sin x cosex d
+
+

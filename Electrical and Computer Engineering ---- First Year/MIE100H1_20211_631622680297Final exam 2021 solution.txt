@@ -1,0 +1,703 @@
+Final Exam 2021
+
+1
+
+3
+
+As shown in figure a, vehicle A and vehicle B collide at 
+location C.
+After the collision, both vehicles have their brakes 
+locked and slide to new positions (Fig. b).
+
+a)
+
+VA
+
+C
+
+VB
+
+A
+
+B
+
+b)
+
+A
+
+Given:
+
+𝑚𝐴 = 𝑚𝐵 = 1.85 𝑘𝑔
+𝑉𝐴 = 9 𝑘𝑚/ℎ𝑟 to the right before collision
+𝜇𝑘 = 0.3 for both cars.
+
+Find: 
+
+1) The speed of vehicle A immediately after 
+
+collision;
+
+2) The speed of vehicle B immediately after 
+
+collision;
+
+3) The speed of vehicle B just before the 
+
+collision.
+
+B
+
+1 m
+
+C
+
+4 m
+
+Learning Objectives
+
+What did we cover on the 2021 Final Assessment?
+
+2
+
+4
+
+1) 
+
+After impact, car A
+
+2) 
+
+After impact, car B
+
+(cid:4593) (cid:2870)
+
+𝑚𝐴 𝑣(cid:3002)
+
+𝑇1 =
+
+1
+2
+
+T2 = 0
+
+𝑈(cid:2869)(cid:2879)(cid:2870)=Ff x 4
+
+𝐹𝑓 = 𝞵𝑘𝑚𝐴𝑔
+
+𝑇1 + 𝑈(cid:2869)(cid:2879)(cid:2870) = 𝑇2
+
+𝑚𝐵 𝑣(cid:3003)
+
+(cid:4593) (cid:2870)
+
+𝑇1 =
+
+1
+2
+
+T2 = 0
+
+𝑈(cid:2869)(cid:2879)(cid:2870)=Ff x 1
+
+𝐹𝑓 = 𝞵𝑘𝑚𝐵𝑔
+
+𝑇1 + 𝑈(cid:2869)(cid:2879)(cid:2870) = 𝑇2
+
+V’A=4.852 m/s 
+
+a)
+
+b)
+
+A
+
+V’B=2.426 m/s 
+
+3) At C: 
+
+𝑚𝐴𝑣𝐴 + 𝑚𝐵𝑣𝐵 = 𝑚𝐴𝑣𝐴
+
+(cid:4593) + 𝑚𝐵𝑣𝐵′
+
+VB=9.778 m/s 
+
+VA
+
+VB
+
+C
+
+B
+
+A
+
+B
+
+1 
+m
+
+C
+
+4 
+m
+
+Particle momentum 
+and work-energy
+
+5/5/2021
+
+1
+
+Answer: Need 2 kinetic plus one kinematic equations
+
+A square panel has mass 9 kg and a length of 
+2.5 meters on each side.  Its radius of gyration 
+about its center G is 𝑘(cid:3008) = 0.8 𝑚𝑒𝑡𝑒𝑟𝑠. The 
+panel is initially hanging from the ceiling by two 
+vertical wires attached to the panel at points A 
+and B.
+
+At time t=0, the wire attached at point A 
+breaks. 
+
+ceiling
+
+What will be the angular acceleration α of 
+the panel and the tension in the wire 
+attached to point B immediately after the 
+break occurs? Use the coordinate system 
+shown in the diagram.
+
+A
+
+B
+
+G
+
+g=9.81 
+m/s2
+
+y
+
++
+
+x
+
+∑ 𝑀(cid:3008) = 𝑚 𝑘(cid:3008)
+
+(cid:2870)𝛼  
+𝑇 1.25 = 9 0.8(cid:2870)𝛼
+1.25𝑇 = 5.76𝛼
+𝑇 = 4.608𝛼
+
+∑ 𝐹(cid:3052) = 𝑚𝑎(cid:3052)
+𝑇  − 9 9.81 = 9𝑎(cid:3052)
+T – 88.29 = (9)(𝑎(cid:3052)) 
+
+𝑎(cid:3052) =
+
+ℓ
+
+(cid:2870)
+
+𝛼 = −1.25𝛼
+
+Rigid Body 
+Kinetics
+
+(1)
+
+ℓ
+2
+
+(2)
+
+(3)
+
+Combine (1), (2), and (3) to yield:
+
+𝑎(cid:3052) =   −(1.25)(
+
+(cid:3021)
+
+(cid:2872).(cid:2874)(cid:2868)(cid:2876)
+
+)
+
+→ 𝑇 − 88.29 = − 9 1.25
+
+(cid:3021)
+
+(cid:2872).(cid:2874)(cid:2868)(cid:2876)
+
+= −2.4414𝑇
+
+T= 25.65 Newtons and 𝛼 = 5.57
+
+(cid:3045)(cid:3028)(cid:3031)
+(cid:3046)(cid:3118)
+
+5/5/2021
+
+T
+
+B
+
+mg
+
+y
+
++
+
+x
+
+5
+
+7
+
+x
+
++
+
+y
+
+B
+
+G
+
+The 75kg-wheel has a radius of gyration with 
+respect to G of 0.9 m. Pulley A is massless 
+and runs on frictionless bearings.
+
+A
+
+The rope is wound around the inner hub of the 
+wheel and the wheel is rolling initially at 10 
+rad/s counterclockwise. The wheel is rolling 
+without slip on the ground.
+
+g = 9.81 
+𝑚/𝑠(cid:2870)
+
+𝑚𝑎𝑠𝑠 = 30 𝑘𝑔
+
+Please use the coordinate system shown in 
+the diagram.
+
+a) Draw the free body diagrams.
+b) How much time will it take for it to roll at 6 
+
+rad/s clockwise?
+
+c) What are the initial (i.e. wheel is rolling at 
+10 rad/s counter clockwise) and final (i.e. 
+wheel is rolling at 6 rad/s clockwise) 
+speeds at the point B (as shown on the 
+figure and at the top of the inner hub point 
+at all times).
+
+6
+
+8
+
+Solutions
+
+Rigid Body Momentum
+
+x
+
++
+
+y
+
+mwheelg
+
+T
+
+T
+
+(b) Initial speed of G is VG, initial = -1.2 x (10) = -12 
+m/s and final speed of G is VG, final = 1.2 x (6) = 7.2 
+m/s
+
+𝑉(cid:3003) = 𝑉(cid:3008) + 𝑉(cid:3003)/(cid:3008)
+𝑉(cid:3003),(cid:3036)(cid:3041)(cid:3036)(cid:3047)(cid:3036)(cid:3028)(cid:3039) = −12 − 0.8 ∗ 𝜔(cid:3036) = −20
+𝑚
+𝑠
+
+𝑉(cid:3003),(cid:3033)(cid:3036)(cid:3041)(cid:3028)(cid:3039) = 7.2 − 0.8 ∗ 𝜔(cid:3033) = 12
+(c) time, use principle of impulse & momentum
+
+𝑚
+𝑠
+
+𝑚𝑉(cid:3008),(cid:3051)(cid:2869) + Σ (cid:1516) 𝐹𝑑𝑡
+
+(cid:3047)(cid:2870)
+(cid:3047)(cid:2869)
+
+= 𝑚𝑉(cid:3008),(cid:3051)(cid:2870)  1
+
+(cid:3047)(cid:2870)
+
+𝑚𝑉(cid:3008),(cid:3052)(cid:2869) + Σ (cid:3505) 𝐹𝑑𝑡
+
+= 𝑚𝑉(cid:3008),(cid:3052)(cid:2870)  2
+
+(cid:3047)(cid:2869)
+(cid:3047)(cid:2870)
+
+𝐼(cid:3008)𝜔(cid:2869) + Σ (cid:3505) 𝑀(cid:3008)𝑑𝑡
+
+= 𝐼(cid:3008)𝜔(cid:2870) 3
+
+F
+
+N
+
+75𝑘𝑔 (−12
+𝑚
+𝑠
+
+30𝑘𝑔 −20
+
+75 𝑘𝑔(0.9𝑚2)(−10
+
+𝑚
+𝑠
+
+) + (𝑇 − 𝐹)𝑡 = 75𝑘𝑔 ∗ 7.2
+
+𝑚
+𝑠(cid:2870) ∗ 30𝑘𝑔  − 𝑇 𝑡  =  30𝑘𝑔 12
+) + (0.8𝑇 + 1.2𝐹)𝑡 = 75𝑘𝑔 0.9𝑚2 6
+
+𝑚
+𝑠
+
+mg
+𝑚
+𝑠
++ 9.8
+
+𝑟𝑎𝑑
+𝑠
+
+(cid:3047)(cid:2869)
+
+𝑟𝑎𝑑
+𝑠
+
+𝑡 = 7.86𝑠
+
+2
+
+  
+B
+
+θ
+
+m
+m
+0
+0
+3
+
+y
+
++
+
+x
+
+C
+
+O
+
+ω
+
+The wheel is rolling without slipping with a
+constant angular velocity of 5 rad/s. Link BC
+is connected to slider B. If point C is right at
+the top edge of the wheel, find the velocity
+and acceleration of
+the slider B for the
+position shown where θ=30o and R=100
+mm.
+
+Use the coordinate system shown
+
+0.3 = 𝐵𝐶 cos 𝛼 + 2𝑅 ⇒ 𝛼 = 𝑐𝑜𝑠(cid:2879)(cid:2869)(
+𝑉(cid:3004) = 2𝑅𝜔 = 2 0.1 5 = 1 𝑚
+
+𝑠⁄
+
+(cid:2868).(cid:2871)(cid:2879)(cid:2870)((cid:2868).(cid:2869))
+(cid:2868).(cid:2870)
+
+) ⇒ 𝛼 = 60°
+
+𝑉(cid:3003) = 𝑉(cid:3004) + 𝑉(cid:3003)/(cid:3004)
+
+𝑉(cid:3003) cos 30° 𝚤̂ + 𝑉(cid:3003) sin 30° 𝚥̂ = 1 𝚤̂ + 0.2 𝜔(cid:3003)(cid:3004) cos 60° 𝚤̂ + 0.2 𝜔(cid:3003)(cid:3004) sin 60° 𝚥̂
+
+𝑉(cid:3003) cos 30° = 1 + 0.2 𝜔(cid:3003)(cid:3004) cos 60°
+
+𝑉(cid:3003) sin 30° = 0.2 𝜔(cid:3003)(cid:3004) sin 60°
+
+⇒
+
+𝑉(cid:3003) = 1.73 𝑚
+𝑠⁄
+𝜔(cid:3003)(cid:3004) = 5  𝑟𝑎𝑑
+
+𝑠(cid:3415)   𝐶𝑊
+
+𝑉(cid:3003)/(cid:3004)
+
+𝑉(cid:3003)
+
+B
+
+θ
+
+α
+
+𝑉(cid:3004)
+
+C
+
+9
+
+11
+
+𝑎(cid:3003) = 𝑎(cid:3004) + (𝑎⃗(cid:3003)/(cid:3004))(cid:3047) + (𝑎⃗(cid:3003)/(cid:3004))(cid:3041)
+
+𝑎(cid:3004) = 𝑎⃗(cid:3042) + 𝛼 × 𝑟⃗(cid:3004)/(cid:2951) − 𝜔(cid:2870)𝑟⃗(cid:3004)/(cid:2951) = −𝑅𝜔(cid:2870) 𝚥̂ = − 0.1 5(cid:2870)𝚥̂ = −2.5 𝚥̂ 
+(𝑎(cid:3003)/(cid:3004))(cid:3047)= 𝐵𝐶𝛼(cid:3003)(cid:3004)
+
+𝑚
+𝑠(cid:2870)
+
+(cid:2870)
+(𝑎(cid:3003)/(cid:3004))(cid:3041)= 𝐵𝐶𝜔(cid:3003)(cid:3004)
+
+𝑎(cid:3003) cos 30° 𝚤̂ + 𝑎(cid:3003) sin 30° 𝚥̂ = −2.5 𝚥̂ + 0.2 𝛼(cid:3003)(cid:3004) cos 60° 𝚤̂ + 0.2 𝛼(cid:3003)(cid:3004) sin 60° 𝚥̂
+                                                       + 0.2 5 (cid:2870) sin 60° 𝚤̂ − 0.2 5 (cid:2870) cos 60° 𝚥̂
+
+𝑎(cid:3003)
+
+B
+
+C
+
+𝑎(cid:3004)
+
+𝑎(cid:3003) cos 30° = 0.2 𝛼(cid:3003)(cid:3004) cos 60° + 0.2 5 (cid:2870) sin 60°
+
+𝑎(cid:3003) sin 30° = −2.5  + 0.2 𝛼(cid:3003)(cid:3004) sin 60° − 0.2 5 (cid:2870) cos 60°
+
+⇒
+
+𝑎(cid:3003) = 12.5  𝑚
+𝛼(cid:3003)(cid:3004) = 64.951  𝑟𝑎𝑑
+
+𝑠(cid:2870)(cid:3415)
+
+𝑠(cid:2870)(cid:3415) 𝐶𝑊
+
+Rigid Body Kinematics
+
+10
+
+12
+
+g
+
+x
+
+y
+
+𝑘(cid:2870)
+
+𝑐(cid:2869)
+
+𝑘(cid:2869)
+
+For the disk
+𝐼(cid:3008) = 0.0015𝑘𝑔 𝑚(cid:2870)
+
+For 𝜃 = 0(cid:3042) (as 
+defined in figure) 
+the disk is in static 
+equilibrium
+
+𝑟(cid:3042)
+
+𝑟(cid:3036)
+
+G
+
+𝜃
+
+What is the  𝜃 of this system at 𝑡 = 0.02 𝑠𝑒𝑐𝑜𝑛𝑑𝑠?
+
+The system is released from rest with an initial displacement of  𝜃=0.03 radians
+
+𝑘(cid:2869) = 130
+
+𝑟(cid:2868) = 0.12𝑚
+𝑟(cid:3036) = 0.06𝑚
+𝑁
+𝑚
+𝑁
+𝑚
+𝑁𝑠
+𝑚
+
+𝑘(cid:2870) = 390
+
+𝑐(cid:2869) = 55
+
+5/5/2021
+
+3
+
+ 
+Solution - FBD
+
+𝐹(cid:2913)
+
+𝐹(cid:3046)(cid:2869)
+
+∑𝑀(cid:3008)     − 𝐹(cid:3030) + 𝐹(cid:3046)(cid:2869) 𝑟(cid:3042) − F(cid:2929)(cid:2870)r(cid:2919) = I(cid:2891)𝛼(cid:3005)
+
+𝐹(cid:3046)(cid:2870)
+
+𝐹(cid:3051)
+
+𝐹(cid:3052)
+
+𝑚𝑔
+
+𝐹(cid:3046)(cid:2869) = 𝑘(cid:2869)𝑟(cid:3042)𝜃
+
+𝐹(cid:3046)(cid:2870) = 𝑘(cid:2870)𝑟(cid:3036)𝜃
+
+𝐹(cid:3030) = 𝑐𝑟(cid:3042)𝜃(cid:4662)
+
+𝛼(cid:3005) = 𝜃(cid:4663)
+
+𝑚(cid:3032)(cid:3044)
+
+𝑐(cid:3032)(cid:3044)
+
+𝐼(cid:3008)𝜃(cid:4663) + 𝑐𝑟(cid:3042)
+
+(cid:2870)𝜃(cid:4662) + 𝑘(cid:2869)𝑟(cid:3042)
+
+(cid:2870) + 𝑘(cid:2870)𝑟(cid:3036)
+
+(cid:2870) 𝜃 = 0
+
+𝑘(cid:2869)𝑟(cid:3042)
+
+(cid:2870) + 𝑘(cid:2870)𝑟(cid:3036)
+
+(cid:2870) 𝐼(cid:3008)
+
+𝑘(cid:3032)(cid:3044)
+
+𝑐(cid:3030) = 2 𝑘(cid:3032)(cid:3044)𝑚(cid:3032)(cid:3044)= 2
+
+Solution
+
+𝜃 𝑡 = 𝑒(cid:2879)(cid:2870)(cid:2874)(cid:2872)(cid:3047) 0.0302𝑒(cid:2870)(cid:2873)(cid:2877).(cid:2876)(cid:2871)(cid:3047) − 0.0002𝑒(cid:2879)(cid:2870)(cid:2873)(cid:2877).(cid:2876)(cid:2871)(cid:3047)
+
+Or 
+
+𝜃 0.02𝑠𝑒𝑐 = 1.59𝑑𝑒𝑔
+
+𝜃 0.02𝑠𝑒𝑐 = 0.0278𝑟𝑎𝑑
+
+0.0302𝑒(cid:2879)(cid:2872).(cid:2869)(cid:2875)(cid:3047) − 0.0002𝑒(cid:2879)(cid:2873)(cid:2870)(cid:2871).(cid:2876)(cid:2871)(cid:3047) = 𝜃(𝑡)
+
+Free Damped Vibrations
+
+13
+
+15
+
+Solution
+
+𝜔(cid:3041) =
+
+𝜁 =
+
+= 5.65
+
+𝑐(cid:3032)(cid:3044)
+𝑐(cid:3030)
+(cid:2870)
+(cid:2870) + 𝑘(cid:2870)𝑟(cid:3036)
+𝐼(cid:3008)
+
+𝑘(cid:2869)𝑟(cid:3042)
+
+= 46.63
+
+𝑟𝑎𝑑
+𝑠
+
+𝜃 = 𝑒(cid:2879)(cid:3085)(cid:3104)(cid:3289)(cid:3047)(𝐴𝑒 (cid:3085)(cid:3118)(cid:2879)(cid:2869)(cid:3104)(cid:3289)(cid:3047) + 𝐵𝑒(cid:2879) (cid:3085)(cid:3118)(cid:2879)(cid:2869)(cid:3104)(cid:3289)(cid:3047))
+
+Probably easier to just 
+write the numbers
+
+𝜃(cid:4662) = −𝜁𝜔(cid:3041) 𝑒(cid:2879)(cid:3085)(cid:3104)(cid:3289)(cid:3047) 𝐴𝑒 (cid:3085)(cid:3118)(cid:2879)(cid:2869)(cid:3104)(cid:3289)(cid:3047) + 𝐵𝑒(cid:2879) (cid:3085)(cid:3118)(cid:2879)(cid:2869)(cid:3104)(cid:3289)(cid:3047) +  𝑒(cid:2879)(cid:3085)(cid:3104)(cid:3289)(cid:3047) (𝐴 𝜁(cid:2870) − 1𝜔(cid:3041)𝑒 (cid:3085)(cid:3118)(cid:2879)(cid:2869)(cid:3104)(cid:3289)(cid:3047) − 𝐵 𝜁(cid:2870) − 1𝜔(cid:3041)𝑒(cid:2879) (cid:3085)(cid:3118)(cid:2879)(cid:2869)(cid:3104)(cid:3289)(cid:3047))
+
+𝜃 0 = 0.05𝑟𝑎𝑑 = 𝐴 + 𝐵
+𝜃(cid:4662) 0 = − 𝐴 + 𝐵 𝜁 + 𝐴 𝜁(cid:2870) − 1 − 𝐵 𝜁(cid:2870) − 1
+
+𝐴 =
+
+ 𝐵 =
+
+𝜃 0
+2
+
+𝜃 0
+2
+
+1 +
+
+1 −
+
+𝜁
+
+𝜁(cid:2870) − 1 
+𝜁
+
+𝜁(cid:2870) − 1 
+
+= 0.0302    
+
+= −0.0002
+
+Using the initial 
+conditions
+
+Conclusions
+
+Be careful with how you arrange things
+
+Look at your work and DRAW DRAW DRAW
+
+14
+
+16
+
+5/5/2021
+
+4
+
+

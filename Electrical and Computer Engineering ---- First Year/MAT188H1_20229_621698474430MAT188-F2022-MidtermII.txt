@@ -1,0 +1,511 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+MAT188 – midterm II –Fall 2022
+
+LAST (Family) NAME:
+
+FIRST (Given) NAME:
+
+Email address:
+
+Utorid:
+
+STUDENT NUMBER:
+
+@mail.utoronto.ca
+
+Time: 90 mins.
+
+1. Keep this booklet closed, until an invigilator announces that the test has
+begun. However, you may fill out your information in the box above before
+the test begins.
+
+2. Please place your student ID card in a location on your desk that is easy
+
+for an invigilator to check without disturbing you during the test.
+
+3. Please write your answers into the boxes. Ample space is provided within
+each box, however, if you must use additional space, please use the blank
+page at the end of this booklet, and clearly indicate in the given box that
+your answer is continued on the blank page. You can also use the blank
+pages as scrap paper. Do not remove them from the booklet.
+
+4. This test booklet contains 14 pages, excluding the cover page, and 6 questions.
+If your booklet is missing a page, please raise your hand to notify an invigilator
+as soon as possible.
+
+5. Do not remove any page from this booklet.
+
+6. Remember to show all your work unless otherwise stated.
+
+7. No textbook, notes, or other outside assistance is allowed.
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+6
+
+2
+
+13
+
+3
+
+6
+
+4
+
+9
+
+5
+
+12
+
+6
+
+14
+
+Total
+
+60
+
+midterm II , Page 1 of 14
+
+Part A
+
+1. (6 points) Fill in the circle for all statements that must be true. You don’t need to
+include your work or reasoning. Some questions may have more than one correct answer.
+You may get a negative mark if you choose an incorrect option.
+
+(a) Is S a subspace of V ? Choose ALL choices for which the answer is “yes”.
+
+⃝ S = {(x, y) ∈ R2 | xy = 0}, V = R2
+
+⃝ S is the unit cube, V = R3
+
+⃝ S is a plane through origin in R3, V = R3
+
+⃝ S = {(x, y) ∈ R2 | x2 + y2 < 1}, V = R2
+
+⃝ S is the kernel of a linear transformation T : R5 → R6, V = R5
+
+⃝ S is the image of a linear transformation T : R5 → R6, V = R5
+
+(b) Assume the given statement and choose all the phrases that are true. “A⃗x = ⃗0 has
+
+a unique solution, where A is an n × p matrix”
+
+⃝ The linear transformation T defined by T (⃗x) = A⃗x is injective.
+
+⃝ Columns of A span Rp.
+
+⃝ A⃗x = ⃗b has a solution for every ⃗b in Rp.
+
+⃝ There is at least one redundant vector among columns of A.
+
+⃝ The linear transformation T defined by T (⃗x) = A⃗x is surjective.
+
+⃝ If A⃗x = ⃗b is consistent then it has a unique solution.
+
+⃝ Columns of A are linearly independent.
+
+⃝ n ≥ p.
+
+2. Fill in the blank. You don’t need to include your computation or reasoning.
+
+(a) (4 points) Let
+
+midterm II , Page 2 of 14
+
+A =
+
+
+
+
+
+a b
+c
+d e f
+g e h
+
+
+
+
+
+B =
+
+
+
+
+
+a
+g
+
+b
+e
+d + a e + b f + c
+
+c
+h
+
+
+
+
+
+C =
+
+
+
+
+
+2d + a 2e + b 2f + c
+e
+b
+
+h
+c
+
+g
+a
+
+
+
+ .
+
+Let T (⃗x) = A⃗x, S(⃗x) = B⃗x and L(⃗x) = C⃗x be linear transformations given by left
+multiplication by matrices A, B and C respectively. Suppose det A = 4. Let Ω be
+a cylinder of volume 5 in R3.
+
+det C =
+
+the volume of T ◦S(Ω) is
+
+det(C −1B) =
+
+(b) (6 points) Let ⃗v =
+
+
+
+
+
+
+1
+1
+ , ⃗w =
+2
+
+
+
+2
+3
+ , ⃗u =
+
+4
+
+
+
+
+
+8
+11
+16
+
+
+
+, and ⃗r =
+
+
+
+3
+4
+.
+
+7
+
+Choose all the correct options: The set {⃗v, ⃗w, ⃗r} is
+
+⃝ linearly independent
+
+⃝ linearly dependent
+⃝ a spanning set for R3
+⃝ a basis for R3
+
+If possible find coefficients that make the relation below hold true. If not possible,
+write DNE in every box.
+
+⃗u =
+
+⃗v +
+
+⃗w
+
+(c) (3 points) Let B = (⃗b1 =
+
+
+
+2
+ ,⃗b3 =
+3
+
+4
+bases for R3. Let S be a matrix such that S[⃗x]E = [⃗x]B for any vector ⃗x in R3. find
+S−1.
+
+
+
+3
+4
+) and E = (⃗e1, ⃗e2, ⃗e3) be two
+
+7
+
+
+
+1
+ ,⃗b2 =
+1
+
+2
+
+
+
+
+
+S−1 =
+
+
+
+
+
+midterm II , Page 3 of 14
+
+Part B
+
+3. State whether each statement is true or false by writing “True” or “False” in the small
+box, and provide a short and complete justification for your claim in the larger box. If
+you think a statement is true explain why it must be true. If you think a statement is
+false, give a counterexample.
+(a) (3 points) Let T : R3 → R6, given by T (⃗x) = A⃗x. Suppose rank A = 2. Then the
+
+kernel of T is a line in R3.
+
+(b) (3 points) Let S : R3 → R3 be a linear transformation given by S(⃗x) =
+
+Then S is invertible.
+
+
+
+
+
+5 1 15
+0 2 22
+0 0 10
+
+
+
+ ⃗x.
+
+midterm II , Page 4 of 14
+
+4. In each part, give an explicit example of the mathematical object described or explain
+
+why such an object does not exist.
+(a) (3 points) A linear transformation T : R3 → R3 whose kernel and image are lines
+
+in R3.
+
+(b) (3 points) T : R2 → R2 such that ker(T ) contains the vector
+
+(cid:21)
+(cid:20)4
+1
+
+.
+
+(c) (3 points) Let T is the reflection about the plane x1 + x2 + x3 = 0 in R3. A basis
+
+B for R3 such that [T ]B is diagonal.
+
+5. Let U = (⃗u1 = 1√
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+−1
+0
+3
+
+
+
+
+
+
+
+
+
+, ⃗u2 = 1
+√
+3
+
+2
+
+
+
+
+
+
+
+
+
+4
+0
+1
+0
+−1
+
+, ⃗u3 = 1√
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+−1
+1
+2
+1
+
+midterm II , Page 5 of 14
+
+) be a basis for the subspace
+
+V of R5.
+(a) (4 points) Show that U is an orthonormal basis for R3.
+
+(b) (4 points) Let W = Span(⃗u1, ⃗u3) and πW : R5 → R5 be the orthogonal projection
+onto W . Let ⃗x be a vector in R5 such that ⃗x · ⃗u1 = 2, ⃗x · ⃗u2 = 4, and ⃗x · ⃗u3 = −1.
+Find πW (⃗x). Put your final answer in the small box. Justify your answer.
+
+midterm II , Page 6 of 14
+
+πW (⃗x) =
+
+(c) (4 points) Recall that U = (⃗u1, ⃗u2, ⃗u3) in part (a) is an orthonormal basis for V .
+Find [πW (⃗x)]U , the U coordinate of πW (⃗x). Put your final answer in the small box.
+Justify your answer.
+
+[πW (⃗x)]U =
+
+midterm II , Page 7 of 14
+
+Part C
+
+6. Becoming more and more interested with lower-dimensional beings, Cordylia has dis-
+covered a way to build a machine which can transport part of herself down to lower
+dimensional space without causing irreparable damage to herself. She wishes to perform
+a test of her machine.
+Cordylia’s sensors have discovered beings which exist in the subspace V of R6 defined
+by the following equations:
+
+x + y + z + u + v + w = 0
+
+x + z + v = 0
+
+y + u + w = 0
+
+(a) (3 points) Find a basis B1 for the subspace V .
+
+(b) (3 points) What is the dimension of V ? What is the dimension of the orthogonal
+
+subspace V ⊥?
+
+midterm II , Page 8 of 14
+
+dim V =
+
+dim V ⊥ =
+
+(c) (2 points) Find a basis B2 for V ⊥.
+
+(d) (3 points) Let B = B1 ∪ B2 be the basis of R6 consisting of all vectors from the
+bases B1 of V and B2 of V ⊥. Let P : R6 → R6 be the orthogonal projection onto
+the subspace V . Find the matrix representation of P with respect to the basis B.
+Call this matrix B.
+
+midterm II , Page 9 of 14
+
+(e) (3 points) To create her projection machine, Cordylia needs to know the standard
+matrix A for the projection map to the subspace V . Cordilya knows that there
+exists an invertible matrix S such that A = S−1BS. Without computing it fully,
+give an expression for the matrix S.
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+midterm II , Page 10 of 14
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+midterm II , Page 11 of 14
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+midterm II , Page 12 of 14
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+midterm II , Page 13 of 14
+
+This space is provided for additional space for your solutions if needed or to be used as a
+scrap paper. If you must use this space for your solutions, be sure to clearly indicate in the
+original question that your solution is continued on the overflow page. Do not remove this
+page from the test booklet.
+
+midterm II , Page 14 of 14
+
+

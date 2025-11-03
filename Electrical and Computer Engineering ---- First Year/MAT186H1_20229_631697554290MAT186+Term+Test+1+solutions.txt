@@ -1,0 +1,864 @@
+MAT186 Term Test 1 Soltuions
+
+October 17, 2022
+
+Multiple Choice Solutions
+
+1. The inequality −2 ≤ x ≤ 8 can be expressed in the form |x + a| ≤ b, where a =
+
+and
+
+b =
+
+. [1 mark]
+
+Solution:|x−(−a)| ≤ b, is an interval centered at −a of radius b. Since the interval −2 ≤ x ≤ 8
+is centered at x = 3, with radius 5 we have a = −3 and b = 5.
+
+2. Let f (x) = x2 −1. Select all the numbers below that are upper bounds for |f (x)| on the interval
+
+[−
+
+3
+4
+
+,
+
+1
+3
+
+]. [2 marks]
+
+Solution: f (x) = x2 − 1 is an upward opening parabola with vertex at (x, f (x)) = (0, −1) and
+roots at ±1, therefore, f (x) is strictly negative on the interval [−
+], therefore the maximum
+of |f (x)| on this interval is 1. This implies the provided numbers which are upper bounds are
+1 and 3
+2
+
+3
+4
+
+1
+3
+
+,
+
+.
+
+3. One of your professors (we’re not naming names) has noticed that student’s raw scores on a
+linear algebra test is a decreasing function of time they spend on their phones. This same
+professor noticed that, given a raw score, they could determine how much time a student spent
+on their phone. Which of the functions below could represent this professor’s observations? [1
+mark]
+
+Solution: We look for a function that is decreasing (and invertible).
+
+• f (t) = 100 sin(t + 50) + 100 oscillates, and therefore is not decreasing (nor invertible).
+
+• g(t) = 100 −
+
+, is increasing for 0 ≤ t ≤ 50, and therefore does not correspond to
+
+(t − 50)2
+25
+
+the professor’s observations.
+
+• h(t) = 100 e −t2
+
+50 , this is the ONLY option which could represent the professor’s observa-
+
+tions.
+
+• k(t) = 100 − 2−t, is invertible but increasing.
+
+1
+
+4. Recall that sin−1(x) is the inverse of sin(x) whose domain is restricted to [− π
+
+2 ], and cos−1(x)
+is the inverse of cos(x) whose domain is restricted to [0, π]. We define a new inverse function
+as follows:
+
+2 , π
+
+zin−1(x) is defined to be the inverse of sin(x) whose domain is restricted to [ π
+
+2 ].
+2 , 3π
+
+Fill in the blank: A solution to the equation cos(zin−1(x)) = sin(cos−1(x)) does not exist when
+
+. [2 marks]
+
+2 ], which implies that cos(zin−1(x)) ≤ 0. In contrast,
+Solution: The range of zin−1(x) is [ π
+the range of cos−1(x) is [0, π], which implies that sin(cos−1(x)) ≥ 0. Therefore, equality of
+these two functions can only occur when cos(zin−1(x)) = sin(cos−1(x)) = 0, which occurs when
+x = ±1.
+
+2 , 3π
+
+Thus a solution does not exist when x ∈ (−1, 0) or x ∈ (0, 1).
+
+5. Let a and b be positive constants, where a ̸= b. The graph of a function f (x) is pictured below,
+together with the vertical line x = −a, and the vertical line x = b. Which of the expressions
+below could represent the function f (x)? [1 mark]
+
+Solution:
+
+. This would have both vertical asymptotes at positive x values, so
+
+• f (x) =
+
+• f (x) =
+
+x
+(x − a)(x − b)
+this is not the correct choice.
+x
+(x + a)(x − b)
+−x
+(x + a)(x − b)
+−x
+(x − a)(x − b)
+this is not the correct choice.
+
+• f (x) =
+
+• f (x) =
+
+2
+
+. For x > b this function is positive, so it does not match the graph.
+
+. This is our function!
+
+. This would have both vertical asymptotes at positive x values, so
+
+(cid:18)(cid:113)
+
+x +
+
+√
+
+x −
+
+(cid:113)
+
+x −
+
+√
+
+(cid:19)
+
+x
+
+=
+
+6.
+
+lim
+x→∞
+
+? [2 marks]
+
+(cid:18)(cid:113)
+
+x +
+
+√
+
+x −
+
+(cid:113)
+
+x −
+
+(cid:19)
+
+√
+
+x
+
+−→ ∞ − ∞, therefore we must try to manipulate
+
+Solution:
+
+lim
+x→∞
+this expression.
+
+(cid:18)(cid:113)
+
+x +
+
+√
+
+x −
+
+(cid:113)
+
+x −
+
+(cid:19)
+
+√
+
+x
+
+=
+
+(cid:18)(cid:113)
+
+√
+
+x −
+
+x +
+
+(cid:113)
+
+x −
+
+(cid:19)
+
+√
+
+x
+
+√
+
+√
+
+x + (cid:112)x −
+x + (cid:112)x −
+
+(cid:17)
+
+(cid:17)
+
+√
+
+x
+
+√
+
+x
+
+(cid:16)(cid:112)x +
+(cid:16)(cid:112)x +
+(cid:17)2(cid:19)
+√
+
+(cid:16)(cid:112)x −
+√
+
+x
+
+(cid:17)
+
+x
+
+x + (cid:112)x −
+
+x
+
+−
+
+√
+
+(cid:17)2
+
+(cid:18)(cid:16)(cid:112)x +
+(cid:16)(cid:112)x +
+(2
+x)
+x + (cid:112)x −
+
+(cid:16)(cid:112)x +
+
+√
+
+√
+
+√
+
+=
+
+=
+
+(cid:17) .
+
+√
+
+x
+
+√
+
+(2
+x)
+x + (cid:112)x −
+
+√
+
+(cid:17) =
+
+(cid:113)
+
+√
+
+x
+
+2
+
+1 + 1√
+
+x +
+
+(cid:113)
+
+1 − 1√
+x
+
+,
+
+Factoring out a
+
+√
+
+x from the denominator yields:
+
+(cid:16)(cid:112)x +
+
+and thus
+
+(cid:18)(cid:113)
+
+√
+
+x −
+
+x +
+
+(cid:113)
+
+x −
+
+(cid:19)
+
+√
+
+x
+
+lim
+x→∞
+
+= lim
+x→∞
+
+(cid:113)
+
+2
+
+1 + 1√
+
+x +
+
+(cid:113)
+
+1 − 1√
+x
+
+=
+
+2
+2
+
+= 1.
+
+7. Suppose that f (x) and g(x) are differentiable functions defined for all x, and satisfy the following
+
+properties:
+
+• f (−2) = g(−2)
+• f ′(x) < g′(x) for all x.
+
+Which of the statements below are true? [2 marks]
+
+• f (x) < g(x) for all x > −2. This is true since g(x) is growing faster than f (x) everywhere
+
+on this interval and g(−2) = f (−2), so f (x) can never catch back up.
+
+• f (x) < g(x) for all x < −2. This is false, in fact, f (x) > g(x) for all x < −2.
+• The graphs of f and g do not intersect. They intersect at x = −2.
+• The graphs of f and g intersect at exactly one point. This is true since f (x) > g(x) for
+
+x < −2 and g(x) > f (x) for x > −2.
+
+• The graphs of f and g intersect at more than one point. No.
+
+3
+
+8. Let f (x) be differentiable for all x, and let g(x) be the tangent line to f at a point a ̸= 0.
+
+Which of the expression(s) below are equal to f ′(a)? [2 marks]
+
+• g′(a). g(x) has a constant slope of f ′(a), therefore g′(a) = f ′(a), so this is true.
+• g(a + 1) − g(a). g(a + 1) − g(a) = g(a+1)−g(a)
+
+, so it is the slope of a secant line of g(x),
+
+which is always equal to g′(a) = f ′(a), so this is true.
+
+1
+
+. This yields f ′(0), so in general this is false.
+
+• lim
+h→0
+
+f (0 + h) − f (0)
+h
+• f (x) − f (a)
+x − a
+
+will not equal f ′(a), so this is false.
+
+This is the slope of a secant line with an endpoint at x = a. In general this
+
+• lim
+h→0
+
+f (a + h) − f (a − h)
+2h
+
+.
+
+f (a + h) − f (a − h)
+2h
+
+=
+
+=
+
+1
+2
+1
+2
+
+f (a + h) − f (a) + f (a) − f (a − h)
+h
+(cid:18)f (a + h) − f (a)
+h
+
+f (a) − f (a − h)
+h
+
++
+
+(cid:19)
+
+.
+
+Therefore, lim
+h→0
+
+f (a + h) − f (a − h)
+2h
+
+=
+
+1
+2
+
+(2f ′(a)) = f ′(a).
+
+True or False:
+
+9. Let f (x) = 2x −
+
+10
+x
+
+. Then there exists a c ∈ [−
+
+, 3] such that f (c) = 0.
+
+5
+2
+
+Solution: f (1) = 2 − 10 = −8 < 0 and f (3) = 8 − (3 + 1
+3) > 0. Since f (x) is the difference
+of a power function and a rational function, it is continuous on its domain, which contains
+the interval (0, ∞). Therefore, since f (x) is negative at x = 1 and positive at x = 3, the
+Intermediate Value Theorem states that there must exist a point c ∈ (1, 3) such that f (c) = 0.
+Therefore the statement is true.
+
+Short Answer Solutions
+
+10. Let f (x) represent the fuel efficiency, in kilometres per liters, of a car travelling at a speed of
+
+x kilometres per hour.
+
+(a) What are the units of f ′(x)? [1 mark]
+
+Solution: Since f (x) has the units of km
+L
+is measured in km · h
+L · km
+
+h
+L
+
+=
+
+.
+
+, and x is measured in km
+h
+
+, implies that f ′(x)
+
+4
+
+(b) Suppose f ′(101) = 0.74. If you are driving at 101 kilometres per hour, should you speed
+up or slow down to be more fuel efficient? Briefly explain. Enter either “speed up" or
+“slow down" in the box provided as your final answer.
+
+Solution: You should speed up, since f ′(101) = 0.74 > 0, means the graph is increasing
+at this point and therefore the car has an increased fuel efficiency when moving (at least
+slightly) faster than 101 km
+h
+
+.
+
+11. Let f (x) =
+
+
+
+
+
+
+52x−2 + 2,
+3x2 + x + 5
+Ax2 + 2
+ln(Bx) + 1,
+
+x ≤ 1
+
+, 1 < x < 2
+
+,
+
+where A and B are positive constants.
+
+x ≥ 2
+
+(a) Find all values of A ad B such that f (x) is continuous at x = 1 and x = 2.
+
+Solution: To have continuity at x = 1, we require lim
+x→1−
+For x ≤ 1, we have f (x) = 52x−2 + 2, which is a constant plus the composition of an exponential
+function and a polynomial, therefore it is continuous on its domain.
+Therefore,
+
+f (x) = lim
+x→1+
+
+f (x) = f (1).
+
+f (x) = f (1) = 3. We now need to ensure lim
+x→1+
+
+lim
+x→1−
+
+f (x) = 3 as well. In the interval
+3 + 1 + 5
+A + 2
+
+. Setting this equal to
+
+1 < x < 2, f (x) is a rational function, therefore,
+3 yields
+
+, which implies A = 1.
+
+1
+
+A+2 = 1
+
+3
+
+lim
+x→1+
+
+f (x) =
+
+Using A = 1 we now find B which makes f (x) continuous at x = 2. Using again the continuity
+12 + 2 + 5
+of rational functions, we have lim
+. Using the continuity of logarithms,
+6
+x→2−
+we have lim
+f (x) = ln(2B) + 1.
+x→2+
+
+f (x) =
+
+19
+6
+
+=
+
+Setting ln(2B) + 1 = 19
+6
+
+, implies ln(2B) = 13
+6
+
+. Which implies B =
+
+13
+6
+
+e
+
+1
+2
+
+(b) Use the limit definition of the derivative to write an explicit expression for f ′(−1). Your answer
+
+should not involve the letter f . Do not attempt to evaluate or simplify the limit.
+Solution: Using the definition of the derivative,
+
+f ′(−1) = lim
+h→0
+
+f (−1 + h) − f (−1)
+h
+
+= lim
+h→0
+
+(52(−1+h)−2 + 2) − (52(−1)−2 + 2)
+h
+
+5
+
+12. On the axes below, sketch a well-labeled graph of a function f that satisfies the given properties.
+
+[5 marks]
+
+• f (−4) = 0
+• f ′(−5) < f (−4) − f (−5)
+•
+f (x) → −∞
+
+lim
+x→−2−
+
+• f ′(x) = 0 for −2 < x < 0
+• f ′(x) = 2 for 0 < x < 2
+f (x) does not exist
+• lim
+x→2
+
+• lim
+h→0
+
+f (3 + h) − f (3)
+h
+• f is continuous at x = 3
+
+does not exist
+
+• f is increasing for x > 3
+
+• f ′′(x) < 0 for x > 3
+
+6
+
+13. We define the integer part Int(x) of a positive number x > 0 to be the largest integer number
+that is smaller than or equal to x. For example, Int(1.3) = 1 and Int(π) = 3. Determine
+
+[3 marks]
+
+x
+2
+
+Int
+
+(cid:19)
+
+.
+
+(cid:18) 3
+x
+
+lim
+x→0+
+
+Hint: Give a certain theorem a squeeze.
+Solution: By definition of the function Int, we have 3
+x
+(cid:19)
+
+(cid:19)
+
+Therefore, for x ≥ 0, we have x
+2
+
+(cid:18) 3
+x
+
+− 1
+
+≤
+
+Int
+
+x
+2
+
+(cid:18) 3
+x
+
+− 1 ≤ Int
+
+(cid:19)
+
+(cid:18) 3
+x
+
+≤
+
+3
+x
+
+.
+
+≤
+
+x
+2
+
+3
+x
+
+, or equivalently
+
+3
+2
+
+−
+
+x
+2
+
+≤
+
+x
+2
+
+Int
+
+(cid:19)
+
+(cid:18) 3
+x
+
+≤
+
+3
+2
+
+.
+
+Since this inequality holds for all x ≥ 0, it also holds as we take a limit as x → 0+. Therefore,
+
+which yields
+
+(cid:18) 3
+2
+
+−
+
+(cid:19)
+
+x
+2
+
+lim
+x→0+
+
+≤ lim
+x→0+
+
+x
+2
+
+Int
+
+(cid:19)
+
+(cid:18) 3
+x
+
+≤ lim
+x→0+
+
+3
+2
+
+,
+
+3
+2
+
+≤ lim
+x→0+
+
+x
+2
+
+Int
+
+(cid:19)
+
+(cid:18) 3
+x
+
+≤
+
+3
+2
+
+,
+
+and therefore, by the Squeeze Theorem, we have lim
+x→0+
+
+x
+2
+
+Int
+
+(cid:19)
+
+(cid:18) 3
+x
+
+=
+
+3
+2
+
+.
+
+7
+
+

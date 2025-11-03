@@ -1,0 +1,222 @@
+Practise Problem Set 7
+
+MAT 187 - Summer 2025
+
+These questions are meant for your own practice for the exam and are not to be handed in.
+Some of these questions, or problems similar to these, may appear on the quizzes or exams.
+Therefore, solutions to these problems will not be posted but you may, of course, ask about
+these questions during office hours, or on Piazza.
+
+Suggestions on how to complete these problems:
+
+• Solution writing is a skill like any other, which must be practiced as you study. After
+you write down your rough solutions, take the time to write a clear readable solu-
+tion that blends sentences and mathematical symbols. This will help you to retain,
+reinforce, and better understand the concepts.
+
+• After you complete a practice problem, reflect on it. What course material did you
+use to solve the problem? What was challenging about it? What were the main ideas,
+techniques, and strategies that you used to solve the problems? What mistakes did
+you make at the first attempt and how can you prevent these mistakes on a Term Test?
+What advice would you give to another student who is struggling with this problem?
+
+• Discussing course content with your classmates is encouraged and a mathematically
+healthy practice. Work together, share ideas, explain concepts to each other, compare
+your solutions, and ask each other questions. Teaching someone else will help you
+develop a deeper level of understanding. However, it’s also important that reserve
+some time for self-study and self-assessment to help ensure you can solve problems on
+your own without relying on others.
+
+1. Convert these rectangular coordinates to polar coordinates.
+
+(a) (x, y) = (0, 1)
+
+(b) (x, y) = (2, −3)
+
+(c) (x, y) = (−4, 1)
+
+2. Convert these polar coordinates to rectangular coordinates.
+
+(a) (r, θ) = (1, 0)
+
+(b) (r, θ) = (2, π)
+
+(c) (r, θ) = (3, −π/3)
+
+(d) (r, θ) = (−2, 3π)
+
+3. Graph the following polar curves.
+
+1
+
+(a) r = sin2 (θ/2)
+
+(b) r = 2 − 2 sin(θ)
+
+4. Convert the following polar curves to Cartesian and simplify. Describe the curves in
+
+terms of the parameters involved.
+(a) r2 − 2r(a cos(θ) + b sin(θ)) = R2 − a2 − b2
+
+(b) r =
+
+b
+sin(θ)−m cos(θ)
+
+5. Compute the area enclosed by the following polar curves:
+
+(a) r(θ) = 1 + cos θ, for θ ∈ [0, 2π]
+
+(b) r(θ) = sin(3θ), for one petal
+
+(c) r(θ) = 2, for θ ∈ [0, π]
+
+6. Compute the arc length of the following polar curves (feel free to use a compute software
+
+to solve the final integral):
+
+(a) r(θ) = θ, for θ ∈ [0, 2π]
+
+(b) r(θ) = 1 + sin θ, for θ ∈ [0, π]
+
+7. Compute the arc length of the following parametric curves:
+
+(a) x(t) = t2, y(t) = t3, for t ∈ [0, 1]
+
+(b) x(t) = cos t, y(t) = sin t, for t ∈ [0, π]
+(c) x(t) = et, y(t) = e−t, for t ∈ [0, 1]
+
+8. This question is about tracing out curves in R2 using parametric equations.
+
+(a) Find parametric equations x(t) and y(t) whose graph {(x(t), y(t)) : t ∈ [0, 1]} ⊆ R2
+is a circle with radius 1 that is traced out counter-clockwise over a time interval
+of 1 second.
+
+(b) Find parametric equations x(t) and y(t) whose graph {(x(t), y(t)) : t ∈ [0, 1]} ⊆ R2
+is a circle with radius 1 that is traced out clockwise over a time interval of 1
+second.
+
+(c) Find parametric equations x(t) and y(t) whose graph {(x(t), y(t)) : t ∈ [0, 1]} ⊆ R2
+is a circle with radius 1 that is traced out clockwise over a time interval of 1 second
+but where the speed the circle is traced out starts at 0 and ends at 2.
+
+(d) Find parametric equations x(t) and y(t) whose graph {(x(t), y(t)) : t ∈ [0, 1]} ⊆ R2
+
+is a square with lower left corner at (0, 0) and upper right corner at (1, 1).
+Hint: you may use piecewise functions.
+
+(e) Find parametric equations x(t) and y(t) whose graph {(x(t), y(t)) : t ∈ [0, 1]} ⊆ R2
+
+is an ∞ symbol.
+
+9. Consider the parametric equations x(t) = t3 and y(t) = t2. Let G be the graph of
+
+(x(t), y(t)) for t ∈ R.
+
+(a) Sketch G.
+
+(b) Find a function f so that the graph of y = f (x) is the same as G.
+
+(c) Does the graph G have a tangent line at every point? Explain.
+
+2
+
+(d) Are x(t) and y(t) differentiable at every point?
+
+(e) If p(t) and q(t) are differentiable parametric functions, does the graph of (p(t), q(t))
+
+need to have a tangent line at every point?
+
+10. Consider the parametric equations x(t) = t and y(t) = 1
+
+1+t2 and the graph G =
+{(x(t), y(t)) : t ∈ R}. The vector (x′(t), y′(t)) is always a tangent vector to G at the
+point (x(t), y(t)), provided (x′(t), y′(t)) ̸= ⃗0. The speed at which the graph G is being
+traced out at the point (x(t), y(t)) is given by (cid:13)
+(a) Find the maximum and minimum speeds at which G is traced out. (You may use
+
+(cid:13)(x′(t), y′(t))(cid:13)
+(cid:13).
+
+a calculator/computer to solve any equations.)
+
+(b) Find new parametric equations whose graph is the same as G but which trace out
+G in a total of 2 units of time. Without computing, what is the maximum speed
+at which your new parametric equations trace out G?
+
+11. Consider the parametric equations x(t) = sin(7πt) and y(t) = cos(5πt) for t ∈ [0, π/8]
+
+and their graph G ⊆ R2.
+
+(a) Find the tangent line to G at the point (x(π/12), y(π/12)). Express your answer in
+
+y = mx + b form.
+
+(b) Use a computer/Desmos to estimate: what is the closest that G comes to the point
+
+(−1, −1)?
+
+12. Consider the polar equation r(θ) = 1
+
+2 + sin θ
+
+(a) Find parametric equations x(θ) and y(θ) so that the graph of (x, y) is the same as
+
+the graph of r(θ).
+
+(b) Set up an integral to find the area inside the graph of r(θ) for θ ∈ [−π/6, 7π/6].
+
+Then, find the area.
+
+(c) Set up an integral to find the area inside the graph of r(θ) for θ ∈ [7π/6, 11π/6].
+
+Then, find the area.
+
+(d) Use Desmos to graph r(θ) for θ ∈ [−π/6, 11π/6]. Set up an integral to compute the
+
+area in the larger of the two enclosed regions.
+
+(e) Why doesn’t
+
+(cid:90) 11π/6
+
+(cid:16)
+
+1
+2
+
+sin(θ) + 1
+2
+
+−π/6
+the two enclosed regions? Explain.
+
+(cid:17)2
+
+dθ result in the correct area for the larger of
+
+(f) A friend is trying to find the area of the circle enclosed by the polar equation
+
+r(θ) = sin θ. The compute
+
+(cid:90) 2π
+
+0
+
+1
+
+2 sin2 θ dθ =
+
+π
+2
+
+.
+
+However your friend knows that the area of the circle is actually π
+4 . Explain to
+your friend why they got the wrong answer and how to avoid such a mistake in the
+future.
+
+3
+
+

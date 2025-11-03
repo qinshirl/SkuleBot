@@ -1,0 +1,181 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APSI 1 iT Engineering Strategies and Practice 
+Course Instructor: Jason Bazylak 
+Communication Instructor: Maria Cioni 
+Final Examination 
+Apr 20 2017 
+2 pm to 4:30 pm (2.5 hours) 
+
+Student Name: 
+
+UTor Email: 
+
+Please print clearly 
+
+Final Examination Instructions 
+
+Ensure that you have all 12 pages of this Final exam and the separate 
+one-page Final Exam RFP. 
+You have 2.5 hours to complete this exam. 
+Write your name and UTor Email address on this booklet. 
+Read each question carefully. All questions should be answered directly 
+in this booklet in the box provided. 
+If you need scrap paper for draft work ask an invigilator. 
+Write in complete sentences and complete paragraphs were applicable. 
+Marks for each question are indicated in square brackets []. 
+Circle the number I ." on page 2 for a bonus mark. 
+This is a Type A Closed book examination; no aids permitted. You are 
+allowed a paper translation-only dictionary (no definitions). 
+Where needed draw upon your own engineering expertise. You will not 
+be required to have references as you normally would. 
+At the end of the exam hand in this book!et. You do not need to hand in 
+the RFP. 
+
+Page 1 of 12 
+
+1. Circle T (TRUE.) or F (False) for each statement below. If the answer is FALSE, then 
+rewrite the entire statement to make the statement TRUE. There may be multiple 
+ways to do this, just pick one, [1 Mark each; total 10 Marks] 
+
+'H 
+
+[T or F]: In the design process, you do research to investigate existing knowledge 
+and to develop new knowledge. 
+
+[T or F]: The purpose of the Project Requirements (PR) is to define the design. 
+
+[T or F]: Use idea generation techniques to counter your bias and design fixation. 
+
+[T or F]: Idea selection defines the client's need by specifying the boundaries of the 
+design problem. 
+
+[T or F]: Considering the most-to-least method to prevent negative environmental 
+impact, an engineering designer would: Reuse, Reduce, Recycle. 
+
+[T or F]: A Life Cycle Diagram is a way to visualize potential environmental impacts. 
+
+[T or F]: Elon Musk was talking about environmental design when he said, 'Any 
+product that needs a manual to work is broken." 
+
+[T or F]: Monthly rent is an example of an external cost. 
+
+[T or F]: Means is what the design must do. 
+
+[T or F]: A constraint goal is what the design tries to meet. 
+
+Page 2 of 12 
+
+In developing the next iteration of a document, you should apply "CPR'. State what 
+this is and how to apply it. [3 Marks] 
+
+The Fry Shack, a new restaurant, contracts you to recommend which French Fry fryer 
+to buy. They have narrowed it down to two options. Based on an economic analysis 
+which fryer to maintain a cock rate of 1 order of fries per minute? [4 Marks] 
+
+ .. 
+16 
+
+- 
+
+_i__. 
+
+L• 
+
+.• 
+
+;. 
+
+Figure 1: Mini-fry-omatic 
+
+Counter top electric fryer 
+Purchase price: $50 
+Electricity: $450/year/fryer 
+Lifespan: 1 year 
+4 minutes to make 1 order of fries 
+
+- 
+
+Fi gure 2-  De UberFrer 
+•  Large natural gas fryer 
+•  Purchase price: $2000 
+•  Natural gas: $10001year/fryer 
+•  Lifespan: 4 years 
+•  1 minute to make 1 order of fries 
+
+Page 3 of 12 
+
+gp 
+
+AN 
+
+* 
+
+Page 4 of 12 
+
+:• 
+
+Questions 4 to 19 pertain to the Request for Proposal (RFP) Drill Bit Sorter 
+
+Write a Functional Basis for the problem described in the RFP. Use the specific terms 
+discussed in lecture and no additional qualifiers. [2 Marks] 
+
+Write a Problem Statement for the RFP. [10 Marks] 
+
+7. Write three Objectives complete with metrics and goals. [6 Marks] 
+
+Page 6 of 12 
+
+9 Write two Constraints complete with limits [4 Marks] 
+
+10. Identify one relevant Stakeholder and their interest. Provide either one Function, 
+
+Objective, or Constraint (FOC) that could be derived from their interest. This can be 
+the same FOC determined elsewhere in the exam, but you must clearly indicate how it 
+is derived from the Stakeholder interest. [3 Marks] 
+
+Identify one specific aspect of the Service Environment (no reference needed, just 
+draw upon your own engineering expertise). Provide one FOC that could be derived 
+from this aspect. This can be the same FOC determined elsewhere in the exam, but 
+you must clearly indicate how it is derived from the Service Environment. [2 Marks] 
+
+Write one closed question you would ask the client in the first meeting to help you 
+determine FOC's.  11  Mark] 
+
+Page 8 of 12 
+
+ 
+13. Using an idea generation method other than Brainstorming/Enumeration generate and 
+
+•. 
+
+• •  describe three feasible design alternatives. Identify which technique or techniques 
+
+were used to generate the ideas. The more creative, innovative and distinctly different 
+the aooroaches the more Marks you will receive. 110 Marks] 
+
+14. Use a Weighted Decision Matrix and the three Objectives you generated to 
+
+recommend one of your design alternatives. [10 Marks] 
+
+Page 10 of 12 
+
+16  Highlight an existing feature of your recommended design or add a feature specifically 
+
+'H 
+
+explaining how it is linked to the 3 R's. [3 Marks] 
+
+If you were presenting the feature in Q. 15 or 16 to the client in an oral presentation, 
+what would be the header on the slide? [2 Marks] 
+
+If you were really doing this case study project, you would need to do research. Give 
+three examples of research questions/areas you need to investigate and the type of 
+source that would provide the credible information. [6 Marks] 
+
+Using the language of the course, what does Figure 3 in the RFP represent? As an 
+engineering designer what danger does it pose to your design process? [2 Marks] 
+
+Page 12 of 12 
+
+

@@ -1,0 +1,758 @@
+e
+
+DDAEAFC8-2271-48E8-A50E-6899DE18AC30
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 1 of 24
+
+□
+
+□
+
+t- O -L
+
+UNIVERSITY OF TORONTO 
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+
+APS 105 — Computer Fundamentals 
+Final Examination
+April 28, 2023 6:30 p.m. - 9:00 p.m. (150 minutes)
+
+Examiners: P. Anderson, S. Emara, B. Korst, K. Shakiba
+
+First name (please write as legibly as possible within the boxes)
+
+Last name
+
+UTorlD
+
+This is a "closed book" examination; no aids are permitted. No calculators or 
+other electronic devices are allowed.
+
+All questions are to be answered on the examination paper.
+
+You must use the C language to answer programming questions. You are not 
+required write #include directives in your solutions.
+
+The examination has 26 pages, including this one.
+
+5EA09EA2-8844-4860—AD1E-8D72A05FFE64
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 2 of 24
+
+Question 1 [2 Marks]
+
+Write a single C statement that generates a random character between ' A' 
+and ' Z' (inclusive), and assigns it to a char variable named randomcharacter 
+that you declare in the same statement.
+
+3D374410-33ED-42D5-8AD9-A304B17B7B3A
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 3 of 24
+
+□
+
+— J
+
+□
+
+□
+
+Question 2 [2 Marks]
+
+In a single statement, declare and initialize an array of 500 integers called 
+numbers where the first 4 numbers are 1, 2, 3, 4 and the remaining 496 
+numbers are all 0.
+
+8E40DB19-C7E4-4082-A6EC-653D232A88BA
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 4 of 24
+
+□
+
+□
+
+Question 3 [4 Marks]
+
+Given the following defined data structure, write a single C statement termi­
+nated by one that declares two variables named plantl and plant? of the 
+type of the following data structure. In the same statement, initialize plantl's 
+name and height with "Cactus" and 5.3 respectively, and plant2's name and 
+height with "Rose" and 10.2, respectively.
+
+typedef struct plant { 
+
+char nameE30];
+double height;
+
+} Plant;
+
+7C3620D8-3E04-4D89-AE18-6376539F5316
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 5 of 24
+
+Question 4 [6 Marks]
+
+You are on a team to write code to help a client who runs an ordine store. 
+Note: you wlU not be writing code to solve this question! Here is the situation 
+needing a programmed solution:
+
+A user enters a name (first and last). The program reads information from a 
+database on the disk and scans it for the name that was entered, and takes the 
+accompanying information for that name (ID, address, phone, email address) 
+and reads a sales information database for orders in the last year from that 
+ID. These are aU to be displayed for the user.
+
+The question for you to answer: In one phrase or sentence each describe 
+6 non-overlapping tasks that could be functions in your final code, or that 
+might be divided into other fimctions. (These could share function calls in 
+the final implementation.)
+
+Task# Description
+
+1
+
+2
+
+3
+
+j4
+
+6
+
+35068515-FE72-474A-932C-502916114BE5
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 6 of 24
+
+Question 5 [6 Marks]
+
+The following code has a serious mistake in getNames function.
+
+typedef struct student { 
+
+char* lastName;
+
+} Student;
+
+void getNames(char* lastName, Student students[]) {
+
+for (int i = 0; i < 4; i++) {
+
+printf("Enter last name: ");
+
+scanf("%s'’, lastName);
+
+studentsEi].lastName = lastName;
+
+}
+
+}
+
+int main() {
+
+Student studentsE4];
+char lastNameE1024];
+getNamesflastName, students);
+for (int i = 0; i < 4; i++) <
+
+printf('’studentsE%d].lastName = %s\n", i, studentsEi].lastName);
+
+}
+return 0;
+
+}
+
+It produces the following output. The input is shown in bold.
+
+Enter last name: Handa 
+Enter last name: Brown 
+Enter last name: Li 
+Enter last name: Jamil 
+students[O].lastName = Jamil 
+students[l].lastName = Jamil 
+students [2] .lastName = Jamil 
+students[3].lastName = Jamil
+
+A1BCDB7A-8638-418A—AAA7-BB971AEC6E84
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 7 of 24
+
+□
+
+d
+
+□
+5
+□
+
+Revise getNames function (by crossing out parts and writing the revision 
+above) such that the output is as the desired below. You can assume the 
+maximum string size is 1024.
+
+Enter last name: Handa
+Enter last name: Brown
+Enter last name: Li
+Enter last name: Jamil
+students[O].lastName = Handa
+students[l].lastName = Brown
+students[2].lastName = Li
+students[3].lastName = Jamil
+
+7A4B9B2F—EEC9-47D6-BC63-470C5BF4FEA6
+
+apsl05-final-exam-2023-c87fl
+
+#447 Page 8 of 24
+
+□
+
+T-J
+
+Question 6 [6 Marks]
+
+In the quicksort sorting algorithm, one of the key components is the function 
+partition that divides the list between "high" and "low" into two parts - 
+a part less that the pivot and a part greater than the pivot. It is part of an 
+algorithm to sort a list low to high. The code for this is below.
+
+Revise this code (by crossing out parts and writing the revision above) such 
+that the revised partition fvmction can be used in an algorithm to sort a list 
+from highest value to lowest, i.e. in descending order not ascending order.
+
+Note: You may have been introduced to the partition fvmction as quickSortHelper 
+in your lectures.
+
+int partition(int listE], int low, int high) <
+
+int pivot = low, left = low + 1, right = high;
+
+while (true) {
+
+while (left <= right && listEleft] <= listEpivot])
+
+left++;
+
+while (left <= right && listEright] > listEpivot])
+
+right—;
+
+printfC'left = %d, right = %d\n'’, left, right);
+
+if (left < right)
+
+swap(list, left, right);
+
+else {
+
+swap(list, pivot, right);
+
+return right;
+
+}
+
+}
+
+}
+
+16C0605E-169A-4FBF-9E1F-17B3036A4480
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 9 of 24
+
+□
+
+□
+
+Question 7 [8 Marks]
+
+The following code intends to find a node data equal to key and return a 
+pointer to the node preceding (before) it. Complete the condition of the while 
+loop in the box shown below such that current is pointing to the preceding 
+node, and no segmentation fault is caused. You will notice from the code that 
+LinkedList and Node data structures were the same ones used in class.
+
+Node* prevSearch(LinkedList* list, int key) {
+
+Node* current = list->head;
+if (list->head == NULL || list->head->data == key) { 
+
+return NULL;
+
+}
+
+// write condition of while loop here
+
+while(
+
+current = current->next;
+
+}
+if (current->next == NULL) { 
+
+return NULL;
+
+}
+return current;
+
+}
+
+){
+
+5DBE24A1-D43B-4185-B55B-FA69766FDC52
+
+apsl05-final-exam-2023-c8 7f 1
+
+#447 Page 10 of 24
+
+Question 8 [8 Marks]
+
+A program that simulates a circuit with impedances in series makes use of 
+a linear linked list. Each impedance in the circuit is a node in the linked 
+list represented by the data structure shown below. The simulation program 
+aims at calculating the current flowing through the circuit.
+
+struct Node{
+
+double resistance;
+double reactance;
+double voltage;
+struct Node *next;
+
+};
+
+Write a function to calculate the total magnitude of the impedance in the cir­
+cuit. Since all of them are in series, the magnitudes of each of them are added. 
+In this function you will write, you are to use the hmction calculateMagnitude 
+to calculate the magnitude of one impedance, shown below
+
+double calculateMagnitude (double resistance, double reactance){ 
+
+return sqrt(pow(resistance, 2) + pow(reactance, 2));
+
+}
+
+The prototype of your function is shown below, where pt r is a pointer to the 
+first impedance/node or head of the Linked list and n is the number of nodes.
+
+double equivalentMagnitude (struct Node *ptr, int n)<
+
+570B6A9D-D80C-4129-802C-AEB2F25A7626
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 11 of 24
+
+□
+
+□
+
+□
+
+d
+
+Question 9 [10 Marks]
+
+Write a C function called diagonalSum that returns the sum of both the diag­
+onal elements of a square nxn array named square. Diagonal elements are 
+circled in the following figure. Note if n is odd, the central element should be 
+counted twice in your solution.
+
+diagonals
+
+1
+
+2 a 4
+a
+a 1
+
+1
+
+2
+
+4 1
+
+int diagonalsSum(int n, int squareE][n]) <
+
+A7F301DF-B466-4536-94F7-0D9AAF89C430
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 12 of 24
+
+□
+
+n-■
+
+□
+
+□
+
+Question 10 [12 Marks]
+
+You are to complete the function below that will sort an array of integers 
+inArrayE] that are within the range 0 and 599. It will do this by:
+
+1. creating a second integer array countArrayEl of size 600, initially set to 
+
+zero.
+
+2. for each value in the input array, incrementing the element of the countAr ray 
+
+array with the index equal to that value.
+
+For example, if it encoimters a 15 in the first array it will add one to 
+element countArrayEl 5]. At the end, each element of countArray E] will 
+indicate the number of each value. For example, countArrayEl 5] will 
+indicate how many 15s are in inArrayE].
+
+3. go through countArrayE] in order to populate a third array, outArrayE], 
+
+tiiat has the elements of inArrayE] in order.
+
+The hmction will return the number of elements in outArrayE].
+
+You can assume that outArray E] is large enough to contain all the elements of 
+inArrayE] (this value is passed in sizeOf InArray. Your solution must use the 
+methodology described. There is an additional page to use for your answer.
+
+int sortArray(int inArrayE],int outArrayE], int sizeOfInArray){
+
+int countArrayE600];
+
+5FBB16FE-2D65-4124-8BA2-530050BC50ED
+
+apsl05-final-exam-2023-c87f1
+
+#447 Page 13 of 24
+
+□ P
+
+□
+
+Please continue to write your solutions to the previous question on 
+needed.
+
+this page if
+
+A7D8F580-96B3-45B9-958B-A4BBDF483CE7
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 14 of 24
+
+□ 
+
+d
+
+□
+
+□
+
+Question 11 [10 Marks]
+
+Write C code for a recursive function named printReverse that reads a se­
+quence of positive integers and outputs the sequence in reverse order. The 
+input sequence ends when the user enters the number 0.
+
+Assume the user always gives a valid input. Your printReverse function 
+must be recursive, otherwise the solution will not receive any marks.
+
+You may not declare any arrays in your solution.
+
+Below is a sample output from an execution of the program:
+
+Enter num: 10 <enter>
+Enter num: 5 <enter>
+Enter num: 2 <enter>
+Enter num: 1 <enter>
+Enter num: 0 <enter>
+
+Reversed sequence: 01 2 5 10
+
+Note: no newline character is printed after the last number in the reversed 
+sequence.
+
+Write your printReverse function below.
+
+void printReverse(){
+
+EEE6C790-034B-4132-B23E-447C88CADA35 □
+
+apsl05-final-exam-2023-c87f1 
+
+□
+
+#447 Page 15 of 24
+
+□
+
+Please continue to write your solutions to the previous question on this page if 
+needed.
+
+C0D51F76-45C3-44A6-9A9B-AE0C8D0E213A
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 16 of 24
+
+□
+
+□
+
+□
+
+05
+
+Question 12 [10 Marks]
+
+Write a C function named removeSpecialChars that takes a string and re­
+moves any characters that are not lower case alphabets: not between ' a' and 
+' z' (inclusive). Assume <string. h> is included. For example, if we run the 
+code below, the output should be appleisaf ruit.
+
+int main(void) {
+
+char strE30] = ’'a&pp*(leisa(fr*$uit";
+printf("str with special characters: %s\n", removeSpecialChars(str));
+return 0;
+
+}
+
+char* removeSpecialChars(char* str) {
+
+C2988613-D6AC-43AE-9212-7B4A56B92EAA □
+
+apsl05-final-exam-2023-c87f1 
+
+□
+
+#447 Page 17 of 24
+
+□
+
+Please continue to write your solutions to the previous question 
+needed.
+
+on this page if
+
+1EFA7F7B—F629-4B8E—BOOC-B65FEA088AF2
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 18 of 24
+
+□
+^0
+
+A
+
+Question 13 [12 Marks]
+
+Write a recursive function called numOccurrences which takes two strings 
+as parameters. The function should return the number of occurrences of the 
+second string within the first string. You may use any of the fimctions defined 
+within the string, h library as discussed in class. Your function must adhere 
+to the provided prototype, and it must be recursive or else you will lose all 
+the marks for this question.
+
+int numOccurrencesfconst char *str, const char *search)<
+
+AD36F8F2—4D51-41FD-8E0A-4041F4AE9A5E
+
+apsl05-final-exam-2023-c87f1
+
+#447 Page 19 of 24
+
+□
+
+□
+
+□
+
+.'Me
+
+Please continue to write your solutions to the previous question on 
+needed.
+
+this page if
+
+A016D291-3078-4CC9-AED0-7488A667D8EB
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 20 of 24
+
+□
+
+□
+
+Question 14 [15 Marks]
+
+The Node structure in a linked list has been defined as follows:
+
+typedef struct node { 
+
+int data;
+struct node *next;
+
+} Node;
+
+The LinkedList structure has also been defined to contain the head of a Unked 
+list:
+
+typedef struct linkedList { 
+
+Node *head;
+} LinkedList;
+
+A linked list list has nodes ordered in ascending order according to data; 
+however, some consecutive nodes are missing. These consecutive nodes are 
+in another ascending ordered linked list named sequence. For example, list 
+= 1 -> 2 -> 5 and sequence = 3 -> 4. You can safely assume that no two nodes 
+have the same data.
+
+Write a C function called insertsequence, the prototype of which is given 
+below, that inserts a linked list named sequence into in another linked list 
+namedlist. sequence and list have the data in their nodes sorted in ascend­
+ing order, sequence should be inserted in a way to maintain the ascending 
+order of list.
+
+Example 1
+
+list =1 -> 2 -> 12 -> 18 
+sequence = 7 -> 8 -> 9
+
+list after calling insertsequence will be 1 -> 2 -> 7 -> 8 -> 9 -> 12 -> 18, 
+as 7 -> 8 -> 9 was inserted between 2 and 12.
+
+Example 2
+
+list = 1 -> 2 -> 5 -> 7 -> 9 
+sequence = -1 -> 0
+
+list after calling insertsequence will be-1 -> 0 -> 1 -> 2 -> 5 -> 7 -> 9, 
+as -1 -> 0 was inserted in the front.
+
+void insertSequencefLinkedList *list, LinkedList* sequence) {
+
+C587699E-DBF3-453A-BF5B-16D0343FDFCB
+
+apsl05-final-exam-2023-c87fl
+
+#447 Page 21 of 24
+
+Please continue to write your solutions to the previous question on 
+needed.
+
+this page if
+
+EA13CB76—060B-4F47-AA84-B8D487E2F0A2
+
+apsl05-final-exam-2023-c87f1 
+
+#447 Page 22 of 24
+
+□^5&
+
+Question 15 [15 Marks]
+
+The height of a binary tree is defined as the maximum number of edges from 
+a leaf node to the root node of the tree. This is Ulustrated in the following 
+example:
+
+7
+/ \
+
+8
+
+4 
+/ \
+
+1 
+
+5
+
+height = 3
+
+The height of the tree is 3 as there are 3 generations of nodes. A tree with just 
+1 node has a height of 1. As each node in a tree is a tree itself, we can calculate 
+the height of each subtree separately. In the provided example, the height of 
+the subtree starting at the (4) node is 2 as there are at most 2 generations of 
+nodes between it and the leafs of the tree.
+
+Write a recursive fimction that, given a tree, calculates the height of the 
+largest subtree whose first node contains an even number. In the provided 
+example, this height would be 2 as the largest subtree that begins with a node 
+containing an even number is the (4) subtree and it has a height of 2. A tree 
+with only odd numbers has a height of 0.
+
+You have been provided a prototype for a heightFromEven function. You may 
+define new hmctions if you wish; however, ultimately, this function must be 
+implemented and return the height of the input tree (i.e. you must call any 
+hmctions you wish to create from this function). The definitions of the binary 
+tree and node structs have been provided as well the function's prototype.
+You may not use any global variables.
+
+typedef struct node {
+
+int data;
+struct node *left, *right;
+
+} Node;
+
+typedef struct binarytree < 
+
+Node *root;
+
+} BinaryTree;
+
+int height(BinaryTree *tree);
+
+692B931E-1772-4411-9E9F-621AB53686C5
+
+apslO5-final-exam-2023-c87f1 
+
+#447 Page 23 of 24
+
+□
+
+I
+
+□
+
+□
+
+Please continue to write your solutions to the previous question on 
+needed.
+
+this page if
+
+D8164B3C—5A2E-433A—AF39—E53FBD77E41C □
+
+apsl05-final-exam-2023-c87f1 
+
+□
+
+we
+□
+
+#447 Page 24 of 24
+
+This page has been left blank intentionally. You may use it for answers to any ques­
+tion in this examination.
+
+

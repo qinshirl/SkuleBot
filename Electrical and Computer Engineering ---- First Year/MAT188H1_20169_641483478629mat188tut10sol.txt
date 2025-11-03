@@ -1,0 +1,690 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 10
+
+1. Three of the four vectors x1 =
+
+
+
+1
+1
+, x2 =
+
+1
+
+
+
+2
+3
+, x3 =
+
+3
+
+
+
+2
+1
+, x4 =
+
+2
+
+
+
+1
+3
+ are eigenvectors of
+
+4
+
+A =
+
+(a) What are the eigenvalues of A?
+
+
+
+
+
+2
+1 −4
+3 −4
+0
+3 −1 −3
+
+
+
+ .
+
+(b) Find A188b, where b =
+
+Solution: Notice that Ax1 = −x1, Ax2 = −2x2, and Ax4 = −3x4, so that x1, x2, x4 are the
+eigenvectors of A with corresponding eigenvalues λ1 = −1, λ2 = −2, and λ3 = −3 respectively.
+
+
+6
+6
+ as a linear combination of the eigenvectors of A.
+
+5
+Solution: Notice that b = 3x1 + 2x2 − x4. Therefore, A188b = A188(3x1 + 2x2 − x4) = 3A188x1 +
+2A188x2 − A188x4. Now, from part (a), we know that x1, x2, x4 are eigenvectors of A. Notice that if
+Av = λv, then Akv = Ak−1(Av) = λAk−1v = . . . = λkv. Thus, A188b = 3λ188
+3 x4 =
+3x1 + 2189x2 − 3188x4.
+
+
+
+6
+6
+. Hint: Write b =
+
+5
+
+1 x1+2λ188
+
+2 x2−λ188
+
+2. Let A =
+
+
+
+
+
+1
+−1 2
+0
+
+1 −2
+1
+1 −1
+
+
+
+.
+
+(a) Find all eigenvalues of A and a basis for each eigenspace.
+
+(b) Find an invertible matrix P and a diagonal matrix D such that P −1AP = D and use this to ﬁnd A−1.
+
+Solution:
+
+(a) Computing the characteristic polynomial of A, we get (check this!)
+
+det(λI − A) = det
+
+
+
+1
+0
+
+−1
+
+λ + 1
+
+
+
+λ − 1 −1
+
+2
+λ − 2 −1
+
+
+
+ = (λ − 2)(λ − 1)(λ + 1)
+
+Therefore the eigenvalues of A are λ = −1, 1, 2.
+For λ = −1, the eigenspace E−1 is the null space
+
+E−1 = Null(−I − A) = Null
+
+1 of 3
+
+
+
+
+
+−2 −1
+2
+1 −3 −1
+0
+0 −1
+
+
+
+
+
+The RREF for this matrix is
+
+
+1
+0
+
+0
+
+0 −1
+0
+1
+0
+0
+
+
+
+, so the above null space has basis (from the parametric
+
+form of the solutions to this system) given by
+
+E−1 = Null
+
+
+1
+0
+
+0
+
+Similary, for the other eigenvalues we get
+
+
+
+0 −1
+0
+1
+0
+0
+
+ = span
+
+
+
+
+
+
+
+
+1
+0
+
+
+1
+
+
+
+
+
+
+E1 = span
+
+
+
+
+
+
+
+
+
+
+
+3
+2
+
+1
+
+
+
+
+
+
+, E2 = span
+
+
+
+
+
+
+
+
+1
+3
+
+
+1
+
+
+
+
+
+
+Thus we have found all eigenvalues and a basis for each eigenspace.
+
+(b) To ﬁnd D and P such that P −1AP = D, we take the diagonal matrix D consisting of the
+
+eigenvalues of A, and the matrix P of corresponding eigenvectors:
+
+D =
+
+
+
+
+
+−1
+0
+0
+
+
+
+0 0
+0
+1
+ , P =
+2
+0
+
+
+1
+0
+
+1
+
+3
+2
+1
+
+
+1
+ , and ﬁnd that P −1 =
+3
+1
+
+
+
+
+
+− 1
+1
+2
+− 1
+3
+
+6 − 1
+
+
+
+
+
+7
+3
+6
+0 − 1
+2
+1
+1
+3
+3
+
+Then D = P −1AP or equivalently A = P DP −1. Inverting both sides, we get that
+
+A−1 = (P DP −1)−1 = (P −1)−1D−1P −1 = P D−1P −1
+
+Substituting the above matrices, we ﬁnd that
+
+A−1 =
+
+
+
+
+
+1 3
+0 2
+1 1
+
+
+
+
+
+
+
+
+
+1
+3
+1
+
+1
+−1
+0
+0
+
+0
+1
+1
+0
+
+
+
+
+
+0
+0
+1
+2
+
+
+
+
+
+− 1
+1
+2
+− 1
+3
+
+6 − 1
+
+7
+3
+6
+0 − 1
+2
+1
+1
+3
+3
+
+
+
+ =
+
+
+
+
+
+3/2
+1/2
+1/2
+
+1/2 −5/2
+1/2 −1/2
+1/2 −3/2
+
+
+
+
+
+3. Find a 2×2 matrix A that has eigenvalues λ1 = 2 and λ2 = 3 with corresponding eigenvectors x1 =
+
+(cid:21)
+
+(cid:20)1
+2
+
+and x2 =
+
+(cid:21)
+.
+
+(cid:20)1
+3
+
+Solution: Let P =
+
+A = P DP −1 =
+
+(cid:20) 0
+−6
+
+(cid:20)1 1
+(cid:21)
+, so that P −1 =
+2 3
+(cid:21)
+1
+5
+
+.
+
+(cid:20) 3 −1
+(cid:21)
+1
+−2
+
+. Also, let D =
+
+(cid:20)2
+0
+
+(cid:21)
+0
+.
+3
+
+It follows that
+
+4. Find conditions on a, b, c, and d such that the matrix
+
+is diagonalizable.
+
+A =
+
+
+2
+0
+
+
+0
+
+0
+
+a
+1
+3 −1
+2
+0
+0
+0
+
+2 of 3
+
+
+
+
+
+
+
+b
+c
+d
+3
+
+Solution: First let’s compute the characteristic polynomial:
+
+det(A − λI) = det
+
+
+
+λ − 2 −1
+
+
+
+
+
+0
+0
+0
+
+λ − 3
+0
+0
+
+−a
+1
+
+−b
+−c
+λ − 2 −d
+
+0
+
+λ − 3
+
+
+
+
+
+
+
+= (λ − 2)2(λ − 3)2
+
+Note that this is easy because the matrix is upper-triangular, so its determinant is the product of the
+diagonal entries!
+
+We see that A has eigenvalues λ = 2, 3 and that both have multiplicity 2. Therefore A is diagonalizable
+if and only if
+
+dim E2 = 2
+
+and
+
+dim E3 = 2
+
+We will seek the conditions on a, b, c, d that determine when these equalities hold.
+
+For λ = 2, we have
+
+E2 = Null(2I − A) = Null
+
+
+
+0 −1 −a −b
+1 −c
+0 −1
+
+
+0 −d
+0
+0
+
+0 −1
+0
+0
+
+
+
+
+
+
+
+This matrix can be reduced (check this!) to the form B =
+
+
+0
+0
+
+
+0
+
+0
+
+1 −1
+0 a + 1
+0
+0
+
+0
+0
+
+
+0
+0
+
+
+1
+
+0
+
+. Observe that rank(B) =
+
+3 when a + 1 (cid:54)= 0, and that rank(B) = 2 when a + 1 = 0. By the Rank-Nullity Theorem,
+
+dim Null(B) + rank(B) = R4 = 4
+
+Therefore, the dim E2 = dim Null(B) = 1 when a + 1 (cid:54)= 0, and dim E2 = 2 when a + 1 = 0. We want
+the second case!
+
+For λ = 3, we have
+
+E3 = Null(3I − A) = Null
+
+
+
+1 −1 −a −b
+1 −c
+0
+
+
+1 −d
+0
+
+0
+0
+0
+
+0
+0
+0
+
+
+
+
+
+
+
+This matrix can be reduced to the form C =
+
+0
+0
+0
+when d − c (cid:54)= 0, and that rank(C) = 2 when d − c = 0. Applying the Rank-Nullity Theorem to C we
+get that dim E3 = dim Null(C) = 1 when d − c (cid:54)= 0, and dim E3 = 2 when d − c = 0. Again we want
+the second case!
+
+. This time we see that rank(C) = 3
+
+1
+0
+0
+
+
+
+
+
+
+
+
+
+1 −1 −a −b
+−c
+0
+
+
+d − c
+0
+
+0
+0
+
+In conclusion, A is diagonalizable
+
+⇐⇒ dim E2 = 2
+⇐⇒ a + 1 = 0
+
+and
+
+dim E3 = 2
+
+and d − c = 0
+
+In other words, A is diagonalizable if and only if a = −1 and c = d.
+
+3 of 3
+
+

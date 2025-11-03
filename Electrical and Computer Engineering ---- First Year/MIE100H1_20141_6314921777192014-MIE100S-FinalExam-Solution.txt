@@ -1,0 +1,394 @@
+ MIE100S Dynamics: Winter 2014 
+Final Exam – April 25, 2014 
+9:30 a.m. – noon 
+
+General Instructions: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Answer all questions in the exam booklets provided. 
+Print your full ROSI name and student # on each booklet. 
+All rough work must be neatly shown to earn credit for each question. 
+You must use a pen or dark pencil. 
+Answer all five questions. Each question is worth 20%. 
+Total marks on this exam = 100. 
+Use the given coordinate system and sign conventions in each question. 
+
+Number of Pages: 
+
+ 
+
+6 (including cover page) 
+
+This is a Type D examination. Permitted Aids:  
+
+  Non-communicating/non-programmable calculator:   Casio FX-991MS   or   
+
+Sharp EL-520X 
+
+  One 8 ½” x 11” aid sheet, any colour. You may write on both sides of the sheet. 
+
+Moment of Inertia: 
+
+Ring:                      𝐼𝐺 = 𝑚𝑅2 
+
+Uniform Disk:        𝐼𝐺 =
+
+Long slender rod:   𝐼𝐺 =
+
+𝑚𝑅2 
+
+1
+
+2
+
+1
+
+12
+
+𝑚𝐿2 
+
+Page 1 of six pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  A person standing firmly at point P pulls on a rope that is attached to ball A of mass  
+
+mA = 20 kg. The ball travels along a curvilinear path parallel to the ground, with initial 
+radius 𝑟0 = 10 m, initial o = 0, and initial angular rate of rotation 𝜃0̇  = 0.15 rad/s. Motion 
+is in the horizontal plane, and friction is negligible. Assume that both A and B have 
+extremely small size. 
+
+The rope from P to A is pulled inward at a constant speed 𝑟̇ = −2.0 m/s. At r = 6.0 m, ball 
+A collides with ball B (mB = 25 kg), which is initially at rest.  
+
+(a)  Find the initial angular momentum of ball A about point P, at r = 10 m. 
+
+(b)  Determine the angular acceleration 𝑎𝜃 and the angular velocity 𝜃̇ of ball A at r = 8.0 m.  
+
+(c)  Determine the magnitude of the tension in the rope PA when r = 7.0 m, if the angular 
+
+velocity is 𝜃̇ = 0.31 rad/s at that time.  
+
+(d) 
+
+If A stops completely after hitting B at r = 6.0 m, what is the speed of B (𝑣𝐵
+collision? 
+
+′ ) after the 
+
++ 
+
+(Note: All of the motion takes place in a horizontal plane as shown in the diagram.) 
+
+Page 2 of six pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.   Point C has a velocity of -1.2 𝑖 ̇̂ m/s, and an acceleration of -1.4 𝑖 ̇̂ m/s2 at the instant shown 
+
+in the diagram. Bar BC is pinned to bar AB at point B, and bar AB is pinned to the ground at 
+point A, as shown in the diagram. One end of bar BC is sliding on a brick wall as shown in 
+the diagram. Use the given coordinate system and sign conventions. 
+
+(a)  Find AB and BC at the instant shown in the diagram. 
+(b)   Find AB and BC at the instant shown in the diagram. 
+
+y 
+
++ 
+
+x 
+
+B 
+
+ 
+
+0.6 m 
+
+420 
+  A 
+
+3 m 
+
+  𝑣⃗𝑐 = −1.2 𝑖 ̇̂ 𝑚/𝑠 
+  𝑎⃗𝑐 = −1.4 𝑖 ̇̂ 𝑚/𝑠 
+
+ 
+
+C 
+
+Page 3 of six pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.   A long slender uniform rod AB has a mass 2.0 kg and length 1.5 m.  The rod is released 
+
+from rest on a frictionless surface in the position shown. Use the given coordinate system 
+and sign conventions. 
+
+(a)  Draw a free body diagram of the rod just after its release. 
+(b)  Find the relationship between the acceleration of the center of mass 𝑎𝐺⃗⃗⃗⃗⃗ of the rod and the 
+
+angular acceleration α of the rod.   
+
+(c)  Find the force exerted by the floor on the rod just after its release. 
+(d)  Find the acceleration of point A immediately after the release of the bar. 
+
+B 
+
+g = 9.81 m/s2 
+
+y  + 
+
+x 
+
+60o 
+
+A 
+A 
+
+Page 4 of six pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.  A sphere with mass m = 0.1 kg, radius R = 0.2 metres, and radius of gyration kG = 0.1264 
+
+metres sits at rest on the ground. The coefficients of friction between the sphere and the 
+ground are µS = 0.4 and µK = 0.2. Neglect air friction.  
+
+The sphere is struck with a constant impact force of 3 N at a distance 0.25 metres above the 
+ground as shown in the figure. The impact lasts 0.05 seconds. The sphere then rolls 
+horizontally on the ground for 0.5 m, and then up a ramp, as shown.  
+
+Use the given coordinate system and sign conventions. 
+
+a)  Prove that the wheel will roll without slip during the impact by the 3 N force. 
+b)  Find the velocity of the sphere’s centre of mass immediately after impact. 
+c)  How much work is done by friction on the sphere when it rolls horizontally on the ground 
+
+for 0.5 m? 
+
+d)  What is h, the maximum height that the sphere’s centre of mass reaches, measured from the 
+
+ground as shown? 
+
+g = 9.81 m/s2 
+
+3 N 
+
+0.25 m 
+
+G 
+
+y 
+
+x 
+
+G 
+
+h 
+
+0.5 m 
+
+Start of ramp 
+
+(Figure not to scale) 
+
+Page 5 of six pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.    The block B has a mass of 4 kg, and is suspended between the floor and ceiling as shown in 
+
+the diagram. The position of the block is y = 0 when the block is at rest.  
+k1 = 10 N/m; k2 = 20 N/m; k3 = 30 N/m. Ignore any rotation of the block. 
+
+(a)   If C = 14 N.s/m, find the damped frequency of vibration d of block B. 
+(b)   Let C = 14 N.s/m, and the amplitude of oscillation be equal to 0.75 m at time t = 0.  Find the 
+
+amplitude of oscillation at t = 2.5 seconds.    
+
+(c)   A force 𝐹⃗ = 12 𝑗̂ sin(5𝑡) Newtons is applied to block B, where t is time measured in 
+
+seconds. Find the amplitude of oscillation of block B, if C = 0 N.s/m. 
+
+(d)   For part (c), find the frequency of oscillation in cycles per second. 
+
+ceiling 
+
+C 
+
+k1 
+
+k2 
+
+B 
+
+y 
+
+g = 9.81 m/s2 
+
+k3 
+
+floor 
+
+Page 6 of six pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6r-  Ue-LoCt 
+
+1.° (cid:9)
+
+ - 
+
+u-- 
+
+LriK (cid:9)
+
+krc. (cid:9)
+
+UTS/c._  
+
+a. I- 
+
+L 
+
+Ck. 
+
+t 
+
+(Vc  
+
+6 
+
+/00/Atoti-e 
+
+kr 
+
+SAG 
+
+C,,Ya I,-)4\E  
+
+1%<.- 
+
+("Diac  r 0 . 4- (t 1249<t, 
+
+A >
+
+,i21,,  ACCe.W". 
+
+eLt  
+
+a e (cid:9)
+
+t-  a-iaL (cid:9)
+
+r  
+
+a s 04- ras 
+
+- 
+
+2_ 
+r 
+As
+ Af3 
+
+czo 
+
+Qiy1
+
+(cid:9)
+(cid:9)
+ 
+ac  - 
+
+_ - (cid:9)
+
+— (,) 
+
+0 
+gc,  AGc, 
+
+4  
+
+SU 01, (cid:9)
+
+ocr (cid:9)
+
+C D r"-ern-a 
+
+33  gsT' (cid:9)
+
+) 
+
+• 
+
+

@@ -1,0 +1,229 @@
+MAT186H1F CALCULUS I: Course Information as of
+August 26, 2014
+MAT186H1F is an introduction to calculus and its applications. A lot of Chapters 1, 2, 3 & 4 will
+be review of high school material, but not all of it; you must pay attention and assimilate the new
+material as well. We assume that everything in Chapters 5 and 6 is new to you.
+Section Instructors: by now you should be scheduled into one of the following Sections:
+
+Lec0102 Li, N.
+Lec0101 Cohen, S.
+Lec0105 Timorabadi, H. Lec0106 Reiss, D. Lec0107 Shorser, L.
+
+Lec0103 Burbulla, D. Lec0104 Zaman, A.
+Lec0108 Watson, N.
+
+Textbook: the textbook for this course is Briggs, Cochrane & Gillet’s Calculus for Scientists and En-
+gineers, Early Transcendentals. Any version of this book will do. The standalone physical book
+has ISBN 978-0321-785374 and should be available–new or used–at any of the three textbook
+stores around campus. For a price very similar to a new textbook you can obtain a package,
+ISBN 978-0321-837721, which includes the textbook and an Access Card which will allow you
+to access MyMathLab and an online interactive version of the textbook, with solutions manu-
+als and an additional chapter on Second Order Diﬀerential Equations. The third and cheapest
+option is to buy just the online version, ISBN 978-0321-785800, at http://www.mymathlab.com
+(Access Code kits will be available separately for students
+The course ID is: burbulla77566 .
+who already have a physical copy of the book and would like access to the online version.)
+
+Homework: some exercises have been picked as suggested homework; see the back of this page.
+
+These are the ones that your TA should be prepared to help you with.
+
+Tutorials: you should attend your tutorial on a regular basis; it is one place you can get help with
+your homework. However, it is totally impractical to assume that all the homework questions
+can be covered in tutorial; you should try and solve as many homework problems as you can, on
+your own, and then ask your TA about the questions you couldn’t get. Tutorials start Monday,
+Sep 8th and end Monday, Dec 1st. There are no tutorials on Monday, Oct 13th. Each tutorial
+group will meet twelve times.
+
+Marking Scheme: WeBWorK Assignments: 5%; Test 1: 20%; Test 2: 25%; Exam: 50%
+
+WeBWorK: information regarding this on-line homework website will be posted on the course web-
+
+site in the second week of classes. WeBWorK homework will not begin before September 22.
+
+Test 1: a 100-minute term test is scheduled for Tuesday, Oct 7, 12:15-1:55 PM, locations TBA.
+
+Test 2: a 100-minute term test is scheduled for Tuesday, Nov 11, 12:15-1:55 PM, locations TBA.
+
+Final Exam: there will be a common ﬁnal exam, 150 min long, during the exam period, Dec 8-19.
+
+Math Aid Oﬃce: GB 149. Hours: MW 12-1, 3-4; TR 12-3
+
+Calculators: use of a Casio FX-991MS or Sharp EL-520X calculator will be permitted during all
+quizzes, tests and exams. However, it is still your responsibility to explain your work. A correct
+answer with no justiﬁcation will receive no marks.
+
+Course Coordinator: D. Burbulla. Oﬃce: GB 149; email: burbulla@math.toronto.edu;
+
+oﬃce hours: MW 12-1, 3-4; TR 12-3
+
+Course Websites: in addition to the course websites which can be accessed through the U of T
+portal there is the coordinator’s home page: http://www.math.toronto.edu/burbulla/
+
+Course Outline, Lecture Schedule and Tutorial Schedule: below are approximate schedules
+of lecture and tutorial topics. As some lectures will be missed on Monday, Oct 13th, the schedule
+presumes only 38 lectures. Sections marked with an asterisk (*) are theoretical, and should be covered
+in class but may not be tested. What each test covers will be announced during the term.
+
+Derivatives
+(7 lectures)
+
+Limits
+(5 lectures)
+
+Chapter
+Functions
+(3 lectures)
+
+Section
+Sec 1.3
+Sec 1.4
+Sec 2.1
+Sec 2.2
+Sec 2.3
+Sec 2.4
+Sec 2.5
+Sec 2.6
+Sec 3.1
+Sec 3.2
+Sec 3.3
+Sec 3.4
+Sec 3.5
+Sec 3.6
+Sec 3.7
+Sec 3.8
+Sec 3.9
+Sec 3.10
+Sec 4.1
+Sec 4.2
+Sec 4.3
+Sec 4.4
+Sec 4.5
+Sec 4.6*
+Sec 4.7
+Sec 4.8
+Sec 4.9
+Sec 5.1
+Sec 5.2*
+Sec 5.3
+Sec 5.4
+Sec 5.5
+Sec 6.1
+Sec 6.2
+Applications
+of Integration Sec 6.3
+Sec 6.4
+Sec 6.5
+Sec 6.6
+Sec 6.7
+Sec 6.8*
+Sec 6.9
+Sec 6.10
+
+Applications
+of the
+Derivative
+(9 lectures)
+
+Integration
+(5 lectures)
+
+(9 lectures)
+
+Suggested Homework Exercises
+11, 17, 25, 28, 29, 37, 51, 57, 65, 73
+13, 36, 39, 59, 61, 79, 85, 95, 101, 103
+1, 3, 4, 10, 16, 25, 28, 29, 31, 32
+2, 3, 5, 7, 11, 17, 21, 22, 28, 45
+3, 5, 37, 41, 47, 51, 57, 67, 73, 79
+3, 4, 11, 15, 21, 24, 31, 39, 44, 53
+11, 23, 29, 32, 37, 41, 43, 55, 59, 69
+1, 9, 17, 25, 31, 35, 55, 67, 80, 95
+5, 15, 21, 31, 39, 49, 54, 55, 65, 69
+2, 27, 31, 37, 41, 47, 61, 63, 69, 71
+18, 25, 27, 39, 43, 53, 55, 60, 61, 81
+8, 10, 15, 22, 23, 34, 49, 59, 67, 77
+3, 9, 15, 17, 25, 30, 31, 39, 45, 49
+6, 15, 29, 33, 35, 37, 47, 60, 79, 85
+1, 9, 10, 21, 27, 35, 41, 53, 57, 72
+10, 15, 27, 41, 49, 53, 63, 67, 81, 93
+1, 5, 9, 13, 25, 31, 35, 42, 45, 47
+5, 9, 13, 19, 23, 25, 29, 41, 51, 53
+1, 5, 17, 21, 29, 39, 47, 71, 75, 81
+23, 28, 34, 45, 47, 49, 57, 65, 81, 88
+11, 19, 25, 27, 29, 30, 47, 69, 71, 77
+7, 14, 21, 22, 27, 33, 37, 47, 53, 65
+16, 17, 25, 27, 30, 32, 36, 43, 51, 54
+3, 7, 11, 17, 22, 27, 31, 33, 37, 39
+15, 19, 27, 43, 51, 57, 59, 65, 85, 96
+6, 11, 13, 16, 17, 20, 29, 31, 35, 37
+25, 27, 35, 41, 51, 66, 71, 93, 97, 99
+9, 13, 17, 21, 32, 33, 37, 65, 67, 71
+1, 3, 16, 23, 29, 43, 67, 71, 73, 75
+11, 24, 39, 47, 59, 65, 67, 81, 89, 98
+11, 14, 23, 25, 39, 45, 47, 48, 57, 61
+14, 25, 27, 35, 36, 47, 57, 71, 77, 79
+8, 11, 17, 21, 28, 35, 39, 53, 56, 65
+8, 11, 15, 17, 24, 29, 37, 47, 55, 63
+3, 9, 13, 19, 32, 39, 41, 49, 54, 59
+7, 14, 17, 24, 29, 31, 33, 35, 43, 57
+3, 7, 8, 9, 13(a), 19(a), 27, 30
+7, 11, 14, 17, 22, 24, 31, 32
+11, 15, 18, 21, 27, 31, 32, 35, 53
+9, 16, 23, 25, 29, 38, 54, 57, 62, 65
+9, 13, 15, 23, 27, 29, 30, 38
+27, 29, 33, 35, 39, 55, 57, 61, 64, 65
+
+Tutorial Material/Exercises
+
+Sep 8
+- Sep 12
+Sep 15
+- Sep 19
+Sep 22
+- Sep 26
+Sep 29
+- Oct 3
+Oct 6
+- Oct 10
+Oct 14
+- Oct 20
+Oct 21
+- Oct 27
+Oct 28
+- Nov 3
+Nov 4
+- Nov 10
+Nov 11
+-Nov 17
+Nov 18
+- Nov 24
+Nov 25
+- Dec 1
+
+General Advice
+Sec 1.3 & 1.4
+Sec 1.4
+Sec 2.1, 2.2 & 2.3
+Sec 2.4, 2.5 & 2.6
+
+Sec 2.6
+Sec 3.1, 3.2 & 3.3
+Sec 3.4, 3.5, 3.6
+& 3.7
+Sec 3.8, 3.9 & 3.10
+Sec 4.1
+Sec 4.2, 4.3, 4.4
+4.5 & 4.6
+Sec 4.7, 4.8 & 4.9
+
+Sec 4.9
+Sec 5.1, 5.2 & 5.3
+Sec 5.3, 5.4 & 5.5
+
+Sec 6.1, 6.2, 6.3
+& 6.4
+Sec 6.5, 6.6, 6.7
+& 6.9
+
+

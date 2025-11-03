@@ -1,0 +1,1663 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 7
+
+Recall that one reason for the word ”linear” in linear mappings (transformations) is that they preserve
+”linear” combinations (see Textbook, page 134). Here’s a geometric interpretation on why the ”linear” in
+”linear” mappings.
+
+Theorem: Let A be an m × n matrix and T : Rn → Rm be deﬁned by T (x) = Ax for any x ∈ Rn (recall
+that the only linear mappings from T : Rn → Rm are matrix mappings - see Textbook, Theorem 3, page
+136). Then T maps a line segment in Rn to a line segment in Rm or to a single point in Rm.
+
+Proof: Let x, y ∈ Rn. Then z = x + t(y − x), t ∈ R is the vector equation of the line through x and y. The
+line segment joining x and y is the portion of the line corresponding to 0 ≤ t ≤ 1. Then,
+
+T (z) = Az
+
+= T (x + t(y − x))
+
+= A(x + t(y − x))
+
+= Ax + t(Ay − Ax)
+
+Notice that Az = Ax + t(Ay − Ax) is the vector equation of the line through Ax and Ay in Rm and the line
+segment joining Ax and Ay is the portion of the line corresponding to 0 ≤ t ≤ 1 If Ax = Ay, the equation
+describes the single point Ax in Rm.
+
+The above Theorem is useful in computing images of subsets of Rn.
+
+Deﬁntion: If S is a subset of Rn, the image of S under T is the set T (S) consisting of all points T (x) where
+x ∈ S. In symbols, T (S) = {T (x) | x ∈ S}.
+
+Example: Let S be the unit square in R2 with vertices x =
+
+(cid:21)
+
+(cid:20)0
+0
+
+, y =
+
+(cid:21)
+(cid:20)1
+0
+
+T : R2 → R2 be the linear transformation deﬁned by T (x) = Ax where A =
+
+. Find and sketch the
+
+(cid:21)
+(cid:20)1
+, and w =
+1
+(cid:21)
+1
+1
+
+, z =
+(cid:20)1
+0
+
+(cid:21)
+(cid:20)0
+1
+
+, and let
+
+Solution: Using the above Theorem, we know that the line segment joining x and y is mapped to the line
+
+(cid:21)
+(cid:20)1
+under T ; the line segment joining y and z is mapped to the line
+0
+(cid:21)
+(cid:20)2
+1
+
+under T ; the line segment joining z and w is mapped to the
+(cid:20)1
+(cid:21)
+1
+
+under T ; and the line segment joining w and x is mapped
+
+image of S under T .
+
+segment joining T (x) =
+
+segment joining T (y) =
+
+line segment joining T (z) =
+
+(cid:21)
+
+(cid:20)0
+0
+(cid:21)
+(cid:20)1
+0
+
+and T (y) =
+
+and T (z) =
+(cid:20)2
+(cid:21)
+1
+
+and T (w) =
+(cid:20)1
+(cid:21)
+1
+
+to the line segment joining T (w) =
+
+and T (x) =
+
+under T . Hence, T maps the unit square S
+
+(cid:20)0
+(cid:21)
+0
+
+1 of 10
+
+−1
+
+to the parallelogram
+
+3
+
+2
+
+1
+
+3
+
+2
+
+1
+
+1
+
+2
+
+3
+
+−1
+
+1
+
+2
+
+3
+
+1. Let S be the unit square in R2 with vertices x =
+
+(cid:20)0
+(cid:21)
+0
+
+, y =
+
+(cid:20)1
+(cid:21)
+0
+
+, z =
+
+(cid:20)1
+1
+
+(cid:21)
+
+, and w =
+
+(cid:21)
+
+, and let
+
+(cid:20)0
+1
+
+T : R2 → R2 be the linear transformation deﬁned by T (x) = Ax. Find and sketch the image of S
+under T where
+(cid:21)
+(cid:20)−3
+
+(i) A =
+
+0
+0 −2
+
+Solution: The line segment joining x and y is mapped to the line segment joining T (x) =
+
+(cid:21)
+(cid:20)0
+0
+
+under T ; the line segment joining y and z is mapped to the line segment joining
+
+and T (z) =
+
+under T ; the line segment joining z and w is mapped to the line
+
+(cid:21)
+(cid:20)−3
+0
+
+(cid:21)
+
+and T (y) =
+(cid:20)−3
+0
+
+T (y) =
+
+(cid:21)
+(cid:20)−3
+−2
+(cid:21)
+(cid:20)−3
+−2
+
+segment joining T (z) =
+
+and T (w) =
+
+mapped to the line segment joining T (w) =
+
+square S to
+
+(cid:21)
+
+(cid:20) 0
+−2
+(cid:20) 0
+−2
+
+under T ; and the line segment joining w and x is
+
+(cid:21)
+
+and T (x) =
+
+(cid:21)
+(cid:20)0
+0
+
+under T . Hence, T maps the unit
+
+2 of 10
+
+−3
+
+−2
+
+−1
+
+1
+
+−1
+
+−2
+
+(ii) A =
+
+(cid:21)
+(cid:20)0 0
+0 1
+
+Solution: The line segment joining x and y is mapped to the line segment joining T (x) =
+
+under T ; the line segment joining y and z is mapped to the line segment joining
+
+(cid:21)
+(cid:20)0
+0
+
+and T (y) =
+(cid:21)
+
+T (y) =
+
+(cid:20)0
+0
+
+joining T (z) =
+
+and T (z) =
+(cid:21)
+(cid:20)0
+1
+
+(cid:21)
+
+(cid:20)0
+1
+
+(cid:20)0
+1
+
+and T (w) =
+(cid:20)0
+(cid:21)
+1
+
+line segment joining T (w) =
+
+and T (x) =
+
+under T ; the line segment joining z and w is mapped to the line segment
+
+(cid:21)
+
+under T ; and the line segment joining w and x is mapped to the
+
+(cid:21)
+(cid:20)0
+0
+
+under T . Hence, T maps the unit square S to
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+(iii) A =
+
+(cid:20)0 1
+(cid:21)
+0 1
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+Solution: The line segment joining x and y is mapped to the line segment joining T (x) =
+
+and T (y) =
+
+(cid:21)
+(cid:20)0
+0
+
+under T ; the line segment joining y and z is mapped to the line segment joining
+
+3 of 10
+
+(cid:21)
+(cid:20)0
+0
+
+(cid:20)0
+(cid:21)
+0
+
+T (y) =
+
+(cid:21)
+
+(cid:20)0
+0
+
+joining T (z) =
+
+and T (z) =
+(cid:21)
+(cid:20)1
+1
+
+(cid:20)1
+(cid:21)
+1
+
+(cid:21)
+(cid:20)1
+1
+
+and T (w) =
+(cid:21)
+(cid:20)1
+1
+
+line segment joining T (w) =
+
+and T (x) =
+
+under T ; the line segment joining z and w is mapped to the line segment
+
+under T ; and the line segment joining w and x is mapped to the
+
+(cid:21)
+(cid:20)0
+0
+
+under T . Hence, T maps the unit square S to
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+(iv) A =
+
+(cid:20)1 0
+(cid:21)
+2 1
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+Solution: The line segment joining x and y is mapped to the line segment joining T (x) =
+
+(cid:21)
+(cid:20)0
+0
+
+under T ; the line segment joining y and z is mapped to the line segment joining
+
+under T ; the line segment joining z and w is mapped to the line segment
+
+joining T (z) =
+
+under T ; and the line segment joining w and x is mapped to the
+
+(cid:21)
+(cid:20)1
+2
+
+and T (y) =
+(cid:21)
+
+T (y) =
+
+(cid:20)1
+2
+
+(cid:21)
+(cid:20)1
+3
+
+and T (z) =
+(cid:20)1
+(cid:21)
+3
+
+(cid:20)0
+(cid:21)
+1
+
+and T (w) =
+(cid:21)
+(cid:20)0
+1
+
+line segment joining T (w) =
+
+(cid:21)
+(cid:20)0
+0
+
+under T . Hence, T maps the unit square S to
+
+and T (x) =
+
+3
+
+2
+
+1
+
+−1 −0.5
+
+0.5
+
+1
+
+1.5
+
+2
+
+4 of 10
+
+2. Find the matrix of the following reﬂections:
+
+(i) R1 : R2 → R2, is a reﬂection in the line x1 − 3x2 = 0.
+(ii) R2 : R2 → R2 is a reﬂection in the line 2x1 = x2.
+(a) Find the matrix of the composition R1 ◦ R2 : R2 → R2 and show that it can be identiﬁed as a rotation
+
+and determine the angle of rotation.
+
+(b) Sketch, as accurately as possible, the image of the three unit squares pictured below under each of the
+
+transformations R1, R2, and R1 ◦ R2.
+
+3
+
+2
+
+1
+
+−2
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+Solution:
+Let’s consider a slightly more general picture, of reﬂection in the line (cid:96) deﬁned by ax1 +bx2 = 0. Consider
+∈ R2 such that x · n = 0.
+
+. Notice that the line (cid:96) is exactly the set of all x =
+
+the normal vector n =
+
+(cid:21)
+
+(cid:21)
+(cid:20)a
+b
+
+(cid:20)x1
+x2
+
+The reﬂection of a point v ∈ R2 in the line (cid:96) can be computed using n:
+v · n
+(cid:107)n(cid:107)2 n
+
+R(v) = v − 2 projn(v) = v − 2
+
+R(v)
+
+0
+
+projn(v)
+
+v
+
+(i) For the line x1 − 3x2 = 0, where n =
+
+(cid:21)
+
+(cid:20) 1
+−3
+
+, we compute using the above formula that
+
+R1
+
+R1
+
+− 2
+
+− 2
+
+(cid:21)
+
+(cid:21)
+
+=
+
+(cid:21)(cid:19)
+
+(cid:20)1
+0
+(cid:20)0
+1
+
+(cid:18)(cid:20)1
+0
+(cid:18)(cid:20)0
+(cid:21)(cid:19)
+1
+(cid:20)4/5
+3/5
+3/5 −4/5
+
+=
+
+(cid:21)
+.
+
+So, the corresponding matrix is A =
+
+(cid:21)
+
+1
+10
+−3
+10
+
+(cid:20) 1
+−3
+(cid:20) 1
+−3
+
+(cid:21)
+
+,
+
+(cid:21)
+(cid:20)4/5
+3/5
+(cid:20) 3/5
+−4/5
+
+(cid:21)
+
+=
+
+=
+
+5 of 10
+
+(ii) Similarly, for the line 2x1 − x2 = 0 we have n =
+
+(cid:20) 2
+−1
+
+(cid:21)
+
+, and we ﬁnd
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)1
+0
+
+(cid:20)−3/5
+(cid:21)
+4/5
+
+,
+
+=
+
+R2
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)0
+1
+
+(cid:20)4/5
+(cid:21)
+3/5
+
+=
+
+R2
+
+The corresponding matrix is then B =
+
+(cid:20)−3/5
+4/5
+
+(cid:21)
+.
+
+4/5
+3/5
+
+(a) The matrix of the composition R1 ◦ R2 is the product
+(cid:21) (cid:20)−3/5
+4/5
+
+(cid:20)4/5
+3/5
+3/5 −4/5
+
+AB =
+
+(cid:21)
+
+4/5
+3/5
+
+(cid:20) 0
+−1
+
+=
+
+(cid:21)
+1
+0
+
+Recall that the matrix corresponding to a counter-clockwise rotation in angle θ is
+
+(cid:20)cos θ − sin θ
+cos θ
+sin θ
+
+(cid:21)
+.
+
+Substituting θ = 3π
+
+2 , we get precisely
+
+(cid:20) 0
+−1
+
+3π
+2 .
+
+(cid:21)
+1
+. Hence R1 ◦ R2 is a counter-clockwise rotation in angle
+0
+
+(b) We plot the image of the three unit squares under each of the transformations. Notice that, in each
+
+case, the images are also unit squares (i.e. angles and lengths have been preserved!).
+
+Below are the: original image, image under R1, image under R2, and image under R1 ◦R2. Also plotted
+are the lines x1 − 3x2 = 0 and 2x1 = x2.
+
+4
+
+2
+
+−2
+
+2
+
+4
+
+6
+
+−2
+
+3. Let S be the unit square in R2 with vertices
+(cid:21)
+(cid:20)3
+1
+
+with vertices
+
+(cid:21)
+(cid:20)5
+.
+4
+
+(cid:21)
+(cid:20)2
+3
+
+(cid:21)
+(cid:20)0
+0
+
+, and
+
+,
+
+,
+
+(cid:21)
+
+(cid:20)0
+0
+
+,
+
+(cid:20)1
+(cid:21)
+0
+
+,
+
+(cid:20)1
+(cid:21)
+1
+
+, and
+
+(cid:20)0
+(cid:21)
+1
+
+and let P be the parallelogram
+
+(a) Find a matrix A such that the linear transformation T1 : R2 → R2 deﬁned by T1(x) = Ax maps S onto
+
+P.
+
+(b) Find a matrix B such that the linear transformation T2 : R2 → R2 deﬁned by T2(x) = Bx maps P
+
+onto S.
+
+6 of 10
+
+(c) Find a matrix of the linear transformation T2 ◦ T1 : R2 → R2.
+
+Solution: The parallelogram P
+
+4
+
+3
+
+2
+
+1
+
+2
+
+4
+
+(a) Any linear map T taking S to P must take the vertices of S to the vertices of P . Furthermore, T has
+to take vertices of S adjacent to the origin, i.e. (1,0) and (0,1), and send them to vertices of P which
+are adjacent to the origin, namely (3,1) and (2,3) which are drawn in red above. There are two ways
+to do this, which we will call T1,1 and T1,2. Either:
+
+T1,1
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)1
+0
+
+=
+
+T1,2
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)1
+0
+
+=
+
+(cid:21)
+(cid:20)3
+1
+
+(cid:21)
+(cid:20)2
+3
+
+, T1,1
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)0
+1
+
+=
+
+, T1,2
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)0
+1
+
+=
+
+(cid:21)
+(cid:20)2
+3
+
+(cid:21)
+(cid:20)3
+1
+
+T1,1 is given by the matrix A1 =
+
+(cid:21)
+(cid:20)3 2
+, and T1,2 is given by the matrix A2 =
+1 3
+
+(cid:20)2
+3
+
+(cid:21)
+3
+.
+1
+
+(b) By the same logic as above, we have two possible linear maps, given by:
+
+T2,1
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)3
+1
+
+=
+
+T2.2
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)3
+1
+
+=
+
+(cid:21)
+
+(cid:20)1
+0
+
+(cid:21)
+
+(cid:20)0
+1
+
+, T2,1
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)2
+3
+
+=
+
+, T2,2
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)2
+3
+
+=
+
+(cid:21)
+
+(cid:20)0
+1
+
+(cid:21)
+
+(cid:20)1
+0
+
+We can calculate these matrices directly, or we can notice that these linear maps are the inverses of
+the linear maps from part (i). Notice that T2,1 ◦ T1,1 = I, the identity map, and T2,2 ◦ T1,2 = I. This
+tells us that T2,1 = (T1,1)−1 and T2,2 = (T1,2)−1.
+
+Theorem 2.4.6 tells us that if T is given by the matrix A, then T −1 is given by the matrix A−1. This
+means that T2,1 is given by the matrix B1 = A−1
+(cid:21)
+.
+
+and T2,2 is given by the matrix
+
+(cid:21)
+(cid:20) 3 −2
+3
+−1
+
+1 = 1
+7
+
+B2 = A−1
+
+2 = −1
+7
+
+(cid:20) 1 −3
+2
+−3
+
+(c) Recall that if T is the linear transformation given by the matrix A and S is the linear transformation
+given by the matrix B, then T ◦ S is given by the matrix AB. In part (ii), we found our matrices by
+taking the inverses of our matrices from part (i). The typical answer would then be that T2 ◦ T1 is
+1 A1 = I or A−1
+given by the matrix A−1
+2 A2 = I. Interestingly, we have two more possible matrices for
+(cid:21)
+1
+or A−1
+T2 ◦ T1: A−1
+1 A2 =
+0
+
+. This second linear map is reﬂection along y = x.
+
+2 A1 =
+
+(cid:21)
+1
+0
+
+(cid:20)0
+1
+
+(cid:20)0
+1
+
+7 of 10
+
+4. Let A =
+
+
+
+
+
+1 a + b
+1 a + c
+
+1
+
+c
+b
+b + c a
+
+, where a, b, c are not all equal.
+
+(a) Determine rank(A).
+
+(b) Find a basis for null(A).
+
+(c) Find a basis for col(A).
+
+Solution:
+
+(a) Since the rank is the number of leading entries in a row echelon form for A, we must row reduce A to
+
+row echelon form.
+
+
+
+1 a + b
+1 a + c
+
+1
+
+c
+b
+b + c a
+
+
+
+
+
+
+
+c
+1 a + b
+c − b
+b − c
+0
+
+c − a a − c
+0
+
+
+
+
+
+R2−R1
+−−−−−→
+R3−R1
+−−−−−→
+
+
+
+1 a + b
+0
+
+0
+
+=
+
+c − b −(c − b)
+c − a −(c − a)
+
+
+
+
+
+c
+
+Since a, b, c are not all equal, one of c − a (cid:54)= 0 and c − b (cid:54)= 0 must be true, otherwise c = a and c = b
+means they are all equal.
+
+Case 1: c − b (cid:54)= 0
+
+Then A row reduces further:
+
+
+
+1 a + b
+0
+
+0
+
+
+1 a + b
+0
+
+0
+
+1
+
+
+
+c
+
+c − b −(c − b)
+c − a −(c − a)
+
+
+
+c
+−1
+
+
+
+
+
+c − a −(c − a)
+
+
+
+1 a + b
+0
+
+0
+
+1
+0
+
+
+
+
+
+c
+−1
+0
+
+A −→
+
+R2/(c−b)
+−−−−−−→
+
+R3−(c−a)R2
+−−−−−−−−→
+
+Case 2: c − a (cid:54)= 0
+
+Then A row reduces further:
+
+8 of 10
+
+A −→
+
+R3/(c−a)
+−−−−−−→
+
+R2↔R3
+−−−−−→
+
+R3−(c−b)R2
+−−−−−−−−→
+
+
+
+c
+
+c − b −(c − b)
+c − a −(c − a)
+
+
+
+c − b −(c − b)
+
+
+
+c
+
+−1
+
+c
+−1
+
+
+
+
+
+
+
+
+
+1 a + b
+0
+
+0
+
+
+1 a + b
+0
+
+0
+
+1
+
+
+
+1 a + b
+0
+
+0
+
+1
+
+c − b −(c − b)
+
+
+
+1 a + b
+0
+
+0
+
+1
+0
+
+
+
+
+
+c
+−1
+0
+
+(b) We continue row reducing:
+
+A −→
+
+
+
+1 a + b
+0
+
+0
+
+1
+0
+
+
+
+
+
+c
+−1
+0
+
+R1−(a+b)R2
+−−−−−−−−→
+
+
+1
+0
+
+0
+
+0 a + b + c
+1
+0
+
+−1
+0
+
+
+
+
+
+Reading the solution oﬀ, we notice that x3 is a parameter. Let x3 = t. Then:
+
+x1 = −(a + b + c)t
+x2 = t
+x3 = t
+
+So the general solution is x = t
+
+
+
+
+
+−a − b − c
+1
+1
+
+
+
+.
+
+(c) Because the ﬁrst and second column of the REF of A has leading ones, then the corresponding
+columns from A form a basis for the columnspace of A. That is, a basis for the column space of
+
+A is
+
+
+
+
+
+
+
+
+1
+1
+ ,
+
+1
+
+
+
+
+
+a + b
+a + c
+b + c
+
+
+
+
+
+
+
+.
+
+
+5. As a teaching assistant for MAT188, you have two groups of students working on solving the same
+
+system of linear equations in tutorial. Group A tells you the solution is
+
+xa =
+
+
+
+1
+0
+ + s
+
+0
+
+where s, t ∈ R. Group B tells you the solution is
+
+
+
+
+
+−6
+2
+2
+
+
+
+ + t
+
+
+
+
+
+
+
+
+
+−1
+0
+1
+
+xb =
+
+
+
+ + s
+
+
+
+
+
+1
+−1
+1
+
+
+
+
+
+−7
+2
+3
+
+
+
+
+
+ + t
+
+
+
+
+
+
+
+−6
+2
+2
+
+where s, t ∈ R. Are the answers consistent? i.e. Are both groups correct?
+
+9 of 10
+
+For the answers to be consistent, we have to show that for any sa, ta ∈ R, we can ﬁnd sb, tb ∈ R such that:
+
+
+
+ + sa
+
+
+1
+0
+
+0
+
+
+
+
+
+−6
+2
+2
+
+
+
+ + ta
+
+
+
+
+
+−1
+0
+1
+
+
+
+
+
+ =
+
+
+
+1
+−1
+1
+
+
+
+ + sb
+
+
+
+
+
+−7
+2
+3
+
+
+
+ + tb
+
+
+
+
+
+
+
+
+
+−6
+2
+2
+
+Let sa = ta = 0, so that xa =
+
+
+
+1
+. For the system to be consistent, we should ﬁnd sb, tb ∈ R such that:
+0
+
+0
+
+
+
+ =
+
+
+1
+0
+
+0
+
+
+
+
+
+1
+−1
+1
+
+
+
+ + sb
+
+
+
+
+
+−7
+2
+3
+
+
+
+ + tb
+
+
+
+
+
+
+
+
+
+−6
+2
+2
+
+or equivalently,
+
+
+
+
+
+
+
+0
+1
+−1
+
+ = sb
+
+
+
+ + tb
+
+
+
+
+
+
+
+−7
+2
+3
+
+
+
+
+
+
+
+−6
+2
+2
+
+From the ﬁrst row of the system above, we get sb = −(6/7)tb, and replacing back in the system above, we
+get:
+
+
+
+
+
+
+
+0
+1
+−1
+
+ = (−6/7)tb
+
+
+
+ + tb
+
+
+
+ = tb
+
+
+
+
+
+
+
+
+
+
+
+−6
+2
+2
+
+
+
+
+
+
+
+0
+2/7
+−4/7
+
+−7
+2
+3
+
+which means the system is inconsistent. Therefore, at least one of the groups is wrong.
+
+10 of 10
+
+

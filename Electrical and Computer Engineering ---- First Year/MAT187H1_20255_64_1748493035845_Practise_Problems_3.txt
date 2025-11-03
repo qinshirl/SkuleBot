@@ -1,0 +1,480 @@
+Practise Problem Set 3
+
+MAT 187 - Summer 2025
+
+These questions are meant for your own practice for quiz 3 and are not to be handed in. Some of these
+questions, or problems similar to these, may appear on the quizzes or exams. Therefore, solutions to these
+problems will not be posted but you may, of course, ask about these questions during office hours, or on Piazza.
+
+Suggestions on how to complete these problems:
+
+• Solution writing is a skill like any other, which must be practiced as you study. After you write
+down your rough solutions, take the time to write a clear readable solution that blends sentences and
+mathematical symbols. This will help you to retain, reinforce, and better understand the concepts.
+
+• After you complete a practice problem, reflect on it. What course material did you use to solve the
+problem? What was challenging about it? What were the main ideas, techniques, and strategies
+that you used to solve the problems? What mistakes did you make at the first attempt and how can
+you prevent these mistakes on a Term Test? What advice would you give to another student who is
+struggling with this problem?
+
+• Discussing course content with your classmates is encouraged and a mathematically healthy practice.
+Work together, share ideas, explain concepts to each other, compare your solutions, and ask each other
+questions. Teaching someone else will help you develop a deeper level of understanding. However, it’s
+also important that reserve some time for self-study and self-assessment to help ensure you can solve
+problems on your own without relying on others.
+
+1. Use the trapezoidal rule with n = 4 subintervals to approximate
+
+(cid:90) 2
+
+√
+
+0
+
+1 + x3 dx.
+
+(a) Compute the approximation.
+
+(b) Based on concavity, is this an overestimate or underestimate? Explain.
+
+2. Let f (x) = 1
+
+x. Consider the integral (cid:82) 5
+
+1
+xdx.
+
+1
+(a) Estimate the integral using the trapezoidal rule with n = 2 subintervals.
+
+(b) Estimate the integral using the midpoint rule with n = 2 subintervals.
+
+(c) Which approximation is more accurate, and why?
+
+(d) What happens as you increase the
+
+3. You are given function values but not a formula:
+
+x
+f (x)
+
+0
+1
+
+1
+0.5
+
+2
+0.2
+
+3
+0.1
+
+4
+0.05
+
+1
+
+(a) Estimate (cid:82) 4
+(b) Estimate (cid:82) 4
+(c) Based on the data, can you say which rule is more likely to be accurate?
+
+0 f (x) dx using the trapezoidal rule.
+0 f (x) dx using the Simpson’s rule.
+
+4. Let f (x) = arctan x.
+
+(a) Find the second-degree Taylor polynomial P2(x) centered at a = 0.
+(b) Use your result to estimate arctan(0.2).
+
+(c) Predict whether your estimate is an overestimate or underestimate. Justify briefly.
+
+(d) Find a bound for the error to your estimate using Taylor’s reminder theorem.
+
+5. Let f (x) = ln(1 + x)
+
+(a) Compute the 4th Taylor Polynomial for f centered at a = 0
+
+(b) Use it to approximate ln(1.5).
+
+(c) Compare your result to a calculator value and find the absolute error.
+
+(d) Find a bound for the error to your estimate using Taylor’s reminder theorem.
+
+(e) Will increasing to degree 6 improve the approximation? Explain without computing.
+
+6. Let f (t) = e−t2.
+
+(a) Find the second-degree Taylor polynomial centered at t = 0.
+
+(b) Use it to approximate f (0.3).
+
+(c) Find a bound for the error to your estimate using Taylor’s reminder theorem.
+
+(d) Why might a polynomial approximation of this function be useful in physics or engineering?
+
+7. For each of the following, sketch a function f that has the required properties.
+
+(a) Left-endpoint approximations give the exact value of
+
+(cid:90) 1
+
+0
+
+f (x) dx.
+
+(b) Left-endpoint approximations give an under estimate of the value of
+
+(cid:90) 1
+
+f (x) dx.
+
+(c) Left-endpoint approximations give an over estimate of the value of
+
+(d) Trapezoidal approximations give the exact value of
+
+(cid:90) 1
+
+0
+
+f (x) dx.
+
+(e) Trapezoidal approximations give an under estimate of the value of
+
+0
+(cid:90) 1
+
+0
+
+f (x) dx.
+
+(cid:90) 1
+
+f (x) dx.
+
+(f) Trapezoidal approximations give an over estimate of the value of
+
+0
+(cid:90) 1
+
+0
+
+f (x) dx.
+
+(g) Midpoint approximations give an over estimate of the value of
+
+(cid:90) 1
+
+0
+
+f (x) dx.
+
+Page 2
+
+8. For each part of this question you are given the graph of an unknown function f . On this graph is marked
+
+the point p. For each part, sketch the requested polynomial.
+
+Note: your sketch only needs to be approximate, but it should demonstrate the important behaviour of
+the requested polynomial.
+
+(a) Sketch a 0th degree Taylor approximation to f centered at 2.5.
+
+1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+−1
+
+p
+
+(b) Sketch a 1st degree Taylor approximation to f centered at 2.5.
+
+1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+−1
+
+p
+
+(c) Sketch a 2nd degree Taylor approximation to f centered at 2.5.
+
+1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+−1
+
+p
+
+(d) Sketch a 3rd degree Taylor approximation to f centered at 2.5.
+
+1
+
+−1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+−1
+
+p
+
+Page 3
+
+9. Let f (x) = sin(x) and let I =
+
+(cid:90) π
+
+0
+
+f (x) dx. By using antiderivatives, we know that I = 2, exactly.
+
+For this question, you may use a computer/calculator to evaluate any sums.
+
+(a) Let Ln be an approximation of I based on left endpoints where the interval [0, π] is divided into n
+
+regions.
+
+i. Write down a formula (using summation notation) for Ln.
+ii. What is the smallest n so that Ln is within 0.01 of the correct answer?
+
+(b) Let Mn be an approximation of I based on the midpoint rule where the interval [0, π] is divided into
+
+n regions.
+
+i. Write down a formula (using summation notation) for Mn.
+ii. What is the smallest n so that Mn is within 0.01 of the correct answer?
+
+(c) Let Tn be an approximation of I based on the trapezoid rule where the interval [0, π] is divided into
+
+n regions.
+
+i. Write down a formula (using summation notation) for Tn.
+ii. What is the smallest n so that Tn is within 0.01 of the correct answer?
+
+(d) Let Sn be an approximation of I based on Simpson’s rule where the interval [0, π] is divided into n
+
+regions.
+
+i. Write down a formula (using summation notation) for Sn.
+ii. What is the smallest n so that Sn is within 0.01 of the correct answer?
+
+Bonus:
+
+10. Simpson’s Rule can be easily derived based off of the following fact: if p is a quadratic polynomial, then
+
+I =
+
+(cid:90) x1
+
+x0
+
+p(x) dx can be computed as a linear combination of p(x0), p(x1), and p( x0+x1
+
+2
+
+). That is
+
+I = ap(x0) + bp
+
+(cid:17)
+
+(cid:16)x0 + x1
+2
+
++ cp(x1)
+
+where a, b, c are constants that do not depend on p nor on x0 or x1.
+(cid:90) 0
+
+(cid:90) 1
+
+(cid:90) 2
+
+(a) Let p(x) = x2 and compute
+
+p(x) dx,
+
+p(x) dx, and
+
+p(x) dx.
+
+−2
+
+−1
+
+0
+
+(b) For each of the previous integrals, what are the values of x0, x1, and x0+x1
+
+? Use these values to
+
+2
+
+compute p(x0), p(x1), and p( x0+x1
+
+).
+
+2
+
+(c) Use what you’ve learned from the previous parts to solve for a, b, c in the expression I = ap(x0) +
+
+bp( x0+x1
+2
+(d) Let f (x) = 1
+
+) + cp(x1).
+
+1+x2 and let p be a quadratic interpolating polynomial through (−1, f (−1)), (0, f (0)),
+
+(cid:90) 1
+
+and (1, f (1)). Use your knowledge from the previous parts to find
+
+p(x) dx without finding p.
+
+(e) (Bonus) The integral of a cubic can be computed as a linear combination of the value of that
+cubic at four equally spaced points. Come up with a “Super” Simpson’s rule based on using cubic
+interpolation instead of quadratic interpolation.
+
+−1
+
+Page 4
+
+11. Taylor polynomials tend to be accurate in a symmetric region about the point where they are centered.
+That is, if Tn is an nth Taylor approximation of f centered at a, we would expect T to be accurate in
+some region (a − ε, a + ε). Here ε would depend on n, a, and f .
+
+For this question, you may use the following Desmos link to graph Taylor approximations:
+
+https://www.desmos.com/calculator/jdv3z3trvu
+
+However, be warned for Taylor polynomials above degree 9 or so, Desmos suffers from significant rounding
+errors.
+
+(a) For this part we will be approximating the function f (x) = 1/x. Let Tn be the nth Taylor approxi-
+
+mation to f centered at a.
+
+i. When a = 2, for which ε is T8 a good approximation to f on the interval (a − ε, a + ε)? (Hint:
+
+you will need to use your judgement to decide what a “good” approximation is.)
+
+ii. When a = 1, for which ε is T8 a good approximation to f on the interval (a − ε, a + ε)?
+iii. When a = 1/2, for which ε is T8 a good approximation to f on the interval (a − ε, a + ε)?
+iv. Why does ε keep getting smaller as a gets smaller?
+v. Based on your conjecture, find a formula for an upper bound for ε based on a.
+
+(b) Repeat the previous part using f (x) = sin x. Does the region of “good” approximation, (a − ε, a + ε),
+
+change as a changes?
+
+(c) For this part, we will use the function f (x) = 1
+
+1+x2 .
+
+Use the following Desmos link: https://www.desmos.com/calculator/opdydtzixw
+
+i. When a = 4, for which ε is T20 a good approximation to f on the interval (a − ε, a + ε)?
+ii. When a = 3, for which ε is T20 a good approximation to f on the interval (a − ε, a + ε)?
+iii. When a = 2, for which ε is T20 a good approximation to f on the interval (a − ε, a + ε)?
+iv. Find all (complex) vertical asymptotes of the function f .
+v. Why did ε shrink in the previous parts?
+vi. Based on your conjecture, find a formula for an upper bound for ε based on a. (Hint: this part
+
+will involve doing some geometry in the complex plane.)
+
+12. Consider the function f (x) =
+
+at a = 0.
+
+1
+1 − x
+
+on (−∞, 1). Let Pn denote the nth Taylor polynomial of f centred
+
+1. Use the Taylor Remainder Theorem to find an upper bound for the error at x = 1
+2.
+2. The geometric sum formula states (cid:80)k
+
+α−1 . Use the geometric sum formula to find a
+closed-form expression for Pn(x) (i.e., an expression that does not use summation notation or any
+“. . . ”s).
+Use your formula to find an exact expression for the error at x = 1
+decreases as we increase n.
+
+2 and describe how the error
+
+n=0 αn = αk+1−1
+
+3. Use Desmos to graph f and Pn for n = 1 to n = 50. Based on your visual evidence, does Pn give
+a good approximation for f in (−∞, 1)? If not, what is the interval over which Pn is a reasonable
+approximation of f ?
+
+4. Taylor’s remainder theorem states that |f (x) − Pn(x)| = f n+1(c(x))xn+1
+
+, where c(x) takes on a mys-
+terious value that depends on x and is somewhere between x and a. Normally, we cannot compute
+c(x), but in this example we can. Find the function c(x).
+
+(n+1)!
+
+Page 5
+
+

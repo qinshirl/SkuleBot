@@ -1,0 +1,39 @@
+LAST Name (as seen on ROSI): __________________________________________   Tutorial Number: __________ 
+
+FIRST Name (as seen on ROSI):_______________________________________    Student Number:___________________ 
+
+MIE 100S - Quiz number 1a: Jan 12, 2015:  quiz duration = 20 minutes 
+
+A rocket travels straight upwards from the ground with an initial upwards speed of 
+
+ Its acceleration is 
+
+dependent on the speed according to:  
+
+(a)  What is the particle’s speed at t = 4s? 
+(b)  How long will it take for the rocket to reach a speed of 50 m/s? 
+
+𝑎 = 175   
+
+ 𝑚/𝑠
+
+𝑣
+
+.
+
+1
+2
+
+2
+
+𝑚
+  Ignore the rotation of the earth. 
+𝑣 = 30
+𝑠 . 
+
+ 
+ 
+              
+ 
+ 
+

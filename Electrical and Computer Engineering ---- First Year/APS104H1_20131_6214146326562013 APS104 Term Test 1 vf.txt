@@ -1,0 +1,650 @@
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+TERM TEST 1 
+
+7 FEBRUARY 2013 
+
+First Year 
+
+APS 104S 
+
+INTRODUCTION TO  MATERIALS AND CHEMISTRY 
+
+Exam Type B 
+
+Examiners:  T. Bender, N. P. Kherani, T. Mirkovic 
+
+Tutorial 
+Section 
+Number: 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+Total 
+
+/20 
+
+       /20 
+
+       /17 
+
+       /18 
+
+       /20 
+
+       /95 
+
+NAME:  _________________________________________________________ 
+                Last 
+
+First 
+
+STUDENT NO:____________________________________________________ 
+
+INSTRUCTIONS: 
+
+  This is a Type B examination. Only non-programmable calculators are allowed. 
+
+  Answer all  5 questions. 
+
+  All work is to be done on the pages of this booklet. 
+
+  When answering the questions include all the steps of your work on these pages and then fill 
+
+the answer in the respective boxes. For additional space, you may use the back of the 
+preceding page. 
+
+  Do not unstaple this exam booklet. 
+
+  A Formula Sheet and the periodic table are attached to the end of this exam booklet; if you 
+
+wish, you may tear-off  these sheets only. 
+
+Page 1 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 1: Atomic and Molecular Bonding  (20 pts) 
+
+(a)  Write the electron configuration for Mg2+.  [2 pts] 
+
+(b) Write the electronic configuration for Ti0. [2 pts] 
+
+(c)   Determine the precent ionic character (%IC) of the N-H bond in ammonia(NH3).   
+Given:    EN () (nitrogen) =3.04        EN () (hydrogen) = 2.20       [3 pts] 
+
+%IC =  
+
+(d) Name the type of bonding present in each of these materials between adjacent atoms (i.e. either 
+covalent, polar covalent, ionic or metallic): [5 pts] 
+
+Ammonia: 
+
+________________________________________ 
+
+Si3N4:  
+
+Fe:  
+
+KBr:  
+
+________________________________________ 
+
+________________________________________ 
+
+________________________________________ 
+
+Water:  
+
+________________________________________ 
+
+(e)   The function below is given for N2 , where the constants are:  A = 1.34 10-5 J pm6   
+
+and B = 3.42 1010 J pm12.   
+
+[8 pts] 
+
+Calculate the equilibrium separation ro for the nitrogen molecule. Note: 1 pm = 10-12 m 
+
+ro =  
+
+Page 2 of 10 
+
+126rBrAE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 2: Molecular Theory of Gases  (20 pts) 
+Part I 
+(a) Define an open, closed and isolated system in terms of what can and cannot be removed from the 
+
+system. (6 pts) 
+
+(b) A boundary of a system can be considered diathermic if it (circle the correct answer): (1 pt) 
+
+(i) allows the movement of heat. 
+(ii) does not allow the movement of heat. 
+
+(c) Pressure is created when (circle the correct answer): (1 pt) 
+
+(i)  liquid molecules collide with the physical boundary of a container. 
+(ii) gas molecules collide with the physical boundary of a container. 
+(iii) gas molecules collide with one another within the boundaries of a container. 
+(iv) gas molecules interact with one another through secondary bonding interactions. 
+
+Part II 
+(a)  10 g of ethane (C2H6) gas is introduced into a 10 L (10 L = 10 dm3) pressure vessel at 25 °C. (4 pts) 
+
+(i) assuming ideal gas behavior calculate the pressure in the vessel. 
+
+P =  
+
+(ii) assuming Van der Waals gas behavior calculate the pressure in the vessel (a = 5.507 atm dm6 
+mol-1; b = 6.51 x 10-2 dm3 mol-1) 
+
+P =  
+
+Page 3 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+(b)   Calculate the amount (mass and number of moles) of oxygen needed to burn all the ethane 
+according to the following balanced chemical equation:  C2H6 +   O2  2 CO2 + 3 H2O 
+
+ (2 pts) 
+
+mass  =  
+
+no of moles =  
+
+ (c)  You are told that the chemical reaction in part (II-b) takes place completely. Calculate the final 
+
+pressure in the vessel assuming the following: ideal gas behavior, the temperature rises to 100 °C 
+which is maintained, and that the water remains in the gaseous state.  (6 pts) 
+
+P =  
+
+Page 4 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 3:  Crystal Structures and Density (17 pts) 
+
+When cadmium oxide (CdO) reacts to form cadmium selenide (CdS), a change in the unit cell occurs, as 
+depicted below:  
+
+2-
+
+O
+
+2+
+
+Cd
+
+2+
+
+Cd
+
+2-
+
+S
+
+(a)  What is the crystal structure of CdO?  ____________________ 
+
+[1pt] 
+
+What is the crystal structure of CdS?   ____________________      [1pt] 
+
+(b) What positions do Cd2+ ions occupy within the framework of the anions? 
+
+In CdO:   _________________  [1pt]                  In CdS:  _________________    [1pt] 
+
+(c)  What is the coordination number of Cd2+ in CdO and CdSe? 
+
+In CdO:   _________________  [1pt]                  In CdS:  _________________    [1pt] 
+
+(d) Would you expect Cd2+ to have a bigger radius in CdO or  in CdS? [1 pt] 
+
+(e)  What is the volume of the CdO unit cell in cm3, given that:    [2 pts]                                                          
+
+r(O2-) = 140 pm and  r(Cd2+) = 95 pm. 
+
+(f)  What is the density of CdO.  [4 pts] 
+
+(g) Calculate the atomic packing factor of the CdO unit cell. [4 pts] 
+
+vol =  
+
+ =  
+
+APF =  
+
+Page 5 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 4:  Directions, Planes and Densities (18 pts) 
+
+A. Find the Miller indices for the planes shown in the diagrams below. (6 pts) 
+
+z 
+
+x 
+
+y 
+
+__________ 
+
+      __________ 
+
+                         __________ 
+
+B.  Determine the indices of the crystallographic directions (A, B, C, and D) illustrated below. (6 pts) 
+
+z 
+
+A 
+
+B 
+
+x 
+
+D 
+
+y 
+
+C 
+
+A:  (                       ) 
+
+B:   (                      ) 
+
+C:   (                      ) 
+
+D:   (                      ) 
+
+C.   For the FCC crystal lattice shown in part B, determine the following: 
+
+(a)  Linear atomic density for the crystallographic direction D. (2 pts) 
+
+(b) Planar atomic density for the (001) plane. (4 pts) 
+
+LD =  
+
+PD =  
+
+Page 6 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION 5:  Polymers (20 pts) 
+(a) The following table lists molecular weight data for a sample of polyvinylchloride.  
+
+Molecular Weight 
+Range (g/mol) 
+8,000–16,000 
+16,000–24,000 
+24,000–32,000 
+32,000–40,000 
+40,000–48,000 
+48,000–56,000 
+
+xi 
+0.05 
+0.16 
+0.24 
+0.28 
+0.20 
+0.07 
+
+wi 
+0.02 
+0.10 
+0.20 
+0.30 
+0.27 
+0.11 
+
+Calculate: 
+
+(i) the number-average molecular weight.  (5 pts) 
+
+(ii) the weight-average molecular weight. (5 pts) 
+
+(iii) and the degree of polymerization.   (3 pts) 
+
+Page 7 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+(b) Sketch a picture illustrating the molecular arrangement of any two of the following polymeric 
+
+molecular structures:   Linear,  Branched,  Cross-linked, Network  (2 pts) 
+
+(c)  Draw the repeat units for the polymers named below. (5 pts) 
+
+polyethylene 
+
+polytetrafluoroethylene 
+
+polypropylene
+
+Page 8 of 10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+FORMULAE & CONSTANTS (You may tear this sheet off.) 
+
+Constants 
+
+R = 8.3145 J·K-1 mol-1 = 0.0820574587 L·atm· K-1 mol-1 = 0.083145 L·bar·K-1·mol-1  
+1 atm = 101.325 kPa  = 1.01325 bar = 14.696 psi = 760 Torr  = 760 mmHg 
+NA = 6.022 x 1023 mol-1           k = 8.62 x 10-5 eV/K               1 eV = 1.60 x 10-19 J 
+T(K) = T(oC) + 273.15 K;     
+STP: 273.15K, 1 bar             SATP: 298.15K, 1 bar          
+
+Formulae from Callister 
+
+=n
+
+    G = E/(2(1 +)) 
+
+σy = σo + kyd -1/2      
+
+Formulae from Engel & Reid 
+Idea gas equation of state: 
+
+Van der Waals equation of state:  
+
+Page 9 of 10 
+
+343rVACNVnA100]})(25.0exp[1{%2BAXXICellVolumeTotalUnitCeVolumeTotalSpherAPFtorrectionVecLengthOfDinVectorOnDirectioomsCentredNumberOfAtLDeAreaOfPlanOnAPlaneomsCentredNumberOfAtPDmMDPniinMxMiiwMwM)kTQexp(- vNNV)2kTQexp(- SNNS)2kTQexp(- frfrNNnRTPV22)(VannbVnRTPAAC)(NVAAnCVm 
+ 
+ 
+ 
+ 
+             
+      
+                                      
+      
+    
+    
+ 
+             
+ 
+      
+      
+      
+ 
+    
+    
+ 
+    
+    
+    
+    
+    
+    
+      
+      
+      
+      
+ 
+    
+    
+    
+    
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+You may tear this sheet off. 
+
+Page 10 of 10 
+
+ 
+ 
+ 
+ 
+ 
+

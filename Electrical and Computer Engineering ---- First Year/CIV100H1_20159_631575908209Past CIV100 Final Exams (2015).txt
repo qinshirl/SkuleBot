@@ -1,0 +1,219 @@
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2015	
+
+Question 1 
+The rigid frame ABCEFGH is supported by ball-and-socket supports at A and E. The support at A has been 
+modified to allow free movement along the z-axis. A cable is also attached between C and D. Point C is at 
+the mid-point of AB. Determine the force in the cable and the reaction force components at E. 
+
+  Answers: 
+
+  TCD = 144.0 kN (Tension) 
+  Ex = 89.5 kN  
+  Ey = 66.4 kN 
+  Ez = 119.0 kN 
+
+Question 2 
+The truss shown is supported by a pin at L and a roller at F. Indicate the zero-force members in the truss, 
+if any.  
+(a) Determine the force in members BC, CH, DH and HK, and indicate whether they are in tension or 
+compression.  
+(b) Member EJ has a tension force of 125 kN and is to be constructed from steel having a solid 
+equilateral triangular cross-section of size a, which is readily available in 5 mm increment sizes. Knowing 
+that the yield stress for steel is 300 MPa, the load factor for axially loaded bars in tension is 1.25 and the 
+modulus of elasticity for steel is 200,000 MPa, determine dimension a for the required section. Also, 
+determine the elongation of member EJ as designed. 
+
+Answers: 
+
+FBC = 0 kN 
+FCH = 80.0 kN (Compression) 
+FDH = 75.0 kN (Tension) 
+FHK = 75.0 kN (Compression) 
+
+a = 35.0 mm 
+DEJ = +2.95 mm 
+
+Question 3 
+The long dam and pedestrian walkway ABCDE is made of continuous (perpendicular to the page) 
+rigid walls and slabs ABC and CDE, which are continuously pinned at A, C and E. The structure 
+separates and retains salt water to the left of the vertical wall AB and fresh water to the right of 
+
+the vertical wall DE. Neglecting the self-
+weight of the structure as well as that 
+of the people walking on it, determine 
+the reaction force components at pins A 
+and E. The density of salt water is 1,050 
+kg/m3. 
+
+Answers: 
+
+Ax = 10.03 kN/m 
+Ay = 39.6 kN/m 
+
+ Ex = 140.3 kN/m 
+ Ey = 39.6 kN/m 
+
+Question 4 
+As an engineer in a consulting firm you have been tasked to verify the design of beam ABCDE 
+subject to the loads illustrated, which was performed by a younger colleague. Member EFG is 
+attached rigidly to the beam at E. For this purpose, you have to: 
+(a) Draw the shear force and bending moment diagrams for the beam in the space reserved 
+below, indicating the values at points A, B, C, D and E, as well as any potential local maxima or 
+minima.  
+(b) Your colleague has proposed a solid rectangular cross-section for the beam with a circular hole 
+at the bottom for electrical conduits, as shown. The beam is constructed of Grade 6061-T4 
+aluminium with a yield stress of 110 MPa and the required load factor for flexure is 1.5. Determine 
+if the beam proposed is safe. The second moment of area for circular areas is (πr4)⁄4, where r is 
+the radius of the circle. 
+
+Question 5 
+Determine the reaction force components 
+at pins A and G, for the structure illustrated. 
+Member BE is attached rigidly to member 
+ABCD, at B, and member CFG is pinned to 
+member ABCD, at C. Neglect the mass of 
+the members and frictionless pulley. 
+
+Answers: 
+
+Ax = 241 N 
+Ay = 195.8 N 
+
+Gx = 441 N 
+Gy = 686 N 
+
+[kN] 
+
+[kNm] 
+
+Answers: 
+
+smax = 105.3 MPa 
+The beam is safe.	
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CIV100F/APS160F	–	Mechanics:	Final	Exam	2015	
+
+Question 1 
+The rigid frame ABCEFGH is supported by ball-and-socket supports at A and E. The support at A has been 
+modified to allow free movement along the z-axis. A cable is also attached between C and D. Point C is at 
+the mid-point of AB. Determine the force in the cable and the reaction force components at E. 
+
+  Answers: 
+
+  TCD = 144.0 kN (Tension) 
+  Ex = 89.5 kN  
+  Ey = 66.4 kN 
+  Ez = 119.0 kN 
+
+Question 2 
+The truss shown is supported by a pin at L and a roller at F. Indicate the zero-force members in the truss, 
+if any.  
+(a) Determine the force in members BC, CH, DH and HK, and indicate whether they are in tension or 
+compression.  
+(b) Member EJ has a tension force of 125 kN and is to be constructed from steel having a solid 
+equilateral triangular cross-section of size a, which is readily available in 5 mm increment sizes. Knowing 
+that the yield stress for steel is 300 MPa, the load factor for axially loaded bars in tension is 1.25 and the 
+modulus of elasticity for steel is 200,000 MPa, determine dimension a for the required section. Also, 
+determine the elongation of member EJ as designed. 
+
+Answers: 
+
+FBC = 0 kN 
+FCH = 80.0 kN (Compression) 
+FDH = 75.0 kN (Tension) 
+FHK = 75.0 kN (Compression) 
+
+a = 35.0 mm 
+DEJ = +2.95 mm 
+
+Question 3 
+The long dam and pedestrian walkway ABCDE is made of continuous (perpendicular to the page) 
+rigid walls and slabs ABC and CDE, which are continuously pinned at A, C and E. The structure 
+separates and retains salt water to the left of the vertical wall AB and fresh water to the right of 
+
+the vertical wall DE. Neglecting the self-
+weight of the structure as well as that 
+of the people walking on it, determine 
+the reaction force components at pins A 
+and E. The density of salt water is 1,050 
+kg/m3. 
+
+Answers: 
+
+Ax = 10.03 kN/m 
+Ay = 39.6 kN/m 
+
+ Ex = 140.3 kN/m 
+ Ey = 39.6 kN/m 
+
+Question 4 
+As an engineer in a consulting firm you have been tasked to verify the design of beam ABCDE 
+subject to the loads illustrated, which was performed by a younger colleague. Member EFG is 
+attached rigidly to the beam at E. For this purpose, you have to: 
+(a) Draw the shear force and bending moment diagrams for the beam in the space reserved 
+below, indicating the values at points A, B, C, D and E, as well as any potential local maxima or 
+minima.  
+(b) Your colleague has proposed a solid rectangular cross-section for the beam with a circular hole 
+at the bottom for electrical conduits, as shown. The beam is constructed of Grade 6061-T4 
+aluminium with a yield stress of 110 MPa and the required load factor for flexure is 1.5. Determine 
+if the beam proposed is safe. The second moment of area for circular areas is (πr4)⁄4, where r is 
+the radius of the circle. 
+
+Question 5 
+Determine the reaction force components 
+at pins A and G, for the structure illustrated. 
+Member BE is attached rigidly to member 
+ABCD, at B, and member CFG is pinned to 
+member ABCD, at C. Neglect the mass of 
+the members and frictionless pulley. 
+
+Answers: 
+
+Ax = 241 N 
+Ay = 195.8 N 
+
+Gx = 441 N 
+Gy = 686 N 
+
+[kN] 
+
+[kNm] 
+
+Answers: 
+
+smax = 105.3 MPa 
+The beam is safe.	
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,261 @@
+Name: ________________________________ 
+
+Student number:_______________________ 
+
+MAT 186 
+Quiz 5 
+
+1.  Using Leibniz notation, find the derivative of 𝒚 = 𝐭𝐚𝐧𝟐(𝒙𝟑 + 𝟐𝒙) .    
+
+CS6 
+
+tan2(𝑥3 + 2𝑥) =
+
+𝑑
+𝑑𝑥
+= 2 tan(𝑥3 + 2𝑥) ⋅ sec2(𝑥3 + 2𝑥) ⋅ (3𝑥2 + 2) 
+
+𝑑 tan2(𝑥3 + 2𝑥)
+𝑑 tan(𝑥3 + 2𝑥)
+
+𝑑 tan(𝑥3 + 2𝑥)
+𝑑 (𝑥3 + 2𝑥)
+
+⋅
+
+𝑑 (𝑥3 + 2𝑥)
+𝑑𝑥
+
+⋅
+
+1.  Evaluate 𝐥𝐢𝐦
+𝒙→𝟐
+
+|𝟑𝒙𝟐−𝟓𝒙−𝟐|
+𝒙𝟐−𝟒𝒙+𝟒
+
+  . 
+
+AB4  CS3 
+
+We need to look at the numerator as 𝑥 approaches 2.  Notice that the polynomial has two roots and 
+so we can be more precise about where it is positive and where it is negative over the entire number 
+line, but all we actually need is what happens near 𝑥 = 2. 
+
+|3𝑥2 − 5𝑥 − 2| = |(𝑥 − 2)(3𝑥 + 1)| 
+
+= {
+
+(𝑥 − 2)(3𝑥 + 1),
+𝑥 > 2 𝑏𝑦 𝑎 𝑏𝑖𝑡
+−(𝑥 − 2)(3𝑥 + 1), 𝑥 < 2 𝑏𝑦 𝑎 𝑏𝑖𝑡
+
+Therefore, we can break up the limit into one-sided limits: 
+
+|3𝑥2 − 5𝑥 − 2|
+𝑥2 − 4𝑥 + 4
+
+lim
+𝑥→2+
+
+  = lim
+𝑥→2+
+
+(𝑥 − 2)(3𝑥 + 1)
+(𝑥 − 2)2
+
+  = lim
+𝑥→2+
+
+3𝑥 + 1
+𝑥 − 2
+
+  = [
+
+7
+0+] = +∞ 
+
+|3𝑥2 − 5𝑥 − 2|
+𝑥2 − 4𝑥 + 4
+
+lim
+𝑥→2−
+
+  = lim
+𝑥→2−
+
+−(𝑥 − 2)(3𝑥 + 1)
+(𝑥 − 2)2
+
+  = lim
+𝑥→2−
+
+−
+
+3𝑥 + 1
+𝑥 − 2
+
+  = [−
+
+7
+0−] = +∞ 
+
+The two sides are equal, so the two-sided limit is equal to +∞. 
+
+Continued on back. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Find the tangent line to 𝑥2𝑦 + ln2[(𝑥 + 2𝑦)3] = 3 + 3𝑥 + 𝑦 at (−1,1). 
+
+4.   A lamp of 8 foot height is standing on one side of a narrow street. On the opposite side, a 6 foot  
+
+tall person is walking at a rate of 3 feet per second. If the street is 8 feet 
+across, how fast is the person’s shadow lengthening two seconds 
+after walking directly across from the lamp? 
+
+CF9  CF10  CF11 
+
+CS7  MW3 
+
+The diagram above 
+note that it is three-dimensional, so we need to take a couple of cross-sections.   
+
+shows the situation – 
+
+First, we have the 𝑥𝑦 − plane (the street itself): there is a right-angle triangle on the road, with a height (the 
+width of the road) of 8, the distance between the person and the point opposite the lamppost (a variable 𝑥), 
+
+and the distance between the post and the man, 𝑎.  We will evaluate these with the data that 
+
+𝑑𝑥
+𝑑𝑡
+
+= 3 and 𝑥 =
+
+3
+
+𝑓𝑡
+𝑠𝑒𝑐
+
+⋅ 2 𝑠𝑒𝑐 =  6 𝑓𝑡. 
+
+So, 82 + 𝑥2 = 𝑎2.  We can take a derivative with respect to time, 𝒕, to get: 
+
+0 + 2𝑥
+
+𝑑𝑥
+𝑑𝑡
+𝑑𝑎
+𝑑𝑡
+
+= 2𝑎
+
+𝑑𝑎
+𝑑𝑡
+
+= (
+
+𝑥
+𝑎
+
+) ⋅
+
+𝑑𝑥
+𝑑𝑡
+
+At two seconds, we have 𝑎2 = 64 + 36 = 100, so 𝑎 = 10 and 
+
+𝑑𝑎
+𝑑𝑡
+
+=
+
+6
+10
+
+⋅ 3 =
+
+9
+5
+
+. 
+
+Meanwhile, we also have the vertical cross-section that includes the post and the person.  This plane has two 
+similar triangles (poorly drawn above and to the right).  One is the triangle whose height is the person and 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+base is the shadow; the other has the lamppost as its height, and with a base equal to the shadow plus the 
+distance between the person and the post (i.e., 𝑎 + 𝑏).  We have: 
+
+=
+
+𝑎 + 𝑏
+8
+
+𝑏
+6
+𝑏 = 3𝑎 
+    TDBS”𝑡” 
+
+𝑑𝑏
+𝑑𝑡
+
+= 3
+
+𝑑𝑎
+𝑑𝑡
+9
+5
+
+𝑑𝑏
+𝑑𝑡
+
+|
+
+𝑡=2
+
+= 3 ⋅
+
+=
+
+27
+5
+
+𝑓𝑡
+𝑠𝑒𝑐
+
+ 
+ 
+ 
+ 
+  
+ 
+

@@ -1,0 +1,582 @@
+University of Toronto, Faculty of Applied Science and Engineering 
+APS112 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Jason Bazylak  
+Communication Coordinator: Ted Nolan 
+Team Coordinator: Patricia Sheridan 
+Instructors: Ted Nolan, Tome Kosteski, and Patricia Sheridan 
+Midterm Examination 
+ Start: February 02, 2021, 6am EST (Toronto Time) 
+Finish: February 02, 2021, 6pm EST (Toronto Time) 
+
+Declaration 
+In submitting this assessment, I confirm that my conduct during this exam adheres to the Code of 
+Behaviour on Academic Matters. I confirm that I did NOT act in such a way that would constitute 
+cheating, misrepresentation, or unfairness, including but not limited to, using unauthorized aids and 
+assistance, impersonating another person, and committing plagiarism. I pledge upon my honour that 
+I have not violated the Faculty of Applied Science & Engineering’s Honour Code during this 
+assessment. 
+
+[No signature is required; agreement is indicated by submission of the exam] 
+
+Turnitin 
+When you submit your exam answers and you select, “I agree to the tool’s End-User Licence 
+Agreement. This assignment submission is my own, original work.” Your midterm answers will then 
+be submitted to Turnitin.com, a software package licensed by the University of Toronto. This 
+software will search for textual similarities between all midterm answers in the course for the 
+purposes of detecting plagiarism. 
+
+Midterm Instructions  
+
+  We estimate this midterm will take 60-minute to complete the five questions.  
+  Type X: An “open book” examination. The candidate may bring to the examination and use, 
+
+any books, notes or other printed or written material, without restriction. 
+
+While you are free to access any of these resources, the midterm is still intended as an 
+individual evaluation. As such you are not to communicate with anyone outside of the 
+teaching team regarding the exam until after the close of the exam.  
+
+  Type your responses directly into this exam booklet. Answer each question only on the page 
+
+on which the question is written. The markers will only mark one page per question.  
+  The word count indicates our expectations for each question, but it is not an enforced word 
+limit. We want you to get to the point and not ramble, but also do not spend excessive time 
+editing for concision.  
+
+  The marks listed on each question indicate our expectations. 
+  You can submit your completed exam booklet as a .docx or PDF into Quercus as per the 
+
+instructions below.  
+
+  Remember to save your work frequently! Good luck!  
+
+Part 1: Writing the Exam 
+
+1.  Download the exam booklet (.docx) to your computer. There is also a .PDF version of this 
+
+exam supplied only to have a fixed reference for the formatting. Do not write your answers 
+into that file.  
+
+2.  Rename the exam answer booklet to the following where you insert your name and student 
+
+number for the placeholders. 
+
+ 
+APS112_Midterm_First name_Last name_Student number 
+
+APS113 students should use “APS113” in place of “APS112” in the naming convention. 
+
+3.  Answer all questions by typing directly into this exam booklet. Be sure to save the document 
+
+frequently as you work.  
+
+Note: Completing the exam answer booklet does not in itself constitute submission of the exam. You 
+must submit in Part 2: Submitting the Exam.  
+
+Part 2: Submitting the Exam 
+Once you have completed the exam answer booklet in Part 1: Writing the Exam, you must submit it. 
+You must do this through Quercus. DO NOT email the files to us. The process of submitting your 
+exam through Quercus is detailed below.  
+
+The exam submission deadline is 6 pm EST (Toronto time). DO NOT wait until the last minute to 
+start submitting your exam. Submit is as early as possible to allow you to seek technical assistance if 
+you have any technical difficulties.  
+
+To submit your exam booklet (.docx or PDF) into Quercus. 
+
+1.  Click on Submit Assignment. 
+2.  Click on Choose File and then select your completed exam booklet file (.docx or PDF) 
+
+(APS112_Midterm_First name_Last name_Student number). 
+
+3.  Check off the box “I agree to the tool’s End-User Licence Agreement. This assignment 
+
+submission is my own, original work.”  
+
+4.  Click on Submit Assignment. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Midterm Questions  
+
+Q1: Project Management 
+
+A project with eight tasks has a Gantt Chart as shown on the next page in Figure 1. The Gantt Chart 
+has the task identification number (ID #), the start date for each task, end date of each task, duration 
+for each task. Tasks dependencies are also illustrated in the Gantt Chart. The task descriptions are 
+removed so that their description does not influence your decision process. Note that any person in 
+the team can complete any task in the chart. Task ID#8 requires two people while all other tasks 
+require only one person. Please answer the questions that appear on the pages following the Gantt 
+Chart. 
+
+***DO NOT ANSWER ON THIS PAGE. ANSWER ON THE PAGES FOLLOWING THE GANTT CHART 
+UNDER THE QUESTIONS. WORK ON THIS PAGE WILL NOT BE MARKED.*** 
+
+ 
+ 
+Figure 1 Gantt Chart for Question 1. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Blank page on update version of midterm 
+
+ 
+a.  [3 marks] In the ESP Status Report (see Table 1) fill in the task number and due date for 
+
+each task shown on the Gantt chart in Figure 1. You do not have to fill in task name, person 
+assigned, outcome, or date completed. 
+
+2 marks for #s, 1 mark for dates due 
+
+Table 1: ESP Status Report 
+
+#  Task Name 
+
+Person Assigned 
+
+Date Due 
+
+Date Completed 
+
+13/06/2021 
+
+16/06/2021 
+
+20/06/2021 
+
+21(22)/06/2021 
+
+22(23)/06/2021 
+
+24(25)/06/2021 
+
+28(29)/06/2021 
+
+22/06/2021 
+
+1 
+
+Outcome:  
+
+2 
+
+Outcome:  
+
+3 
+
+Outcome:  
+
+4 
+
+Outcome: 
+
+5 
+
+Outcome: 
+
+6 
+
+Outcome:  
+
+7 
+
+Outcome:  
+
+8 
+
+Outcome:  
+
+Outcome:  
+
+Outcome:  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.  [5 marks] What is the minimum number of workers required to finish this project and 
+
+justify your result? (demonstrate your structured thinking and justify your answer with a 
+word count of 100 words) 
+
+After looking over the Gantt Chart we see that there are overlapping tasks, the worst case is 
+
+Task 3 -> 4,5,8:  Task 8 requires 2 persons and Task 5 overlaps Task 8 so we have 3 persons 
+
+Now looking backward in time from task 4  
+
+Task 1 -> Task 2 -> Task 3 are independent, and follow a predecessor—successor relationship 
+so no new persons are need as one of the 3 or each of the 3 can do the tasks 
+
+Looking forward in time from Task 5 
+
+No overlap, existing team members can carry out the tasks 
+
+Team size is 3 
+
+OR 
+
+Shift Task 7 left and then shift Task 8 to the right  Team size is 2 AND milestone is improved. 
+
+2 marks for recognizing task relationships. 
+
+2 marks for recognizing work distribution. 
+
+1 mark for any Team size. 
+
+c. 
+
+[5 marks] You are asked to speed up the delivery time. The Vice President gives you an 
+additional team member so that your new team size is your result from Part (b) plus one. 
+You cannot change any task durations nor any dependencies. Provide a written explanation 
+as to whether you can speed up the delivery time (and by how much time) with the new 
+team member or you cannot speed up the delivery time with the new team member. 
+(demonstrate your structured thinking and justify your answer with a word count of 180 
+words). 
+
+First we look at “finding time” 
+Task 7 is the final task in the plan.  It can be moved up by two days because it has a time gap with its 
+predecessor.  Looking at the Gantt Chart, Tasks 1, 2 and 3 are pinned due to their dependencies and 
+there is no time gap in their start dates.  As such, there is no room for improvement in time and 
+adding personal also does not speed things up. Tasks 4, 5, 6 also have no time gap before their start 
+date and the end date of their predecessor. 
+Second we look at personnel needs 
+If we shift Task 7, we have a new overlap with Task 6.  Since each task requires one person 
+(therefore two in total).  If Task 8 is shifted right, there is no task overlap, only 2 team members are 
+needed. 
+Conclusion: Extra member not needed.   
+
+2 marks analysis of time analysis 
+2 marks team size analysis 
+1 mark that additional team member has no impact  OR save time and lose one team member 
+
+ 
+ 
+ 
+ 
+ 
+ 
+d.  [8 marks] Draw a new Gantt Chart (you can cut and paste from software or provide a clear and legible hand drawn sketch) if each person on your 
+team (from part a) can only work during their normal working hours (i.e. 9 am to 5 pm), no work during the weekend (assume that the Gantt Chart 
+in Figure 1 did permit weekend work), assume that there are no statutory holidays. Your team members work in the following times zones. The first 
+member is in Toronto, if you need more team members they are as follows; the second member is 14 hours ahead, the third member is 3 hours 
+behind, all remaining persons are 6 hours ahead. Your Gantt Chart must use Toronto time and day. Note that there may be a new deadline. 
+
+1 mark: Gantt chart with eight bar graphs 
+
+1 mark:  Task dependencies are the same as in Figure 1 
+
+1 mark: There are task numbers 
+
+1 mark: There are dates 
+
+1 mark: Bar graphs resemble Figure 1.  Note that some students may shift Task 7 and Task 8 for optimization and that is fine. 
+
+1 mark: Milestone is shown on the Gantt Chart 
+
+2 marks: Notes/arguments showing who/how each person is assigned to each task (is the student using random procedures or are they 
+thinking about using the best allocation of people to achieve the best milestone) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q2: Cost Estimation  
+
+You are working for a consulting company and you are asked to prepare an estimate for a 
+construction proposal. The project is in the pre-planning phase and you are required to submit the 
+estimate in just 15 minutes. The information you are given is that land will have to be purchased, the 
+building is an office building, the building will be 12 stories high, there will be underground parking, 
+each floor of the building will have a footprint of 20,000 ft2, and the construction project will be in 
+the GTA (Greater Toronto Area). To help you, the company provides you information on building 
+projects in Canada (See Appendix A and Appendix B at the end of this examination paper).  
+
+a.  [2 marks] What method of estimation is best suited for this request (demonstrate your 
+
+structured thinking and justify your answer with a word count of 25 words)? 
+Analogous.  Very little time available and Appendix A is best suited for analogous 
+estimates. 
+
+1 mark analogous (or any similar word) 
+1 mark for reasoning 
+
+b.  [4 marks] What is your estimate for the cost of land? (demonstrate your structured thinking 
+
+and justify your answer with a word count of 100 words) 
+
+From Appendix A, we only have land price.  
+Price for land in GTA ranges from $50/ft2 to $200/ft2.  Since we don’t have a location we can 
+choose a mid price of $125/ft2 (at this stage even using the price at the extremes will work since 
+they are of the same order as $125/ft2). 
+
+Cost = $125/ft2 * 20,000ft2 = $2,500,000 
+
+1 mark using Appendix A 
+1 mark recognizing cost range 
+1 mark justification for choosing a cost value  
+1 mark doing a proper calculation 
+              reasonable value is $ millions 
+
+c. 
+
+[4 marks] What is your estimate for the cost of the building? For simplicity in reading the 
+chart in the appendix, use a class A building and do not use any interior fitout. (demonstrate 
+your structured thinking and justify your answer with a word count of 55 words) 
+
+Using Appendix B, we have a range from $200/ft2 to $315/ft2 for each story using a rate for a 
+class A building between 5 to 30 stories.  For our order of magnitude use mid price of $263/ft2. 
+
+Building cost = $263/ft2 * 12 * 20,000 ft2 = $63,120,000 
+
+Note:  Students must use and recognize that 12 stories must be included. 
+1 mark using Appendix B 
+1 mark recognizing cost range 
+1 mark justification for choosing a cost value  
+1 mark doing a proper calculation 
+                reasonable value is $ tens of millions 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q3: Estimation  
+
+Students in the United States like to storm a football field after a victory. Answer the following 
+questions (Hint: You can search on the internet for the dimensions of an American college football 
+field): 
+
+a.  [3 marks] For a typical American college football field, estimate how many students can be 
+on the field using a 6 ft separation rule for person-to-person separation. (demonstrate your 
+structured thinking and justify your answer with a word count of 55 words) 
+
+1 mark sourcing size of football field: 320 ft x 160 ft playing (includes end zone) or other       
+students may include side lines and that is fine 
+
+1 mark determining how to model 6 ft separation:  circle, square, packing density of 
+circles are all reasonable 
+
+1 mark for a calculation: values of 1500 to 3000 students are possible 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.  [5 marks] Estimate the number of students on the American football field in the picture in 
+Figure 2. (demonstrate your structured thinking and justify your answer with a word count 
+of 55 words) 
+
+Figure 2 Picture of students storming a football. 
+
+1 mark:  Using the hash marks on the field (each are 1 yard) 
+
+1 mark:  Notice that the students are closely packed together but not on the entire field 
+
+1 mark: estimating how closely people can be packed in an area 
+
+1 mark: estimating how much of the field is closely packed 
+
+1 mark: calculation of result  ( 9,500 students is the ballpark) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q4: Teamwork 
+When working in a team, different members bring different work styles to the team. Imagine a team of 5 
+students who describe themselves as: an Amiable, an Analytical, two Expressives and a Driver. One of the 
+Expressive team members, notices that the Driver team member is struggling to work with the Amiable 
+team member. 
+
+This question builds off of the lecturette on leveraging difference. The video in the last 12 minutes 
+discusses tensions between styles and how they might manifest in a design team. There is an 
+accompanying “inventory” handout which has descriptions of the styles and some of their 
+strengths/weaknesses in the subsequent pages. These will be most helpful for getting a sense of the 
+content being tested.  
+
+a. 
+
+[4 marks] What is a (one) challenge the driver and amiable team member might have working 
+together? [100 words or less] 
+
+The driver will want to move forward and get results faster than the amiable may be comfortable 
+with. The amiable may want to spend more time in discussion ensuring everyone’s voice is being 
+heard and that they reach consensus than the driver likes.  
+The challenge will boil down to some tension between Driver{efficiency, progress, results/product 
+focus} and Amiable{consensus, inclusion, people focused).  
+2 marks for clearly stating what the challenge is, and 2 marks for explaining why it would occur 
+between a driver and an amiable.  
+
+b. 
+
+[3 marks] What is one way of working the team could implement to mitigate this challenge? [60 
+words or less] 
+
+Many possibilities:  
+
+Set time for reaching consensus, and a contingency plan for if it isn’t met  
+ 
+  Have the team come to the meetings with their ideas/arguments prepped in 
+advance so that the whole meeting can focus on discussion  
+  Review and agree upon the importance of the decision so that it can determine 
+how much time to spend on it  
+
+As long as the way of working addresses the way the student has articulated the tension 
+presented in 1, its fine.  
+
+3 marks – 1 mark for being specific and having a clear process, 1 mark for whether it addresses the 
+challenge presented in part 1, 1 mark for explanation of why.  
+
+c. 
+
+[4 marks] How can the Expressive team member who noticed the challenge, leverage their style 
+to mitigate it? [60 words or less] 
+Expressives focus on ideas and love discussion, they often will come up with out of the box 
+ways to solve problems and don’t mind confrontation. Amiables, are less comfortable with 
+confrontation.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The expressive could identify the challenge to the team and begin brainstorming ways to 
+address it, taking over the discussion.  
+
+The expressive (who likes a blend of product and people focus) could monitor the 
+conversation to ensure both perspectives are brought to the table.  
+
+Because they are attuned to the emotional dynamics of the team, they could speak to the 
+team members individually to find out how to address it.  
+
+2 marks for clearly stating what the approach is, and 2 marks for explaining why it 
+would come from an Expressive  
+
+Appendix A: Land Prices 
+
+Figure A Land price in $/ft2 footprint for new construction.2018 Canadian Cost Guide, Altus Group. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B: Construction Costs 
+
+Figure B. Construction costs for a variety of building types in various regions and cities in Canada.2018 Canadian Cost Guide, Altus Group. 
+
+ 
+ 
+ 
+

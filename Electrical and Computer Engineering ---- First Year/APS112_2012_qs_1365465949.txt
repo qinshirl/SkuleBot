@@ -1,0 +1,463 @@
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice II 
+
+Quiz #1 February 14, 2012 
+
+This is a 50-minute closed-book quiz. No aids are permitted except for a translation-only 
+dictionary. The quiz has a total of 22 questions. There are 18 multiple choice questions and 4 
+written answer questions. There are a total of 34 marks with 18 marks for the multiple choice 
+questions and 16 marks for the written questions.  
+
+Your question paper, with your name and student number filled in on each page, must be 
+returned with the multiple choice answer sheet slipped inside.  
+
+Good Luck! 
+
+Multiple Choice Questions (1 mark each; total of 18 marks) 
+For multiple choice questions, you must use the multiple choice answer sheet provided. Follow 
+the directions on the sheet carefully to ensure that you receive marks for the correct answer. You 
+should mark only the single, most correct answer for each question. Always mark the answer 
+in the spot corresponding to the question number. Use a pencil. Erase any errors completely. 
+There is no deduction for wrong answers. 
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 1 of 8 
+
+   
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+1.  Which of the following is FALSE: 
+
+a.  Project Management precedes any technical work. 
+b.  Project Management continues after technical work is done. 
+c.  There is overlap between the various stages of Project Management in an actual 
+
+project. 
+
+d.  The control stage is limited to the technical execution of the project. 
+e.  Project Management is often done badly. 
+
+2.  Which of the following is FALSE: 
+
+a.  All projects can be represented by either “Activity on the Node” but not by 
+
+“Activity on the Arrow”. 
+
+b.  Activity on the Arrow representations sometimes require dummy tasks to 
+
+properly represent the precedence of one task by another. 
+
+c.  Typically a work breakdown structure would be developed before putting 
+
+together an “Activity on the Node” graph. 
+
+d.  A completed Gantt chart includes all the information that would be in an 
+
+“Activity on the Node” graph. 
+
+e.  This is option e. 
+
+3.  An ESP team consists of three people: Archie, Betty and Jughead. Which of the following 
+
+is FALSE: 
+
+a.  Each person should be assigned as an individual resource. 
+b.  Tasks assigned to all three people should be assigned to resource “team” on the 
+
+Gantt chart. 
+
+c.  Because the deliverables for ESP are assigned to specific dates and the resources 
+will not be working 100% on ESP before those dates, one would not expect to see 
+a highlighted critical path from the Microsoft Project ® software. 
+
+d.  Overallocation can occur if the leveling is set to manual. 
+e.  If someone assigned to a task has only two days to work on the task to meet the 
+
+deadline, you should still set the duration based on the estimated time the task will 
+actually take, even if this means the deadline will not be met. 
+
+4.  Consider the following: 
+
+1.  Sharpen your skates 
+2.  Play a hockey game 
+3.  Play defense 
+4.  Tape your hockey stick (put friction tape onto the blade) 
+5.  Score a goal 
+
+Which is the full list of properly-formed tasks: 
+a.  1,2,5 
+b.  1,4 
+c.  1,4,5 
+d.  2,3 
+e.  2,3,5 
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 2 of 8 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+Figure 1: I’m Building a Birdhouse Gantt chart 
+
+Questions 5 - 8 refer to the project in the Gantt chart in figure 1. 
+
+5.  Task #1, “Design birdhouse”, has a duration of 2 days, yet the bar covers 4 days. Why is 
+
+this? 
+
+a.  The task is on the critical path. 
+b.  The task is done over the weekend and I don’t work weekends. 
+c.  The task is done over the weekend, and the calendar used for me indicates I don’t 
+
+work weekends. 
+
+d.  The task was leveled, and this extended the amount of elapsed time required. 
+e.  This task has two days of slack. 
+
+6.  Which of these statements about task #7, “Done”, is TRUE: 
+
+a.  The representation in the chart is a diamond because it is the last task. 
+b.  6FS+1 in “Predecessors” indicates a lag of one day before this task. 
+c.  The task start date is independent of all of the other tasks. 
+d.  The task is not on the critical path. 
+e.  The task start cannot be moved. 
+
+7.  If we level resources the birdhouse will be done on 
+
+a.  Friday, Mar 2 
+b.  Sunday, Mar 4 
+c.  Monday, Mar 5 
+d.  Tuesday, Mar 6 
+e.  Wednesday, Mar 7 
+
+8.  I get a friend to help me with the purchasing, but the friend might take a day or two to get 
+started on the task after getting instructions on what to buy. Which task should you assign 
+her/him to allow the project to finish as shown on the chart? 
+
+a.  1 
+b.  2 
+c.  3 
+d.  4 
+e.  5 
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 3 of 8 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+Questions 9 – 11 refer to Client Statement #1. 
+
+Client Statement #1 
+Portatech Diversions is seeking an interactive projection system that allows users to project touch 
+screens on any surface and interact with the projection as they would with the original device. 
+This would allow users to input more easily on smart phones, iPhones and other hand-held 
+devices with small screens that limit the size of buttons. The projection, which would have to be 
+visible outdoors in full sunlight, will allow users to dial phone numbers, play games, or text 
+messages (to name a few examples). [1] 
+
+ [1] P. Reso, "Innovation News Daily," 25 October 2011. [Online]. Available: 
+http://www.innovationnewsdaily.com/643-touch-and-tap-new-device-lets-users-use-anything-as-
+touchscreen.html. [Accessed 6 February 2012]. 
+
+9.  The fundamental functionality for the above problem would be: 
+
+a.  Deposit energy. 
+b.  Stabilize information. 
+c.  Transform energy. 
+d.  Separate mass. 
+e.  Transform information. 
+
+10. Which of the following statements about stakeholders and their interests is best? 
+
+a.  Manufacturers – interest is improving their smart phones. 
+b.  Users – interest is in bigger buttons on their hand-held devices. 
+c.  Government agencies – interest is in protecting intellectual property. 
+d.  Non-governmental agencies – interest is using new technology to project 
+
+information. 
+
+e.  Eye doctors – interest is in preventing harm caused by bright projections. 
+
+11. An appropriate constraint for the above problem would be: 
+
+a.  Projected buttons shall be 2 cm by 2 cm in size. 
+b.  Projections shall be completely visible in direct sunlight. 
+c.  Projections shall be safe and non-toxic. 
+d.  Projection brightness shall be at least 1300 lumens. 
+e.  Projection capability shall be applicable to all smart phone designs. 
+
+12. Your team of Archie, Betty and Jughead has completed the PR/PMP, but not without 
+
+conflict. Betty and Jughead have stopped talking to each other and you decide you had 
+better mediate the conflict before you all fail your CDS. The first step you should take is: 
+
+a.  Separate individuals from issues. 
+b.  Move from the storming stage to the norming stage. 
+c.  Develop criteria for selecting an option. 
+d.  Create list of pro’s and con’s to continuing as a team. 
+e.  Request a mediation session with your Project Manager. 
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 4 of 8 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+13. You are searching for a highly specialized diamond tipped cutter for cutting granite 
+
+countertops. It is not the type of thing that could be found at the local hardware store. You 
+should: 
+
+a.  Use an industrial database like Thomas Register or Global Spec. 
+b.  Find a Wikipedia article on cutting wheels.  
+c.  Do a Google search for “diamond tip cutters” 
+d.  Review the patent literature to learn about cutters.  
+e.  Start by brainstorming new designs for cutters before doing any homework. 
+
+14. Although the belt sander-based paper folder demonstrated in lecture did work, it 
+
+ultimately was a poor design compared to a buckle folder. In attempting to produce an 
+optimum design for a machine like this, the design engineer should: 
+
+a.  Attempt to mimic manual methods as a starting point for the design. 
+b.  Not review the prior art to avoid restricting creativity. 
+c.  Prototype a machine using simple components like Meccano or Lego. 
+d.  Strive for simplicity in the conceptual design. 
+e.  Strive for simplicity in the final implementation of the design.  
+
+15. You are trying to make a safe saw for cutting plaster casts used in a hospital when people 
+break their bones. The best solution for dealing with the hazard of cutting the underlying 
+skin is: 
+
+a.  Design a guard that fits between the cast and skin to keep the blade from touching 
+
+the skin.  
+
+b.  Train the doctors to set the blade depth to just less than the thickness of the 
+
+plaster. 
+
+c.  Give the patient painkillers just in case the saw cuts them.  
+d.  Switch from plaster to fiberglass, which can be cut with shears. 
+e.  Design a saw that vibrates and cuts plaster but not skin.  
+
+16. Design by analogy (Synectics) is a useful technique for deriving creative solutions. In 
+
+designing a new helicopter blade, it would be reasonable for an experienced designer to:  
+
+a.  Draw inspiration from nature by looking at bird wings and whale flippers. 
+b.  Look at other stiff, light structures like snowboards. 
+c.  Survey the patent literature for the latest developments in helicopter blade 
+
+technology. 
+
+d.  Do a functional breakdown to determine the various sub-functions performed by 
+
+the blade. 
+
+e.  All of the above.  
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 5 of 8 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+17. In choosing the best conceptual design solution, which of the following is FALSE? 
+
+a.  The advantage of a Pugh Selection method is that it allows for a direct comparison 
+
+between alternatives. 
+
+b.  The advantage of a weighted decision matrix is that it provides a quantitative 
+
+comparison between alternatives.  
+
+c.  It is not a good idea to leave the decision to the most technically competent 
+
+member of the design group.  
+
+d.  The conceptual designs should be presented to the client, who should choose one 
+
+that meets his/her needs the best.  
+
+e.  Formal decision making tools are good because they can compensate for 
+
+individual bias.  
+
+18. Which is an appropriate introduction to the functions section of your PR/PMP? 
+
+a.  Functions are what a design shall do or else the design fails.  
+b.  Functions are what define the design space of a project. They are classified as 
+
+primary, secondary and unintended. 
+
+c.  See the glossary in Appendix T for the definition of a function. 
+d.  In order to solve your problem our solution will need to do the following. 
+e.  The fundamental function of your required design is to increase the efficiency of 
+
+mass flow through your office space. In the following sections this flow of mass is 
+broken down into several basic functions. 
+
+Written Answer (marks per question as indicated on question; 16 marks total) 
+
+Written questions must be answered in the spaces provided on the question paper. 
+
+19. (3 MARKS) [This question pertains to the Gantt chart in Figure 1 on page 3] 
+
+Assuming that the friend helps and that the original Gantt chart has the proper start times 
+for all tasks, the lag time that was added before the “Done” milestone to allow the glue to 
+dry has forced the time of the milestone to be on the Monday. In fact, for one day of 
+drying, the project is done on the Saturday. How can we adjust the duration (or time) 
+designation of the lag so it reflects the true glue drying time? 
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 6 of 8 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+Questions 20- 22 refer to Client Statement #2.  
+
+Client Statement #2 
+
+Your client is putting up a new airport terminal in Boston. The terminal will be located 800 
+metres from the existing terminal and 10,000 passengers are expected to move between the two 
+terminals each day. You are to design a system for moving people between the two terminals at 
+minimum capital (initial) cost and minimal operating cost. All options are open for consideration.  
+
+20. (5 MARKS) Give one intended function, one unintended and undesirable function, two 
+
+objectives and one constraint for this problem. 
+
+FUNCTIONS: 
+
+OBJECTIVES: 
+
+CONSTRAINTS: 
+
+21. (3 MARKS) Identify 3 stakeholders. In less than 5 words define an interest of theirs that 
+
+might be affected by the design. 
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 7 of 8 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+Student #: ____________________________ 
+
+22. (5 MARKS) Use a functional decomposition approach to find a suitable conceptual 
+design for the people mover. Full marks will be given only for a reasonably simple, 
+feasible solution, and provided that a good functional decomposition has been used.  You 
+may assume that you already have a properly ranked list of objectives, and a complete list 
+of functions and constraints.  You are to focus on the creative process of finding an actual 
+solution and the method needed to find the best one. 
+
+APS112 & APS113 – Quiz #1 – 2012 
+
+Page 8 of 8 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+

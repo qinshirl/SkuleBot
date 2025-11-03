@@ -1,0 +1,625 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS111 & APS113 Engineering Strategies and Practice 
+Lecture Sections 01 & 02 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Instructors: Susan McCahan, Ted Nolan, Jason Bazylak and Peter Weiss 
+
+Midterm Examination 
+November 8, 2018 
+7:20 pm to 8:30 pm 
+
+It is a multiple choice midterm and is closed book.  
+
+Instructions: 
+•  This is a 70 minute midterm with 35 questions.  
+• 
+•  No aids are permitted.  
+•  Read each question thoroughly and provide the answer on the answer sheet.  
+•  Select the answer that best satisfies the question.  
+•  Be sure to fill out the answer sheet clearly with no overlaps.  
+•  Fill out the answer sheet using a pencil. Erase any errors completely.  
+•  Provide only 1 answer per question  
+•  Each correct answer is worth 1 mark. There is no deduction for wrong answers.  
+•  You may tear off the appendix to ease the answering of questions. 
+•  You are not required to hand in this exam question booklet; you are required to hand 
+
+in the answer sheet. 
+
+1 of 10 
+
+ 
+ 
+ 
+ 
+1.  In his interview, James Teh, accessibly engineer for Mozilla, states that an ideal 
+outcome for accessible interface design would be “that the semantic has been 
+communicated.” In the context of the Tanvas project, what Objective best captures 
+that outcome? 
+a.  The user should understand the information provided by the haptic feedback. 
+b.  The semantic meaning provided by the app should be clear. 
+c.  The app should clearly communicate the users’ desired haptic-semantic 
+
+meaning. 
+
+d.  The haptic feedback should be clearly connected to the operations of the app. 
+
+2.  Which is a recognized principle of Universal Design?  
+
+a.  Tolerance for error 
+b.  Adherence to applicable design standards 
+c.  Creating a custom design targeting the needs of a specific user group  
+d.  None of the above 
+
+3.  What is the difference between a Client Statement and a Problem Statement? 
+
+a.  There is no difference. They are synonyms for the document that is the input into 
+
+the Design Brief. 
+
+b.  The Client Statement is written with the Client’s needs in mind, whereas the 
+
+Problem Statement is written with the Client’s wants in mind. 
+
+c.  A Problem Statement is used as a source to write the Client Statement.  
+d.  A Client Statement often contains implied solutions, whereas a Problem 
+
+Statement must be solution independent. 
+
+4.  If a client requests, “a bag that attaches to my wheelchair so I can carry groceries 
+home from the store easier,” what is an acceptable underlying statement of need.  
+a.  The client needs a means to get groceries home. 
+b.  The client needs a means of securely attaching things to their wheelchair. 
+c.  The client needs a bag for transporting groceries. 
+d.  All of the above. 
+
+5.  Which would have been an appropriate question to ask Ed Colgate in a client 
+
+interview? 
+a.  Is Tanvas required to adhere to the Americans with Disabilities Act? 
+b.  Can you explain Universal Design principles? 
+c.  What inspired you to create Tanvas? 
+d.  What are some technical limitations of the Tanvas hardware? 
+
+2 of 10 
+
+ 
+6.  Secondary functions are: 
+
+a.  Functions that are designed after the Primary Functions are done. 
+b.  Less important than the Primary Functions. 
+c.  Functions that enable the Primary Functions. 
+d.  More like Objectives than Primary Functions because they have measurable 
+
+goals. 
+
+7.  One of the requirements of Objectives is that they be testable; to do this before the 
+
+CDS you have to: 
+a.  Determine measurable Objectives that allow you to calculate or estimate.  
+b.  Create prototypes for all possible solutions.  
+c.  Use surveys of people you know to test your ideas. 
+d.  Find the most dramatic figurative language to sell your design. 
+
+8.  A thorough Team Charter is critical to the success of a team because it: 
+
+a.  Enforces team rules. 
+b.  Is a tool for communicating and negotiating team expectations. 
+c.  Keeps team member from getting away with being late. 
+d.  Ensures all team members meet a minimum level of technical competency. 
+
+9.  According to Google, which factor best predicts team success among its 
+
+employees? 
+a.  The intelligence of team members. 
+b.  The level of experience with the subject. 
+c.  A sense of comfort and security with a team. 
+d.  The personalities of the team members. 
+
+10. A good Service Environment description: 
+
+a.  Allows the team to create a more complete set of requirements. 
+b.  Adds new requirements that are not in the functions, objectives, or constraints 
+
+sections. 
+
+c.  Allows the team to organize the requirements more efficiently. 
+d.  Effectively explains how the design will operate in the environment for which it 
+
+was designed. 
+
+11. The sections of a Project Requirements serve the following purpose: 
+
+a.  To create excitement about the design. 
+b.  To set a target everyone can work toward. 
+c.  To accumulate as much information as possible. 
+d.  To repeat back to the client exactly what is in the client statement. 
+
+3 of 10 
+
+ 
+ 
+12. Spacex is planning to use its interplanetary spacecraft for travel around the earth, 
+
+promising flight time as a fraction of what it is today – e.g. New York to Shanghai in 
+39 minutes. One stakeholder for this project would be: 
+a.  Travellers who use the system. 
+b.  Navigators who determine flight paths. 
+c.  Astropilots who fly the craft. 
+d.  People who fish near the aquatic landing pads. 
+
+13. When ideating for a project, it is best to: 
+
+a.  Pick one method to use that you think best suits the project. 
+b.  Use two methods so you can check the solution ideas you got using the first 
+
+method by using the second one. 
+
+c.  Use a variety of the methods to try to get a wide variety of possible solutions. 
+d.  Use every method possible to show your client that you have all the possible 
+
+solutions. 
+
+14. Your design team has been tasked with revolutionizing the backpack industry. 
+
+During the ideation process you notice a trend that all your proposed designs center 
+around having a portable power bank for charging devices. You want your team to 
+consider different design approaches so you propose creating a temporary ban on 
+batteries when generating new ideas. This is an example of which creativity 
+method? 
+a.  SCAMPER 
+b.  Design Heuristics Cards 
+c.  Morph Charts 
+d.  Analogy 
+
+15. The class activity on storyboarding was used to provide an opportunity: 
+
+a.  To practice a method used frequently in industry for visioning and design. 
+b.  To create the design solution that you will recommend in your CDS. 
+c.  To create a prototype that you will use to test a design idea. 
+d.  For a fun activity to build teamwork. 
+
+16. After doing the storyboarding activity in class, your team should: 
+a.  Take the design ideas from class and put them in your CDS. 
+b.  Combine the ideas from class and others you have generated to put in your 
+
+CDS. 
+
+c.  Create prototypes for all of the ideas you have generated for your design project. 
+d.  Create some other user stories and pick some of them to prototype using 
+
+different design ideas. 
+
+4 of 10 
+
+ 
+ 
+17. Of the following, which is the biggest obstacle to Critical Thinking for ESP students? 
+
+a.  Too much texting and time on the internet. 
+b.  Awareness of their own values and bias. 
+c.  The belief that there is a correct answer. 
+d.  The second law of thermo-dynamics. 
+
+18. To make a sentence quick to understand, place the verb: 
+
+a.  As the first word of the sentence. 
+b.  At the end of the sentence. 
+c.  Near the middle of the sentence. 
+d.  As close to the start of the sentence as possible. 
+
+19. Your team has chosen a weather app for the Tanvas Project. One example of Scope 
+
+Creep would be: 
+a.  Make clothing recommendations based on the daily weather forecast. 
+b.  Allow the user to pick a location other than where they are.  
+c.  Texture the tablet surface to represent different weather conditions. 
+d.  Transmit information about the weather that is forecast later in the day. 
+
+20. What best describes an Executive Summary?  
+
+a.  It describes the problem.  
+b.  It introduces the document.  
+c.  It is a stand-alone document.  
+d.  It should be written first. 
+
+21. At what point in the Design process should stakeholder interests be considered?  
+
+a.  Framing the problem, determining requirements  
+b.  Solving the problem, designing solutions  
+c.  Implementing the solution  
+d.  All the above  
+
+Questions 22 to 35 pertain to the RFP - The Ultimate Student Jacket Challenge 
+located in the appendix of this booklet. 
+
+22. The best description of the Functional Basis for this design project is: 
+
+a.  Maintain moisture and store heat energy 
+b.  Maintain heat energy and sense temperature and moisture levels 
+c.  Control the transfer of moisture and maintain heat energy 
+d.  Combine energy and keep the user dry 
+
+5 of 10 
+
+ 
+23. For the given RFP, the best introduction to a Project Requirements would be: 
+
+a.  We are an ESP team commissioned by our client, a top-notch new outer-wear 
+
+maker, to create a dazzling line of new outer wear for people in the 18 to 80 age 
+range. With extensive research, we promise to come up with the ideal solution. 
+b.  Our client, Legion of the Toque, a new outer-wear company based in Toronto is 
+
+looking for a design for a coat that would be suitable for the range of local 
+weather conditions. The following report provides a foundation for our design 
+process, including the conditions the outer wear must withstand as well as 
+considerations that balance function and fashion. 
+
+c.  Our client, a fledgling outer wear company based in garment district of Toronto, 
+Canada called Legion of the Toque is looking to take the garment industry by 
+storm by refusing to adhere to the expected categories of clothing. 
+
+d.  Weather in the GTA can be truly horrible with temperatures recorded as low as  
+-31°C and as high as +38°C (www.currentresults.com), an average 130 cm of 
+snow, but a record of 207.4 in 1937-38 (National Post). Our client, Legion of the 
+Toque, has asked our ESP team to design a coat for all occasions and all kinds 
+of weather. 
+
+24. For the given RFP, the best introduction to the Detailed Requirements section would 
+
+be: 
+a.  In order to come up with a design that has a high WOW factor, our team has 
+
+used the black box method (see Appendix T) to arrive at the following functions, 
+objectives and constraints. 
+
+b.  The following section contains the functions of the design (what the design 
+
+should do), the objectives (what the design should be), and the constraints (what 
+the design must be). 
+
+c.  The scope of this project is to manage comfort in a coat. Comfort occurs when a 
+coat is warm at -40°C but cool at +10°C. It must also look good so that people 
+want to buy it. 
+
+d.  In considering a garment that would be comfortable at +10°C and also warm at -
+40°C, our team has decided to focus on finding a system that would transform 
+thermal energy and remain wearable.  
+
+25. For the given RFP, Line 42 most likely contains a(n): 
+
+a.  Functions 
+b.  Constraint 
+c.  Objective 
+d.  Implied solution 
+
+6 of 10 
+
+ 
+26. For the given RFP, Line 48 most likely contains a(n): 
+
+a.  Functions 
+b.  Constraint 
+c.  Objective 
+d.  Implied solution 
+
+27. For the given RFP, which line most likely contains a measurable Objective? 
+
+a.  Line 47 
+b.  Line 48 
+c.  Line 49 
+d.  Line 52 
+
+28. The Environment Canada website indicates that Toronto can experience -32.8ºC for 
+a daily high in January, and up to 40.6ºC in July. For the given RFP, which would be 
+the best point to include in the Service Environment section? 
+a.  The daily high temperature in Toronto in January can be a low as -32.8ºC. 
+b.  The maximum high temperature in Toronto in July is 40.6ºC. 
+c.  The temperature in Toronto has a range of over 70ºC from the highest 
+
+temperature in the summer to the lowest in the winter. 
+
+d.  The design should keep the user warm down to at least -32.8ºC. 
+
+29. For the given RFP, which line most likely contains an Objective Goal? 
+
+a.  Line 46 
+b.  Line 47 
+c.  Line 48 
+d.  Line 49 
+
+30. For the given RFP, Line 19 is most likely a(n): 
+
+a.  Fact  
+b.  Opinion 
+c.  Option  
+d.  Claim  
+
+31. Considering the given RFP, a team member with Critical Thinking Ability, would 
+consider the requirement of “a high WOW factor” and, at the client meeting: 
+a.  Assure the client that the team would do its utmost to satisfy that objective. 
+b.  Tell the client that figurative language is not permitted and so that objective 
+
+would not be addressed. 
+
+c.  Ask the client to explain that idea in order to find its measurable components. 
+d.  Say nothing to the client and ignore the suggested objective as “solution driven.” 
+
+7 of 10 
+
+ 
+32. For the given RFP, which of the following should NOT be listed as Stakeholders, 
+
+even though they have an interest, or stake, in the project?  
+a.  The Design Team  
+b.  Legion of the Toque  
+c.  UofT Engineering Students 
+d.  All of the above  
+
+33. For the given RFP, a Stakeholder would be: 
+a.  Other coat manufacturers in the GTA. 
+b.  Dry-cleaning companies. 
+c.  People who buy coats. 
+d.  Fashion magazines.  
+
+34. A good approach to Benchmarking for this project would be: 
+
+a.  Look at the winter coat you own and analyze what changes you might make to it 
+
+to better fit your needs. 
+
+b.  Go to a variety of stores or websites that sell outerwear and collect data on the 
+
+coats that are currently available. 
+
+c.  Watch someone using a coat in winter. Record the steps they take when storing 
+
+the coat in a locker, putting it on, and what they put in the pockets. 
+
+d.  Identify the inputs and outputs related to a coat. Record the information, energy 
+
+and mass that go into and out of a coat when it is being used. 
+
+35. For the given RFP, the best introduction to a Stakeholders section would be: 
+
+a.  The design has to take into consideration the entire life-cycle of the garment, 
+
+from the gathering of its raw materials, through manufacture, useful life and final 
+disposal. The following is a list of people or organizations who may be involved at 
+any step in this process. 
+
+b.  Stakeholders are people or organizations who are interested in the design. The 
+
+following list is in order of importance. 
+
+c.  The following list in order of importance shows stakeholders, who are people or 
+organizations who have a stake in the design. The stake may be economical, 
+physical or psychological. 
+
+d.  Stakeholders include any group of people who will be affected by the project. A 
+stakeholder’s interest is defined as the aspect of the stakeholder which will be 
+affected by the design. Interest implies that there may be a gain or loss to the 
+specific stakeholder. Rankings for stakeholders can be found in Appendix B. 
+
+End of questions that pertain to the RFP – The Ultimate Student Jacket Challenge 
+located in the appendix of this booklet. 
+There are no questions beyond this point 
+
+8 of 10 
+
+ 
+ 
+1 
+2 
+
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+
+19 
+20 
+21 
+
+22 
+
+23 
+
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+
+33 
+
+34 
+35 
+36 
+
+37 
+
+Appendix A: RFP: The Ultimate Student Jacket Challenge 
+
+Overview 
+Your days spent as a student are nothing like 
+your parents’ days, so why do you use the 
+same jacket? Running between classes 
+through crowded hallways and sprinting 
+jacket-less from building to building. Lugging 
+textbooks, laptop, tablet, and phone around 
+and trying to keep them charged. Cramming 
+everything into a locker. Power napping on the 
+commute. Searching for that pen you just had 
+a minute ago. Arriving for classes when its 
+bright, sunny and warm… leaving when it is 
+dark, cold and sleeting. No jacket out there 
+meets your needs…yet. The Ultimate Student 
+Jacket Challenge aims to find a jacket design 
+that meets the needs of the modern the UofT 
+Engineering student. 
+
+There are all sorts of jacket designs out there, but they are all focused on form rather than function. A 
+UofT engineering student is resilient, efficient and a multitasker, they need a jacket that keeps up with 
+them. You are to design that jacket.  
+
+The Current Situation 
+Current jackets on the market usually fall into one of several categories: 
+
+•  Extremely warm but are so bulky that they are hard to wear under a backpack and forget about 
+
+stuffing it into a locker. 
+•  More fashion than function.  
+
+•  Who makes jackets without pockets? Or worse made with pockets so small that your 
+
+phone falls out as soon as you raise your arm to grab the streetcar handle. 
+
+•  Look great but do not keep you warm. 
+
+•  Extremely portable but leave you frozen as soon as fall arrives. 
+•  Toasty warm until the first freezing rain and suddenly you are soaked to the bone and your 
+
+phone shorts out. 
+
+Who We Are 
+We are a fledgling outer wear company based in garment district of Toronto, Canada called Legion of 
+the Toque. We are looking to take the garment industry by storm by refusing to adhere to the expected 
+categories of clothing. For example, why can a fashionable jacket not be warm?! 
+
+9 of 10 
+
+ 
+The Challenge 
+Design a jacket that: 
+
+• 
+
+is wearable in all weather 
+
+•  Keeps you warm in -40°C [1], but not too warm to wear in 10°C. 
+•  Waterproof: Minimum rating of 10 Psi, so can be called moderately waterproof [2], 
+
+though the more waterproof the better. NOTE: Don’t forget that wet goose down is a 
+terrible insulator. 
+ Is appropriate for light activity such as running to catch the streetcar with an air 
+permeability of 8,000g/m2/24h [3]. 
+Is windproof. 
+
+• 
+
+• 
+
+the battery must be at least 20,000 mA·h [4]. 
+is environmentally friendly. 
+is equal or better in cost compared to the cost of a high-end winter coat. 
+
+• 
+• 
+• 
+•  has a carrying capacity of 7kg and 5L. 
+•  packable to less than 4L volume (without contents of the pockets) 
+
+We are looking for ideas that  
+
+• 
+• 
+
+• 
+• 
+
+have a high WOW-factor: “Consumers would do anything to get such a product” 
+we are legally able to sell in Canada. “We have limited funds and don’t want to spend it paying 
+royalties to a patent holder.” 
+have a high FEASIBILITY-factor: “A solution that can be implemented with current technology.” 
+look like a jacket. This is NOT called the Ultimate Giant Inflatable Bubble Challenge. 
+
+Reference List 
+
+[1] ASTM F2732-16 Standard Practice for Determining the Temperature Ratings for Cold Weather 
+Protective Clothing, ASTM International, West Conshohocken, PA, 2016, https://doi-
+org.myaccess.library.utoronto.ca/10.1520/F2732-16  
+
+[2] ASTM D3393-91(2014) Standard Specification for Coated Fabrics—Waterproofness, ASTM 
+International, West Conshohocken, PA, 2014, https://doi-
+org.myaccess.library.utoronto.ca/10.1520/D3393-91R14  
+
+[3] ASTM D737-18 Standard Test Method for Air Permeability of Textile Fabrics, ASTM International, 
+West Conshohocken, PA, 2018, https://doi-org.myaccess.library.utoronto.ca/10.1520/D0737-18  
+
+[4] Best Buy, “Results for portable power,” Best Buy Canada Ltd., 2018. [Online]. Available: 
+https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?query=portable%20power [Accessed: Nov 1, 
+2018]. 
+
+38 
+
+39 
+
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+
+53 
+
+54 
+55 
+56 
+57 
+58 
+
+59 
+
+60 
+61 
+62 
+
+63 
+64 
+65 
+
+66 
+67 
+
+68 
+69 
+70 
+
+71 
+
+72 
+
+Adapted from https://www.herox.com/BottleOpenerChallenge  
+
+10 of 10 
+
+ 
+ 
+

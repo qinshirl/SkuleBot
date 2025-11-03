@@ -1,0 +1,241 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+Quiz #2 April 11, 2017 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total 
+of 32 questions, worth 47 marks. The questions are divided between two booklets.  
+
+Question Booklet #2 – Short-Answer Question Booklet 
+
+First Name: 
+Last Name: 
+UTOR Email: 
+
+  @mail.utoronto.ca 
+
+There are 3 short-answer questions, worth 18 marks in total. These must be answered 
+in the spaces provided in this Short-Answer Question Booklet. This question booklet, 
+with your name and UTOR Email filled in, must be returned with the multiple-choice 
+answer sheet slipped inside. Do not separate any pages. Do not write on the QR code 
+at the top of the pages. We are not looking for long paragraph answers. Use short 
+sentences or bullet points. 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30. (6 MARKS) Using appropriate line types, draw a 
+
+multiview representation of the widget in Figure 1. 
+Include dimensioning lines. Instead of actual 
+dimensions, which you don’t have, use variables (EG. 
+X cm) 
+
+Figure 1: 3D widget 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+31.  a. (4 MARKS) List and explain four criteria for a design to be eligible for a utility 
+
+patent.  
+
+b. (1 MARK) In one sentence explain how the patent system promotes innovation.  
+
+c. (1 MARK) In one sentence explain how the patent system hinders innovation.  
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32. a. (1 MARK) What is the relationship between Consequence – Severity – Hazard – 
+
+Risk? 
+
+b. (1 MARK) What is the relationship between Risk – Safety? 
+
+c. (1 MARK) In engineering terms, what is an Accident? 
+
+d. (3 MARKS) In three or fewer sentences concisely describe a real world situation, then 
+
+identify the Hazard and Consequence for this specific situation.   
+
+Hazard 
+
+Consequence 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

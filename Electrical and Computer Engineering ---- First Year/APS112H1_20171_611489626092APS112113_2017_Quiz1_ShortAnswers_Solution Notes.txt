@@ -1,0 +1,141 @@
+APS112&113 Winter 2017 Quiz #1 Solutions Notes for Short-Answer Questions 
+
+(7 MARKS) Give ONE primary function, TWO important objectives, and ONE important 
+
+1. 
+constraint for Client Statement #2 – Photovoltaic Cells. Metrics are required for the objectives and 
+constraint, but you do not need to include goals or limits. 
+
+•  Objectives/constraints and metrics were considered together: one must support and make 
+
+measurable the other. 
+
+•  Each objective was assigned a weight of 0.5 and each metric was assigned a weight of 1.5 
+
+points. 
+
+•  Though a specific grading scheme and answer key were used, answers were graded holistically: 
+the strength and internal coherence—relationship between functions, objectives, and metrics—of 
+each response were considered and reflected in the grades given. 
+
+•  Objective-metric and constraint-metric combinations must be actionable: there must be a goal, a 
+
+unit of measure, and a means for achieving the goal presented. Therefore: 
+
+o  # maintenance visits/year or time/wash or last # years without failure, for example, are 
+good metrics, but if presented alone, they are baseless. Must present more tangible 
+means of achieving these goals for full marks. 
+
+•  The objective or constraint "must be effective" or "must remove dirt well" coupled with a % dirt 
+removal or # times satisfactorily cleaned/week metric were not awarded points. These are 
+reiterations of the primary function: setting goals for the design to do what it is intended to do is 
+redundant. Unless detailed means were provided, this answer earned 0 points. 
+
+•  By the same token, "must operate in all weather conditions/hot, sunny conditions" is not an 
+
+objective, it is a statement that the design must function in its intended service environment: a 
+restatement of the primary function. A stronger, more tangible objective-metric combination might 
+be "Heat-tolerant; # or % of panel washing system components made up of thermostable 
+materials" 
+
+2. 
+(7 MARKS) While designing a solution for Client Statement #2 – Photovoltaic Cells, you 
+need to know the amount of water consumed washing panels at the 550 Megawatt (MW) Desert 
+Sunlight Solar Farm in the Mojave Desert. If the panels are washed twice a week in the traditional 
+way, estimate the annual water consumption for this task in Litres. Use reasonable assumptions 
+based on your personal knowledge and the information provided here. You don’t have to get an 
+exact answer, but you do have to compute a number and demonstrate structured thinking. 
+
+Structured Thinking: 4 Marks 
+
+- 
+
+# Panels in the solar farm 
+
+o  Simply assuming a number for the # Panels without justification (- 1.5) 
+o  Making an unreasonable assumption of power rating of solar panels without any justifications 
+
+(- 1.5) 
+
+o  Making an unreasonable assumption of power rating of a single solar panels with some 
+
+justifications (- 1.0) 
+
+-  Assumptions made in how many L of water per panel 
+
+o 
+o 
+
+If an unreasonable estimate is made (- 1.0) 
+If an unreasonable estimate is made with some justifications (- 0.5) 
+
+-  Answer given in L per year after calculations 
+
+If unit given in gallons (- 0.5) 
+
+o 
+o  Did not consider annual amount (- 1.0) 
+
+ 
+ 
+ 
+ 
+ 
+Stating Assumptions & Why assuming it: 1 Mark 
+
+-  Did not state the amount of water per panel is an assumption (- 1.0) 
+
+Other Calculation Issues: 1 Mark 
+
+-  Stating the incorrect number of weeks in a year without justification (- 0.5) 
+-  MW not properly converted to 106 W (- 0.5) 
+
+Concluding Statement: 1 Mark 
+
+(7 MARKS) Given Client Statement #2 – Photovoltaic Cells, provide a Functional 
+
+3. 
+Decomposition of the cleaning device.  
+
+a) 
+
+In your Functional Decomposition, identify the Primary Function, three subfunctions, and at least 
+one viable solution for each subfunction.  (/6) 
+
+2 marks for each sub-function and it’s corresponding example. 
+
+Sub-functions must be elements of the primary function you identified (i.e. you can re-combine 
+the sub-functions to perform the primary function). I was mainly looking for coherence between 
+the primary and sub-functions here.  
+Example: ‘Prevent cell from getting dirty’ is not a sub-function of ‘Clean the cell’, as these are two 
+different processes, but this might be an acceptable sub-function if your primary function is to 
+‘Prevent the degradation of power output due to dirt and grime on the cells’. ‘Dry the cell’ is not a 
+sub-function of ‘Clean the cell’, unless you specify that you’re removing the dirty water, not simply 
+suggesting air drying the dirty water onto the cell.  
+
+Sub-functions must be substantially different from one another to get marks for each.  
+Example: ‘Remove dirt’ and ‘Remove dust’ are not separate sub-functions, unless you adequately 
+explain why these are separate steps in the same overall process.  
+
+I was fairly lenient with whether a solution was ‘viable’, but some required additional explanation 
+to explain how solution could be viable, and these did not receive marks. 
+Example: ‘Cover the panel with a clear cover’ came up often, but simply transfers the problem to 
+cleaning the cover of dust and dirt. 
+
+b)  Use these viable solutions to propose an overall solution.  (/1) 
+
+0.5 marks for some effort to combine examples given above. 
+0.5 marks for a reasonable overall solution that could potentially perform the primary function 
+given in (a). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

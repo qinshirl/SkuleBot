@@ -1,0 +1,449 @@
+Date: May 28, 2025
+Duration: 50 minutes
+
+Name:
+
+e-mail:
+
+Student Number:
+
+Quiz 3
+
+Course: MAT 187 (Calculus II)
+Examiner: Armanpreet Pannu
+
+@mail.utoronto.ca
+
+Instructions
+• This is a Type A assessment and does not allow any external aids.
+• Read all instructions carefully and justify all your answers. No points will be awarded for a correct
+
+answer without justification.
+
+• Read each question carefully. No clarification or content related questions will be answered.
+
+You may use the following space for scratch work or to continue your solutions if you run out of room. If
+you do so, please clearly indicate in the original question that part of your solution appears here.
+
+1. (3 points) Give an example of a non-constant function for which the trapezoidal rule gives the exact
+value of the definite integral over an interval. Explain why this happens. Use a sketch to justify your
+answer.
+
+Solution:
+The trapezoidal rule gives the exact value of a definite integral
+for any linear function:
+
+f (x)
+
+f (x) = mx + b
+
+on any interval [a, b], regardless of how many subintervals are
+used.
+This is because the trapezoidal rule approximates the area under
+a curve by connecting points with straight line segments. For a
+linear function, this exactly matches the graph. Since the graph
+is composed of straight lines, each trapezoid perfectly fills the
+area under the curve with no error.
+
+0
+
+1
+
+2
+
+3
+
+x
+
+2. (3 points) A student approximates the integral
+
+´
+
+zoidal rule with the same number of subintervals and finds:
+
+1
+0 f (x) dx using both the midpoint rule and the trape-
+
+Mn = 1.83 and Tn = 2.17
+
+Assuming no inflection points on the interval [0, 1], what can you conclude about the concavity of
+f (x)? Justify your answer.
+
+Solution: The trapezoidal rule overestimates the integral if the function is concave up, and the
+midpoint rule underestimates it in that case.
+
+Here, Mn < Tn, which suggests:
+
+Midpoint estimate < Actual value < Trapezoidal estimate
+
+Since there is no inflection points in the interval where the concavity changes, this implies the
+function is concave up on the interval.
+
+3. (3 points) The second-degree Taylor polynomial for a function f , centered at x = 1, is given by:
+P2(x) = 5 + 2(x − 1) − 3(x − 1)2. Based on this polynomial, describe the local behaviour of f (x)
+near x = 1. Is the function increasing or decreasing? Is it concave up or concave down? Justify your
+reasoning.
+
+Solution: The second-degree Taylor polynomial is:
+
+P2(x) = f (1) + f ′(1)(x − 1) +
+
+f ′′(1)
+2
+
+(x − 1)2 = 5 + 2(x − 1) − 3(x − 1)2
+
+So we can read off the derivatives:
+
+• f ′(1) = 2: the function is increasing at x = 1.
+
+• f ′′(1)
+
+2 = −3 ⇒ f ′′(1) = −6: the function is concave down near x = 1.
+
+Conclusion: Near x = 1, the function is increasing and concave down.
+
+MAT187
+
+Page 2 of 4
+
+May 28, 2025
+
+4. (6 points) Suppose you want to approximate
+
+´
+
+2
+0 ln(x + 1) dx using the midpoint rule with an error less
+
+than 1
+
+100. How many subintervals n are needed to guarantee this accuracy?
+
+Hint: Use the midpoint rule error bound:
+
+|EM | ≤
+
+(b − a)3
+24n2
+
+· max
+a≤x≤b
+
+|f ′′(x)|
+
+Solution: We are given f (x) = ln(x + 1). Compute the second derivative:
+
+f ′(x) =
+
+1
+x + 1
+
+,
+
+f ′′(x) = −
+
+1
+(x + 1)2
+
+So on [0, 2], |f ′′(x)| = 1
+
+(x+1)2 , which is largest when x = 0:
+
+max |f ′′(x)| =
+
+1
+12 = 1
+
+Now apply the midpoint error bound:
+
+|EM | ≤
+
+(2)3
+24n2 · 1 =
+
+8
+24n2 =
+
+1
+3n2
+
+We want:
+
+1
+3n2 <
+
+1
+100
+
+⇒ 3n2 > 100 ⇒ n2 >
+
+100
+3
+
+≈ 33.3
+
+Since 52 = 25 < 33.3 and 62 = 36 > 33.3, the smallest integer n is:
+
+n = 6
+
+5. The table below records the values of a function C(t) over time. The exact formula for C(t) is unknown.
+
+t (hr)
+
+4
+0
+C(t) (units) 10 8 5 2.5 1
+
+1 2
+
+3
+
+ˆ
+
+4
+
+(a) (3 points) Use Simpson’s Rule to estimate the value of
+
+C(t) dt.
+
+0
+
+Solution: We use Simpson’s Rule with 4 subintervals (evenly spaced):
+
+h =
+
+4 − 0
+4
+
+= 1
+
+Simpson’s Rule formula:
+
+ˆ
+
+4
+
+0
+
+C(t) dt ≈
+
+h
+3
+
+[C(0) + 4C(1) + 2C(2) + 4C(3) + C(4)]
+
+=
+
+1
+3
+
+[10 + 4(8) + 2(5) + 4(2.5) + 1] =
+
+1
+3
+
+(10 + 32 + 10 + 10 + 1) =
+
+63
+3
+
+= 21
+
+(b) (3 points) Based on the data, explain why Simpson’s Rule is a good choice here compared to
+
+other basic numerical methods.
+
+Solution: The function values decrease steadily and appear to follow a smooth, nonlinear
+trend, possibly exponential decay. Since Simpson’s Rule fits a quadratic polynomial across
+each pair of subintervals, it generally gives more accurate results for smooth, curved data than
+trapezoidal or midpoint rules.
+Because the data is evenly spaced and relatively smooth, Simpson’s Rule is well-suited here.
+It captures the curvature of the function more accurately than linear approximations would.
+However, if the actual function changes more sharply between points or is not well-approximated
+by quadratics, some error may still occur.
+
+MAT187
+
+Page 3 of 4
+
+May 28, 2025
+
+6. In optics, the Fresnel integral
+
+ˆ
+
+x
+
+S(x) =
+
+sin(t2) dt
+
+0
+arises when modeling light intensity near the edge of a diffraction pattern. This integral has no
+elementary antiderivative, so we must rely on approximations.
+(a) (5 points) Use the sixth-degree Taylor polynomial for sin(t2) centered at t = 0 to approximate
+
+S(1) =
+
+´
+0 sin(t2) dt. Leave your answer as an exact simplified fraction.
+
+1
+
+Solution:
+We begin with the well-known Taylor polynomial for sin(x) at x = 0:
+
+sin(x) = x −
+
+x3
+3!
+
++
+
+x5
+5!
+
+− · · ·
+
+Now, substitute x = t2 into the expansion to get a Taylor polynomial for sin(t2):
+
+sin(t2) = t2 −
+
+t6
+6
+
++
+
+t10
+120
+
+− · · ·
+
+To construct a sixth-degree Taylor polynomial, we keep terms up to t6:
+
+sin(t2) ≈ t2 −
+
+t6
+6
+
+Now we use this approximation in the integral:
+
+ˆ
+
+1
+
+0
+
+sin(t2) dt ≈
+
+ˆ
+
+1
+
+(cid:18)
+
+0
+
+t2 −
+
+(cid:19)
+
+t6
+6
+
+dt =
+
+(cid:20)t3
+3
+
+−
+
+t7
+42
+
+(cid:21)1
+
+0
+
+=
+
+1
+3
+
+−
+
+1
+42
+
+=
+
+14 − 1
+42
+
+=
+
+13
+42
+
+(b) (4 points) It can be shown that on the interval [0, 1]:
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+(cid:12)
+d7
+(cid:12)
+dt7 sin(t2)
+(cid:12)
+(cid:12)
+
+≤ 300
+
+Use Taylor’s Remainder Theorem to bound the error in your approximation.
+
+Solution:
+From Taylor’s Remainder Theorem:
+
+|R6(1)| ≤
+
+ˆ
+
+1
+
+0
+
+M
+7!
+
+t7dt =
+
+M
+7!
+
+·
+
+1
+8
+
+where M = 300
+
+⇒ Error bound =
+
+300
+8!
+
+So the approximation 13
+
+42 is accurate to within 300
+8! .
+
+MAT187
+
+Page 4 of 4
+
+May 28, 2025
+
+

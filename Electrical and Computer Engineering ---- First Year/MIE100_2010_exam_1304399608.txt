@@ -1,0 +1,138 @@
+MIE100 Midterm Test 
+Thursday March 4, 2010 
+Start Time: 6:10pm   Duration: 1 hr 30 min 
+Aids Allowed: Non-programmable calculator and one 8.5x11” aid sheet 
+
+Instructions:  Write your full name, student number, course information and tutorial section 
+number on each exam booklet you use.  You may keep this test paper.  Answer all three 
+questions. 
+
+Question 1 
+
+An object, P, travels along y = 4 with velocity 
+axes is metres.  A camera is positioned at the origin, O, and is aimed to track the motion of P. 
+
+  m/s.  The scale on both the 
+
+ and y 
+
+(i)  Using polar co-ordinates centered at O as shown, what is the rate of rotation of the 
+
+camera,
+
+, when θ = 45o?  [15 marks] 
+
+(ii) What is 
+
+ when θ = 45o?  [20 marks] 
+
+y 
+
+(0,4) 
+
+P 
+
+r 
+
+θ 
+
+O 
+
+x 
+
+Page 1 of 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 2 
+
+A rock of mass 4 kg is tied to the end of a rope of length 5 meters. The other end of the rope is 
+tied to a hook in the ceiling. Let β represent the angle measured in the counter-clockwise 
+direction between the ceiling and the rope. The rock is released from rest when β = 0. 
+
+(i)  What will be the speed of the rock when β reaches 60°?  [10 marks] 
+
+(ii) What will be the magnitude of the tangential component of the acceleration when β 
+
+reaches 70°?  [10 marks] 
+
+(iii) What will be the tension in the rope when β reaches 60°?  [10 marks] 
+
+β 
+
+Question 3 
+
+The collar B of mass 5.75 kg is initially at rest at the position shown.  At this position, the spring 
+(k=400 N/m) is unstretched and  = 0.9 m.  The collar A of mass 0.5 kg strikes collar B at a 
+velocity of 40 m/s to the right so that B slides a distance of 1.2 m on the smooth rod before 
+momentarily stopping.  Assume there is no friction. 
+
+(i)  Determine the velocity of collar A just after impact.  [25 marks] 
+
+(ii) Find the magnitude of the average force exerted between A and B during the impact if the 
+
+impact occurs over a duration of 0.002 s.  [10 marks] 
+
+ y 
+
+x 
+
+Page 2 of 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+

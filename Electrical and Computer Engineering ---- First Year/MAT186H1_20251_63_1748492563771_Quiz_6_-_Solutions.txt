@@ -1,0 +1,212 @@
+Name: ________________________________ 
+
+Student number:_______________________ 
+
+MAT 186 
+Quiz 6 
+
+1.  Find the local and (if they exist) global extrema of 𝒚 = 𝟑𝒙𝟒 + 𝟖𝒙𝟑 +
+
+AB6  CF12  CF13  MW3 
+
+𝟏𝟓
+𝟐
+
+𝒙𝟐 + 𝟑𝒙 −
+
+𝟕
+𝟐
+
+. 
+
+𝑓′(𝑥) = 12𝑥3 + 24𝑥2 + 15𝑥 + 3 
+= 3(2𝑥 + 1)2(𝑥 + 1) 
+
+So, the critical points are at 𝑥 = −1 and 𝑥 = −
+
+1
+. 
+2
+
+However, the function is decreasing on 𝑥 < 1 and increasing on 𝑥 > 1, so we end up with 𝑥 = −
+
+1
+ being 
+2
+
+neither a maximum nor a minimum.  𝑥 = 1 gives the only minimum and the function increases without 
+bound on either side of the point.  Therefore, (−1, −4) is a global minimum. 
+
+2.    The  function  𝒚 = 𝒙𝟑 + 𝒙𝟐 − 𝟖𝒙 − 𝟏𝟐  has  one  positive  𝒙 − 
+intercept. We build a rectangle with horizontal and vertical sides that 
+has the origin as one vertex and a point on the graph of y for its opposite vertex. If this second 
+point lies between the 𝒚 − and 𝒙 − intercepts of the graph, what value(s) would maximize the 
+area of the rectangle? 
+
+AB1  CF11  CF15 
+
+Factoring 𝑦, we get 𝑦 = (𝑥 + 2)2(𝑥 − 3), so the second point has 0 ≤ 𝑥 ≤ 3.  We should also note 
+that the point will have a negative 𝑦 value, as that will make a difference for the question. 
+
+If we write the point on the graph as (𝑥, 𝑥3 + 𝑥2 − 8𝑥 − 12), then the area of the rectangle created 
+would  be  𝐴(𝑥) = −𝑥(𝑥3 + 𝑥2 − 8𝑥 − 12),  because  of  the  negative  coordinate.   You  can  do  the 
+question without the negative for now, but it is a little trickier. 
+
+Therefore, we have 𝐴(𝑥) = −𝑥4 − 𝑥3 + 8𝑥2 + 12𝑥 and can get going: 
+
+𝐴′(𝑥) = −4𝑥3 − 3𝑥2 + 16𝑥 + 12 = 0 
+
+(𝑥 + 2)(4𝑥 + 3)(𝑥 − 2) = 0 
+
+𝑥 = −2, −
+
+4
+3
+
+, 2 
+
+Of these, the first two points are outside our domain, so they can be dismissed.  We are left with 𝑥 =
+2 as the only critical point in the interval.  We can compare its 𝑦 − value with that of the other two 
+endpoints, analyze using the first derivative test, or go to the second derivative test, as long as we do 
+
+Continued on back. 
+
+ 
+ 
+ 
+ 
+at least one of them.  If you did not realize earlier that the point lies below the axis, you will find that 
+𝑥 = 2 gives a minimum, but that it is still the correct value. 
+
+Therefore, the maximum area occurs at 𝑥 = 2. 
+
+3.  Use two linear approximations (that is, use a different initial point each time) to 
+
+estimate √𝟒𝟑
+
+CS12 
+
+You will find that the better approximation has a larger value for dx (for comparison √43 ≈ 1.59).  
+How could this happen? 
+
+I took a gamble here that everyone would use the function  𝑦 = √𝑥3
+(Note that 𝑎 = 0 will not work because 𝑦 is not differentiable there.) 
+
+ and attempt to use 𝑎 = 1 and 𝑎 = 8.  
+
+For our function, we have 𝑦′ =
+
+1
+
+3𝑥2 3⁄ .  We have: 
+
+𝒂 
+𝑦(𝑎) 
+𝑑𝑥 = 𝑥 − 𝑎 
+𝑚 = 𝑦′(𝑎) 
+𝑑𝑦 = 𝑚 ⋅ 𝑑𝑥 
+√43 ≈ 𝑦(𝑎) + 𝑑𝑦 
+
+𝟏 
+1 
+3 
+1/3 
+1 
+2 
+
+𝟖 
+2 
+−4 
+1 12⁄  
+−1/3 
+5/3 
+
+There are a few ways of thinking about why 𝑎 = 8 gives the more accurate answer.  It originates with the fact 
+that the graph of 𝑦 = √𝑥3
+ is ‘more flat’ the further you go.  That is, its second derivative is smaller, so the graph 
+stays close to its tangent lines for longer.  We can also think about the tangent lines themselves  – since the 
+function is concave down, the lines all lie above the graph, but at 𝑥 = 4, the tangent line that starts at 𝑎 = 8 
+lies below the one from 𝑎 = 1.   
+
+[The following question is strictly to help with older marks – the mark will NOT lower your grade.  
+If you are doing well with the squeeze theorem (CS2) and domains of functions (AB6), this will not 
+help your mark much, but you are welcome to answer it.] 
+
+4.  Find 𝐥𝐢𝐦
+𝐱→𝟐
+
+(𝒙 − 𝟐) 𝐜𝐨𝐬 (
+
+𝟏
+
+(𝒙−𝟐)𝟐). 
+
+AB6  CS2  MW2 
+
+This definitely requires the Squeeze Theorem, with positive and negative cases. 
+
+Case I: 𝑥 − 2 > 0, or 𝑥 > 2. 
+
+1
+
+−1 ≤ cos (
+
+(𝑥 − 2)2) ≤ 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+−(𝑥 − 2) ≤ (𝑥 − 2) cos (
+
+1
+
+(𝑥 − 2)2) ≤ (𝑥 − 2) 
+
+lim
+𝑥→2
+
+−(𝑥 − 2) = lim
+𝑥→2
+
+(𝑥 − 2) = 0 
+
+Therefore, by the Squeeze Theorem, the limit in case I goes to zero. 
+
+Case II is nearly identical and we can get away with saying “Case II is done similarly.”  Here it is in 
+full: 
+
+Case II: 𝑥 − 2 < 0, or 𝑥 < 2. 
+
+1
+
+−1 ≤ cos (
+
+(𝑥 − 2)2) ≤ 1 
+
+−(𝑥 − 2) ≥ (𝑥 − 2) cos (
+
+1
+
+(𝑥 − 2)2) ≥ (𝑥 − 2) 
+
+lim
+𝑥→2
+
+−(𝑥 − 2) = lim
+𝑥→2
+
+(𝑥 − 2) = 0 
+
+Therefore, by the Squeeze Theorem, the limit in case II goes to zero. 
+
+Therefore, the limit is zero. 
+
+ 
+ 
+ 
+ 
+

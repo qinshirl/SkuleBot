@@ -1,0 +1,369 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 18
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+We Value Your Feedback!
+
+Course Evaluations Are Open!
+
+↭ Your feedback is anonymous and makes a real di!erence.
+↭ It helps us improve the course for future students.
+↭ It helps instructors reﬂect and grow in their teaching.
+
+What to Comment On:
+
+↭ Course structure - was it clear and well-organized?
+↭ Teaching style - what worked (or didn’t)?
+↭ Assessments - were they fair and helpful?
+↭ Resources - were they accessible and useful?
+↭ Suggestions - what could be improved for next time?
+
+Bonus: Consider leaving a review on platforms like
+RateMyProfessors.com to help other students too!
+
+Polar Coordinates
+
+Polar
+
+coordinates describe
+
+a
+
+my
+
+Xy
+
+Point
+from
+
+x axis
+
+in
+
+origin
+
+1R with distance
+angle with
+
+and
+
+r
+
+no
+
+g
+
+x.gl
+
+rio
+
+cost sint
+
+WI
+
+95 factor
+
+p
+
+no
+
+and
+
+oefo.at
+
+to describe any
+
+1TY
+
+only
+
+need
+Point uniquely
+
+if
+
+we
+there
+
+allow
+is
+
+r
+
+outside
+
+this range
+
+then
+
+redundancy
+
+2T
+
+1 É some et
+
+ar
+
+r 0Mt
+
+and r
+
+2 0
+
+rif
+
+1
+
+1 4
+
+1 14
+
+1
+
+f
+as
+
+1 the
+re
+
+is
+1,5 4
+
+same Pt
+
+aETn
+
+y fCx
+
+gives
+
+a
+
+relation
+
+between
+
+similarly
+
+we
+
+can
+
+have
+
+a
+
+relation
+
+r
+
+via
+
+r FCG
+
+by
+between
+
+ex 1
+
+r
+
+f G L
+
+constant
+
+my
+
+r 1
+
+so
+
+r
+
+1
+
+x 1
+
+ee
+r Tose
+
+Sketch the following curves.
+r = ω
+
+my
+
+r = 1
+
+sin(ω)
+
+rsin
+
+1
+
+9 1
+
+refine
+
+r = 1 + cos(ω)
+
+8 42
+
+0 14
+
+cardioid
+
+IT
+
+6 9
+
+Arclength
+recall
+
+arclength
+
+for
+
+a
+
+parametric equation
+
+arclength vxctt.ge dt
+
+given
+
+polar
+
+curve
+
+r F
+
+resulting
+
+graph
+
+cost
+
+is
+
+parametric
+
+curve
+
+F G cos
+
+soso.fitso
+
+with parameter
+f G sint
+
+F G cost
+F e sino F G cost
+
+X G
+y E
+
+X G
+
+y e
+
+F G cost
+
+F G cost
+
+f Gs.no
+
+F 0 sino f e cost
+f E sin 0 2F FcoE
+FcEftfostint
+
+G
+
+F 2
+
+where r
+
+f
+
+arclength
+
+up
+
+UFCEf.IT
+
+do
+
+notation
+
+fo.fr
+
+do
+
+Find the arclength of the following polar curves:
+r = 1
+
+2ε
+
+0
+
+ω
+
+→
+
+→
+
+cI
+
+arclength
+
+Vr Ñ do
+
+INTI
+
+finger of circle
+
+r = sin(ω)
+
+0
+
+ω
+
+→
+
+→
+
+2ε
+
+arclength
+
+intra do
+f Usino cos.iodo
+f VTdt 2T
+
+AreaareaenclosedbypolarcurvedoitsoassumefisconstantoneachsliceresultantsliceisasectorofacireIrdGEEI.EEtotalareasectorsÉrFind the area enclosed in the ﬁrst petal of the following curve:
+r = sin(3ω)
+
+0213
+
+Lorea
+
+area
+
+Indo
+
+JMM since
+
+3
+
+sin 30do
+
+sin 30 d
+
+

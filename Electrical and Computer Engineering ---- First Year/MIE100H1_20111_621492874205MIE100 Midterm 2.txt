@@ -1,0 +1,139 @@
+MIE 100S DYNAMICS: Spring 2011 
+
+Midterm Test, Monday, February 28, 2011    6:10 pm- 7:40 pm 
+
+Question 1 [40 marks total]
+
+(cid:2) (cid:3) (cid:4)(cid:5) (cid:6) (cid:7)(cid:8)(cid:9)(cid:10)(cid:11) 
+
+r 
+
+(cid:2) 
+
+O 
+
+Figure 1 
+
+At t = 0, a particle is located at (cid:2) = 0°.  The particle travels for a short distance on the path 
+ (cid:2) (cid:3) (cid:4)(cid:5) (cid:6) (cid:7)(cid:8)(cid:9)(cid:10)(cid:11) meters such that its angular velocity is (cid:10)(cid:12) (cid:3) (cid:13)(cid:14) rad/s, where t is in seconds.    
+
+    a)  Find the time t when the particle is at (cid:2) = 60°. [10 marks] 
+
+   b) Find the velocity of the particle at (cid:2) = 60°.  Express the result in the polar (r-(cid:2)) coordinate 
+
+system shown in the figure. [10 marks] 
+
+    c)  Express the velocity of the particle at (cid:2) = 60° in normal-tangential (n-t) coordinates. 
+
+[10 marks] 
+
+    d)  Find the radial component of the particle’s acceleration, ar, when the particle is at (cid:2) = 60°.  
+
+[10 marks] 
+
+(cid:2)
+
+Page 1 of 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE 100S Dynamics - Midterm 2011
+
+Question 2 [30 marks total]
+
+A 5 kg block sits on a conical dish that is rotating at a constant rate of 10 rad/s about the vertical 
+
+axis (Figure 2). The static coefficient of friction between the block and the dish is μs = 0.28.  
+
+Determine r, the distance between the vertical axis and the block, at which the block is on the 
+verge of sliding up the dish. 
+
+(cid:2)
+
+(cid:2)
+
+g = 9.81 m/s2
+
+r
+
+30°
+
+10 rad/s
+
+Figure 2 
+
+Page 2 of 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+MIE 100S Dynamics - Midterm 2011
+
+Question 3 [30 marks total]
+
+A block “B” of mass 25 kg is connected to a spring with stiffness constant k = 20 N/m. At the 
+position shown in Figure 3, the spring is stretched by 4 meters. The block is on a slope of angle 
+
+50° with (cid:3)k = 0.15. 
+
+a)   Suppose the block is released from the position shown. For what values of (cid:3)s will the 
+
+block not start to slide down the hill? [10 marks] 
+
+      b)   Suppose the block is initially sliding down the slope at 3 m/s at the position shown. What 
+
+is the magnitude of its acceleration at the position shown? [10 marks] 
+
+      c)   Suppose the block is initially moving down the slope at 3 m/s at the position shown. 
+What will be the block’s speed when it has traveled 1.5 meters? [10 marks] 
+
+g = 9.81 m/s2
+
+50°
+
+Figure 3 
+
+(cid:2)
+
+Page 3 of 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE 100S Dynamics - Midterm 2011
+Solutions
+
+Question 1 
+
+(cid:2)
+
+Page 4 of 3 
+
+ 
+ 
+ 
+ 
+MIE 100S Dynamics - Midterm 2011
+Solutions
+
+Question 2 
+
+Question 3 
+
+(cid:2)
+
+Page 5 of 3 
+
+

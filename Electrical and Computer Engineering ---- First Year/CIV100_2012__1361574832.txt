@@ -1,0 +1,169 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 2   
+Due: 4:00 pm on September 21, 2012 
+
+1.  A force is applied to a shift lever as shown. Determine the 
+
+moment about point B, using 
+
+the resultant force given. 
+
+i) 
+ii)  the components of the force given. 
+
+B 
+
+60 N 
+
+30° 
+
+0.6 m  
+
+A 
+
+0.3 m  
+
+2.  A plate in the shape of a parallelogram is subjected to the 
+
+forces shown. Determine: 
+
+i) 
+
+the  moment  of  the  couple  formed  by  the  two  16  N 
+forces. 
+
+ii)  the perpendicular distance between the 10 N forces if 
+
+the resultant of the two couples is zero. 
+
+iii)  the  value  of  θ  if  the  resultant  couple  is  2.1  N.mm
+
+clockwise and d is1.20 m. 
+
+D 
+
+16 N 
+
+C 
+
+10 N 
+
+θ 
+16 N 
+
+d  
+
+A 
+
+0.5 m  
+
+10 N 
+
+B 
+
+3.  Three forces act on a lever as shown.  
+
+i)  replace the three forces with an equivalent force
+
+couple system at B. 
+
+ii)   determine the single force which is equivalent to the
+force-couple system obtained in part (a), and specify
+its point of application on the lever. 
+
+40 mm 
+
+50 mm 
+
+35° 
+
+B 
+
+26 N 
+
+25° 
+
+A 
+
+38 N 
+
+60° 
+C 
+20° 
+
+22 N 
+
+4.  A crate is subjected to the forces shown. If the forces are 
+to be replaced with a single equivalent force applied at a 
+point on line AB, determine: 
+
+i)    the equivalent force and the distance from A to the
+  point of application of the force when θ=30°. 
+ii)   the value of θ so that the single equivalent force is
+
+  applied at point B. 
+
+110 N 
+
+θ 
+
+300 mm  
+
+140 N 
+
+400 mm  
+
+200 N 
+
+A 
+
+D 
+
+B 
+
+30° 
+
+150 mm 
+
+100 N 
+
+55° 
+
+600 mm  
+
+C 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,360 @@
+Mat 187
+
+Textbook: OpenStax Calculus Volumes 2 & 3
+
+Webpage: https://q.utoronto.ca
+
+Calculus II
+
+Spring 2025
+
+Tutorials: Starting Monday, Jan. 20
+
+The Calculus revolutionized modern science when Newton and Leibniz invented it. Not only did the
+Calculus provide ways to model and compute previously difficult-to-understand phenomena, it also
+presented a new way to conceptualize the world.
+
+In your previous Calculus course, you studied derivatives, or rates of change. In this course, we will
+study the derivative’s companion, the integral, as well as ways to apply derivatives and integrals to
+approximate functions (e.g., Taylor series approximations) and to model via differential equations.
+
+The Calculus has been extremely successful, and most of the mechanical procedures needed for doing
+Calculus have been automated by computers (e.g., Wolfram Alpha). Because computers remove much
+of the need to memorize complicated procedures, this course will focus on the ways that framing
+questions in terms of calculus can help us solve problems. We will also focus on how to communicate
+mathematics to others, which is especially important in the Engineering domain.
+
+Learning
+Outcomes
+
+After taking this course, you will be able to:
+
+To Succeed
+
+Apply the methods of calculus, especially integral caculus and differential equations, to solve
+novel problems.
+Use approximations to simplify complex problems.
+Model and solve real-world problems using differential equations.
+Solve basic integrals using standard techniques like integration by parts, trigonometric substi-
+tution, and partial fractions.
+
+Learning is hard! It is exercise for the mind, and like exercise, when you’re doing it, it feels pretty
+uncomfortable. Here are some tips to help you succeed academically (getting the grade you want)
+and intellectually (learning the most you can).
+
+Form a regularly-meeting study group of 3–4 people. Math should not be done in isolation! You
+need others to bounce ideas off of and to motivate you when you’re feeling down.
+
+Do your Pre-Class Essentials reading. A good rule of thumb is every hour spent studying before
+class is worth two hours of studying after class.
+
+Force yourself to explain. When reviewing, it’s easy to glance at a solution and think, “Oh yeah,
+I knew that.” Don’t do it! Force yourself to explain each problem/concept without referencing a
+solution. Be patient with yourself—it might take 5 or 10 minutes before it finally comes to mind,
+but studying this way will be significantly more effective.
+
+Prereq’s
+
+To be prepared for this course, you need to have a solid understanding of Calculus I (MAT186). If
+you’re feeling shaky on your foundation, start reviewing earlier rather than later.
+
+1
+
+Homework
+
+Assessment
+Reflections
+
+2%
+
+Pre-Class
+
+Essentials (PCEs)
+
+10%
+
+Midterm
+
+38%
+
+Like in MAT186, this course will feature homework assignments that will not be turned in. However,
+these  assignments  are  not  optional—they  are  an  essential  tool  for  properly  learning  the  course
+material.
+
+The only way to learn mathematics is by doing mathematics. In this course you are asked to be an
+active agent in your own learning. You are expected to be present in all sessions of your lectures and
+tutorials. During lectures, you will be working on problems and sharing your ideas. Some lectures
+will end with a reflection activity; these activities will compose your Reflections mark.
+
+Pre-Class Essentials (PCEs) are assigned readings or videos, followed by a short quiz. You are expected
+to do the PCE reading and check in before each lecture. There will be about 30 Pre-Class Essentials
+(PCEs). The due dates will be posted on Quercus. Your lowest six scores will be dropped.
+
+There are two equally weighted midterms scheduled as well as a Universal Makeup. The dates are
+Tuesday, Feb. 04 and Thursday, Mar. 06 and Thursday, Mar. 27.
+
+The Universal Makeup will serve as a makeup test for any midterms you may have missed with an
+approved petition. However, you may optionally write the Universal Makeup even if you didn’t miss
+a test. If you do so, the score of your lowest midterm will be replaced by a 50/50 mix of your lowest
+midterm score and your score on the Universal Makeup.
+
+Final Exam
+
+50%
+
+A comprehensive final exam will take place during the final exam period. The date and time will be
+determined by FASE.
+
+Your course mark will be computed as a weighted average of your mark in each category. (See the
+left column for the weights.)
+
+Missed
+Assessments
+
+The petition policy of the Faculty of Applied Science and Engineering can be found at http://uoft.
+me/petitions. Petitions must be filed for all missed work unless stated otherwise.
+
+Any foreseeable circumstances must be reported at least three weeks in advance. For example, “I had
+a varsity sports game yesterday” is not acceptable since sports games are scheduled weeks ahead. As
+soon as you know about scheduled events you should look at your academic obligations and notify
+the coordinator of conflicts.
+
+Pre-Class Essentials (PCEs)
+Since the lowest six PCE scores are dropped, if you miss at most six PCEs, you do not need to submit
+a petition. If you miss more than six PCEs, you must submit a petition for every missed PCE.
+
+For example, if you missed 5 PCEs, you do not need to submit any petitions. If you missed 8 PCEs,
+you must submit 8 peititions.
+
+Tests
+If you submit a petition for a missed test and it is accepted, the weight of your missed test will be
+redistributed to your final exam.
+
+2
+
+Email &
+Etiquette
+
+We will try to respond to emails as soon as possible, but during busy times (like before an exam) it
+might take several days to respond. If your situation is urgent, talk to a professor after class or in
+office hours.
+
+When writing an email:
+
+Put MAT187 in the subject line, use your utoronto.ca email, and identify yourself by
+name and UTORid.
+Be specific. We’re better able to help you if you’re specific about your issue and you include all
+necessary information. If your situation is complex, it is best to come to office hours to discuss it.
+Check the syllabus and course webpage first. If your question is answered on the syllabus or
+the course webpage, we may not respond to your email.
+Be professional. Please use appropriate tone and level of formality in your emails. Do not use
+slang or texting abbreviations. It is tradition in North America to start emails Dear Professor …,
+and end them, Thank you, ….
+No content questions. If you have mathematical questions, please bring your question to office
+hours.
+
+Lectures &
+Contacts
+
+There are several lecture sections. (R means Thursday)
+
+Section
+
+Time
+
+Room Instructor
+
+Email
+
+LEC0101 MW4–5, F1–2 MY 150
+
+J. Siefken
+G. McGregor
+
+admin187@math.toronto.edu
+
+geoffrey.mcgregor@utoronto.ca
+
+Office
+
+PG 101C
+
+LEC0102
+
+TR4–5, F2–3 MY 150
+
+LEC0103 MW5–6, F5–6 MY 150
+
+S. Cohen
+I. Beach
+
+J. Siefken
+A. Pannu
+
+sh.cohen@utoronto.ca
+
+GB 148 1/3
+
+isabel.beach@mail.utoronto.ca
+
+admin187@math.toronto.edu
+
+PG 101C
+
+arman.pannu@mail.utoronto.ca
+
+The  course  coordinator  is  Professor  J.  Siefken.  Please  email  any  administrative  concerns  to
+admin187@math.toronto.edu.
+
+Office hours for each instructor will be posted on the course webpage.
+
+Tutorials
+
+You must register in a tutorial section through ROSI/ACORN by the end of the first week of classes.
+Tutorials will begin Monday, Jan. 20.
+
+Attendance  in  tutorials  is  mandatory.  During  tutorials,  you  will  be  working  on  solving  complex
+and novel problems and additionally practicing your mathematical writing. Tutorials are not about
+answers to problems. They are about practice. Thus, you shouldn’t expect to go over every tutorial
+problem during a tutorial.
+
+3
+
+Academic
+Resources
+Accessibility
+
+Needs
+
+The  University  of  Toronto  is  committed  to  accessibility.  If  you  require  accommodations  for  a
+disability, or have any accessibility concerns about the course, the classroom or course materials,
+please contact Accessibility Services http://www.studentlife.utoronto.ca as soon as possible.
+
+English Language
+
+Instruction
+
+For information on campus writing centres and writing courses, please visit http://www.writing.
+utoronto.ca
+
+Other Resources Student Life Programs and Services http://www.studentlife.utoronto.ca
+
+Academic Success Centre http://www.studentlife.utoronto.ca/asc
+Health and Wellness Centre http://www.studentlife.utoronto.ca/hwc
+
+Academic
+Integrity
+
+Academic integrity is fundamental to learning and scholarship at the University of Toronto. Partic-
+ipating honestly, respectfully, responsibly, and fairly in this academic community ensures that the
+University of Toronto degree that you earn will be valued as a true indication of your individual
+academic achievement, and will continue to receive the respect and recognition it deserves.
+
+Familiarize  yourself  with  the  University  of  Toronto’s  Code  of  Behaviour  on  Academic
+Matters. It is the rule book for academic behaviour at the University of Toronto, and you are expected
+to know the rules.
+
+The University of Toronto treats cases of academic misconduct very seriously. All suspected cases
+of  academic  dishonesty  will  be  investigated  following  the  procedures  outlined  in  the  Code.  The
+consequences for academic misconduct can be severe, including a failure in the course and a notation
+on your transcript. If you have any questions about what is or is not permitted in this course, please
+do not hesitate to contact your instructor or the course coordinator. If you have questions about
+appropriate research and citation methods, seek out additional information from your instructor or
+from other available campus resources like the University of Toronto Writing Website. If you are
+experiencing personal challenges that are having an impact on your academic work, please speak to
+your instructor or seek the advice of the First Year Office.
+
+4
+
+Schedule
+
+Below is a preliminary schedule for the course. Textbook sections that are prefixed with “V3” refer
+to OpenStax Calculus Volume 3. Otherwise, sections reference OpenStax Calculus Volume 2.
+
+Week 1
+January 6–12
+
+(A1) Polar Coordinates, (A2) Complex Numbers
+Textbook: §7.3
+
+Week 2
+January 13–19
+
+Week 3
+January 20–26
+
+Week 4
+January 27–
+February 2
+
+Week 5
+February 3–9
+
+(B1) Polynomail Interpolation, (B2) Approximating with Taylor Polynomials
+
+(B3) Numerical Integration, (B4) Sequences and Series
+Textbook: §3.6, §5.1–5.2
+Tutorials begin.
+
+(B5-1) Taylor Series, (B5-2) Manipulating Power Series
+Textbook: §6.3–6.4
+
+(B6) Power Series Convergence
+Textbook: §5.4
+Midterm I: Tuesday, February 4 at 10:10am to 12:00pm
+
+Week 6
+February 10–16
+
+(C1) Integration by Parts, (C2) Trigonometric Substitution
+Textbook: §3.1, §3.3
+
+Week 7
+
+February 17–23 Family Day Monday, February 17 (no classes)
+
+Reading break February 17–22 (no classes)
+
+Week 8
+February 24–
+March 2
+
+Week 9
+March 3–9
+
+(C3) Partial Fractions, (C4) Improper Integrals
+Textbook: §3.4, §3.7
+
+(D1) Parametric Equations, (D2) Calculus in Polar Coordinates
+Textbook: §7.1–7.2, §7.4
+Midterm II: Thursday, March 6 at 7:10pm to 9:00pm
+
+Week 10
+March 10–16
+
+(E1) Introduction to ODEs, (E2) Modelling with ODEs
+Textbook: §4.1
+
+Week 11
+March 17–23
+
+(E3) Separable ODEs, (E4) Linear First-Order ODEs
+Textbook: §4.3, §4.5
+
+Week 12
+March 24–30
+
+(E5) Homogeneous Equations
+Textbook: V3 §7.1
+Universal Makeup Midterm: Thursday, March 27 at 7:10pm to 9:00pm
+
+Week 13
+March 31–
+April 6
+
+(E6) Non-Homogeneous Equations (E7) Applications of ODEs
+Textbook: V3 §7.2, §7.3
+
+5
+
+

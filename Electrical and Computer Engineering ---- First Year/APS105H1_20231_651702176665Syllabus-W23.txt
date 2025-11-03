@@ -1,0 +1,828 @@
+APS 105S: Computer Fundamentals 
+
+Winter 2023 
+
+Welcome!  Computer  software  has  become  one  of  the  most  important  engineering  tools  ever 
+
+created.  Even  in  the  last  few  years,  software  has  become  essential  in  almost  every  human 
+
+endeavour, whether it is music, design, health care, business or entertainment. The goal of this 
+
+course to introduce you to the basics of computer software, and show you how to use it to solve 
+
+problems. The course is also meant to be your first taste of what engineering design really is all 
+
+about. 
+
+APS105 will provide you with the foundation for studying software systems in greater depth in 
+
+later courses. You will learn how to make high-quality software through participating in lectures, 
+
+but  most  importantly  by  the  work  you  do  for  the  laboratory  exercises.  The  main  topics  to  be 
+
+covered  are:  the  representation  of  information,  programming  techniques,  programming  style, 
+
+basic  loop  structures,  functions,  arrays,  strings, pointers, linked  lists,  binary  search  trees,  and 
+
+searching and sorting algorithms. The laboratories in this course reinforce the lecture topics and 
+
+develop essential programming skills, using the C programming language. Though we will focus 
+
+on the C programming language, the fundamental concepts taught in this course apply to most 
+
+modern programming languages, such as C++, Python, and Javascript. 
+
+Learning Outcomes 
+
+•  Learn how to write and debug practical computer programs using the C programming language 
+
+•  Learn about basic data structures, such as linked lists and binary search trees 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+ 
+ 
+•  Learn about how basic algorithms, such as searching and sorting algorithms, can be designed 
+
+and implemented 
+
+Instructors, Lecture Times and Office Information 
+
+Course coordinator: Bruno Korst (LEC 0103) (Office: PT374D, Office hour TBA, Zoom meeting 
+
+room:  https://utoronto.zoom.us/j/88508937446  --  Passcode:  aps105)  -  Lectures:  M2-3pm 
+
+(MS2170), W2-3pm (SF1101), R2-3pm (SF1101).  
+
+Kia  Shakiba 
+
+(LEC101) 
+
+(Office:  PT392,  Office  hour  TBA,  Zoom  meeting 
+
+room: 
+
+https://utoronto.zoom.us/j/4760321227 ) - Lectures: T12-1pm (MC254), R12-1pm (MC252), F2-
+
+3pm (MC254)  
+
+Salma Emara (LEC102) (Office: SF1021B, Office hour: Thursdays 12 pm to 1 pm, Zoom meeting 
+
+room  : https://utoronto.zoom.us/j/81994733653 )  –  Lectures:  M12-1pm  (BA1170),  W12-1pm 
+
+(BA1170), F2-3pm (BA1170) 
+
+Philip  Anderson  (LEC104) 
+
+(Office:  EA316,  Office  hour  TBA,  Zoom  meeting 
+
+room:    
+
+https://utoronto.zoom.us/j/4920918611 (passcode f7KugZ) – Lectures: M9-10am (BA1170), W2-
+
+3pm (SF1101), R2-3pm (SF1101) 
+
+Further  details  on  lecture  times  and  location  can  be  found  via  the  Timetable  Builder 
+
+(ttb.utoronto.ca), under APS105H1 S Computer Fundamentals. 
+
+Grading 
+
+The grades in the course will be based on 9 laboratories, the midterm examination, and the final 
+
+examination.  The  midterm  examination  will  cover  all  the  material  up  to  the  week  before  the 
+
+Reading Week, and will take place on Tuesday Feb 28, 2023, 13:10 — 14:50, for a duration of 
+
+100 minutes, at Examination Centre Room  EX 100 and EX 200. The final examination will be 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+comprehensive, covering all the material in this course, with emphasis on material covered after 
+
+the midterm examination.  
+
+The  composition  of  the  final  grade  is  as  follows:  Labs  30%,  Midterm  Examination  30%,  Final 
+
+Examination 40%. Labs 1, 2, 3 are 2% each, Labs 4, 5 and 6 are 3% each, Lab 7, 8, 9 are 5% 
+
+each. 
+
+Course Website 
+
+The  website  for  this  course  (https://q.utoronto.ca/courses/288235)  can  be  found  on  Quercus, 
+
+accessible from the University of Toronto Portal (https://q.utoronto.ca). Look for the course titled 
+
+Computer  Fundamentals.  All  four  sections  are  in  the  same  online  course  website  —  you  can 
+
+ignore the part of the course title labeled LEC0101. The course syllabus (this document), course 
+
+schedule, in-class announcements, and all handouts for the labs will be accessible there. 
+
+Course Schedule 
+
+Lectures and tutorials begin at 10 minutes past the hour, and end at the hour. Refer to a separate 
+
+spreadsheet  that  you  can  download  from  the  course  website  for  a  detailed  schedule  for  this 
+
+course. 
+
+Lab Assignments 
+
+The crucial part of this course is to learn programming by actually doing it. We provide strong TA 
+
+support in the labs to both help you, and to make sure you’re learning the key skills and concepts. 
+
+You will be expected to do work on your labs on your own time. You may use your own computer 
+
+and also use the Engineering Computing Facility (ECF) computers in room SF 1012 and 1013. 
+
+There are 10 lab exercises in this course (including lab 0), and the lab schedule is provided to 
+
+you in the course schedule spreadsheet, which you can download separately from the course 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+website. Every lab (except Lab 0) has grades associated with it. It is essential to learn all of the 
+
+earlier material as the later content will be based on it. 
+
+A handout describing each assignment will be available on the course website roughly two weeks 
+
+prior to the week in which it is due. Each lab will consist of several questions, and each question 
+
+will  include  several  public  test  cases  for  you  to  test  your  code  with.  You  will  be  using 
+
+https://examify.ca to test and submit your solutions for each of the questions. After the submission 
+
+deadline (which is specified in the lab handout and also visible in examify.ca), your solutions will 
+
+be automatically marked using a number  of test cases used for marking.  Though the test cases 
+
+for marking are not made public, some of them will be identical to the public test cases. The output 
+
+produced by your solutions will be checked against the output generated by the correct solutions. 
+
+Late submissions will not be accepted and you will receive a mark of zero. 
+
+These lab assignments will likely take a substantial amount of your time; it is important to start as 
+
+early as possible on your assignments. You are free to discuss your approach with your fellow 
+
+students; however you may not copy all or part of someone else’s assignment solution. All lab 
+
+assignments you submit should be your own work. Furthermore, under the University of Toronto 
+
+code of conduct, a person who supplies an assignment to be copied will be penalized in the same 
+
+way. We will use software to detect copying that is quite sophisticated and so is difficult to defeat. 
+
+Those found will be prosecuted as academic offences. (Please refer to the following link for more: 
+
+https://www.academicintegrity.utoronto.ca/wp-
+
+content/uploads/sites/135/2014/06/ProcessChartAI.pdf) 
+
+In your timetable, you have been assigned a two-hour period for working on your lab assignments. 
+
+Each lab subsection will be permanently assigned to one Teaching Assistant (TA). That TA will 
+
+be responsible for helping you with your labs throughout this term, so it is essential to prepare 
+
+your questions and discuss them with your lab TA during your two-hour lab period. Labs will be 
+
+held in room SF1012 and SF1013 in the Sandford Fleming Building according to the schedule 
+
+posted in the timetable. 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+Please refer to the Timetable Builder found at https://ttb.utoronto.ca/ 
+
+Section 
+
+Day 
+
+Time 
+
+Location 
+
+PRA 
+
+0101 
+
+Wednesdays 
+
+11:00-13:00 
+
+SF 1013 
+
+PRA 
+
+0102 
+
+Thursdays 
+
+15:00-17:00 
+
+SF 1013 
+
+PRA 
+
+0103 
+
+Mondays 
+
+13:00-15:00 
+
+SF 1013 
+
+PRA 
+
+0104 
+
+Thursdays 
+
+12:00-14:00 
+
+SF 1013 
+
+PRA 
+
+0105 
+
+Thursdays 
+
+09:00-11:00 
+
+SF1013 
+
+PRA 
+
+0106 
+
+Mondays 
+
+09:00-11:00 
+
+SF 1013 
+
+PRA 
+
+0107 
+
+Thursday 
+
+12:00-14:00 
+
+SF 1012 
+
+PRA 
+
+0108 
+
+Fridays 
+
+13:00-15:00 
+
+SF1013 
+
+The total amount of marks for the labs contribute 30% to your final grade, with earlier labs counting 
+
+for less. However, you should not skip any labs, as the later more complex labs rely on the basic 
+
+knowledge learned in the earlier ones. 
+
+Lab 0 will begin in the first week of classes, but will not be marked. Starting from Lab 1, check 
+
+your  individual  schedule  for  the  time  of  your  lab  section.  You  must  attend  your  assigned  lab 
+
+subsection with your assigned TA. 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using Lab Software at Home — Visual Studio Code 
+
+You will be using a software tool that makes it easier to develop software itself — it makes sense 
+
+that software developers have created many software tools to help in this process. We will be 
+
+using the Visual Studio Code, which allows you to create and edit your software, compile it (you 
+
+will learn what that means) and then execute it. Visual Studio Code is available on the computers 
+
+in the ECF labs, and can be easily downloaded and installed on your own computer running either 
+
+Windows or macOS, by visiting its website https://code.visualstudio.com/. 
+
+After downloading and installing Visual Studio Code, you will also need to install the C compiler 
+
+and  debugger.  On  macOS,  you  can  install  them  by  running  the  following  command  in  your 
+
+Terminal in Visual Studio Code: 
+
+xcode-select --install 
+
+On Windows, you will need to install minGW-w64 using MSYS2 in order to install your C compiler 
+
+and debugger. 
+
+You will also need to install two extensions in Visual Studio Code, called C/C++ (by Microsoft) 
+
+and C/C++ Runner (by franneck94). Two tutorial videos — for macOS and Windows respectively 
+
+— have been provided to you in the course website to walk you through all the steps you will need 
+
+for installing and using Visual Studio Code to compile, run and debug C programs. Detailed step-
+
+by-step instructions are also included in Lab 0. 
+
+Tutorials 
+
+There  are  8  tutorial  sections  in  this  course,  with  one  hour  per  week  on  different  schedules 
+
+(included in the preceding table). Tutorials will begin in the week of January 17, 2022, there will 
+
+be no tutorials scheduled in the first week (the week of January 10, 2022) of this course. 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+Tutorials are conducted by a Teaching Assistant (TA) who will be prepared to discuss the material 
+
+from the previous week’s lectures but who will also be open to questions from the class.  It is likely 
+
+that the first 30 minutes or so will be used to introduce and discuss a few programming examples 
+
+that you have not yet seen in class, and the next 20 minutes or so may be open for questions.  
+
+The tutorials will be far more useful if you interact with the TA and ask him/her to explain material 
+
+you do not understand, either from the labs or lectures. 
+
+Section 
+
+Day 
+
+Time 
+
+Location 
+
+TUT 
+
+0101 
+
+Thursdays 
+
+15:00-16:00 
+
+BA2165 
+
+TUT 
+
+0102 
+
+Mondays 
+
+14:00-15:00 
+
+MY330 
+
+TUT 
+
+0103 
+
+Tuesdays 
+
+12:00-13:00 
+
+SF3201 
+
+TUT 
+
+0104 
+
+Wednesdays 
+
+10:00-11:00 
+
+HA403 
+
+TUT 
+
+0105 
+
+Fridays 
+
+11:00-12:00 
+
+WB130 
+
+TUT 
+
+0106 
+
+Mondays 
+
+11:00-12:00 
+
+MY380 
+
+TUT 
+
+0107 
+
+Wednesdays 
+
+10:00-11:00 
+
+UC163 
+
+TUT 
+
+0108 
+
+Fridays 
+
+09:00-10:00 
+
+SF3202 
+
+Participation in the tutorials will be mandatory. 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Plenary Lectures 
+
+The  course  will  progress at  a  rather  fast  pace,  and  an  additional plenary  lecture  is  scheduled 
+
+every Tuesday at 5 — 6 p.m. for all four lecture sections. The room is MY150. This plenary lecture 
+
+is designed to focus on the labs, bonus helpful material that helps you understand the course 
+
+even better, as well as preparation strategies for the midterm and final examination.  The plenary 
+
+lecture will be taught sometimes by the instructors and sometimes by the tutorial TAs.  Though 
+
+the lecture is optional, it is highly recommended for you to attend, especially if you find it difficult 
+
+to follow the regular lectures in the course. 
+
+The weekly plenary lecture starts on January 17, 2021.  
+
+Textbook 
+
+This  course  has  no  textbook.  You  are  welcome  to  select  a  textbook  from  the  many  available 
+
+alternatives that suits your entry programming level and learning style. We found no textbook that 
+
+would  support  both  a  beginner  programmer  and  one  that  already  had  some  programming 
+
+knowledge. Use a search engine (like Google) to check out available titles. 
+
+Professor  Salma  Emara  has  prepared  an  excellent  resource  for  the  APS105  students,  which 
+
+follows  the  flow  of  topics  presented  in  the  course.  Feel  free  to  use  it  as  a  reference: 
+
+https://learningc.org/cover.html 
+
+Another  good  example  that  is  free  provided  that  you  subscribe  to  their  free  newsletter: 
+
+https://www.freecodecamp.org/news/the-c-beginners-handbook/.  It  covers  the  basics  but  does 
+
+not cover the more advanced topics we will cover towards the end of the term. 
+
+We invite you to look for high-quality online sources introducing the C programming language, 
+
+and to share them on the Piazza discussion forum for this course (see the next section). 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+Course Discussion Forum 
+
+If you have any questions that are not specific to you and are likely of interest to your classmates 
+
+as well:, you are invited to post them on the Piazza discussion forum for this course. You can post 
+
+anonymously  to  your  classmates  (but  not  to  the  instructors).  Piazza  is  the  fastest  way  to  get 
+
+answers to your questions, so use it! 
+
+To sign up on the Piazza discussion forum, use the following link: 
+
+https://piazza.com/utoronto.ca/winter2023/aps105h1s 
+
+The Piazza page for the course is found here: https://piazza.com/class/lcgnjpjimjl20x 
+
+If you would like clarifications or explanations of laboratory assignments, do not wait until your 
+
+scheduled lab section. You should first check the Piazza discussion forum — someone else may 
+
+have asked the same question already. Fellow students may also help you out by replying to your 
+
+questions. Even if you do not have a question about a lab, it is a good idea to check the Piazza 
+
+discussion forum from time to time. You may see a question or a response there that will make 
+
+you realize that there is some feature of the lab that you had never considered. We will be using 
+
+the  Piazza  website only as  a discussion  forum  — note  that all  course announcements  will be 
+
+made using the Quercus course website only. 
+
+If you are considering posting a question to the discussion forum, you should do two things before 
+
+doing so. First, try to read the current entries to see if your question has already been asked and 
+
+answered. Second, you should make sure that your question is as clear as you can make it. 
+
+Petitions and Re-marking Requests 
+
+If you miss a lab assignment or the midterm examination for a valid reason, you need to submit a 
+
+petition to the First Year office, which will then be validated and sent to your instructor. The online 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+petition  should  be  sent  to  the  First  Year  office  within  5  days  of  the  event,  and  include 
+
+documentation. 
+
+If you believe that your lab assignments or midterm examination were not marked correctly, you 
+
+need to submit a re-marking request form within two weeks, with detailed reasons in writing. The 
+
+re-marking request form can be downloaded from the course website. 
+
+Academic Integrity Policies 
+
+In developing solutions to labs, you may wish to discuss your approach to the solution with your 
+
+fellow students. This is fine as long as the final solution is yours alone. You should never copy 
+
+your lab solutions or let another student copy yours, not even a portion of them. You should not 
+
+post any of your assignment questions in a private or public online discussion forum or website in 
+
+order to solicit solutions from others. You should not allow any other student to read any portions 
+
+of your solution, either by sharing a computer screen, or by sharing portions of the code remotely 
+
+via instant messaging or social networking web sites. Note that, under the University of Toronto 
+
+code of conduct, a person who supplies an assignment to be copied will be penalized in the same 
+
+way.  We  will use modern  software  to detect  copying  that  is  quite  sophisticated  and difficult  to 
+
+defeat. 
+
+If  you  use  an  online  source,  rather  than  developing  the  code  yourself,  this  is  also  cheating, 
+
+although  it  is  expected  that  students  will  use  online  sources  to  check usage and  examples of 
+
+various C language constructs. If you do copy an online source you run the risk that others may 
+
+also do so, or that the online source is included in the plagiarism detection system. Either way, 
+
+copying will be detected and processed as in the paragraph above. 
+
+For both the midterm and final examination, you must do these yourself and must not supply or 
+
+obtain answers or share information with other students. We may use methods to detect such 
+
+exchanges and will send the matters to the academic integrity representatives for the faculty. 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+For more details, please refer to: https://www.academicintegrity.utoronto.ca/  
+
+Code of Behaviour on Academic Matters: 
+
+https://governingcouncil.utoronto.ca/secretariat/policies/code-behaviour-academic-matters-july-
+
+1-2019  
+
+Getting Help 
+
+Although you may never have needed extra help in school before, you may well find that you 
+
+need assistance in this course. Even if you have heard that it is hard to find help at university, the 
+
+truth is that help is readily available in a number of forums. 
+
+• Tutorials. Although TA’s are given topics for discussion in the tutorials, questions from students 
+
+are more than welcome. Questions should be of a type that might be of interest to other students 
+
+in the class. 
+
+• Piazza discussion forum. Don’t be afraid to post a question on the discussion forum — many 
+
+others may be experiencing the same difficulty. 
+
+•  Office  hours.  As  noted earlier,  your  instructor  is available  for extra help during  regular  office 
+
+hours. 
+
+• Lecture recordings. Some lecture recordings will be posted for your reference after the lectures. 
+
+Email 
+
+Please make sure that you check your University of Toronto mail account on a daily basis. You 
+
+are required to read your email messages that are sent to you at your University of Toronto email 
+
+address  as  it  may  contain  important  announcements  from  the  First  Year  Office,  the  ECE 
+
+Undergraduate Office, or from an instructor or coordinator of this course. 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+Additional Information and Resources 
+
+Statement on Inclusivity, Equity and Diversity at the University of Toronto 
+
+The University of Toronto commits to all students, faculty and staff that you can learn, work and 
+
+create  in  a  welcoming,  respectful  and  inclusive  environment.  In  this  class,  we  embrace  the 
+
+broadest range of people and encourage their diverse perspectives. This team environment is 
+
+how we will innovate and improve our collective academic success. You can read the evidence 
+
+for this approach.  
+
+We  expect  each  of  us  to  take  responsibility  for  the  impact  that  our  language,  actions  and 
+
+interactions  have  on  others.  Engineering  denounces  discrimination,  harassment  and 
+
+unwelcoming behaviour in all its forms. If you experience or witness any form of harassment or 
+
+discrimination, including but not limited to, acts of racism, sexism, Islamophobia, anti-Semitism, 
+
+homophobia,  transphobia,  ableism  and  ageism,  please  tell  someone  so  we  can  intervene. 
+
+Engineering takes these reports extremely seriously. You can disclose incidents of discrimination 
+
+or harassment to our Assistant Dean, Diversity, Inclusion and Professionalism. You can also talk 
+
+to anyone you feel comfortable approaching, including your instructor, your TA, or the First Year 
+
+Office. 
+
+Accessibility Services 
+
+The  University of  Toronto  supports accommodations  for  students  with diverse  learning  needs, 
+
+which may be associated with mental health conditions, learning disabilities, autism spectrum, 
+
+ADHD,  mobility  impairments,  functional/fine  motor  impairments,  concussion  or  head  injury, 
+
+blindness  and  low  vision,  chronic  health  conditions,  addictions,  deafness  and  hearing  loss, 
+
+communication disorders and/or temporary disabilities, such as fractures and severe sprains, or 
+
+recovery from an operation. If you have a learning need requiring an accommodation, please visit 
+
+https://www.studentlife.utoronto.ca/ as soon as possible. 
+
+Mental Health Awareness 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+As a university student, you may experience a range of health and/or mental health challenges 
+
+that  could  result  in  significant  barriers  to  achieving  your  personal  and  academic  goals.  The 
+
+University of Toronto and the Faculty of Applied Science & Engineering offer a wide range of free 
+
+and confidential services that could assist you during these times. We encourage you to seek out 
+
+these resources early and often.  
+
+Student Life Website: https://www.studentlife.utoronto.ca  
+
+Health and Wellness Website: https://studentlife.utoronto.ca/hwc  
+
+If,  at  some  point  during  the  year,  you  find  yourself  feeling  distressed  and  in  need  of  more 
+
+immediate support, the Feeling Distressed Webpage: https://www.studentlife.utoronto.ca/feeling-
+
+distressed, will have more campus resources for you to use.  
+
+Immediate help is available 24/7 through Good2Talk, a post-secondary student helpline at 1-866-
+
+925-5454. 
+
+All students in the Faculty of Applied Science and Engineering have an Academic Advisor who 
+
+can advise on academic and personal matters.  You can find your department’s Academic Advisor 
+
+here: 
+
+https://undergrad.engineering.utoronto.ca/advising-support-services/academic-advising/  
+
+Land Acknowledgement  
+
+We wish to acknowledge this land on which the University of Toronto operates. For thousands of 
+
+years it has been the traditional land of the Huron-Wendat, the Seneca, and most recently, the 
+
+Mississaugas of the Credit River. Today, this meeting place is still the home to many Indigenous 
+
+people from across Turtle Island and we are grateful to have the opportunity to work on this land. 
+
+University of Toronto — Edward S. Rogers Sr. Department of Electrical and Computer 
+
+Engineering 
+
+ 
+ 
+

@@ -1,0 +1,371 @@
+Duration: 2.5 hours (2:00-4:30pm)
+
+April 19th. 2023
+
+UNIVERSITY OF TORONTO
+
+FACULTY OF APPLIED SCIENCE & ENGINEERING
+
+MAT186H1-S Calculus I - Final
+
+Examiner - Janelie Resch
+
+Exam Type: A 
+
+Calculator Type: 4
+
+Full Legal Name: 
+
+Student Number: 
+
+Email: 
+
+Signature: 
+
+Instructions:
+
+1.
+
+NO CALCULATORS PERMITTED.
+
+2.
+
+3.
+
+4.
+
+5.
+
+The final exam contains 17 pages. DO NOT DETACH ANY PAGES FROM THIS TEST.
+
+The backside of the pages WILL NOT be scanned nor graded. Use the back side of pages for rough 
+work only.
+
+Cellphones, smartwatches, or any other electronic devices are not permitted. They must be turned 
+off and in your bag under your desk or chair. These devices are NOT to be in your pockets and 
+CANNOT BE TAKEN TO THE WASHROOM.
+
+Show all your work and justify your steps on every question unless otherwise indicated. A cor­
+rect answer without explanation will receive no credit unless otherwise notes; an incorrect answer 
+supported by substantially correct calculations and explanations may receive partial credit.
+
+6. You must use the methods learned in this course to solve all the problems.
+
+7.
+
+Good luck and do your best!
+
+1
+
+Short Answer Problems:
+
+1. Consider the graph of the function below and answer the following questions.
+
+■5‘
+
+.. t....4-
+
+.. ]....3-
+
+Ai
+
+. I
+
+1...... ■
+
+I
+
+I 
+■J
+
+-5 -4
+
+-3
+
+■1
+
+-5
+
+(a) Evaluate the following. [6 marks]
+
+lini f{x) =
+
+Ihn^ /(a:) =
+
+/(-I) =
+
+lim f(x} = 
+l-»2-
+
+lim /(x) = 
+I-+2+
+
+/(2) =
+
+(b) Does lim^/(x) and lini/(x) exist? Justify your answer. [4 marks]
+
+(c) For what values of x is /(x) discontinuous? State the type of the discontinuity. [6 marks]
+
+2
+
+(d) Write the intervals where f{x) is differentiable. [2 marks]
+
+(e) Write the intervals where f{x) is increasing and decreasing. [3 marks]
+
+(f) State any critical numbers of f{x) and the associated extrema value. [2 marks]
+
+(g) State any points of inflection of /(x). [1 mark]
+
+(h) Write the intervals where f{x) is concave up and concave down. [2 marks]
+
+3
+
+2. Consider the function f{x) = |a:|. Does /(x) have any critical points with corresponding extrema?
+
+Does /(x) have any points of inflection. Justify your reasoning. [3 marks]
+
+3. Write the formal definitions for the Riemann sum and definite integral. What is the difference 
+
+between the Riemann sum and the definite integral. [4 marks]
+
+4. Let f : K R be a continuous function on [a, 6]. State both parts of the Fundamental Theorem 
+
+of Calculus. [2 marks]
+
+4
+
+5. Set up but do not evaluate the integral that would give the area between the curves /(x) =  — 9
+and g{x) = 9 —Sketch the region given in the question, make sure to label the curves. [5 marks]
+
+y
+
+X
+
+6. Show that if y{t') = 2/oe*‘ with 2/0 and k constants, then = ky. [3 marks]
+
+5
+
+7. Consider the differential equation
+
+where A” is a positive constant and P{t'} represents a, population at time t.
+
+(a) What are
+
+the equilibrium solutions? [2 marks]
+
+(b) What is the physical interpretation if > 0? [1 mark]
+
+8. Set up but do not evaluate the integral to find the volume of the solid of revolution bounded by 
+
+X = 1, X = 4 and /(x) =  — 4x + 5 rotated about the x-axis. [5 marks]
+
+y
+
+4
+
+3
+
+2
+
+1
+
+-1
+
+-1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+6
+
+Computational Problems:
+
+1. Use any method to evaluate the following. Make sure to justify your work. 
+
+(a) Evaluate lim 
+X—>oo
+
+3x + l \
+X — sin (x))
+
+. [5 marks]
+
+(b) Find the derivative of /(x) = 
+
+[5 marks]
+
+7
+
+2. Use any method to evaluate the following integrals and show all steps.
+
+(a) y (x= + &
+
+;^ + i’" + tt"' + 1) dx [2 marks]
+
+(b)
+
+a:2-9 
+a: + 3
+
+da: [4 marks]
+
+(c) Jdx [5 marks]
+
+8
+
+3. Solve one of the two integrals. Yes, you only need to solve one of these to get full marks! 
+
+[6 marks].
+
+(a)
+
+/ sin‘‘(a;) cos(2:) dx 
+Jo
+
+(b)/
+
+■® 1
+
+y/1x - 1
+
+di
+
+9
+
+Long Answer Problems:
+
+1. Find all values of a, 6 6 IR such that [8 marks]
+
+lim
+X—>2
+
+ax^ + bx + 2 
+In (3 — x)
+
+= -1.
+
+10
+
+2. Consider the function
+
+x2-4
+
+/(a;) =
+
+Perform all the steps we outlined to sketch the curve with calculus, and then sketch the curve. 
+This includes listing the domain, any asymptotes, intervals of increase/decrease with justification, 
+intervals of concavity with justification, and along with the sketch plotting and labehng any critical 
+numbers, points of inflection, and intercepts. Make sure to justify relative extrema using the first 
+or second derivative test. [12 marks]
+
+Domain:
+
+Therefore, the domain is 
+
+Intercepts:
+
+Therefore,
+
+we have the 3/-intercept(s)
+
+and a:-intercept(s)
+
+11
+
+Asymptotes:
+
+This gives vertical asymptote(s)
+
+and horizontal asymptote(s)
+
+Critical Points and Increasing/Decreasing Intervals:
+
+12
+
+We have the critical point(s)
+
+f (a:) is increasing on the interval
+
+/(x) is decreasing on the interval
+
+Points of Inflection and Concavity Intervals:
+
+13
+
+. ,1 <2..... 3........ 4
+
+,5 .. 6
+
+a:
+
+The inflection point(s)
+
+f{x) is concave up on the interval
+
+f{x) is concave down on the interval
+
+Sketch of Graph:
+
+-6.-5 -4.-3 .
+
+y
+
+;
+
+4
+
+3
+
+1
+
+.. 1 0
+
+—1
+
+/ _3.
+
+-1
+
+^5
+
+-6
+
+14
+
+3. Find the volume of the largest possible cone with radius r and height h inscribed in a sphere of 
+radius R. What fraction of the volume of the sphere is occupied by the cone? Note that the volume 
+of a sphere is 571and the volume of a cone is 
+
+[10 marks]
+
+15
+
+4. Let T{t) represent the temperature of an object at time t in a room with ambient temperature Ta-
+
+(a) Recall Newton’s law of coohng, which says the rate of change of temperature of an object is 
+proportional to the difference in temperatme between the object and its surroundings. If A: > 0 
+is the constant of proportionality, write the differential equation that describes the cooling law. 
+[1 mark]
+
+(b) State any equilibrium solutions. [1 mark]
+
+(c) Solve for the family of solutions to this differential equation. [5 marks]
+
+16
+
+(d) Consider a cup of coffee in a room with a temperature of 20° C. The temperature of the coffee 
+is initially 100° C but 10 minutes later, it has cooled to 60° C, determine the temperature of 
+the coffee as a function of time. [5 marks]
+
+17
+
+

@@ -1,0 +1,170 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – 2011 – GROUP G (107) 
+Problem Set 4   
+Due: 2:30 pm on October 05, 2012 
+
+1.   The shear leg derrick is used to haul the 300-kg net of fish 
+
+onto the dock. Determine the force along each of the legs AB 
+and CB and the tension in the winch cable DB. Assume 
+Members AB and CB are two force members. 
+
+D  
+
+z  
+
+5.0 m 
+
+4.0 m 
+
+B  
+
+A  
+
+x 
+
+C  
+
+2.0 m 
+
+2.0 m  
+
+4.0 m 
+
+y  
+
+2.   Cables OA, OB and OC are used to support a crate as 
+
+shown. If the allowable tensile strength of each cable is 
+1200 N, determine the largest mass of the crate that can be 
+supported. Note that the cable supporting the mass has a 
+higher strength and therefore will not rupture. 
+
+4.2 m 
+
+1.0 m 
+
+O 
+
+3.0 m 
+
+A 
+
+z 
+
+2.1 m 
+B 
+
+1.6 m 
+1.0 m 
+
+6.0 m 
+
+y 
+
+3.  Pole OA is subjected to the force shown.  
+
+Find  the  magnitude  and  Cartesian  vector  expression  of  the 
+projected components of the force:  
+i.)  parallel to the pole, and  
+ii.)  perpendicular to the pole. 
+
+iii.)  Find the angle θ. 
+
+4.  A bent pipe is subjected to the forces as shown. Determine: 
+
+i.)   the resultant moment of the force about point O as a 
+
+Cartesian vector, and 
+
+ii.)  the magnitude of the moment.  
+
+x 
+
+5.5 m 
+
+C 
+m (kg)  
+
+z 
+
+3.2 m 
+
+A 
+
+θ° 
+
+F=600 N 
+5.0 m 
+
+O 
+
+x 
+
+4.0 m 
+
+2.6 m 
+
+B 
+
+z 
+
+y 
+
+O 
+
+1600 mm  
+
+2000 mm  
+
+D 
+
+C 
+
+x 
+
+A 
+
+400 N 
+
+y 
+500 mm 
+
+800 N 
+
+B 
+
+400 mm  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

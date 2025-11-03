@@ -1,0 +1,339 @@
+APS104 s2015 Test test 1 answer key 
+QUESTION 1: Atomic Bonding and Crystal Structure (20 pts) 
+(a)  Write out the electron configuration for the following elements:[4 pts] 
+
+  Boron:     
+
+1s2 2s2 2p1 
+
+  Potassium:   
+
+1s2  2s2  2p6 3s2 3p6 4s1 
+
+ Chromium:   
+
+1s2  2s2  2p6 3s2 3p6 4s2 3d4 OR 1s2  2s2  2p6 3s2 3p6 4s1 3d5 
+
+[1pt] 
+
+[1pt] 
+
+[2pt] 
+
+(b) The potential energy between Mg2+ and O2- ions in a MgO crystal (NaCl crystal structure) can be 
+
+estimated as 𝐸 = − !
+!
+
++ !
+!! 
+
+where A = 1.61 x 10-27 J m, B = 3.87×10-96 J m8, r is the separation (between ion centers) in m, and E 
+is the potential energy in J. 
+
+(i) 
+
+Calculate the equilibrium separation between the ion centers. [5 pts] 
+
+2.12 x 10-10 m 
+
+(ii) 
+
+Calculate the bonding energy between the Mg and O ions at this equilibrium distance. [2 pts] 
+
+ -4.14 eV 
+
+(iii) 
+
+If the ionic radius of Mg2+ is 0.072 nm, what is the ionic radius of O2- ?  [2 pts] 
+0.14 nm 
+
+ (iv) What is the lattice constant for MgO?  [2 pts]   
+4.24 x 10-10 m 
+
+(c) Each of the words or phases on the right is associated with one of the four types of bonding.  Choose 
+the most appropriate bonding type for each, and put the corresponding letter in the box.   [5 pts] 
+
+A) Io nic
+
+ B)  Covalent
+
+ C)  Metallic
+
+ D)  van  del Waals
+
+ silicon
+
+CsCl
+
+Solid Arg on
+
+ fre e electrons
+
+nit rogen molecule
+
+Madelung  const ant
+
+B A D C B 
+
+QUESTION 2:  Crystal Structure and Defects (20 pts) 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 s2015 Test test 1 answer key 
+
+(a)  Name the two defects in the ionic solid shown below [2 pts] 
+
+(b) What is the atomic density of copper, in atoms per cm3?  [2 pts] 
+Note: the density of Cu is 8.4 g/cm3 
+
+7 .96 x 1022 cm-3 
+
+(c) 
+
+Given that copper is FCC, what is the lattice constant? 
+
+[4 pts]  
+
+3.69  x 10-10 m 
+
+(d) 
+
+Given the the density of vacancies in a metal is given by: 
+
+𝑁! = 𝑁𝑒!!
+
+!" 
+
+where N is the density of Cu atoms per cm3, and Q = 0.9 eV is the activation 
+energy for vacancy formation. 
+
+What is the density of vacancies in Cu at 1000°C?   [4 pts]   
+
+2.18 x 1019 cm-3 
+
+ (e) At what temperature is one out of 104 Cu atomic sites a vacancy? 
+
+[4 pts] 
+
+1134K 
+
+ (f) True / False, one point for each answer 
+
+[4 pts total] 
+
+Check one  
+T 
+
+F 
+
+F
+
+T 
+
+F
+
+The tensile strength of an alloy is generally lower than that of either of the 
+
+constituent pure elements.
+
+For a screw dislocation, the Burgers vector is parallel to the dislocation line. 
+
+In the zincblende crystal structure, the coordination number of the cation and the 
+
+anion are not the same. 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 s2015 Test test 1 answer key 
+QUESTION 3: Directions, Planes and Densities (20 pts) 
+
+. 
+f) Calculate the planar density of the slip plane, in atoms per nm2                     
+
+8.54 atoms/nm2 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+APS104 s2015 Test test 1 answer key 
+g) The linear density of atoms along  the slip direction, in atoms per nm.         
+ 2.84 atoms / nm 
+
+QUESTION 4:  Mechanical properties of materials (20 pts) 
+The  stress  strain  profile  of  an  isotropic  material  (Material  A)  with  a  diameter  of  5.0  mm  is  shown  in 
+Figure 1.  The Poisson's ratio is 0.35. 
+
+4a.	What	is	the	Young’s	Modulus	of	this	material?	
+
+[4	pts]	 	
+
+150	GPa	
+
+4b.	Under	a	constant	load,	the	cylinder	diameter	increases	by	2	×	10-3	mm.	The	deformation	is	elastic.		
+
+	 The	stress	is	(circle	the	correct	answer):		
+
+[2	pts]	
+
+Compressive	
+
+4c.	
+
+Determine	the	load	for	question	4b:		[4	pts]	
+
+3366N	
+
+4d.	Show	on	Figure	1b	how	you	would	determine	the	0.2	%	offset	yield	strength.	The	0.2%	offset	yield	
+strength	is____370	MPa___.		Show your answer on Figure 1b and fill in the box below to receive full 
+credit.  		[2pts]	
+
+4e)	Classify	the	following	Materials	as	corresponding	to	curves	A,	B,	C.	(circle	one)				[2	pts	each]	
+Ceramic	(Ionic	Material)	
+Polymer		
+
+B	
+
+C	
+
+4f)	Circle	the	correct	answer:			[2	pts]	
+
+Material	
+
+		B	
+
+has	the	highest	ductility	
+
+4g)		Circle	the	correct	answer:	[2	pts]	
+
+Material	
+
+C		
+
+has	the	highest	toughness	
+
+Page 4 of 4 
+
+ 
+ 
+ 
+	
+	
+	 	
+	
+	
+	
+	
+	
+	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+	
+

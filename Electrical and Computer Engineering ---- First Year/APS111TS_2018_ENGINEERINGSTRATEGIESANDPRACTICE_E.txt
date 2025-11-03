@@ -1,0 +1,247 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APSI11T Engineering Strategies and Practice 
+Course Instructor: Jason Bazylak 
+Communication Instructor: Maria Cioni 
+Final Examination 
+Apr 16, 2018 
+9:30 am to 12:00 pm (2.5 hours) 
+
+Student Name: 
+
+UTor Email: 
+
+Please print clearly 
+
+Final Examination Instructions 
+Ensure that you have all 10 pages of this Final exam and the separate one-page 
+Final Exam RFP. 
+There are 70 marks in total on this exam. 
+You have 2.5 hours to complete this exam. 
+Write your name and Ulor Email address on this booklet. 
+Read each question carefully. All questions should be answered directly in this 
+booklet in the box provided. 
+If you need scrap paper for draft work, ask an invigilator. 
+Write in complete sentences and complete paragraphs were applicable. 
+Marks for each question are indicated in square brackets []. 
+This is a Type A Closed book examination; no aids permitted. You are allowed a 
+paper translation-only dictionary (no definitions). 
+Where needed draw upon your own engineering expertise. You will not be required 
+to have references as you normally would. 
+At the end of the exam hand in this booklet. You do not need to hand in the RFP. 
+Circle the number "1." at the start of Question 1 on page 2 for a bonus mark. 
+
+Page 1of 10 
+
+1. Circle T (TRUE) or F (False) for each statement below. If the answer is FALSE, then 
+rewrite the entire statement to make the statement TRUE. There may be multiple 
+ways to do this, just pick one. [1 Mark each; total 9 Marks] 
+
+[T or F]: The purpose of an engineering argument is to market. 
+
+[T or F]: The purpose of the Project Report (PR) is to define the solution. 
+
+[1 or F]: The purpose of the Measures of Success is to persuade the client that 
+your recommended design is the right design for them. 
+
+[T or F]: Idea selection defines the client's need by specifying the boundaries of the 
+design problem. 
+
+[T or F]: The purpose of prototyping the design is to test the success of a design. 
+
+[T or F]: A constraint goal is the metric that the design tries to meet. 
+
+[1 or F]: Considering the most-to-least way to prevent negative environmental 
+impact, an engineering designer would: Reuse, Reduce, Recycle. 
+
+[T or F]: In the Toulmin Model of Argument, the problem is called the warrant. 
+
+[1 or F]: Life cycle costing is a tool to visualize potential environmental impacts. 
+
+Page 2 of 10 
+
+Questions 2 to 14 pertain to the Request for Proposal (RFP) - Wireless Batten' 
+Recharging in a Factory 
+
+2. Identify the functionality of the problem using the three steps below (2.a to 2.c) 
+
+a. Write a Gap for the problem. [2 Marks] 
+
+Write a Functional Basis for the problem. It must be linked to the Gap in Question 
+2.a. Use the verbs discussed in lecture and listed below and no additional 
+qualifiers. [1 Marks] 
+
+Write one Primary Function for the problem. It must be linked to the Functional 
+Basis in Question 2.b. Use the verbs discussed in lecture and listed below and no 
+additional qualifiers. [1 Marks] 
+
+Page 3 of 10 
+
+3. Write a Problem Statement for the RFP. [6 Marks] 
+
+4. Write two Constraints complete with metric (limit is not needed). [4 Marks] 
+
+Page 4 of 10 
+
+5. Write three Objectives complete with metric (goal is not needed). List them in order of 
+
+importance and give evidence of this ranking. [9 Marks] 
+
+Identify one key Stakeholder on whom the design will have significant impact. 
+Describe the impact. Do not use the client, user or design team. [2 Marks] 
+
+Identify one specific aspect of the Service Environment. [1 Mark] 
+
+Page 5 of 10 
+
+8. Using two different idea generation methods, other than Brainstorming/Enumeration, 
+generate and describe two feasible design alternatives. Identify which method was 
+used for each design and why was it used. The more innovative and distinctly different 
+the approach of the design alternatives, the more marks you will receive. [9 Marks] 
+
+Page 6 of 10 
+
+9. Using the three Objectives generated above and a Weighted Decision Matrix, make a 
+recommendation for one of your alternative designs. This recommendation must use 
+the SEE structure for a credible argument as discussed in class. [6 Marks] 
+
+Page 7 of 10 
+
+For one Objective above, give a bulleted plan for measuring the success of this 
+objective. Identify what type of measure of success it is. [2 Marks] 
+
+Draw a basic Life Cycle Diagram for your recommended design. [6 Marks] 
+
+Page 8 of 10 
+
+12.Assume your recommended design (design 1) and the runner up design (design 2) 
+have the costs listed in Table 1. If the devices being charged need 300 kWh of 
+electricity per day and the price of electricity is $0.10 I kWh, what is the payback 
+period for Design 2 (in days or years)? [5 Marks] 
+
+Table 1: Design cost comparison 
+
+Implementation Cost 
+
+Power Transmission
+Efficiency 
+
+Maintenance 
+
+Costs 
+
+Design 1 
+
+Design 2 
+
+$l 0k 
+
+$25k 
+
+60% 
+
+75% 
+
+$5k 
+
+$5k 
+
+13. If you were presenting the results from Question 12 to the client in an oral 
+presentation, what would be an effective header on the slide? [1 Mark] 
+
+Page 9 of 10 
+
+14. If you were tasked with this REP, you would need to do research. Give three 
+
+examples of research questions/areas you need to investigate and the type of source 
+that would provide credible information. [6 Marks] 
+
+Page 10 of 10 
+
+Engineering Strategies and Practice 
+APS111T -2018 
+
+Final Exam RFP: Wireless Battery 
+Recharging in a Factory 
+
+Our client, a multi-national industrial manufacturer, sends its products to customers. After the customer 
+
+has used the product, it is returned to our client. The product is repackaged in a factory and sent to 
+
+other customers. Each product is used and repackaged many times. 
+
+Our client is developing a battery-powered device that will be attached to their products. The device will 
+
+contain a rechargeable battery. Our client requires a system to recharge the batteries while the 
+
+products are being repackaged in their factories. The system must be safe to use near large, metal 
+
+objects. The system must be safe to use in a factory containing flammable liquids and gases (with 
+appropriate containment facilities). 
+
+Our client has a prototype device and plans to launch it on the market in 2019. They welcome proposals 
+
+for wireless battery recharging mechanisms that can be implemented for full industrial use in 2019. 
+
+POSSIBLE APPROACHES 
+
+Our client is open to all solutions that can meet the requirements and specifications. 
+
+Magnetic induction charging 
+
+Magnetic resonance charging 
+
+APPROACHES NOT OF INTEREST 
+
+Wired recharging 
+
+Energy harvesting technologies 
+
+The successful technology should: 
+
+Be a wireless, non-contact, recharging system 
+
+Work in high throughput 
+
+Recharge up to three thousand 4000mAh batteries per hour either in an inline process 
+or in batches of ~100 batteries simultaneously 
+
+With limited time for recharge (< few hours) 
+
+Have a power transmission efficiency ~:85% 
+
+Work in an industrial (factory) setting 
+
+Work in close proximity to many, large metal objects 
+
+Enable autonomous recharging with minimal operator input 
+
+Robust to tough mechanical shocks 
+
+Minimal heat generation 
+
+Have high reliability and low maintenance 
+
+Long system life-time (c. 10 years) 
+
+Be safe to use in a factory containing flammable liquids and gases (with appropriate 
+
+containment mechanisms) 
+
+Receiver coil: 
+
+Will fit into a device 15l20mm diameter, :5170mm long 
+
+May allow metallic parts inside the coil loop 
+
+System must: 
+
+Adhere to appropriate standards for example: cli, Alliance for Wireless Power or Power 
+
+Matters Alliance 
+
+Comply with relevant safety regulations 
+
+Based on a NineSigma RFP # 69687 
+
+

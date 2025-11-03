@@ -1,0 +1,44 @@
+Problem 3. (6 pts total) We encounter an Unobtainium-rich pool in a cave on the planet Pandora.
+
+• A water-Unobtainium solution having a constant concentration of 4 kg/L ﬂows into the
+
+pool at a constant rate of 0.3 L/h.
+
+• It is known that the pool loses Unobtainium to radioactive decay at a rate of 6 percent by
+
+mass per hour.
+
+• The well-mixed water-Unobtainium solution in the pool ﬂows out of the pool at a rate of
+0.3 L/h. The solution ﬂowing out has the same concentration of Unobtainium as that of
+the well-mixed pool.
+
+• Additionally, we will harvest Unobtainium directly from the pool, removing it at a constant
+
+rate of r kg per hour.
+
+• When we arrive there are 5 liters of solution in the pool and 5 kilograms of Unobtainium
+
+dissolved in it.
+
+(a) (3 pts) Write an initial value problem for U (t), the mass of Unobtainium in the pool t hours after
+
+we arrive. Explain your answer using complete sentences.
+
+MAT186 F20 Midterm Crowdmark portion
+
+Problem 3 page 1/2
+
+For parts (b) and (c), assume that r = 0.4.
+
+(b) (1 pt) How quickly would the the mass of Unobtainium in the pool be changing at the exact mo-
+
+ment there are 5 kilograms of it in the pool?
+
+(c) (2 pts) Without solving the differential equation exactly, explain what would happen to the mass
+of Unobtainium in the pool over time as t → ∞. Use complete sentences as part of your answer.
+
+MAT186 F20 Midterm Crowdmark portion
+
+Problem 3 page 2/2
+
+

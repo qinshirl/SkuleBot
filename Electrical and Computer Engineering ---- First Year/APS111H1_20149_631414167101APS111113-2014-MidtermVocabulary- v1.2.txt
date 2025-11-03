@@ -1,0 +1,305 @@
+Engineering Strategies and Practice 
+APS 111 & 113 
+
+2014 – Midterm Vocabulary List and information 
+
+Information: The following instructions will appear on the first page of the midterm test. 
+
+This is a 70-minute midterm exam. There are 36 questions on the test. It is a multiple-choice midterm and is 
+closed book. No aids are permitted. Read each question thoroughly and provide the answer on the answer 
+sheet. Be sure to fill out the answer sheet clearly with no overlaps. Fill out the answer sheet using a pencil. 
+Erase any errors completely. One answer per question and each question is worth 1 mark. There is no 
+deduction for wrong answers. Select the answer that best satisfies the question. You are not required to hand 
+in the exam question booklet. You may tear off the appendix to ease the answering of questions. 
+
+Case study: The case study will appear in an appendix to the test. The case study deals with a label adhering 
+problem. We are assuming you have read and understood everything in the case study. If you have 
+questions about the case study, please ask on Piazza before the exam. No questions about the case study 
+will be answered during the exam. We do not expect you to have formulated a solution for this problem. 
+
+Vocabulary: We will assume that you know (and can answer questions about) the terms that appear in the 
+
+textbook, case study and readings, or that have appeared in lecture.  
+
+The following is a list of some additional words you may find on the Midterm. It does not include all of the 
+words on the exam, and some of these words will not appear on the exam. Words that have been 
+specifically defined or discussed in lecture or readings are not listed. Familiarity with these words will help 
+you move more quickly through the exam. You should also be familiar with their plural form, past tense 
+form, etc. If you already have a good understanding of the common meaning of these words, then there is 
+no need to look them up in a dictionary, or spend any additional time studying them.
+
+ability 
+abstract 
+acceptable 
+accommodate 
+activate 
+active 
+activity 
+actually 
+additional 
+address 
+adhere 
+adhesive 
+adjectives 
+alternatives 
+ant 
+anxiety 
+
+application 
+apply 
+appropriate 
+arise 
+aspects 
+assignments 
+assist 
+attach 
+avoid 
+aware 
+basic 
+best 
+blame 
+bond 
+boundary 
+box 
+
+break 
+budget 
+buy 
+cardboard 
+cause 
+characteristics 
+check-in 
+choice 
+circle 
+circulate 
+citation 
+cite 
+coffee 
+cohesion 
+commitment 
+committing 
+
+common 
+company 
+comparison 
+completion 
+concepts 
+conditions 
+conflict 
+connection 
+consequences 
+contract 
+contribute 
+contribution 
+controversies 
+convey 
+Convocation Hall 
+correct 
+
+cover 
+create 
+credibility 
+credit 
+current 
+customer 
+database 
+deadline 
+decommission 
+decorate 
+define 
+deliver 
+describe 
+detail 
+device 
+dimensions 
+
+ 
+ 
+ 
+ 
+ 
+directly 
+discussion 
+disrupt 
+ears 
+earth 
+effective 
+elevator pitch 
+eliminate 
+enable 
+encourage 
+entire 
+entry 
+equal 
+equipment 
+establish 
+evaluate 
+evidence 
+example 
+existing 
+expedite 
+expression 
+extreme 
+features 
+feet 
+first-person 
+fix 
+flow 
+following 
+form 
+formal 
+format 
+fulfill 
+gather 
+gecko 
+generally 
+
+generate 
+given 
+glue 
+goals 
+handling 
+hands 
+hardware 
+help 
+hot 
+humidity 
+idea 
+ideation 
+identify 
+imagine 
+implementation 
+important 
+inactive 
+inclusion 
+indoor 
+ink 
+input 
+investigate 
+issues 
+item 
+job 
+join 
+key 
+label 
+late 
+LEGO 
+limited 
+liquid 
+list 
+main 
+major 
+
+meeting 
+minor 
+month 
+multiple 
+name 
+net 
+nouns 
+occur 
+operating 
+opposed 
+optimal 
+organization 
+outdoor 
+output 
+overall 
+paragraph 
+pattern 
+perform 
+permanent 
+persist 
+plagiarism 
+point 
+prefer 
+pressure 
+prior 
+produce 
+progress 
+project 
+propagate 
+properties 
+prototype 
+punish 
+question 
+quotation marks 
+reaction 
+
+reader 
+reasoning 
+redo 
+reduce 
+refer 
+reference 
+remain 
+RFID chips 
+routine 
+schedule 
+score 
+search 
+section 
+sense 
+sentence 
+serious 
+severe 
+shared 
+shelf life 
+shopping mall 
+show 
+shown 
+sound 
+source 
+specificity 
+square-bracket 
+stand-alone 
+statement 
+step 
+stick 
+storage 
+stress 
+structure 
+style 
+styrofoam cup 
+
+substrate 
+succinct 
+sugar 
+suggest 
+summarize 
+support 
+surface 
+surrounding 
+synonyms 
+system 
+task 
+technique 
+temperature 
+topic 
+trade-off 
+transmit 
+transport 
+types 
+typical 
+unfamiliar 
+variety 
+verbs 
+version 
+virtual 
+visualize 
+voice 
+well-prepared 
+Wikipedia 
+words 
+work 
+worker 
+worry 
+writer 
+writing 
+year
+
+2 
+
+ 
+ 
+

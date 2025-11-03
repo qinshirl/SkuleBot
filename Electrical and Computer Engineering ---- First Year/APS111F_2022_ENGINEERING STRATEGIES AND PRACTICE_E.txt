@@ -1,0 +1,1239 @@
+I
+
+APS111 & APS113 Engineering Strategies and Practice
+
+Instructors: Susan McCahan, Ted Nolan, Ben Kinsella, Chirag Variawa and Patricia
+Sheridan
+
+Final Examination
+
+MULTIPLE CHOICE BOOKLET - Booklet 1
+
+December 09, 2022 
+
+6:30 pm - 9:00 pm (2.5 hours)
+
+•  This is a 2.5 hour final exam with 44 questions (34 Multiple Choice and 10 Long Answer). The 
+
+multiple choice questions are worth 50% of the exam grade and the long answer are worth 50% of 
+the exam grade.
+
+•  This is a Type A closed book examination; no aids permitted other than a paper translation-only 
+
+dictionary (i.e. direct word-to-word translations: no definitions.)
+If you need scrap paper for draft work, ask an invigilator.
+
+• 
+•  Ensure that you have THREE items:
+
+1.  MULTIPLE CHOICE BOOKLET - Booklet 1; Contains all the multiple choice questions. DO 
+NOT record answers in Booklet 1. Instead fill in the answers to the multiple choice questions 
+on the bubble page found in the ANSWER BOOKLET - Booklet 2. Booklet 1 is NOT handed 
+in and the answers will NOT be graded.
+
+2.  ANSWER BOOKLET - Booklet 2: has all the long answer questions, space to directly 
+
+answer the long answer questions, and a bubble page to record the answers to the multiple 
+choice questions. The answers to the long answer questions should be recorded directly into 
+Booklet 2. Answers to the multiple choice questions should be recorded into the bubble page 
+in Booklet 2. Booklet 2 MUST BE handed in at the end of the exam.
+
+3.  CASE STUDY BOOKLET - Booklet 3: has three case studies. Case Study #1 and #2 are to 
+be used to answer some of the multiple choice questions. Case study #3 is used to answer 
+the long answer questions. Booklet 3 is NOT handed in at the end of the exam.
+
+•  THIS BOOKLET IS THE MULTIPLE CHOICE BOOKLET - Booklet 1.
+
+Multiple-Choice (50%):
+
+•  There are a total of 34 multiple choice questions worth a total of 34 marks. These multiple choice 
+
+questions are worth 50% of the exam.
+
+•  Input your answers to the multiple choice questions on the bubble page in the Answer 
+
+Booklet - Booklet 2. Do NOT answer the multiple choice questions on the questions directly in 
+this booklet. They will not be graded.
+
+•  There is no penalty for incorrect answers.
+•  Use a pencil or a pen (pencil is recommended in case you make errors).
+•  Be sure to fill out the bubble page clearly and darkly with no overlaps.
+•  Erase any errors completely.
+•  Provide only the single, most correct answer for each question.
+
+Page 1 of 9
+
+Multiple Choice Questions
+
+ANSWERS FOR THE FOLLOWING MULTIPLE CHOICE MUST BE 
+INPUTTED INTO THE BUBBLE PAGE IN THE ANSWER BOOKLET. 
+ANSWERS RECORDED IN THIS BOOKLET WILL NOT BE MARKED.
+
+1. 
+
+In this course you were required to create a Team Charter because:
+
+a.  You have never been in an engineering design team before and needed to know what 
+
+to do for the project.
+
+b. 
+
+It tested your knowledge of different teamwork concepts.
+
+c. 
+
+It was important to first define how you were going to work to ensure that your team 
+was able to be successful.
+
+d. 
+
+It made sure that you got to know who was on your team.
+
+2.  The three components of a complete reflection are:
+
+a.  Development, Ideation, Evaluation
+
+b.  Description, Analysis, Evaluation
+
+c.  Description, Ideation, Engagement
+
+d.  Development, Analysis, Engagement
+
+3.  Which of the following is TRUE?
+
+a.  A constraint limit describes a firm boundary that cannot be violated.
+
+b.  An objective goal describes a firm boundary that cannot be exceeded.
+
+c.  An objective may have both a goal and a limit.
+
+d.  All constraints must have a quantitative limit.
+
+4.  What is the most complete description of the goals of multimodality in engineering 
+
+communication?
+
+a.  Using images to show the service environment and solutions.
+
+b.  To use many different modes of communication in a report
+
+c.  To determine where written words are most apt.
+
+d.  Using the best mode to convey intended information and meaning.
+
+Page 2 of 9
+
+5. How could the concept of triangulation be utilized in the Sidney Smith project?
+
+a.  Defining the optimal point on the building fagade to place artwork.
+
+b.  Providing as much research support for a claim as possible.
+
+c.  Providing different types of evidence to support one claim.
+
+d.  Providing three sources of related data to support one claim.
+
+6. In the Black Box Method:
+
+a. 
+
+Inputs and outputs are gathered to identify component flows.
+
+b. 
+
+Inputs are connected to outputs to identify functions.
+
+c. 
+
+Inputs are used to identify outputs and constraints.
+
+d. 
+
+Inputs and outputs are gathered to find aspects of the service environment.
+
+7. What best describes the intended audience for an executive summary?
+
+a.  The reader who needs an introduction to the project before reading the full report.
+
+b.  The reader who may only read the executive summary.
+
+c.  The reader who needs a detailed understanding of a specific section of the project.
+
+d.  The reader who will report on a project to the executive of a firm.
+
+8. Why is parallel structure important in an alternative designs section of a design report?
+
+a. 
+
+It makes it easier for the reader to compare your designs.
+
+b. 
+
+It ensures that each design is equally viable as a solution.
+
+c. 
+
+It ensures that each design is addressing each function.
+
+d. 
+
+It ensures that formatting guidelines are followed correctly.
+
+9. Which of the following is TRUE?
+
+a.  Patents prevent other people from manufacturing a technology indefinitely.
+
+b.  A Canadian patent protects an invention in all jurisdictions.
+
+c.  Patents protect software code.
+
+d.  Patents can only be used to cover new and novel technology.
+
+Page 3 of 9
+
+10. Which alternative design is inside the Design Space?
+
+a.  One that satisfies the scope but does not satisfy all constraints.
+
+b.  One that satisfies all constraints but does not satisfy ail functions.
+
+c.  One that satisfies all functions but does not satisfy all objective goals.
+
+d.  One that satisfies ail objective goals but does not satisfy the scope.
+
+11. The datum in the Pugh method is:
+
+a.  A minimal viable solution that serves as a baseline for any new idea.
+
+b.  The numerical score for each alternative design
+
+c.  A benchmark for evaluating alternative design ideas.
+
+d.  The set of objectives used to assess each alternative design..
+
+12. In your PR Debrief you received TA feedback that some of your objectives were
+
+unmeasurable. Your team decided it had to go back, conduct more research, and add 
+metrics. This is an example of:
+
+a.  Decomposition
+
+b.  Delegation of tasks
+
+c.  Scope creep
+
+d. 
+
+Iteration
+
+13. Which is TRUE regarding a How-Why tree?
+
+a. 
+
+It is used to prioritize objectives.
+
+b.  Ask “Why? Why? Why?” to get to the root cause.
+
+c. 
+
+It is used to generate constraints.
+
+d.  Move lower on the tree by asking the question: "How?”
+
+14. You are in the Idea Generation phase and your team is brainstorming together. One of your 
+team members begins eliminating ideas. Your professor jumps out of a bush and says:
+
+a. 
+
+“Why is this one team member doing all the eliminating, you should all be doing it!”
+
+b.  “Brainstorming should only be used during the Problem Definition phase!”
+
+c.  “Please do not filter your ideas while brainstorming.”
+
+d.  “The client didn’t say brainstorm, so don’t brainstorm.”
+
+Page 4 of 9
+
+15. Once a consolidated list of design ideas is created, which step comes next in the idea 
+
+selection process?
+
+a.  Multi-voting to reduce the long list of ideas to a manageable number.
+
+b. 
+
+Identifying the ideas that best meet the objectives and objective goals.
+
+c.  Using a graphical decision matrix to select the best ideas.
+
+d.  Eliminating ideas that do not meet function and constraint requirements.
+
+16. The purpose of generating detailed requirements in a design process is:
+
+a.  To ensure that the design problem has a solution.
+
+b.  To document and define the design problem.
+
+c.  To expand the design space and solution space.
+
+d.  To show that the design team is following the design process.
+
+17. An ESP design team working on the Sid Smith project this term goes to visit Nathan Phillips 
+Square in front of Toronto City Hall. They observe the way the outdoor area is designed 
+and used to gather information for their project. This activity is called:
+
+a.  Scoping
+
+b.  Benchmarking
+
+c. 
+
+Iterating
+
+d.  Designing by analogy
+
+Questions 18 to 18 pertain to Case Study #1: Team Case Study found in 
+the Case Study Booklet- Bookiet #3.
+
+18. Which revision to the Team Charter should address this situation in the future?
+
+a.  We will make decisions as a team by vote, where majority rules
+
+b.  Team members will respond to messages on Teams within 2 hours.
+
+c.  Lesley will decide on work re-allocation when all team members are not present to 
+
+decide.
+
+d.  Work will be ready for review by the entire team 1 day in advance of the deadline.
+
+Page 5 of 9
+
+19. Alex wants to provide Kim some feedback on her actions within the team. Which of the 
+
+following meets the AID model discussed in class?
+
+a.  Your actions were unfair as it made me do more work than everyone else. You should 
+
+take on unfinished work when you are the only one who is done their work early.
+
+b.  When you assigned Lesley’s section to me, I was disappointed as I still had work to 
+
+do for my sections of the assignment. Because you assigned me that work, I was not 
+able to complete both my and Lesley’s work to the standard we discussed in our team 
+charter. In the future, it would be great if you could take on some extra work if you 
+have already completed yours.
+
+c.  Don’t think you know more than others about how much work they can handle. Take 
+
+on some work yourself before telling other people they need to do more.
+
+d. 
+
+I found that your decision to make me do extra work was not fair as it did not follow 
+the team charter. Remember that the team charter says we all need to decide on 
+work re-allocation and you aren’t the only person who makes this decision.
+
+20. Which of the following Team Charter Ways of Working was likely the cause of this 
+
+situation?
+
+a.  Complete all work by the deadline.
+
+b.  Everyone decides on work re-allocation if someone does not complete their work on 
+
+time.
+
+c.  We will meet on Thursdays from 1-2pm when needed.
+
+d.  We will create an environment where everyone feels comfortable to speak their mind.
+
+End of questions pertaining to Case Study #1: Team Case Study.
+
+Questions 21 to 34 pertain to Case Study #2; Better Chip Bag found in 
+the Case Study Booklet - Booklet #3.
+
+21. Which of the following sentences from the case study expresses an objective?
+
+a.  Chip bags are often made of plastic, foil and paper laminated together.
+
+b. 
+
+In addition to serving as packaging for the chips, the bag also advertises the contents.
+
+c.  The package must not lose its integrity at low or high temperatures.
+
+d. 
+
+Ideally the package could be used as a serving dish for the chips with toppings [2].
+
+Page 6 of 9
+
+22.  Which of the following sentences from the case study expresses a constraint?
+
+a.  Chip bags are often made of plastic, foil and paper laminated together.
+
+b. 
+
+In addition to serving as packaging for the chips, the bag also advertises the contents.
+
+c.  The package must not lose its integrity at low or high temperatures.
+
+d. 
+
+Ideally the package could be used as a serving dish for the chips with toppings [2].
+
+23.  Which of the following is outside the Scope of this project?
+
+a.  A design that increases marketability of the product.
+
+b.  A design that works for making Dorilocos, a Mexican street food dish.
+
+c.  A design for the material that will be used to make the packaging.
+
+d.  A design for the seal that will keep the packaging airtight.
+
+24.  A Structural Decomposition of this problem might include:
+
+a.  Maintain crispness, inexpensive, and biodegradable.
+
+b.  Less noisy, biodegradable, and meets safety standards.
+
+c.  The way the proposed solution can be opened, the way the chips are removed, and 
+
+the means for keeping the chips crisp.
+
+d.  The packaging material, the seal design, and outer surface of the package.
+
+25.  The Functional Basis for this problem includes:
+
+a.  Extracting mass and maintaining information
+
+b.  Transmitting information and storing mass
+
+c.  Maintaining mass and allowing access
+
+d.  Preventing breakage and storing information
+
+26. Stakeholders for this design problem include:
+
+a.  Kellogg’s, and government agencies related to municipal recycling programs
+
+b.  Land fill operators, and Kellogg’s
+
+c.  Street food vendors (i.e., Evelia Alcala), and government agencies related to 
+
+municipal recycling programs
+
+d.  Land fill operators, and street food vendors (i.e., Evelia Alcala)
+
+Page 7 of 9
+
+27. A description of the Service Environment for this problem could include:
+
+a.  The design should not break open in grocery bags filled with other groceries.
+
+b.  The outside atmosphere ranges from very low (< 10%) to high (100%) relative 
+
+humidity.
+
+c.  The design should meet the ISO 17088:2021 standard for biodegradable products.
+
+d.  The seats in aircraft are typically equipped with a drop-down tray for food service.
+
+28. A Secondary Function of the chip packaging is:
+
+a.  Maintaining the crispness of the chips.
+
+b.  Holding as much product as possible.
+
+c.  Displaying product information.
+
+d.  Meeting safety requirements.
+
+29. The design team creating the chip bag wants to turn one of their metrics into a measure of 
+success. Which of their metrics is most relevant to the success of alternative chip bag 
+designs?
+
+a.  Relative Humidity (%) of the environment
+
+b.  Decibels (dB) produced by the packaging when the chips are accessed
+
+c.  Taste and likeability of chips, as measured in [6] [reference in the case study]
+
+d.  Thermal Resistance (R) of the sack material
+
+30. An objective goal for the new chip bag design could be:
+
+a.  Higher taste and likeability ratings
+
+b.  Must not cost more than $0.10 to produce
+
+c.  Prevents moisture from entering the bag
+
+d.  70 decibels which is below the noise level of competitor chip bags
+
+31. The following is an example of a Universal Design principle used in the chip bag:
+
+a.  Use a reusable hard sided cylinder instead of a bag.
+
+b.  The bag can be opened with low physical-effort.
+
+c.  The bright colours of the chip bag can represent the brand of the chips.
+
+d.  The chip bag is a vessel for transporting compressed air.
+
+Page 8 of 9
+
+32. The following is an example of “Substitute”, according to SCAMPER:
+
+a.  Use a reusable hard sided cylinder instead of a bag.
+
+b.  The bag can be opened with low physical-effort.
+
+c.  The bright colours of the chip bag can represent the brand of the chips.
+
+d.  The chip bag is a vessel for transporting compressed air.
+
+33. The case study refers to"... ISO 17088:2021 (if the solution is a plastic) or the equivalent”. 
+
+IS017088:2021 is:
+
+a.  A code, which is being used as an objective
+
+b.  A standard, which is being used as an objective
+
+c.  A code, which is being used as a constraint
+
+d.  A standard, which is being used as a constraint
+
+34. There are no regulations, such as Accessibility for Ontarians with Disabilities Act, identified 
+
+in the client statement. This means:
+
+a.  The design team will need to identify relevant regulations for every location where the 
+
+new design will be used.
+
+b.  Only Canadian regulations will apply to the new design because Big Smoke Chips is 
+
+based in Toronto.
+
+c.  Because the design must work in many locations, there are no specific regulations 
+
+that apply to this design problem.
+
+d.  Because this is a design for a chip bag, there are no regulations that will be 
+
+applicable.
+
+End of questions pertaining to Case Study #2: Better Chip Bag. 
+
+End of Multiple-Choice Questions.
+
+There are no more questions in this booklet.
+
+Page 9 of 9
+
+B438D426-AF12-46D8-9B60-D0AF67004FF6
+
+aps-lll-113-2022-fall-final-exam 
+
+#372 Page 1 of 10
+
+APS111 & APS113 Engineering Strategies and Practice 
+
+Instructors: S. McCahan, T. Nolan, B. Kinsella, C. Variawa, and P. Sheridan
+
+Final Examination 
+
+ANSWER BOOKLET - Booklet 2 
+
+December 9, 2022 
+
+6:30 pm - 9:00 pm (2.5 hours)
+
+First name (please write as legibly as possible within the boxes)
+
+Last name
+
+UTORid
+
+Page 1 of 8
+
+F56BC24F-DAAC-4677-A80C-A1B904EEFE1B
+
+aps-l11-113-2022-fall-final-exam 
+
+#372 Page 2 of 10
+
+Jinn
+
+Instructions Page
+(There are no questions on this page)
+
+This is a 2.5 hour final exam with 44 questions (34 Multiple Choice and 10 Long Answer). The 
+multiple choice questions are worth 50% of the exam grade and the long answer are worth 50% of 
+the exam grade.
+This is a Type A closed book examination; no aids permitted other than a paper translation-only 
+dictionary (i.e. direct word-to-word translations: no definitions.)
+If you need scrap paper for draft work, ask an invigilator.
+Ensure that you have THREE items;
+
+1.  MULTIPLE CHOICE BOOKLET - Booklet 1: Contains all the multiple choice questions. DO 
+NOT record answers in Booklet 1. Instead fill in the answers to the multiple choice questions 
+on the bubble page found in the ANSWER BOOKLET - Booklet 2. Booklet 1 is NOT handed 
+in and the answers will NOT be graded.
+
+2.  ANSWER BOOKLET - Booklet 2: has all the long answer questions, space to directly 
+
+answer the long answer questions, and a bubble page to record the answers to the multiple 
+choice questions. The answers to the long answer questions should be recorded directly into 
+Booklet 2. Answers to the multiple choice questions should be recorded into the bubble page 
+in Booklet 2. Booklet 2 MUST BE handed in at the end of the exam.
+
+3.  CASE STUDY BOOKLET - Booklet 3: has three case studies. Case Study #1 and #2 are to 
+be used to answer some of the multiple choice questions. Case study #3 is used to answer 
+the long answer questions. Booklet 3 is NOT handed in at the end of the exam.
+
+THIS BOOKLET IS ANSWER BOOKLET - Booklet 2.
+
+Long Answer (50%):
+
+•  This component has 10 questions worth a total of 23 marks. These long answer questions are 
+
+worth 50% of the exam.
+
+•  Input your answers to the long answer questions directly into the boxes under the questions in this 
+
+Exam Booklet. Answers written outside that box will not be marked.
+
+•  Use full sentences for the most part, and where appropriate, but if using bullet points, lists or 
+
+tables, full sentences are not required. In the end, you are assessed on the clarity of the content 
+and meaning in your answers, and not on grammar rules or formality.
+
+Questions 1 to 10 pertain to Case Study tt3: Wintertime Wheelchair Wheel Cleaner 
+
+found in the Case Studies Booklet - Booklet #3.
+
+Page 2 of 8
+
+755C1D52-05B3-4251-B685-F1F42EA84E2E
+
+aps-111-113-2022-fall-final-exam 
+
+#372 Page 3 of 10
+
+Long Answer Questions: Wintertime Wheeichair Wheel Cleaner
+
+1. [1 mark; <10 words] Identify ONE underlying client Need. Do NOT include more than one 
+
+Need. If you identify more than one, only the first will be marked.
+
+2. [1 mark; <10 words] Identify ONE Gap related to the Need in Question 1. Do NOT include 
+
+more than one Gap. If you identify more than one, only the first will be marked.
+
+3. [1 mark; 2-3 words] Write ONE Functional Basis that addresses the Gap in Question 2. You 
+must use one component and one verb associated with Functional Basis. Do NOT add 
+additional qualifiers. If you write more than one Functional Basis, only the first will be 
+marked.
+
+4. [1 mark; 10 words] Write ONE Primary Function developed from the Functional Basis in 
+
+Question 3. If you write more than one Primary Function, only the first one will be marked.
+
+Page 3 of 8
+
+5E48BF1E-9DB0-4267-AO8E-FBB8E98BB298
+
+aps-lll-113-2022-fall-final-exam 
+
+#372 Page 4 of 10
+
+5. [3 marks; 50 words] Complete the following Functional Decomposition. Below, write the 
+
+Primary Function from Question 4. You must include THREE Secondary Functions. If you 
+include more than three Secondary Functions, only the first three will be marked.
+
+Prinnary Function
+
+I
+
+I
+
+Secondary Function
+
+Secondary Function
+
+Secondary Function
+
+6. [2 marks; 15 words] Identify ONE important Stakeholder and indicate the potential impact of 
+the design on them. Do not use the client, user, or design team. If you identify more than 
+one Stakeholder, only the first will be marked.
+
+Page 4 of 8
+
+4C725061-12F7-433B-BDA6-6F692731A71D
+
+aps-lll-113-2022-fall-final-exam 
+
+#372 Page 5 of 10
+
+7. [1 mark; 10 words] Write ONE Constraint complete with metric. A limit is not required. If you 
+
+write more than one Constraint, only the first will be marked.
+
+8. [3 marks; <60 words] Write THREE measurable Objectives with a metric for each. Goals are 
+not required. If you write more than three Objectives, only the first three will be marked.
+
+Objective #1
+
+Objective #2
+
+Objective #3
+
+Page 5 of 8
+
+3784B34B-C8EA-48E5-B352-26757BDC7460
+
+aps-111-113-2022-fall-final-exam 
+
+#372 Page 6 of 10
+
+u
+
+9. [4 marks; 50 words] Complete the Morphological Chart below. Write the Secondary
+
+Functions from Question 5 as headers for the columns (top row). Add means and use lines 
+to indicate three alternative design solutions.
+
+Page 6 of 8
+
+953BD230-C25E-40BC-A372-C54311FC6C30
+
+aps-lll-113-2022-fall-final-exam 
+
+#372 Page 7 of 10
+
+10. [6 marks; 150 words] Describe THREE feasible Design Alternatives generated in Question 9 
+in the space allocated below. For each design, provide a written description and a visual 
+(rough sketch, diagram, etc.). Use parallel structure to organize your presentation of the 
+designs. If you include more than three designs, only the first three will be marked.
+
+Design #1:
+
+-=Exam Continues on the Next Page=-
+
+Page 7 of 8
+
+6A71D7AC-4245-44DD-A875-8FA6B9F010D3
+
+aps-111-113-2022-fall-final-exam 
+
+#372 Page 8 of 10
+
+Design #2;
+
+Design #3:
+
+End of all questions for this exam.
+
+Page 8 of 8
+
+07A52501-5902-4B2E-8C5A-FB36F73D1EC1
+
+aps-lll-113-2022-fall-final-exam 
+
+#372 Page 9 of 10
+
+sms
+
+Name:
+
+Instructions:
+
+Student ID Number:
+
+Please completely fill in the rectangle associated with your response. Example:
+
+CEO cca CEO CED
+
+ABODE
+
+ABODE
+
+ABODE
+
+ABODE
+
+1 CAD  CBD  CCa  CEO  CED
+
+26 CAD  CBD  COD  CDD  CED
+
+51 CAD  CE:D CCD  CEO  CED
+
+76 CAD  CED  COD  CDD  CED
+
+2 CAD  CED  COD  CDD  CED
+
+27 CAD  CED  COD  CDD  CED
+
+52 CAD  CED  COD  CDD  CED
+
+77 CAD  CED  COD  CDD  CED
+
+3 CAD  CED  COD  CDD  CED
+
+28 CAD  CED  COD  CDD  CED
+
+53 CAD  CED  COD  CDD  CED
+
+78 CAD  CED  COD  CDD  CED
+
+4 CAD  CED  COD  CDD  CED
+
+29 CAD  CED  COD  CDD  CED
+
+5 CAD  CED  COD  CDD  CED
+
+30 CAD  CED  COD  CDD  CED
+
+54 CAD  CED  COD  CDD  CED
+55 CAD  CED  COD  CDD  CED
+
+79 CAD  CED  COD  CDD  CED
+
+80 CAD  CED  COD  CDD  CED
+
+6 CAD  CED  COD  CDD  CED
+
+31 CAD  CED  COD  CDD  CED
+
+56 CAD  CED  COD  CDD  CED
+
+81 CAD  CED  COD  CDD  CED
+
+7 CAD  CED  COD  CDD  CED
+
+32 CAD  CED  COD  CDD  CED
+
+57 CAD  CED  COD  CDD  CED
+
+82 CAD  CED  COD  CDD  CED
+
+8 CAD  CED  COD  CDD  CED
+
+33 CAD  CED  COD  CDD  CED
+
+58 CAD  CED  COD  CDD  CED
+
+83 CAD  CED  COD  CDD  CED
+
+9 CAD  CED  COD  CDD  CED
+
+34 CAD  CED  COD  CDD  CED
+
+59 CAD  CED  COD  CDD  CED
+
+84 CAD  CED  COD  CDD  CED
+
+10 CAD  CED  COD  CDD  CED
+
+35 CAD  CED  COD  CDD  CED
+
+60 CAD  CED  COD  CDD  CED
+
+85 CAD  CED  COD  CDD  CED
+
+11 CAD  CED  COD  CDD  CED
+
+36 CAD  CED  COD  CDD  CED
+
+61 CAD  CED  COD  CDD  CED
+
+86 CAD  CED  COD  CDD  CED
+
+12 CAD  CED  COD  CDD  CED
+
+37 CAD  CED  COD  CDD  CED
+
+62 CAD  CED  COD  CDD  CED
+
+87 CAD  CED  COD  CDD  CED
+
+13 CAD  CED  COD  CDD  CED
+
+38 CAD  CED  COD  CDD  CED
+
+63 CAD  CED  COD  CDD  CED
+
+88 CAD  CED  COD  CDD  CED
+
+14 CAD  CED  COD  CDD  CED
+
+39 CAD  CED  COD  CDD  CED
+
+64 CAD  CED  COD  CDD  CED
+
+89 CAD  CED  COD  CDD  CED
+
+15 CAD  CED  COD  CDD  CED
+
+40 CAD  CED  COD  CDD  CED
+
+65 CAD  CED  COD  CDD  CED
+
+90 CAD  CED  COD  CDD  CED
+
+16 CAD  CED  COD  CDD  CED
+17 CAD  CED  COD  CDD  CED
+
+41 CAD  CED  COD  CDD  CED
+
+66 CAD  CED  COD  CDD  CED
+
+91 CAD  CED  COD  CDD  CED
+
+42 CAD  CED  COD  CDD  CED
+
+67 CAD  CED  COD  CDD  CED
+
+92 CAD  CED  COD  CDD  CED
+
+18 CAD  CED  COD  CDD  CED
+
+43 CAD  CED  COD  CDD  CED
+
+68 CAD  CED  COD  CDD  CED
+
+93 CAD  CED  COD  CDD  CED
+
+19 CAD  CED  COD  CDD  CED
+
+44 CAD  CED  COD  CDD  CED
+
+69 CAD  CED  COD  CDD  CED
+
+94 CAD  CED  COD  CDD  CED
+
+20 CAD  CED  COD  CDD  CED
+
+45 CAD  CED  COD  CDD  CED
+
+70 CAD  CED  COD  CDD  CED
+
+95 CAD  CED  COD  CDD  CED
+
+21 CAD  CED  COD  CDD  CED
+
+46 CAD  CED  COD  CDD  CED
+
+71 CAD  CED  COD  CDD  CED
+
+96 CAD  CED  COD  CDD  CED
+
+22 CAD  CED  COD  CDD  CED
+
+47 CAD  CED  COD  CDD  CED
+
+72 CAD  CED  COD  CDD  CED
+
+97 CAD  CED  COD  CDD  CED
+
+23 CAD  CED  COD  CDD  CED
+
+48 CAD  CED  COD  CDD  CED
+
+73 CAD  CED  COD  CDD  CED
+
+98 CAD  CED  COD  CDD  CED
+
+24 CAD  CED  COD  CDD  CED
+
+49 CAD  CED  COD  CDD  CED
+
+74 CAD  CED  COD  CDD  CED
+
+99 CAD  CED  COD  CDD  CED
+
+25 CAD  CED  COD  CDD  CED
+
+50 CAD  CED  COD  CDD  CED
+
+75 CAD  CED  COD.CDD  CED
+
+100 CAD  CED  COD  CDD  CED
+
+^'^IfcrouucImarK
+
+345B43CC-9CAB-4BE6-9467-01EBBAE70A73
+
+aps-lll-113-2022-fall-final-exam 
+
+#372 Page 10 of 10
+
+>
+
+J
+
+APS111 & APS113 Engineering Strategies and Practice
+
+Instructors: Susan McCahan, Ted Nolan, Ben Kinsella, Chirag Variawa and Patricia
+Sheridan
+
+Final Examination
+
+CASE STUDY BOOKLET - Booklet 3
+
+December 9, 2022 
+
+6:30 pm - 9:00 pm (2.5 hours)
+
+Instructions
+Below are THREE case studies.
+
+1.  Case Study #1: Team Case Study
+2.  Case Study #2: Better Chip Bag Case Study
+3.  Case Study #3: Wintertime Wheelchair Wheel Cleaner
+
+Case Study #1; Team Case Study is to be used ONLY when answering Multiple Choice questions 
+specifically linked to this case study. DO NOT use Case Study #1 to answer Long Answer questions.
+
+Case Study tt2\ Better Chip Bag is to be used ONLY when answering Multiple Choice questions 
+specifically linked to this case study. DO NOT use Case Study #2 to answer the Long Answer questions.
+
+Case Study #3: Wintertime Wheelchair Wheel Cleaner is to be used ONLY when answering the Long 
+Answer questions. DO NOT use Case Study #3 to answer the Multiple Choice questions.
+
+There are no questions in this bookiet. Since this bookiet will not be collected at the 
+end of the exam, you may write on or separate the pages in this booklet Nothing 
+you write in this booklet will be graded.
+
+Page 1 of 6
+
+<
+
+Case Study #1-Team Case Study
+
+Case study U1 is to be used for ONLY for the Teams Multiple Choice questions. DO 
+NOT use this case study for the Long Answer questions.
+
+The night before the PR was due, three members of a five-member team (Sam, Alex, and Taylor) were 
+working on their team's document. Sam was concerned that they would not finish on time as Lesley had 
+not completed his section, and the team could not get a hold of him. Kim showed up online at 10PM to 
+ask the team how they were doing, as she was done her part two days in advance. After hearing that 
+Lesley had not completed his part, Kim - the team's project manager - reassigned Lesley's work to Alex. 
+Alex was not happy about this and felt that the situation was unfair as he had not yet completed his 
+part.
+
+Page 2 of 6
+
+Case Study #2 - Multiple Choice: Better Chip Bag
+
+Case study U2 is to be used for ONLY for the Multiple Choice questions. DO NOT use 
+this case study for the Long Answer questions.
+
+Around the world people eat chips, also called crisps, that are sold in plastic bags (see figure 1). There 
+are numerous types of chips and flavors. Some of the most popular are potato chips, corn chips, and 
+
+snacks (e.g., Popchips). They also come in a range of flavors from the iconic Canadian favorite, ketchup 
+flavored, to popular spicy or cheese flavors. Often the chips are salty and may have a flavoring powder 
+applied to the surface. According to Research and Markets [1], the global potato chip industry alone is 
+expected to reach $39 Billion (US) by 2027, with the market made up of both major global players like 
+Kellogg's and Kraft Foods, as well smaller regional producers.
+
+The ubiquitous bags not only keep the chips crisp and fresh they also keep the powdered coating and 
+aroma contained. The bags are also sometimes used as food serving dishes by street food vendors [2].
+
+Chip bags (technically called sacks) are often made of plastic, foil and paper laminated together. This 
+means that many of the sacks cannot be recycled and do not biodegrade [3]. Some municipalities are 
+now accepting thermoplastic flexible film sacks for recycling, but most end up as garbage [4]. The plastic 
+in these bags is typically biaxially oriented polypropylene (BOPP), which is moisture-resistant to keep the 
+chips at a desirable crispiness even in very humid conditions [5]. In addition to serving as packaging for 
+the chips, the bag also advertises the contents. In a very competitive market, with hundreds of different 
+choices, the bag differentiates the brand [6].
+
+There have been attempts to create biodegradable chip sacks, most notably the introduction of a new 
+sack for SunChips by their parent company PepsiCo®. This sack, however, has been largely criticized for 
+being nosier than traditional packaging [7]. The Wallstreet Journal reports that PepsiCo® acknowledged 
+the problem: "Realizing there is no escaping the noise, Frito-Lay featured it in some of its marketing. In 
+stores, the company attached signs to shelves that read: 'Yes, the bag is loud, that's what change sounds 
+like.'" Unfortunately, such messaging cannot totally mitigate the negative consequences of the bag's 
+noise problem. [8]
+
+The client for this project. Big Smoke Chip Company in Toronto Ontario, has considered all the issues 
+discussed above and is now looking for a new design for a chip bag. The new solution:
+
+•  Should maintain the crispiness of the chips, in conditions up to 100% relative humidity (i.e., even 
+
+if the outside of the bag gets wet).
+
+•  Must be biodegradable: meets ISO 17088:2021 (if the solution is a plastic) or the equivalent.
+
+•  Should be as or less noisy relative to current chip bags.
+
+•  Dry air is added to the package during the filling process to ensure the chips do not get crushed 
+during transport. However, this can cause the sack to puff up considerably in low pressure 
+environments such as on airplanes. This can make the package difficult to open. A new solution 
+should be as easy to open as current sack and should not burst in typical low pressure 
+environments (e.g., on aircraft, or in La Paz, Bolivia).
+
+Page 3 of 6
+
+•  The package must not lose its integrity at low or high temperatures. It should not become brittle 
+
+or weak between -50 C and +50 C.
+
+•  The package material must seal effectively, handle shipping and transport in bags filled with 
+
+other groceries without crushing the chips or breaking open.
+
+•  Must meet ISO 7965-2:1993 for drop testing for sacks made from thermoplastic flexible film. A 
+
+new solution made of a different material should also pass this testing to be competitive with 
+current packaging.
+
+• 
+
+Ideally the package could be used as a serving dish for the chips with toppings [2].
+
+•  Should be able to be printed with a wide range of vivid, eye-catching graphics and, at a 
+minimum, must be able to present required information (e.g., ingredients list) readably.
+
+$
+
+Seals at the lop and 
+bottom
+(typically a heat seal)
+
+Sack formed
+from a thermoplastic tube
+
+Graphics identify the product 
+(often designed to convey information 
+to people not fluent in the language)
+
+Figure 1. Image of a typical thermoplastic flexible film sack used for potato chips.
+(reproduced from (91)
+
+References
+[1) Research and Markets. "Potato Chips Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022- 
+2027." Accessed: November 26, 2022. [Online). Available: https://www.research3ndmarkets.com/reports/5682125/potato- 
+chips-market-global-industrv-
+trends#:~:text=The%20glob3l%20potato%20chiP5%20market.3.24%25%20during%202021%2D2027.
+[2) . Nick Miroff, Washington Post. "Crazed snacking on Mexico's streets." featuring Evelia Alcala. Accessed: December 1, 2022. 
+[Online Video). Available: https://www.voutube.com/watch?v=AccHMLvk cw8tt=15s.
+[3) J. R. Catlin, J. M. Leonhardt, Y. Wang, and R. J. Manuel, "Landfill or Recycle? Pro-Environmental Receptacle Labeling 
+Increases Recycling Contamination," Journal of Consumer Psychology, vol. 31, no. 4, pp. 765-772, Oct. 2021, doi: 
+10.1002/jcpy.l216.
+[4) City of Calgary. "What Goes Where: Potato Chip Bags." Accessed: November 29, 2022. [Online). Available: 
+https://www.calgarv.ca/waste/what-goe5-where/potato-chip-
+
+bags.html<f:~:text=Chip%20bag5%20are%20made%20of.bags%20belong%20in%20the%20garbage
+[5) J. Freedman and D. Jurafsky, "Authenticity in America: Class Distinctions in Potato Chip Advertising," Gastronomica, vol. 11, 
+no. 4, pp. 46-54, Nov. 2011, doi: 10.1525/gfc.2012.11.4.46.
+[6) Y. Jeong, et al., "Prediction of consumer acceptability of potato chips with various moisture contents using survival analysis," 
+FoodSci Biotechnol, vol. 22, no. 6, pp. 1621-1627, Dec. 2013, doi: 10.1007/sl0068-013-0259-6.
+[7) Heathaplexvision. Potato Chip Technology That Destroys Your Hearing. (February 23, 2010). Accessed: November 28, 2022. 
+[Online Video). Available: https://www.voutube.com/watch?v=GvKai3H02D8&ab channeMheathaplexvision
+[8) S. Vranica. "Snack Attack: Chip Eaters Make Noise About a Crunchy Bag." Wall Street Journal. August 18, 2010. [Online) 
+Accessed: November 30, 2022. Available: httP5://www.w5l.com/articles/SB10001424052748703960004575427150103293906
+[9) Zehr's. "Lay's Classic Potato Chips." [online). Accessed: November 29, 2022. [Online). Available: 
+https://www.zehrs.ca/potato-chips-classic/p/20797306001 EA
+
+Page 4 of 6
+
+Case Study #3 - Long Answer: Wintertime wheelchair wheel cleaner
+
+Case study #3 is to be used for ONLY for the Long Answer questions. DO NOT use this 
+case study for the Multipie Choice questions.
+
+Mingmei Li is an Industrial Engineer and health care efficiency consultant 
+working with multiple hospitals in downtown Toronto. On any given 
+workday she is moving from one hospital to another, usually on 
+University Avenue where several major hospitals are located in Toronto.
+Often in the winter months this involves her travelling through "street 
+slush" (See Figure 1) and the road salt used extensively on Toronto 
+streets (See Figure 2). Mingmei then tracks this salty street slush into the 
+various hospitals necessitating the already hard-working hospital staff to 
+clean it up or risk injuries such as slipping on the melting slush. Most 
+hospital entrances have entrance matting designed to allow pedestrians 
+to wipe snow, slush and salt off their footwear (See Figure 3). Flowever, 
+because Mingmei uses a wheelchair, she is unable to use this matting.
+
+Mingmei, in partnership with the Ontario Disability Coalition, would like 
+a design solution that enables a wheelchair user to clean the snow, slush in Toronto in the winter. [1] 
+
+Figure 1: "Street slush" is common \
+
+and salt off their wheels by themselves when entering a building.
+
+Design considerations:
+
+• Hospitals are often busy with people in urgent need. Therefore, 
+the design should be fast to use. Ideally, the time it takes to use 
+the design must be comparable to the time it takes non­
+
+wheelchair users to clear slush and salt off boots using a 
+standard entrance mat (See Figure 3). If that is not possible, then 
+this time difference should be minimized.
+
+Figure 3: Road salt used on Toronto 
+streets in the winter months. [2]
+
+Figure 2: Heavy duty carpet inserts and aiuminum rails place perpendicular to the entrance for wiping snow, dirt and moisture 
+off pedestrian's footwear. The recess well underneath the metal mat collects dirt and moisture. [3]
+
+Page 5 of 6
+
+Mingmei and many other wheelchair users are fiercely independent. She is not interested in a 
+
+design which requires someone else's help to use.
+
+The design should use a brush mechanism because it is simple to use and will be durable. 
+
+Designs that require individual upgrades to wheelchairs are acceptable, but are less desirable 
+than designs that place no requirements for modifications on the user's wheelchair.
+
+Likewise, designs that do not require wheelchair users to carry around tools will be easier to get 
+people to adopt.
+
+This design is meant to minimize additional work created for hospital caretaking staff by 
+individuals tracking in slush and salt.
+
+A typical manual wheelchair weighs 35 lbs to 60 lbs. Motorized wheelchairs can weight up to 
+250 lbs depending on the power of the motor [4]. The design should accommodate all typical 
+
+wheelchairs. The weight of users is more difficult to define. A nominal user weight range is 100 
+lbs to over 225 lbs [5].
+
+Hidden moisture can be a breeding ground for bacteria which is a major concern in a hospital 
+setting. Therefore, if the design must either temporarily store or move the salty meltwater 
+outside. If temporary storage is needed the design must minimize the work needed to empty 
+the storage container.
+
+Tipping and falling to the ground is a concern for wheelchair users. Often users tip when they 
+reach far enough out of the chair to move the centre of gravity beyond the wheels. Designs 
+should minimize this tipping hazard.
+
+Salt is very corrosive to metals. Therefore, mental components are not allowed in the design.
+
+References
+[1] Tookapic. "Street slush" PIxabay. Dec 01, 2022. [Online] Available; https://pixabav.com/photos/street-citv-snow-winter-wet- 
+cold-933241/
+[2] Jerzy Goreckl. "Road Salt" PIxabay. Dec 01, 2022. [Online] Available: https://plxabav.com/photos/weather-lce-blizzard-piow- 
+wav-3920570/
+[3] Ronick Matting Systems. "Snow/Rain Entrance Matting." Ronick Matting Systems. Dec 01, 2022. [Online] Available; 
+http://www.ronick.com/5nowrain-entrance-matting
+[4] 1800 Wheelchair. "How much does a wheelchair weight?" 1800Wheelchair.com. Dec 01, 2022. [Online] Available: 
+https://www.1800wheelchair.com/faq/how-much-does-a-wheelchair-weigh/
+[5] Statistics Canada. "Overweight and obese adults." Health Fact Sheets. Dec 01, 2022. [Onlilne]. Available: 
+https://wwwl50.statcan.gc.ca/nl/pub/82-625-x/2019001/article/00005-eng.htm
+
+Page 6 of 6
+
+

@@ -1,0 +1,162 @@
+MIE100 Dynamics-Summer 2013 
+
+Midterm Test 
+
+Wednesday May 29, 2013 
+
+MIE 100 Dynamics – Summer 2013 
+
+Midterm Test 
+
+Wednesday May 29, 2013 
+
+Start Time: 11:40 am      Duration: 1 hr 45 min 
+
+COVER PAGE 
+
+General Instructions:  
+
+   Answer all questions in the exam booklet(s) provided.  
+   Write  your  full  ROSI  name,  Student  #,  and  Tutorial  #  on  each  exam 
+
+booklet you use.  
+
+   You may keep the test paper and your aid sheet.  
+
+Number of Pages:  
+
+   4 (including cover page) 
+
+Number of Questions:  
+
+  Three (3) questions 
+
+Permitted Aids:  
+
+  Approved non-communicating/non-programmable calculator  
+  One (1) aid sheet - 8.5” x 11”, double-sided, any colour 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100 Dynamics-Summer 2013 
+
+Midterm Test 
+
+Wednesday May 29, 2013 
+
+Question 1 [35 marks total] 
+
+A particle P travels along y = 25 such that x = 4t3; time is measured in seconds and 
+x and y are in meters. 
+
+a)  Find  the  velocity  of  P  at  t  =  1s.  Use  the  rectangular  co-ordinates  shown.      
+
+[5  Marks] 
+
+b)  Find  the  velocity  of  P  at  t  =  2s.  Use  normal  and  tangential  co-ordinates.    
+
+[10 Marks] 
+
+c)  Find the position of particle P at t = 3s. Use polar co-ordinates centered at O.   
+
+[5 Marks] 
+
+d)  Find  the  acceleration  of  P  at  t  =  3s.  Use  polar  co-ordinates  centered  at  O.   
+
+[15 Marks] 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100 Dynamics-Summer 2013 
+
+Midterm Test 
+
+Wednesday May 29, 2013 
+
+Question 2 [30 marks total] 
+
+A 1500  kg car enters a  section of curved road in the  horizontal plane and slows 
+down at a uniform rate from a speed of 100 km/h at A to a speed of 50 km/h as it 
+passes C. The radius of curvature ρ of the road at A is 400 m and at C is 80 m and 
+point B is the inflection point  (where it is instantaneously straight)  of the curved 
+path ABC. 
+
+(Hint: For parts (c) and (d) below, treat the car as a particle and find the external 
+forces as required.) 
+
+a)  What is the constant tangential acceleration? [10 Marks] 
+
+b)  What is the normal component of the acceleration at B? [5 Marks] 
+
+c)  Determine the total horizontal force exerted by the road on the car when 
+
+it is at position B.    [5 Marks] 
+
+d)  Determine  the  total  horizontal  force  exerted  on  the  car  when  it  is  at 
+position  C.    Use  normal  and  tangential  co0ordinates  to  express  your 
+answer. [10 Marks] 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIE100 Dynamics-Summer 2013 
+
+Midterm Test 
+
+Wednesday May 29, 2013 
+
+Question 3 [35 marks total] 
+
+The  collar  has  a  mass  of  2  kg  and  is  attached  to  the  light  spring,  which  has  a 
+stiffness of 30 N/m and an unstretched length of 1.5 m. The collar is released from 
+rest at A and slides up the smooth rod under the action of the constant 50 N force. 
+
+a)  What is the potential energy of the spring at time t=0? [10 Marks] 
+
+b)  Find the velocity of the collar as it passes position B. [15 Marks] 
+
+c)  Draw a free body diagram of the collar when it is in position B. Indicate the 
+direction (as they act on the mass) of all forces in the plane of motion. It is 
+not necessary to calculate their magnitudes.[10 Marks] 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

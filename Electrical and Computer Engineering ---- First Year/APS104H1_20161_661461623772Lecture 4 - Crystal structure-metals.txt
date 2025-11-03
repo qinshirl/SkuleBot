@@ -1,0 +1,726 @@
+APS104S – Introduction to Materials 
+& Chemistry 
+
+Lecture 4 
+January 12, 2016 
+
+Instructor:	  Gisele	  Azimi	  
+
+1) Bonding energy 
+2) Ionic bonding (Madelung constant) 
+
+Bonding energy, attractive, repulsive 
+
+EN	  =	  EA	  +	  ER	  =	  	  
+-	  
+
+A	  
+r	  
+
++	  
+
+B	  
+n	  r	  
+
+A3rac5ve	  
+energy	  
+
+Repulsive	  
+energy	  
+
+A,	  B,	  n	  =	  constants	  
+
+At	  r	  =	  r0	  !	  dE/dr	  =	  0	  	  	  	  &	  	  	  E	  =	  E0	  
+
+r0	  =	  equilibrium	  separa5on	  distance	  (bond	  distance)	  
+
+E0	  =	  Bond	  energy	  
+
+r0	  =	  rca5on	  +	  ranion	  
+
+Example 2 
+
+•  The potential energy between Mg2+ and O2- ions in a MgO 
+
+crystal can be estimated as 
+
+•  where A = 1.61 x 10-27 J m, B = 3.87×10-96 J m8, r is the 
+
+separation (between ion centers) in m, and E is the potential 
+energy in J. 
+
+•  Calculate the equilibrium separation between the ion centers. 
+•  Calculate the bonding energy between the Mg and O ions at 
+
+this equilibrium distance. 
+If the ionic radius of Mg2+ is 0.072 nm, what is the ionic radius 
+of O2- ?    
+
+• 
+
+ 
+ 
+ 
+Example 2-solution 
+
+Ionic Bonding (example NaCl) 
+
+.	  
+
+Bonding is described as electrostatic attraction between point charges. 
+
+Na+	  
+
+Cl-­‐	  
+
+Ionic Bonding (example NaCl) 
+
+.	  
+
+6 nearest neighbours @ r = a (+ -) 
+
+Let’s	  call	  this	  “a”	  
+a	  =	  r0	  
+
+Ionic Bonding (example NaCl) 
+
+.	  
+
+12 nearest neighbours @ r = √2 a (+ +) 
+
+√2	  a	  
+
+Let’s	  call	  this	  “a”	  
+a	  =	  r0	  
+
+Ionic Bonding (example NaCl) 
+
+.	  
+
+8 nearest neighbours @ r = √3 a (+ -) 
+
+√3	  a	  
+
+Let’s	  call	  this	  “a”	  
+a	  =	  r0	  
+
+! = −
+
+!!
+4!!!
+
+(
+
+8
+
+3!
+
+) 
+
+Ionic Bonding (example NaCl) 
+
+.	  
+
+E = −
+
+e2
+4πεo
+
+"
+$
+#
+
+6
+a
+
+−
+
+12
+a 2
+
++
+
+8
+a 3
+
+%
+−!
+'
+&
+
+E = −M
+
+e2
+4πεo
+
+1
+a
+
+Let’s	  call	  this	  “a”	  
+a	  =	  r0	  
+
+M = 6 −
+
+12
+2
+
++
+
+8
+3
+
+−...
+
+M: Madelung constant 
+
+M depends on the geometry; for rock salt = 1.748  
+
+1 eV = 1.60 x 10-19 J  
+
+e = 1.602 × 10-19 C  
+
+a = r0  = 0.28 nm 
+
+ε0 = 8.854 x 10-12 C2/(Nm2) 
+
+E = -8.97 eV/atom (only 10% of the real value) 
+
+Madelung constant for CsCl 
+
+.	  
+
+8 nearest neighbours @ r = √3/2	  a	  (+ -) 
+
+√3/2	  a	  
+
+Let’s	  call	  this	  “a”	  
+
+Madelung constant for CsCl 
+
+.	  
+
+6 nearest neighbours @ r = a (+ +) 
+
+Madelung constant for CsCl 
+
+.	  
+
+E = −M
+
+e2
+4πεo
+
+1
+a
+
+Let’s	  call	  this	  “a”	  
+
+the crystalline solid state 
+
+CHAPTER	  3_C	  
+
+topics:	  
+
+unit	  cell	  
+
+metallic	  crystal	  structures	  
+
+density	  computa/ons	  metallic/ceramic	  
+
+ceramic	  crystal	  structures	  
+
+direc/ons	  
+
+planes	  &	  densi/es	  
+
+5.2	  &	  5.3	  	  	  	  Light	  &	  the	  Electromagne/c	  
+
+	  	  	  	  	  	  Spectrum	  
+
+5.4 	  	  	  	  	  	  The	  Plank	  Equa/on	  
+
+5.5 	  	  	  	  	  	  The	  de	  Broglie	  Equa/on	  
+
+5.6 	  	  	  	  	  	  Heisenberg	  Uncertainty	  Principle	  
+
+5.7	  &	  5.10	  Quantum	  Numbers	  
+
+5.8 	  	  	  	  	  Shapes	  of	  Orbitals	  
+
+5.9 	  	  	  	  	  Quantum	  Mechanics	  &	  Atomic	   	  	  	  
+
+Spectra	  
+
+5.11-­‐14 	  	  	  	  	  Mul/electron	  Atoms	  
+
+5.15	  	  	  	  	  Periodic	  Proper/es	  
+
+	  	  	  	  	  
+Subjects we will study 
+
+•  What are crystals 
+•  Crystal systems 
+•  Crystal structure in metals (with a focus 
+
+on cubic systems) 
+
+Why study crystal structure? 
+
+Many properties of materials are directly 
+related to their crystallinty and crystal 
+structure 
+
+Crystalline	  
+
+Crystal	  structure	  
+
+Unit	  cell	  
+
+Crystallographic	  
+-­‐	  points	  
+-­‐	  Direc5ons	  
+-­‐	  planes	  
+
+Non-­‐crystalline	  
+
+Classification of solids by atomic arrangement 
+
+"  Has	  a	  well-­‐deﬁned	  ordered	  
+
+structure	  in	  3D	  (over	  large	  range).	  
+Atoms	  self-­‐organize	  in	  a	  periodic	  
+array.	  	  
+
+"  Well	  deﬁned	  shaped	  due	  to	  well-­‐
+
+ordered	  par5cles.	  
+• metals    • many ceramics    • some polymers 
+
+Dense,	  
+ORDERED	  packing	  
+
+"  Has	  a	  disordered	  structure,	  lacking	  a	  
+systema5c	  atomic	  arrangement.	  	  
+
+"  Poorly	  deﬁned	  shapes	  because	  they	  
+don’t	  have	  extensive	  ordering	  of	  
+par5cles.	  
+• complex structures    • rapid cooling 
+
+Non	  dense,	  
+RANDOM	  packing	  
+
+Some crystals 
+(well-defined ordered structure; well-defined shape) 
+
+Au	  
+
+Cu	  
+
+Cr	  
+
+PbS 
+
+NiSO4	  
+
+FeS2 
+
+NaCl	  
+
+Some amorphous solids 
+(disordered structure, poorly defined shapes)   
+
+Gummite 
+
+amorphous solid 
+Obsidian, a volcanic 
+glass  
+
+Gummite: a yellow, amorphous mineral, a mixture of oxides and silicates of 
+uranium, formed by weathering of pitchblende (a mineral used as a source of 
+uranium). 
+
+Stacking objects in 2-D with no voids 
+
+square	  
+
+rectangle	  
+
+trapezoid	  
+
+NO	  
+
+Unit cell: the repeating group – 7 ways to 
+stack crystals in 3D with no voids 
+
+Unit cell: the repeating group 
+
+A	  unit	  cell	  is	  the	  most	  basic	  and	  
+least	  volume	  consuming	  
+repea5ng	  structure	  of	  any	  solid.	  	  
+
+Unit cell: where atoms sit: Bravais Lattices 
+
+Let us look at “cubic” crystal structure 
+
+Note:	  	  for	  metals,	  all	  atoms	  are	  iden5cal;	  the	  FCC	  and	  BCC	  atoms	  are	  shaded	  
+diﬀerently	  only	  for	  ease	  of	  viewing.	  
+
+1	  
+
+½	  	  
+
+¼	  	  	  
+
+⅛	  	  	  
+
+An	  ion	  in	  the	  body	  of	  a	  cell	  belongs	  en5rely	  to	  that	  cell	  and	  counts	  as	  1.	  
+
+An	  ion	  on	  a	  face	  is	  shared	  by	  two	  cells	  and	  contributes	  ½.	  
+
+An	  ion	  on	  an	  edge	  is	  shared	  by	  four	  cells	  and	  hence	  contributes	  ¼.	  	  
+
+An	  ion	  at	  a	  vertex	  is	  shared	  by	  eight	  cells,	  and	  so	  contributes	  ⅛.	  	  
+
+Crystal structure in metals 
+
+Metallic bonds (such as Au, Ag, Cu) 
+
+Can be pictured as an array of positive ions in a “sea of electrons". 
+
+Cu 
+(FCC) 
+
+Tend to be densely packed. 
+
+ REASONS FOR DENSE PACKING 
+- Typically, only one element is present, so all atomic radii are the 
+same. 
+- Nearest neighbor distances tend to be small in order to lower bond 
+energy. 
+- Electron cloud shields cores from each other. 
+- Metallic bonding is not directional 
+
+•  Have the simplest crystal structures. 
+
+Lattice points per cell: how many atoms 
+we have in each unit cell 
+
+2	  
+
+4	  
+
+1	  
+
+The relation between unit cell length (a) 
+and radius of atom (r)  
+
+SC	  
+
+r	  
+
+a	  
+
+a	  =	  2r	  
+
+FCC	  
+
+BCC	  
+
+a2 =
+
+4r
+
+r4a3 =
+
+Coordination #: the number of nearest 
+neighbors  
+
+SC	  
+
+BCC	  
+
+FCC	  
+
+6	  
+
+8	  
+
+12	  
+
+Atomic packing factor (APF) 
+
+APF	  =	  
+
+volume	  of	  atoms	  in	  unit	  cell	  
+
+volume	  of	  unit	  cell	  
+
+Example	  1:	  for	  FCC	  
+
+APF=(4x(4/3)Πr3/a3	  
+
+4r	  =	  √2	  x	  a	  
+
+APF=0.74	  
+
+a=	  unit	  cell	  length	  
+r=	  atoms	  radii	  	  
+
+Example: Atomic packing factor (APF) for BCC 
+
+volume	  of	  atoms	  in	  unit	  cell	  
+
+APF	  =	  
+
+volume	  of	  unit	  cell	  
+
+a	   	  3	  
+
+4r	  =	   3	  a	  
+
+r	  =	  	  	  	  	  	  	  a/4	  
+3	  
+
+R	  
+
+a	  
+
+a 
+
+a	   	  2	  
+
+atoms / unit cell 
+
+Volume of  each atom 
+
+APF	  =	  
+
+2	  
+
+(4/3)π(r)3	  
+
+a3	  
+
+volume / unit cell 
+
+ APF = 0.68 
+
+Summary 
+
+Face	  centered	  cubic	  (fcc)	   Body	  centered	  cubic	  (bcc)	  
+
+Simple	  Cubic	  
+
+FCC	  
+Al,	  Cu	  
+Au,	  Pt	  
+
+BCC	  
+Cr,	  Fe,	  
+Mo	  
+
+r	  =	  radius	  of	  atom	  
+
+a	  =	  length	  of	  unit	  cell	  
+
+#	  of	  atoms	  in	  cell	  
+
+Coordina>on	  #	  
+
+Filling	  Frac>on	  
+
+Rela>on	  
+
+FCC	  
+
+4	  
+
+12	  
+
+74	  %	  
+4r
+
+a2 =
+
+BCC	  
+
+2	  
+
+8	  
+
+68%	  
+r4a3 =
+
+SC	  
+
+1	  
+
+6	  
+
+52%	  
+
+a	  =	  2r	  
+
+Calculating theoretical density of metals 
+
+Example: Calculate the density of iron, which has a 
+body-centered cubic unit cell with an edge length 
+of 286.6 pm. The molar mass of iron is 55.85 g/
+mol. 
+
+Measured (literature) value for iron density: 
+7.874 g/cm3  
+
+Calculating theoretical density of metals 
+
+Theoretical density formula 
+
+atomic mass 
+(g / mol) 
+
+#atoms / unit cell 
+
+ρ	  =	  
+
+n	  
+
+A	  
+
+VC	  
+
+NA	  
+
+volume / unit cell 
+(cm3 / unit cell) 
+
+Avogadro’s number 
+6.02 × 1023 atoms / mol 
+
+Characteristics of selected elements at 20°C 
+
+Element 
+Aluminum 
+Argon 
+Barium 
+Beryllium 
+Boron 
+Bromine 
+Cadmium 
+Calcium 
+Carbon 
+Cesium 
+Chlorine 
+Chromium 
+Cobalt 
+Copper 
+Flourine 
+Gallium 
+Germanium 
+Gold 
+Helium 
+Hydrogen
+
+Symbol 
+Al 
+Ar 
+Ba 
+Be 
+B 
+Br 
+Cd 
+Ca 
+C 
+Cs 
+Cl 
+Cr 
+Co 
+Cu 
+F 
+Ga 
+Ge 
+Au 
+He 
+H
+
+At. Weight 
+(amu) 
+26.98 
+39.95 
+137.33 
+9.012 
+10.81 
+79.90 
+112.41 
+40.08 
+12.011 
+132.91 
+35.45 
+52.00 
+58.93 
+63.55 
+19.00 
+69.72 
+72.59 
+196.97 
+4.003 
+1.008
+
+Density 
+(g/cm3) 
+2.71 
+------ 
+3.5 
+1.85 
+2.34 
+------ 
+8.65 
+1.55 
+2.25 
+1.87 
+------ 
+7.19 
+8.9 
+8.94 
+------ 
+5.90 
+5.32 
+19.32 
+------ 
+------
+
+Atomic radius  
+(nm) 
+0.143 
+------ 
+0.217 
+0.114 
+------ 
+------ 
+0.149 
+0.197 
+0.071 
+0.265 
+------ 
+0.125 
+0.125 
+0.128 
+------ 
+0.122 
+0.122 
+0.144 
+------ 
+------
+
+Example 
+
+Nickel crystallizes in a fcc lattice. Its density 
+is 8.90 g/cm3. What is the atomic radius of 
+nickel in pm? 
+
+1	  m	  =	  1012	  pm	  
+1	  cm	  =	  1010	  pm	  
+
+Example - Solution 
+
+

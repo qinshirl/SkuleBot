@@ -1,0 +1,294 @@
+AD63A68E-BBD2-4700-B9F7-D2B3C4E7F571
+
+apsllls-final-exam-winter-2023
+
+#2 Page 1 of 12
+
+□
+
+□
+
+□
+
+APSlll Engineering Strategies & Practice I 
+Final Exam
+Instructors: Cheryl Runke and Ben Kinsella 
+April 18, 2022 - 2:00 - 4:30 PM - 2.5 hours
+Type A Exam: A “closed book” examination. No aids are permitted other than the information printed on 
+the examination paper and other than a paper translation-only dictionary (no definitions). Calculators are 
+NOT permitted.
+
+First name (please write as legibly as possible within the boxes)
+
+Last name
+
+Student Number
+
+Instructions:
+1. Ensure that you have both the Final Exam Booklet and the Final Exam Client Statement.
+2.
+3.
+4.
+
+There are 50 marks in total on this exam.
+Write your identification information on the first page of the Final Exam Booklet
+Read each question carefully and answer in the space provided. You are not to use additional space. If 
+you need scrap paper for draft work, ask an invigilator.
+
+5. Write full sentences and complete paragraphs where appropriate.
+Marks for each question are indicated in square brackets [ ].
+6,
+Expected word count for questions are suggested in the square brackets [ ]. This is a guideline and NOT 
+7.
+a strict limit.
+
+8. When appropriate, you may draw upon your own engineering expertise. You will not be required to 
+
+9.
+
+have references as you normally would.
+At the end of the exam hand in the Final Exam Booklet, this booklet. You do NOT have to hand in the 
+Client Statement.
+
+1
+
+□
+
+CB59CA26-A82E-4C6F-978F-79A212550CC0
+
+apsllls-final-exam-winter-2023 
+
+#2 Page 2 of 12
+
+□
+
+□
+
+(EXTRA PAGE FOR ROUGH WORK - THIS PAGE NOT GRADED)
+
+YOU CAN DO THIS.
+
+(LAST PAGE IS ALSO FOR ROUGH WORK AND NOT GRADED)
+
+2
+
+AF9BD43E-2F12-477D-9657-C7F7EAD94CC9
+
+apsllIs-final-exani-winter-2023
+
+#2 Page 3 of 12
+
+AU questions pertain to the Client Statement: The Ultimate Commuter Student Backpack
+
+1. If you were working on this Client Statement, you would need to conduct research. Give THREE 
+research questions you would need to investigate. For each question, give a TYPE of source that 
+would provide credible information to answer that question. In other words, where would you go to 
+find this information? [6 Marks; <50 words]
+
+3
+
+□
+
+I ■
+
+□
+
+H
+
+r:
+
+635C5B3D-F69A-45C9-AC88-77E612CA6BF7
+
+apsl1Is-final-exam-winter-2023
+
+#2 Page 4 of 12
+
+2.
+
+Identify the functionality for the design problem using the four steps below (2.a to 2.d)
+
+a.
+
+Identify ONE Gap for the Client Statement. Making direct reference to the Client Statement, 
+justify and explain why you are defining the “Gap” this way? Identify ONE “Need” based on 
+this “Gap”. If you give more than one, only the first will be marked. [3 Marks; <25 words]
+
+b. Write ONE Functional Basis for the Client Statement that addresses the Gap in Question 2.a. You 
+must use one of the specific components/flows associated with Functional Basis, and one action 
+or operation. This Functional Basis must use the proper two-component format without qualifiers. 
+If you give more than one Functional Basis, only the first will be marked. [2 Marks; 2-3 words]
+
+c. Write ONE Primary Function based on the above Functional Basis in Question 2.b. If you give 
+
+more than one Primary Function, only the first one will be marked. [2 Marks; 10 words]
+
+4
+
+97A4944A-A058-48F9-BA07-7B52B3495B05
+
+apsllls-final-exam-winter-2023
+
+#2 Page 5 of 12
+
+□
+
+□
+
+□
+
+d.
+
+Use Functional Decomposition to derive THREE Secondary Functions. Fill in the Functional 
+Decomposition chart (below), including your Primary Function and three Secondary Functions. 
+Do not include more than THREE Secondary Functions. If you do, only the first three will be 
+marked. [3 Marks; <25 words]
+
+Primary Function
+
+r
+Secondary Function
+
+Secondary Function
+
+1
+Secondary Function
+
+3. Identify ONE important aspect of the Service Environment from the Client Statement. Give evidence 
+and explain your claim. If you identify more than one aspect, only the first will be marked. [3 Mark; 
+<25 words]
+
+5
+
+114A06B7-B612-45C8-848F-2C7FB5A27231
+
+apsllls-final-exam-winter-2023
+
+#2 Page 6 of 12
+
+4.
+
+Based on how you identified functionality in Question 2, identify Objectives for the design problem 
+in the sections below (parts 4.a - 4.b).
+
+a.
+
+Write THREE Objectives for this design problem, including a metric (a goal is not required). 
+Do NOT include more than THREE Objectives. If you do, only the first three will be 
+marked. You are not required to support these metrics with research, as you normally would 
+in a design document. [3 Marks; 150 words]
+
+b. Use a Pairwise Comparison table to rank these Objectives. Include this table in the space 
+
+below and make the final ranking of your Objectives clear. While you do not have access to 
+external research, make reasonable estimations and provide justification to enhance the 
+persuasiveness of your final rankings. [4 Marks; <100 words]
+
+6
+
+40C2D2E3-7244-4465-81B1-A4A8159D3C04
+
+apsllls-final-exam-winter-2023
+
+#2 Page 7 of 12
+
+□
+
+□
+
+□
+
+5.
+
+Ideate using a Morphological Chart. Using your Secondary Functions from Question 2, complete the 
+table below. You should put your Secondary Functions down the initial column and the Means 
+across each row. Include THREE Means for each of your three Secondary Functions. If you include 
+more than three, only the first three will be marked. The more innovative and distinctly different the 
+Means are, the more marks you will receive. You may include a labelled sketch, but it is not 
+required. Draw lines through this Morphological Chart to generate THREE complete solutions that 
+you will discuss further in Question 6. [9 marks; <100 words]
+
+Means
+
+Means
+
+Means
+
+Secondary Function 1
+
+Secondary Function 2
+
+Secondary Function 3
+
+7
+
+597F5565-1A37-46A2-9BB0-0F4D6FCCA076
+
+apsllls-final-exam-winter-2023 
+
+#2 Page 8 of 12
+
+6. Describe THREE feasible design alternatives (from the Morphological Chart in Question 5) for this 
+Client Statement using a parallel, multimodal approach. The more innovative and distinctly different 
+the approaches of the design alternatives, the more marks you will receive. Describe each design in 
+the space provided for that design. If you include more than three designs, only the first three will be 
+marked. [9 Marks (3 Marks per Design); <300 words (<100 words per Design)]
+
+Design #1;
+
+8
+
+81FB5788-2C2A-46E0-BEED-EO93E7F13570
+
+apsllls-final-exam-winter-2023
+
+#2 Page 9 of 12
+
+■0
+
+□
+
+Design #2:
+
+9
+
+□
+
+□
+
+79DBAAn-9503-4FED-8583-B16DDF993808
+
+apsllls-final-exani-winter-2023 
+
+#2 Page 10 of 12
+
+Design #3:
+
+10
+
+F85EC925-0778-442C-B40C-34FFDC1CADEA
+
+apsllIs-final-exam-winter-2023
+
+#2 Page 11 of 12
+
+7. Using the THREE Objectives generated in Question 4, use the Pugh Method to compare your three 
+alternative designs (in Question 6). As you cannot complete any verification, clearly explain your 
+reasoning for each comparison. Include your completed Pugh Method chart in the space below. 
+Clearly determine and state a recommended alternative design and justify it using the Pugh Chart. [6 
+Marks; <150 words]
+
+11
+
+E09DC490-73D3-45CC-8852-A9ECEEB677DA
+
+apsllls-final-exam-winter-2023 
+
+#2 Page 12 of 12
+
+r
+
+(EXTRA PAGE FOR ROUGH WORK - THIS PAGE NOT GRADED)
+
+12
+
+

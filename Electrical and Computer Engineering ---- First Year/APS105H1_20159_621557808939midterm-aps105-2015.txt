@@ -1,0 +1,480 @@
+UNIVERSITY OF TORONTO
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+
+APS 105 — Computer Fundamentals
+Midterm Examination
+October 14, 2015
+6:45 p.m. – 8:30 p.m.
+(105 minutes)
+
+Examiners: J. Anderson, B. Li, J. Rose
+
+Exam Type A: This is a “closed book” examination; no aids are permitted.
+
+Calculator Type 4: No calculators or other electronic devices are allowed.
+
+All questions are to be answered on the examination paper. If the space provided for a question
+If you use the last page,
+is insufﬁcient, you may use the last page to complete your answer.
+please direct the marker to that page and indicate clearly on that page which question(s) you are
+answering there.
+
+You must use the C programming language to answer programming questions. You are not re-
+quired write #include directives in your solutions. Except those excluded by speciﬁc questions,
+you may use functions from the math library as necessary.
+
+The examination has 16 pages, including this one.
+
+Circle your lab section — (1 mark will be deducted if you fail to indicate your lab section):
+
+PRA0104
+PRA0101 PRA0102 PRA0103
+Thursday
+Thursday
+Monday
+Thursday
+12-2pm 10am-12pm
+3-5pm
+4-6pm
+
+First Name:
+
+Last Name:
+
+Student Number:
+
+MARKS
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Total
+
+/2
+
+/2
+
+/2
+
+/2
+
+/2
+
+/2
+
+/3
+
+/3
+
+/2
+
+/6
+
+/6
+
+/6
+
+/6
+
+/6
+
+/50
+
+Question 1 [2 Marks]
+In the following C program, how many times will the letter D be printed?
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+int i = 300;
+
+while (i > 0) {
+
+if (i % 2 == 0)
+printf("D");
+
+i--;
+
+}
+
+return (EXIT_SUCCESS);
+
+}
+
+Question 2 [2 Marks]
+Given that averageSpeed is a double type variable that contains a value representing a car’s av-
+erage speed in metres/second for the past 30 minutes, write a single C statement that declares and
+initializes a double type variable called distance. The variable distance should be initialized
+to represent the distance travelled by the car in kilometres for the past 30 minutes.
+
+2
+
+Question 3 [2 Marks]
+Write a single C statement that declares an int variable randomGuess, and initializes it with
+a randomly generated odd number between LOWER_BOUND and UPPER_BOUND (inclusive). As-
+sume that LOWER_BOUND and UPPER_BOUND are odd numbers declared as integer constants, and
+UPPER_BOUND is the larger value of the two.
+
+Question 4 [2 Marks]
+In a C program, three bool-type variables have been declared, with the names red, green and
+blue, and are initialized to either true or false. Write a single C statement that declares and
+initializes a bool-type variable called yellow that is set to true when both the red and green
+variables are true, but the blue variable is false.
+
+Question 5 [2 Marks]
+The variable numApples is an int type variable representing the number of apples in a barrel.
+The owner of the apples is deciding whether to sell them in packages of 3 or 5 apples. Write a
+single C statement that declares and initializes an int type variable called leftover. leftover
+should be initialized to the minimum of two quantities: 1) the number of apples left over when
+the barrel of apples is packaged into groups of 3; 2) the number of apples left over when the barrel
+of apples is packaged into groups of 5. Hint: Use a function in the math library.
+
+3
+
+Question 6 [2 Marks]
+
+The following C program is supposed to calculate and print (to two decimal points accuracy) the
+square root of every second integer number from 1 to 101 inclusive beginning with 1. There are
+four lines that contain errors in this program, which are either syntax or logical errors.
+
+double root;
+
+1 #include <stdio.h>
+2 #include <math.h>
+3
+4 int main(void) {
+5
+6
+7
+8
+9
+10
+11
+12
+13 }
+
+for (int number
+
+}
+return (EXIT_DENIED);
+
+number = sqrt((double) root);
+
+= 1; number < 101; number += 2) {
+
+printf("The Square Root of %0.2f is %.1f\n", number, root);
+
+For each line that has error(s), state, in the following table, the line number that error(s), and give
+the correct statement.
+
+Line Number
+
+Corrected Line
+
+4
+
+Question 7 [3 Marks]
+
+Print the output produced by an execution of the following C program.
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+char firstChar = ’A’;
+char secondChar = ’U’;
+
+printf("%c", firstChar + 3);
+firstChar += 4;
+printf("%c", firstChar);
+printf("%c", firstChar - 3);
+printf("%c", secondChar);
+firstChar++;
+firstChar++;
+printf("%c\n", firstChar);
+
+return (EXIT_SUCCESS);
+
+}
+
+5
+
+Question 8 [3 Marks]
+
+What does the following program print?
+
+#include <stdio.h>
+
+int main(void) {
+int i, j, k;
+
+for (i = 10; i <= 14; i = i + 2) {
+
+for (j = 5; j > 0; j--) {
+
+k = i + j;
+printf("%d ", k);
+
+}
+
+}
+
+return (EXIT_SUCCESS);
+
+}
+
+6
+
+Question 9 [2 Marks]
+
+There have been four plenary lectures so far in this course, and there is one question from each
+below. You should give a written answer for two of these four questions. The answer should be
+one or two sentences. If you answer more than two questions, you must indicate which two you
+wish to be graded; if you do not indicate which, then the ﬁrst two in order will be graded.
+
+Plenary Lecture 1 — Creative Application for Mobile Devices (Professor Jonathan Rose)
+This lecture discussed the many capabilities of a smartphone, and many different applications
+of them in research and that have been deployed. It ﬁnished with two key messages relating to
+1) What is possible with smartphones, and 2) the potential impact they can have. Give, in one
+sentence, the essence of those two key messages you were asked to ’take home.’
+
+Plenary Lecture 2 — Serial Software Entrepreneur (Bobby John)
+What was the one question that Mr. John suggested that every company should ask itself in relation
+to software?
+
+7
+
+Plenary Lecture 3 — Machine Learning and Big Data (Dr. Inmar Givoni)
+Dr. Givoni gave a high-level description of how an artiﬁcial neural network learns something —
+for example they can learn what a human face looks like. Describe, in just a few sentences, that
+method.
+
+Plenary Lecture 4 — From Software to Circuits (Professor Jason Anderson)
+What are the advantages of implementing a computation in a hardware circuit compared to im-
+plementing it in software running on a computer?
+
+8
+
+Question 10 [6 Marks]
+
+Write a complete C program that ﬁrst prompts the user for a character. The program then de-
+termines if the character is an upper-case letter (A-Z), a lower-case letter (a-z), a digit (0-9), or a
+special character (all other cases). Recall that the upper-case letters have consecutive encodings in
+the ASCII table. Likewise, the lower-case letters have consecutive encodings in the ASCII table,
+and the digits do as well.
+
+Here are four sample executions of the program that illustrate the four cases your program must
+handle:
+
+Enter a character: A
+UPPER CASE.
+
+Enter a character: 1
+DIGIT.
+
+Enter a character: e
+LOWER CASE.
+
+Enter a character: !
+SPECIAL.
+
+int main(void) {
+
+}
+
+9
+
+Question 11 [6 Marks]
+Write a C function reverseDigits, the prototype of which is given below, that takes an integer
+argument value, and returns an integer with its digits reversed. For example, if the argument is
+1234, the function will return 4321.
+
+int reverseDigits(int value) {
+
+}
+
+10
+
+Question 12 [6 Marks]
+In 1706, John Machin, then a professor in London UK, devised a formula for calculating π:
+
+π
+4
+
+= 4 · arctan(
+
+1
+5
+
+) − arctan(
+
+1
+239
+
+)
+
+where the arctan values can be calculated using the following formula:
+
+arctan(x) = x −
+
+x3
+3
+
++
+
+x5
+5
+
+−
+
+x7
+7
+
++
+
+x9
+9
+
+. . . −
+
+x299
+299
+
++
+
+x301
+301
+
+Write a C program that calculates and prints π using this method, printing 10 digits after the
+decimal point. You must deﬁne your own function called arctan to compute the arctan values,
+and you are not allowed to use the atan function from the math library. When your program is
+run, its output should be:
+
+Pi = 3.1415926536
+
+11
+
+Question 13 [6 Marks]
+Write a complete C program that reads as input from the terminal, an int type variable called
+index, which will be in the range from 0 to 9 (your program may assume this). The program
+should then print a 10-line pattern, where each line contains all of the digits. The ﬁrst line will
+begin with index and print all digits on the same line in ascending order until 9 is reached, at
+which point it will “wrap around” to 0 and print the remaining unprinted digits ascending until
+index - 1. The next line will repeat the pattern, beginning with index + 1.
+
+Here are two sample executions of the program:
+
+Enter index: 0
+0123456789
+1234567890
+2345678901
+3456789012
+4567890123
+5678901234
+6789012345
+7890123456
+8901234567
+9012345678
+
+Enter index: 3
+3456789012
+4567890123
+5678901234
+6789012345
+7890123456
+8901234567
+9012345678
+0123456789
+1234567890
+2345678901
+
+Please write your solution on the next page.
+
+12
+
+int main(void) {
+
+}
+
+13
+
+Question 14 [6 Marks]
+
+Write a complete C program that prompts the user to input a single character repeatedly. When
+the most recent three characters form the pattern NAN the program should print out, on a separate
+line, Pattern NAN found! The program should ﬁnish and print the word Done on a separate
+line when the character ‘F’ is entered.
+
+Here is a sample execution of the program that illustrates how it operates:
+
+Input Next Character: T
+Input Next Character: N
+Input Next Character: B
+Input Next Character: N
+Input Next Character: A
+Input Next Character: N
+Pattern NAN found!
+Input Next Character: A
+Input Next Character: N
+Pattern NAN found!
+Input Next Character: N
+Input Next Character: A
+Input Next Character: A
+Input Next Character: N
+Input Next Character: A
+Input Next Character: N
+Pattern NAN found!
+Input Next Character: B
+Input Next Character: A
+Input Next Character: N
+Input Next Character: A
+Input Next Character: N
+Pattern NAN found!
+Input Next Character: A
+Input Next Character: N
+Pattern NAN found!
+Input Next Character: F
+Done
+
+Please write your solution on the next page.
+
+14
+
+int main(void) {
+
+}
+
+15
+
+This page has been left blank intentionally. You may use it for answers to any question in this examination.
+
+16
+
+

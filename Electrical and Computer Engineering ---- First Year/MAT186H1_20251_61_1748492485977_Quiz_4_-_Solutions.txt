@@ -1,0 +1,317 @@
+Name: ________________________________ 
+
+Student number:_______________________ 
+
+MAT 186 
+Quiz 4 
+
+1.  Use the limit definition of the derivative to find 𝒇′(𝒙) for  
+
+CF4 
+
+CS1 
+
+𝒇(𝒙) =
+
+𝟑
+𝟐𝒙 − 𝟏
+
+𝑓′(𝑥) = lim
+ℎ→0
+
+= lim
+ℎ→0
+
+= lim
+ℎ→0
+
+= lim
+ℎ→0
+
+3
+ℎ
+3
+ℎ
+3
+ℎ
+
+(
+
+(
+
+(
+
+(
+
+1
+ℎ
+
+3
+2(𝑥 + ℎ) − 1
+1
+1
+2(𝑥 + ℎ) − 1
+2𝑥 − 1
+
+−
+
+−
+
+) 
+
+3
+2𝑥 − 1
+
+) 
+
+2𝑥 − 1
+(2(𝑥 + ℎ) − 1)(2𝑥 − 1)
+−2ℎ
+(2(𝑥 + ℎ) − 1)(2𝑥 − 1)
+
+) 
+
+−
+
+2(𝑥 + ℎ) − 1
+(2𝑥 − 1)(2(𝑥 + ℎ) − 1)
+
+) 
+
+= lim
+ℎ→0
+
+(
+
+−6
+(2(𝑥 + ℎ) − 1)(2𝑥 − 1)
+
+) 
+
+= −
+
+6
+(2𝑥 − 1)2 
+
+2.  Find  𝐥𝐢𝐦
+𝒙→−∞
+write this up properly.) 
+
+𝟑𝒙𝟑−𝟒𝒙𝟐−𝒙 𝐬𝐢𝐧(𝒙𝟐)
+𝟑𝒙𝟑+𝟕𝒙𝟐−𝟕𝒙−𝟑
+
+The first step is the obvious one: 
+
+ (Make sure to 
+
+CF2  CS1  CS2  MW1  MW2 
+
+1
+𝑥3)
+(
+1
+𝑥3)
+(
+
+lim
+𝑥→−∞
+
+3𝑥3 − 4𝑥2 − 𝑥 sin(𝑥2)
+3𝑥3 + 7𝑥2 − 7𝑥 − 3
+
+⋅
+
+= lim
+𝑥→−∞
+
+(3 −
+
+(3 +
+
+4
+𝑥
+7
+𝑥
+
+−
+
+−
+
+sin(𝑥2)
+)
+𝑥2
+7
+𝑥2 −
+
+3
+𝑥3)
+
+The last term in the numerator needs work, using the Squeeze Theorem: 
+
+−1 ≤ sin(𝑥2) ≤ 1 
+sin(𝑥2)
+1
+1
+𝑥2 ≤
+𝑥2 ≤
+𝑥2 
+1
+1
+𝑥2 = 0 
+𝑥2 = lim
+sin(𝑥2)
+
+𝑥→−∞
+
+−
+
+−
+
+∴ lim
+𝑥→−∞
+
+𝑥2 = 0 
+
+lim
+𝑥→−∞
+
+So, our limit becomes 
+
+3−0−0
+3+0−0−0
+
+= 1. 
+
+Continued on back. 
+
+ 
+ 
+ 
+ 
+ 
+3.  Find all asymptotes and identify all discontinuities (both their place and kind) for 
+
+𝒚 =
+
+𝒙𝟐 − 𝟓𝒙 + 𝟔
+|𝟐𝒙𝟐 − 𝟑𝒙 − 𝟐|
+
+AB1 
+
+AB4 
+
+CS3 
+
+CS4 
+
+The only possible discontinuities (and vertical asymptotes) can occur when the denominator is zero.  We have 
+2𝑥2 − 3𝑥 − 2 = (2𝑥 + 1)(𝑥 − 2), so we need to examine 𝑥 = −1/2 and 𝑥 = 2.   
+
+Note that since these are zeroes for the function inside an absolute value, we have to be careful, although one 
+part is actually made easier.  We can take a two-sided limit, although it is not necessary to do so. 
+
+lim
+𝑥→−1 2⁄
+
+𝑥2−5𝑥+6
+|2𝑥2−3𝑥−2|
+
+ is of the form [
+
+(−
+0+ ], so the two-sided limit is −∞.  This means there is a vertical asymptote. 
+
+33
+)
+4
+
+For 𝑥 = 2, we need one-sided limits. 
+
+𝑥2 − 5𝑥 + 6
+|2𝑥2 − 3𝑥 − 2|
+
+lim
+𝑥→2+
+
+(𝑥 − 3)(𝑥 − 2)
+(2𝑥 + 1)(𝑥 − 2)
+𝑥 − 3
+2𝑥 + 1
+
+= lim
+𝑥→2+
+
+= lim
+𝑥→2+
+= −1/5 
+
+Meanwhile,  
+
+𝑥2 − 5𝑥 + 6
+|2𝑥2 − 3𝑥 − 2|
+
+lim
+𝑥→2−
+
+(𝑥 − 3)(𝑥 − 2)
+−(2𝑥 + 1)(𝑥 − 2)
+
+𝑥 − 3
+−2𝑥 − 1
+
+= lim
+𝑥→2−
+
+= lim
+𝑥→2−
+= 1/5 
+
+Which gives a jump discontinuity. 
+
+Finally, for large values of 𝑥 in both directions, the function inside the absolute value is positive, so: 
+
+𝑥2 − 5𝑥 + 6
+|2𝑥2 − 3𝑥 − 2|
+𝑥2 − 5𝑥 + 6
+2𝑥2 − 3𝑥 − 2
+5
++ 6/𝑥2
+1 −
+𝑥
+2 − 3/𝑥 − 2/𝑥2 
+
+lim
+𝑥→±∞
+
+= lim
+𝑥→±∞
+
+= lim
+𝑥→±∞
+1
+2
+
+=
+
+So, 𝑦 =
+
+1
+2
+
+ is the horizontal asymptote in both directions. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

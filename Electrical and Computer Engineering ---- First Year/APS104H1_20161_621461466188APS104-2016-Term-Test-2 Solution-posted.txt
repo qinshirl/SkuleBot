@@ -1,0 +1,405 @@
+Please mark X to indicate your tutorial section.  
+Failure to do so will result in a deduction of 5 marks. 
+
+UNIVERSITY OF TORONTO 
+
+FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+TERM TEST 2 
+
+15 March 2016 
+
+APS 104S 
+
+INTRODUCTION TO  MATERIALS AND CHEMISTRY 
+
+Exam Type B 
+
+Examiners:  G. Azimi, C. Chin, P. Yaneff, J. Nogami 
+
+NAME:  _____________________________________________________ 
+                Last  
+
+First 
+
+STUDENT NO:_______________________________________________ 
+
+) 
+
+INSTRUCTIONS: 
+
+TUT 01 
+
+TUT 02 
+
+TUT 03 
+
+TUT 04 
+
+TUT 05 
+
+TUT 06 
+
+TUT 07 
+
+TUT 08 
+
+TUT 09 
+
+TUT 10 
+
+TUT 11 
+
+TUT 12 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+            /20 
+
+            /20 
+
+            /20 
+
+            /20 
+
+            /20 
+
+Total 
+
+           /100 
+
+•  This is a Type B examination. Only non-programmable calculators are allowed. 
+•  Answer all  questions. 
+•  All work is to be done on the pages of this booklet. 
+•  When answering the questions include all the steps of your work on these pages and then fill 
+
+the answer in the respective boxes. For additional space, you may use the back of the preceding 
+page. All answers should include the relevant units. 
+
+•  Do not unstaple this exam booklet. 
+•  A Formula Sheet and the periodic table are attached to the end of this exam booklet; if you wish, 
+
+you may tear-off  these sheets only. 
+
+•  Exam papers filled out in pencil will not be eligible for regrading. 
+
+Page 1 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+           
+           
+Name: _________________________________                Student No: ___________________________ 
+
+QUESTION  1:  (20  pts).  A  (variable  volume,  e.g.,  balloon)  vessel  filled  with  30  mol  of  O2  (g) 
+undergoes adiabatic expansion. Initially, the temperature of the vessel is 400 K.   
+
+1a (5 pts). Determine the final volume of the vessel after the expansion, at which the vessel reaches 
+a final state at standard conditions (273 K, 1 atm). 
+
+1b (5 pts). Determine the initial pressure of the vessel, given that the vessel reaches a final state at 
+standard conditions (273 K, 1 atm) after the adiabatic expansion. 
+
+              atm 
+
+1c (5 pts). In the PV diagram below, sketch the adiabatic expansion step, clearly indicate the initial 
+and final state.   
+
+Page 2 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+               
+ 
+   
+                  
+Name: _________________________________                Student No: ___________________________ 
+
+1d (5 pts). In a separate experiment, you have decided to add 200 g of solid sulfur compound into 
+the vessel (while it is at the standard conditions, 273 K, 1 atm) and then heat the vessel up to 800 K 
+and with a pressure of 50 atm.   
+
+During the heating process, the following reaction occurs and the reaction goes to completion: 
+
+S(solid)+O2(g)à SO2 (g) 
+
+Determine the mole fractions of SO2 at the end of the reaction.  
+
+Page 3 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+Page 4 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+2c. [8 pts] Using bond enthalpy values from the given below, estimate the standard molar enthalpy of 
+combustion of ethanol at 25°C according to 
+
+C2H5OH(liq) + 3O2(g) → 2CO2(g) + 3H2O(liq) 
+At 25°C the standard enthalpies of vaporization of liquid water and of liquid ethanol are 44.01 kJ mol–1 
+and 42.59 kJ mol–1, respectively. The enthalpies of complete atomization of gaseous CO2 and gaseous 
+H2O are 1609 kJ mol–1 and 920 kJ mol–1, respectively. 
+
+Bond Enthalpies (kJ mol -1) 
+
+C-H 412, C-C 348, C-O 360, O-H 437.7, O=O 498.36 
+
+First consider the gas phase reaction:       C2H5OH(g) + 3O2(g) 
+
+ΔH1
+" " " 
+"  → 
+
+ 2CO2(g) + 3H2O(g) 
+
+Bonds broken (reactants): 
+
+Bonds made (products): 
+
+C=O=O  2× (– 1609) =  – 3218  (given as data) 
+H–O–H  3× (– 920)   =  – 2760  (given as data) 
+                                        – 5978   
+
+C–H  5× 412     =   2060  (Table 2) 
+C–C  1× 348     = 
+348  (Table 2) 
+C–O  1× 360     =   360  (Table 2) 
+O–H  1× 437.7    =   438  (Table 1) 
+O=O  3× 498.36  =   1495   (Table 1) 
+                                    4701 
+Therefore,     ∆H1 = 4701 – 5978 = – 1277 kJ mol–1 
+
+Adding reactions: 
+
+C2H5OH(g) + 3O2(g) 
+
+ΔH1
+" " " 
+"  → 
+
+ 2CO2(g) + 3H2O(g) 
+
+∆H1 = – 1277 
+
+C2H5OH(liq) 
+
+ C2H5OH(g) 
+
+∆H2 = + 42.59 
+
+3H2O(g) 
+
+ 3H2O(liq)                       ∆H3 = 3× (– 44.01) = – 132.03 
+
+ΔH2
+"  → 
+" " " 
+ΔH3
+" " " 
+"  → 
+
+C2H5OH(liq) + 3O2(g) → 2CO2(g) + 3H2O(liq)                ∆Htotal = – 1366.44 kJ 
+mol–1 
+
+FYI: From standard enthalpies of formation at 25°C the actual value is 
+2(– 393.509) + 3(– 285.830) – (– 277.69) – 3(0) = – 1366.82 kJ mol–1 = – 1.367 MJ mol–1  
+
+                Ans: 
+
+– 1.366 MJ mol–1 
+
+Page 5 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+QUESTION 3 (20 pts): First law of thermodynamics  
+
+10 moles of neon gas (ideal gas) is taken from 1.0 bar pressure and 350 K to 1.143 bar pressure and 400 
+K The volume is held constant and the gas is heated directly to 400 K. 
+3a. [6 pts] Calculate q, w, and ΔU  
+
+3b. [15 pts] A piston/cylinder contains one mole of a monoatomic ideal gas that is initially at 300 K. It 
+is subjected to the following processes. Calculate the final temperature (in K) for each process. 
+
+Page 6 of 9 
+
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+3c. [8 pts] Two moles of O2 gas (ideal gas) is initially at 27 °C and 1.5 bar. It is heated up to 150°C at a 
+constant pressure process. Calculate ΔH, ΔU, q, and w for this process. 
+
+3e. [1 pts] Circle the correct answer: 
+
+a)  1 mole of an ideal gas expands from an initial condition to a final condition once in an reversible 
+isothermal  process  and  once  in  a  reversible  adiabatic  process.  The  work  done  in  the  second 
+process (adiabatic) is more than that of isothermal. 
+
+b)  If a process is adiabatic and expansion against or into a vacuum, the process is isothermal. 
+
+c)  Both w+q and U+q are path dependent functions. 
+
+QUESTION 4 (30 pts): Second and Third law of thermodynamics  
+4a.  [14  pts]  1.5  moles  of  a  monoatomic  ideal  gas  is  expanded  from  50°C  and  5  bar  to  3  bar  in  the 
+following two processes. Surrondings is at 25°C. 
+Calculate  ΔSsystem,  ΔSsurroundings  ,  and  ΔSuniverse  for  each  process.  Is  the  process  spontaneous  or  non-
+spontaneous? 
+
+2 pts for each ΔS and one point for spontaneous or non-spontaneous 
+
+Page 7 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+Page 8 of 9 
+
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+4b.  [16  pts]  The  following  reaction  involves  decomposition  of  CaCO3(s).  The  thermodynamic  data 
+required to solve this problem are provided in the following Table. 
+
+CaCO3(s) à CaO(s) + CO2(g) 
+
+Compound 
+CaCO3(s) 
+CaO(s) 
+CO2(g) 
+
+° (kJ/mol) 
+
+ΔHf
+-1206.92 
+-635.09 
+-393.509 
+
+S° (J/mol.K) 
+? 
+39.75 
+213.74 
+
+° (kJ/mol) 
+
+ΔGf
+-1128.79 
+-604.03 
+-394.359 
+
+Page 9 of 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

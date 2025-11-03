@@ -1,0 +1,299 @@
+Page 1 of 4 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Department of Electrical and Computer Engineering 
+
+ECE110S – Electrical Fundamentals 
+Term Test 1 – February 13, 2013, 6:30 – 8:00 p.m. 
+
+( e = 1.6 ×10-19 C, ε0 = 8.85 ×10-12
+
+ F/m, μ0 = 4π×10-7
+
+ H/m, g = 9.81 N/kg ) 
+
+ANSWER ALL QUESTIONS ON THESE SHEETS, USING THE BACK SIDE IF NECESSARY. 
+1. 
+2. 
+
+Non-programmable calculators are allowed. 
+For full marks, you must show methods, state UNITS and compute numerical answers when 
+requested. 
+Write in PEN. Otherwise, no remarking request will be accepted. 
+There is one extra blank page at the end for rough work. 
+
+3. 
+4. 
+
+Last Name: ____________________________________________________ 
+
+First Name: 
+
+ ___________________________________________________ 
+
+Student Number: _______________________________________________ 
+
+Tutorial Section: 
+ (YOU LOSE ONE MARK FOR NOT MARKING YOUR TUTORIAL SECTION CORRECTLY) 
+
+01  WB342  Mon. 3-5 p.m. 
+
+02  GB304  Mon. 3-5 p.m. 
+03  WB342  Tue. 4-6 p.m. 
+
+04  GB304 
+
+Tue. 4-6 p.m. 
+
+05  GB404  Wed. 4-6 p.m. 
+
+06  BA2185  Wed. 4-6 p.m. 
+
+07  SF2202  Wed. 2-4 p.m. 
+
+08  GB304  Wed. 2-4 p.m. 
+
+09  GB120 
+
+Fri. 4-6 p.m. 
+
+10  SF3202 
+
+Fri. 4-6 p.m. 
+
+11  SF2202 
+12  WB130 
+
+Fri. 2-4 p.m. 
+Fri. 2-4 p.m. 
+
+Question 
+
+Mark 
+
+1 
+
+2 
+
+3 
+
+TOTAL 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q1 [10 marks]  
+
+Page 2 of 4 
+
+•  Consider two concentric conductors, an inner sphere of radius 2 cm 
+and an outer spherical shell of radius 6 cm as shown in the figure. 
+
+•  The inner sphere has a positive charge and the outer spherical shell 
+has a negative charge equal in magnitude to that of the inner sphere. 
+
+•  The magnitude of the electric field is 9.94x106 N/C at r = 4 cm in 
+
+the space halfway between the two concentric conductors. 
+
+(a)  Compute the total flux through the surface of the inner sphere. (3 marks) 
+
+2 x 105 (Nm2/C) 
+
+(b) What is the charge on the inner sphere? (2 marks) 
+
+1.8 x 10-6 (C) 
+
+(c) Compute the total flux through the outer surface of the spherical shell. (1 marks) 
+
+0 
+
+(d) What is the potential difference between the two concentric conductors? (4 marks) 
+
+5.3 x 105 (V) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+Q2 [10 marks] For a capacitor consisting of two concentric conductors: an inner cylinder of radius α and an 
+outer cylindrical shell of inner radius β as shown below.  
+
+a) Derive the expression for the capacitance. (7 marks) 
+
+Page 3 of 4 
+
+2𝜋𝜀0𝐿
+𝛽
+𝛼
+
+ln (
+
+)
+
+b) What is the capacitance if the space in between the two conductors is filled with a dielectric material 
+having a dielectric constant κ. (1 mark) 
+
+2𝜋𝜅𝜀0𝐿
+𝛽
+𝛼)
+
+ln (
+
+c) Determine the ratio of the energy stored in the two capacitors in (a) and (b), if both are charged to the 
+same potential. (2 marks) 
+
+1
+𝜅
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q3 [10 marks] An electron travels at a velocity 
+parallel plates. The plates are separated by 1.0 cm and have a potential difference of 200 V, as shown in the 
+figure. What magnetic field strength and direction will allow the electron to pass between the plates un-
+deflected? 
+
+m/s horizontally between two large horizontal 
+
+
+1×=v
+
+710
+
+Page 4 of 4 
+
+2 x 10-3 -k (T) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

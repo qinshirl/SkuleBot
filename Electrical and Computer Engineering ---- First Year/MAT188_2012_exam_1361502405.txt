@@ -1,0 +1,1806 @@
+University of Toronto
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+Solutions to FINAL EXAMINATION, DECEMBER, 2012
+First Year - CHE, CIV, CPE, ELE, ENG, IND, LME, MEC, MMS
+
+MAT188H1F - LINEAR ALGEBRA
+Exam Type: A
+
+General Comments:
+
+1. Most of this exam consisted of completely routine questions. In particular, questions
+
+4, 5, 7 and 8 were almost identical to questions on previous exams.
+
+2. The only question that could be considered non-routine is question 9. However, there
+are many correct ways to do both parts (a) and (b), and many people got them. But
+most students had no idea how to tackle part (b). Some students wrote things like
+B = 3I = I or
+
+~u~uT + ~v~vT + (~u × ~v)(~u × ~v)T =
+
+
+
+
+
+ +
+
+
+
+
+
+
+
+1
+0
+0
+
+0
+1
+0
+
+
+
+
+
+ +
+
+
+
+0
+0
+1
+
+
+
+
+
+ =
+
+
+
+
+
+!
+
+1 0 0
+0 1 0
+0 0 1
+
+Others wrote things like ~u ~uT = k~uk2. In fact, ~u ~uT is a 3 × 3 matrix.
+
+3. The range on every question was zero to perfect. Students did surprisingly well on the
+
+True and False, but surprisingly poorly on the ﬁrst question.
+
+4. There were three perfect papers.
+
+Breakdown of Results: 971 students wrote this exam. The marks ranged from 9% to
+100%, and the average was 70.3%. Some statistics on grade distributions are in the table on
+the left, and a histogram of the marks (by decade) is on the right.
+
+Grade %
+
+Decade
+
+%
+90-100% 6.6%
+A 27.8% 80-89% 21.2%
+B 29.0% 70-79% 29.0%
+C 23.0% 60-69% 23.0%
+D 12.2% 50-59% 12.2%
+40-49% 4.7%
+F 8.0%
+30-39% 1.8%
+20-29% 1.0%
+10-19% 0.4%
+0-9% 0.1%
+
+1. [avg: 5.3/10] Find the following:
+
+(a) [5 marks] a vector equation for the line of intersection common to the two planes
+
+with equations x + y − z = 5 and 2x + y + 2z = 2.
+
+Solution: solve the system.
+
+(cid:20) 1 1 −1 5
+2 2
+
+2 1
+
+(cid:21)
+
+−→
+
+(cid:20) 1 1 −1 5
+0 1 −4 8
+
+(cid:21)
+
+−→
+
+Let z = t be a parameter, then
+
+(cid:20) 1 0
+
+0 1 −4
+
+(cid:21)
+
+3 −3
+8
+
+
+
+
+
+ =
+
+
+
+
+
+
+
+x
+y
+z
+
+−3 − 3t
+8 + 4t
+t
+
+
+
+
+
+ =
+
+
+
+−3
+8
+0
+
+
+
+
+
+ + t
+
+
+
+
+
+ ,
+
+−3
+4
+1
+
+which is the vector equation of a line.
+
+(b) [5 marks] the shortest distance between the two parallel lines L1 and L2
+
+L1 :
+
+
+
+
+
+
+x = 1 + t
+y = 0 − t
+z = 1 + t
+
+; L2 :
+
+
+
+
+
+
+x = 2 − s
+y = 3 + s
+z = 1 − s
+
+where s and t are parameters.
+
+Solution: let the shortest distance be D. Let P be the point on L1 with coordi-
+nates (1, 0, 1); let Q be the point on L2 with coordinates (2, 3, 1); let
+
+~n =
+
+
+
+
+
+
+
+
+
+1
+−1
+1
+
+be a direction vector for both lines. Then D2 +
+
+(cid:13)
+(cid:13)
+(cid:13)proj~n
+
+−→
+P Q
+
+(cid:13)
+2
+(cid:13)
+(cid:13)
+
+=
+
+−→
+P Q
+
+(cid:13)
+(cid:13)
+(cid:13)
+
+(cid:13)
+2
+(cid:13)
+(cid:13)
+
+, so
+
+−→
+P Q
+
+(cid:13)
+(cid:13)
+(cid:13)
+
+(cid:13)
+2
+(cid:13)
+(cid:13)
+
+D2 =
+
+and
+
+−
+
+−→
+P Q · ~n
+~n · ~n
+
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+(cid:13)
+2
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+~n
+
+=
+
+
+
+
+
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+1
+3
+0
+
+
+
+
+
+(cid:13)
+2
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+−
+
+
+
+
+
+2
+3
+
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+−
+
+1
+−1
+1
+
+
+
+
+
+(cid:13)
+2
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+= 10 −
+
+4
+3
+
+=
+
+26
+3
+
+;
+
+D =
+
+r26
+3
+
+.
+
+2. [avg: 7.9/10]
+
+(a) [5 marks] Find the area of the triangle ∆P QR passing through the three points
+
+P (1, 3, 1), Q(2, 2, 2), R(0, 2, 0).
+
+Solution: let the area be A. Then
+
+A =
+
+−→
+P Q ×
+
+(cid:13)
+(cid:13)
+(cid:13)
+
+−→
+P R
+
+(cid:13)
+(cid:13)
+(cid:13) =
+
+1
+2
+
+1
+2
+
+
+
+
+
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+
+
+
+
+ ×
+
+
+
+1
+−1
+1
+
+−1
+−1
+−1
+
+
+
+
+
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+=
+
+1
+2
+
+
+
+
+
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+2
+0
+−2
+
+
+
+
+
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+(cid:13)
+
+√
+
+8
+2
+
+=
+
+√
+
+2.
+
+=
+
+(b) [5 marks] Let U =
+
+o
+n(cid:2) x y z (cid:3)T | xyz = 0
+
+.
+
+1. Is U non-empty?
+
+Solution: No. The vector [ 0 0 0 ]T is in U since (0)(0)(0) = 0.
+
+2. Is U closed under scalar multiplication?
+
+Solution: Yes. If the vector X = [ x y z ]T is in U, so is tX for any scalar t,
+since (tx)(ty)(tz) = t3xyz = t3(0) = 0.
+
+3. Is U closed under vector addition?
+
+Solution: No. The vectors X = [ 1 0 0 ]T and Y = [ 0 1 1 ]T are in U but
+the vector X + Y = [ 1 1 1 ]T is not in U, since (1)(1)(1) = 1 6= 0.
+
+4. Is U a subspace of R3?
+
+Solution: No, because U is not closed under addition.
+
+3. [2 marks for each part; avg: 7.9/10] Decide if the following statements are True or False,
+
+and give a brief, concise justiﬁcation for your choice. Circle your choice.
+
+(a) If λ = 0 is an eigenvalue of the n × n matrix A then A is not invertible.
+
+True or False
+
+True: let a corresponding eigenvector be X; so X is non-zero and AX = 0X = O.
+Thus the homogeneous system has a non-zero solution, which is equivalent to A
+being non-invertible. OR: det(0I − A) = 0 ⇔ det(A) = 0, so A is not invertible.
+
+
+
+
+
+(b) dim
+
+im
+
+
+
+1 1 1 −2
+3 6 1
+1
+5 8 3 −3
+
+
+
+
+
+
+
+ = 3
+
+True or False
+
+False: dim (im(A)) = r, where r is the rank of A. The matrix
+
+
+
+
+
+1 1 1 −2
+3 6 1
+1
+5 8 3 −3
+
+
+
+
+
+has rank 2 because it only has 2 independent rows: R3 = R2 + 2R1.
+
+(c) If U is a subspace of R7 and dim U = 4 then dim U ⊥ = 3.
+
+True or False
+
+True: 7 = dim U + dim U ⊥ ⇒ dim U ⊥ = 7 − 4 = 3.
+
+(d)
+
+
+
+
+
+1
+1
+2
+
+
+
+ is in the span of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ,
+
+
+
+1
+3
+2
+
+1
+0
+1
+
+
+
+
+
+ ,
+
+
+
+0
+3
+1
+
+
+
+
+
+
+
+
+
+
+.
+
+True or False
+
+False: in the spanning set, the ﬁrst vector is the sum of the next two. So the
+question reduces to, Are there scalars a and b such that
+
+
+
+
+
+ = a
+
+
+
+
+
+
+
+1
+1
+2
+
+
+
+
+
+ + b
+
+
+
+
+
+?
+
+0
+3
+1
+
+1
+0
+1
+
+This system is obviously inconsistent, since 1 + 1/3 6= 2.
+
+(e) If {X1, X2, X3} is linearly independent, then so is {X2, X3}.
+
+True or False
+
+True: sX2 + tX3 = O ⇒ 0X1 + sX2 + tX3 = O ⇒ s = t = 0 since {X1, X2, X3}
+is linearly independent.
+
+4. [10 marks; avg: 8.5/10] Given that the reduced row-echelon form of
+
+A =
+
+
+
+
+
+
+
+0 2 −1 1
+1
+2 0
+1 0
+−1
+1
+2 4 −1 2
+2 −1 3 −2 2
+
+
+
+
+
+
+
+is R =
+
+
+
+
+
+
+
+1 0 2 −1 0
+0 0
+0 1 1
+0 1
+0 0 0
+0 0
+0 0 0
+
+
+
+
+
+
+
+,
+
+state the rank of A, and ﬁnd a basis for each of the following: the row space of A, the
+column space of A, and the null space of A.
+
+Solution: the rank of A is r = 3, the number of leading 1’s in R.
+
+U
+
+dim U
+
+description of basis
+
+vectors in basis
+
+rowA
+
+r = 3
+
+three non-zero rows of R
+
+three independent rows of A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+2
+−1
+0
+
+
+
+
+
+
+
+
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+
+
+
+
+
+
+
+
+
+0
+1
+1
+0
+0
+
+0
+0
+0
+0
+1
+
+{R1, R2, R4}
+{R1, R3, R4}
+{R2, R3, R4}
+
+NB: R3 = R2 + 2R1
+
+col A
+
+r = 3
+
+three independent columns of A
+
+{C1, C2, C5}
+
+(not three independent columns of R)
+
+(colR 6= colA)
+
+NB: C3 = 2C1 + C2; C4 = −C1
+
+null A 5 − r = 2
+
+two basic solutions to RX = 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−2
+−1
+1
+0
+0
+
+
+
+
+
+
+
+
+
+,
+
+
+
+
+
+
+
+
+
+1
+0
+0
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. [avg: 8.5/12] Let T : R2 −→ R2 be the linear transformation deﬁned by
+
+(cid:18)(cid:20) x
+y
+
+T
+
+(cid:21)(cid:19)
+
+(cid:20) 2x + 5y
+2x + y
+
+(cid:21)
+
+.
+
+=
+
+(a) [6 marks] Draw the image under T of the unit square, and calculate its area.
+
+Solution: the image of the unit square is the parallelogram determined by
+
+T (~i) = T
+
+(cid:18)(cid:20) 1
+0
+
+(cid:21)(cid:19)
+
+(cid:21)
+
+(cid:20) 2
+2
+
+=
+
+and T (~j) = T
+
+(cid:18)(cid:20) 0
+1
+
+(cid:21)(cid:19)
+
+(cid:20) 5
+1
+
+(cid:21)
+
+.
+
+=
+
+In the diagram to the right, the
+unit square is in blue, and the
+image of the unit square is in
+green. Its area is
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+det
+
+(cid:20) 2 5
+2 1
+
+(cid:21)(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+= |2 − 10| = 8.
+
+(b) [6 marks] Find the formula for T ◦ R
+
+around the origin.
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20) x
+y
+
+if R is a rotation of π/6 clockwise
+
+Solution: the matrix of R is
+
+(cid:20) cos(−π/6) − sin(−π/6)
+cos(−π/6)
+
+sin(−π/6)
+
+(cid:21)
+
+=
+
+(cid:20) √
+3
+−1
+
+1
+2
+
+(cid:21)
+
+√
+
+1
+3
+
+= B
+
+and the matrix of T is
+
+(cid:21)
+
+(cid:20) 2 5
+2 1
+
+= A;
+
+so
+
+T ◦ R
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20) x
+y
+
+= AB
+
+(cid:21)
+
+(cid:20) x
+y
+
+=
+
+=
+
+1
+2
+
+1
+2
+
+√
+√
+
+√
+(cid:20) 2
+√
+2
+(cid:20) (2
+(2
+
+3
+3
+
+3 − 5 2 + 5
+3 − 1
+2 +
+√
+√
+
+3 − 5) x + (2 + 5
+3 − 1) x + (2 +
+
+(cid:21)
+
+(cid:21) (cid:20) x
+y
+
+√
+√
+
+3) y
+3) y
+
+(cid:21)
+
+.
+
+6. [avg: 8.8/12] Let Q =
+
+(cid:20) −8 6
+6 8
+
+1
+10
+
+(cid:21)
+
+.
+
+(a) [4 marks] Find the eigenvalues of Q.
+
+Solution:
+
+det(λI − Q) = det
+
+(cid:20) λ − (cid:0) −8
+− 6
+10
+
+10
+
+(cid:1) − 6
+10
+λ − 8
+10
+
+(cid:21)
+
+= λ2 −
+
+(cid:19)
+
+(cid:18) 64
+100
+
+−
+
+(cid:19)
+
+(cid:18) 36
+100
+
+= λ2 − 1.
+
+So the eigenvalues of Q are λ1 = 1 and λ2 = −1.
+
+(6) [8 marks] Find a basis for each eigenspace1 of Q and plot the eigenspaces of Q in
+the plane, indicating which eigenspace corresponds to which eigenvalue of Q.
+
+Solution:
+
+E1(Q) = null(I−Q) = null
+
+(cid:20) 1 + 4
+− 3
+5
+
+5 − 3
+5
+1 − 4
+5
+
+(cid:21)
+
+= null
+
+(cid:21)
+
+(cid:20) 9 −3
+1
+−3
+
+= null
+
+(cid:20) 3 −1
+0
+0
+
+(cid:21)
+
+;
+
+so could take
+
+X1 =
+
+(cid:20) 1
+3
+
+(cid:21)
+
+.
+
+E−1(Q) = null(−I−Q) = null
+
+so could take
+
+Plot of Eignespaces:
+
+(cid:20) −1 + 4
+− 3
+5
+
+5
+
+(cid:21)
+
+− 3
+5
+−1 − 4
+5
+
+= null
+
+(cid:21)
+
+(cid:20) −1 −3
+−3 −9
+
+= null
+
+(cid:20) 1 3
+0 0
+
+(cid:21)
+
+;
+
+X2 =
+
+(cid:20) −3
+1
+
+(cid:21)
+
+.
+
+(cid:2)(cid:2)
+
+(cid:2)
+
+E1(Q)
+
+y
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+(cid:2)(cid:2)(cid:14)
+(cid:2)
+X1
+
+(cid:2)
+(cid:2)
+
+X2
+PPPPPi
+
+PPPPPPPPPPPP
+
+(cid:2)
+(cid:2)
+
+(cid:2)
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+x
+
+E−1(Q)
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+(cid:2)
+
+Note: Q is the matrix of a reﬂection in the line y = 3x, so E1(Q) is the axis of
+reﬂection, and E−1(Q) must be the line orthogonal to the axis of reﬂection.
+
+1Recall: if A is an n×n matrix, the eigenspace of A corresponding to λ is Eλ(A) = {X ∈ Rn | AX = λX}.
+
+7. [avg: 10.4/12]
+
+Let U = span (cid:8)X1 = [ 0 1 −1 0 ]T , X2 = [ 1 0 0 −1 ]T , X3 = [ 1 −1 0 0 ]T (cid:9) ;
+let X = (cid:2) 1 1 0 1 (cid:3)T . Find:
+
+(a) [6 marks] an orthogonal basis of U.
+
+Solution: since X1 · X2 = 0 already, you only need to use the Gram-Schmidt
+algorithm to ﬁnd F3. Take F1 = X1, F2 = X2, and
+
+F3 = X3 −
+
+X3 · X1
+kX1k2 X1 −
+
+X3 · X2
+kX2k2 X2 = X3 +
+
+1
+2
+
+X1 −
+
+1
+2
+
+X2 =
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+.
+
+1
+−1
+−1
+1
+
+Optional: clear fractions and take
+
+F3 =
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+1
+−1
+−1
+1
+
+Either way {F1, F2, F3} is an orthogonal basis of U.
+
+(b) [6 marks] projU (X).
+
+Solution: using {F1, F2, F3} with fractions cleared.
+
+X · F3
+kF3k2 F3
+
+projU X =
+
+=
+
+=
+
+X · F1
+kF1k2 F1 +
+1
+F1 + (0)F2 +
+2
+
+
+
+X · F2
+kF2k2 F2 +
+1
+F3
+4
+
+1
+4
+
+
+
+
+
+1
+1
+−3
+1
+
+.
+
+
+
+
+
+Cross-check/Alternate Solution: U ⊥ = span{Y } with Y = [ 1 1 1 1 ]T .
+Then
+
+projU X = X − projU ⊥(X) = X −
+
+X · Y
+kY k2 Y = X −
+
+3
+4
+
+Y =
+
+
+
+
+
+
+
+1
+4
+
+
+
+
+
+
+
+.
+
+1
+1
+−3
+1
+
+8. [12 marks; avg: 9.8/12] Find an orthogonal matrix P and a diagonal matrix D such that
+
+D = P T AP, if
+
+A =
+
+
+
+
+
+1 0 1
+0 2 0
+1 0 1
+
+
+
+ .
+
+Step 1: Find the eigenvalues of A.
+
+det(λI − A) = det
+
+
+
+
+
+λ − 1
+0
+−1
+
+0
+λ − 2
+0
+
+−1
+0
+λ − 1
+
+
+
+ = (λ − 2) det
+
+(cid:20) λ − 1 −1
+λ − 1
+
+−1
+
+(cid:21)
+
+= (λ − 2) (cid:0)(λ − 1)2 − 1(cid:1) = (λ − 2)(λ2 − 2λ)
+= λ (λ − 2)2
+
+So the eigenvalues of A are λ1 = 0 and λ2 = 2.
+
+Step 2: Find mutually orthogonal eigenvectors of A.
+
+E0(A) = null
+
+
+
+
+
+−1
+
+−1
+
+0 −2
+
+0 −1
+0
+0 −1
+
+
+
+
+
+ = null
+
+
+
+
+
+ = span
+
+1 0 1
+0 1 0
+0 0 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+−1
+0
+1
+
+E2(A) = null
+
+
+
+
+
+1 0 −1
+0
+0 0
+1
+−1 0
+
+
+
+
+
+ = null
+
+
+
+1 0 −1
+0
+0 0
+0
+0 0
+
+
+
+ = span
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ,
+
+
+
+1
+0
+1
+
+0
+1
+0
+
+
+
+
+
+
+
+
+
+
+.
+
+OR: use either E0(A) = (E2(A))⊥ or E2(A) = (E0(A))⊥ to simplify calculations. That
+is, E2(A) is the plane with equation x = z and E0(A) is the line normal to the plane.
+
+Step 3: Divide each eigenvector by its length to get an orthonormal basis of eigenvec-
+tors, which are put into the columns of P. So
+
+
+
+
+
+P =
+
+√
+
+√
+
+−1/
+0
+√
+1/
+
+2 1/
+0
+√
+1/
+
+2
+
+2 0
+1
+2 0
+
+
+
+
+
+ and D =
+
+
+
+
+
+
+
+0 0 0
+0 2 0
+0 0 2
+
+9. [avg: 3.3/12] Suppose ~u and ~v are two orthogonal unit vectors in R3.
+Let A = (cid:2) ~u ~v ~u × ~v (cid:3) and let B = ~u ~uT + ~v ~vT + (~u × ~v) (~u × ~v)T .
+
+(a) [6 marks] Explain why A must be an orthogonal matrix.
+
+Solution 1: show that the columns of A form an orthonormal basis of R3.
+It is given that k~uk = k~vk = 1 and ~u · ~v = 0; and ~u × v is always orthogonal to
+both ~u and ~v. So need only show that ~u × ~v is also a unit vector:
+
+k~u × ~vk = k~ukk~vk sin(π/2) = (1)(1)(1) = 1.
+
+Solution 2: show that AT A = I: AT A = (cid:2) ~u ~v ~u × ~v (cid:3)T (cid:2) ~u ~v ~u × ~v (cid:3) =
+
+
+
+
+
+~uT
+~vT
+(~u × ~v)T
+
+
+
+
+
+
+
+
+
+=
+
+~u · ~u
+~v · ~u
+
+(cid:2) ~u ~v ~u × ~v (cid:3) =
+
+
+
+
+
+~uT ~u
+~vT ~u
+
+~uT~v
+~vT~v
+
+~uT (~u × ~v)
+~vT (~u × ~v)
+
+(~u × ~v)T ~u (~u × ~v)T~v (~u × ~v)T (~u × ~v)
+
+
+
+
+
+~u · ~v
+~v · ~v
+
+~u · (~u × ~v)
+~v · (~u × ~v)
+
+(~u × ~v) · ~u (~u × ~v) · ~v (~u × ~v) · (~u × ~v)
+
+
+
+
+
+ =
+
+
+
+k~uk2
+0
+0
+
+0
+k~vk2
+0
+
+0
+0
+k~u × ~vk2
+
+
+
+ = I.
+
+(b) [6 marks] Explain why B must be I, the 3 × 3 identity matrix.
+
+Solution 1: To save space, let ~w = ~u × ~v. By part (a), AAT = I, so
+
+I = AAT = (cid:2) ~u ~v
+
+~w (cid:3)
+
+
+ = ~u ~uT + ~v ~vT + ~w ~wT = B.
+
+
+
+
+
+~uT
+~vT
+~wT
+
+Solution 2: {~u, ~v, ~w} is an orthonormal basis. Apply the Expansion Theorem,
+for ~x ∈ R3: ~x = (~x·~u)~u+(~x·~v)~v +(~x· ~w) ~w = ~u~uT ~x+~v~vT ~x+ ~w ~wT ~x = B~x ⇒ B = I.
+Solution 3: show ~u, ~v, ~w are all eigenvectors of B with eigenvalue λ = 1.
+
+B~u = (~u~uT + ~v~vT + ~w ~wT )~u = ~u~uT ~u + ~v~vT ~u + ~w ~wT ~u
+
+= ~u(~u · ~u) + ~v(~v · ~u) + ~w( ~w · ~u) = ~u(1) + ~v(0) + ~w(0) = ~u;
+
+B~v = (~u~uT + ~v~vT + ~w ~wT )~v = ~u~uT~v + ~v~vT~v + ~w ~wT~v
+
+= ~u(~u · ~v) + ~v(~v · ~v) + ~w( ~w · ~v) = ~u(0) + ~v(1) + ~w(0) = ~v;
+
+B ~w = (~u~uT + ~v~vT + ~w ~wT ) ~w = ~u~uT ~w + ~v~vT ~w + ~w ~wT ~w
+
+= ~u(~u · ~w) + ~v(~v · ~w) + ~w( ~w · ~w) = ~u(0) + ~v(0) + ~w(1) = ~w.
+
+Thus the matrix A = (cid:2) ~u ~v
+
+~w (cid:3) orthogonally diagonalizes B and
+
+I = diag(1, 1, 1) = AT BA ⇔ B = AIAT = I.
+
+

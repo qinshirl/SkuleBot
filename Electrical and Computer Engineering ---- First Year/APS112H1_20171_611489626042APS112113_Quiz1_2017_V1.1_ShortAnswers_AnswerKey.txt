@@ -1,0 +1,560 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+Quiz #1 February 14, 2017 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total 
+of 23 questions, worth 41 marks. The questions are divided between two booklets.  
+
+Question Booklet #2 – Short-Answer Question Booklet 
+
+First Name: 
+Last Name: 
+UTOR Email: 
+
+  @mail.utoronto.ca 
+
+There are 3 short-answer questions, worth 21 marks in total. These must be answered 
+in the spaces provided in this Short-Answer Question Booklet. This question booklet, 
+with your name and UTOR Email filled in, must be returned with the multiple-choice 
+answer sheet slipped inside. Do not separate any pages. Do not write on the QR code 
+at the top of the pages. We are not looking for long paragraph answers. Use short 
+sentences or bullet points. 
+
+All short-answer questions refer to the following client statement. 
+
+Client Statement #2 – Photovoltaic Cells 
+Performance of photovoltaic systems greatly degrade as dust and dirt adhere to the 
+panels. As a result, water based washing systems have been developed to clean 
+photovoltaic systems. Unfortunately, many locations which are suitable to photovoltaic 
+systems have limited water availability (sunny skies means no rain). Design a water 
+efficient method for keeping large photovoltaic power systems clean. 
+
+Figure 1: Cleaning of 200 W Photovoltaic Panels by Brian 
+Kusler 
+(https://www.flickr.com/photos/briankusler/2447511232/in
+/photostream/) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  (7 MARKS) Give ONE primary function, TWO important objectives, and ONE 
+important constraint for Client Statement #2 – Photovoltaic Cells. Metrics are 
+required for the objectives and constraint, but you do not need to include goals or 
+limits.  
+
+PRIMARY FUNCTION: 
+•  Remove dirt and dust from panel 
+•  Clean solar panel 
+
+NOT:  
+•  Transport Mass (we want primary function, not the functional basis) 
+•  Minimize  water  (Though  this  is  a  critical  aspect  of  the  project,  it  is  an  objective  not  a 
+
+function) 
+Increase solar cell efficiency (this is a result and not a function) 
+
+• 
+•  Store water (this is a secondary function) 
+•  Detect dirt/dust (this is a secondary function) 
+
+OBJECTIVES: 
+•  Should minimize water usage 
+
+o  Litres per unit of time; Litres per panel; Litres 
+
+•  Should minimize electricity usage 
+
+o  Watts 
+
+•  Should be easy to operate 
+
+o  Number of daily human interactions required for operation 
+
+•  Should be inexpensive 
+o  Dollars 
+•  Should be durable 
+
+o  Number of moving parts; % of constructions materials that are non-oxidizing  
+
+•  Should be easy to maintain 
+
+o  Number of standardized parts; number of locally accessible parts 
+
+NOT:  
+•  Should clean efficiently (too vague…unless they give enough details using the metric) 
+•  Should  be  environmentally  friendly  (too  vague…unless  they  give  enough  details  using 
+
+the metric) 
+
+•  Should be user friendly (too vague…unless they give enough details using the metric) 
+
+CONSTRAINT: 
+Must not use toxic cleaner 
+
+o  EPA toxicity guidelines; litres 
+•  Must not require water service line 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+o  Yes / no 
+•  Must collect runoff water 
+
+o  Litres 
+
+•  Must not contain oxidizing materials. 
+
+o  % by volume, % by mass, mass 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  (7 MARKS) While designing a solution for Client Statement #2 – Photovoltaic Cells, 
+
+you need to know the amount of water consumed washing panels at the 550 
+Megawatt (MW) Desert Sunlight Solar Farm in the Mojave Desert. If the panels are 
+washed twice a week in the traditional way, estimate the annual water consumption 
+for this task in Litres. Use reasonable assumptions based on your personal 
+knowledge and the information provided here. You don’t have to get an exact 
+answer, but you do have to compute a number and demonstrate structured 
+thinking.   
+
+Area of a Panel 
+From picture, one panel is about: 
+
+Number of panels: 
+
+1𝑚 ∗ 0.5𝑚 = 0.5 𝑚
+
+ (𝑝𝑝𝑝 200𝑊)
+
+2
+
+Total area to clean: 
+
+Estimate water usage: 
+
+6
+600𝑥10
+
+𝑊
+
+200 𝑊/𝑝𝑝𝑝𝑝𝑝
+
+6
+= 3𝑥10
+
+ 𝑝𝑝𝑝𝑝𝑝𝑝
+
+6
+3𝑥10
+
+∗ 0.5𝑚
+
+2
+
+6
+= 1.5𝑥10
+
+𝑚
+
+2
+
+Method # 1: a typical tap or hose has a flow rate of about 10L per minute. 
+Each panel might need to be sprayed for 1 minute. 
+
+Total volume per wash 
+
+10 𝐿
+𝑚𝑚𝑝𝑚𝑚𝑝
+
+= 10 𝐿 𝑝𝑝𝑝 𝑝𝑝𝑝𝑝𝑝
+
+Total per year: 
+
+10 𝐿
+𝑝𝑝𝑝𝑝𝑝
+
+6
+∗ 3𝑥10
+
+𝑝𝑝𝑝𝑝𝑝𝑝 = 30 𝑀 𝐿 𝑝𝑝𝑝 𝑤𝑝𝑝ℎ
+
+6
+30𝑥10
+𝑤𝑝𝑝ℎ
+
+𝐿
+
+∗
+
+2 𝑤𝑝𝑝ℎ
+𝑤𝑝𝑝𝑤
+
+∗
+
+52 𝑤𝑝𝑝𝑤𝑝
+𝑦𝑝𝑝𝑝
+
+𝟗
+
+= 𝟑𝟑𝟏𝟏
+
+ 𝑳  𝒚𝒚𝒚𝒚
+
+⁄
+
+Method # 2: using area of panel 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How much water per panel? 
+Assume vol of water=area time thickness of water 
+Assume need layer 1 mm thick 
+
+3
+
+1 𝑚
+
+= 1000 𝐿
+
+𝑉𝑉𝑝𝑚𝑚𝑝 𝑊𝑝𝑚𝑝𝑝
+𝑝𝑝𝑝𝑝𝑝 𝑤𝑝𝑝ℎ
+
+=
+
+2
+
+−3
+
+0.5𝑚
+
+∗ 10
+
+𝑚
+
+𝑝𝑝𝑝𝑝𝑝 𝑤𝑝𝑝ℎ
+
+−3
+
+3
+
+=
+
+0.5𝑥10
+𝑚
+𝑝𝑝𝑝𝑝𝑝 𝑤𝑝𝑝ℎ
+
+= 0.5 𝑝 𝑝𝑝𝑝𝑝𝑝 𝑤𝑝𝑝ℎ
+
+⁄
+
+To remove dirt properly, perhaps need to flush 10 times 
+
+So Vol water per panel would be 5 L per panel (similar to Method #1 that gave 10L per 
+panel per wash) 
+
+Total per year in this case would be: 
+
+𝑇𝑉𝑚𝑝𝑝 𝑉𝑉𝑝𝑚𝑚𝑝 𝑝𝑝𝑝 𝑤𝑝𝑝ℎ =  
+
+5 𝐿
+𝑝𝑝𝑝𝑝𝑝
+
+6
+∗ 3𝑥10
+
+6
+ 𝑝𝑝𝑝𝑝𝑝𝑝 = 15𝑥10
+
+𝐿
+
+6
+15𝑥10
+𝑤𝑝𝑝ℎ
+
+𝐿
+
+∗
+
+2 𝑤𝑝𝑝ℎ
+𝑤𝑝𝑝𝑤
+
+∗
+
+52 𝑤𝑝𝑝𝑤𝑝
+𝑦𝑝𝑝𝑝
+
+𝟗
+
+= 𝟏. 𝟓𝟑𝟏𝟏
+
+ 𝑳  𝒚𝒚𝒚𝒚
+
+⁄
+
+NOTE: 
+Note  that  on  the  web,  I  found  they  clean  only  2  x  per  year.    The  number  I  got  was 
+~60,000L per MW 
+For  550  MW  this  would  come  to  33  M  liters.    If  they  only  wash  2  times  per  year,  this 
+means each wash would be about 15 M liters/wash 
+
+This is close to the estimates of 14-28 M liters per wash 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  (7 MARKS) Given Client Statement #2 – Photovoltaic Cells, provide a Functional 
+
+Decomposition of the cleaning device.  
+
+a. In your Functional Decomposition identify the Primary Function, three 
+subfunctions, and at least one viable solution for each subfunction.  
+
+b. Use these viable solutions to propose an overall solution. 
+
+Remove dirt 
+/ dust 
+
+Apply force 
+to dirt / dust  
+
+Direct force 
+
+Capture dirt 
+/ dust 
+
+Contact 
+(scrap/rub) 
+
+Cannon 
+
+Adhesive 
+
+Contact 
+
+Fluid suction 
+
+Air Jet 
+
+Bucket 
+
+Bag 
+
+Air 
+
+Air blade 
+
+Robot 
+
+Filter 
+
+Water 
+
+Contact 
+(filter) 
+
+Electrostatics 
+
+Contact 
+(fabric wipe) 
+
+Water Jet 
+
+Human 
+
+Fabric (wipe) 
+
+Water blade 
+
+Drone 
+
+Suction 
+
+Trained 
+Monkey 
+
+Adhesive 
+
+Vibration 
+(shake) 
+
+Gravity 
+(invert panel) 
+
+Solution: Contact (Squeegy) & Water blade – Robot – Contact (Fabric) 
+
+ 
+ 
+ 
+ 
+ 
+Water blade & Squeegee mounted on a drone with drainage channels in panel bezel to 
+wick away dirty water.  
+
+ 
+ 
+

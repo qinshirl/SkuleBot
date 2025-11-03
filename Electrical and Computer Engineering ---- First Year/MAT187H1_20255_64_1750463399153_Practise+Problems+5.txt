@@ -1,0 +1,317 @@
+Practise Problem Set 5
+
+MAT 187 - Summer 2025
+
+These questions are meant for your own practice for quiz 5 and are not to be handed in.
+Some of these questions, or problems similar to these, may appear on the quizzes or exams.
+Therefore, solutions to these problems will not be posted but you may, of course, ask about
+these questions during office hours, or on Piazza.
+
+Suggestions on how to complete these problems:
+
+• Solution writing is a skill like any other, which must be practiced as you study. After
+you write down your rough solutions, take the time to write a clear readable solu-
+tion that blends sentences and mathematical symbols. This will help you to retain,
+reinforce, and better understand the concepts.
+
+• After you complete a practice problem, reflect on it. What course material did you
+use to solve the problem? What was challenging about it? What were the main ideas,
+techniques, and strategies that you used to solve the problems? What mistakes did
+you make at the first attempt and how can you prevent these mistakes on a Term Test?
+What advice would you give to another student who is struggling with this problem?
+
+• Discussing course content with your classmates is encouraged and a mathematically
+healthy practice. Work together, share ideas, explain concepts to each other, compare
+your solutions, and ask each other questions. Teaching someone else will help you
+develop a deeper level of understanding. However, it’s also important that reserve
+some time for self-study and self-assessment to help ensure you can solve problems on
+your own without relying on others.
+
+1. Consider the differential equation:
+
+dx
+dt
+
+= x2(1 − x)
+
+(a) Compute the equilibrium points. Are they stable or unstable?
+
+(b) Sketch the direction field and describe the behaviour of the possible solutions
+
+(without solving).
+
+(c) Find the general solution.
+
+2. For each of the following differential equations, a function y(x) is proposed as a solution.
+Verify if the function satisfies the equation, or determine any unknown parameters, if
+present, that make y(x) a solution.
+
+(a) (y′)2 − y = 0
+
+Guess: y(x) = Ax2 + Bx + C
+
+1
+
+(b) y′′ = (y′)2
+(c) y′′ − y′y = 0
+(d) yy′′ − (y′)2 = 0
+
+Guess: y(x) = C ln |x| .
+
+Guess: y(x) = C1 tan(C2x)
+Guess: y(x) = Aekx
+
+3. Find the general solution to each of the following:
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+dy
+dx
+dy
+dx
+dy
+dx
+dy
+dx
+dy
+dx
+
+=
+
+=
+
+x
+1 + y2
+y2
+1 + x2
+
+= x2y − 3x2 + y − 3
+
+=
+
+cos(x)
+y
+
+= exy2
+
+4. Find the general solution to each of the following:
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+dy
+dx
+dy
+dx
+dy
+dx
+dy
+dx
+
++ y tan(x) = sec(x)
+
++
+
+1
+x
+
+y = x2, x > 0
+
++ 4y = xe−4x
+
+−
+
+2
+x
+
+y = x3, x > 0
+
+5. Consider the following differential equations. In each case, solve the initial value prob-
+
+lem and find the particular solution that satisfies the given condition.
+
+(a) Solve
+
+(b) Solve
+
+(c) Solve
+
+(d) Solve
+
+dy
+dx
+dy
+dx
+dy
+dx
+dy
+dx
+
+= 2xy, with y(0) = 3.
+
++ y = x, with y(0) = 1.
+
+= cos(x), with y(0) = 2.
+
+= y(1 − y), with y(0) = 1
+2.
+
+6. An object with initial temperature T0 is placed in an environment with a constant
+temperature Tenv. According to Newton’s Law of Cooling, the rate of change of the
+object’s temperature is proportional to the difference between the object’s temperature
+and the ambient temperature:
+
+(a) Write down an IVP that describes the temperature of the object as a function of
+
+time T (t).
+
+(b) Identify some physical factors that may effect the constant of proportionality (also
+
+known as the cooling constant) in your ODE.
+
+2
+
+(c) Without solving your ODE, describe what happens to the temperature as
+
+time t → ∞. Does the object ever reach an equilibrium temperature?
+
+(d) Solve the IVP.
+(e) Suppose a cup of coffee initially at 90◦C is placed in a room where Tenv = 20◦ C.
+If the cooling constant (the constant of proportionality in your ODE) is k = 0.05,
+how long will it take for the coffee to cool down to 50◦C.
+
+(f) A scientist observes that a metal rod initially at 150◦C cools to 100◦C in 10
+minutes when placed in an environment at 30◦C. Estimate the cooling constant
+k.
+
+7. A tank initially contains 100 liters of fresh water. A brine
+solution with a salt concentration of 2 g/L flows into the
+tank at a rate of 5 L/min, and the well-mixed solution
+drains out at the same rate. However, in addition to this
+process, a secondary source adds extra salt at a constant
+rate of 3 g/min.
+
+Let C(t) be the concentration of salt (g/L) in the tank at
+time t (in minutes).
+
+(a) Write a differential equation for C(t).
+
+(b) Find the equilibrium concentration of salt in the tank.
+
+(c) Determine what happens to C(t) as t → ∞. Does the concentration stabilize?
+
+Why or why not?
+
+(d) Solve the differential equation for C(t) given that the initial concentration in the
+
+tank is 0 g/L (pure water).
+
+(e) How long will it take for C(t) to reach 90% of its equilibrium value?
+
+8. Let g be the acceleration due to gravity on the Earth’s surface, and let R be the radius
+
+of the Earth. Assume that the Earth is a perfect sphere with uniform density.
+
+Consider a tunnel drilled straight through the Earth from one point on the surface to
+the diametrically opposite point. Assume:
+
+• The tunnel is vacuum-sealed (no air resistance).
+• The gravitational force acting on an object inside the tunnel varies directly with
+
+its distance from the Earth’s center.
+
+(a) Explain why the gravitational force inside the Earth behaves like a restoring
+
+force similar to a simple harmonic oscillator.
+
+(b) Write the equation of motion for an object moving through the tunnel.
+
+(c) Derive the time it takes for an object to travel from one end of the tunnel to the
+other. Express your answer in terms of known constants: g, R, and other relevant
+parameters.
+
+(d) Find the maximum velocity of the object during its motion. Determine where
+
+along the path this velocity occurs.
+
+3
+
+9. A system of two 3000 L holding tanks is set up with a pipe
+bringing water to the first tank, another pipe taking water
+from the first tank to the second, and a final pipe draining
+away from the second tank, with each pipe moving 100
+L/hr. Usually, the system holds nothing but pure water,
+with the tanks kept half-full.
+
+One day (or so the story is told), an apprentice spilled a
+60 kg bag of salt at the mouth of the pipe feeding into the
+first tank. To add further injury to the original injury, the
+bag itself flew from his grasp and partially clogged the pipe
+draining from the second tank (don’t ask how – it just did)
+reducing the flow to 50L/hr.
+Assume the pile of salt is being dissolved by the water at the rate of half of the
+remaining amount every ln (cid:0) 2
+
+(cid:1) hours. As usual, assume everything mixes instantly.
+
+3
+
+(a) Write an IVP for the amount of salt in tank 1.
+
+(b) Write an IVP for the amount of salt in tank 2.
+
+(c) Determine the time at which tank 2 reaches full capacity.
+
+(d) Solve for the amount of salt in tank 2 as a function of time.
+
+(e) Find the amount of salt in tank 2 at the moment it fills up.
+
+10. In a remote grassland of total area 100 hectares, a pop-
+ulation of ostriches produces environmental waste that
+gradually accumulates in the soil. The waste breaks
+down naturally due to microbial activity and weather-
+ing. However, if too much waste accumulates, it begins
+to harm vegetation and disrupts the delicate ecosystem.
+Scientists model the poop as a function of time P (t)
+(measured in kg per hectare) using the following dy-
+namics:
+
+• Each ostrich contributes 2 kg of waste per day to the environment.
+• The number of ostriches is initially 50 and grows at a rate proportional to their
+
+current population, with a growth rate of 5
+
+• Natural processes decay the waste at a rate proportional to the current level, with
+
+a decay constant of 0.1 per day.
+
+(a) Write an IVP for P (t), incorporating ostrich population growth and waste decay.
+
+(b) Determine whether pollution will stabilize over time or grow indefinitely.
+
+(c) Solve for P(t) explicitly in terms of time.
+
+(d) If the ecosystem can only sustain 500 kg/ha of pollution before causing severe
+
+damage, how long until this threshold is crossed?
+
+(e) Suppose conservationists introduce a natural cleaning mechanism that removes
+an additional 20 kg/day regardless of waste level. How does this change the
+long-term behavior of P (t)?
+
+4
+
+

@@ -1,0 +1,50 @@
+Adapted from Ninesigma request number REQ5255009 
+http://www.ninesigma.com/#, accessed Oct. 2, 2014.  It has been adapted for use in APS111. 
+
+RFP Title 
+Adhesive Label that Activates Prior to or During Application to a Surface 
+
+Background 
+Adhesive labels typically require liners to protect the adhesive prior to use. Removing the liner is an 
+extra step for the user.  In addition, liners create a waste stream once removed. 
+
+The client seeks an adhesive label that will be used on industrial equipment, e.g., warning labels or 
+instructions for proper use.  The label must remain dormant until use. Dormant labels must not have any 
+tackiness in storage and during label processing.  The user must be able to apply the label to the desired 
+surface without the step of removing a liner. 
+
+Key Success Criteria 
+The successful technology will: 
+
+●  Permit making a label without a removable liner 
+●  Must produce a label that remains inactive during manufacturing under the following 
+
+concurrent conditions: 
+o  Elevated temperatures up to 70°C 
+o  Pressure up to 100 psi (70g/mm2) 
+
+●  Produce labels with a shelf life prior to use of 24 months at ambient conditions (21°C, 50% RH). 
+●  Upon activation, product adhesion with sufficient strength (measured by PSTC test method) 
+shall adhere the label to the intended substrates including, but not limited to stainless steel; 
+glass; polyvinyl chloride, ABS or polyethylene plastics; painted or powder coated steel. 
+o  Note: average user exerts up to 25 psi pressure during application 
+
+●  Produce label with adhesive that becomes permanent within 24 hours after initial application 
+●  Must produce labels that, once applied to a substrate, will withstand the following service 
+
+conditions: 
+o  Temperature from -18 to +70°C 
+o  RH from 20% to 100% 
+
+Approaches not of interest 
+
+●  Approaches which require additional hardware to cause activation 
+
+ 
+ 
+  
+  
+  
+ 
+ 
+

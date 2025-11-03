@@ -1,0 +1,235 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+
+Quiz #1 February 12, 2016 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total of 19 
+questions, worth 30 marks. The questions are divided between two booklets.  
+
+Question Booklet #2 – Short-Answer Question Booklet 
+
+First Name: 
+
+Last Name: 
+
+UTOR Email: 
+
+There are 4 short-answer questions, worth 15 marks in total. These must be answered in the 
+spaces provided in this Short-Answer Question Booklet. This question booklet, with your name 
+and UTOR Email filled in, must be returned along with the multiple-choice answer sheet. Do not 
+separate any pages. Do not write on the QR code at the top of the pages. 
+
+@mail.utoronto.ca 
+
+Page 1 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We are not looking for long paragraph answers. Use the spaces provided on the question paper 
+to write your answers in short sentences or bullet points for Questions 16-19. (Questions 1 to 15 
+are found in the multiple-choice question booklet.) 
+
+All short-answer questions refer to the following problem statement and figure: 
+
+Figure 1: This is a solar panel on a vertical post. It can rotate around a vertical axis at the base of the post. 
+There is very little friction, so it would be easy for a person to rotate the panel by hand.  
+(Figure based on a Sketchup model Solar Tree 1.0 uploaded by Simon V. on 12/13/13 to the 3d warehouse at 3dwarehouse.sketchup.com) 
+
+You are designing an ultra-low-cost tracking system to rotate a solar panel to follow the sun 
+from morning to night. (You are not designing the panel or post. The solar panel already exists 
+and is mounted on a post with a freely rotating base.)  
+
+A typical commercial tracking system has sensors and motors and is computer controlled. You 
+need to design a mechanical system that can be set in motion by a human each morning, and 
+will approximately follow the sun during the day with no further human assistance. The target 
+market is remote and isolated communities in northern Bangladesh that have no access to 
+power, and have a low level of technological development. 
+
+16.  (4 MARKS) List ONE Function, TWO important objectives and ONE important constraint for 
+
+the design.  
+
+FUNCTION: 
+1)   
+
+OBJECTIVES:  
+
+1)    
+
+2)   
+
+CONSTRAINT:  
+
+1)   
+
+Page 2 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17. (2 MARKS) When designing the tracking device, you are asked to draw on analogies to 
+
+provide ideas. Provide a useful analogy, and explain what type of analogy it is and how it is 
+relevant to the current problem.  
+
+Page 3 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. (4 MARKS)  One solar panel generates 100 W (1 Watt = 1 J/s) at noon during full sunshine. 
+In the village, solar energy is stored in batteries and used after dark only to provide light for 
+reading and other nighttime activities.  
+
+In the space below, estimate how many solar panels are needed for a village of 1000 people 
+in a remote and underdeveloped part of northern Bangladesh. You must compute an actual 
+number, and show the steps used in making your estimate. Most of the marks will be 
+assigned for showing that you know how to do such a calculation.  
+Do all calculations using Watt-hours (Wh) as your unit of energy.  
+
+Useful Information: A bright LED flashlight needs 4W of power.  
+
+Page 4 of 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19. (5 MARKS) IN THE SPACE BELOW, provide a Functional Decomposition of the required 
+tracking device, propose some viable solutions for the main subfunctions, and propose an 
+overall solution.  
+
+Page 5 of 6 
+
+ 
+ 
+Do NOT write on this page 
+
+Page 6 of 6 
+
+ 
+ 
+

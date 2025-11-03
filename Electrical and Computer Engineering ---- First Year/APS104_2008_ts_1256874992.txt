@@ -1,0 +1,148 @@
+APS 104S, Midterm #1, Feb.7, 2007  
+
+Do all 7 questions in the examination booklet.    Put a square box around your final answers. 
+Be sure to put your name and student number on the front of the booklet. 
+The test is 1 hour and 50 minutes long.  
+Calculator: Type 2 - Non-programmable calculators are allowed.   
+Programmable calculators are not allowed.    
+No other aids are allowed. 
+
+At 298K 
+H2O(l) 
+H2O(g) 
+C2H2(g) 
+CO2(g) 
+O2 
+
+Co
+
+p(J/mol K) 
+
+75.3 
+33.6 
+33.0 
+37.1 
+29.4 
+
+∆Ho
+
+f(kJ/mol) 
+-285.8 
+-241.8 
+226.7 
+-393.5 
+0 
+
+(1)   (7 marks) A tank contains 480.0 grams of oxygen and 80.00 grams of helium at a 
+total pressure of  7.00 bar.   The atomic mass of oxygen is 16.00 g/mole, and the atomic mass of 
+helium is 4.00 g/mole. 
+
+Calculate the following. 
+    a) How many moles of O2 are in the tank? 
+    b) How many moles of He are in the tank? 
+    c) Mole fraction of O2 . 
+    d) Mole fraction of He. 
+    e) Partial pressure of O2 . 
+    f) Partial pressure of He. 
+
+2) (4 marks) You are on a long trip in a hot air balloon, and have brought along some shampoo. 
+However there was some gas inside the shampoo bottle when you boarded the gondola   at the 
+beginning of your journey. Being a good scientist, you make measurements throughout the trip, 
+so you know that when you boarded the gondola, the shampoo bottle contained 435 mL of gas, 
+under a pressure of 1.10 bar, at a temperature of 30.0°C. When you climb high into the air the 
+bottle starts to expand, and eventually explodes covering you and your companions with 
+shampoo. Eager to explain this phenomenon, you note that the pressure has dropped to 0.734 bar 
+and the temperature has dropped to 5.00°C.  To what new volume did the gas inside the bottle 
+expand after it burst? 
+
+1
+
+of 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Data for questions 3 and 4 is in the table on the front page. 
+
+3)  (12 marks) An electric kettle transfers heat to its contents at a rate of 1500 J/s.   It is used to 
+boil 10.0 moles of H2O.  The water is initially liquid at 25oC and 1.00 bar, and ends up as vapour 
+at 100oC and 1.00 bar.      Assuming that no heat is lost to the surroundings: 
+a)   How long does it take for the water to reach 100oC? 
+b)   Calculate the heat of vapourization of water at 100oC using the data on the front page of the 
+exam. 
+c)  How long does it take for the kettle to heat up and vapourize all the water? 
+d)  How much work is done on the surroundings during the vapourization of the water.  
+e)  What is the change in the internal energy of the water during the whole process (heating + 
+vapourization)? 
+
+4)  (8 marks)  A welder uses an oxy-acetylene torch to cut through an iron tank.   The 
+combustion of acetylene is given by the following equation: 
+
+2 C2H2 (g) + 5 O2 (g) --> 4 CO2 (g) + 2 H2O (g) 
+
+a)  If the welder uses the torch to heat up 1.00 kg of iron [specific heat capacity is  449 J/(kg K)] 
+and we assume all the enthalpy of combustion is transferred to the iron, how many moles of 
+acetylene would be required to heat up the iron by 10.0 K.   
+b)  What is the adiabatic flame temperature for acetylene burning in pure oxygen?   (The 
+temperature of the flame if none of the enthalpy of combustion is lost to the surroundings.) 
+
+5)  (6 marks)  A sample consisting of 2.00 mol of perfect (ideal) gas molecules initially at p1 = 
+111 kPa and T1 = 277 K is heated reversibly to 356 K at constant volume.   
+
+Calculate the final pressure, p2 ∆U, q and w, given that CV,m = 
+
+5
+2
+
+ R     
+
+6)  (10 marks)  Nitroglycerine, an explosive, has an assumed density of 1.0 g/cm3 and 
+decomposes according to the following process: 
+
+4 C3H5(NO3)3 (l) (cid:198) 12 CO2 (g) + 10 H2O (g) + 6 N2 (g) + O2 (g) 
+
+(a) 113.5 g of liquid nitroglycerine is confined to a diathermic (heat conducting) cylinder 
+with a piston resting on the liquid surface.  The cylinder is immersed in a constant 
+temperature bath at 25.0oC, and the pressure in the surroundings is 1.00 bar.  The 
+nitrogylercine isothermally decomposes, resulting in the movement of the piston.  
+Identify the system and surroundings, calculate q, w and ∆U and comment on the nature 
+of the sign of each. 
+(b) Calculate the amount of maximum work (w) the system could do on the surroundings 
+during the decomposition described in (a). 
+
+7)  (3 marks)  When 229 J of energy is supplied as heat to 3.0 mol of Ar(g) at constant pressure, 
+the temperature of the sample increases by 2.55 K.  Calculate the molar heat capacities at 
+constant volume and constant pressure of the Ar(g), which may be treated as an ideal gas. 
+
+2
+
+of 2 
+
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

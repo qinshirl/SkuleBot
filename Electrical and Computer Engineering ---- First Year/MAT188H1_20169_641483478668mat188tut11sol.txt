@@ -1,0 +1,2253 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 11
+
+1. Let {v1, . . . , vn} be an orthonormal basis for Rn.
+
+(a) If x = a1v1 + · · · + anvn and y = b1v1 + · · · + bnvn, show that
+
+(b) If x = a1v1 + · · · + anvn, show that
+
+x · y = a1b1 + · · · + anbn.
+
+||x||2 = a2
+
+1 + · · · + a2
+n.
+
+(c) Let {v1, v2, v3} be an orthonormal basis for R3. If x = a1v1 + a2v2 + a3v3, ||x|| = 5, x · v1 = 4, and
+
+x is orthogonal to v2, what are the possible values of a1, a2, and a3?
+
+Solution:
+
+(a) We will use three important properties of the dot product:
+
+(u1 + u2) · w = u1 · w + u2 · w
+
+u · w = w · u,
+
+(cu) · w = c(u1 · w)
+
+valid for any vectors u, w, u1, u2 ∈ Rn and c ∈ R. Applying the ﬁrst two properties, we can expand
+
+x · y = (a1v1 + · · · + anvn) · (b1v1 + · · · + bnvn)
+
+= (a1v1) · (b1v1) + (a1v1) · (b2v2) + . . . + (a1v1) · (bnvn)
++ (a2v2) · (b1v1) + (a2v2) · (b2v2) + . . . + (a2v2) · (bnvn)
++ . . .
++ (anvn) · (b1v1) + (anvn) · (b2v2) + . . . + (anvn) · (bnvn)
+
+Since the vectors {v1, . . . , vn} form an orthonormal set, by deﬁnition we have
+
+vi · vj =
+
+(cid:26)1,
+0
+
+if i = j,
+if i (cid:54)= j
+
+Hence, using the third property above,
+
+(aivi) · (bjvj) = aibj(vi · vj) =
+
+(cid:26)aibj,
+0
+
+if i = j,
+if i (cid:54)= j
+
+Therefore most terms in our expression for x · y are zero, except those where both indices are equal,
+leaving
+
+x · y = a1b1 + a2b2 + . . . + anbn
+
+(b) Recall that ||x||2 = x · x. Applying part (a) with y = x, we get
+
+||x||2 = x · x = a2
+
+1 + a2
+
+2 + . . . + an
+n
+
+1 of 7
+
+(c) By part (a),
+
+x · v1 = a1, x · v2 = a2
+
+So x · v1 = 4 implies that a1 = 4. Also, x is orthogonal to v2 means that x · v2 = 0, which implies
+that a2 = 0. By part (b),
+
+||x||2 = a2
+
+1 + a2
+
+2 + a2
+3
+
+Substituting that ||x|| = 5, a1 = 4, and a2 = 0, we get
+
+52 = 42 + 02 + a2
+3
+
+so that a2
+
+3 = 9. Therefore a3 = ±3.
+
+(cid:40)
+
+2. Let S =
+
+
+
+
+
+
+
+,
+
+
+
+
+
+
+
+1
+2
+1
+−1
+
+
+
+
+
+
+
+0
+−1
+1
+−1
+
+
+
+
+
+
+
+(cid:41)
+
+. Note that S is an orthogonal subset of R4.
+
+(a) Let W = Span(S). Find projW
+
+(cid:16)
+
+
+
+
+
+
+
+
+1
+1
+
+
+1
+
+1
+
+(cid:17)
+
+.
+
+(b) Let x =
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+
+
+
+
+
+
+
+, and W = Span(S). Find projW (x) and a matrix A such that projW (x) = Ax.
+
+(c) What are the eigenvalues and eigenspaces of the matrix A from part (b)? Use geometric reasoning
+instead of ﬁnding the characteristic polynomial of A (i.e. you should decide what the eigenvalues and
+eigenspaces are by thinking about what A does to vectors). If A is diagonalizable, then write down an
+invertible matrix P and a diagonal matrix D such that P −1AP = D.
+
+Solution:
+
+(a)
+
+(cid:16)
+
+projW
+
+
+
+
+
+
+
+
+1
+1
+
+
+1
+
+1
+
+(b) In general,
+
+(cid:17)
+
+=
+
+1 · 1 + 1 · 2 + 1 · 1 + 1 · (−1)
+12 + 22 + 12 + (−1)2
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+1
+−1
+
++
+
+1 · 0 + 1 · (−1) + 1 · 1 + 1 · (−1)
+02 + (−1)2 + 12 + (−1)2
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+−1
+1
+−1
+
+projW (x) =
+
+x1 · 1 + x2 · 2 + x3 · 1 + x4 · (−1)
+7
+
+
+
+
+
+
+
+1
+2
+1
+−1
+
+
+
+
+
+
+
++
+
+x1 · 0 + x2 · (−1) + x3 · 1 + x4 · (−1)
+3
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+0
+−1
+1
+−1
+
+Pulling out a common denominator, this is
+
+1
+21
+
+(x1 · 1 + x2 · 2 + x3 · 1 + x4 · (−1))
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+6
+3
+−3
+
++
+
+1
+21
+
+(x1 · 0 + x2 · (−1) + x3 · 1 + x4 · (−1))
+
+2 of 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+−7
+7
+−7
+
+which simpliﬁes to
+
+It follows that
+
+1
+21
+
+
+
+
+
+
+
+(3)x1 + (6)x2 + (3)x3 + (−3)x4
+(6)x1 + (19)x2 + (−1)x3 + (1)x4
+(3)x1 + (−1)x2 + (10)x3 + (−10)x4
+(−3)x1 + (1)x2 + (−10)x3 + (10)x4
+
+
+
+
+
+
+
+.
+
+A =
+
+1
+21
+
+
+
+
+
+
+
+3
+6
+3 −1
+−3
+
+3
+6
+19 −1
+
+−3
+1
+
+10 −10
+10
+
+1 −10
+
+
+
+
+
+
+
+.
+
+(c) Remember a key fact about projection is that if x ∈ W then projW x = x which means x is an
+eigenvector of A with eigenvalue 1, while if x ∈ W ⊥ then projW x = 0 so that x is an eigenvector of A with
+eigenvalue 0.
+
+The vectors
+
+,
+
+
+
+
+
+
+
+
+
+are in W and so are eigenvectors with eigenvalue 1. To ﬁnd the eigenvectors
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+1
+−1
+
+
+
+
+
+
+
+0
+−1
+1
+−1
+
+with eigenvalue 0 we need a basis for W ⊥. This amounts to ﬁnding a basis for the null space of
+
+A =
+
+(cid:20)1
+2
+0 −1
+
+(cid:21)
+
+1 −1
+1 −1
+
+(cid:20)1
+0
+
+∼
+
+0
+1 −1
+
+3 −3
+1
+
+(cid:21)
+
+.
+
+The basis vectors are
+
+and
+
+3. Let S =
+
+(cid:40)
+
+
+
+1
+1
+
+
+
+
+1
+
+
+1
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+−3
+1
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+−2
+1
+0
+
+,
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+−1
+0
+1
+
+. So we get the matrices
+
+P =
+
+0 −3
+
+
+
+
+
+
+
+1
+2 −1
+1
+1
+−1 −1
+
+
+
+
+
+
+
+3
+1 −1
+0
+1
+1
+0
+
+D =
+
+
+1
+0
+
+
+0
+
+0
+
+0
+1
+0
+0
+
+0
+0
+0
+0
+
+
+
+
+
+
+
+0
+0
+0
+0
+
+.
+
+(cid:41)
+
+
+
+
+
+
+
+and let W = Span(S).
+
+
+
+
+
+
+
+1
+1
+1
+−3
+
+(a) Show that S is an orthogonal basis for W .
+
+(b) Let x =
+
+
+1
+0
+
+
+1
+
+0
+
+
+
+
+
+
+
+. Find projW (x). What does your answer tell you about x?
+
+3 of 7
+
+Solution:
+
+(a) Call the vectors in S u1, u2, u3. A straightforward check shows u1 ·u2 = 0, u1 ·u3 = 0, and u2 ·u3 = 0
+so that S is orthogonal and so linearly independent (see Theorem 1 from Section 7.1 of the textbook) and
+so an orthogonal basis for W .
+
+(b) You may verify that projW (x) =
+
+x · u1
+||u1||2 +
+
+x · u2
+||u2||2 +
+
+x · u3
+||u3||2 = x which tells you that x ∈ W .
+
+(cid:40)
+
+4. Let W = Span
+
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+0
+1
+−1
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+−1
+0
+0
+1
+
+(cid:41)
+
+.
+
+(a) Find an orthogonal basis for W .
+
+(b) Find an orthogonal basis for W ⊥.
+
+(c) Show that the basis you found in part (a) together with the basis you found in part (b) constitutes an
+
+orthogonal basis for R5.
+
+Solution:
+
+(a) Apply the Gram–Schmidt process to the spanning set:
+
+v1 =
+
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+v2 =
+
+v3 =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+0
+1
+−1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+−1
+0
+0
+1
+
+−
+
+−
+
+
+
+
+
+
+
+
+
+·
+
+
+
+
+
+
+
+
+
+·
+
+·
+
+·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+0
+1
+−1
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+1
+−1
+0
+0
+1
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+1
+
+
+1
+
+
+1
+
+1
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+
+
+
+
+
+
+
+
+
+1
+1
+
+
+1
+
+
+1
+
+1
+
+=
+
+
+
+
+
+
+
+
+
+
+1
+1
+
+
+1
+
+
+1
+
+1
+
+−
+
+
+
+
+
+
+
+
+
+1
+1
+0
+1
+−1
+
+
+
+
+
+
+
+
+
+−
+
+2
+5
+
+
+
+
+
+
+
+
+
+
+1
+1
+
+
+1
+
+
+1
+
+1
+
+=
+
+1
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+3
+−2
+3
+−7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+−1
+0
+0
+1
+3/5
+3/5
+−2/5
+3/5
+−7/5
+
+·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3/5
+3/5
+−2/5
+3/5
+−7/5
+
+3/5
+3/5
+−2/5
+3/5
+−7/5
+
+
+
+
+
+
+
+·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3/5
+3/5
+−2/5
+3/5
+−7/5
+
+=
+
+1
+80
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+85
+−75
+−30
+5
+15
+
+The desired orthogonal basis is {v1, v2, v3}.
+
+4 of 7
+
+(b) Let x ∈ R5 and note that
+
+x =
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+x5
+
+
+
+
+
+
+
+
+
+is in W ⊥ ⇐⇒
+
+⇐⇒
+
+=
+
+
+
+
+
+
+
+
+
+·
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+x5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+−1
+0
+0
+1
+
+= 0
+
+·
+
+·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+x5
+
+
+
+1
+1
+
+
+
+
+1
+
+
+
+
+1
+
+
+1
+
+1
+1
+0
+1
+−1
+
+x1
+x2
+x3
+x4
+x5
+x1 + x2 + x3 + x4 + x5 = 0
+x1 + x2 + x4 − x5 = 0
+x1 − x2 + x5 = 0
+
+
+
+
+⇐⇒
+
+
+1
+1
+1
+1
+
+1 −1
+
+1
+0
+0
+
+
+
+
+
+1
+1
+1 −1
+1
+0
+
+⇐⇒ x ∈ null
+
+
+
+
+
+
+1
+1
+1
+1
+
+1 −1
+
+1
+0
+0
+
+
+
+
+
+
+
+= 0
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+x5
+1
+1
+1 −1
+1
+0
+
+
+
+
+
+
+
+ .
+
+This shows that W ⊥ is equal to the null-space of
+
+
+1
+1
+1
+1
+
+1 −1
+
+1
+0
+0
+
+1
+1
+1 −1
+1
+0
+
+
+
+. (Observe that the rows of this
+
+matrix are the vectors in the spanning set of W .) To ﬁnd a basis for this null-space, we proceed as
+usual. First we row reduce:
+
+
+1
+1
+
+1 −1 0 0
+
+1 1
+1
+0 1 −1
+1
+
+1
+1
+
+
+
+ → · · · →
+
+
+1
+0
+
+0
+
+0
+1
+0
+
+0
+0
+1
+
+
+
+ .
+
+1/2
+0
+1/2 −1
+2
+
+0
+
+So a general vector in the null-space looks like
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+x5
+
+
+
+
+
+
+
+
+
+−s/2
+−s/2 + t
+−2t
+s
+t
+
+
+
+
+
+
+
+
+
+= s
+
+
+
+
+
+
+
+
+
++ t
+
+
+
+
+
+
+
+
+
+−1/2
+−1/2
+0
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+−2
+0
+1
+
+.
+
+So a basis for W ⊥ is given by {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−1/2
+−1/2
+0
+1
+0
+
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+−2
+0
+1
+
+}, or more simply, by {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−1
+−1
+0
+2
+0
+
+
+
+}. To get an
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+−2
+0
+1
+
+,
+
+5 of 7
+
+orthogonal basis, we apply the Gram–Schmidt process to this basis:
+
+
+
+
+−1
+−1
+0
+2
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+u1 =
+
+u2 =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+−2
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+−2
+0
+1
+−1
+−1
+0
+2
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−1
+−1
+0
+2
+0
+−1
+−1
+0
+2
+0
+
+·
+
+·
+
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−1
+−1
+0
+2
+0
+
+=
+
+1
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−1
+5
+−12
+2
+6
+
+.
+
+So, ﬁnally, {u1, u2} is an orthogonal basis for W ⊥.
+
+(c) The claim here is that {v1, v2, v3, u1, u2} is a basis for R5. As this is a set of 5 vectors and R5 is
+5-dimensional, it suﬃces to show that {v1, v2, v3, u1, u2} is linearly independent. But this follows
+immediately from Theorem 1 from Section 7.1 of the textbook (which states that a set of orthogonal
+vectors is linearly independent): Indeed, by construction, the vi’s are orthogonal to each other and the
+ui’s are orthogonal to each other, and because the former live in W and the latter in W ⊥, the vi’s are
+orthogonal to the ui’s.
+
+(d) By the same reasoning as in part (c), the set {v1, . . . , vk, u1, . . . , um} is linearly independent. However,
+here we do not know that dim Rn = k + m, so we still need to prove that {v1, . . . , vk, u1, . . . , um}
+spans Rn. To this end, let x ∈ Rn. Then projW (x) ∈ W , and so, because {v1, . . . , vk} is a basis for
+W , we can write
+
+projW (x) = a1v1 + · · · + akvk
+
+(∗)
+
+for some scalars a1, . . . , ak ∈ R (in fact, ai = x·vi
+we can write
+
+(cid:107)vi(cid:107)2 ). Next, note that x − projW (x) ∈ W ⊥ so similarly
+
+for some scalars b1, . . . , bm ∈ R. But now, by combining (∗) and (∗∗), we obtain
+
+x − projW (x) = b1u1 + · · · + bmum
+
+(∗∗)
+
+x = projW (x) + b1u1 + · · · + bmum = a1v1 + · · · + akvk + b1u1 + · · · + bmum.
+
+Hence x ∈ span{v1, . . . , vk, u1, . . . , um}. So {v1, . . . , vk, u1, . . . , um} is linearly independent and
+spans Rn, and therefore is a basis. Consequently dim Rn = k + m = dim W + dim W ⊥.
+
+[Remark: If we take the dot product of both sides of (∗∗) with ui, we get
+
+x · ui − projW (x) · ui
+(cid:125)
+
+(cid:124)
+
+(cid:123)(cid:122)
+=0
+
+= b1 u1 · ui
+(cid:124) (cid:123)(cid:122) (cid:125)
+=0
+
++b2 u2 · ui
+(cid:124) (cid:123)(cid:122) (cid:125)
+=0
+
++ · · · + bi(ui · ui) + · · · + bm um · ui
+(cid:124) (cid:123)(cid:122) (cid:125)
+=0
+
+.
+
+Thus
+
+This shows that
+
+bi =
+
+x · ui
+ui · ui
+
+.
+
+x − projW (x) =
+
+x · u1
+u1 · u1
+
+u1 + · · · +
+
+x · um
+um · um
+
+um = projW ⊥ (x),
+
+or equivalently, that x = projW (x) + projW ⊥ (x).]
+
+6 of 7
+
+5 (a) Apply the Gram-Schmidt process to the linearly dependent set of vectors
+
+
+
+
+
+
+
+
+
+
+1
+−1
+1
+
+
+
+
+
+ ,
+
+
+
+
+
+
+
+ ,
+
+
+
+
+
+
+
+
+
+.
+
+
+−2
+0
+1
+
+−1
+−1
+2
+
+5 (b) Use what you noticed in part (a) to explain what happens if you apply the Gram-Schmidt process to
+
+a set of vectors that is not linearly independent.
+
+Solution:
+
+(a) Call the vectors u1, u2, u3. First we leave u1 alone. The vector u2 becomes
+
+v2 = u2 −
+
+u1 · u2
+u1 · u1
+
+u1 =
+
+The vector u3 becomes
+
+v3 = u3 −
+
+u1 · u3
+u1 · u1
+
+u1 −
+
+v2 · u3
+v2 · v2
+
+v2 =
+
+
+
+
+
+−1
+−1
+2
+
+
+
+ −
+
+2
+3
+
+
+
+
+
+1
+−1
+1
+
+
+
+
+
+ =
+
+
+
+
+
+ .
+
+− 5
+3
+− 1
+3
+4
+3
+
+
+
+
+
+
+
+−2
+0
+1
+
+ +
+
+
+
+
+
+
+
+1
+−1
+1
+
+1
+3
+
+ −
+
+14/3
+42/9
+
+
+
+
+
+− 5
+3
+− 1
+3
+4
+3
+
+
+
+ =
+
+
+
+0
+0
+ .
+
+0
+
+(b) Remember that the Gram-Schmidt process takes vectors u1, u2, u3 and replaces them with v1, v2, v3
+which are orthogonal and have the same span. Since the vectors u1, u2, u3 are linearly dependent, their span
+is at most two-dimensional. This means that the span of v1, v2, v3 is also at most two-dimensional. So one
+of the vectors, say vi is a linear combination of the other two. But vi is also orthogonal to the other two
+vectors, and so has to be 0.
+
+7 of 7
+
+

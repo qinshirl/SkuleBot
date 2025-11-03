@@ -1,0 +1,1455 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 6
+
+1 (a) Let A =
+
+, y =
+
+
+
+, x =
+
+
+
+
+
+
+
+2 −1
+2
+
+4
+
+1
+3 −2
+2 −2
+
+
+
+
+
+2
+−3
+1
+
+
+
+
+
+, and B =
+
+
+
+
+
+x1
+0
+0
+
+
+
+. Find the augmented matrix
+
+0
+x2
+0
+
+0
+0
+x3
+
+x1
+x2
+x3
+
+of the linear system BAy + Ax =
+
+Solution:
+
+
+
+3
+1
+.
+
+2
+
+Ay =
+
+
+
+2 −1
+2
+
+4
+
+1
+3 −2
+2 −2
+
+
+
+
+
+
+
+
+
+2
+−3
+1
+
+
+
+
+
+ =
+
+
+
+
+
+
+
+8
+−7
+0
+
+Notice that BAy =
+
+
+
+
+
+8x1
+−7x2
+0
+
+
+
+ =
+
+
+8
+0
+0 −7
+
+0
+0
+
+
+0
+0
+ x. Therefore, we have:
+0
+
+BAy + Ax =
+
+
+8
+0
+0 −7
+
+0
+0
+
+
+0
+0
+ x + Ax =
+0
+
+The augmented matrix of the system is:
+
+
+
+
+
+
+
+10 −1
+1
+2 −4 −2
+2 −2
+4
+
+ x =
+
+
+
+
+
+10 −1
+1
+2 −4 −2
+2 −2
+4
+
+
+
+
+
+3
+1
+2
+
+
+
+
+
+
+3
+1
+
+2
+
+(1)
+
+(2)
+
+(3)
+
+1 (b) Let A = (aij) be a 2 × 3 matrix where aij = i + j, and B = (bjk) be a 3 × 4 matrix where bjk = 2j + k.
+
+Let AB = (cik) and ﬁnd a formula for cik in terms of i and k.
+
+Solution:
+Recall that the (i, k)th entry of C = AB is the dot product of the ith row of A with the kth column of
+B. The ith row of A is
+
+(cid:2)ai1 ai2 ai3
+
+(cid:3) = (cid:2)i + 1
+
+i + 2
+
+i + 3(cid:3)
+
+since aij = i + j. And the kth column of B is
+
+
+
+ =
+
+
+
+
+
+b1k
+b2k
+b3k
+
+
+
+
+
+
+
+
+
+2 + k
+4 + k
+6 + k
+
+since bjk = 2j + k. Therefore cik = ai1b1k + ai2b2k + ai3b3k, which we ﬁnd to be:
+
+cik = (i + 1)(2 + k) + (i + 2)(4 + k) + (i + 3)(6 + k) = 3ik + 12i + 6k + 28
+
+1 of 5
+
+Note: since the matrices are of such small size, one can write out what A, B, and AB are. In fact:
+
+AB =
+
+(cid:20)49
+64
+
+58
+76
+
+67
+88
+
+(cid:21)
+
+76
+100
+
+However, from here it is not clear how one could recognize any patterns.
+
+2 (a) If A =
+
+(cid:20)0 1
+(cid:21)
+, show that A2 = I.
+1 0
+
+Solution: Simply compute A2 = AA =
+
+(cid:20)0
+1
+
+(cid:21) (cid:20)0
+1
+
+1
+0
+
+(cid:21)
+
+1
+0
+
+=
+
+(cid:20)1
+0
+
+(cid:21)
+
+0
+1
+
+= I.
+
+2 (b) What is wrong with the following argument? If A2 = I, then A2 − I = 0, so (A − I)(A + I) = 0, so
+
+that A = I or A = −I.
+
+Solution: Let’s examine each claim.
+The ﬁrst is: “If A2 = I, then A2 − I = 0.” This is ﬁne: just subtract I from both sides of the equation.
+The second claim is: “If A2 − I = 0, then (A − I)(A + I) = 0.” This is also ﬁne: we have
+
+(A − I)(A + I) = A2 + AI − IA − I 2 = A2 − I 2 = A2 − I = 0.
+
+[Warning: It is not true in general that A2 − B2 = (A − B)(A + B)!
+Indeed, what we have is
+(A − B)(A + B) = A2 + AB − BA − B2 — note that the order of multiplication matters! — and since
+AB − BA (cid:54)= 0 in general, we cannot say that the right hand side is equal to A2 − B2. In our case,
+we have B = I, and indeed AB − BA = 0 here. This is why the formula A2 − B2 = (A − B)(A + B)
+ended up working in this argument.]
+
+The ﬁnal claim is: “If (A − I)(A + I) = 0, then A = I or A = −I.” This is no good! In general,
+matrices do not satisfy the rule “AB = 0 =⇒ A = 0 or B = 0”. Indeed, take the matrix A from part
+(a), and note that A − I (cid:54)= 0 and A + I (cid:54)= 0 while (A − I)(A + I) = 0. So this is where the error lies.
+
+[Aside: Not only does the rule “AB = 0 =⇒ A = 0 or B = 0” fail for matrices, but it does so in
+a spectacular fashion: it is possible to give an example of an A (cid:54)= 0 such that A2 = 0. Can you ﬁnd
+one?]
+
+3. For each of the following functions, decide if it is a linear mapping (linear transformation). If it is,
+express it as a matrix mapping (transformation). If it’s not, ﬁnd a speciﬁc example to show that one
+of the two conditions in the deﬁnition of a linear mapping on page 134 of the textbook does not hold.
+
+(i) T : R3 → R deﬁned by T
+
+
+
+
+
+
+
+ = x1 + 2x2 + x3
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+
+(ii) T : R2 → R3 deﬁned by T
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)x1
+x2
+
+=
+
+
+
+
+
+|x1|
+2x2
+3x1 + x2
+
+
+
+
+
+(iii) T : R3 → R2 deﬁned by T
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+
+
+
+
+
+
+
+ =
+
+(cid:20)
+
+x1
+x1 + x2 + x3 + 1
+
+(cid:21)
+
+2 of 5
+
+(iv) T : R3 → R3 deﬁned by T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ =
+
+
+
+
+
+
+
+
+
+−x3
+x1
+4x2
+
+x1
+x2
+x3
+
+Solution: Recall that the only linear mappings from Rn to Rm are matrix mappings (see Textbook,
+
+Theorem 3, page 136). i.e. T (x) = Ax iﬀ T is a linear transformation.
+
+(i) A = (cid:2)1 2
+
+1(cid:3).
+
+(ii) T is not linear, consider the vectors x =
+
+(cid:20)−1
+(cid:21)
+0
+
+and y =
+
+(cid:20)1
+(cid:21)
+0
+
+. Then
+
+T (x) + T (y) =
+
+
+
+ (cid:54)=
+
+
+0
+0
+
+0
+
+
+
+2
+0
+ = T (x + y).
+
+0
+
+(iii) T is not linear, consider the vector x =
+
+
+
+1
+ and the scalar 4 ∈ R. Then
+1
+
+1
+
+T (4x) =
+
+(cid:21)
+
+(cid:20) 1
+13
+
+(cid:21)
+
+(cid:20) 1
+16
+
+(cid:54)=
+
+= 4T (x).
+
+(iv) A =
+
+
+0
+1
+
+0
+
+
+
+.
+
+0 −3
+0
+0
+0
+4
+
+4. Let T : R3 → R2 be a linear transformation such that T
+
+
+
+
+
+
+2
+1
+
+1
+
+
+
+
+
+
+
+ =
+
+(cid:20)1
+1
+
+(cid:21)
+
+, and T
+
+
+
+
+
+
+
+1
+1
+
+
+1
+
+
+
+ =
+
+(cid:20) 1
+−2
+
+(cid:21)
+.
+
+(a) Determine, if possible, T
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+0
+1
+
+1
+
+(b) Suppose that it is also true that T
+
+
+
+
+
+
+
+ =
+
+
+
+0
+0
+
+
+1
+
+(cid:20) 3
+−5
+
+(cid:21)
+
+. Determine T
+
+
+
+.
+
+
+
+
+
+
+
+2
+2
+
+
+3
+
+Solution:
+
+(a) If we can write
+
+(cid:35)
+
+(cid:34)0
+1
+1
+
+as a linear combination of
+
+(cid:35)
+(cid:34)2
+1
+1
+
+and
+
+(cid:34)1
+1
+1
+
+(cid:35)
+
+, then we can use the linearly of T to
+
+determine T (cid:0)
+
+(cid:35)
+(cid:34)0
+1
+1
+
+(cid:1). Thus, we want to solve the following system of linear equations:
+
+
+
+0
+1
+ = a
+
+1
+
+
+
+2
+1
+ + b
+
+1
+
+
+1
+1
+
+1
+
+
+
+ .
+
+3 of 5
+
+It’s easy to see that a = −1 and b = 0 is the unique solution here. (If this wasn’t so clear, we could of
+course always setup the augmented matrix corresponding to the system and row reduce it.) Thus,
+
+2
+1
+
+1
+
+
+
+0
+1
+ = −
+
+1
+
+
+1
+1
+
+1
+
+ + 2
+
+ ,
+
+
+
+
+
+and so
+
+T (cid:0)
+
+
+
+0
+) = T (cid:0) −
+1
+
+1
+
+
+
+2
+1
+ + 2
+
+1
+
+
+
+1
+1
+
+
+1
+
+(cid:1) = −T (cid:0)
+
+
+
+2
+1
+
+
+1
+
+(cid:1) + 2T (cid:0)
+
+
+
+1
+1
+
+
+1
+
+(cid:1) = −
+
+(cid:20)1
+(cid:21)
+1
+
++ 2
+
+(cid:21)
+
+(cid:20) 1
+−2
+
+=
+
+(cid:21)
+
+(cid:20) 1
+−5
+
+.
+
+(b) This time we want to consider the system
+
+
+
+ = a
+
+
+2
+2
+
+3
+
+
+
+ + b
+
+
+2
+1
+
+1
+
+
+
+1
+1
+ + c
+
+1
+
+
+
+0
+0
+ .
+
+1
+
+We can spot by inspection that (a, b, c) = (0, 2, 1) solves this system, but let’s nonetheless see how row
+reduction would work here:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 1 0
+0
+1 1
+1
+1 1
+
+
+
+2
+2
+3
+
+R1−2R2
+R3−R2
+−−−−−−→
+
+
+
+
+
+0 −1 0 −2
+2
+1
+1
+0
+
+1
+0
+
+0
+1
+
+R2+R1
+−−−−−→
+
+
+
+
+
+0 −1
+0
+1
+0
+0
+
+0 −2
+0
+0
+1
+1
+
+R1×(−1)
+R1↔R2
+−−−−−−→
+
+
+
+
+
+1
+0
+0
+
+0
+0
+1 0
+0 1
+
+
+
+ .
+
+0
+2
+1
+
+So the system has the unique solution (a, b, c) = (0, 2, 1). Thus
+
+
+
+ = 2
+
+
+2
+2
+
+3
+
+
+
+ +
+
+
+1
+1
+
+1
+
+
+
+0
+0
+ ,
+
+1
+
+and consequently
+
+
+2
+2
+
+
+3
+
+T (cid:0)
+
+(cid:1) = T (cid:0)2
+
+
+
+ +
+
+
+1
+1
+
+1
+
+
+
+0
+0
+
+
+1
+
+(cid:1) = 2T (cid:0)
+
+
+
+1
+1
+
+
+1
+
+(cid:1) + T (cid:0)
+
+
+
+
+
+
+0
+0
+
+1
+
+(cid:1) = 2
+
+(cid:21)
+
+(cid:20) 1
+−2
+
++
+
+(cid:21)
+
+(cid:20) 3
+−5
+
+(cid:21)
+
+(cid:20) 5
+−9
+
+.
+
+=
+
+(c) Method #1: Look back at the third equation above:
+
+(cid:21)
+
+(cid:20) 3
+−5
+
+= T (cid:0)
+
+
+
+0
+0
+
+
+1
+
+(cid:1) = A
+
+
+
+ =
+
+
+0
+0
+
+1
+
+(cid:20)a b
+d e
+
+(cid:21)
+
+c
+f
+
+
+
+0
+0
+ =
+
+1
+
+(cid:21)
+
+(cid:20)c
+f
+
+.
+
+What we can glean from this is that T (cid:0)
+
+(cid:35)
+(cid:34)0
+0
+1
+
+(cid:1) gives us the third column of A. Similarly, the ﬁrst and
+
+second columns of A will be T (cid:0)
+
+can compute
+
+(cid:35)
+
+(cid:34)1
+0
+0
+
+(cid:1) and T (cid:0)
+
+(cid:35)
+
+(cid:34)0
+1
+0
+
+(cid:1), respectively. Now, just as in parts (a) and (b), we
+
+T (cid:0)
+
+T (cid:0)
+
+
+
+1
+0
+
+
+0
+
+
+0
+1
+
+
+0
+
+(cid:1) = T (cid:0)
+
+(cid:1) = T (cid:0)
+
+
+
+ −
+
+
+
+ −
+
+
+2
+1
+
+1
+
+0
+1
+
+1
+
+
+
+1
+1
+
+
+1
+
+
+0
+0
+
+
+1
+
+(cid:1) = T (cid:0)
+
+(cid:1) = T (cid:0)
+
+
+
+2
+1
+) − T (
+
+1
+
+
+0
+1
+) − T (
+
+1
+
+
+
+1
+1
+
+
+1
+
+
+0
+0
+
+
+1
+
+(cid:1) =
+
+(cid:21)
+(cid:20)1
+1
+
+−
+
+(cid:21)
+
+(cid:20) 1
+−2
+
+=
+
+(cid:21)
+(cid:20)0
+3
+
+(cid:1) =
+
+(cid:21)
+
+(cid:20) 1
+−5
+
+−
+
+(cid:21)
+
+(cid:20) 3
+−5
+
+=
+
+(cid:21)
+(cid:20)−2
+0
+
+4 of 5
+
+So the desired matrix is
+
+A =
+
+(cid:20)0 −2
+3
+
+3
+0 −5
+
+(cid:21)
+
+.
+
+Method #2: Let’s suppose that the desired matrix is
+
+A =
+
+(cid:20)a b
+d e
+
+(cid:21)
+
+.
+
+c
+f
+
+Now let’s use the equation T (x) = Ax with several choices of x to get some equations involving the
+entries of A. For example, we have
+
+(cid:21)
+
+(cid:20) 1
+−2
+
+(cid:21)
+
+(cid:20) 1
+−5
+
+(cid:21)
+
+(cid:20) 3
+−5
+
+= T (cid:0)
+
+= T (cid:0)
+
+= T (cid:0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+
+1
+
+0
+1
+
+1
+
+0
+0
+
+1
+
+(cid:1) = A
+
+(cid:1) = A
+
+(cid:1) = A
+
+
+
+1
+1
+ =
+
+1
+
+
+0
+1
+ =
+
+1
+
+
+0
+0
+ =
+
+1
+
+(cid:20)a b
+d e
+
+(cid:20)a b
+d e
+
+(cid:20)a b
+d e
+
+(cid:21)
+
+(cid:21)
+
+(cid:21)
+
+c
+f
+
+c
+f
+
+c
+f
+
+
+
+1
+1
+ =
+
+1
+
+
+0
+1
+ =
+
+1
+
+
+0
+0
+ =
+
+1
+
+(cid:21)
+
+(cid:20)a + b + c
+d + e + f
+
+(cid:21)
+
+(cid:20) b + c
+e + f
+
+(cid:21)
+
+(cid:20)c
+f
+
+.
+
+We thus have 6 equations in the 6 unknowns a, b, c, d, e, f , and we can solve these as usual. It’s actually
+easier here to not bother with setting up the augmented matrix, etc., and instead simply work this out
+by hand. From the last equation, we get c = 3 and f = −5. Then from the equation above that, we get
+b + c = 1 and e + f = −5, so b = −2 and f = 0. And ﬁnally, the ﬁrst equation gives us a = 1 − b − c = 0
+and d = −2 − e − f = 3. So the desired matrix is
+
+A =
+
+(cid:20)0 −2
+3
+
+3
+0 −5
+
+(cid:21)
+
+.
+
+5 of 5
+
+

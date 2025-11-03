@@ -1,0 +1,41 @@
+ECE110 - Quiz #3 
+Only non-programmable calculators are allowed. 
+Duration: 30 Minutes 
+
+First Name: _____________________ Last Name: ______________________________ 
+
+Student #:_______________________ Tutorial Section: __________________________ 
+
+Two infinitely long straight and thin wires carrying currents i1 = 5A and i2= 2A are positioned in 
+parallel  to  the  y-axis  at  x  =  2cm  and  x  =  5cm  respectively  as  shown  in  the  Figure  below.  A 
+positive charge q travels in the opposite direction of y-axis at a distance x = 3cm in a uniform 
+
+V/m. 
+
+Determine: 
+
+a)  Direction and Magnitude of the magnetic field along the path of charge q. [2.5 Marks] 
+b)  Magnitude of the velocity. [2.5 Marks] 
+
+y 
+
+i1 
+
+i2 
+
+q 
+
+x 
+
+E6i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

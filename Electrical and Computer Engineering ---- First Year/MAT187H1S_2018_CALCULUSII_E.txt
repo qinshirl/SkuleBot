@@ -1,0 +1,331 @@
+F3EB7653 -2A4C-4EF1- 9D83 - 058C36772555 
+
+mat187-2018-final-exam 
+
+#848 
+
+1 of 12 
+
+UNIVERSITY OF TORONTO,  FACULTY OF APPLIED SCIENCE AND ENGINEERING 
+
+MAT187H1S - Calculus II - Final Exam  - April 20, 2018 
+
+EXAMINERS: G.  CHEN,  S.  COHEN, B.  GALvAo-SousA,  K.  MATETSKI,  D.  PANCHENKO, F. PARSCH 
+
+Time allotted: 150 minutes 
+
+Total marks: 80 
+
+No Aids permitted 
+
+First name (please write as legibly as possible within the boxes) 
+
+Last name 
+
+Student Number 
+
+Instructions: 
+
+Do not write on the QR code at the top of the pages. 
+
+This test contains 12 pages and a detached booklet for multiple-choice questions and formula sheet. 
+
+DO NOT DETACH ANY PAGES. 
+
+You can use pages 9-11 to complete questions (mark  clearly which questions you are answering). 
+
+Calculators, celiphones, or any other electronic devices are not allowed. If you have a celiphone 
+
+with you, it must be turned off and in a bag underneath your chair. 
+
+DO NOT START the test until instructed to do so. 
+
+GOOD LUCK! 
+
+mat187-2018-final-exam 
+
+#848 
+
+2 of  12 
+
+LONG ANSWER PART 
+
+11.  A railroad company plans to lay railroad tracks on a flat plain. The tracks can 
+
+(20 marks) 
+
+be modelled as a curve y = f(x) 
+
+for some function  f(x).  You can assume z = 0. 
+
+Note. You can use the results of previous parts even if you didn't solve them. 
+
+(a) (7 marks) Show that the curvature of the track at a point (x, f(x), 0) is 
+
+If"(x) I 
+
+a 
+(1+ fl(x)2)2 
+
+Hint. Calculations are easier with the cross product formula. 
+
+04DOC1A5-42DD-4FE4-AF73-A0D70824511C 
+
+mat187-2018-final-exam 
+
+#848 
+
+3 of  12 
+
+.1 
+
+E!1... 
+
+(b) (3 marks) Show that  ic < If"(x)I. 
+
+(4 marks) To bypass two farms in the path, between —2 
+
+x < 6 the track goes along the 
+
+curve y = a cos(bx) shown in the figure for some a> 0 and b> 0. What are a and b? 
+
+(6 marks) The maximum curvature of the track must not exceed 2. Is the track in (c) 
+
+acceptable? Justify your answer. 
+
+ 
+U !i_Li 
+
+mat187-2018-final-exam 
+
+#848 
+
+4 of  12 
+
+12.  Consider the irregular baseball field in the figure. 
+
+(20 marks) 
+
+The field is bounded by lines with angles —a and 7r/2 + a 
+
+for some small angle a. 
+
+The curve that separates the outfield and the infield is given 
+
+by a circle of radius  '/  centred at the point (1, 1). 
+
+(5 marks) Write a formula for the circle in x-y-coordinates. 
+
+(5 marks) Write the formula r = f(0) for the circle in polar coordinates. Justify your answer. 
+
+Hint. Use the formulas x = rcos(0) and y = rsin(0). 
+
+8890C3C6-47FE-4BD4-9DBB-1652907B68A1 
+
+mat187-2018-final-exam 
+
+#848 
+
+50f12 
+
+L.1. 
+
+(c) (10 marks) Compute the infield area. Justify your answer. 
+
+Area = 
+
+U 
+
+I 
+
+L!J 
+
+mat187-2018-final-exam 
+
+#848 
+
+6 of 12 
+
+13.  Consider the differential equation 
+
+(20 marks) 
+
+- 5y' + 4y = 10 cos (2x) 
+
+and the initial conditions 
+
+y(0) = 3 
+
+and 
+
+y'(0)  = 10. 
+
+(a) (5 marks) Find the Taylor polynomial p2(x) = Co + CX + c2x2 of degree m = 2 centred at a = 0 
+for the solution  y(x)  of the above equation without solving the differential equation. Justify 
+
+your answer. (You will be asked to solve the differential equation in part (b) below.) 
+
+P2(X)  = 
+
+9352EA4C-3196-4F4D-AF93-7E582C10C76A  IJL!1 
+
+mat187-2018-final-exam 
+
+#848 
+
+70f12 
+
+cI  .. 
+
+(b) (8 marks) Find the solution of the initial value problem. Justify your answer. 
+
+U 
+
+[Mil4..%6, 
+
+mat187-2018-final-exam 
+
+#848 
+
+8  of  12 
+
+(c)  (5 marks) Find the Taylor series centred at a  = 0 of the solution found in (b). Justify your 
+
+answer. 
+
+(d) (2 marks) Find the coefficient of x4  of the Taylor series you found in (c). 
+
+C4  = 
+
+ 
+844048EC- 3AAE-4AFA-A8A1-80857E4DC684 
+
+mat187-2018-final-exam 
+
+#848 
+
+9 of  12 
+
+U 
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS. 
+If you wish to have this page marked, make sure to refer to it in your original solution. 
+
+EJ U 
+
+mat187-2018-final-exam 
+10 of  12 
+
+#848 
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS. 
+If you wish to have this page marked, make sure to refer to it in your original solution. 
+
+656233D5-29E7-4COE-BB2E-887549FDE507 
+
+mat187-2018-final-exam 
+11 of  12 
+
+#848 
+
+0. 
+
+USE THIS PAGE TO CONTINUE OTHER QUESTIONS. 
+If you wish to have this page marked, make sure to refer to it in your original solution. 
+
+BD890E44 -DA33 -4CBA-94A3 - 1OFG3AOFF8D6 
+
+mat187-2018-final-exam 
+12  of  12 
+
+#848 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10  CD 
+
+11  D 
+
+12  E 
+
+13 
+
+14 
+
+15  D 
+
+16  D 
+
+17 
+
+18  E 
+
+19  CD 
+
+20 
+
+21  CD  
+
+CD CO CD 
+
+22   CD 
+
+CD CD CD 
+
+D   CD 
+
+23 
+
+24  D 
+
+25 
+
+26  D  1 
+
+27 
+
+28  E 
+
+29  D 
+
+1' 
+
+30 
+
+31 
+
+32  ED  CD  © 
+
+33 
+
+34 
+
+35 
+
+36 
+
+37 
+
+38  E  D C 
+
+39 
+
+40 
+
+

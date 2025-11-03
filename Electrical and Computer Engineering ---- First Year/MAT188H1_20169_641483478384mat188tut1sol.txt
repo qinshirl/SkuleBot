@@ -1,0 +1,832 @@
+Faculty of Applied Science & Engineering, University of Toronto
+MAT188H1F - Linear Algebra
+Fall 2016
+
+Tutorial Problems 1 Solutions
+
+1. The language of sets is ubiquitous in mathematics and is something we will work with often in this
+course. Loosely, a set is a collection of objects called members, or elements, of the set. We will use the
+following shorthand notation to indicate certain relationships between sets.
+
+• ∅ denotes the empty set. i.e. The set with no members.
+
+• a ∈ A means a is a member of the set A. It’s typical that sets are designated by upper case letters and
+
+members of that set by the corresponding lower case letter.
+
+• A = B means the set A is equal to the set B.
+
+i.e. A and B have exactly the same members and
+
+nothing more.
+
+• A ⊆ B means A is a subset of B. i.e. Every element of A is an element of B. It may be that A and B
+
+are equal.
+
+• A ⊂ B means A is a proper subset of B. i.e. A is a subset of B but not equal to B. You may also see
+
+the notation A (cid:40) B to denote A is a proper subset of B.
+
+There are two ways we may deﬁne a set: we may list the elements of the set, such as A = {1, 2, 3}, or
+specify them by a rule, such as A = {x | x ∈ Z and x > −1} (you read this as the set of x such that x
+is an integer and x is greater than -1).
+
+Deﬁnition: Let A and B be sets.
+
+The intersection of A and B is deﬁned to be the set A ∩ B = {x | x ∈ A and x ∈ B}.
+
+The union of A and B is deﬁned to be the set A ∪ B = {x | x ∈ A or x ∈ B} (this is an inclusive or
+which means that x ∈ A or x ∈ B or both).
+The diﬀerence of A and B is deﬁned to be the set A(cid:31)B = {x | x ∈ A and x /∈ B}.
+
+(a) Let A = {x | x ∈ R and x2 < 3} and B = {x | x ∈ Z and x > −1}. Determine A ∩ B, B(cid:31)A, Z(cid:31)B,
+
+and R ∩ A.
+
+Solution:
+
+A ∩ B = {x | x ∈ A and x ∈ B}
+
+√
+
+√
+
+3 < x <
+
+= {x | x ∈ R and x ∈ Z and x2 < 3 and x > −1}
+= {x | x ∈ Z and −
+= {x | x ∈ Z and − 1.73 · · · < x < 1.73 · · · and x > −1}
+= {x | x ∈ Z and − 1 < x < 1.73 · · · }
+= {x | x ∈ Z and 0 ≤ x ≤ 1}
+= {0, 1}
+
+3 and x > −1}
+
+B(cid:31)A = {x | x ∈ B and x (cid:54)∈ A}
+
+1 of 6
+
+Notice that, for any x, x (cid:54)∈ A is equivalent to x ∈ R and x2 ≥ 3. Therefore,
+
+B(cid:31)A = {x | x ∈ Z and x > −1 and x ∈ R and x2 ≥ 3}
+
+√
+
+3} ∪ {x | x ∈ Z and x > −1 and x ≤ −
+
+3}
+
+√
+
+= {x | x ∈ Z and x > −1 and x ≥
+= {x | x ∈ Z and x ≥ 2} ∪ φ
+= {x | x ∈ Z and x ≥ 2}
+= {2, 3, 4, . . .}
+
+Z(cid:31)B = {x | x ∈ Z and x (cid:54)∈ B}
+
+= {x | x ∈ Z and x ∈ Z and x ≤ −1}
+= {x | x ∈ Z and x ≤ −1}
+= {−1, −2, −3, . . .}
+
+R ∩ A = {x | x ∈ R and x ∈ A}
+
+= {x | x ∈ R and x ∈ R and x2 < 3}
+= {x | x ∈ R and −
+
+3 < x <
+
+3}
+
+√
+
+√
+
+(b) Let C = {x | x ∈ Z and x2 > 4} and D = {x | x ∈ Z and x > −1}. Determine C ∪ D, D(cid:31)C, D ∩ ∅,
+
+R ∪ D.
+Solution:
+
+C ∪ D = {x | x ∈ Z and x2 > 4 and x > −1}
+
+= {x | x ∈ Z and x > 2 and x > −1} ∪ {x | x ∈ Z and x < −2 and x > −1}
+= {x | x ∈ Z and x > 2} ∪ φ
+= {x | x ∈ Z and x > 2}
+= {3, 4, 5, . . .}
+
+D(cid:31)C = {x | x ∈ Z and − 1 < x ≤ 2}
+
+= {0, 1, 2}
+
+D ∩ φ = φ
+
+R ∪ D = {x | x ∈ R and x ∈ Z and x > −1}
+
+= {0, 1, 2, . . .}
+
+(c) Let E = {(x1, x2) ∈ R2 | x1 > x2} and F = {(x1, x2) ∈ R2 | x2
+
+1 + x2
+
+2 ≥ 1}. Determine E ∪ F , E ∩ F ,
+
+E(cid:31)F , and F (cid:31)E.
+
+Solution:
+
+E ∪ F = {(x1, x2) ∈ R2 | x1 > x2 or x2
+
+1 + x2
+
+2 ≥ 1}
+
+E ∪ F = {(x1, x2) ∈ R2 | x1 > x2 and x2
+
+1 + x2
+
+2 ≥ 1}
+
+2 of 6
+
+E(cid:31)F = {(x1, x2) ∈ R2 | x1 > x2 and x2
+
+1 + x2
+
+2 < 1}
+
+F (cid:31)E = {(x1, x2) ∈ R2 | x1 ≤ x2 and x2
+
+1 + x2
+
+2 ≥ 1}
+
+2. For each of the following subsets of R3, determine whether they are a subspace of R3. Give reasons
+
+why or why not in each case.
+
+(a) Sa = {(x1, x2, x3) | x1, x2, x3 ∈ Z}
+
+Solution: Notice that (0, 0, 0) ∈ Sa, so that Sa is non-empty. Let x = (x1, x2, x3) = (1, 1, 1) ∈ Sa.
+Notice that Sa is not closed under scalar multiplication, due to the following. Let t = 1.5, tx =
+(1.5, 1.5, 1.5) (cid:54)∈ Sa. Therefore, Sa is not a subspace.
+
+(b) Sb = {(x1, x2, x3) | x2
+
+1 = x3
+2}
+
+Solution: Notice that (0, 0, 0) ∈ Sb, because 02 = 03, so that Sb is non-empty. Let x = (x1, x2, x3) =
+(1, 1, 1) ∈ Sb, because 12 = 13. Notice that Sb is not closed under scalar multiplication, due to the
+following. Let t = 1.5, tx = (1.5, 1.5, 1.5) (cid:54)∈ Sb, because 1.52 (cid:54)= 1.53. Therefore, Sb is not a subspace.
+
+(c) Sc = {(x1, x2, x3) | x1 − 3x2 + 4x3 = 0 and x1 = x2}
+
+Solution: Notice that (0, 0, 0) ∈ Sc, because 02 = 03, so that Sc is non-empty. Let x, y ∈ Sc. Then
+they must satisfy the condition of the set, so x1 − 3x2 + 4x3 = 0, x1 = x2, y1 − 3y2 + 4y3 = 0, y1 = y2.
+To show that Sc is closed under addition, we must show that x + y = (x1 + y2, x2 + y2, x3 + y3) satisﬁes
+the condition of Sc. Notice that x1 + y1 − 3(x2 + y2) + 4(x3 + y3) = 0 and x1 + y1 = x2 + y2. Hence,
+x + y ∈ Sc.
+Similarly, for any t ∈ R, we have tx = (tx1, tx2, tx3), so that tx1 − 3tx2 + 4tx3 = 0 and tx1 = tx2, i.e.
+tx ∈ Sc. Therefore, Sc is closed under scalar multiplication and Sc is a subspace of R3.
+
+(d) Sd = {(x1, x2, x3) | sin(x1) = x3}
+
+Solution: Notice that (0, 0, 0) ∈ Sd, because sin(0) = 0, so that Sd is non-empty. Let x = (x1, x2, x3) =
+(π/2, 0, 1) ∈ Sd, because sin(π/2) = 1. Notice that Sd is not closed under scalar multiplication, due to
+the following. Let t = 2, tx = (π, 0, 2) (cid:54)∈ Sd, because sin(π) = 0 (cid:54)= 2. Therefore, Sd is not a subspace.
+
+(e) Se = {(x1, x2, x3) | (x1 + x2 + x3)2 = 0}
+
+Solution: Notice that (0, 0, 0) ∈ Se, because (0 + 0 + 0)2 = 0, so that Se is non-empty. Let x, y ∈ Se.
+Then they must satisfy the condition of the set, so (x1 + x2 + x3)2 = 0, or equivalently x1 + x2 + x3 = 0,
+and (y1 + y2 + y3)2 = 0, or equivalently y1 + y2 + y3 = 0.
+To show that Se is closed under addition, we must show that x + y = (x1 + y2, x2 + y2, x3 + y3) satisﬁes
+the condition of Se. Notice that (x1 + y2 + x2 + y2 + x3 + y3)2 = 0. Hence, x + y ∈ Se.
+Similarly, for any t ∈ R, we have tx = (tx1, tx2, tx3), so that (tx1 + tx2 + tx3)2 = 0, i.e. tx ∈ Se.
+Therefore, Se is closed under scalar multiplication and Se is a subspace of R3.
+
+3 (a) Show that span
+
+
+
+
+
+
+
+
+1
+0
+ ,
+
+0
+
+
+
+ ,
+
+
+0
+1
+
+1
+
+
+2
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+0
+−1
+−1
+
+
+
+
+
+
+
+ ,
+
+
+
+1
+2
+ ,
+
+2
+
+2
+1
+
+1
+
+
+
+
+
+= span
+
+
+
+
+
+1
+
+0
+ ,
+
+0
+
+
+
+
+0
+1
+
+1
+
+
+
+
+
+
+and S2 = span
+
+
+
+
+
+
+
+1
+2
+
+2
+
+
+
+ ,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+−1
+−1
+
+.
+
+Solution: Denote by S1 = span
+
+3 of 6
+
+By deﬁnition of span, for any x ∈ S1:
+
+x = t1
+
+
+
+ + t2
+
+
+1
+0
+
+0
+
+
+
+ + t3
+
+
+0
+1
+
+1
+
+
+
+2
+1
+ =
+
+1
+
+
+
+
+
+t1 + 2t3
+t2 + t3
+t2 + t3
+
+
+
+
+
+By deﬁnition of span, for any x ∈ S2:
+
+y = a1
+
+
+
+1
+2
+ + a2
+
+2
+
+
+
+
+
+ =
+
+
+
+
+
+
+
+0
+−1
+−1
+
+
+
+
+
+a1
+2a1 − a2
+2a1 − a2
+
+For any t1, t2, t3 ∈ R, we can let a1 = t1 + 2t3 and a2 = 2t2 − t2 + 3t3, so that
+
+
+
+
+
+t1 + 2t3
+t2 + t3
+t2 + t3
+
+
+
+
+
+y =
+
+
+
+. Show that span{u + w, v − w} ⊆ span{u, v, w}. Are these
+
+
+2
+1
+
+3
+
+3 (b) Let u =
+
+Therefore, S1 = S2.
+
+
+
+
+2
+−1
+1
+spans are actually equal?
+
+, v =
+
+
+
+
+
+0
+1
+, and w =
+
+1
+
+
+
+
+
+
+
+
+4
+0
+ ,
+
+4
+
+Solution: Denote by S1 = span{u+w, v−w} and S2 = span{u, v, w}, so that S1 = span
+
+
+
+
+
+
+
+
+and S2 = span
+
+2
+−1
+1
+By deﬁnition of span, for any x ∈ S1:
+
+
+
+0
+1
+ ,
+
+1
+
+
+
+2
+1
+
+
+3
+
+ ,
+
+
+
+
+
+
+
+
+
+
+.
+
+x = t1
+
+
+
+4
+0
+ + t2
+
+4
+
+
+
+
+
+−2
+0
+−2
+
+
+
+ =
+
+
+
+
+
+4t1 − 2t2
+0
+4t1 − 2t2
+
+
+
+ = (4t1 − 2t2)
+
+
+
+1
+0
+ = t
+
+1
+
+
+1
+0
+
+1
+
+
+
+
+
+where t = 4t1 − 2t2 ∈ R.
+By deﬁnition of span, for any x ∈ S2:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−2
+0
+−2
+
+y = a1
+
+
+
+
+
+
+
+2
+−1
+1
+
+ + a2
+
+
+
+0
+1
+ + a3
+
+1
+
+
+
+2
+1
+ =
+
+3
+
+
+
+
+
+2a1 + 2a3
+−a1 + a2 + a3
+a1 + a2 + 3a3
+
+
+
+
+
+Thus, for any t, let a1 = 0, a2 = −t/2, a3 = t/2. Notice that
+
+y =
+
+
+
+
+
+t
+0
+
+
+t
+
+so that x = y ∈ S2. It follows that S1 ⊆ S2.
+In the following, we will show that S1 (cid:54)= S2 by showing that there exists y ∈ S2 such that y (cid:54)∈ S1. Let
+
+a1 = 0, a2 = 1, and a3 = 0. Notice that y =
+
+
+
+0
+1
+ (cid:54)∈ S1. Therefore, S1 ⊂ S2.
+
+0
+
+4 of 6
+
+4. Let W = {x, y, z, w} be a set of four vectors in Rn. Suppose that x = y − 5z + w and z = x − y.
+
+(a) Is the set {x, y, w} linearly independent? How about the set {x, z, w}? Explain your answers.
+
+Solution:
+
+x = y − 5z + w
+
+x = y − 5(x − y) + w
+
+6x − 6y − w = 0
+
+Therefore, the set {x, y, w} is, by deﬁnition, linearly dependent.
+
+x = y − 5z + w
+
+x = (x − z) − 5z + w
+
+0x + 6z − w = 0
+
+Therefore, the set {x, z, w} is, by deﬁnition, linearly dependent.
+
+(b) Can you conclude anything about the linear independence or dependence of the set {x, z}?
+
+Solution: No. It depends on the vectors y and w. Let’s take some examples from R3. Notice that
+
+if y =
+
+
+
+
+
+1
+1
+ and w =
+
+1
+
+
+
+
+
+−1
+−1
+−1
+
+, then we have x = y − 5z + w = −5z, it follows that x + 5z = 0 and so
+
+x and z are linearly dependent. However, if we let x =
+
+
+
+, z =
+
+
+1
+0
+
+0
+
+
+
+1
+1
+, y =
+
+0
+
+
+
+
+
+0
+−1
+0
+
+
+
+, and w =
+
+
+
+6
+6
+, we
+
+0
+
+can check that x = y − 5z + w and z = x − y. However, the system t1x + t2z = 0 only has the trivial
+
+
+1
+0
+ and y =
+
+0
+
+
+
+1
+1
+ are not multiples of one another).
+
+0
+
+solution t1 = 0 and t2 = 0 (equivalently, that x =
+
+Therefore, x and z will be linearly independent in this case.
+
+5. Let A and B be subspaces of R3.
+
+(a) Show that A ∩ B is a subspace of R3.
+
+Solution: Because A and B are subspaces of R3, then (0, 0, 0) ∈ A and (0, 0, 0) ∈ B, so that (0, 0, 0) ∈
+A ∩ B = Sa and Sa is non-empty. Let x, y ∈ Sa, then x, y ∈ A and x, y ∈ B. But A is a subspace
+of R3, so that A is closed under addition, i.e. x + y ∈ A. Similarly, B is a subspace of R3, so that B
+is closed under addition, i.e. x + y ∈ B. Therefore, x + y ∈ A ∩ B = Sa. It follows that Sa is closed
+under addition.
+Furthermore, A is closed under scalar multiplication, i.e. tx ∈ A, for any t ∈ R, and B is closed under
+scalar multiplication, i.e. tx ∈ B, for any t ∈ R. Therefore, tx ∈ A ∩ B = Sa, for any t ∈ R, so that
+Sa is closed under scalar multiplication. Therefore, Sa is a subspace of R3.
+
+(b) Find an example of subspaces A and B to show A ∪ B is not necessarily a subspace of R3.
+
+Solution: Let A = {(x1, 0, 0) | x1 ∈ R} and B = {(0, x2, 0) | x2 ∈ R}, which are clearly non-empty
+sets. Let x, z ∈ A, and notice that x + z ∈ A and tx ∈ A, for all t ∈ R. Thus, A is a subspace of R3.
+Similarly, we can show that B is a subspace of R3.
+Let x ∈ A and y ∈ B. Notice that x = (x1, 0, 0) and y = (0, y2, 0). It follows that x + y = (x1, y2, 0)
+which doesn’t belong to either A or B. Therefore, A ∪ B is not closed under addition and A ∪ B is not
+a subspace.
+
+5 of 6
+
+(c) Is A(cid:31)B ever a subspace of R3? Why or why not?
+
+Solution: Notice that A(cid:31)B = A ∩ B, where B is the complement of the set B, i.e. B = {x | x (cid:54)∈ B}.
+Because B is a subspace, then B contains the origin (0, 0, 0), which means that B does not contain the
+origin. Thus, A(cid:31)B = A ∩ B does not contain the origin. It follows that A(cid:31)B is not a subspace.
+Notice that if B is not a subspace, say for example B = φ, then A(cid:31)B = A ∩ B = A ∩ R3 = A may
+be a subspace. An example of this is A = {(x1, 0, 0) | x1 ∈ R}, which we have proved in 5 (b) to be a
+subspace.
+
+6 of 6
+
+

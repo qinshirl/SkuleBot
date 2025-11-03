@@ -1,0 +1,649 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 13
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Complex Numbers
+
+note
+
+that
+
+numbers
+
+1 0
+x M
+
+has
+
+no
+
+solution
+
+in
+
+the real
+
+Introduce
+
+a
+
+new number
+
+i VI
+
+imaginary unit
+
+do
+
+we need more
+
+numbers
+
+to be consistent
+
+need to multiply numbers
+to get another number
+
+need add subtract to get
+
+another
+
+number
+
+it it mnomber
+
+number
+
+a bi
+
+number
+
+The complex
+
+numbers
+
+are
+
+numbers of
+
+the
+
+form
+
+atbi
+
+where
+
+a bEIR
+
+add multiply divide subtract
+
+you can
+to get another number
+
+complex
+
+numbers
+
+2 a b i
+
+22 9 bai
+
+2 2
+
+ait b i
+
+as bai
+
+suet
+
+red s
+
+imaginary part
+
+2.22
+
+a b c
+
+as bai
+
+a as aibaitbiaaitb.bz
+
+yEiEi
+
+Given a
+
+complex number
+
+2 atbi
+
+conjugate of 2
+red part of 2
+imaginary part of 2
+
+2 9 bi
+
+a
+
+Re 2
+Im z b
+
+define following
+change sign of imaginary
+
+Part
+
+Z
+
+z z
+
+It
+
+a
+
+Esther
+real number
+
+divide 2
+
+22 0
+
+either astoor b to
+
+I
+2
+EE.ca t
+kan
+
+a
+
+multiply by conjugate
+
+of
+
+denominator
+
+a
+
+22 is always
+real
+
+EE
+
+iTpartTmaginorypart
+
+Compute the following:
+
+1. (4 + 3i)
+
+→
+2. (2 + 3i)(1
+
+3.
+
+3+i
+2i
+1
+
+→
+
+(2
+
+→
+
+→
+i)
+
+i)
+
+1
+
+4 3
+
+2 i
+
+3 1 i
+
+4 2
+24.6
+
+2 FIFO
+2 1 2
+
+2 2i 3i 3,2
+2 2 3 3
+5
+
+deadened
+i
+
+EE.IE
+
+1
+
+I
+
+How to
+
+do exponential
+eatbi eaebi
+
+w̅
+
+property of
+
+exponentials
+
+what
+
+is ebi
+
+Taylor series
+
+e
+
+ebi
+
+1
+
+ltxttxestxst.nu
+bi
+bi
+
+bi
+
+bi
+
+bi
+
+b
+
+I bi
+
+b
+
+bi
+
+t b
+
+bsi f b
+
+l
+
+ebi
+
+cos b
+
+is in b
+
+Euler's formula eit
+
+Cos
+
+isint
+
+Complex exponentials
+
+e
+
+e
+
+cos b
+
+isin b
+
+1
+
+kzEeetgEcasesion
+
+form of 2
+
+components
+
+same as 112
+
+5ᵗʰ
+g
+
+Polar
+
+coordinates
+
+define
+a
+1122 by the
+and
+
+in
+
+Point
+distance from origin
+angle with
+y axis
+
+mode 121 r Fs
+arg 2
+
+use trig arcton
+
+a
+
+121
+
+re part
+
+ns.noeimpat
+
+2 rfost is.int
+
+rfplsg
+
+M
+
+n
+
+licctinz.ptge.PdoFormz
+
+22 rae
+
+22
+
+r.eiti
+
+ah e
+
+r.eia
+02
+
+Troduetofdistance
+
+and add angles
+
+deveythmpofnomfkpcn
+
+aota.at
+
+ant
+
+has
+
+a complex
+
+root
+
+every polynomial
+
+linear
+
+forms
+
+can be factored
+p x
+
+x 2
+
+x 22
+
+as
+
+product of
+2ied
+
+X 2n
+
+If plx
+then
+
+aotaixt
+
+anx
+
+is
+
+if
+
+2
+
+is
+
+a root
+
+a polynomial with
+is also root
+
+then I
+
+coef
+
+Convert to Polar Form
+
+Convert to Rectangular Form
+
+1. 1 + i
+↑3
+
+2.
+
+→
+
+i
+
+→
+
+1. 2eiω/4
+2. 4e→
+
+iω/6
+
+1
+
+i
+
+12k
+
+2 12 eit
+2e
+Z
+
+y ↑↑ + 4y ↑ = 0
+
+char poly
+r 4
+
+root
+
+imaginary
+
+C Cat C
+
+r
+
+r
+
+pure
+
+4
+T
+2i
+get c.es Caeit
+
+r
+
+C cos 2
+
+i sin at
+
+complex
+get
+Ca cos 2
+
+solution
+real
+
+solution
+
+can
+
+we
+
+isin 2t
+
+C cos 2
+
+isin 2t Ca coscat
+
+isin at
+
+C 2 ier
+Citcz EIR
+
+C C2 is pure image
+
+red part equal
+
+mag part
+
+is
+
+negative of each
+other
+
+C C
+
+will give you pure real
+
+solution
+
+yet
+
+i c cos 2
+
+costat
+
+21
+
+ffmg
+
+c C i sin at
+
+sin 2t
+
+IACOSC25 Bsin12t
+
+A.BE IR
+
+2 linearly
+
+independent
+
+solutions
+
+i general
+
+solution
+
+y ↑↑ + 2y ↑ + 5y = 0
+char poly
+
+r 2r 5
+
+r
+
+r 211420T
+112DE
+yet C et
+
+complex
+
+roots
+
+t get _sit
+2it
+
+c eait c e
+
+t
+
+e
+
+ÉACos 2t Bsn 2t
+
+ci.cat C
+
+previous
+restrict
+
+like in
+example
+C C and
+let A 2Re c
+
+B 2Im a
+
+General
+
+solution
+
+A BEIR
+
+Summary
+
+y by cy 0
+
+char poly
+Distinct
+
+Repeate
+
+O r
+
+br c
+
+real
+
+roots
+ri.rs
+yet Gent Gent
+root
+ylt cert cate't
+
+real
+
+r
+
+complex
+
+ot.EEiEEiys come
+
+in
+
+conjugate pairs
+yet e.at c cos bt Gsin bt
+
+4y ↑ + 13y = 0
+
+y ↑↑ →
+char poly
+
+r 4r 13 0
+
+r 411 64.51
+213
+
+ᵗ Acos 3t Bsin 3t
+
+e
+
+A BEIR
+
+yet
+
+

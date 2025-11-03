@@ -1,0 +1,128 @@
+MAT186 Calculus I - Fall 2020
+
+Review Session
+
+December 10, 2020
+
+Contents
+
+Riemann Sums
+
+Differential Equations
+
+Word Problems ⇔ Mathematical Expressions
+
+Inequalities and Approximation
+
+Limits
+
+Riemann Sums
+
+A box of 100 kilograms of sand is being pulled up a distance of 50
+meters. The motion occurs at a constant rate over the course of one
+minute. The sand is leaking from the box at a rate of 1 kilogram per
+second. The box itself weighs 5 kilograms. Write and justify a deﬁnite
+integral expression for the amount of work done pulling the box up.
+
+Differential Equations
+
+A population of rabbits, left without predators, grows at a rate equal to 10% of the current
+rabbit population per month. To help keep the population in check, we take rabbits out
+of the wild to allow students to pet them before ﬁnals. We do this at a constant rate of 25
+rabbits per month. We started off with 300 rabbits in the population.
+
+(a) Write a differential equation modeling the number of rabbits over time.
+
+b) Are there any equilibrium solutions to this equation?
+
+(c) Use the initial condition to write an initial value problem. What happens to the population
+of rabbits over time? Explain how you know.
+
+Word Problems ⇔ Mathematical Expressions
+
+A pickup truck is being used to transport sand. Let the time t be given in hours.
+Sand is leaking from a truck bed; there’s 100 kg to start, and the rate of change of
+sand in the truck is L(t) kilograms per hour. The fuel efficiency of this pickup truck
+is F (m) miles per gallon, where m is the mass of sand in the pickup track. Assume
+both functions are differentiable and that F (m) is invertible with inverse function m(F ).
+
+1. When the fuel efficiency is 30 mi/gal, the mass of sand in the truck is half of what
+it is when the fuel efficiency is 20 mi/gal. Represent this statement with a single
+mathematical equation.
+
+2. Interpret the following mathematical expression in one sentence and give its units:
+
+(cid:18)
+
+F
+
+100 +
+
+(cid:19)
+
+L(t) dt
+
+(cid:90) 5
+
+0
+
+3. Interpret the following mathematical expression in one sentence and give its units:
+
+F (cid:48)(10)
+
+4. Will this expression be positive or negative? Explain why, and provide units for
+
+the expression.
+
+(cid:18)
+
+F
+
+100 +
+
+d
+dT
+
+(cid:90) T
+
+0
+
+(cid:19)
+
+L(t) dt
+
+Inequalities and Approximation
+
+Pictured is a graph of g(x) on [−1, 2]. Use the triangle inequality |a + b| ≤ |a| + |b| to
+quickly put an upper bound on the function
+
+f (x) =
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+d
+dx
+
+(cid:12)
+(cid:12)
+[ex/2g(x)]
+(cid:12)
+(cid:12)
+
+over this interval.
+
+Limits
+
+Find the following limit, fully justifying each step with mathematical
+principles we have covered.
+
+lim
+x→∞
+
+3x + cos(x)
+x + 1
+
+

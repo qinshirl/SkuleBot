@@ -1,0 +1,25 @@
+APS104S – Introduction to Materials & 
+Chemistry 
+
+Lecture 38 
+April 8, 2016   
+Review session 
+
+Instructor: Gisele Azimi 
+
+B 
+
+e 
+
+1.5	  moles	  of	  a	  diatomic	  ideal	  gas	  undergoes	  the	  following	  reversible	  cyclical	  
+process	  from	  an	  ini:al	  state	  characterized	  by	  T	  =	  275	  K	  and	  P	  =	  1	  bar:	  
+
+-­‐  Adiaba:c	  expansion	  un:l	  volume	  is	  tripled	  
+-­‐  Hea:ng	  at	  constant	  volume	  un:l	  T	  increases	  to	  275	  K	  
+-­‐  The	  pressure	  is	  increased	  in	  an	  isothermal	  reversible	  process	  un:l	  P	  =	  1	  bar.	  
+
+a)	  Sketch	  a	  pressure-­‐	  volume	  diagram	  represen:ng	  this	  cycle.	  
+b)	  Calculate	  q,	  w,	  ΔU,	  ΔH,	  and	  ΔS	  for	  each	  step	  and	  for	  the	  total	  cycle.	  
+
+	  
+

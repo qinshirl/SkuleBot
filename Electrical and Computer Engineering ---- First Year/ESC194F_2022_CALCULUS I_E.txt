@@ -1,0 +1,383 @@
+ik
+
+4DE98B58-058F-4524-938D-4FC78EE9A5D5
+
+escl94-exam-2022-10512
+
+#337 Page 1 of 26
+
+University of Toronto
+
+Faculty of Applied Science and Engineering
+
+First name (please write as legibly as possible within the boxes)
+
+Last name
+
+Student number
+
+ESC194F Calculus I 
+Final Exam 
+December 2022
+
+No calculators or aids
+There are 12 questions, each question is worth 10 marks
+
+Examiners; P.C. Stangeby and J.W. Davis
+
+Page 1 of 26
+
+02D68204-1F91-4449-9345-51F4AFE1E69F
+
+escl94-exam-2022-10512
+
+#337 Page 2 of 26
+
+t
+
+Page 2 of 26
+
+B94D02EC-6ABF-4479-B6BA-C31E2493A4F7
+
+escl94-exam-2022-10512
+
+#337 Page 3 of 26
+
+1) a) Suppose that lim /(t) = oo. Can /(t) ever decrease? If so, sketch a graph of an example. If
+
+t->00
+
+not, why not?
+
+b) Suppose </(t) <
+
+4t®+7
+
+ts-3
+
+when t > 92. Determine lim /(t).
+
+t-»oo
+
+c) Design a rational function for which lim /(t) is a - indeterminate form, but the actual value of
+
+t-^4 
+
+0
+
+the limit is V2
+
+d) Sketch graphs of function/and g (it 0) so that lim/(t)5f(t) exists, but lim/(t) does not.
+
+t-»o
+
+t-»o
+
+e) Suppose |/(x) - 7| < 10 ^ whenever 0 < |x - 5| < 0.0001. What do we know about 
+
+lim/(x)?
+
+Page 3 of 26
+
+0FADEA27-AEE2-4035-98DA-B387n6A2742
+
+escl94-exam-2022-10512
+
+#337 Page 4 of 26
+
+*•
+
+Page 4 of 26
+
+9A8B33AE-E604-4D2B-B08D-4CF2D5CCE6C7
+
+escl94-exam-2022-10512
+
+#337 Page 5 of 26
+
+2-x
+
+(c) lim
+
+^^2* 2-x
+
+2) Find the limits (Do not use I'Hospital's rule):
+
+-4
+
+(a) lim-Y—^ ^ 
+x->2 X + 2x - 3
+
+(d) limsin(x-\ + cosx)
+
+x-*0
+
+'-2
+X +2x-3
+
+(e) lim
+x->0
+
+2-V4-x'
+X
+
+Page 5 of 26
+
+52C83CAB-31F6-4B37-BE28-195D6068C412
+
+escl94-exam-2022-10512
+
+#337 Page 6 of 26
+
+■I
+
+Page 6 of 26
+
+2D6F1942-F961-4468-BDAA-EB5D649C110B
+
+escl94-exam-2022-10512 
+
+#337 Page 7 of 26
+
+3) Calculate^ for:
+
+dx
+
+(a) y = 3x^
+
+(b) y = 3/x^
+
+3+x^
+(c) y = 2-x
+
+(d) y = sin^ix^)
+
+(e) x^y^ + xcosy = 2.
+
+Page 7 of 26
+
+B8191BF6-2416-4A2D-B6B1-2A6FFEC0797E
+
+escl94-exam-2022-10512
+
+#337 Page 8 of 26
+
+Page 8 of 26
+
+00C7AC16-0E7E-4216-9DBA-FFABD0ABB36F
+
+escl94-exam-2022-10512
+
+#337 Page 9 of 26
+
+4) Provide a rigorous proof (i.e. a 5-eproof) that //w 
+
+-x-6)= 0.
+
+;c->3
+
+Page 9 of 26
+
+2C8F9280-82DD-442D-95D4-BBC08DC6CF87
+
+escl94-exam-2022-10512
+
+#337 Page 10 of 26
+
+Page 10 of 26
+
+E3E2B2F5-6FA6-4EE0-837D-9D55D657B0C1
+
+escl94-exam-2022-10512
+
+#337 Page 11 of 26
+
+5) Find the dimensions of the rectangle of largest area that has its base on the y-axis and its other 
+
+two vertices on the right side of the y-axis and lying on the parabola x = 9-y^.
+
+Page 11 of 26
+
+B79FCE9F-1489-45E8-8180-DBD940005774
+
+escl94-exam-2022-10512
+
+#337 Page 12 of 26
+
+Page 12 of 26
+
+B115CC8C-F718-45F4-AF9E-B71596189DF9
+
+escl94-exam-2022-10512
+
+#337 Page 13 of 26
+
+6) Sketch the graph of the function f(x) = \ + — + \ noting any maximum and minimum points,
+
+points of inflection, vertical tangents, and asymptotes, as well as intervals of increase and decrease, 
+convexity and concavity.
+
+X X
+
+Page 13 of 26
+
+28CEE3E9-B789-4972-AEBD-47C7273CDB2A
+
+escl94-exam-2022-10512
+
+#337 Page 14 of 26
+
+Page 14 of 26
+
+B9F4DF6D-E94B-4F20-B28D-F54BD2A52147
+
+escl94-exara-2022-10512
+
+#337 Page 15 of 26
+
+Em
+
+?«■
+
+7) Let 5R be the region in the first quadrant bounded by the curves y = x^ and y = 3x-2x^. 
+
+Provide a sketch of the region, and calculate the following quantities:
+
+(i)  The area of 5R
+
+(ii) The volume obtained by rotating 91 about the x-axis; use the washer method.
+
+(iii) The volume obtained by rotating 9? about the y-axis; use the shell method.
+
+Page 15 of 26
+
+6563C4BD-3CFD-4858-813E-57FE048F52E0
+
+escl94-exam-2022-10512
+
+#337 Page 16 of 26
+
+Page 16 of 26
+
+860D2BOB-1861-4C52-B071-E026D3500C8B
+
+escl94-exam-2022-10512
+
+#337 Page 17 of 26
+
+>
+
+Ml
+
+8) a) Find the particular solution to the differential equation: 
+
+= y - xy, y(-l) = -1
+
+b) Evaluate the integrating factor, and use it to solve the differential equation: xy' + y = ^fx
+
+Page 17 of 26
+
+CA14DF45-D14B-4B3C-8823-73172D73501B
+
+escl94-exam-2022-10512
+
+#337 Page 18 of 26
+
+Page 18 of 26
+
+25EF20BE-503B-419B-A438-B42B19100DC7
+
+escl94-exara-2022-10512
+
+#337 Page 19 of 26
+
+9) Use the method of undetermined coefficients to find the general solution of the differential 
+
+equation:
+
+y" + 6y' + 9y = 16 e~^ cos lx
+
+Page 19 of 26
+
+51029310-4B17-42F8-A95A-BF01907675D0
+
+escl94-exam-2022-10512 
+
+#337 Page 20 of 26
+
+Page 20 of 26
+
+1925388C-4083-4D17-B35F-1B7C12442F2A
+
+escl94-exam-2022-10512
+
+#337 Page 21 of 26
+
+10) A clock's minute hand has length 4 and its hour hand has length 3. What is the distance between 
+
+the tips of the two hands at the moment when the distance is increasing most rapidly?
+
+Page 21 of 26
+
+22F096E4-CE08-4F75-8020-03068241FAA1
+
+escl94-exam-2022-10512
+
+#337 Page 22 of 26
+
+Page 22 of 26
+
+E606D3D1-A333-4532-BFCE-B95489016DC7
+
+escl94-exam-2022-10512
+
+#337 Page 23 of 26
+
+11) a) Given a differentiable function f{x) which has a bounded derivative |/'(x)| < k, show that:
+
+° 
+
+i=i
+
+; 4.
+
+b) Given a function f(x) with a continuous derivative, and /(O) = 0. If |/'(x)| < |/(x)| for all 
+
+X, show that/must be a constant.
+
+Page 23 of 26
+
+F57BA48C-08B1-41E3-958B-4481111411A1
+
+escl94-exara-2022-10512
+
+#337 Page 24 of 26
+
+Page 24 of 26
+
+6CB5BE9C-4423-4477-97CB-C0A83706069A
+
+escl94-exam-2022-10512
+
+#337 Page 25 of 26
+
+12) let/(x) be an increasing real-valued function defined for x>0, for which /(O) = 0. Let its inverse 
+
+be /"^(x). Given a and b in the domains of/and/ ^ respectively, show that:
+
+f f(x)dx+ f f '^(x)dx>ab 
+Jo 
+
+Jo
+
+Page 25 of 26
+
+63E5DD6E-AC93-40F4-B5A2-02636747B1F1
+
+escl94-exam-2022-10512
+
+#337 Page 26 of 26
+
+Page 26 of 26
+
+

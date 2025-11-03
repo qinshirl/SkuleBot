@@ -1,0 +1,608 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS111 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Jason Bazylak 
+Communication Coordinator: Peter Weiss 
+Module A Coordinator: Susan McCahan 
+Midterm Examination 
+October 27, 2016 
+
+This  is  a  70  minute  midterm  with  39  questions  and  16  pages.  It  is  a  multiple  choice 
+midterm and is closed book. No aids are permitted. Read each question thoroughly and 
+provide the answer on the answer sheet. Be sure to fill out the answer sheet clearly with 
+no  overlaps.  Fill  out  the  answer  sheet  using  a  pencil.  Erase  any  errors  completely. 
+Provide only 1 answer per question and each correct answer is worth 1 mark. There is 
+no deduction for wrong answers. Select the answer that best satisfies the question. You 
+are not required to hand in the exam question booklet. You may tear off the appendix to 
+ease the answering of questions. 
+
+1.  When working on the description of the service environment, you are in: 
+
+a.  The concept space 
+b.  The solution space 
+c.  The problem space  
+d.  The implementation space 
+
+2.  The phases of a design project (defining the problem, conceptual design, etc) are: 
+
+a.  The same for every project both in phase type and duration. 
+b.  Generally the same for every project, but often differ in duration. 
+c.  Different in every project, but the duration of each phase is usually the same. 
+d.  Mostly unnecessary; most projects do not have these phases. 
+
+3.  A design project initiated by a company that employs its own engineers to work on 
+
+the design is called: 
+a.  An in-house project 
+b.  An internal project 
+c.  A consulting project 
+d.  A contracted project 
+
+4.  A public bidding system with clear, firm deadlines is used to: 
+
+a.  Penalize companies that take too long preparing a proposal. 
+b.  Ensure that the project can start on time. 
+c.  Minimize the number of proposals so it is easier to pick a contractor. 
+d.  Create a fair process so every company bidding has an equal opportunity. 
+
+1 of 16 
+
+ 
+ 
+5.  “A set of measurable characteristics that a design solution needs to fulfill to address 
+
+a design problem” describes: 
+a.  An Implementation Plan 
+b.  A Request for Proposals (RFP) 
+c.  A Conceptual Design Specification (CDS) 
+d.  Detailed Requirements  
+
+6.  The three most common sources for constraints in a design problem are: 
+
+a.  Government, the client, and stakeholder interests. 
+b.  Government, the design brief, and codes. 
+c.  The client, regulations, and users. 
+d.  The design brief, users and operators, and regulations. 
+
+7.  Suppose your design team is tasked with designing a new, portable device to tell 
+time (e.g. something like a wrist watch). If you apply the black box method to this 
+design problem, which of the following would be outputs: 
+a.  A strap to hold the device to the user’s wrist, and the correct time of day. 
+b.  The user, and the correct time of day. 
+c.  Initial time setting accurate for the user’s location (i.e. time zone), and the user. 
+d.  A visual indication of the time (e.g. written numbers), and a strap to hold the 
+
+device to the user’s wrist. 
+
+8.  The field of human-centered design has evolved over the last few decades. Current 
+trends in this field include increasingly taking into account in the design process: 
+a.  The user’s emotional needs. 
+b.  Environmental issues. 
+c.  The user’s physical measurements, i.e. anthropometric data. 
+d.  The stakeholder’s interests. 
+
+9.  In moving from ideation to detailed design, the design team must discard a large 
+
+number of potential designs. The basis for deciding which design ideas to keep, and 
+which to discard, is which design ideas best: 
+a.  Fit the top objective of the project. 
+b.  Meet all of the constraints. 
+c.  Fulfill the stakeholder interests. 
+d.  Fit the requirements. 
+
+10. Which of the following is TRUE for standards? 
+
+a.  A standard never relies on, or references other standards. 
+b.  All standards are written in SI units, which is a global requirement. 
+c.  You must reference and use applicable standards in requirements. 
+d.  Use of standards is voluntary, not mandatory. 
+
+2 of 16 
+
+ 
+11. The graphical decision matrix method is used to: 
+
+a.  Eliminate ideas that do not meet the top objectives for the project. 
+b.  Eliminate ideas that do not meet the constraints for the project. 
+c.  Identify ideas that best meet the functional requirements for the project. 
+d.  Identify ideas that best meet the stakeholder interests for the project. 
+
+12. Support for a claim is considered both TRUE and Valid when:  
+
+a.  The premises are true and link evidence to the claim in a way that stands up to 
+
+reasonable analysis.  
+
+b.  The evidence really exists and comes from a high quality, valid reference source.  
+c.  The idea is truly valuable and people agree with it, without even having to see 
+
+evidence – for example, common knowledge. 
+
+d.  The premises are true and the support for the claim comes from a person 
+
+believed to be a valid expert. 
+
+13. What are the three necessary parts for a complete claim? 
+
+a.  Subject, Verb and Predicate 
+b.  Fact, Opinion and Claim 
+c.  Statement, Explanation and Evidence  
+d.  Grammar, Spelling and Syntax 
+
+14. Critical thinking means: 
+
+a.  Having opinions based only on your own experience and values. 
+b.  Having ideas that are entirely free from bias and value-laden language. 
+c.  Having unique ideas that you can convince others to accept as valid. 
+d.  Having the ability to criticize other people’s ideas from your own perspective. 
+
+15. Which of the following statements is TRUE? 
+
+a.  Because bias is the same as prejudice, you must work to get rid of all bias in 
+
+yourself. 
+
+b.  No one is entirely free of bias since everyone has a frame of reference. 
+c.  Because of bias, all engineering decisions must inevitably be subjective. 
+d.  To have good judgement, you must never make a decision that agrees with your 
+
+bias. 
+
+16. Engineers are constrained by the communication practices of science. This means 
+
+that: 
+a.  They only write lab reports. 
+b.  Never use any form of argument. 
+c.  They use arguments based on evidence and logic. 
+d.  They must use the appropriate jargon, no matter the audience. 
+
+3 of 16 
+
+ 
+17. Plain language is language in which: 
+
+a.  One thing is compared with another using the words “like” or “as” – for example, 
+
+“the pepper was as hot as fire.” 
+
+b.  The explicit meaning has far more effect than the implied meaning – for example, 
+“the pepper was hot because it contained a high level of an ingredient known as 
+capsaicin.” 
+
+c.  The words are user-friendly, enabling the reader to easily see what is meant – for 
+
+example, “the car burned up the road.” 
+
+d.  What is said is plain and has no extra description in the form of adjectives or 
+
+adverbs – for example, “a pepper.” 
+
+18. Why are tables typically used in engineering? 
+
+a.  To organize information. 
+b.  To communicate relationships between parts of a system. 
+c.  To give the reader a visual understanding of the data. 
+d.  To enhance the visual appeal of a document. 
+
+19. In preparing Project Requirements, an engineer asks and answers a series of 
+
+questions, including: 
+a.  What is the best solution for the problem at hand? 
+b.  Do my alternatives give value to the client, by representing unique trade-offs? 
+c.  What do I know and what do I not know about the problem at hand?  
+d.  What are the final costs, who will pay them and when? 
+
+Questions 20 to 22 pertain to the Team situation described in the following paragraph 
+
+Fiona, Garrett and Hattie are working on a design team together. They have not worked 
+together before on a project. 
+
+20. After talking for a while, they decide that it would be useful to develop a set of team 
+beliefs. These include the shared goals of the project, and a preliminary timeline for 
+completing some of the major deliverables for the project. This phase of teaming is 
+called: 
+a.  Forming 
+b.  Storming 
+c.  Norming 
+d.  Performing 
+
+4 of 16 
+
+ 
+21. In discussing how they will work together, the team decides that they will use voting 
+
+to make decisions. What else should they add to this decision to make voting a more 
+effective means of decision making?  
+a.  They should add a rule that all votes should be unanimous because with only 
+
+three people on the team it would be better if everyone agreed on every decision. 
+
+b.  They should add a rule that all votes should be recorded in their engineering 
+
+notebooks. This will ensure that they have an accurate record of every decision 
+and who voted for what. 
+
+c.  They should add a rule that everyone should have a chance to express their 
+
+opinion before the vote. This will ensure that they have adequately discussed the 
+options before voting. 
+
+d.  They should add a rule that everyone must vote on every decision. Otherwise 
+
+they could have a tie which would stop them from moving forward on the project. 
+
+22. Fiona, Garett and Hattie found that developing their team beliefs was relatively easy. 
+They all agreed on the purpose and goals of the project. They also all seem to have 
+a similar commitment to completing the project successfully. This means that: 
+a.  It is unlikely that conflicts or disagreements will arise during the course of the 
+
+project because the team shares the same beliefs. 
+
+b.  It is unlikely that conflicts and disagreements will arise because the team is so 
+
+small – only three people. 
+
+c.  It is likely that conflicts and disagreements will arise during the project, and they 
+
+can use their shared beliefs to address these issues. 
+
+d.  It is likely the conflicts and disagreements will arise, so shared beliefs are not 
+
+very helpful. 
+
+Questions 23 to 39 pertain to the Case Study -  Chewing Gum Anti-Theft Solution 
+located in the appendix of this booklet. 
+
+23. The functional basis for this case study can best be described as 
+
+a.  Maintaining mass and controlling transport of mass 
+b.  Combining mass and optimizing transformation of energy 
+c.  Separating information and controlling mass location 
+d.  Sensing information and preventing energy storage 
+
+24. One of the most important objectives in this design problem is; 
+a.  Should require no modification to packaging processes. 
+b.  Must be food safe. 
+c.  Should utilize AM or RFID tags which are used in many other similar products. 
+d.  Should not negatively impact product or package shelf life. 
+
+5 of 16 
+
+ 
+ 
+25. One of the other objectives in this problem is “should be very low cost”. Given that a 
+typical package of chewing gum costs about $1.00, what would be an appropriate 
+objective goal for this requirement? 
+a.  More than $1.00 per package of gum that the system protects. 
+b.  More than 10 cents per package of gum that the system protects. 
+c.  Less than $1.00 per package of gum that the system protects. 
+d.  Less than 10 cents per package of gum that the system protects. 
+
+26. For the objective “should be very low cost”, which of the following would be an 
+
+appropriate metric? 
+a.  Weigh the package of gum before and after the solution has been applied. 
+b.  Calculate the cost of a package of gum before and after the solution has been 
+
+applied. 
+
+c.  Calculate the cost of manufacturing AM or RFID tags and putting them into the 
+
+packaging. 
+
+d.  Measure the number of chewing gum thefts before and after the solution has 
+
+been applied. 
+
+27. If the primary market for the system is North America, then the service environment 
+
+description for this design should include 
+a.  Average wind speed, and average outdoor temperature. 
+b.  Typical lighting conditions in a store, and information about shelving systems 
+
+used in stores. 
+
+c.  The typical floor plan of a store, and information about the building materials 
+
+used in the store construction. 
+
+d.  Information about the habits of squirrels, birds and other animals that are 
+
+common in the North American environment. 
+
+28. The client for this design is Mondelez, the manufacturer of the chewing gum product. 
+Which of the following row would be the best choice for expressing a stakeholder 
+and their interest in your Project Requirements document? 
+
+Stakeholder 
+
+a.  The design team 
+
+b.  Users 
+
+Interest 
+
+economic and ethical interest 
+
+economic and social interest 
+
+c.  environmental groups, such as the Sierra Club 
+
+legal and economic interest 
+
+d.  Law enforcement agencies 
+
+legal and social interest 
+
+6 of 16 
+
+ 
+ 
+ 
+29. Which of the following would be the best choice for a benchmarking activity for this 
+
+design problem? 
+a.  Observing the current manufacturing process for the chewing gum by visiting the 
+
+gum factory. 
+
+b.  Watching video tape surveillance from stores that carry consumer products. 
+c.  Observing a user buying a package of gum and noting the steps they follow. 
+d.  Analyzing the anti-theft strategies used in other products such as shampoo. 
+
+30. Which of the following is an example of task analysis for this design problem? 
+
+a.  Observing the current manufacturing process for the chewing gum by visiting the 
+
+gum factory. 
+
+b.  Watching video tape surveillance from stores that carry consumer products. 
+c.  Observing a user buying a package of gum and noting the steps they follow. 
+d.  Analyzing the anti-theft strategies used in other products such as shampoo. 
+
+31. One of the requirements identified for this product is “must not increase the 
+
+environmental impact relative to the existing product”. This means that a solution 
+with more environmental impact than the current product: 
+a.  Would be fine to propose. 
+b.  Is not preferred, but may be acceptable given other considerations. 
+c.  Is acceptable if it meets government regulations for environmental impact. 
+d.  Is not acceptable. 
+
+32. Suppose your design team uses decomposition to generate solution ideas for this 
+
+design problem. One activity that would be part of this process would be: 
+a.  Brainstorming solution ideas for that would meet the requirements. 
+b.  Combining ideas using a morphological chart. 
+c.  Brainstorming ideas for the use of RFID tags in the product packaging. 
+d.  Looking at biological systems for inspiration. 
+
+33. Your team uses a pairwise comparison to prioritize the objectives and finds that one 
+of the objectives, “allows the production machinery to run at current speeds”, gets a 
+score of zero. This means that the team should 
+a.  Discard this objective and not use it for comparing alternatives later. 
+b.  Set this objective aside for now and only use it later if it is needed. 
+c.  Continue to use the objective in the alternative selection process. 
+d.  Prioritize this objective because it becomes the most important consideration in 
+
+selecting an alternative. 
+
+7 of 16 
+
+ 
+34. Suppose your design team comes up with two solutions: 
+
+•  A low cost way to add a physical lock, so the gum cannot be accessed 
+
+without a code. 
+
+•  A shelving system that allows the customer to only take one item at a time, 
+
+instead of quickly dumping a whole shelf of goods into a bag. 
+
+In developing a solution to propose, the team puts these ideas together and proposes a 
+shelf that has a code lock on it and only dispenses one item at a time. The customer 
+buys a code, and then goes and gets their gum. This is an example of using: 
+
+a.  Brainstorming 
+b.  Decomposition 
+c.  SCAMPER 
+d.  Design by analogy 
+
+35. The users and operators for this design do NOT include 
+a.  People shopping at stores that carry chewing gum. 
+b.  People buying chewing gum. 
+c.  Store clerks who put products onto store shelves. 
+d.  Cashiers at stores that carry the chewing gum. 
+
+A team working on the Mondelez project has written the following Problem Statement: 
+
+Mondelez Corporation has tasked our design team with finding a solution 
+to the problem of chewing gum theft in newer, larger, modern stores that 
+are the main distribution channels for their famous product, Trident gum. 
+These stores are limiting shelf space and restricting display or thinking of 
+encasing  the  product  in  acrylic  boxes  so  that  people  cannot  get  to  it 
+easily  enough  to  steal  it.  Therefore,  the  stores  have  a  gap  in  display 
+spaces that are resistant to theft but enable legitimate shoppers to easily 
+select the product they want and purchase it. A solution must be low-cost 
+and food safe. 
+
+36. Which of the following statements demonstrates the communication values of this 
+
+course? 
+a.  This is a well written Problem Statement which has no grammatical errors. 
+b.  This Problem Statement does a poor job because it does not add any new 
+
+information to the Client Statement. 
+
+c.  This Problem Statement does a good job of confirming the information in the 
+
+Client Statement. 
+
+d.  This Problem Statement does a poor job of predicting what the solution could be. 
+
+8 of 16 
+
+ 
+37. The Mondelez International Inc. fact sheet states “Our dream is to create delicious 
+
+moments of joy in everything that we do.” This statement is an example of: 
+a.  Evidence for the claim that Mondelez’s interest is creating joy. 
+b.  A constraint from the client that the design shall be joyful. 
+c.  Figurative language used for marketing. 
+d.  A description of the “gap” in the current snacks market. 
+
+38. A design team is referencing the Mondelez fact sheet. The correct way to format the 
+
+reference as an online source, according to the IEEE standard, is: 
+a.  No author. (No date) 2016 Fact Sheet. [PDF] Available: 
+
+http://www.mondelezinternational.com/~/media/mondelezcorporate/Uploads/dow
+nloads/mondelez_intl_fact_sheet.pdf 
+b.  “2016 Fact Sheet.” Mondelez Corporation, 
+
+http://www.mondelezinternational.com/~/media/mondelezcorporate/Uploads/dow
+nloads/mondelez_intl_fact_sheet.pdf. Accessed 17 Oct. 2016. 
+
+c.  Fact sheet. 
+
+http://www.mondelezinternational.com/~/media/mondelezcorporate/Uploads/dow
+nloads/mondelez_intl_fact_sheet.pdf  
+
+d.  Mondelēz. (2016) Mondelēz International Corporate Factsheet 2016 Fact Sheet. 
+
+[Online] Available: 
+http://www.mondelezinternational.com/~/media/mondelezcorporate/Uploads/dow
+nloads/mondelez_intl_fact_sheet.pdf  
+
+39. For this project, use of the Wikipedia article on chewing gum is 
+
+a.  Strictly forbidden – use of Wikipedia is considered an academic misconduct at 
+
+university.  
+
+b.  A good place to start – but you should go on to more detailed and specific 
+
+sources. 
+
+c.  Very useful because you need at least three references for every sentence in the 
+
+assignment.  
+
+d.  A poor place to start since the focus of the design is the packaging rather than 
+
+the gum itself. 
+
+End of questions that pertain to the Case Study – Chewing Gum Anti-Theft 
+Solution located in the appendix of this booklet. 
+
+There are no questions beyond this point 
+
+9 of 16 
+
+ 
+ 
+ 
+ 
+This page is intentionally blank
+
+10 of 16 
+
+ 
+Appendix A: Case Study – Chewing Gum Anti-Theft Solution1 
+
+There are no questions in this appendix. You may detach this appendix for ease of 
+answering the questions that pertain to the Case Study. 
+
+Client: Mondelēz International 
+Their company manifesto can be found at: 
+http://www.mondelezinternational.com/about-us/our-dream-belief-and-values 
+Mondelēz brands include Oreos, Cadbury, Triscuits, Toblerone, and others 
+See the posted corporate fact sheet for more information 
+
+Description 
+The client is looking for a low cost solution to reduce, or eliminate, the theft of chewing 
+gum from stores. The solution must allow the gum to be displayed prominently on 
+existing shelving units and give the retailer confidence that the product will not be 
+stolen. 
+
+Background 
+Trident gum currently holds a leadership position many global markets. Consumer 
+research shows it is considered one of the most beloved brands.  
+
+The newer, larger, modern stores that have developed are one of the main distribution 
+channels for Trident, but theft has become a problem. As a result, some of the key 
+accounts are limiting shelf space and restricting display to isolated locations. This 
+results in lost sales. 
+
+Other products with a similar issue, such as batteries, sunscreen, shampoo and even 
+nursing products. These products have moved to encasing the product in acrylic boxes 
+or adding acousto-magnetic or radio frequency tags to the products.   
+
+Mondelez is looking for a low cost solution to reduce or eliminate the theft of chewing 
+gum from stores. The solution must allow the gum to be displayed prominently and give 
+the retailer confidence that the product will not be stolen.  
+
+Key Success Criteria 
+The proposed technology should: 
+
+•  Not impact product or package quality, safety or functionality 
+•  Be very low cost 
+•  Should not negatively impact product or package shelf life 
+•  Must be food safe 
+•  Enable production machinery that manufactures the gum and packaging to run at 
+
+current speeds  
+
+1 Adapted from NineSigma Request Number N645136 
+
+11 of 16 
+
+ 
+ 
+ 
+  
+  
+  
+  
+                                                           
+ 
+ 
+•  Should require minimum modification to packaging processes 
+•  Must not increase the environmental impact relative to the existing product 
+• 
+
+If an AM or RF solution, it must work with existing AM or RF control systems for 
+alarm and deactivation 
+
+Possible Approaches 
+Possible approaches include, but are not limited to: 
+
+•  Modifications to packaging materials that reduce theft 
+•  Low cost AM or RF packaging inclusions 
+•  New technologies compatible with existing systems 
+
+12 of 16 
+
+ 
+Appendix B – Mondelēz Fact Sheet 
+
+13 of 16 
+
+ 
+ 
+14 of 16 
+
+ 
+ 
+ 
+15 of 16 
+
+ 
+ 
+ 
+16 of 16 
+
+ 
+ 
+

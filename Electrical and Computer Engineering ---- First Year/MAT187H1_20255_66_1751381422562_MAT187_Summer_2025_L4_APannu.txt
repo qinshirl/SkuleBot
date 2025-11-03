@@ -1,0 +1,660 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 4
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Numerical Integration
+
+Numerical
+
+integration
+
+is
+
+technique
+
+for
+
+approximating
+
+Fada
+
+without
+
+finding
+
+anti derwet.ie
+
+Hq
+
+f Fada
+
+use
+
+elementary
+
+is
+
+area under cone
+
+shapes
+
+to approximate that area
+
+why
+
+and derivative might be difficult
+anti derivative might not exist
+functions
+
+elementary
+
+in
+
+exc JeMdx
+
+to determine
+terms of
+
+enfAFG Ye dt
+
+Some
+
+functions
+
+are defdastining
+
+Inc
+
+f
+
+dx
+
+we may not know the integrand but only certain
+
+values
+
+exes
+
+E O
+of
+
+tf
+u
+
+3
+ng
+
+approximate
+
+distance
+
+from sampled
+velocity
+
+Redspiffing
+
+an
+
+mn
+
+equally
+
+spaced
+Xi at DE
+Ox b
+
+42
+
+If Fat ox
+
+faddy
+
+some element
+
+a
+Xi
+in Exit xD
+Sums
+
+as
+
+nyyyigp.gg
+
+Remmon
+
+use
+approximation with finite n
+
+an
+
+appximate each interval with
+constant
+
+function 0thdegreepay
+
+Left and Right Endpoint
+
+choice of
+
+v
+
+Yin Xi
+
+x
+
+X
+
+left endpoint
+
+x
+
+Xi
+
+right endpoint
+
+FTE
+
+T.TT
+
+left endpoint
+
+is
+
+overestimate
+
+underestimate
+
+for
+for
+
+decreasing
+
+increasing
+
+function
+
+right endpoint
+
+reverse
+
+Midpoint Rule
+
+take
+
+Kit
+
+to be middle point of
+
+Xi Xi
+
+X
+
+Xt
+
+in
+
+general
+
+midpoint
+
+more accurate
+
+me
+
+Approximate
+
+1
+0 x 2dx using midpoint rule.
+FLY P
+
+´
+
+x'dxx.IE FG ox
+
+L 8 f 8 f Sg f 8
+34 44
+
+Itf
+
+n 4
+
+U patios
+
+F x x
+
+q8
+
+y
+Y Y Y I
+
+C
+
+Ea
+
+I
+
+compare
+
+fox'de's
+
+H 41 142
+9
+error
+
+For each of the following, which rule is an underestimate,
+overestimate, undetermined?
+ω
+1
+0 x 2dx
+2
+
+0 sin(x)dx
+
+´
+
+´
+
+ω
+0 sin(x)dx
+
+´
+
+left
+
+underestimate increasing
+
+M
+
+Inderestimate
+
+left
+
+MI
+
+overestimate
+
+right
+
+midpoint underestimate
+
+overestimate
+
+right
+
+t.FI
+
+midpartt overestimate
+
+AT
+
+undermined
+
+n
+
+undermined
+
+a
+midpoint overestimate
+
+G
+
+igiiidft.is concave up
+
+underestimate
+
+then
+
+if
+
+concave
+
+down
+
+then
+
+overestimate
+
+Trapezoid Rule
+
+approximating each interval
+function
+
+chest
+
+degree
+
+lynomial
+
+hoad.in hs b
+
+T
+bg
+
+ox
+
+approx 1 FCx.d FCX ox
+FCXo F x
+
+Δx
+
+area
+
+ha
+
+of
+
+h
+
+F x F xa ox
+
+a
+
+trapezoid
+
+area rect
+
+triangle
+
+thith.la
+Femi
+
+f xn ox
+
+FCx2
+
+F Xn
+
+f x
+
+For each of the following, the trapezoid rule is an underestimate,
+overestimate, undetermined?
+ω
+1
+0 x 2dx
+2
+
+0 sin(x)dx
+
+ω
+0 sin(x)dx
+
+´
+
+´
+
+´
+
+overestimate
+
+underestimate
+
+under
+
+A
+
+EEterest.TT
+Gendifncatfu
+
+concave down
+
+underestimate
+
+opposite of
+midpoint
+
+role
+
+undermined
+
+b c
+
+concavity
+
+changes
+
+Simpson’s Rule
+
+P.CN
+
+in
+
+general
+
+given
+
+3 points
+
+Pole
+
+Xo f xo
+is
+
+there
+
+Xi f x
+
+X2F x2
+
+a
+
+quadratic
+
+that
+3 points
+
+goes
+
+for every 3 adjacent points
+that
+
+quadratic
+
+a
+
+find
+3 points
+
+through those
+
+in
+
+partition
+fits through
+
+frendx
+
+fÉwdx ftp.lddxtjegm
+
+to
+
+usqfodricformp.fi bef.ie
+n
+
+Geared
+
+Points
+Paddy
+
+peq e p
+Fla 4f x FCA
+
+ten
+
+0
+
+4 intervals
+
+note Simpson's rega
+of intends
+
+a
+
+a
+
+a
+
+a
+
+p
+
+fÉCxdx
+
+Fco 4FCx
+
+F 2
+
+Fx 4f xs FLX
+
+f xo 4F x
+
+2F a 4F 3 F xa
+
+General
+
+Simpson's
+
+role
+
+FCxdx
+
+F x 4fCx 2F xz 4F 3 2f xu
+
+2fXndx4Fxm if
+
+coff
+
+1 424 2424
+
+24241
+
+in general
+
+simpson's
+midpoint trapezoid
+
+rule
+
+is
+
+more accurate than
+
+Use Simpson’s rule to approximate
+
+2
+0
+
+1
+1+x 2 dx
+
+´
+
+Error Bounds
+rule
+
+Midpoint
+
+error
+
+ftp
+
+Trapezoid rule
+
+error M
+
+Simpson's role
+
+M is
+for
+
+an
+
+upper bound
+for
+IF x
+aex b
+Ideate
+
+error MIES
+
+M is
+for
+
+an
+
+upper bound
+
+F x
+
+for
+
+a xeb
+
+Thderivative
+
+What number of partitions do we need to approximate
+using midpoint and Simpson’s rule.
+
+In 2
+to an error of most 0.01
+
+´
+
+2
+1
+
+1
+x dx
+
+midq.tw
+
+mgpg o.am boundonflh
+
+F x
+F x
+
+0.01
+
+aa
+
+at
+
+ien
+
+li
+
+n
+
+n 2.88
+
+we want
+
+guarantee
+
+n 3
+
+error
+
+to
+0.01
+
+simpson.se I se
+
+so
+
+decreasing
+max value for 1172
+7 1
+is
+
+at
+M
+
+

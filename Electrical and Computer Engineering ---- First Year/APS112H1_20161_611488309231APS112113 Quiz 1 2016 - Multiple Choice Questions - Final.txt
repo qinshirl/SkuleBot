@@ -1,0 +1,219 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice 
+
+Quiz #1 February 12, 2016 
+
+This is a 50-minute quiz. The quiz is closed book and closed notes. The quiz has a total of 19 
+questions, worth 30 marks. The questions are divided between two booklets.  
+
+Question Booklet #1 – Multiple Choice Question Booklet 
+
+This booklet contains 15 multiple-choice questions, worth 1 mark each. Read each question 
+thoroughly and provide the answer on the answer sheet (not in this booklet). Fill in your name 
+and student number on the multiple-choice answer sheet. When providing answers on the 
+answer sheet be sure to: 
+
+ 
+ 
+ 
+ 
+
+use a pencil 
+fill out the answer sheet (scan sheet) clearly with no overlaps 
+erase any errors completely 
+provide only the single, most correct answer for each question  
+
+There is no penalty for wrong answers. Select the answer that best satisfies the question.  
+
+You are not required to hand in this multiple-choice question booklet.  
+
+The final 4 short-answer questions are found in the Short Answer Question Booklet. 
+
+Page 1 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1)  Which is TRUE concerning the management and technical aspects of a project? 
+a)  Project Management starts before and ends after the technical aspects. 
+b)  Project Management starts at the same time as and ends after the technical aspects. 
+c)  Project Management starts and ends at the same time as the technical aspects. 
+d)  The start and end of Project Management are unrelated to the technical aspects. 
+
+2)  Which of the following is the best-formed task for a project management plan? 
+
+a)  Build a set of cabinets and let me know when you are done. 
+b)  Nail up the board. 
+c)  Solder the components into the prototype circuit board. 
+d)  Program a routine to select the largest item from the list, then archive the software. 
+
+QUESTIONS 3-5 are based on the following Gantt Chart 
+
+3)  What is the effect of changing task 9 to “e days” duration instead of “days”? 
+
+a)  Project will take longer. 
+b)  Task 9 will be run on the weekend. 
+c)  Task 9 will be removed from the critical path. 
+d)  There will be no change. 
+
+4)  If task 12 is changed to a milestone, what happens to the timeline of the project? 
+
+a)  The project will be done one day earlier. 
+b)  The project will take the same amount of time, but the representation for task 12 will 
+
+change. 
+
+c)  An error will be generated on the resource sheet. 
+d)  There will be no change. 
+
+5)  Working with the original Gantt Chart (not as revised by any other question): If tasks 7 and 8 
+are done by the same person, then “leveling” this project will result in the project ending on: 
+a)  Wednesday, same as now. 
+b)  Thursday (1 day later) 
+c)  Friday (2 days later) 
+d)  Tuesday (6 days later) 
+
+Page 2 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6)  What statement is TRUE? 
+
+a)  Estimates are used only by non-engineers since engineers calculate exact values. 
+b)  Estimates must always be calculated to the best precision possible. 
+c)  Estimates are only useful for preliminary calculations and do not serve any purpose once 
+
+exact calculations have been completed. 
+
+d)  None of the above. 
+
+7)  The Occupational Health and Safety Act in Ontario provides supervisors with some 
+
+responsibilities. Which of the following is NOT a responsibility of a competent supervisor? 
+a)  Ensure that procedures are followed and that protective devices are used. 
+b)  Advise a worker on the presence of any danger. 
+c)  Take every precaution reasonable in the circumstances for the protection of the worker. 
+d)  Eliminate all hazards from the workplace. 
+
+8)  In searching for prior art informing your design, which statement is FALSE?   
+
+a)  Reviewing the literature should be done by starting with the most detailed and specific 
+
+references you can find.  
+
+b)  Prior art includes all information relevant to a design problem. 
+c)  Designers should review prior art before embarking on the main creative design process.  
+d)  It is important to know about codes and standards applying to design problem.  
+
+9)  A student team has been given a project to increase membership in a bike sharing program. 
+They have determined the gap is that when riders are riding they do not know the location of 
+the nearest drop-off station. They have determined the Functional Basis for the design is: 
+a)  Increase membership 
+b)  Transmit information 
+c)  Move mass 
+d)  Generate energy 
+
+10) A team has to prevent a male robin from seeing his own reflection and attacking it in a large 
+
+window. Which of the following functions would be appropriate for the team? 
+a)  Minimally reflective – less than 8% specular reflectance 
+b)  Prevent robin from seeing his reflection in the glass 
+c)  Design shall not harm wildlife or ecosystem 
+d)  Reduce specular reflectance of the glass  
+
+11) Faced with the problem of a male robin attacking his own reflection in a large window, a 
+team has determined that one objective of their design would be durability. Which of the 
+following objective goals would be appropriate for the team? 
+a)  Robin will not be able to break the glass when flying at their top speed, 57.9364 km/hr. 
+b)  Design will last at least 7 years without deterioration in Canadian weather conditions. 
+c)  Design will resist deterioration under temperature cycling between -23.8ºC and 29.4ºC. 
+d)  Deterioration will not significantly affect the window to which the design is attached. 
+
+12) In a Conceptual Design Specification (CDS), alternatives 
+
+a)  Must all be equally valid, though they represent different trade-offs 
+b)  May be combined to form the recommended design 
+c)  Should have one clearly superior design and four others 
+d)  Must be written by only a single team member, with no collaboration 
+
+Page 3 of 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13) Which of the following statements, about Engineering Notebooks, is TRUE? 
+
+a)  Format does not matter, because the Engineering Notebook, like a personal journal is 
+
+for your eyes only. No one else will read it. 
+
+b)  Engineering Notebooks are only used in ESP as a teaching tool; they are never used by 
+
+professional engineers. But they are useful, nonetheless. 
+
+c)  If you had to leave a project or a year and then return to it, you should be able to quickly 
+
+get back up to speed by reading your Engineering Notebook. 
+
+d)  Minutes, task delegation and important discussion points are NOT for your Engineering 
+
+Notebook. The meeting note-taker takes them and keeps them. 
+
+14) Using “common sense” as evidence for a claim is: 
+
+a)  A good idea because it saves time on research, especially when all you do in research is 
+
+find someone who supports your own idea 
+
+b)  A bad idea because your own common sense is at least partially defined by your own 
+
+bias and so it is not, ultimately, objective 
+
+c)  A good idea because it is a way of practicing becoming a professional who has to use 
+
+common sense all the time 
+
+d)  A bad idea because it may lead to arguments, but if the team agrees, then it may not be 
+
+a bad idea after all 
+
+15) Service environment provides: 
+
+a)  Stakeholder interests which help balance the bias of the team, client and users 
+b)  A view of the project from the perspective of the design itself 
+c)  All elements that might typically be present where the design is going to operate 
+d)  A set of principles to design for a broad range of users 
+
+Page 4 of 4 
+
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,812 @@
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS111 & APS113 Engineering Strategies and Practice 
+Course Coordinator: Micah Stickel 
+Communication Coordinator: Peter Weiss 
+Module A Coordinator: Susan McCahan 
+Midterm Examination 
+October 29, 2015 
+
+This  is  a  70  minute  midterm  with  36  questions  and  14  pages.  It  is  a  multiple  choice 
+midterm and is closed book. No aids are permitted. Read each question thoroughly and 
+provide the answer on the answer sheet. Be sure to fill out the answer sheet clearly with 
+no  overlaps.  Fill  out  the  answer  sheet  using  a  pencil.  Erase  any  errors  completely. 
+Provide only 1 answer per question and each correct answer is worth 1 mark. There is 
+no deduction for wrong answers. Select the answer that best satisfies the question. You 
+are not required to hand in the exam question booklet. You may tear off the appendix to 
+ease the answering of questions. 
+
+1.  Which of the following design projects would probably have a longer requirements 
+
+phase and a much shorter solution generation phase? 
+
+a.  An innovative shampoo system that takes a different approach to hair 
+
+washing 
+
+b.  A new power plant that will produce enough power to supply electricity to a 
+
+city 
+
+c.  A “Back to the Future” hover board system 
+
+d.  A new wristband that monitors blood pressure in real time  
+
+2.  Engineers may be involved in almost any project, but they would NOT be the lead 
+
+designers in which of the following projects: 
+
+a.  The design of a new company logo or branding strategy 
+
+b.  The design of a new lightweight material for use in aircraft instruments 
+
+c.  The design of a plant that produces freshwater from salt water (i.e. a 
+
+desalination plant) 
+
+d.  The design of a new internet search engine 
+
+3.  Which of the following are phases in the engineering design process? 
+
+a.  Requirements development, project management, and idea generation 
+
+b.  Project management, requirements development, and solution evaluation 
+
+c.  Project management, idea generation, and solution evaluation 
+
+d.  Requirements development, idea generation and solution evaluation 
+
+1 of 14 
+
+ 
+ 
+ 
+4.  A company, such as Unilever, tasks a group of their engineers to formulate a new 
+
+deodorant product for the consumer market.  This would be an example of: 
+
+a.  A request for proposal (RFP) 
+
+b.  An in-house design project 
+
+c.  A consulting project 
+
+d.  A entrepreneurial venture 
+
+5.  A design space can best be described as 
+
+a.  A physical space where design engineers do their work 
+
+b.  An online space, like Google docs, where design engineers collaborate 
+
+c.  An abstract space that encompasses a design problem and its potential 
+
+solutions 
+
+d.  A environment or space where the design will operate or be installed 
+
+6.  Which of the following is the best definition of a design brief? 
+
+a.  A statement from the client that describes the design problem they want 
+
+solved 
+
+b.  A brief document written by the design team that explains the design 
+
+problem 
+
+c.  A short introduction to the “alternative design solutions” section of an 
+
+engineering report 
+
+d.  An explanation of how the proposed design solution should be 
+
+implemented 
+
+7.  After reading a well-written problem statement, the reader should 
+
+a.  Have an understanding of the proposed design solution in detail 
+
+b.  Be able to describe the ideation process the design team followed 
+
+c.  Know all of the stakeholders that are important to the design project 
+
+d.  Have some understanding of the context for the design problem 
+
+8.  After reading a well-written problem statement, the reader should 
+
+a.  Know the most important design solution ideas that are being considered 
+
+b.  Have an understanding of the essential requirements of the design problem 
+
+c.  Be able to give a detailed description of the intended users and operators 
+
+for the design 
+
+d.  Have an understanding of the next steps the design team is planning 
+
+2 of 14 
+
+ 
+9.  The “need” in a design problem is  
+
+a.  what the client wants that they do not currently have 
+
+b.  the gap between current technology and what the client needs 
+
+c.  the possible design ideas that would satisfy the client 
+
+d.  the set of information the design team needs to research 
+
+10.  Suppose you are designing a new type of house paint.  Two of the requirements 
+
+identified for this project are:   
+
+x:  should create an opaque covering on a wall with only one coat of paint.   
+y: should reduce the time it takes to paint a wall 
+
+On a how-why tree: 
+
+a.  x should be above y; i.e. y is further down the tree 
+
+b.  y should be above x; i.e. x is further down the tree 
+
+c.  x and y are on two different branches and therefore may be at the same 
+
+level 
+
+d.  x and y do not belong on a how-why tree  
+
+11.  When you buy house paint you get a can of the base formulation (usually white 
+
+liquid paint) and then the paint store will add pigments to create the color you want.  
+Suppose you are designing a new type of house paint, which of the following would 
+most likely be outside the scope of this project? 
+
+a.  The design of the container (e.g. can) that the paint will be packaged in 
+
+b.  The design of the color pigments for the paint that will allow it to come in 
+
+many possible shades 
+
+c.  The base formulation which includes the choice of chemical materials  to 
+
+go into the paint 
+
+d.  The additives that give the paint shelf-life so it will not harden or change 
+
+color over time 
+
+<<More questions on next page>> 
+
+3 of 14 
+
+ 
+ 
+ 
+ 
+ 
+12. Suppose you are designing a new type of house paint.  One of the requirements 
+identified for this project is:  should create an opaque covering on a wall with only 
+one coat of paint.  What would be an appropriate metric for this? 
+
+a.  Measure the viscosity of the paint and compare it to other paints that are 
+
+highly rated 
+
+b.  Apply a coat of the paint and measure how long it takes to fully dry 
+
+c.  Using a paint roller, apply a coat of white paint to a black wall and measure 
+
+the resulting color 
+
+d.  You can assume house paint is always capable of covering a surface in 
+
+one coat, so it is not necessary to have a metric for this 
+
+13.  Published standards and standardized test procedures, such as those from ISO and 
+
+ASTM, are best used for specifying 
+
+a.  Functions, objectives, and service environment 
+
+b.  Objectives, constraints, and metrics 
+
+c.  Functions, service environment, and metrics 
+
+d.  Functions, objectives and stakeholder interests 
+
+14.  The crossing signals at intersections in Toronto now tell pedestrians how many 
+
+seconds are left before the light changes.  This is a relatively new technology that 
+was added in the last few years.  This is a good example of 
+
+a.  User interaction design (UI)  
+
+b.  Universal design   
+
+c.  An affordance (as re-defined by Donald Norman) 
+
+d.  Participatory design 
+
+15. Support for a claim is considered both true and valid when 
+
+a.  Whether or not there is a clear line of reasoning that leads through the 
+
+evidence to the conclusion, the evidence really exists. 
+
+b.  The evidence really exists and there is a clear line of reasoning that leads 
+
+through the evidence to the conclusion. 
+
+c.  Whether or not the evidence or reasoning exist, the idea is truly valuable 
+
+and ought to be expressed. 
+
+d.  There is a clear line of reasoning that leads to the conclusion, whether or 
+
+not the evidence really exists. 
+
+4 of 14 
+
+ 
+ 
+16.  The ESP style guide is… 
+
+a.  like a book of writing tips about how to add style to a piece of writing like 
+
+poetry or stories 
+
+b.  more about "right and wrong" than about the appropriate way to 
+
+communicate in a profession or organization 
+
+c.  like a dictionary or thesaurus – it lists words alphabetically and how to use 
+
+them in the right way 
+
+d.  more about the appropriate way to communicate in a profession or 
+
+organization than about "right and wrong"  
+
+Questions 17 to 19 pertain to the Team situation described in the following paragraph 
+
+Allan, Bea and Carlos are working on a design team together.  Allan is the team leader.  
+Allan and Bea are very busy with school and other things.  Carlos has a lighter load this 
+semester so he volunteered to do more of the work when the project was getting 
+started.  This seemed like a good idea, but as the semester goes on Carlos begins to 
+struggle with the workload.  Eventually he tells the team that they will have to carry 
+more of the load.  Allan and Bea are disappointed and also unprepared.  They assumed 
+Carlos would be handling things, so they have not been paying attention to the details of 
+the work up until now. 
+
+17. Carlos’s behaviour is best described as 
+
+a.  Hitchhiking 
+
+b.  Hijacking 
+
+c.  Isolationism 
+
+d.  Enabling 
+
+18. This team was performing well together until the workload for Carlos got 
+
+overwhelming.  Now they are  
+
+a.  Back to the team forming phase because they have to re-write their team 
+
+rules 
+
+b.  Back to the team norming phase because they have to reconfigure their 
+
+working relationship 
+
+c.  Staying in the performing phase because they got to performing before this 
+
+happened 
+
+d.  Moving on to the adjourning phase because they will need to break up the 
+
+team before they create a new team work plan 
+
+5 of 14 
+
+ 
+ 
+19. If you were coaching this team through this period, which of the following strategies 
+
+would be the best one to recommend to them? 
+
+a.  Have clear agendas for every team meeting so the team can move forward 
+
+with decisions efficiently 
+
+b.  Allan and Bea should take Carlos out for lunch to thank him for the work he 
+
+has contributed 
+
+c.  Use some time-blocking periods so Carlos can help the others pick up 
+
+parts of the project and carry more of the load 
+
+d.  Allan and Bea should do all of the work for the next phase of the project to 
+
+make up for their lack of work on the first phases 
+
+Questions 20 to 36 pertain to the Case Study – Quantifying Drift Invertebrates in River 
+and Estuary Systems located in the appendix of this booklet. 
+
+20. Suppose you choose to use functional decomposition to generate solution ideas for 
+this design problem.  The elements of the functional decomposition could include: 
+
+a.  Isolate a water sample, count drift invertebrates, identify drift invertebrates 
+
+b.  Mass (drift invertebrates), energy (water conditions), information (type of 
+
+invertebrates) 
+
+c.  Collect a water sample, filter a water sample, image (take a photo of) drift 
+
+invertebrates 
+
+d.  Total cost of the equipment, accuracy of the count, size of the target item 
+
+21. Which of the following is a secondary function for this design problem? 
+
+a.  Recognize small drift invertebrates in a volume of water 
+
+b.  Operate at all levels of the water column 
+
+c.  Accurately identify drift invertebrates 95% of the time 
+
+d.  Cost should not exceed $100k 
+
+22. Which of the following is an appropriate statement to include in the service 
+
+environment section of a report on this problem? 
+
+a.  The design should be able to operate in turbid conditions 
+
+b.  The total cost should not exceed $100k 
+
+c.  The Bureau of Reclamation is an agency of the U.S. federal government 
+
+d.  Ponds and streams may include particulate matter and floating debris 
+
+6 of 14 
+
+ 
+ 
+23. An appropriate benchmarking activity for this project could include task analysis.  
+
+Which of the following is an example of this method? 
+
+a.  Observing zoologists in the field capturing and counting species in an 
+
+ecosystem 
+
+b.  Identifying the working parts in equipment made for oceanographic studies 
+
+of prey species 
+
+c.  Observing drift invertebrate behaviour in their primary habitats 
+
+d.  Creating prototypes of a design idea and testing it in local ponds and 
+
+streams 
+
+24. Which of the following would be an appropriate objective for this design? 
+
+a.  The device must be submersible in water 
+
+b.  The total cost of the equipment should not exceed $100k 
+
+c.  The system should operate in situ for as long as possible 
+
+d.  The system should be able to detect drift invertebrates 
+
+25. Suppose your team decides that one objective of the system is to measure as 
+
+accurately as possible the size of each drift invertebrate.  Which of the following is 
+an appropriate goal for this objective? 
+
+a.  Measure the size of each invertebrate to within +/-0.25mm or +/-5% of the 
+
+item size 
+
+b.  Sort the drift invertebrates in a sample by size and count the number in 
+
+each size range 
+
+c.  Measure the number of invertebrates in a sample with 95% accuracy or 
+
+better 
+
+d.  Use an imaging technique to quantify the size of the drift invertebrates in a 
+
+sample  
+
+26. Which of the following is an appropriate constraint for this design? 
+
+a.  Shall measure water velocities between 0 and 1.5 m/s 
+
+b.  Shall have a total cost that does not exceed $100k 
+
+c.  Shall operate in conditions of 100NTU turbidity 
+
+d.  Shall operate under a wide range of light conditions  
+
+<<More questions on next page>> 
+
+7 of 14 
+
+ 
+ 
+27. One of the stakeholders for this project would be the Sierra Club.  What is an 
+
+appropriate way to express the Sierra Club’s interest? 
+
+a.  To protect and restore the quality of the natural environment 
+
+b.  To measure the health and well-being of fish habitats 
+
+c.  To operate the design in a way that minimizes disruption to the natural 
+
+environment 
+
+d.  To reduce the destructive effects of humans on the environment 
+
+28. Using functional basis, the primary function of this design is best described as 
+
+a.  Separate mass and convey information 
+
+b.  Sense mass and transform information 
+
+c.  Extract energy and information 
+
+d.  Store energy and maintain information 
+
+29. Which of the following would be outside the scope of this project? 
+
+a.  Systems that should be able to operate in ocean ecosystems 
+
+b.  Systems that can measure drift invertebrate populations in flowing water 
+
+c.  Technology that is able to operate in night time conditions 
+
+d.  Systems that sort drift invertebrates by size 
+
+30. If you applied the black box method to this problem, which of the following would 
+
+NOT be considered an output? 
+
+a.  Information about the number of drift invertebrates in a water sample 
+
+b.  Information about the size of drift invertebrates in a water sample 
+
+c.  Energy in the form of light needed to image the invertebrates 
+
+d.  Drift invertebrates (dead or alive) 
+
+31. Your team is generating possible solution ideas for this project.  One of the team 
+
+members suggests using a bubble net and filtering system similar to the way some 
+whales, such as humpbacks, hunt and feed.  This type of ideation is an example of: 
+
+a.  Morph charting 
+
+b.  Design by analogy 
+
+c.  SCAMPER 
+
+d.  Using magic solutions 
+
+8 of 14 
+
+ 
+32. Your team is generating possible solution ideas for this project.  One team member 
+suggests modifying the existing equipment that works in oceanographic studies for 
+use in steam and pond environments.  This type of ideation is an example of: 
+
+a.  Morph charting 
+
+b.  Design by analogy 
+
+c.  SCAMPER 
+
+d.  Using magic solutions 
+
+33. A design team is very excited to work on this project because they believe in doing 
+whatever is possible to increase positive environmental impacts in the world, but 
+they end up having an argument about what number to include as a goal for the cost 
+of the design when produced in large quantities. Which of the following statements 
+shows how bias affects this decision: 
+
+a.  Bias does not affect the decision because some may consider 
+environmental values more important than economic values. 
+
+b.  Bias affects the decision because none of the team members have studied 
+
+drift invertebrates in the past. 
+
+c.  Bias does not affect the decision because the whole team considers 
+
+environmental values more important than economic values. 
+
+d.  Bias affects the decision because some may consider environmental 
+
+values more important than economic values. 
+
+34. For this project, use of Wikipedia articles on zooplankton, drift invertebrates, and 
+
+oceanographic study equipment are 
+
+a.  Strictly forbidden – use of Wikipedia is considered an Academic 
+
+Misconduct at university. 
+
+b.  A good place to start – but you should go on to more detailed and specific 
+
+sources 
+
+c.  Great because you need at least three references for every sentence in the 
+
+assignment. 
+
+d.  Excellent when also combined with other sources such as Yahoo Answers 
+
+and Sparknotes 
+
+<<More questions on next page>> 
+
+9 of 14 
+
+ 
+ 
+ 
+ 
+35. In the Problem Statement, one team member has written: 
+
+This project is economically important because in the US alone, the “commercial 
+and recreational saltwater fishing generated more than $199 billion in sales and 
+supported 1.7 million jobs in the nation’s economy in 2011” according to an 
+NOAA report (3).  
+
+The problem with what the student wrote is that: 
+
+a.  Quotation marks should never be used in a university report. 
+
+b.  Square brackets should be used rather than round for the internal citation   
+
+c.  The internal citation should be outside the punctuation, not inside.  
+
+d.  The name of the author and date are always in the brackets for IEEE. 
+
+36. The correct way to format a reference source in an IEEE reference list is: 
+
+a.  [Online] Available: 
+
+http://www.nmfs.noaa.gov/mediacenter/2013/03/07_noaa_report_finds_ 
+commercial_and_recreational.html    
+
+b.  Fionna Matheson. NOAA report finds commercial and recreational 
+saltwater fishing generated $199 billion in 2011. NOAA Fisheries 
+Newsroom.  
+
+c.  Fionna Matheson. (03-07-13) NOAA Fisheries Newsroom. [Online] 
+
+http://www.nmfs.noaa.gov/mediacenter/2013/03/07_noaa_report_finds_ 
+commercial_and_recreational.html 
+
+d.  F. Matheson. (2013, March 13) NOAA report finds commercial and 
+
+recreational saltwater fishing generated $199 billion in 2011 [Online] 
+Available: 
+http://www.nmfs.noaa.gov/mediacenter/2013/03/07_noaa_report_finds_ 
+commercial_and_recreational.html 
+
+End of questions that pertain to the Case Study – Quantifying Drift Invertebrates 
+in River and Estuary Systems located in the appendix of this booklet. 
+
+There are no questions beyond this point 
+
+10 of 14 
+
+ 
+ 
+ 
+ 
+ 
+Appendix A: Case Study – Quantifying Drift Invertebrates in River and Estuary 
+Systems 
+
+There are no questions in this appendix. You may detach this appendix for ease of 
+answering the questions that pertain to the Case Study. 
+
+This case study is based on an Innocentive design challenge --  Challenge ID: 9933647 
+
+Substantial parts of this text are copied from the published challenge.  However, it has been modified 
+for use as a case study in APS111. 
+
+Habitat restoration, improvement, and creation in rivers, streams, and estuaries are key elements for 
+the recovery of salmon, trout, and other critical fish species in the North America. Millions of dollars are 
+spent annually on activities such as manipulating flow regimes, adding structural elements such as wood 
+or rock, reconnecting rivers with their floodplains, and restoring wetlands. A critical aspect in evaluating 
+the effectiveness of these habitat manipulations is understanding how they influence the food resources 
+available to critical fish species targeted for recovery and protection. Yet despite its importance, 
+quantification of food resources has proven difficult.  
+
+The Bureau of Reclamation, in collaboration with other federal agencies (NOAA-National Marine 
+Fisheries Service, U.S. Geological Survey, U.S. Fish and Wildlife Service, and U.S. Army Corps of 
+Engineers) is seeking a way to economically detect, count, and identify zooplankton and drift 
+invertebrates in river and estuary systems. Problems identified that prevent the simple transfer of 
+oceanographic techniques to rivers and streams are higher water velocities, turbidity, higher 
+surface/depth ratio, and costs (time and money). 
+
+Background 
+
+Habitat restoration is considered a key element of fish recovery, and the quality of habitat and food 
+resources available to fish often needs to be evaluated before and after restoration actions. Habitats are 
+often designed to provide increased foraging and rearing habitats at appropriate spatial and temporal 
+scales. Accurate food counts, such as zooplankton and drift invertebrates, are instrumental in fish 
+habitat evaluation and restoration in our rivers and streams. Although technology has been developed 
+for automated detection and identification of zooplankton and drift invertebrates in oceanographic 
+settings, they have not been developed for the unique environmental conditions in rivers and estuaries. 
+  High flow rates and turbidity cause problems with automated visual systems used today. The main 
+obstacle in estuaries is turbidity while the main obstacle in river systems is flow velocity.  In addition, the 
+horizontal nature of rivers invokes problems not encountered in deep ocean waters (e.g., sunlight 
+effects at the surface of water and the mixing of food sources throughout the water column in rivers 
+due to turbulence as opposed to more stratified food webs in ocean waters).  We would like to identify 
+devices/methods that can detect, count, and identify zooplankton and drift invertebrates in an 
+economical way in rivers and estuary systems. Measurements of this type are currently time-intensive 
+
+11 of 14 
+
+ 
+ 
+ 
+ 
+and expensive, especially for juvenile salmon in a highly dynamic and complex system such as the 
+Sacramento-San Joaquin Delta (California). 
+
+Traditional sampling methods involve the use of towed nets (for slow-moving water) or stationary nets 
+(for fast-moving water) that collect organisms from the water column. Both the field collection of 
+samples and the subsequent sorting and identification of collected invertebrates are time-intensive and 
+expensive, and agencies lacking technical expertise must often rely on outside experts to process 
+samples. Because of the high costs associated with these traditional methods, the spatial and temporal 
+extent of sampling is often inadequate to characterize food availability at scales that are biologically 
+relevant.  
+
+In the marine science community, significant advances have been made in plankton monitoring through 
+the use of devices that capture high-resolution images of particles (>100 µm) and invertebrates. These 
+devices produce a catalog of time-stamped images that can be processed to various taxonomic levels 
+with image analysis software, allowing the abundance of organisms in a known volume of water to be 
+quantified.  
+
+Analogous technologies for freshwater environments do not exist, but could be developed to 
+continuously monitor the prey abundances and dynamics in key locations for migrating and rearing 
+fishes. Pilot systems have been tested in the freshwater environment, but there have been problems 
+with image capture, leading to poor image quality (blurred) and poor identification (low probability of 
+differentiating target organisms from drift algae, detritus and other materials).   
+
+The difficulties during the pilot were likely caused by 
+
+•  High water velocity 
+• 
+Low water clarity (turbidity) 
+•  Small target size (1-20 mm)  
+
+Another big difference between the marine ocean environment and the freshwater and estuarine 
+environment is that ocean monitoring tends to be vertical (in the water column) and items on the 
+surface are not a large percentage of the whole so they can be ignored. In a stream, items on the surface 
+are a high percentage of the overall water column, and sunlight at the surface affects the imaging 
+equipment considerably. It is difficult to get accurate measurements if targeted items on the surface are 
+ignored.  
+
+The Challenge 
+
+A device/method is sought that could be deployed to collect data continuously (over hours, preferably 
+days) to capture tidal and day/night variation in prey abundance in rivers and streams. By 
+simultaneously deploying multiple units, scientists could measure important spatial and temporal 
+variation such as depth stratification and source/sink food web dynamics.  
+
+The device/method must detect, count, and identify drift invertebrates automatically in a size range of 1 
+to 20 mm in a cost effective method.  
+
+12 of 14 
+
+ 
+ 
+ 
+Things to Avoid 
+
+1.  Equipment made today for oceanographic study – although a good place to start, we are 
+familiar with what exists and our Challenge is to go beyond what exists for our particular 
+problems in freshwater systems. 
+
+2.  A simple list of equipment without explanation of how they work in concert will not suffice as a 
+
+description of the system.  
+
+Any proposed solution should meet the following specifications:  
+
+1.  The device/method should be able to: 
+
+a.  Detect representative samples of drift invertebrates (1-20 mm). This should include those 
+
+targeted items floating on the surface to a high degree as well as those in the water column. 
+Representative samples of drift invertebrates in California and other localities are available 
+at the California Department of Fish and Wildlife’s Aquatic Bioassessment Laboratory digital 
+reference collections. (http://www.dfg.ca.gov/abl/Lab/referencecollection.asp). 
+
+b.  Count the targeted items in samples (sort out debris from targeted zooplankton and 
+
+invertebrates to minimize false positives) 
+
+c. 
+
+Identify the number and taxonomic family (or groups of morphologically similar families) of 
+specimens detected (NOTE: exact identification of each species is not as critical as 
+identification of the total amount of food available to fish). 
+
+2.  This must be accomplished under the following conditions: 
+
+a.  Velocities between 0 and 1.5 meters per second. 
+
+b.  Turbidity between 0 and 100 NTUs. 
+
+c.  Function in shallow water (less than 1 m) and deep water (up to 20 meters). 
+
+d.  Function over a long period of continuous deployment (greater than24 hours but preferably 
+
+many days). 
+
+e.  Operate without natural light (at night or dark spaces, provides own light source as needed). 
+
+f.  Operate under bright light conditions near the surface in the daytime.  
+
+3.  If the device is submersible in water, it should be durable enough to be deployable when towed 
+
+off a boat.  
+
+4.  If optical, it should be able to capture images without a blur.  
+
+5.  The device/method should be able to accurately count and identify available drift invertebrates 
+
+(food) with 95% accuracy.  
+
+6.  The device/method should be able to measure the size of each target item within 0.5 mm or 
+
+10% of item size.  
+
+7.  The total cost of the equipment should be targeted to not exceed $100K when produced in 
+
+larger quantities.  
+
+13 of 14 
+
+ 
+ 
+8.  The proposed system should offer the Seeker client “freedom to practice”. There should be no 
+
+third party patent art preventing the use of specific equipment and materials for their 
+commercial application.  
+
+Nice to have 
+
+Include ability to measure flow entering device, such that number of food particles per volume of water 
+is estimable. 
+
+Some examples of drift invertebrates are shown below:  
+
+These photos show some food sources available to fish in streams: a) mayfly, Ephemeroptera, family 
+Baetidae, b) stonefly, Plecoptera, family Perlidae, and c) caddisfly, Trichoptera family Hydropsychidae.  
+
+Photos taken from http://www.dfg.ca.gov/abl/Lab/california_referencecollection.asp  
+
+14 of 14 
+
+ 
+ 
+

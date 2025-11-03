@@ -1,0 +1,362 @@
+1 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+Department of Electrical and Computer Engineering 
+
+ECE110S – Electrical Fundamentals 
+Term Test 1 – February 5, 2015, 6:30 – 8:00 p.m. 
+
+(e = 1.6 ×10-19 C, ε0 = 8.85 ×10-12 F/m, μ0 = 4π×10-7 H/m, g = 9.81 N/kg) 
+
+ANSWER ALL QUESTIONS ON THESE SHEETS, USING THE BACK SIDE IF NECESSARY. 
+1.   Non-programmable calculators (Casio FX-991MS & Sharp EL-520X) are allowed. 
+2.  For full marks, you must show methods, state UNITS and compute numerical answers when  requested. 
+3.  Write in PEN. Otherwise, no remarking request will be accepted. 
+4.  There is one extra blank page at the end for rough work. 
+
+Last Name: ____________________________________________________ 
+
+First Name:  ____________________________________________________ 
+
+Student Number: ________________________________________________ 
+
+Tutorial Section: 
+ (YOU LOSE ONE MARK FOR NOT MARKING YOUR TUTORIAL SECTION CORRECTLY) 
+
+01  GB405  Mon. 1-3 p.m. 
+
+02  BA1210  Fri. 4-6 p.m. 
+03  WB342  Fri. 1-3 p.m. 
+
+04  GB304 
+
+Thu. 1-3 p.m. 
+
+05  GB304  Wed. 12-2 p.m. 
+
+06  WB342  Wed. 12-2 p.m. 
+
+07  BA1200  Fri. 4-6 p.m. 
+
+08  WB342  Mon. 3-5 p.m. 
+
+09  RS208 
+
+Fri. 4-6 p.m. 
+
+10  SF2202  Wed. 4-6 p.m. 
+
+11  SF3201  Thu. 10-12 p.m. 
+12  WB342  Wed. 4-6 p.m. 
+
+Question 
+
+Mark 
+
+1 
+
+2 
+
+3 
+
+TOTAL 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q1 [10 marks] Two stationary charges, one of 1.0 μC and the other of 4.0 μC, are separated by a distance of 
+10 cm as shown in the figure below. 
+
+a) On the diagram below sketch the E-field lines between the charges. (3 marks) 
+
+2 
+
+x = 0 cm 
+
+1.0 μC 
+
+x = 10 cm 
+
+4.0 μC 
+
+x 
+
+b) Determine the location of the point between the charges on the x-axis where the E-field is zero? (3 marks) 
+
+ (cm) 
+
+10
+3  
+
+c) A third charge of -2.0 μC is placed mid-way between the two positive charges. Calculate the total force on 
+this new charge. (4 marks) 
+
+(N) 
+
+21.6𝑖 
+
+Q2 [10 marks] Consider two concentric conductors, an inner sphere of radius a and an outer spherical shell 
+of radius b as shown in the figure. The inner sphere has a positive charge and the outer spherical shell has a 
+
+negative charge equal in magnitude to that of the inner sphere.  
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
++ 
++ 
++ 
+
++  +  + 
+a 
++ 
++ 
++ + 
+
++ 
+
+_ 
+
+b      
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+a) What is the electric field anywhere in the space outside of 
+the outer spherical shell? (1 marks) 
+
+zero 
+
+b) For a = 2 cm and b = 7 cm, if the magnitude of the electric 
+field is 3×106 N/C at radius r = 5 cm in the space between the 
+two concentric conductors, what is the charge on each of these 
+conductors? (3 marks) 
+
+8.34 x 10-7 (C) 
+
+c) Derive the capacitance of this system of conductors (Note: an expression in terms of a and b is required). 
+(4 marks) 
+
+4𝜋𝜀0
+1
+1
+𝑎−
+𝑏
+
+𝑐 =
+
+d) Assume that the outer shell has a diameter that approaches infinity, what is the energy stored in the center 
+conductor if its radius is equal to the radius of earth (6.371 x 106 m)? (2 marks) 
+
+4.91 x 10-10 (J) 
+
+ 
+ 
+ 
+ 
+ 
+      
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+
+Q3 [10 marks]  
+
+a) The rectangle shows the top view of a copper slab of length L and thickness T (thickness T not shown in 
+the figure) placed in a uniform magnetic field (
+) pointing into the page.  Please note that the copper slab is 
+non-deformable. A constant current I is passed through the copper slab from the bottom to the top (wires 
+bringing the current into and out of the slab are not shown). Moreover, a voltmeter is connected to the 
+rectangular slab at locations labeled C and D. Circle the correct observation listed below and justify your 
+answer. (4 marks) 
+
+𝑩��⃗
+
+i) Electrostatic potential (i.e. voltage) at C is higher than D.  
+ii) Electrostatic potential (i.e. voltage) at C is lower than D.  
+iii) Electrostatic potential (i.e. voltage) at C is the same as D.   
+
+  e- are moving from top to bottom, 
+      force on e- are pointing from right 
+      to left, e- will accumulate on left side 
+
+x        x        x        x        x        x         
+
+x        x        x        x        x        x 
+I 
+𝑩��⃗
+x        x        x        x        x        x 
+
+D 
+
+C 
+
+x        x        x        x        x        x 
+
+x        x        x        x        x        x  
+
+x        x        x        x        x        x 
+
+Voltmeter 
+
+L 
+
+b) Figure below shows a straight metallic wire (in the shape of a cylinder) placed in a uniform magnetic field 
+of B = 1.5 T pointing into the page. A current I0 flows through the wire (connections are not shown) and the 
+wire is elevated from the floor. If mass density of the wire (ρ
+o) is 8920 kg/m3 and wire radius is 0.5 cm, what 
+is the magnitude and direction (from left to right or from right to left) of the current needed to keep the wire 
+afloat above the floor. (6 marks) 
+{Hint: magnitude of the gravitation force on an object is given by: 
+mass and g is a constant equal to 9.81 m/s2} 
+
+, where m is the object’s total 
+
+𝑭𝑮 = 𝒎 𝒈
+4.577 (A) from left to right 
+
+B = 1.5T 
+
+x        x        x        x        x        x        x        x        x        x        x        x         
+
+x        x        x        x        x        x        x        x        x        x        x        x         
+
+0.5cm 
+
+x        x        x        x        x        x        x        x        x        x        x        x  
+
+x        x        x        x        x        x        x        x        x        x        x        x  
+
+Floor 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+

@@ -1,0 +1,469 @@
+Name:________________________________ 
+
+ Student #:________________________ 
+
+University of Toronto 
+Faculty of Applied Science and Engineering 
+APS112 and APS113 Engineering Strategies and Practice II 
+
+Quiz #1 February 14, 2014 
+
+This is a 50-minute closed-book quiz. No aids are permitted except for a translation-only dictionary. 
+The quiz has a total of 18 questions. There are 14 multiple-choice questions and 4 written answer 
+questions. There are a total of 30 marks with 14 marks for the multiple-choice questions and 16 
+marks for the written questions.  
+
+Your question paper, with your name and student number filled in on each page, must be returned 
+
+with the multiple choice answer sheet slipped inside. Do not separate any pages. 
+
+Good Luck! 
+
+Written Answer Mark Breakdown 
+
+Marks 
+
+Question 
+15 
+16 
+17 
+18 
+Total 
+
+Possible Marks 
+6 
+2 
+4 
+4 
+16 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 1 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+ Student #:________________________ 
+
+Multiple Choice Questions (1 mark each; total of 14 marks) 
+For multiple choice questions, you must use the multiple choice answer sheet provided – fill in your 
+
+name and student number. Follow the directions on the sheet carefully to ensure that you receive 
+marks for the correct answer. You should mark only the single, most correct answer for each 
+question. Always mark the answer in the spot corresponding to the question number. Use a 
+pencil. Erase any errors completely. There is no deduction for wrong answers. 
+
+1.  In the following PERT diagram, if converted to a “activity on the arrow” form, we want to know if 
+
+dummy tasks are required. What would be required: 
+
+a.  No dummy task 
+b.  A dummy task because of the link between A and B. 
+c.  A dummy task because of the link between C and E. 
+d.  A dummy task because of the link between D and E. 
+e.  A dummy task because of the link between D and F. 
+f.  A dummy task because of the link between E and G. 
+
+B 
+
+C 
+
+A 
+
+D 
+
+E 
+
+F 
+
+G 
+
+Questions 2 through 5 use the following Gantt chart for a swimming pool installation: 
+
+1 
+
+2 
+
+2. 
+
+At arrow #1, task #2 takes 3 days but extends over 5 days. This could be because of (choose the 
+most complete answer): 
+
+a.  the resources doing the task are involved in other tasks of the project and leveling has meant that 
+
+the task goes longer 
+
+b.  that task #2 the resources involved in the task are not available weekends 
+c.  task #2 is more difficult than was first planned so the actual time is taking longer 
+d.  a and b are both possible 
+e.  a, b and c are all possible 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 2 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+ Student #:________________________ 
+
+3. 
+
+At arrow #2 there is a gap between tasks 8 and 9. This indicates: 
+
+a.  a lag of two days between the tasks 
+b.  a lead of two days between the tasks 
+c.  resources being unavailable for the two days 
+d.  slack or float time 
+e.  none of the above 
+
+4. 
+
+The following tasks are on the critical path: 
+
+a.  1,2,3 
+b.  1,2,4 
+c.  1,5,6 
+d.  1,2,5 
+e.  none of these combinations 
+
+5. 
+
+If it was found that task #8 (at arrow #2) was extended one day, but the resource person doing the 
+task was willing to work overtime to finish on time, then the Gantt chart would show that : 
+
+a.  the project would finish one day sooner 
+b.  the project would finish one day later 
+c.  the project would finish at the same time (no change in the Gantt chart) 
+d.  the project would finish at the same time (with change in the Gantt chart) 
+e.  task #8 would start on the Thursday instead of the Friday 
+
+6. 
+
+Regarding the PRPMP, which of the following is TRUE?  
+a.  Functions are verbs that indicate what the design will do.  
+b.  The Project Management Plan must tell the client everything the team has done.  
+c.  Stakeholders who are hostile to a design have no interest connected to it. 
+d.  The Executive Summary functions as an introduction to the report.  
+
+7. 
+
+If the functional basis for the design of a door lock is “to secure mass,” an appropriate secondary 
+function would be: 
+a.  To reduce break-ins 
+b.  To enable safety 
+c.  To release the lock 
+d.  Not to allow entry 
+
+8. 
+
+You are searching for a highly specialized diamond tipped cutter for cutting granite countertops. It 
+is not the type of thing that could be found at the local hardware store. You should: 
+
+a.  Use an industrial database like Thomas Register or Global Spec. 
+b.  Find a Wikipedia article on cutting wheels.  
+c.  Do a Google search for “diamond tip cutters”. 
+d.  Review the patent literature to learn about cutters.  
+e.  Start by brainstorming new designs for cutters before doing any homework. 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 3 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+ Student #:________________________ 
+
+9. 
+
+You are working on a project to create a recreational space in a shelter for homeless women and 
+one of the requirements is a smoking area. One of your team members, Lee, has ethical concerns 
+about this and says, “Smoking is unhealthy. We should not contribute to a bad habit.” The kind of 
+Critical Thinking associated with the Project Requirements is shown in which of the following 
+statements that you might make to Lee? 
+
+a.  We should put it in the design because even though smoking isn’t healthy, it’s not illegal and these 
+
+are adults.  
+
+b.  You’re right. Let’s ask our Project Manager to talk to the client to get this requirement removed. 
+c.  We should put it in the design because we have to take the context of these women’s lives into 
+
+account. They are dealing with large problems. 
+
+d.  We have to put it into the design, because the client has asked for it. 
+
+10. 
+
+ Although the belt sander-based paper folder demonstrated in lecture worked, it was ultimately a 
+poor design compared to a buckle folder.  The most likely way for next year’s class to “invent” the 
+buckle folder (i.e. without any prior knowledge of how it really works) is: 
+
+a.  Get together in larger groups to produce more variability of ideas.  
+b.  Use biological analogies to spark creative ideas about folding. 
+c.  Attempt to mimic the manual methods as closely as possible. 
+d.  Start by unstructured brainstorming to obtain the widest set of possible solutions. 
+e.  Do a functional decomposition and focus on each part of the process independently.  
+
+11. 
+
+You are an experienced design engineer and you are asked to design a new underwater stabilizing 
+fin for a luxury yacht, a field of design you are not particularly familiar with. You want the most 
+efficient design with the least amount of drag. Which of the following statements is FALSE: 
+
+a.  You should look for inspiration in other engineering designs – airplanes, windmills, hydrofoils, etc.  
+b.  You should look for inspiration in nature, such as the fin of a whale. 
+c.  You should employ a variety of creative thinking techniques to avoid functional fixation. 
+d.  You should brainstorm possible configurations before looking at reference designs in order to 
+
+avoid fixation. 
+
+e.  You should start with more general references on fin design, and then build towards more specific 
+
+references.  
+
+12.  Design for safety is a key DFX principle. Which of the following statements is FALSE? 
+
+a.  Designing for Safety should be left to near the end of the design process, so that a full inventory of 
+
+potential hazards is known. 
+
+b.  Risk depends on the severity of a hazard and the probability that it will materialize. 
+c.  Safety is a highly regulated field and there are often Codes and Standards to consider. 
+d.  Engineers can be held accountable for accidents if they did not display a reasonable standard of 
+
+care in the design. 
+
+e.  Safety factors are commonly used to reduce the probability of failure.  
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 4 of 8 
+
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+ Student #:________________________ 
+
+13. 
+
+The theory of inventive problem solving (TRIZ) involves: 
+
+a.  Finding appropriate biological analogies. 
+b.  Working in a group using a set of well defined critical questions. 
+c.  Using a limited set of well-defined inventive principles to solve new problems without 
+
+compromises. 
+
+d.  Combining, Maximizing, and Eliminating parts of design solutions to derive new solutions. 
+e.  A visualization technique in which coloured markers are used to identify functionally distinct parts 
+
+of a design.  
+
+14. 
+
+You have just received a client problem statement, and it describes a problem of flooding in an 
+underground parking garage owned by the client, together with a statement that the client would 
+like you to source an appropriate pumping system to deal with this. Before you meet your client 
+for the first time, you should: 
+
+a.  Do a detailed search for appropriate pumps to show the client that you are well prepared for the 
+
+job.  
+
+b.  Do some background reading on flooding in engineered structures and the various ways to deal 
+
+with this.  
+
+c.  Interview some key stakeholders including the clients and maintenance staff to get the true story 
+
+about the problem. 
+
+d.  Brainstorm a set of design solutions and prepare a short report highlighting your preferred choice.  
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 5 of 8 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Name:________________________________ 
+
+ Student #:________________________ 
+
+Written Answer (marks per question as indicated on question; 16 marks total) 
+
+Write answers into the spaces provided on the question paper. 
+
+Questions 15 – 17 refer to the following client statement: The client is a business person, starting up a 
+new factory to make plastic snow toboggans (sleds) at the minimum possible cost. In the factory, 
+1.5 mm thick sheets of plastic have to be heated to 150oC so that they are soft, and then formed 
+to the shape of the toboggan (see the figure). The client asks you to design a press to allow a single 
+production worker to do this.    
+
+15. (6 MARKS) List two objectives, two constraints and two stakeholders that would be appropriate 
+
+for this design.  
+
+OBJECTIVES: 
+
+CONSTRAINTS: 
+
+STAKEHOLDERS: 
+
+16.  (2 MARKS) A worker in the factory is supposed to wear safety boots with steel toes while 
+
+operating the press. One day, her supervisor notices that she is wearing running shoes that do not 
+have steel toes. 
+
+Describe one obligation of the worker and one obligation of the supervisor in a case like this. Full 
+sentences are not required. 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 6 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Name:________________________________ 
+
+ Student #:________________________ 
+
+17. (4 MARKS) One way of forming plastic or metal sheets is to use matched steel dies that come 
+together with the plastic in-between to form the final shape. Such presses could be very 
+dangerous; for example, they could crush a worker’s arm. You are to design a forming process that 
+is as safe as possible.  
+
+a)  Could the crush hazard be eliminated entirely? Show some evidence of structured creative 
+
+thinking. 
+
+b)  If the crush hazard is not eliminated, how could you guard against the hazard to protect workers? 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 7 of 8 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:________________________________ 
+
+ Student #:________________________ 
+
+18. (4 MARKS) Estimation Question: 
+
+How many metric tonnes (1 tonne = 1000kg) of salt does the City of Toronto use on its roads 
+annually? Estimate this amount using reasonable assumptions based on your personal knowledge and 
+the information provided here. Salt has a density of ~ 2 tonnes/m3, and the city has an area of          
+630 km2. You don’t have to get the exact answer, obviously, but you do have to compute a number, 
+and show an appropriate method of making this estimation. You may earn a bonus mark if you can 
+suggest a way of being sure that your answer is reasonable, without using any additional information. 
+
+WRITE YOUR FINAL ANSWER (in Tonnes) HERE: 
+
+APS112 & APS113 – Quiz #1 – 2014 
+
+Page 8 of 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+

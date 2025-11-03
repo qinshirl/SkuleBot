@@ -1,0 +1,1066 @@
+FADDF354 -9D96-4691AE83526ODF2 
+
+final-exam-d7bfe 
+
+l381 
+
+1 of  14 
+
+UNIVERSITY OF TORONTO 
+
+Faculty of Applied Science and Engineering 
+
+CIVIOOF and APSI60F - MECHANICS 
+
+Final  Examination - Sections 1, 2, 3, 4, 5, 6, 7, 8 and Online 
+
+J1 
+
+Wednesday, 12" December 2018 
+
+Examiner: Staff in  Civil Engineering 
+
+Time allowed: 2-V2  hours 
+
+SURNAME: 
+
+GIVEN NAME(S): 
+
+(Please print clearly) 
+
+STUDENT NUMBER: 
+
+DEPT. (ECE, Track One, etc.) 
+
+CIRCLE YOUR SECTION AND THE NAME OF YOUR INSTRUCTOR: 
+
+El-Diraby, Tamer 
+
+5. Bruun, Edvard 
+
+Online. Seica, Michael 
+
+Packer, Jeffrey 
+
+6. Saxe, Shoshanna 
+
+Seica, Michael 
+
+Packer, Jeffrey 
+
+7. Mercan, Oya 
+
+8. Panesar, Daman 
+
+CIRCLE YOUR CALCU LATOR TYPE: 
+
+CASIO 991 
+
+SHARP 520 
+
+Notes: 1. Ensure that you  have all 14 pages of the examination paper. Page 14 is blank. 
+
+Answer all five questions. The value of the questions is indicated below. 
+If you need more space for a question, continue on the page indicated at the bottom. 
+
+The only calculators permitted are listed above. Please circle your model. 
+This is a closed-book examination. No other paper will be allowed on the desk. 
+
+Do not remove the staple. 
+
+DO NOT WRITE IN TI-ItS SPACE. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+TOTAL 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/12 
+
+/60 
+
+EE745B7C-5E83 -422B-927A-9483AAFFCFBS 
+
+final-exam-d7bfe 
+
+#381 
+
+2  of  14 
+
+NAME: 
+
+Page -2  of 14 
+
+1. For the truss shown, determine the force in each of the members AB, BD, CE and  EL-I.  indicate if the 
+members are in tension or compression. Members AB, AC and CE must have the same rectangular cross-
+section and are made of Grade 606 1-T4 aluminium with a yield stress of 110 MPa. They are cut from 6 
+mm thick aluminiurn plate using a saw which can be adjusted to cut the plate in width multiples of 6 mm. 
+Determine the width, b, of the single cross-section for these members assuming a load factor for axial 
+tension of 1.8. What will be the elongation of member AC, if the modulus olelasticity for aluminium is 
+69,000 MPa? 
+
+4 
+
+Solution can be continued on Page 3 
+
+2EFE0351-05C2-4C5E-a1C3-49650560CB3F 
+
+ [Nil D RI 
+
+final -exarn-d7bfe 
+
+#381 
+
+3 of  14 
+
+- 
+
+E1r 
+
+Page 3 of 14 
+
+NAME: 
+
+Qytion I  can  be continued on this page. 
+
+Solution can be continued on Page 14 
+
+69778C65-BD54-4aDE-90E9-4CGA1517DA74 
+
+E!J 
+..,  final-exam-d7bfe 
+
+#381 
+
+4  of  14 
+
+- N 
+
+N 
+
+NAME: 
+
+Page 4 0 114 
+
+2. The light (i.e. its weight can be neglected) bent bar ABCDE is supported by a hall-and-socket joint at  E. 
+The ball support at D provides a translational restraint only in the i' direction, while the guided roller 
+support at A  allows translation only in the x direction. The bar lies in a plane parallel to the x-z  plane (ABC 
+is parallel to the z axis and CDE is parallel to the x axis) and the support at F is in  the x-z  plane. Using a 
+turnbuckle, the cable BF is tightened until the tension in it has a magnitude of 70 kN. Determine the 
+reaction force components at A, D and  E, and express the reaction forces in Cartesian vector 1'oniiat. 
+
+F 
+
+Ca61e 
+
+I  o 
+
+44 m 
+
+E 
+
+IUtA 
+
+B 
+
+R 
+
+It' I 
+
+Solution can be continued on Page 5 
+
+4B7C1034 -651F-4523-A728-1B8DE3B67626 
+
+final-exam-d7bte 
+
+#381 
+
+5 of 14
+
+J. 
+
+lz W..: 
+
+Page 5 of 14 
+
+NAME: 
+
+Onestion 2 can be continued on this page. 
+
+Solution can be continued on Page 14 
+
+4AF2ADEB-E24A-45D6--A4AO-FD4609FE8C65 
+
+final- exam- d7bfe 
+
+4381 
+
+6 of  14 
+
+NAME: 
+
+Page 6 ot'14 
+
+3. The man using the exercise machine is holding the 350 N weight stationary in position, as shown. 
+Determine all of the reaction components at the supports of the machine. The supports at E and G are 
+fixed, and the frame is pinned at F. Note that A and C are pin connections and the two pulleys at B and  D 
+are frictionless. 
+
+65() mm  -+- 600 mm  ±50 mm j 
+
+4 
+
+H- 
+
+225 n 
+
+18 
+
+Solution can he continued on Page 7 
+
+C5366372-AB91-422A-8D15-DCD3E638C71  L!1  E1 
+
+final-exam-d7bfe 
+
+#381 
+
+7  of  14 
+
+NAME: 
+
+Page 7 of 14 
+
+Question 3 can be continued on this page. 
+
+Solution can be continued on Page 14 
+
+F6CD1F60-7C61-47013-837A--390139C37EBF 
+
+pc 
+
+#381 
+
+final-exam-d7bfe 
+
+8 of  14 
+
+NAME: 
+
+Page 8 o114 
+
+4. The 6-metre long light (i.e. its weight can be neglected) gate ABCD retains sea water having a mass 
+density of 1,050 kg/m'. Determine the components of the reaction forces on the gale at the hinge at/i and 
+the vertical roller support at D. Neglect any potential eftects of the marine fauna and objects. 
+
+le  5- m 
+
+5;" 
+
+14 m 
+
+Solution can be continued on Page 9 
+
+3A6DE8CB-7780-48B7-P9C8-344F611F163A 
+
+final-exam--d7bfe 
+
+#381 
+
+9 of  14 
+
+II%.
+'  
+
+Page 9 of 14 
+
+NA NI E: 
+
+Question 4 can be continued on this page. 
+
+Solution can be continued on Page 14 
+
+8BD8F808-868F-487F-89DF-B7D2D849F8A6 
+
+final -exrn-d7bfe 
+
+#381 
+
+10 of  14 
+
+NAME: 
+
+Page 10ol14 
+
+5. The device shown is used in a factory to support a load at D. In the space provided draw shear force and 
+bending moment diagrams for the beams AB and CD, indicating the values of the internal forces at 
+relevant points. Neglect the size of the rollers at B and C. 
+The device must be made from the same wide-flange steel section which, due to space limitations, must be 
+oriented as shown and must not have a depth, d that exceeds 200 mm. Determine the same efficient wide-
+flange section for the two beams using Option A. Reinforce the wide-Flange section, where necessary, 
+using Option B. In the latter case, determine the minimum length, I, of the additional steel plates welded to 
+the W-section. The yield stress for this steel is 300 MPa and the load factor for bending is 2.0. Section 
+properties for wide-flange sections are provided on page 12. 
+
+6svm7oN  or Be,  Sçs- ti 
+
+VJEcT;OW 
+
+Km 
+
+&It1 
+
+OFT/ON f 
+
+4 
+
+6 
+
+'4 
+
+ck4IM 
+
+Solution can  he continued on Page II 
+
+ 
+C58AA832-FD46-497C-9532--2F9F7AC32897 
+
+final -exam-d7bfe 
+
+#381 
+
+11 of  14 
+
+NAME: 
+
+Page 11 of 14 
+
+Question 5 can be continued on this page. 
+
+Solution can be continued on Page 14 
+
+ -'[j] DFCAAD60-7OD7-44AO-8370-4SF7DF183523 
+
+E!J 
+
+final-exam-d7bfe 
+
+#381 
+
+12 of 14 
+
+.  U. 
+
+NAME: 
+
+Page 12o114 
+
+Wide-Flange Beams (ST Units) 
+
+FLANGE 
+
+Depth 
+(mm) 
+
+- 
+
+Width 
+(mm) 
+
+- 
+
+Thick- 
+ness 
+(man) 
+
+Web 
+'hick- 
+ness 
+(mm) 
+
+___
+
+I 
+(106  
+mm4) 
+
+_ 
+
+AXIS X-X 
+S 
+(10 
+mm3) 
+
+912 
+915 
+855 
+851 
+840 
+
+770 
+753 
+695 
+684 
+
+611 
+612 
+603 
+543 
+544 
+533 
+472 
+463 
+463 
+
+431 
+415 
+407 
+399 
+
+368 
+361 
+347 
+352 
+
+323 
+308 
+310 
+313 
+260 
+257 
+266 
+258 
+
+210 
+203 
+201 
+206 
+162 
+160 
+127 
+
+106 
+
+418 
+305 
+400 
+294 
+292 
+268 
+266 
+355 
+254 
+
+324 
+229 
+179 
+
+312 
+212 
+209 
+
+283 
+280 
+192 
+
+265 
+260 
+178 
+140 
+373 
+257 
+203 
+171 
+
+309 
+305 
+205 
+166 
+
+256 
+204 
+148 
+146 
+
+205 
+203 
+165 
+102 
+154 
+102 
+127 
+
+103 
+
+32.0 
+25.9 
+29.2 
+26.8 
+21.7 
+25.4 
+19.3 
+24.8 
+18.9 
+
+19.1 
+19.6 
+15.0 
+
+20.3 
+21.2 
+15.6 
+
+22.1 
+1 7.3 
+17.7 
+
+25.0 
+16.9 
+12.8 
+8.8 
+
+23.9 
+21.7 
+13.5 
+9.8 
+
+22.9 
+5.4 
+16.3 
+11.2 
+
+17.3 
+157 
+13.0 
+9.1 
+
+14.2 
+11.0 
+10.2 
+8.0 
+11.6 
+10.3 
+9 1 
+
+8.8 
+
+19.3 
+16.5 
+18.2 
+16.1 
+14.7 
+15.6 
+13.8 
+15.4 
+12.4 
+
+12.7 
+I L9 
+10.9 
+
+12.7 
+13.1 
+10.2 
+
+13.6 
+1 0.8 
+10.5 
+
+14.9 
+10.0 
+7.7 
+6.4 
+
+15.0 
+13.0 
+7.7 
+6.9 
+
+14.0 
+9.9 
+9.4 
+6.6 
+
+10.7 
+8.9 
+7.6 
+6.1 
+Q 1 
+7.2 
+6.2 
+6.2 
+
+8.1 
+6.6 
+6.1 
+
+7.1 
+
+6245 
+4060 
+4785 
+3395 
+2795 
+2400 
+1860 
+2345 
+1360 
+
+1290 
+985 
+645 
+1005 
+762 
+554 
+
+728 
+554 
+410 
+
+620 
+397 
+216 
+125 
+
+574 
+367 
+178 
+121 
+
+347 
+222 
+164 
+99.1 
+
+147 
+103 
+70.8 
+49.1 
+60.8 
+45.8 
+34.5 
+20.0 
+
+222 
+13.4 
+8.87 
+4.70 
+
+13715 
+8880 
+11210 
+7980 
+6655 
+6225 
+4900 
+6735 
+3980 
+
+4230 
+3210 
+2145 
+
+3720 
+2800 
+2080 
+
+3080 
+2.395 
+1770 
+
+2870 
+1915 
+1060 
+629 
+
+3115 
+2015 
+1025 
+688 
+
+2145 
+1440 
+1060 
+633 
+
+1095 
+805 
+531 
+380 
+582 
+451 
+342 
+193 
+
+274 
+1 67 
+139 
+895 
+
+Desig- 
+nation' 
+
+W914X342 
+x 233 
+W838 X  299 
+X226 
+X 193 
+W762  X 196 
+X 161 
+W686  x 217 
+X  140 
+ 155 
+X 125 
+X92 
+
+W610 
+
+W533 x 150 
+x 124 
+X92 
+W457 x 144 
+x 113 
+X89 
+
+W406)< 149 
+3<100 
+x 6 
+3< 39 
+
+W356 x 179 
+x 122 
+3< 64 
+x45 
+
+W305 x 143 
+
+3<97 
+x 74 
+3<45 
+W254 3< 89 
+x 67 
+3<45 
+x 33 
+W203  x 60 
+X 46 
+3<  36 
+x 22 
+W152  x 37 
+x 24 
+W127 3< 24 
+W102x 19 
+
+Area 
+(mm2) 
+
+43610 
+30325 
+
+38130 
+28850 
+24710 
+
+25100 
+20450 
+27675 
+37870 
+
+19740 
+15935 
+11750 
+
+19225 
+15675 
+11805 
+
+18365 
+14385 
+11355 
+
+18970 
+12710 
+7615 
+4950 
+
+22775 
+15550 
+8130 
+5710 
+
+18195 
+12325 
+9485 
+5670 
+11355 
+8580 
+5705 
+4185 
+
+7550 
+5890 
+4570 
+2865 
+4735 
+3060 
+3020 
+
+2470 
+
+r 
+(mm) 
+
+378 
+366 
+356 
+343 
+335 
+310 
+302 
+290 
+277 
+
+257 
+249 
+234 
+
+229 
+220 
+217 
+
+199 
+196 
+190 
+
+180 
+177 
+168 
+159 
+
+158 
+154 
+148 
+146 
+
+138 
+134 
+132 
+132 
+
+112 
+10 
+II 
+108 
+89.7 
+88 1 
+867 
+83.6 
+
+66 
+66.0 
+541 
+37 
+
+I 
+(106  
+mm") 
+
+391 
+123 
+312 
+114 
+90.7 
+81.6 
+60.8 
+184 
+51,6 
+
+108 
+39.3 
+14.4 
+
+103 
+33.9 
+23.9 
+
+83.7 
+63.3 
+20.9 
+
+77.4 
+49.5 
+12.0 
+3.99 
+
+206 
+61.6 
+18.8 
+816 
+
+112 
+72.4 
+234 
+
+845 
+
+48.3 
+22.2 
+6.95 
+4.75 
+20.4 
+15.4 
+76! 
+1.42 
+
+712 
+184 
+3.13 
+61 
+
+AXIS Y-Y 
+S 
+(I0 
+rnlrl3) 
+
+r 
+(mm) 
+
+1870 
+805 
+1560 
+775 
+620 
+610 
+457 
+1040 
+406 
+
+667 
+342 
+161 
+
+660 
+320 
+228 
+
+592 
+452 
+218 
+
+585 
+380 
+135 
+57.2 
+
+1105 
+480 
+185 
+95.4 
+
+728 
+477 
+228 
+102 
+
+377 
+218 
+94.2 
+65.1 
+200 
+152 
+92.3 
+27.9 
+
+91,9 
+36.1 
+49,2 
+
+31 
+
+94.7 
+63.5 
+904 
+62.7 
+60.7 
+57.2 
+54.6 
+81.5 
+53.8 
+
+73.9 
+49.5 
+35.1 
+
+73.4 
+46,5 
+45.0 
+
+67.3 
+66.3 
+42.9 
+64.0 
+62.5 
+39.9 
+28.4 
+
+95.0 
+63.0 
+48.0 
+378 
+
+78.5 
+16.7 
+49. 
+38.6 
+
+65.3 
+51.1 
+34.8 
+33.8 
+
+518 
+51.3 
+40.9 
+22.3 
+
+38.6 
+246 
+32.3 
+
+254 
+
+W  means  wide-flange beam. t'oIioc'cd by the nominal depth in mm, thyn the mac in kn  per mocr of length 
+
+ 
+NAME: 
+
+B48A2276-CF9C-4640B393-8CO8FO797993 
+
+final-exam-d7bfe 
+
+4381 
+
+13  of 14 
+
+E3 
+
+11 
+
+Rl 
+
+Page 13 of 14 
+
+

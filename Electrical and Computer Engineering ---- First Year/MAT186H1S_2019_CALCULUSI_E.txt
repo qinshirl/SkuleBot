@@ -1,0 +1,231 @@
+.1 
+
+Faculty of Applied Science and Engineering 
+University of Toronto 
+
+FAMILY NAME: 
+
+GIVEN NAME: 
+
+STUDENT NUMBER: 
+
+SIGNATURE: 
+
+Time allowed: 2 hours, 30 minutes 
+Total marks: 80 
+No calculators allowed. 
+Examiner: S. Cohen 
+Solutions will be marked for both correctness and clarity. 
+Use the backs of pages when necessary, 
+indicating clearly where solutions continue. 
+
+FORIMARKER'S US ONLY  
+
+QUESTION 
+
+MARK 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+TOTAL 
+
+/20 
+
+/10 
+
+/20 
+
+/10 
+
+/10 
+
+/10 
+
+/80 
+
+Page 1  of 10 
+
+Some warm-up questions: Find the following.  Justify your answers  fully. 
+
+x3 +2x+12 
+-2 3x2  + 4x —4 
+
+ lim  
+x 
+
+[3 marks for a good solution, 1.5 if you resort to L'Hopital] 
+
+The tangent to sin(xy) + 4  = 2x - y at (2,0). 
+
+[4 marks] 
+
+Page 2 of 10 
+
+1 
+
+urn  x' 
+X-4 00 
+
+[5 marks] 
+
+1im,2 (x —2) cos
+
+1  
+- 2)21 
+
+((x 
+
+[5 marks] 
+
+f 0 
+
+—2t• e4t 2 _ 3  dt 
+i 
+
+[3 marks] 
+
+Page 3 of 10 
+
+ 
+2.  Use Riemann sums to evaluate: 
+
+J-1 
+
+You may find the following useful: 
+
+n 
+
+1=n, 
+
+k=1 
+
+[10 marks] 
+
+fl 
+
+- n(n + 1) 
+2 
+
+Y,  k— 
+
+k=1 
+
+12 
+
+k=1 
+
+k2 =  
+
+n(n + 1)(2n + 1) 
+6 
+
+n 
+
+[n(n  + 1)1
+
+2 
+
+k 3  - 
+
+1
+k= 1 
+
+-[  2 
+
+Page 4 of 10 
+
+3. Graph the function f(x) = —2x  - 3 + 
+
+Ix1I 
+
+Organize your solution well. 
+Include all of the important values, including any easy-to-find roots 
+and identify their type (maximum, minimum, etc.). 
+Indicate regions where the function is increasing vs. decreasing, concave 
+up vs. concave down. 
+You have two pages for this problem. 
+
+[20 marks] 
+
+Page 5 of 10 
+
+[Continue Question 3 on this page.] 
+
+Page 6 of 10 
+
+4 
+
+( )ne ship,  The  Ovine,  leaves its  harbor  at 9  pm. 
+It 
+travels  cast  at  40  kph.  At  the moment  it  leaves, a 
+
+-41,  
+
+second  ship.  The  Hapless,  is 100 
+southeast and ti-avellti-ig at  30 kph north. 
+
+km  to 
+
+the 
+
+I  10\v  fast  are  the  ships apjching each  other at 
+
+a 
+10 pm 
+
+-, 
+
+i 
+
+1)  A l  what  time  ate the ships  at  their  Cl( )sesi I 0  each 
+othei 
+
+1  U inarkH 
+
+Page 7 of 10 
+
+5. Ntilkshake is poured into a conical glass with a radius of 5 cm at its to1) and 
+a height of 9 cm. You and your friend decide to split the milkshake - using 
+a straw (set at a constant height above the glass) one of you drinks half of 
+the milkshake (bY volume) and then the other drinks the rest. If you wish 
+to minimize your  \VOik,  should you drink first or second 
+
+Note  that the volume of a C( me is 
+
+- 
+
+7T 1' 
+
+3 
+
+I () narks 
+
+Page 8of 10 
+
+IE 
+
+6. Let a be a parameter with 0 15,  a !~ 6. A triangle with the  vertices  (0,0), 
+(a, 6 - a), and (2a, 0) is rotated about the x - axis. What is the greatest 
+possible volume for the shape created? 
+
+[10 marks] 
+
+Page 9 of 10 
+
+[Extra page for additional work.] 
+
+[0 marks] 
+
+Page 10 of 10 
+
+

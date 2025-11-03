@@ -1,0 +1,517 @@
+Date: May 14, 2025
+Duration: 50 minutes
+
+Name:
+
+e-mail:
+
+Student Number:
+
+Quiz 1
+
+Course: MAT 187 (Calculus II)
+Examiner: Armanpreet Pannu
+
+@mail.utoronto.ca
+
+Instructions
+• This is a Type A assessment and does not allow any external aids.
+• Read all instructions carefully and justify all your answers. No points will be awarded for a correct
+
+answer without justification.
+
+• Read each question carefully. No clarification or content related questions will be answered.
+
+You may use the following space for scratch work or to continue your solutions if you run out of room. If
+you do so, please clearly indicate in the original question that part of your solution appears here.
+
+1. (3 points) A student attempts to evaluate the indefinite integral
+
+x sin(x) dx using integration by
+parts. They choose f (x) = sin(x) and g′(x) = x. Without solving the integral, explain why this
+is likely not a good choice for integration by parts.
+
+´
+
+Solution: With this choice of f (x) = sin(x) and g′(x) = x, we are differentiating sin(x), which
+gives cos(x), and integrating x, which gives 1
+2x2. This results in more complicated expressions
+during the integration by parts process.
+A better choice is to let f (x) = x and g′(x) = sin(x), because differentiating x simplifies to 1, and
+integrating sin(x) yields − cos(x), which simplifies the integrand. This leads to a simpler overall
+computation.
+
+2. (3 points) In class, we evaluated the integral
+
+´
+
+1
+
+1+x2 dx = arctan(x) using trigonometric substitution.
+
+Explain why partial fraction decomposition is not a suitable method for evaluating this integral.
+
+Solution: The denominator 1 + x2 is an irreducible quadratic polynomial as it cannot be factored
+into linear terms using real numbers. Partial fraction decomposition only works when the denom-
+inator can be factored into simpler rational terms. While expressions like
+x2+1 can appear as part
+of a partial fraction decomposition, they are considered terminal forms (can’t be simplified further)
+and require a different approach—such as trigonometric substitution—for integration. Therefore,
+partial fraction decomposition is not suitable here.
+
+1
+
+3. (6 points) Use integration by parts to evaluate the following integral:
+
+ˆ
+
+arctan(x)dx
+
+Solution: Let g′(x) = 1 and f (x) = arctan(x), then:
+
+ˆ
+
+arctan(x)dx = x arctan(x) −
+
+= x arctan(x) −
+
+= x arctan(x) −
+
+= x arctan(x) −
+
+ˆ
+
+1
+2
+1
+2
+1
+2
+
+x
+ˆ
+
+1
+1 + x2 dx
+1
+u
+
+du
+
+ln |u|
+
+ln(1 + x2) + C
+
+u = 1 + x2
+
+MAT187
+
+Page 2 of 4
+
+May 14, 2025
+
+4. (8 points) Evaluate:
+
+ˆ
+
+x4 − x3 − 1
+x2 − x
+
+dx
+
+Solution: First we start with polynomial long division to get:
+
+x4 − x3 − 1
+x2 − x
+
+= x2 −
+
+1
+x(x − 1)
+
+We decompose the remainder term as:
+
+1
+x(x − 1)
+
+=
+
+=
+
++
+
+B
+A
+x
+x − 1
+Ax − A + Bx
+x(x − 1)
+
+Which gives us the system of equations A = −1 and A + B = 0 so B = 1. Overall we get:
+
+ˆ
+
+x4 − x3 − 1
+x2 − x
+x4 − x3 − 1
+x2 − x
+
+= x2 +
+ˆ
+
+1
+x
+
+−
+
+dx =
+
+x2dx +
+
+1
+x − 1
+ˆ
+1
+x
+
+dx −
+
+ˆ
+
+1
+x − 1
+
+dx
+
+=
+
+1
+3
+
+x3 + ln |x| − ln|x − 1| + C
+
+MAT187
+
+Page 3 of 4
+
+May 14, 2025
+
+5. (10 points) Consider a cable suspended between two poles located at x = −a and x = a. The cable
+forms a shape known as a catenary; however, for small sags and engineering approximations, this curve
+can be modeled by a simple parabola:
+
+y(x) =
+
+h
+a2 x2
+
+where a is half the horizontal distance between the poles, and h is the vertical sag.
+Arc Length Formula: The arclength L of a curve y = f (x) from x = a to x = b is given by:
+(cid:115)
+
+ˆ
+
+b
+
+L =
+
+1 +
+
+a
+
+(cid:19)2
+
+(cid:18) dy
+dx
+
+dx
+
+Using the formula above and the given parabola, set up an integral that computes the total length
+of the cable from x = −a to x = a. Then, evaluate the integral and simplify the result as much as
+possible.
+´
+
+Hint:
+
+sec3 θ dθ = 1
+
+2 sec θ tan θ + 1
+
+2 ln | sec θ + tan θ| + C
+
+Solution: We are given the cable is modeled by the parabola: y(x) = h
+d
+dx
+
+a2 x2(cid:1) = 2 h
+(cid:0) h
+
+a2 x. Using the arc length formula:
+ˆ
+
+(cid:115)
+
+a2 x2 and therefore dy
+
+dx =
+
+a
+
+L =
+
+1 +
+
+−a
+
+ˆ
+
+(cid:114)
+
+a
+
+=
+
+1 + 4
+
+−a
+ˆ
+
+(cid:114)
+
+a
+
+(cid:19)2
+
+(cid:18) dy
+dx
+
+dx
+
+h2
+a4 x2 dx
+h2
+a4 x2 dx
+
+1 + 4
+
+= 2
+
+= 2
+
+ˆ
+0
+
+a
+
+0
+
+√
+
+1 + k2x2 dx
+
+Letting k = 2
+
+h
+a2
+
+Let x = 1
+
+k tan θ, so dx = 1
+
+k sec2 θ dθ. Then:
+√
+
+1 + k2x2 =
+
+(cid:112)
+
+1 + tan2 θ = sec θ
+
+Change of limits:
+
+Substituting:
+
+0
+Apply the provided formula:
+
+x = 0 ⇒ θ = 0,
+
+x = a ⇒ θ = tan−1(ka)
+
+ˆ
+
+tan−1(ka)
+
+L = 2
+
+sec θ ·
+
+1
+k
+
+sec2 θ dθ =
+
+ˆ
+
+0
+
+2
+k
+
+tan−1(ka)
+
+sec3 θ dθ
+
+ˆ
+
+0
+
+tan−1(ka)
+
+sec3 θ dθ =
+
+=
+
+(cid:20)1
+2
+(cid:16)√
+
+1
+2
+
+sec θ tan θ +
+
+ln | sec θ + tan θ|
+
+(cid:21)tan−1(ka)
+
+1
+2
+
+1 + k2a2 · ka + ln
+
+(cid:16)√
+
+0
+
+1 + k2a2 + ka
+
+(cid:17)(cid:17)
+
+Therefore:
+
+L =
+
+2
+k
+
+L =
+
+·
+
+1
+k
+
+Recall k = 2h
+
+a2 ⇒ 1
+
+k = a2
+
+2h , so:
+
+√
+
+(cid:16)
+
+ka
+
+1
+2
+
+1 + k2a2 + ln
+
+(cid:16)√
+
+1 + k2a2 + ka
+
+(cid:17)(cid:17)
+
+(cid:16)
+
+√
+
+1 + k2a2 + ln
+
+(cid:16)√
+
+1 + k2a2 + ka
+
+(cid:17)(cid:17)
+
+ka
+
+Simplify:
+
+L =
+
+(cid:32)
+
+2h
+a
+
+a2
+2h
+
+(cid:114)
+
+1 +
+
+4h2
+a2 + ln
+
+(cid:32)(cid:114)
+
+1 +
+
+4h2
+a2 +
+
+2h
+a
+
+(cid:33)(cid:33)
+
+(cid:114)
+
+L = a
+
+1 +
+
+4h2
+a2 +
+
+a2
+2h
+
+ln
+
+(cid:32)(cid:114)
+
+1 +
+
+(cid:33)
+
+4h2
+a2 +
+
+2h
+a
+
+MAT187
+
+Page 4 of 4
+
+May 14, 2025
+
+

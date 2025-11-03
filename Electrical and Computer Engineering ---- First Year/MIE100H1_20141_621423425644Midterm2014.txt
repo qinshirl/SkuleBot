@@ -1,0 +1,211 @@
+MIE100S Dynamics – Spring 2014 
+Midterm Test – February 25, 2014 
+6:15 – 7:45 p.m. 
+
+General Instructions: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Answer all questions in the exam booklets provided. 
+Print your full ROSI name, student # and TUTORIAL # on your exam booklet(s). 
+All rough work must be neatly shown to earn credit for each question 
+You must use a pen or dark pencil  
+Answer all three questions 
+Total marks on this test = 100 
+
+Number of Pages: 
+
+ 
+
+4 (including cover page) 
+
+Permitted Aids: 
+
+  Non-communicating/non-programmable calculator:   Casio FX-991MS   or   
+
+Sharp EL-520X 
+
+  One 8 ½” x 11” aid sheet, any colour. You may write on both sides of the sheet. 
+
+Page 1 of four pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  A box of mass m = 50 kg slides down a hill. At the instant before it goes over the cliff 
+(Position A in the diagram), the speed of the box is 17 m/s, the frictional force between 
+the box and hill is 130 Newtons, the radius of curvature of the hill is 28 meters, and the 
+hill is sloped down at 20 degrees. 
+
+(5 marks)  
+
+(a) 
+
+Find the normal component of the acceleration (an) at the instant shown in the 
+diagram. 
+
+(15 marks)  
+
+(10 marks)  
+
+30 
+
+(b) 
+
+Find the coefficient of kinetic friction. 
+
+(c)  What is the horizontal distance that the box will travel after it goes over the cliff of 
+
+height 40 meters? 
+
+hill 
+
+20o 
+
+position A 
+
+g = 9.81 m/s2 
+
+cliff is 40 meters high 
+
+Page 2 of four pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Crates A and B are connected by a rope and pulley system. At the instant shown in the 
+
+diagram, the speed of crate A is 0.5 m/s to the right.  The coefficient of kinetic friction µk 
+between the crate A and the ground is 0.27.   
+
+massA = 44 kg.   massB = 21 kg. 
+
+(10 marks)  
+
+(a)  What is the kinetic energy of crate B at the instant shown in the diagram? 
+
+(20 marks)  
+
+(b)  What is the acceleration of crate B at the instant shown in the diagram? 
+
+30 
+
+A 
+A 
+
+  g = 9.81 m/s2 
+
+y 
+
+x 
+
+B 
+B 
+
+Page 3 of four pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.         Collars A and B slide on a frictionless rod as shown in the diagram. At the instant shown, 
+collar B has a velocity of 2 m/s to the left, and collar A is sitting at rest on two platforms. 
+The platforms are each attached to a spring and are initially held stationary with the 
+springs compressed to an initial length x = 0.3 m, as shown. Each spring has an 
+unstretched (relaxed) length of 1.5 m and a spring constant of 200 N/m. The mass of 
+collar A is 4 kg and the mass of collar B is 5 kg. Assume that the dimensions of both 
+collars and the platforms are extremely small.  
+
+(10 marks)  
+
+(a)  What is the total elastic potential energy of the two springs before the platforms 
+
+are released? 
+
+(20 marks)  
+
+(b)  When the platforms are released, collar A slides along the rod to point C where it 
+collides with collar B. The two collars then stick together. What is the velocity of 
+collars A and B immediately after they stick together, expressed in x-y coordinates? 
+
+(10 marks)  
+
+(c) 
+
+How much heat is generated in the collision between collars A and B? 
+
+40 
+
+C 
+
+B 
+
+v = 2 m/s 
+
+r = 1.2 m 
+
++ 
+
+1.5 m 
+
+  g = 9.81 m/s2 
+
+A 
+
+x 
+
+platform 
+
+y 
+
+x 
+
+Page 4 of four pages 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

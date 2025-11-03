@@ -1,0 +1,704 @@
+Page 1
+
+Booklet #0030
+
+University of Toronto 
+Faculty of Applied Sciences and Engineering 
+MAT187 - Final -Winter 2023
+Course Coordinator: Camelia Karimianpour 
+Instructors: Sa’diyya Hendrickson, Jose Palacios, 
+
+Camelia Karimianpour, Geoffrey McGregor
+
+LAST (Family) NAME:
+
+FIRST (Given) NAME:
+
+Email address:
+
+Utorid:
+
+STUDENT NUMBER: 
+
+Exam Type: C
+
+©mail.utoronto.ca
+
+Time: 150 mins.
+
+1. Keep this booklet closed, until an invigilator announces that the test has 
+
+begun.
+
+2. Please place your student ID card in a location on your desk that is easy 
+
+for an invigilator to check without disturbing you during the test.
+
+3. Please write your answers into the boxes. Ample space is provided within 
+each box, however, if you must use additional space, please use the blank 
+page at the end of this booklet, and clearly indicate in the given box that 
+your answer is continued on the blank page. You can also use the blank 
+pages as scrap paper. Do not remove them from the booklet.
+
+4. This test booklet contains 16 pages, excluding the cover page, and 8 questions.
+
+5. Do not remove any page from this booklet.
+
+6. Remember to show all your work for part B and C unless the question 
+
+explicitly says not to. You don’t need to justify your choices in part A.
+
+7. You may use your one pre-written page of notes, written on faculty approved 
+exam-aid sheet. Your notes should be handwritten. Any other note written 
+on any other paper is considered academic dishonesty. You should write your 
+name and student number on your pre-written note.
+
+8. You may use a Casio FX-991 or Sharp EL-W516 calculator. Any other type 
+of calculator on your desk is considered academic dishonesty. Please be ready 
+to show your calculator to the invigilators if asked.
+
+Booklet #0030
+
+Page 2
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+10
+
+2
+
+11
+
+3
+
+6
+
+4
+
+9
+
+5
+
+4
+
+6
+
+4
+
+7
+
+14
+
+8
+
+17
+
+Total
+
+75
+
+Page 3
+
+Booklet #0030
+
+Final , Page 1 of 16
+
+Part A
+
+1. Fill in the bubble for all statements that must be true. Some questions may have more 
+than one correct answer. You may get a negative mark for incorrectly filled bubbles. 
+You don’t need to include your work or reasoning.
+
+(a) (1 point) Which option gives the correct setup for applying the integration by parts 
+
+technique on f In x dx = uv — f v du.
+
+O dv = In X dx, u = 1
+
+Q) dv = dxy w = Ina;
+
+Q) dv — Inx dx, u — x
+
+O None of the other options
+
+(b) (1 point) Consider the indefinite integral / -----y." dx. After first substituting
+
+1
+
++ 2
+J x'^\'x'^ + 2
+
+X = \/2tan(0), then u = sin(0), we arrive at which of the following integrals?
+
+o
+
+/Idu of
+
+1
+
+du O J
+
+2 
+Vl — U- 
+-du
+2u^
+
+O None of the other options
+
+(c) (4 points) Suppose the power series 
+
+Cn(x+3)” converges at x = 3 and diverges
+
+at X = —10.
+
+(i) Select ALL values for which you can gueirantee that the series is convergent.
+
+O = -9 Oa: = -ll O = -2
+
+o a; = 9 O a; = 16
+
+(ii) Select ALL values for which you can guarantee that the series is divergent.
+
+O3; = -9
+
+Oa: = -2 0^ = 2 0^ = 9 O x = 16
+
+Booklet #0030
+
+Page 4
+
+Final , Page 2 of 16
+
+(d) (1 point) Using the fact that f < sin(rc) for all x E [0,1], /
+0
+0
+
+---- ;—-dx is; 
+sinfa;)
+
+O Convergent Q Divergent Q Not enough information
+
+(e) (1 point) Suppose we
+
+want to approximate /(x^dx using the midpoint rule, Mn-
+6 6 sin(2^ Among the given options, which one is the 
+
+Also, suppose /"(-i:) = 
+a; + 3
+smallest value of n that ensures
+
+_J_?
+100 ■
+
+[ f{x)dx - Mn 
+
+JQ
+
+O 8
+
+O 50
+
+O 30
+
+O 3
+
+(f) (2 points) The following integral computes the
+
+area of which of the given regions?
+
+(l + 2cos(0))2-4d0
+
+3
+
+o
+
+o
+
+Page 5
+
+Booklet #0030
+
+2. You don’t need to include your computation or reasoning for this question. Parts of this 
+
+question are independent of one another.
+
+Final , Page 3 of 16
+
+(a) (3 points) Consider the Riemann sum lim 
+n-^cx) 
+
+definite integral f^x^dx.
+
+k=il
+
+a =
+
++ 2k)^ —. The sum computes a
+
+4
+
+Tl^
+
+b =
+
+Computing the sum lim (n -H 2k}^— yields 
+n^oo 
+
+fc=l
+
+4 
+
+O 80
+
+O 40
+
+O 8
+
+O 4
+
+(b) Recall that In re = 
+
+radius of convergence R = 1.
+
+(a) (4 points) Find the first three non-zero terms of the Taylor series of 
+
+/(re) = (re — 2) ln(|) about re = 2. What is the radius of convergence R of this 
+new series?
+
++
+
++
+
+4----- ,
+
+R =
+
+(b) (4 points) Find the first three non-zero terms of the Taylor series of
+
+— f* f(t)dt centred at x = 2 and determine its radius of convergence R.
+
+=
+
++
+
++
+
+4----- ,
+
+R =
+
+Booklet #0030
+
+Page 6
+
+Final , Page 4 of 16
+
+3. You don’t need to include your computation or reasoning for this question.
+
+A chemical C is formed during the reaction of two other chemicals, A and B. As C 
+is formed, chemicals A and B are gradually eliminated such that the total mass of the 
+chemicals remains constant.
+(a) (2 points) Let i/(t) denote the mass of chemical C (in kg) at time t (in minutes), 
+and suppose that it takes j kg of A and | kg of S to make 1 kg of C. If chemicals 
+A and B have an initial amount of 20 kg each, determine the functions ^^(t) and 
+mB(t) that give the mass of the chemicals A and B respectively, in terms of ?/(t), 
+at time t.
+
+myi(t) =
+
+msCt) =
+
+(b) (3 points) Suppose that C is formed at a rate that is proportional to the product 
+of the remaining mass of A and B that are present at time t. After half an hour, 
+C begins to transform into a new chemical D at a rate that is proportional to the 
+square of the mass of C at time t.
+
+Provide a piecewise initial value problem (IVP) that governs the mass of chemical 
+C at time t, from t = 0 to t = to (where to > 30 and 7/(to) = 0)-
+
+final answer
+
+(c) (1 point) Select ALL that apply.
+
+Consider each of the ODEs in the piecewise IVP. They BOTH are:
+
+O first-order
+
+O autonomous
+
+O linear
+
+O separable
+
+Page 7
+
+Booklet #0030
+
+Final , Page 5 of 16
+
+Part B
+
+4. A population of insects in a region will grow at a rate that is proportional to their current 
+
+population. Suppose p(t) is the population at time t, measured in days.
+
+(a)
+
+(3 points) In the absence of any outside factors the population will triple in 14 
+days. Write down a differential equation that describes this population under these 
+conditions. Your final answer should not include any parameter.
+
+the differential equation is
+
+(b)
+
+(2 points) On any given day there is a net migration into the area of 15 insects, 
+and 23 are eaten by the local bird population. Write a diflFerential equation that 
+models the population.
+
+the differential equation is
+
+(c)
+
+(4 points) If there are initially 100 insects in the area, will the population survive 
+or will it die out? Justify your answer. O die out 
+
+O survive
+
+Booklet #0030
+
+Page 8
+
+5. (4 points) Suppose we want to approximate 
+
+merical methods on different intervals. If we use:
+
+sin(x)dx with a combination of nu-
+
+• Midpoint rule for 0 < x <
+
+• Trapezoidal rule for < x <
+
+Final , Page 6 of 16
+
+• Right Riemann Sum for < x <
+
+• Left Riemann Sum for < x <211
+
+Will our approximation be:
+
+O An overestimation 
+
+O An underestimation
+
+O Either over or under the true value; it depends on how we partition the interval.
+
+Provide a brief justification for your answer:
+
+Page 9
+
+Booklet #0030
+
+Final , Page 7 of 16
+
+6. (4 points) Find the general solution of the differential equation
+
+y' + {y + tr^-l,
+
+by making the substitution = y^t) + t. Your final solution should be an explicit 
+function for y{t}.
+
+the general solution is
+
+Booklet #0030
+
+Page 10
+
+Part C
+
+7. Consider the curve f (^) = (4cosi, 4sint, 3i) in
+
+(a) (2 points) Sketch the curve in
+
+Final , Page 8 of 16
+
+(b) (1 point) Draw the principal unit tan­
+gent vector at f(t) for a value for t of 
+your choice.
+
+(c) (3 points) Find the unit tangent vector of this curve.
+
+(d) (3 points) Find a function s(i) that gives the arclength between t = 0 and t at any 
+
+given time t.
+
+s(i) =
+
+Page 11
+
+Booklet #0030
+
+Recall that f (t) = (4cost,4sint,t G R.
+
+(e) (3 points) Find the arclength parametrization of this curve.
+
+Final , Page 9 of 16
+
+arclength parametrization;
+
+(f) (2 points) Compute the curvature of the curve at any given t.
+
+the curvature is
+
+Booklet #0030
+
+Page 12
+
+8. Here we consider an initial value problem for a spring-mass model of the form
+
+Final , Page 10 of 16
+
+ax" -I- bx' + ex = f(t) 
+x(0) = A 
+x\0) = B,
+
+where xit} is measured in meters, with x(t) > 0 implying that the spring is stretched 
+and x(t) <0 meaning the spring is compressed.
+
+(a) (5 points) Determine the initial value problem which corresponds to the following 
+
+scenario (you don’t need to justify your answer):
+
+•  The mass is 1 kg.
+•  The damping constant is an unknown non-negative parameter p.
+•  The spring constant is 26 kg/s^
+•  PAt = Q the spring is stretched 1 meter from its equilibrium and then released 
+
+from rest.
+
+•  /(^) =
+
+sin(wi), where w is an unknown parameter.
+
+x"+
+
+x'+
+
+X — e
+
+: ^‘sin(wi),
+
+x(0) =
+
+, rr'(O) =
+
+(b) (4 points) For this part of the problem assume /(i) = 0. Determine all possible 
+0.
+values for p, > 0 in which the mass will oscillate about its equilibrium for t 
+Oscillation does not necessarily imply constant amplitude.
+
+final answer
+
+Page 13
+
+Booklet #0030
+
+(c) (4 points) Suppose f{t) = e“5*sin(wt), where w is an unknown parameter. Find 
+all possible values for /x > 0 and w such that the initial value problem solution a;(t) 
+satisfies lim = 0.
+t->oo
+
+Final , Page 11 of 16
+
+final answer
+
+(d) (4 points) Continue assuming that /(t) = e~^‘sin(wt). ChatGPT claims that re­
+gardless of the value of w, the particular solution of this ordinary differential equa­
+tion is always of the form
+
+Xp{t) = e
+
+: 5‘(ci sin(wt) + C2 cos(wt))
+
+for some constants Ci and C2 which can be computed by the method of undetermined 
+coefficients. Do you agree?
+O yes
+
+O no
+
+If you agree, explain why. If you disagree, find a value of w for which the particular 
+solution is not of the given form.
+
+Booklet #0030
+
+Page 14
+
+The purpose of this page is to provide additional space for your solutions. You may also 
+use it as scrap paper. If you must use this space for your solutions, be sure to clearly 
+indicate in the original question that your solution is continued on the overflow page.
+Do not remove this page from the test booklet.
+
+Final , Page 12 of 16
+
+Page 15
+
+Booklet #0030
+
+The purpose of this page is to provide additional space for your solutions. You may also 
+use it as scrap paper. If you must use this space for your solutions, be sure to clearly 
+indicate in the original question that your solution is continued on the overflow page.
+Do not remove this page from the test booklet.
+
+Final , Page 13 of 16
+
+Booklet #0030
+
+Page 16
+
+The purpose of this page is to provide additional space for your solutions. You may also 
+use it as scrap paper. If you must use this space for your solutions, be sure to clearly 
+indicate in the original question that your solution is continued on the overflow page.
+Do not remove this page from the test booklet.
+
+Final , Page 14 of 16
+
+Page 17
+
+Booklet #0030
+
+The purpose of this page is to provide additional space for your solutions. You may also 
+use it as scrap paper. If you must use this space for your solutions, be sure to clearly 
+indicate in the original question that your solution is continued on the overflow page.
+Do not remove this page from the test booklet.
+
+Final , Page 15 of 16
+
+Booklet #0030
+
+Page 18
+
+Trigonometric Functions
+
+cos"(x) =-------
+
+l + cos(2a;) 
+
+. 2/ \ l-cos(2a:) 
+sin2(x) =---------
+
+Final , Page 16 of 16
+
+Error formula for Ln and
+|Error|<g(6-ar
+Where M > |/'(x)| on a < a: < 6
+
+Error formula for Mn
+
+J sec{x) dx = In |sec(x) + tan(x)| + C 
+
+|Error| <
+
+j sec^ (x) dx = 
+
+(sec x tan x + In | sec x
+
++ tana;|) + C
+
+J csc(x) dx = — In |cot(x) + csc(x)l + C 
+
+j tan(x) dx = — In |cosx| + C 
+
+J cot(x) dx = In |sinx| + C
+
+Where M > |/"(a;)| on a < a; < 6 
+
+Error formula for Tn
+
+\Error\ < 
+
+- aY
+
+Where M > |/"(a:)| on a < a; < 6
+
+Taylor Polynomial
+
+k\
+
+Remainder/Error
+
+= Pn{x} + 7?n(a:)
+
+Common Taylor Series
+
+with Rn(x) =
+for some c between a and x.
+
+= V°° —
+Z^n=0 n!
+= v°° __
+(zll
+Z_/n=0 (2n)!
+
+cos a;
+
+a;2"
+
+R = oo
+
+a;"
+
+sinx = EXo
+
+(-1)"
+
+.2n+l
+
+7? = oo
+
+R= 1
+R = cxD
+
+Polar coordinates
+
+X = r cos d y = r sin 0
+
+x^ + y'
+
+,2 =
+
+tan 6 = X
+
+Unit Tangent
+
+Unit Normal
+
+Acceleration
+
+f(t) =
+
+r'(t) 
+llr'WII
+
+7V(t) =
+
+ll^'WII
+
+Curvature
+
+=
+
+Ilf'WII _ ||r'(t)xf»(t)|| 
+llr'WII ~ IK'WII®
+
+a{t) = f”(t) = 4ll#"'WII r(() + 
+at
+
+N(f)
+
+

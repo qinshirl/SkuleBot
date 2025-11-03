@@ -1,0 +1,173 @@
+Last Name______________________     First name___________________________ 
+Student ID#____________________Lecture section: _________________________ 
+
+APS 104S,  term test – Chemistry, Jan. 28 2010, 6:00 pm 
+
+1.  (30 pts) The composition of air 79.0 mol% N2 and 21.0 mol% O2. An internal combustion 
+engine burns pure propane (C3H8). If air is fed to the engine to provide the necessary 
+(stoichiometric) O2 to ensure complete combustion to CO2 and H2O, calculate: 
+(a)  (10 pts) The volume of air at 15 oC and 1.02 bar, needed for the complete combustion of 
+
+1 mol of propane. 
+
+(b) (10 pts) The mol% and partial pressure of N2 in the exhaust, which leaves the engine at 
+
+200oC and 1.00 bar.  
+
+(c)  (10 pts) To calculate the volume of air you have assumed the air behaves like an ideal 
+gas. What are the assumptions of the ideal gas model and give one reason (described in terms 
+of the molecules of a gas) why these assumptions might not hold in a real gas. 
+
+Answers: 
+
+(a)  C3H8 (g) + 5O2 (g) (cid:2) 3CO2 (g) + 4H2O (g) 
+
+Need 5 moles of oxygen to burn 1 mole of propane and 1 mole air only 21% oxygen. 
+nair = # moles propane*#moles oxygen per mole propane*moles oxygen per mole air 
+       = 1*5/0.21 = 23.8 mol air per mol of C3H8 required. 
+
+Vair = nRT/P = 23.8mol*0.0831bar*L/(mol*k)*288K/1.02bar = 558L  
+
+(b) consider total moles of gas in exhaust after combustion of 1 mole of propane: 
+
+ moles 
+
+O2      0 (all consumed) 
+C3H8     0 (all consumed) 
+[1*5/0.21]*0.79 = 18.8  (no moles of air*79% since air is 79% N2 
+N2 
+CO2 
+3 
+H2O  4 
+total 
+
+ 25.8  
+
+mol % N2 = (18.8/25.8) x 100 = 72.8 % 
+
+PN2 = n*PT = 0.728*1.00 bar = 0.728 bar 
+
+(c) Assumptions are that the molecules are point sources and that they don’t interact. In a 
+real gas there might be interactions between the molecules such that they do interact thus 
+invalidating the ideal gas law assumptions. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  (40 pts) You are interested in compressing 10L of air, initially at a temperature of 25°C and 
+1 bar, to a final pressure of 10 bar using a piston-cylinder device. You decided to evaluate 
+two  different  paths.  Path  1:  isothermal  reversible  compression.  Path  2:  adiabatic  reversible 
+compression. Assume that cV (or as in the book Cv,m) is 3/2R for air. 
+
+a)  (15 pts) Calculate the final volume and work for path 1.  
+b)  (15 pts) Calculate the final volume and work for path 2. 
+c)  (10  pts)  Explain  why  there  is  a  difference  in  the  work  calculated  for  the  2  paths 
+(consider the motion of molecules in your argument), and select the most efficient path. 
+
+Answers: 
+
+(a)  At the final conditions of the isothermal compression, Tf = Ti = 298K , Pf =10 bar, and 
+
+the value of “n” can be calculated from the initial conditions: 
+n= PiV/RT= 1 bar*10L/(0.0831 bar*L/(K*mol)*298K) =  0.403 mol  
+
+Final volume, Vf = nRT/PF = 0.403 mol*0.0831bar*L/(K*mol)*298K/10bar = 1L 
+
+The work for an isothermal reversible process = -nRTln(Vf/Vi)  
+W = -0.403mol*8.31J/(mol*K)*298K*ln(1L/10L)) = 2.30E+3 J = 2.30kJ 
+
+(b) For an adiabatic, reversible process Tf = Ti*(Pf/Pi)(R/Cp) 
+Cp = Cv+R = 3/2R+R = 5/2R , R/Cp = 2/5 =0.4 , then: 
+
+(c)  Tf = Ti*(Pf/Pi)(R/Cp)= 298K*(10bar/1bar)0.4 = 748K 
+Vf = nRTF/PF = 0.403mol*0.0831bar*L/(K*mol)*748K/10bar = 2.51L 
+
+For an adiabatic process, W=(cid:1)U = nCv(cid:1)T = 0.403mol*3/2*8.31J/(mol*K)*(748-298)K 
+W = 2.22E+3J = 2.26kJ 
+
+(d) In the adiabatic process, as we compress the gas, the molecules are pushed against each 
+other  and  this  causes  an  increase  in  kinetic  energy  and  temperature.  This,  in  turn, 
+increases the number of collisions against the walls, which helps increasing the pressure, 
+with less work than in the isothermal case. In the isothermal case one “cools down” the 
+gas as the compression progresses. If the goal is simply reach a high pressure, then the 
+adiabatic  path  requires  less  work,  in  which  case  is  the  more  efficient.  If  the  goal  is  to 
+reduce the volume, the isothermal is the most efficient because with similar work  (about 
+2.5  kJ)    the  isothermal  path  reaches  less  than  half  of  the  final  volume  of  the  adiabatic 
+path. 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  (30 pts) Using the enthalpy of reactions indicated in the table below, obtain:  
+
+(a)  (10 pts) The standard enthalpy of formation of SO3(g) ((cid:1)H°f SO3(g)) at 25°C and 1.0 atm.  
+(b) (10 pts) The standard internal energy of formation of SO3(g) ((cid:1)U°f SO3(g)) at 25°C and 1.0 
+atm.  
+(c)  (10 pts) Under what condition would the enthalpy of formation of SO3(g) be the same at 
+100°C as at 25°C? Explain your answer 
+
+ Reactions 
+(I) S(s) + O2(g) (cid:4) SO2(g) 
+(II) 2SO2(g)+ O2(g)(cid:4) SO3(g) 
+
+(cid:1)H°, kJ/mol 
+-296.90 
+-196.56 
+
+Answers 
+(a)  
+
+2S + 2O2  (cid:4)2SO2  
+2SO2 + O2 (cid:4)2SO3 
+2S + 3O2 (cid:4)2SO3   
+This is for 2 moles of SO3 so must divide by 2 to get enthalpy of formation per mole 
+
+(cid:1)H = -593.8 kJ 
+(cid:1)H = -196.56 kJ 
+(cid:1)H = -790.36 kJ 
+
+(cid:1)H°fSO3(g) =  -395.18 kJ/mol 
+
+(b)  
+(cid:1)n per one mole of SO3 generated is -0.5 moles since go from 3/2 mol gas in reactants (cid:2) 1 
+mole of gas in producs. 
+
+(cid:1)U°fSO3(g) =  (cid:1)H°fSO3(g) - (cid:1)n(g)*RT° = -395.8kJ – (-0.5mol)*8.31E-3kJ/(mol*K)*298K       
+
+       = -394.6kJ per mol of SO3(g)  formed. 
+
+(c)  The only way that this heat of reaction would still be the same is if the heat capacity of 
+the  reactants  and  products  is  balanced.  That  balance  is  expressed  in  the  term  (cid:1)Cp  = 
+(cid:2)(cid:3)iCpi = 0. Otherwise, at a different T the enthalpy would have to be calculated using the 
+heat capacities of all the reactants and products. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+

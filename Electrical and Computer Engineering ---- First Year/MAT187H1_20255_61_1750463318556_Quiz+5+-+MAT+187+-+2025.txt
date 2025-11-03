@@ -1,0 +1,321 @@
+Date: Jun 11, 2025
+Duration: 50 minutes
+
+Name:
+
+e-mail:
+
+Student Number:
+
+Quiz 5
+
+Course: MAT 187 (Calculus II)
+Examiner: Armanpreet Pannu
+
+@mail.utoronto.ca
+
+Instructions
+• This is a Type A assessment and does not allow any external aids.
+• Read all instructions carefully and justify all your answers. No points will be awarded for a correct
+
+answer without justification.
+
+• Read each question carefully. No clarification or content related questions will be answered.
+
+You may use the following space for scratch work or to continue your solutions if you run out of room. If
+you do so, please clearly indicate in the original question that part of your solution appears here.
+
+1. (2 points) Explain in words the qualitative difference between a stable and an unstable equilibrium.
+
+Solution: A stable equilibrium is one where nearby solutions tend to move toward the equi-
+librium over time, meaning small disturbances away from die out and the solution settles back at
+the equilibrium. An unstable equilibrium is one where nearby solutions move away from the
+equilibrium, so small disturbances grow over time, never returning to the equilibrium.
+
+2. (3 points) Can the ODE
+
+y′ − eyy = ex
+
+be solved with the method of integrating factors? Justify your answer. Which types of ODE does the
+method of integrating factor apply to?
+
+Solution: The method of integrating factors applies to first-order, linear differential equations
+of the form
+
+y′ + P (x)y = Q(x),
+
+where both P (x) and Q(x) are functions of x only, and the equation is linear in y.
+
+The given ODE is
+
+y′ − eyy = ex.
+
+We observe that the term eyy depends nonlinearly on y, since it is the product of y and an
+exponential function of y. Therefore, the equation is not linear in y, and does not match the
+required form for applying an integrating factor.
+
+3. (4 points) You’re told that the salt concentration C(t) in a well-mixed tank increases quickly at first
+and then levels off over time. Which of the following differential equations could model this behavior?
+
+A.
+
+dC
+dt
+
+= −kC
+
+B.
+
+dC
+dt
+
+= k(Cin − C)
+
+C.
+
+dC
+dt
+
+= k
+
+Explain your reasoning.
+
+Solution: Answer: B.
+
+This equation models a situation where the concentration approaches a limiting value Cin over
+time. If the initial concentration is below Cin, then dC/dt is initially large and positive. As C
+approaches Cin, the rate of change decreases, and the concentration levels off.
+Option A represents exponential decay, where the concentration decreases toward zero. Option
+C represents constant growth; the concentration increases linearly over time and never levels off.
+
+MAT187
+
+Page 2 of 4
+
+Jun 11, 2025
+
+4. (5 points) Consider the nonlinear differential equation
+y′′ = 6y2
+
+Determine whether the function
+
+y(x) =
+
+1
+(Ax + B)2
+
+satisfies the equation. Find any constraints on the constants A and B that are required for it to be a
+solution.
+
+Solution: Let us compute the first and second derivatives of y(x). First,
+
+y′ =
+
+d
+dx
+
+(cid:0)(Ax + B)−2(cid:1) = −2A(Ax + B)−3.
+
+Next, the second derivative is
+
+y′′ =
+
+d
+dx
+
+(cid:0)−2A(Ax + B)−3(cid:1) = 6A2(Ax + B)−4.
+
+Now we compute the right-hand side of the differential equation:
+
+6y2 = 6
+
+(cid:18)
+
+1
+(Ax + B)2
+
+(cid:19)2
+
+= 6(Ax + B)−4.
+
+We see that for the ODE to be satisfied, we need:
+
+y′′ = 6A2(Ax + B)−4 = 6(Ax + B)−4 = 6y2
+A2 = 1
+A = ±1
+
+⇒
+
+Conclusion: The function y(x) =
+that A = ±1. The constant B can be any real number.
+
+1
+
+(Ax+B)2 satisfies the differential equation y′′ = 6y2 provided
+
+5. (6 points) Solve the initial value problem
+
+y′ − 2y = e3x,
+
+y(0) = 2
+
+Solution: This is a linear first-order ODE and can be solved using the method of integrating
+factors. The standard form is
+
+with P (x) = −2 and Q(x) = e3x
+
+Compute the integrating factor.
+
+y′ + P (x)y = Q(x),
+
+´
+
+µ(x) = e
+
+−2 dx = e−2x
+
+Multiply both sides of the ODE by the integrating factor:
+
+e−2xy′ − 2e−2xy = ex
+
+d
+dx
+
+(e−2xy) = ex
+
+ˆ
+
+Integrate both sides:
+
+ˆ
+
+d
+dx
+
+(e−2xy) dx =
+
+ex dx
+
+⇒
+
+e−2xy = ex + C
+
+⇒
+
+y(x) = e3x + Ce2x
+
+Apply the initial condition y(0) = 1:
+
+Final Answer:
+
+2 = e0 + Ce0 = 1 + C ⇒ C = 1
+
+y(x) = e3x + e2x
+
+MAT187
+
+Page 3 of 4
+
+Jun 11, 2025
+
+6. A cup of tea is initially at a temperature of 85◦C and is left to cool in a room that is kept at 20◦C.
+According to Newton’s Law of Cooling, the rate at which the tea cools is proportional to the difference
+between its temperature and the ambient temperature.
+
+(a) (7 points) Write and solve an initial value problem for the temperature T (t) of the tea at time
+
+t (in minutes), assuming the cooling constant is k = 0.1.
+
+Solution: Newton’s Law of Cooling gives the differential equation:
+
+where Tenv = 20 and k = 0.1. Substituting in:
+
+dT
+dt
+
+= −k(T − Tenv),
+
+dT
+dt
+
+= −0.1(T − 20).
+
+This is a separable equation. We separate variables and integrate:
+
+ˆ
+
+1
+T − 20
+
+ˆ
+
+dT = −0.1
+
+dt ⇒ ln |T − 20| = −0.1t + C.
+
+Exponentiating both sides:
+
+where A = eC > 0, so:
+
+|T − 20| = e−0.1t+C = Ae−0.1t,
+
+T (t) = 20 + Ae−0.1t.
+
+Apply the initial condition T (0) = 85:
+
+Final answer:
+
+85 = 20 + A ⇒ A = 65.
+
+T (t) = 20 + 65e−0.1t .
+
+(b) (3 points) How long will it take for the tea to cool to 50◦C?
+
+Solution: Set T (t) = 50 and solve for t:
+
+50 = 20 + 65e−0.1t ⇒ 30 = 65e−0.1t ⇒ e−0.1t =
+
+6
+13
+
+.
+
+Take the natural logarithm:
+
+−0.1t = ln
+
+(cid:19)
+
+(cid:18) 6
+13
+
+⇒ t = −
+
+1
+0.1
+
+ln
+
+(cid:19)
+
+.
+
+(cid:18) 6
+13
+
+Final answer:
+
+t = 10 ln
+
+(cid:19)
+
+(cid:18) 13
+6
+
+MAT187
+
+Page 4 of 4
+
+Jun 11, 2025
+
+

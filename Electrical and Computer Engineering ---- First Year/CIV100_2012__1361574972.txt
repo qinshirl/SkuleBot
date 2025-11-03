@@ -1,0 +1,124 @@
+UNIVERSITY OF TORONTO 
+Department of Civil Engineering 
+
+CIV100F - MECHANICS – GROUP G (107) 
+Problem Set 8   
+Due: 5:00 pm on Monday November 05, 2012  
+In Dropbox #2 in GB422 (Computer Lab) 
+
+1.  Steel beam ABC, supported by a pin at A and a 
+roller at B, is subjected to a distributed load, a 
+couple moment, and a point load as shown. 
+Determine the internal normal force, shear force 
+and moment at points C, D, E. Point E is located 
+just to the right of the roller support at B, where the 
+couple moment acts.  
+
+10 kN/m  
+
+A 
+
+D 
+
+B
+
+E  
+
+2.0 m 
+
+2.0 m 
+
+40 kNm 
+3.6 m  
+
+16 kN 
+
+C  
+
+40° 
+
+1.0 m  
+
+2.  A compound beam, supported by a fixed connection 
+at A and a roller at C, is subjected to a uniformly 
+distributed load and a point load as shown. There is 
+also an internal pin at B.  Determine the internal 
+normal force, shear force and moment at points D 
+and E. Point load is located just to the right of E.  
+
+6 kN/m  
+
+20 kN  
+
+50° 
+
+A 
+
+D 
+
+1.8 m 
+
+B  
+
+1.8 m 
+
+E  
+
+1.5 m  1.5 m  
+
+C  
+
+3.  A simply supported beam, having a pin at A and 
+a roller at B, carries a distributed load, a couple 
+moment and a point load as shown. Determine 
+the internal normal force, shear force and 
+moment at points D and E, which are located just 
+to the right of distributed load and point E 
+respectively. 
+
+12 kN/m 
+
+A  
+
+D  
+
+B  
+
+14 kN  
+
+16 kNm  
+
+E  
+
+C 
+
+0.8 m 
+
+1.5 m  1.2 m 
+
+1.0 m  0.8 m  
+
+4.   Neatly draw the moment and shear diagrams for the beams in questions 1, 2 and 3, using the 
+area method. Draw diagrams underneath new beam sketches. Clearly indicate shear and 
+moment values at all points. Compare your results with those found in questions 1, 2 and 3. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

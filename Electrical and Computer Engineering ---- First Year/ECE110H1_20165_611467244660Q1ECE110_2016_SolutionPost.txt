@@ -1,0 +1,29 @@
+ECE110 - Quiz #1 
+Only non-programmable calculators are allowed. 
+
+First Name: _____________________ Last Name: ______________________________ 
+
+Student #:_______________________ Tutorial Location: __________________________ 
+
+[5 Marks] Four charges are located at the corners of a square of side a=2 m as shown in the Figure 
+
+below.  If Q1= Q2= Q3 =10 µC and Q4 = -10 µC. 
+
+a)  Find the magnitude of the electric field at the center of the square, at point (0, 0). 
+b)  If  a  test  charge  Q=2  µC  is  placed  at  the  square  center,  point  (0,  0),  find  the 
+magnitude of the electric force on this test charge due the other four charges. 
+
+Solution: No need to show the angle 
+
+Part a:  
+
+Part b: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,114 @@
+ECE110 - Quiz #3 
+Only non-programmable calculators are allowed. 
+Duration: 30 Minutes 
+
+First Name: _____________________ Last Name: ______________________________ 
+
+Student #:_______________________ Tutorial Room: __________________________ 
+
+Q1 [3 Marks] Circle the correct answer. 
+
+i.  The  Figure  shows  a  magnetic  ﬁeld  (B)  and  4  loops  of  equal  areas.  Which  loop  has  the 
+
+smallest magnetic ﬂux? 
+
+Answer is d. 
+
+ii. 
+
+In  the  Figure  shown,  if  the  current  (i)  in  the  outer  loop  is  counter-clockwise  and 
+decreasing, then the current in the inner loop is clockwise. 
+
+a)  True 
+
+b)  False 
+
+Answer is b (False). 
+
+i 
+
+iii. 
+
+In  the  Figure  shown,  as  the  positive  charge  enters  the  region  where  the  magnetic  ﬁeld 
+exists then the charge will be: 
+
+Answer is c. 
+
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+Q2 [7 Marks] Consider a very long straight wire carrying current i in the direction of x-axis as 
+shown  in  the  Figure  below.  At  time  t=0  the  current  in  this  wire  is  increased  from 
+i=1A to i=21A in 20 µsec. 
+A  rectangular  loop  of  wire  of  width  x=1m  and  length  y=2m  is  located  at  distance 
+s=1m from the current carrying wire.  
+
+a)  Derive a relation for the magnetic flux in terms of i, x, y, and s.   
+b)  Determine the magnitude of the induced emf in the loop of wire while current 
+
+changing. 
+
+c)  Indicate the direction of induced current in the loop of wire. Justify. 
+
+y-axis 
+
+x 
+
+y 
+
+s 
+
+i 
+
+x-axis 
+
+Solution:  
+
+Part a) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part b) 
+
+Part c)  
+
+ 
+ 
+ 
+ 
+ 
+ 
+

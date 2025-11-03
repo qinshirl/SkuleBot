@@ -1,0 +1,694 @@
+University of Toronto
+Faculty of Applied Sciences and Engineering
+
+MAT187 - Summer 2025
+
+Lecture 8
+
+Instructor: Arman Pannu
+
+We will start 10 minutes past the hour. Use this time to make
+a new friend.
+
+Power Series
+
+A power
+
+series
+
+can
+
+be thought of
+
+as
+
+an infinite degree
+
+Polynomial
+
+Efanxn
+
+aotaix
+
+aax
+
+ex11Ioxn.lt x x x3
+
+azxst.ran
+1
+
+gmx
+
+Eon Ot
+
+next next
+
+2 2 3 31
+
+an
+
+an
+
+Does the power
+
+series
+
+converge for
+
+any
+
+7 0
+
+always
+
+converges
+
+ex
+
+Ifx where else does this
+
+converge
+
+evaluate
+
+at
+
+x r
+
+Eg
+
+Intal
+
+IT
+
+converges
+
+for
+
+total
+
+and
+
+is equal
+
+to
+
+the
+
+function
+
+x
+
+for
+
+1 1 1
+
+power
+
+series
+
+diverges
+
+A power
+
+series
+
+centered
+
+at
+
+a
+
+is of
+
+the form
+
+an x a
+
+dota x a
+
+as x a
+
+no
+
+Radius of Convergence
+
+apply ratio
+
+series
+
+test
+
+to power
+E.ee Ec
+what
+
+fi Eil
+x alkm.atfL
+
+x al
+
+R may
+
+be
+finite infinite as
+
+by ratio
+
+test
+
+series
+
+converges
+
+diverges
+
+if
+if 2 1 01
+
+1 1 01 2 1
+1
+
+inconclusive
+
+if
+
+1 1
+
+191420
+
+lx a
+KAI
+
+Given
+
+a
+
+power
+
+R
+
+which
+
+semes
+
+gn x a
+may be infinite
+
+there
+
+exists
+
+an
+
+or zero
+
+sit
+
+the power
+
+series
+
+converges
+
+on
+
+either
+
+on
+
+depends
+convergence at
+end points
+
+a R a R
+
+a R atr
+
+a R a R
+a R a R
+
+tf
+
+if R O
+if R x
+
+then
+
+convergence
+
+then
+
+convergence
+
+on
+
+on
+
+a o a.io
+
+a no a
+
+x
+
+a
+
+singlepo
+IR all numbers
+
+The value
+
+R is
+
+called
+
+radius
+
+of
+
+convergence
+
+→n=0
+
+x n
+n!
+
+in
+
+center a 0
+
+!
+Ratio test
+
+L
+
+h
+
+3 radius of
+
+list
+1 1.0 0 1 for all
+
+xlbm.net
+
+x
+
+convergence
+
+infinite
+
+is
+all of 112
+
+convergences
+
+on
+
+→n=1
+
+x n
+n2
+
+!
+
+Ratio test
+
+III I
+
+f talk.la 1 txt.e
+
+1 1 1 1
+
+1
+
+IX
+
+radius of
+
+convergence
+
+R
+
+check end.io
+
+x 1 Etconverges pseries
+converges AST
+
+x
+
+1 E Cin
+
+Interygenf
+
+Properties of Power Series
+Suppose you have power series
+
+anx
+
+f x
+gex Éfn
+
+common interval
+
+of
+I
+
+convergence
+
+then
+
+fly g x
+
+an bn x
+
+will
+
+converge on
+
+I
+
+fcxgcxfE.am E.bnxn
+
+Edistribitfplication
+
+aobo
+
+a b b a
+
+x
+
+aobatboas 2a.br x
+
+F x
+
+F
+
+x
+
+an
+
+converges
+
+whenever
+
+Ioan ex
+
+Xr
+
+interval of
+convergence
+
+for CXC internal of
+
+convergence
+
+iE
+If
+
+F x
+
+anx
+
+nana
+
+frindx I.fanxndx.IT
+
+xm c
+
+radius of converge
+will be the
+same for new
+same
+
+you can
+
+differentiate lintegrate
+
+termterm
+
+these also apply
+
+to
+
+power
+
+series not
+
+centered
+
+at
+
+9 0
+
+ext Hy
+
+9 2x
+
+f
+
+y
+
+2in
+
+convergence
+
+radius of
+
+is
+
+121 1
+1711126
+
+geometric series
+
+coff an 2
+
+Find a power series for:
+
+1
+1+x 2
+
+x E ext
+ifC 1
+
+x
+
+1
+
+x X
+
+tag
+
+banana
+
+no
+
+6 78_
+
+convergence
+
+for
+
+1 xlaf
+1 1 1
+
+arctan(x)
+
+dx
+
+x
+
+I c 1
+EE x
+X 31 3 15 5_
+
+convergence
+
+for
+
+1 11
+
+Taylor Series
+
+Given
+
+function F X
+
+a
+is defined
+
+as
+
+the taylor series
+
+centered
+
+at
+
+a
+
+E.fm E as
+
+sums
+
+p x
+
+of
+
+F a
+
+the partial
+
+Polynomials
+
+taylor's
+
+remainder
+
+error
+
+thm
+Ifa Pal
+
+taylor
+
+series
+
+are
+
+the Tylor
+
+F
+
+x a
+
+ftp x a
+
+well behaved
+error
+
+0
+
+then
+
+atleast
+
+as
+nax
+locally around
+
+a
+
+taylor series
+
+f f was
+
+FA
+
+around a
+
+note there are
+
+functions
+
+for which Taylor series
+
+FIX called
+
+nonanalytic functions
+
+most functions
+
+in
+
+engineering
+
+are
+
+analytic
+
+Éf p
+
+any_a
+
+around
+
+a
+
+then
+
+the power series
+
+is
+
+the
+
+Taylor series
+
+an ftp
+
+exyarcton
+
+fX 1sx3 5xs
+Fit f.ly
+
+EE f
+
+f
+
+x ex
+
+EE.tn converges everyone
+
+Find the Taylor series for:
+cos(x)
+
+1
+F d
+F'lo 0
+to
+I
+
+F
+
+a
+
+sinch
+
+reflect
+
+cos(→x)
+
+ftp xn 1 0
+
+x40 utxt0t
+
+lose
+
+2x 4 x 61
+
+0 81 8
+
+costel Eoc
+
+likewise
+
+gn y
+
+3_ 45_4
+
+use
+
+series
+
+for
+
+cos x
+
+cosca
+
+ticki
+
+Ifc.is
+
+RadiusofConvergenceandDomainFWofthisseriesdoesn'tneedtoequaldomainfxexclÉTeyonly1111regionofconvergenceforTaylorseriescenteredatzeroex41Fortserescenteredat1exitixEmeverywhereconvergence111sometimesseriesconvergesatmoreenohIETE.ltenanepointsmaturation

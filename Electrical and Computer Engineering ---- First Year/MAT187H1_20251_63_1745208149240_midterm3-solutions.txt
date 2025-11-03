@@ -1,0 +1,781 @@
+NAME ( Given then Family ):
+
+Student Number:
+
+UTORid:
+
+Email address:
+
+@mail.utoronto.ca
+
+University of Toronto
+Faculty of Applied Science & Engineering
+
+Winter 2024/2025
+110 Minutes
+
+MAT187H1S Universal Makeup
+Test Solutions
+
+Exam Reminders:
+
+• Fill out your name, UTORid, and email address at the top of this page.
+• Do not begin writing the exam until instructed to do so.
+• As a student, you help create a fair and inclusive writing environment; unauthorized aids are prohibited and using
+
+one may result in you being charged with an academic offence.
+
+• Turn off and place all cell phones, smart watches, electronic devices, and unauthorized study materials in your bag
+
+under your desk. These devices may not be left in your pockets.
+
+• If you are feeling ill and unable to finish your exam, please bring it to the attention of an Exam Facilitator.
+• In the event of a fire alarm, do not check cell phones or other electronic devices unless authorized to do so.
+
+Special Instructions:
+
+• Write legibly and darkly.
+• For questions with a boxed area, ensure your answer is completely within the box.
+• Fill in your bubbles completely.
+
+Good:
+
+A
+
+B
+
+Bad:
+
+A
+
+B
+
+C
+
+Scoring
+
+Question:
+
+Points:
+
+Score:
+
+1
+
+1
+
+2
+
+2
+
+3
+
+1
+
+4
+
+2
+
+5
+
+4
+
+6
+
+1
+
+7
+
+1
+
+8
+
+6
+
+9
+
+3
+
+Total
+
+21
+
+The following formulae are provided for your use during the exam.
+
+Formula Sheet
+
+Simpson’s Rule
+
+If p is a quadratic polynomial,
+
+(cid:90) b
+
+a
+
+p(x) dx =
+
+(cid:18)
+
+b − a
+6
+
+p(a) + 4p
+
+(cid:17)
+
+(cid:16) a + b
+2
+
+(cid:19)
+
++ p(b)
+
+.
+
+Taylor’s Remainder Theorem
+
+Let Tn be the nth Taylor approximation of function f centered at a. Further, assume f has at least n + 1
+continuous derivatives. Then
+
+Rn(x) = f (x) − Tn(x) =
+
+f (n+1)(c)
+(n + 1)!
+
+(x − a)n+1
+
+for some c between x and a.
+
+Geometric Sum
+
+n
+(cid:88)
+
+i=0
+
+ri =
+
+1 − rn+1
+1 − r
+
+1. (1 point) Which of the following express the point (x, y) = (2, 2) ∈ R2 in polar coordinates? Mark all
+
+that apply.
+√
+
+(cid:13)
+
+8e π
+4 i
+√
+(cid:13) (−
+√
+(cid:13) −
+
+8, π
+4 )
+8e 5π
+4 i
+
+√
+
+(
+
+8, π
+4 )
+√
+(−
+(cid:13) (2, 2)
+
+8, 5π
+4 )
+
+2. Let a0, a1, a2, . . . be a sequence of real numbers and define the number A =
+
+(a) (1 point) Express A as a sum starting from 4.
+
+5
+(cid:88)
+
+i=3
+
+ai.
+
+A =
+
+6
+(cid:88)
+
+i=4
+
+ai−1
+
+(b) (1 point) Let B =
+
+notation).
+
+3
+(cid:88)
+
+i=0
+
+a2i. Express B − A as an explicit sum (i.e., without using Σ-notation or “· · · ”
+
+B − A =
+
+a0 + a2 − a3 − a5 + a6
+
+Scratch Work:
+
+3. (1 point) Let I =
+
+(cid:90) b
+
+f (x) dx. Explain in words why using Simpson’s Rule to estimate I is likely to be
+
+more accurate than using the Trapezoid rule to estimate I.
+
+a
+
+Since Simpson’s rule is based on Quadratic interpolation rather than the Linear interpolation used for
+the Trapezoid rule, the interpolation used with Simpson’s Rule will more closely match the function f
+compared to the linear interpolations used with the Trapezoid rule. Since the function is more closely
+approximated, the integral will be more closely approximated.
+
+4. The graph of an unknown function f is given below. Marked on the graph is the point p = (1.3, f (1.3)).
+
+3
+
+2
+
+1
+
+−1
+
+−1
+
+−2
+
+p
+
+1
+
+2
+
+3
+
+4
+
+(a) (1 point) Let T1 be the first Taylor approximation to f centered at 1.3. The graph of T1 intersects
+the graph of f at p and at one other point q = (qx, qy). Give your best estimate for the value of qx.
+Note: your estimate should be within at least 0.5 of the true answer.
+
+qx ≈
+
+−0.5
+
+(b) (1 point) Let P (x) = a(x − 1.3)2 + b(x − 1.3) + c be the second Taylor approximation to f centered
+
+at 1.3. What can you say about a? Select the best answer.
+
+a > 0
+(cid:13) a < 0
+
+(cid:13) a = 0
+
+(cid:13) Not enough information to determine
+
+Page 2
+
+5. The function f has a Taylor series centered at 0 of
+
+T (x) =
+
+∞
+(cid:88)
+
+n=0
+
+(n + 1)2
+n!
+
+xn.
+
+(a) (1 point) Provide a well-written definition of the statement “the series T (3) converges”. Do not
+
+determine whether T (3) converges. Only write the definition of convergence.
+
+∞
+(cid:88)
+
+The series T (3) =
+
+(n + 1)2
+n!
+exists and is finite. That is,
+
+n=0
+
+lim
+N →∞
+
+SN exists.
+
+3n converges if the limit of the partial sums SN =
+
+N
+(cid:88)
+
+n=0
+
+(n + 1)2
+n!
+
+3n
+
+(b) (1 point) Let L be the 3rd Taylor approximation to f centered at 0. Write an expression for L
+
+L(x) =
+
+1 + 22x + 32
+
+2! x2 + 42
+
+3! x3 = 1 + 4x + 9
+
+2x2 + 8
+
+3x3 =
+
+3
+(cid:88)
+
+n=0
+
+(n + 1)2
+n!
+
+xn
+
+(c) (2 points) Let F be the Taylor series for
+
+(cid:90) x
+
+0
+
+f (t) dt centered at 0. Express F using Σ-notation.
+
+F (x) =
+
+∞
+(cid:88)
+
+n=0
+
+(n + 1)
+n!
+
+xn+1
+
+=
+
+∞
+(cid:88)
+
+n=0
+
+(n + 1)2
+(n + 1)!
+
+xn+1
+
+=
+
+∞
+(cid:88)
+
+n=1
+
+n
+(n − 1)!
+
+xn
+
+Scratch work:
+
+Page 3
+
+6. (1 point) In this question, you are asked to draw, if possible, the graph of a function f subject to various
+
+restrictions. If no such function exists, you are to mark the option “No such f exists”.
+
+Note: if you feel like your drawing is unclear, you may add a description in words below your graph.
+f satisfies that
+
+• f is continuous;
+• f is defined on its entire domain [0, 2];
+• f (0) = 0; and
+
+• the improper integral
+
+(cid:90) 2
+
+0
+
+1
+f (x)
+
+dx converges and is negative.
+
+Note: you are drawing f but integrating 1/f .
+
+(cid:13) Such an f exists (cid:13) No such f exists
+
+1
+
+−1
+
+1
+
+2
+
+7. (1 point) The function f is a polynomial with roots 4, −1, 6 + i, and 6 − i. Define h(x) = x
+
+f (x). Let T
+
+be the Taylor series for h centered at 1.
+What is the radius of convergence of T ?
+
+R =
+
+2
+
+Page 4
+
+8. Pam, an astronomer, wants to determine the mass of a planet of radius 106 metres. Using spectroscopy,
+Pam has determined the chemical makeup of the planet and used this information to estimate the radial
+density of the planet (i.e., the density r metres from its centre). The estimate is given by
+
+˜ρ(r) =
+
+1
+r2(r + 4)
+
+in units of kilograms per metre cubed.
+In the following questions, you may use the fact that the mass of a sphere with radial density ρ(r) and
+radius R is given by the formula
+
+(cid:90) R
+
+M =
+
+4πr2 · ρ(r) dr.
+
+(a) (2 points) Based on Pam’s calculations, she has determined that |˜ρ(r) − ρ(r)| ≤ 1
+
+100, where ρ(r) is
+
+the true radial density of the planet.
+Using this information, set up an integral that gives the best possible upper bound for the mass,
+M , of the planet. Do not evaluate your integral.
+
+0
+
+M ≤
+
+(cid:90) 106
+
+0
+
+(cid:18)
+
+4πr2 ·
+
+1
+r2(r + 4)
+
++
+
+1
+100
+
+(cid:19)
+
+dr =
+
+(cid:90) 106
+
+0
+
+4π
+r + 4
+
++
+
+πr2
+25
+
+dr
+
+Find an upper bound for M . There is no need to simplify, but all integrals must be evaluated.
+
+M ≤
+
+ln(106 + 4) · 4π − ln(4) · 4π + π1018
+75
+
+(cid:16)
+
+= π
+
+4 ln(106 + 4) − 4 ln(4) + 1018
+75
+
+(cid:17)
+
+Scratch work:
+
+Page 5
+
+(b) After reading Pam’s paper on planet mass, her graduate student, Alice, suggests a correction. Alice
+claims that the uncertainty in the radial density of the planet is greater near its core than at the
+outer edges.
+Pam and Alice have the following exchange:
+
+Alice: A better bound to use would be |˜ρ(r) − ρ(r)| ≤ 1
+of the planet at radius r.
+Pam: But at r = 0, that bound is invalid.
+Alice: If we use improper integrals, we can arrive at a bound even if some of the functions
+are undefined at a particular point.
+
+r3(r+4), where ρ(r) is the true density
+
+i. (1 point) Write down a single (improper) integral that uses Alice’s idea to get an upper bound
+
+for the mass, M , of the planet.
+
+M ≤
+
+(cid:90) 106
+
+0
+
+(cid:18)
+
+4πr2
+
+1
+r2(r + 4)
+
++
+
+1
+r3(r + 4)
+
+(cid:19)
+
+dr =
+
+(cid:90) 106
+
+0
+
+4π
+r + 4
+
++
+
+4π
+r(r + 4)
+
+dr
+
+ii. (1 point) Express the (improper) integral above as limit(s) of proper integrals.
+
+(cid:90) 106
+
+k
+
+lim
+k→0+
+
+4π
+r + 4
+
++
+
+4π
+r(r + 4)
+
+dr
+
+Page 6
+
+iii. (2 points) Is Alice correct? By using an improper integral, will Alice get a valid (i.e., real
+
+number) bound on the mass of the planet? Provide a well-written justification.
+(cid:13) Will provide a valid bound
+
+Will not provide a valid bound
+
+Justification:
+
+To evaluate the improper integral from part ii, we first compute
+
+(cid:90)
+
+4π
+r + 4
+
++
+
+4π
+r(r + 4)
+
+dr
+
+= 4π ln(r + 4) + π ln r − π ln(r + 4) + C
+
+= 3π ln(r + 4) + π ln r + C
+
+Now, using this antiderivative to compute the improper integral, we see
+
+(cid:16)
+
+lim
+k→0+
+
+3π ln(r + 4) + π ln r + C
+
+(cid:17)
+
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+(cid:12)
+
+106
+
+k
+
+= 3π ln(106 + 4) + π ln(106) − 3π ln 4 − π ln k = ∞,
+
+and so the improper integral diverges. This means that the bound coming from Alice’s sug-
+gestion is not helpful and is not a real-number.
+
+Scratch work:
+
+Page 7
+
+9. The moment about the y-axis of a function q on the interval [a, b], sometimes written M(q), is
+
+(cid:90) b
+
+a
+
+x·q(x) dx.
+
+(a) (1 point) Find the moment about the y-axis of the sine function on the interval [0, π]. No need to
+
+simplify, however all integrals must be evaluated.
+M(sin) =
+
+π
+
+(b) (2 points) Find the moment about the y-axis of the function h(x) = e−x4
+Simplify your answer and provide a well-written justification.
+Note 1: You must simplify your final answer.
+Note 2: You must show your work.
+Note 3: Even though h does not have an anti-derivative in terms of elementary functions, you have
+enough information to answer this question.
+
+on the interval [−2, 2].
+
+M(h) =
+
+0
+
+Justification:
+
+Method 1:
+Let g(x) = xh(x) = xe−x4
+
+(cid:90) 2
+
+odd function. Therefore,
+
+origin.
+
+−2
+
+. Notice that g(−x) = −xe−(−x)4 = −xe−x4 = −g(x) and so g is an
+
+g(x) dx = 0, since the domain of integration is symmetric about the
+
+Method 2:
+Proceed with integration by substitution. Let u = x2 and so du = 2xdx. Now,
+
+(cid:90) x=2
+
+x=−2
+
+xe−x4 dx =
+
+(cid:90) x=2
+
+x=−2
+
+1
+
+2e−u2 du.
+
+Since u = x2, when x = −2 we have u = 4 and when x = 2, we have u = 4. Therefore
+
+(cid:90) x=2
+
+x=−2
+
+xe−x4 dx =
+
+(cid:90) u=4
+
+u=4
+
+1
+
+2e−u2 du.
+
+Since this is an integral from 4 to 4, its value is zero.
+
+Page 8
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 9
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 10
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 11
+
+YOU MUST SUBMIT THIS PAGE.
+
+If you would like work on this page scored, then clearly indicate to which question the work belongs and
+indicate on the page containing the original question that there is work on this page to score.
+
+Page 12
+
+

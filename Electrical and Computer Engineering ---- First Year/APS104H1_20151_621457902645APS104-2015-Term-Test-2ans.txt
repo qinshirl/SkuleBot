@@ -1,0 +1,339 @@
+Aps104-22015 term test 2: numerical answers 
+QUESTION 1:  Ideal Gas Law (20 pts) 
+20 g of propane (C3H8) is in a 2 L container at 25°C.  
+
+a)  what is the pressure in the container (in atm), assuming that propane behaves like an ideal gas ?  
+
+5.549 atm 
+
+b)  assuming Van der Waals behavior, recalculate the pressure (a = 9.39 L2 atm mol-1  and b=0.0905 
+
+L/mol) [4 pts] 
+
+5.182 atm 
+
+c)  calculate the exact number of moles of oxygen needed to burn all the propane according to: 
+
+𝐶!𝐻! +   5𝑂! = 3𝐶𝑂! + 4𝐻!𝑂 (𝑔) 
+
+[2 pts] 
+
+2.268 mol 
+
+d)  If  we add the exact number of moles of O2 from part c) into the same 2L container, and 
+
+assuming the reaction in part 1c) takes place completely, calculate the final pressure in the vessel 
+assuming: 
+• 
+ideal gas behavior 
+• 
+the temperature rises to 150°C 
+•  water remains as water vapor 
+
+[5 pts] 
+
+e)  recalculate the answer in part d) if you start with only half the amount of oxygen calculated in 
+part c), and also calculate (in addition to the total pressure) the partial pressures and mole 
+fractions of all the remaining gasses. [7 pts] 
+
+QUESTION 2:  First Law of Thermodynamics (20 pts) 
+
+A quantity of 0.45 mol of neon is confined in a container at 3.5 atm and 298 K and then allowed to 
+expand under three different conditions.  
+
+Page 1 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+(a)  In the first process, the gas expands adiabatically and reversibly to 1.00 atm. Calculate the final 
+
+temperature and the work done. [6 pts] 
+
+T = 180.5 K 
+W = -659J 
+
+ (b)   In the second process, the gas expands adiabatically against a constant pressure of 1.00 atm. 
+
+Calculate the final temperature and the work done. [6 pts]  
+
+T = 212.9K 
+
+w = -478J 
+
+(a)  In the third process, the gas expands isothermally and reversibly until its volume reaches the same 
+value as the final volume in part (a). Determine the value of the final volume and the final pressure 
+of this reversible isothermal expansion. [4 pts] 
+
+V = 6.67L  P = 1.65 atm 
+
+(d)  On a P-V diagram, sketch the paths described in (a) and (c). In which process was more work 
+performed? On the diagram, shade the area that represents the difference in the work done in process (a) 
+and process (c) [4 pts] 
+
+QUESTION 3:  First Law of Thermodynamics (20 pts) 
+
+(a)  The density of liquid water at 100 ̊C is 0.9584 g/cm3, and that of steam at the same temperature 
+is 0.000596 g/cm3. If the enthalpy of evaporation of water at atmospheric pressure is 40.63 
+kJ/mol, what is ΔU? How much work is done by the system during the evaporation process?  
+Hint: Consider calculating molar volumes first. [5 pts] 
+
+Work done by the system = 3.06 kJ (or w = -3.06 kJ) 
+
+ΔU = ΔH − Δ(PV) = 40.63kJ /mol − (1atm)(30.20L)(101.325J / Latm)(1kJ /1000J) = 37.6kJ /mol 
+
+Page 2 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+(b) Would you expect for the fusion process (ice to water) the difference between  ΔU and ΔH to be 
+larger or smaller than the one calculate in (a) for the vaporization process? Explain. [3 pts] 
+
+We would expect the difference between ΔU and ΔH to be really small, as the density difference 
+between solid and liquid is much smaller than between liquid and gas. As such the difference 
+between molar volumes of those two states would be much smaller, and thus work would be 
+much smaller, leading to a negligable difference between ΔU and ΔH. 
+
+(c)  How much heat is required to heat 2 moles of water (ice at -10 ̊C) to gasous water vapour at 
+
+110 ̊C? Sketch the process on a temperature vs heat graph. [6 pts] 
+ Given: ΔHfusion=6.	01 kJ/mol, ΔHvapourization= 40.67 kJ/mol,  
+C
+2.08J/gK
+=
+
+2.11J/gK
+
+4.18J/gK
+
+vapour
+
+water
+
+=
+
+=
+
+C
+
+C
+
+ice
+
+P
+
+P
+
+P
+
+q = 109.9 kJ 
+
+(d) A chunk of ice at 270 K, weighing 30 grams, is dropped into 300 g of liquid water at 300 K. 
+Determine the final temperature of the system once equilibrium has been reached. Use any 
+constants that you need from parth (c). [6 pts] 
+
+T	290.15K 
+
+Question 4: Thermochemistry 
+
+A table (4.1) with thermodynamic data is provided. The heat of combustion for formaldehyde 
+(CH2O) is -233 kJ (mol-1 CH2O) at the standard state (298.15 K, 1 bar, products and reactants 
+are both in the gas phase).  
+a)  Determine the heat of formation for formaldehyde (CH2O) at standard state. [5 pts] 
+
+-116 kJ/mol 
+
+b)  The heat of reaction for the reverse Water-Gas-Shift reaction (298.15 K, 1 bar) is:  
+CO2 (g) +H2(g) à H2O (l) +CO (g)     
+Δ=−
+Determine the heat of reaction for the following reaction at standard state: 
+
+kJ (mol-1) 
+
+RXNH
+
+288
+
+0
+
+Page 3 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+										
+								
+										
+Name: _________________________________                Student No: ___________________________ 
+
+CH2O (g) à CO (g) +H2(g) 
+Show your work. [5 pts] 
+
++6 kJ/mol 
+
+c)  Determine the heat of combustion (in kJ (mol-1 CH2O)) for formaldehyde at 500 K. [4 pts] 
+
+-231.6 kJ/mol 
+
+d)  Using Bond Enthalpy Table (Bond Dissociation Energies for the various bonds listed below), 
+
+estimate the heat of reaction for the following reaction at the standard state. [4 pts] 
+
++69 kJ/mol 
+
+e)  The heat capacity for CO2 (liquid) is  HIGHER 
+
+than       CO2(gas) (circle one) [2 pts] 
+
+Question 5: Entropy 
+
+i) 
+In a process taking place inside a system, 1.5 mole of a monoatomic ideal gas is expanded 
+adiabatically from 500°C and 5 bar to a final pressure of 2 bar. Calculate ΔSsystem, ΔSsurroundings, and 
+ΔSuniverse for the following conditions: 
+
+a)  if the process is reversible; [3 pts] 
+
+no change in entropy 
+
+b)  if the process is irreversible and expansion is made against vacuum. [4 pts] 
+
+∆𝑆!"! = 11.4  𝐽/𝐾 
+
+∆𝑆!"## = 0 
+
+c)  if the process is irreversible and the work produced is 6000 J; [4 pts] 
+
+∆𝑆!"! = −5.28  𝐽/𝐾 
+
+∆𝑆!"## = 0 
+
+ii) 
+
+Are the following statements true or false? [4 pts] 
+
+Check one  
+T 
+
+F 
+
+  The entropy of a system cannot increase in any adiabatic process. 
+
+  ΔS (universe) for melting ice to water at 0 °C is ZERO. 
+
+It is possible to have the efficiency of the Carnot cycle equal to “1”. 
+
+In a process, «graphite» is transformed to «diamond». ΔS for this process is 
+negative. 
+
+.
+
+. 
+
+iii) 
+
+Page 4 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: _________________________________                Student No: ___________________________ 
+
+a)  Calculate the change in the entropy when 20 g of solid mercury (Hg(s)) at -50°C and 1 bar 
+
+transforms to gaseous mercury at its boiling point. Below are the required thermodynamic data 
+(specific heat capacities, Cp,m, are independent of temperature): [3 pts] 
+
+ΔHfusion = 2.33 kJ/mol 
+ΔHvaporization = 59.11 kJ/mol 
+Cp,m Hg(s) = 28.2 J/mol.K 
+Cp,m Hg(liq) = 27.9 J/mol.K 
+Melting temperature = -39°C 
+Boiling temperature = 357°C 
+
+ ∆𝑆 13.3  𝐽/𝐾  
+
+b)  Using the thermodynamic data provided in part (a), sketch a qualitative graph of the molar 
+entropy of mercury (Hg) as a function of temperature in the range of 0 to 700 K at constant 
+pressure. [2 pts] 
+
+Page 5 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,1043 @@
+MAT186 Calculus I - Fall 2021
+
+Midterm 2 Solutions
+
+November 25, 2021
+
+1.
+
+(1 pt) Select the ONE equation, if any, that is NOT TRUE.
+
+(a) ln(x2 + 2x + 1) − ln(x + 1) = ln(x + 1) − ln(1)
+
+TRUE:
+
+ln(x2 + 2x + 1) − ln(x + 1) = ln (cid:0)x + 1)2 − ln(x + 1)
+
+= 2 ln(x + 1) − ln(x + 1) = ln(x + 1) − 0
+
+= ln(x + 1) − ln(1)
+
+(b) ln(ex23) = x + 3 ln(2)
+
+TRUE:
+
+(c) eln(x+2) ln(x) = (x + 2)ln(x)
+
+TRUE:
+
+ln(ex23) = ln(ex) + ln(23) = x + 3 ln(2).
+
+(Notice also that eln(x+2) ln(x) = (eln(x))ln(x+2) = xln(x+2))
+
+eln(x+2) ln(x) = (eln(x+2))ln(x) = (x + 2)ln(x)
+
+(d) 2 ln( x
+FALSE:
+
+x+1 ) = (ln(x) − ln(x + 1))2
+
+2 ln(
+
+x
+x + 1
+
+) = 2(cid:0) ln(x) − ln(x + 1)(cid:1) = ln(x2) − ln(x + 1)2
+
+̸= (ln(x) − ln(x + 1))2 = (ln(x))2 − 2 ln(x) ln(x + 1) + (ln(x + 1))2
+
+(e) All of the above equations are true.
+
+1
+
+2.
+
+(1 pt) The value of
+
+is
+
+x − tan−1 x
+x3
+
+lim
+x→0
+
+(b)
+
+(a) 0
+1
+3
+1
+6
+(d) +∞
+(e) None of the above
+
+(c)
+
+We see by evaluation that the limit has the indeterminate form ” 0
+rule directly to give
+
+0 ”, so we can apply L’Hopital’s
+
+x − tan−1 x
+x3
+
+lim
+x→0
+
+(cid:98)= lim
+x→0
+
+d
+dx
+
+(cid:0)x − tan−1 x(cid:1)
+d
+dx x3
+
+= lim
+x→0
+
+1 − 1
+3x2
+
+1+x2
+
+1+x2−1
+1+x2
+
+3x2 =
+
+1
+3
+
+= lim
+x→0
+
+x2
+x2(1 + x2)
+
+=
+
+1
+3
+
+1
+1 + 0
+
+=
+
+1
+3
+
+.
+
+lim
+x→0
+
+Hence the correct answer is (b).
+
+3.
+
+(1 pt) Select the ONE expression that is a solution to the following initial value problem.
+
+(cid:40) dy
+
+dt = −(t + 1)2y2et
+y(0) = 1
+
+(a) y(t) = 0
+
+(c) y(t) =
+
+(b) y(t) =
+
+e−t
+t2 + 1
+e−t
+t + 1
+(d) y(t) = e−t/2
+(e) t = −1
+
+We can immediately eliminate (a.) as it does not satisfy the initial condition (even though a
+general solution to the differential equation) and (e.) as it is a value of time not a function of
+time. Notice also that (d.) satisfies the differential equation
+
+dy
+dt
+
+= −
+
+1
+2
+
+e−t/2 = −
+
+y
+2
+
+.
+
+Hence the answer is either (b.) or (c.), notice both satisfy the initial condition y(0) = 1. So lets
+show if (b.) satisfies the differential equation directly using the product rule :
+
+dy
+dt
+
+(cid:0)
+
+=
+
+d
+dt
+
+1
+t2 + 1
+= −(t + 1)2(cid:16)
+
+· e−t(cid:1) =
+
+e−t
+(t2 + 1)2
+
+−2t
+
+1
+t2 + 1
+
+(t2 + 1)2 e−t −
+(cid:17)
+e−tet = −(t + 1)2y2et.
+
+e−t = −
+
+t2 + 1 + 2t
+(t2 + 1)2 e−t
+
+Hence we see that the answer is (b.).
+
+2
+
+4.
+
+(1 pt) Consider the initial value problem
+
+= t + y
+
+dy
+dt
+y(0) = 2.
+
+Estimate y(4) using Euler’s method with a step-size h = 1.
+
+(a) y(4) ≈ 19
+
+(b) y(4) ≈ 23
+
+(c) y(4) ≈ 43
+
+(d) y(4) ≈ 47
+
+(e) y(4) ≈ 90
+
+We shall use the Euler formula
+
+yn+1 = yn + (tn + yn) · h,
+
+where y0 = 2 and tn+1 = tn + 1 with t0 = 0. We do this recursively in four steps to find y4 ≈ y(4) :
+
+y1 = 2 + (0 + 2) · 1 = 4
+y2 = 4 + (1 + 4) · 1 = 9
+y3 = 9 + (2 + 9) · 1 = 20
+y4 = 20 + (3 + 20) · 1 = 43.
+
+Thus, y(4) ≈ 43 that is the correct answer is (c.).
+
+3
+
+5.
+
+(1 pt) Fred decides to raise alpacas on his farm. Let W (x) be the amount of wool, in kilograms per
+year, produced by an alpaca who was fed x kilograms of food per day. Select the ONE sentence
+that gives a valid interpretation of the statement W ′(4) = 0.7.
+
+(a) To increase an alpaca’s wool production from 4 kilograms per year to 4.6 kilograms per year,
+
+Fred should feed it about 0.42 extra kilograms of food per day.
+
+(b) To increase a alpaca’s wool production from 4 kilograms per year to 4.1 kilograms per year,
+
+Fred should feed it approximately 0.7 more kilograms of food per day.
+
+(c) An alpaca that is fed 4.3 kilograms of food per day instead of 4 kilograms of food per day
+
+will produce approximately 0.21 additional kilograms of wool per year.
+
+(d) An alpaca that is fed 4.1 kilograms of food per day instead of 4 kilograms of food per day
+
+will produce approximately 0.7 additional kilograms of wool per year.
+
+(e) An alpaca that is fed 4 kilograms of food per day will produce 0.7 kilograms of wool per year.
+
+Options (a) and (b) are eliminated because 4 represents food and 0.7 represents wool, not the
+other way around. Option (e) is eliminated because it represents the statement W (4) = 0.7 about
+the original function, not the derivative. The derivative W ′(4) represents the instantaneous rate
+at which wool production would respond in changes to food delivery. This rate is 0.7 kg wool per
+additional kg of food. Since in option (c), we increase food by 0.3 kilograms, wool would increase
+approximately
+
+0.3 kg food ·
+
+0.7 kg wool
+kg food
+
+= 0.21 kg wool.
+
+Option (d) is incorrect because if we increased food by 0.1 kg, that would cause wool to increase
+by approximately 0.1 · 0.7 = 0.07 kg.
+
+You can also think of this in terms of the linear approximation ∆W = W ′(4)∆X.
+
+4
+
+6.
+
+(1 pt) You were feeling adventurous and you agreed to go skydiving with your friend. After jumping
+from the plane, your speed (in metres) for the first 90 seconds was given by the following function:
+
+f (t) =
+
+(cid:40)
+
+58(1 − e−t/3),
+0 ≤ t ≤ 45
+(53 − 58e−15)e90−2t + 5, 45 < t ≤ 90
+
+(before opening the parachute)
+(after opening the parachute)
+
+Which approach, if any, gives an approximation that guarantees an underestimate of the distance
+that you traveled in the first 90 seconds?
+
+(a) Using a left-endpoint Riemann sum for the interval [0, 90]
+
+(b) Using a right-endpoint Riemann sum for the interval [0, 90]
+
+(c) Using a left-endpoint Riemann sum for t ∈ [0, 45] and a right-endpoint Riemann sum for
+
+t ∈ [45, 90]
+
+(d) Using a right-endpoint Riemann sum for t ∈ [0, 45] and a left-endpoint Riemann sum for
+
+t ∈ [45, 90]
+
+(e) More information is required to guarantee an underestimate.
+
+We recall that on an interval, the left-hand sum is an over-estimate if the function is strictly
+decreasing and an underestimate if the sum is strictly increasing. The opposite is true for the
+right-hand sum, namely overestimate if the function is strictly increasing and an underestimate
+if the function is strictly decreasing. We calculate the derivatives on the separate intervals,
+
+f ′(t) = +
+
+58
+3
+
+e−t/3 > 0 for
+
+t ∈ [0, 45]
+
+and
+
+f ′(t) = −2(53 − 58e−15)e90−2t < 0
+
+for
+
+t ∈ [45, 90]
+
+Hence from the above dialogue concerning under/over-estimates, if we want an underestimate
+over [0, 90] then we want to use a left-endpoint Riemann sum for t ∈ [0, 45] and a right-endpoint
+Riemann sum for t ∈ [45, 90]. Thus the answer is (c).
+
+5
+
+7.
+
+(1 pt) Which ONE of the following expressions is equal to the sum of cubes from 2 to 20:
+
+20
+(cid:88)
+
+i=2
+
+i3 ?
+
+For each of these we can raise or lower the indices to see whether we can reproduce the desired
+sum.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+−4
+(cid:88)
+
+i=−22
+
+i3 (NO)
+
+18
+(cid:88)
+
+j=0
+
+j3 (NO)
+
+8
+(cid:88)
+
+(k − 12)3 =
+
+8−12
+(cid:88)
+
+((i + 12) − 12)3 =
+
+k=−10
+
+i=−10−12
+
+23
+(cid:88)
+
+(l + 3)3 =
+
+23+3
+(cid:88)
+
+((i − 3) + 3)3 =
+
+l=5
+
+19
+(cid:88)
+
+i=5+3
+
+(m + 1)3 =
+
+19+1
+(cid:88)
+
+((i − 1) + 1)3 =
+
+m=1
+
+18
+(cid:88)
+
+i=1+1
+
+18+4
+(cid:88)
+
+(n + 4)3 =
+
+n=−2
+
+i=−2+4
+
+((i − 4) + 4)3 =
+
+26
+(cid:88)
+
+l=8
+
+i3 (NO)
+
+20
+(cid:88)
+
+l=2
+
+i3 (YES)
+
+22
+(cid:88)
+
+n=2
+
+i3 (NO)
+
+8.
+
+(1 pt) Which of the following limits, if any, is equal to the definite integral :
+
+(cid:90) 5
+
+2
+
+x2 dx ?
+
+(a)
+
+lim
+n→∞
+
+(b)
+
+lim
+n→∞
+
+n−1
+(cid:88)
+
+j=0
+
+n−1
+(cid:88)
+
+j=0
+
+(cid:18)
+
+2 +
+
+3(j + 1)
+n
+
+(cid:19)2 (cid:18) 3
+n
+
+(cid:19)
+
+(cid:18)
+
+2 +
+
+(cid:19)
+
+5j
+n
+
+(cid:19)2 (cid:18) 5
+n
+
+5
+(cid:88)
+
+(j)2
+
+(cid:19)
+
+(cid:18) 3
+n
+
+(cid:19)
+
+(cid:18) 3j
+n
+
+(cid:19)2 (cid:18) 3
+n
+
+(c)
+
+lim
+n→∞
+
+(d)
+
+lim
+n→∞
+
+j=2
+
+n+1
+(cid:88)
+
+j=2
+
+(e) None of the above
+
+We see that (c) definitely cannot be a limit of Riemann sums. Option (b) is also eliminated because
+the width ∆x of the interval is wrong. Option (d) is also eliminated because the leftmost and
+rightmost ‘endpoints’ (3j/n when j = 2 and when j = n + 1) would not converge to 2 and 5.
+By reindexing, option (a) is indeed a correct limit of a right-endpoint Riemann sum. Hence the
+correct answer is (a).
+
+END of Multiple Choice part
+
+6
+
+9.
+
+(5 pts total) A rectangle expands such that its length is always twice as long as its width. (This
+statement applies to parts (a), (b), and (c).)
+
+(a) (1 pt) When its width is growing at 5 cm per minute, at what rate is its length increasing?
+
+Let’s call the width W and the length L. Then from the above statement we note that L = 2W .
+
+We are given
+
+then we find
+
+dW
+dt
+
+= 5
+
+cm
+min
+
+and we want to find dL
+
+dt =?. If we differentiate our relationship
+
+dL
+dt
+
+= 2
+
+dW
+dt
+
+= 10
+
+cm
+min
+
+.
+
+Length is increasing at 10 cm
+min
+
+(b) (2 pts) When its width is equal to 7 cm, and the width is growing at 5 cm per minute, at what
+rate is the area of this rectangle increasing? (You do not have to simplify your answer)
+
+dt = 5 cm
+
+Here we are again given that dW
+dt =? when W = 7cm. Re-
+call that L = 2W so L = 14 at this particular moment. As in part (a), differentiating L = 2W
+with respect to time we get dL
+Differentiating the area A = W L with respect to time, using the product rule and plugging
+in our known quantities gives
+
+min and we want to find dA
+
+dt = 2 dW
+
+dt = 10.
+
+dA
+dt
+
+=
+
+dW
+dt
+
+L + W
+
+dL
+dt
+
+= (5)(14) + (7)(10) = 140
+
+cm2
+min
+
+.
+
+It is also possible to use L = 2W to rewrite A = W L as either A = 2W 2 or A = 1
+cases taking the derivative (and using the chain rule where required) yields
+
+2 L2. In these
+
+Area is increasing at 140 cm2
+min
+
+or
+
+dA
+dt
+
+= 4W
+
+dW
+dt
+
+dA
+dt
+
+= L
+
+dL
+dt
+
+= (4)(7)(5) = 140
+
+= (14)(10) = 140
+
+7
+
+(c) (2 pts) The rectangle- still with its length always equal to twice its width- is the middle cross-
+section of a cylinder, so that the length of the rectangle is the height of the cylinder and the
+width of the rectangle is the diameter of the circular end of the cylinder.
+
+When the height of this cylinder is 20 cm and is increasing at 30 cm per minute, at what rate
+is its volume expanding? (You do not have to simplify your answer)
+
+w
+
+ℓ
+
+First, lets recall that a cylinder of height h and base radius r has a volume of
+
+V = πr2h.
+
+From the information given in the first paragraph notice that h = L and r =
+rewrite the volume as V = π
+and chain rules where required, gives the change in volume by
+
+. We can
+4 W 2L. Differentiating with respect to time, and using the product
+
+W
+2
+
+dV
+dt
+
+=
+
+π
+2
+
+W
+
+dW
+dt
+
+L +
+
+π
+4
+
+W 2 dL
+dt
+
+We are given that L = 20 cm and dL
+W = 10 and dW
+
+dt = 15. We substitute in the known quantities at this instant.
+
+dt = 30 cm
+
+min . Again from L = 2W and dL
+
+dt = 2 dW
+
+dt we find that
+
+dV
+dt
+
+=
+
+π
+2
+
+(10)(15)(20) +
+
+π
+4
+
+(10)2(30) = 2, 250π
+
+cm3
+min
+
+.
+
+Volume is expanding at 2, 250π cm3
+min
+
+We could write the volume as a function of L :
+V = π(cid:0) L
+4
+
+(cid:1)2L =
+
+π
+16
+
+L3.
+
+Differentiating and substituting known quantities at the instant would yield
+
+dV
+dt
+
+=
+
+3π
+16
+
+L2 dL
+dt
+
+=
+
+3π
+16
+
+(20)2(30) = 2, 250
+
+Something similar can be done with W , giving the same result.
+
+8
+
+10.
+
+(4 pts total) Fred is building a rectangular pen1 for his alpacas2. He will use the an existing rock
+wall as part of his pen. The existing rock wall consists of a 15 meter segment forming a corner
+with a 45 meter segment. The entire rock wall must be used as part of the pen.
+
+(a) (2 pts) If Fred has 140 meters of wooden fencing to add, what is the area of the largest pen
+he can build? (the drawing does not necessarily reflect what the optimal case looks like)
+
+Fence
+
+45m
+
+Rock wall
+
+15m
+
+We first define the horizontal part of our rectangular pen by x and the vertical part of our
+pen by y. Then the area of our rectangular pen is given by A = x · y. We will now take note
+that we have a constraint on the perimeter P = 140m, which is written in term of x and y as
+
+140 = P = x + (x − 15) + y + (y − 45) =⇒ x + y = 100.
+
+Hence we want to optimize the area A = x · y subject to the constraint x + y = 100. We now
+substitute our constraint into the area function so that A = A(x) and we want to maximize
+the function
+
+A(x) = x · (100 − x) = 100x − x2
+
+15 ≤ x ≤ 55.
+
+Notice the range in x ∈ [15, 55] is required since the entire rock wall must be used. Clearly x
+must be at least as large as the horizontal part of the wall, 15m. To see why x can’t be bigger
+than 55m, substitute in the smallest possible y-value, 45m, into the constraint equation
+x + y − 100.
+Then we check for critical points by taking the derivative
+
+A′(x) = 100 − 2x = 0 =⇒ x = 50 ∈ [15, 55].
+
+Therefore the global maximum on this interval could be at x = 50 or at one of the endpoints
+x = 15 or x = 55. Notice that A′(x) = 100−2x > 0 when x < 50 and A′(x) = 100−2x < 0 when
+x > 50. Hence by the first derivative test this point is indeed a local maximum. Moreover,
+the function increases from x = 15 to x = 50, and decreases from x = 50 to x = 55. Thus,
+the area is maximized when x = y = 50 with an area of
+
+1A pen is a fenced-in area for animals.
+2An alpaca is a cute and fuzzy animal.
+
+A(20) = 50 · 50 = 2, 500.
+
+9
+
+Area of the pen: 2500m2
+
+You could also compare the critical point the endpoints (A(15), A(50), and A(55)) to see
+which has the largest value, but this requires more multiplication by hand.
+
+(b) (2 pts) If instead Fred only has 110 meters of wooden fencing to add, what is the area of the
+
+largest pen he can build?
+
+The setup is the same, albeit with different constraint on the perimeter P = 110m, which is
+written in term of x and y as
+
+110 = P = x + (x − 15) + y + (y − 45) =⇒ x + y = 85.
+
+Hence we want to optimize the area A = x · y subject to the constraint x + y = 85. We now
+substitute our constraint into the area function so that A = A(x) and we want to maximize
+the function
+
+A(x) = x · (85 − x) = 85x − x2
+
+15 ≤ x ≤ 40.
+
+We check for critical points by taking the derivative
+
+A′(x) = 85 − 2x = 0 =⇒ x = 85/2.
+
+Notice that x = 85/2 = 42.5 > 40, which is outside our interval. Hence we compare the
+endpoints
+
+A(15) = 15 · 60 = 10 · 60 + 5 · 60 = 600 + 300 = 900.
+
+A(40) = 40 · 45 = 20 · 90 = 1800.
+
+Hence by the extreme value theorem, the max area is given by 1800 when x = 40 and y = 45.
+
+Area of the pen:1800m2
+
+10
+
+11.
+
+(5 pts total) Lego Batman has been trapped by Scarecrow. Scarecrow has created a new liquid
+called Globbo that behaves like water but stays in a perfect sphere even under gravity.
+
+Batman has been thrown into a sphere of Globbo. The Globbo sphere is evaporating at a rate
+proportional to its surface area (with constant of proportionality α) and Batman wants to know
+how long it will take for it to get small enough to manage the situation.
+
+(a) (3 pts) At first, Lego Batman decides to figure out how quickly the mass of the liquid is shrink-
+ing. He knows that the density of Globbo is 2,000 kg/m3 and that the sphere had a radius
+of 3 m when he was thrown into it. Find a differential equation and initial condition for the
+mass that uses only the following unknowns: mass, time, and the constant of proportionality.
+
+Let the density be given by ρ = 2, 000 kg
+m3 and we recall that the volume of a sphere V = 4π
+where R is the radius of a sphere. The mass M = M (t) is related to these quantities via
+
+3 R3
+
+M = ρV =
+
+4ρπ
+3
+
+R3 kg
+
+m3 =⇒ R =
+
+(cid:16) 3M
+4ρπ
+
+(cid:17)1/3
+
+.
+
+Recall that the surface area of a sphere is A = 4πR2. Since the volume is changing in-
+time proportional( with constant α) to the surface area A, we have dV
+dt = αA. Then, after
+differentiating M = ρV in-time and substituting, we have
+
+dM
+dt
+
+= ρ
+
+dV
+dt
+
+= ραA = 4ρπαR2 = (ρ)(α)(4π
+
+(cid:16) 3M
+4ρπ
+
+(cid:17)2/3
+
+)
+
+From our original relationship between the radius R and mass M , we see that the initial
+mass M (0) at R = 3 m satisfies
+
+M (0) =
+
+4ρπ
+3
+
+(3 m)3 kg
+
+m3 = 36ρπ kg.
+
+Differential equation: dM
+
+dt = (ρ)(α)(4π
+
+(cid:16) 3M
+4ρπ
+
+(cid:17)2/3
+
+)
+
+Initial condition: M (0) = 36ρπ kg
+
+There are two other valid interpretations of the differential equation. One is that you could
+have assumed ‘evaporation’ means dM
+dt = αA; in this case your solution
+would simply be missing the one factor of ρ out front. The other is that you could have
+assumed α had to be positive so you put −α to represent a decreasing volume.
+
+dt = αA instead of dV
+
+11
+
+(b) (2 pts) After getting the first result, Batman tries a new approach and wants to figure out the
+radius of the sphere. Find a differential equation for the radius that uses only the following
+unknowns: radius, time, and the constant of proportionality.
+
+In order to find the differential equation for the Radius R = R(t) we differentiate V = 4
+in terms of time.
+
+3 πR3
+
+dV
+dt
+
+= 4πR2 dR
+dt
+
+Then, since we are given dV
+to one another.
+
+dt = αA = α4πR2, we can set these two expressions for dV
+
+dt equal
+
+4πR2 dR
+dt
+dR
+dt
+
+=⇒
+
+= α4πR2
+
+= α
+
+Differential equation: dR
+
+dt = α
+
+If you assumed dM
+dt = αA instead of dV
+also have a negative sign in front of α.
+
+dt = αA, your solution would be dR
+
+dt = α/ρ. You may
+
+END of Long Answer part
+
+12
+
+

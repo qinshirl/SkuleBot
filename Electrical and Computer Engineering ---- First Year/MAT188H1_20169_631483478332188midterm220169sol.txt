@@ -1,0 +1,2828 @@
+Tuesday November 15
+
+START: 13:10
+
+DURATION: 110 mins
+
+University of Toronto
+
+Faculty of Applied Science & Engineering
+
+MIDTERM EXAMINATION II
+MAT188H1F
+Linear Algebra
+
+EXAMINERS: D. Burbulla, S. Cohen, D. Fusca, F. Lopez, M. Palasciano, M. Pugh, B. Schachter, S. Uppal
+
+Last Name (PRINT):
+
+Given Name(s) (PRINT):
+
+Student NUMBER:
+
+Student SIGNATURE:
+
+EMAIL @mail.utoronto.ca:
+
+Instructions.
+
+1. There are 58 possible marks to be earned in this exam. The examination booklet contains a total of 11 pages.
+
+It is
+your responsibility to ensure that no pages are missing from your examination. DO NOT DETACH ANY PAGES FROM
+YOUR EXAMINATION.
+
+2. DO NOT WRITE ON THE QR CODE AT THE TOP RIGHT-HAND CORNER OF EVERY PAGE OF YOUR EXAM-
+
+INATION.
+
+3. For the full answer questions, WRITE YOUR SOLUTIONS ON THE FRONT OF THE QUESTION PAGES THEM-
+
+SELVES. THE BACK OF EVERY PAGE WILL NOT BE SCANNED AND SEEN BY THE GRADERS.
+
+4. Ensure that your solutions are LEGIBLE.
+
+5. No aids of any kind are permitted. CALCULATORS AND OTHER ELECTRONIC DEVICES (INCLUDING PHONES)
+
+ARE NOT PERMITTED.
+
+6. Have your student card ready for inspection.
+
+7. There are no part marks for Multiple Choice (MC) questions.
+
+8. You may use the two blank pages at the end for rough work. The last two pages of the examination WILL NOT BE
+
+MARKED unless you clearly indicate otherwise on the question pages.
+
+9. For the full answer questions, show all of your work and justify your answers but do not include extraneous information.
+
+1
+
+Part I - Multiple Choice. Clearly indicate your answer to each question by circling your choice. Each question is worth 2 marks.
+
+For each question, choose the BEST option from the given options.
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+0
+
+ =
+
+
+
+1
+0
+.
+
+0
+
+
+
+
+
+
+0
+1
+
+1
+
+
+
+
+
+
+
+ =
+
+
+
+0
+2
+, T
+
+0
+
+
+
+
+
+
+1
+1
+
+0
+
+
+
+
+
+
+
+ =
+
+
+0
+0
+
+1
+
+
+
+, and T
+
+1. Let T : R3 → R3 be the linear transformation such that T
+
+
+
+.
+
+
+
+
+
+
+
+0
+1
+
+
+2
+
+Determine T
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+
+
+1
+1
+1
+−1
+1
+4
+−1
+
+
+1
+1
+
+0
+
+
+0
+0
+
+0
+
+
+
+
+
+
+
+Answer: C
+Solution:
+
+We start by noting that the three argument vectors,
+
+
+
+0
+1
+,
+
+1
+
+
+
+1
+1
+, and
+
+0
+
+combination of them to write the three unit vectors. This means that we can express
+
+ as a
+
+ + b
+
+ + c
+
+what a, b, and c are later, but for now, we know that T
+
+ = aT
+
+
+
+
+
+ + bT
+
+
+
+ + cT
+
+
+
+ since T is a linear
+
+
+
+1
+0
+, are linearly independent as we can use a linear
+
+0
+
+
+
+1
+0
+. We will ﬁnd
+
+0
+
+
+
+
+0
+1
+
+1
+
+
+
+
+0
+1
+
+2
+
+
+
+
+
+
+1
+1
+
+
+0
+
+
+
+
+1
+1
+
+0
+
+
+1
+0
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+
+
+2
+
+
+
+
+
+
+
+
+0
+1
+
+1
+
+transformation. Thus,
+
+T
+
+. Also, from before we know that
+
+
+
+
+
+
+
+
+
+0
+1
+
+
+2
+
+ = a
+
+
+
+0
+2
+ + b
+
+0
+
+
+
+0
+0
+ + c
+
+1
+
+
+1
+0
+
+0
+
+
+
+ =
+
+
+0
+2
+
+0
+
+0
+0
+1
+
+
+1
+0
+ ·
+0
+
+
+
+
+
+
+
+
+
+a
+b
+c
+
+
+
+
+
+0
+1
+ = a
+
+2
+
+
+0
+1
+
+1
+
+
+
+ + b
+
+
+1
+1
+
+0
+
+ + c
+
+
+
+1
+0
+ =
+
+0
+
+
+0
+1
+
+1
+
+1
+1
+0
+
+
+
+ ·
+
+1
+0
+0
+
+
+
+
+
+
+
+
+
+a
+b
+c
+
+. Thus, we can ﬁnd
+
+
+
+
+
+
+
+ by evaluating
+
+
+0
+1
+
+1
+
+a
+b
+c
+
+
+
+-1
+
+1 1
+1 0
+0 0
+
+
+
+
+
+0
+1
+.
+
+2
+
+·
+
+2
+
+To ﬁnd
+
+
+
+-1
+
+
+
+
+
+0 1 1
+1 1 0
+1 0 0
+
+
+
+, we adjoin the identity matrix and do row operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+1
+
+1
+1
+0
+
+1
+0
+0
+
+1
+0
+0
+
+1
+1
+0
+
+0
+1
+1
+
+0
+1
+1
+
+0
+1
+0
+
+1
+0
+0
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+1
+0
+0
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+1
+0
+
+0
+1
+0
+
+0
+1
+0
+
+0
+1
+-1
+
+
+
+
+
+
+
+
+
+0
+0
+1
+
+1
+0
+0
+
+
+
+
+
+1
+-1
+0
+
+
+
+
+
+1
+-1
+1
+
+Swap rows 1 and 3.
+
+Subtract row 1 from row 2.
+
+Subtract row 2 from row 3.
+
+Thus, we get
+
+
+
+-1
+
+
+
+
+
+
+
+
+
+0 1 1
+1 1 0
+1 0 0
+
+
+0
+1
+
+
+2
+
+
+
+
+
+
+0
+0
+
+1
+
+=
+
+
+0
+2
+
+0
+
+0
+1
+-1
+0 1
+0 0
+1 0
+
+1
+-1
+1
+
+
+
+
+
+ ·
+
+
+
+
+
+
+
+ =
+
+
+
+
+
+1
+4
+-1
+
+2
+-1
+1
+
+Therefore, T
+
+ =
+
+
+
+, which means that
+
+
+
+
+
+
+
+a
+b
+ =
+c
+
+
+0
+0
+
+1
+
+0
+1
+-1
+
+
+
+ ·
+
+1
+-1
+1
+
+
+
+0
+1
+ =
+
+2
+
+
+
+.
+
+
+
+
+
+2
+-1
+1
+
+ and the answer is C.
+
+3
+
+2. Let T : R2 → R2 be the linear transformation deﬁned by T
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)a
+b
+
+(cid:20)a + 2b
+a + b
+
+=
+
+(cid:21)
+. If T −1
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)3
+1
+
+=
+
+(cid:20)c
+d
+
+(cid:21)
+
+, ﬁnd c + d.
+
+(A) -1
+(B) 0
+(C) 3
+(D) 1
+(E) 2
+
+Answer: D
+Solution:
+
+We know that if T
+(cid:21)(cid:19)
+
+Thus if T -1
+
+(cid:18)(cid:20)3
+1
+
+This means that
+
+To ﬁnd
+
+(cid:21)-1
+
+(cid:20)1 2
+1 1
+
+=
+
+(cid:21)
+
+(cid:20)a + 2b
+a + b
+(cid:21)
+(cid:20)3
+1
+
+(cid:18)(cid:20)a
+b
+
+(cid:21)(cid:19)
+
+=
+
+(cid:21)(cid:19)
+
+(cid:20)1
+1
+
+=
+
+(cid:21)
+.
+
+(cid:20)a
+b
+
+(cid:20)1
+1
+(cid:21)
+2
+1
+
+·
+
+·
+
+(cid:21)
+2
+1
+(cid:20)c
+d
+
+(cid:21)
+.
+
+then T
+(cid:18)(cid:20)c
+d
+
+, then
+
+= T
+
+(cid:21)
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)a
+b
+(cid:20)c
+d
+(cid:20)1
+1
+
+=
+
+=
+
+(cid:21)
+
+(cid:20)c
+d
+
+(cid:21)-1
+
+2
+1
+
+(cid:21)
+(cid:20)3
+.
+1
+
+·
+
+, we adjoin the identity matrix and do row operations.
+
+Subtract row 1 from row 2.
+
+Negate row 2.
+
+Subtract twice row 2 from row 1.
+
+(cid:20) 1
+1
+(cid:20) 1
+0
+(cid:20) 1
+0
+(cid:20) 1
+0
+
+(cid:21)
+
+2
+1
+
+1
+0
+
+0
+1
+
+2
+1
+-1 -1
+
+2
+1
+
+0
+1
+
+1
+1
+
+-1
+1
+
+(cid:21)
+
+(cid:21)
+
+(cid:21)
+
+0
+1
+
+0
+-1
+
+2
+-1
+
+Thus, we get
+
+(cid:21)-1
+
+(cid:20)-1
+1
+If c = -1 and d = 2 then c + d = 1, and so the answer is D.
+
+, which means that
+
+(cid:20)1 2
+1 1
+
+(cid:20)-1
+1
+
+(cid:20)c
+d
+
+2
+-1
+
+=
+
+=
+
+(cid:21)
+
+(cid:21)
+
+(cid:21)
+
+2
+-1
+
+(cid:20)3
+(cid:21)
+1
+
+·
+
+=
+
+(cid:21)
+.
+
+(cid:20)-1
+2
+
+4
+
+Part I - Multiple Choice. Clearly indicate your answer to each question by circling your choice. Each question is worth 2 marks.
+
+For each question, choose the BEST option from the given options.
+
+3. Which of the following functions T : R2 → R are linear transformations?
+
+(i) T
+
+(ii) T
+
+(iii) T
+
+(cid:21)(cid:19)
+
+(cid:21)(cid:19)
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)x
+y
+
+(cid:18)(cid:20)x
+y
+
+(cid:18)(cid:20)x
+y
+
+= 2x + 5y − 3.
+
+= 2x + 5y.
+
+= |x|
+
+(A) (i) only
+(B) (ii) only
+(C) (i) and (ii) only
+(D) (iii) only
+(E) (ii) and (iii) only
+
+Answer: B
+Solution:
+
+i) Does not satisfy T
+
+(cid:21)(cid:19)
+
+(cid:18)
+
+(cid:20)x
+c
+y
+
+= cT
+
+(cid:21)(cid:19)
+
+(cid:18)(cid:20)x
+y
+
+. For example, take
+
+(cid:21)
+
+(cid:20)x
+y
+
+=
+
+ii) Works because we can represent T by the matrix (cid:2)2
+
+iii) Does not work as it does not satisfy T
+
+Thus the answer is B.
+
+(cid:21)(cid:19)
+
+(cid:18)
+
+(cid:20)x
+-
+y
+
+= -T
+
+5(cid:3) since (cid:2)2
+(cid:21)(cid:19)
+(cid:18)(cid:20)x
+y
+
+.
+
+(cid:21)
+(cid:20)1
+2
+5(cid:3) ·
+
+5
+
+and c = 3.
+(cid:20)x
+y
+
+(cid:21)
+
+= 2x + 5y and matrices are linear.
+
+4. Let A, B, and C be n × n matrices. Which of the following statements are TRUE?
+
+(i) If Ax = Bx for every x ∈ Rn, then A = B.
+
+(ii) If A (cid:54)= 0 and AB = AC, then B = C.
+
+(iii) Either the system Ax = b has a unique solution for every b ∈ Rn or there exist non-trivial solutions to the homogenous
+
+system Ax = 0.
+
+(A) (i) and (ii) only
+(B) (ii) only
+(C) (i) and (iii) only
+(D) (i), (ii), and (iii)
+(E) none of (i), (ii), or (iii)
+
+Answer: C
+Solution:
+i) If A and B diﬀer in the jth column then we can consider x=ej. The output of A · x will be the jth column of A. The
+
+output of B · x will be the jth column of B. If these outputs are the same, the columns cannot diﬀer.
+(cid:20)1 0
+(cid:21)
+0 0
+
+ii) This is false. One counterexample is A =
+
+, and C =
+
+(cid:21)
+0
+0
+
+(cid:20)0
+0
+
+(cid:20)0
+0
+
+, B =
+
+0
+1
+
+(cid:21)
+
+. Here, A (cid:54)= 0, the left and right sides are
+
+both
+
+, yet B (cid:54)= C.
+
+(cid:21)
+(cid:20)0 0
+0 0
+
+iii) This is true. The forwards direction is true because if there were two diﬀerent solutions to the equation we would have
+Ax1 = b and Ax2 = b. Thus, Ax1 − Ax2 = 0 so A(x1 − x2) = 0. The backwards direction is true because we can just choose
+b = 0 and we have found our solution.
+
+6
+
+5. Let u, v, w be non-zero, non-parallel vectors in R4 and let W = span{u, v − u, u − w, v + w}. Determine all possible values
+of dim(W ).
+(A) 4
+(B) 1 or 2
+(C) 2 or 3
+(D) 1, 2, or 3
+(E) 1, 2, 3, or 4
+
+Answer: C
+Solution:
+We observe that since 2u + (v − u) − (u − w) − (v + w) = 0, then the set whose span makes up W is not linearly independent
+and so we can remove one of the vectors from the set and W will be unchanged. This also makes sense as all 4 vectors in the
+deﬁnition of W are linear combinations of only three vectors, u, v, and w. Thus, dim(W ) cannot be 4. Also, if u and v are not
+parallel, then u and v − u are not parallel so dim(W ) is at least 2. Thus, the only option that this leaves us C.
+
+7
+
+Part II - Short Answer Questions. Write your solutions in the space provided below each question.
+
+1. Suppose you are given that the matrix A =
+
+
+3
+6 −1
+1 2 −1
+
+0
+2 4
+
+5
+2
+3
+
+
+1
+0
+ has row-echelon form R =
+1
+
+
+1
+0
+
+0
+
+0
+0
+0
+
+0
+1
+1 −1
+0
+0
+
+
+1
+1
+.
+0
+
+(a) Determine rank(A) and nullity(A). [2 marks]
+
+The rank of a matrix is equal to the dimension of the row space, since the row space is invariant under row operations, and the
+dimension of the row space of R is clearly 2, rank(A)=2.
+
+By the rank-nullity theorem, we know that since A has 5 columns, rank(A)+nullity(A)=5 and since rank(A)=2, nullity(A)=3.
+
+(b) Find a basis for row(A). [2 marks]
+
+Whenever we perform a row operation on A, the basis for the row space of the resulting matrix will still be a basis for the row
+space of the initial matrix. Thus, any basis for row(R) will be a basis for row(A).
+
+It is clear that an adequate basis for row(R) is
+
+(c) Find a basis for col(A). [2 marks]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+0
+
+
+0
+
+
+1
+
+1
+
+,
+
+
+
+
+
+
+
+
+
+0
+0
+1
+-1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, which would also then be an adequate basis for row(A).
+
+Since the row rank of A is equal to the column rank of A, we need to choose two linearly independent columns for our basis.
+
+This means choosing two columns that are not multiples of each other, which means
+
+(d) Find a basis for null(A). [2 marks]
+
+
+
+
+
+
+
+
+3
+1
+,
+
+2
+
+
+
+5
+2
+
+
+3
+
+
+
+
+
+
+suﬃce.
+
+We need to solve Ax = 0. We can perform row operations on this system until it is of the form Rx = 0. Thus, we get two
+constrains, that x1 = -x4 − x5 and x3 = x4 − x5. If we set x2 = a, x4 = b, and x5 = c, we get that
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+x1
+x2
+x3
+x4
+x5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-b − c
+a
+b − c
+b
+c
+
+= a
+
+
+
+
+
+
+
+
+
+
+0
+1
+
+
+0
+
+
+0
+
+0
+
++ b
+
+
+
+
+
+
+
+
+
+-1
+0
+1
+1
+0
+
+
+
+
+
+
+
+
+
++ c
+
+
+
+
+
+
+
+
+
+-1
+0
+-1
+0
+1
+
+
+
+
+
+
+
+
+
+.
+
+Thus, our basis for the null space of A is
+
+Ax = 0.
+
+
+
+
+
+
+
+
+0
+1
+
+
+
+
+0
+
+
+
+
+0
+
+
+0
+
+,
+
+
+
+
+
+
+
+
+
+,
+
+
+
+
+
+
+
+
+
+-1
+0
+1
+1
+0
+
+
+
+
+
+
+
+
+
+-1
+0
+-1
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+as it is the basis to the solution space of the homogeneous equation
+
+8
+
+2. (a) Let W be a subspace of Rn. Deﬁne what it means for a set S of vectors in Rn to be a basis for W . [2 marks]
+
+The deﬁnition of a basis of a subspace W is a set of vectors, S ⊂ W such that
+
+• S is linearly independent, and
+
+• span(S)=W .
+
+2. (b) Consider the subspace W =
+
+
+
+
+
+
+answer. [6 marks]
+
+Answer: Yes.
+
+Solution:
+
+
+
+
+
+x1
+x2
+x3
+
+
+
+ | x1 + x2 + x3 = 0
+
+
+
+
+
+
+. Is the set S =
+
+
+
+
+
+
+
+
+
+
+−1
+−1
+2
+
+
+
+
+
+ ,
+
+
+
+−3
+2
+1
+
+
+
+
+
+
+
+
+
+
+a basis for W ? Support your
+
+Notice that W is the set of solutions to the homogeneous equation x1 + x2 + x3 = 0. Since the set of solutions requires two
+
+parameters, the dimension of W is 2. Notice that, for example, the set
+
+is a basis for W . Since the dimension
+
+
+
+
+
+ ,
+
+
+
+
+
+
+
+
+
+
+
+
+−1
+1
+0
+
+
+
+
+
+
+
+
+
+
+−1
+0
+1
+
+of W is 2, any two linearly independent vectors from W will be a basis for W (cf. Tutorial Problems 5, 3(b)). The vectors in
+
+
+
+
+
+
+
+−1 −3
+2
+−1
+1
+2
+
+ has rank
+
+the set S are in W since -1+(-1)+2=0 and -3+2+1=0. They are also linearly independent since the matrix
+
+2 so S is indeed a basis for W .
+
+9
+
+3. (a) Let W be a subspace of Rn. Deﬁne dim(W ). [2 marks]
+
+The dimension of W is the number of vectors in every basis of W or the minimum number of vector required to span W .
+
+
+
+
+
+
+
+
+1
+1
+ ,
+
+c
+
+
+
+1
+c
+ ,
+
+1
+
+
+
+c
+1
+
+1
+
+
+
+
+
+
+
+
+
+
+3. (b) Let W = span
+
+Answer: c=-2
+
+Solution:
+
+. For what value(s) of c is dim(W ) = 2. Support your answer. [6 marks]
+
+We look for the value(s) of c such that A =
+
+
+1
+1
+
+c
+
+1
+c
+1
+
+
+
+c
+1
+ has rank 2.
+1
+
+Rearranging the matrix into its RREF form gives us the following.
+
+Subtract row 1 from row 2.
+
+Subtract c times row 1 from row 3.
+
+Add row 2 to row 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1
+c
+
+1
+0
+c
+
+1
+0
+0
+
+1
+0
+0
+
+1
+c
+1
+
+
+
+
+
+c
+1
+1
+
+1
+c − 1
+1
+
+c
+1 − c
+1
+
+c
+1
+c − 1
+1 − c
+1 − c 1 − c2
+
+
+
+
+
+
+
+
+
+1
+c − 1
+0
+
+c
+1 − c
+2 − c − c2
+
+
+
+
+
+At this point we can stop. We see that the rank of A may be 2 if the expression 2 − c − c2 = (1 − c)(c + 2) is equal to 0. i.e.
+c = 1 or c = −2. However, if c = 1 the rank of A is 1 and the dimension of W is 1. If c = −2, the rank of A is 2 and so the only
+value of c for which the dimension of W is 2 is -2.
+
+10
+
+4. (a) Find the inverse of A =
+
+
+
+
+
+
+
+1 −1
+2 −3
+−1
+
+1
+0
+1 −2
+
+. [4 marks]
+
+We do this by adjoining the identity matrix and putting the matrix A into its RREF form. We get the following series of
+operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+1
+
+0
+0
+-1
+
+0
+2
+-1
+
+1
+2
+-1
+
+-1
+-3
+1
+
+-1
+-1
+1
+
+1
+0
+-2
+
+1
+0
+0
+
+1
+1
+-2 -2
+0
+-2
+
+0
+1
+0
+
+0
+1
+0
+
+1
+-2
+-1
+
+1
+-2
+1
+
+1
+2
+1
+
+1
+0
+1
+
+0
+0
+1
+
+1
+2
+-1
+
+1
+4
+-1
+
+2
+4
+-1
+
+0
+1
+0
+
+0
+-1
+0
+
+0
+-1
+0
+
+0
+-1
+0
+
+-1
+-1
+0
+
+-1
+1
+0
+
+-1
+1
+0
+
+-1
+1
+0
+
+0
+1
+0
+
+0
+0
+1
+
+6
+4
+-1
+
+-1
+-1
+0
+
+
+
+
+
+3
+2
+-1
+
+Subtract twice row 1 from row 2.
+
+Add row 1 to row 3.
+
+Negate rows 2 and 3.
+
+Subtract twice row 3 from row 2.
+
+Subtract row 3 from row 1.
+
+Add row 2 to row 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+-1
+
+1
+0
+-1
+
+1
+0
+0
+
+1
+0
+0
+
+1
+0
+0
+
+1
+0
+0
+
+1
+0
+0
+
+Thus the inverse of A is
+
+
+
+
+
+6
+4
+-1
+
+-1
+-1
+0
+
+
+
+.
+
+3
+2
+-1
+
+11
+
+4. (b) Given
+
+
+
+ =
+
+
+
+
+
+x1
+x2
+x3
+
+
+
+
+
+
+
+3 −1 2
+4
+0
+1
+
+
+0
+1
+2
+
+
+
+
+
+ and
+
+
+
+ =
+
+
+
+
+
+z1
+z2
+z3
+
+y1
+y2
+y3
+
+Suggestion: Use part (a). [4 marks]
+
+
+
+
+
+1 −1
+2 −3
+−1
+
+1
+0
+1 −2
+
+
+
+
+
+
+
+
+
+
+
+. Find a matrix C such that
+
+
+
+
+
+x1
+x2
+x3
+
+
+
+ = C
+
+
+
+.
+
+
+
+
+
+z1
+z2
+z3
+
+y1
+y2
+y3
+
+We see that
+
+ = A
+
+
+
+
+ (where A is the same as in part a). Thus, we get that A-1
+
+
+
+ =
+
+
+
+
+
+z1
+z2
+z3
+
+
+
+
+
+y1
+y2
+y3
+
+
+
+. This immediately tells us
+
+
+
+
+
+
+
+z1
+z2
+z3
+
+3 −1
+0
+1
+
+1
+2
+
+
+
+y1
+y2
+y3
+
+2
+ A-1
+4
+0
+
+that
+
+
+
+ =
+
+
+
+
+
+x1
+x2
+x3
+
+
+
+
+
+z1
+z2
+z3
+
+
+
+ =
+
+
+
+3 −1
+0
+1
+
+1
+2
+
+
+
+
+
+
+2
+4
+ ·
+0
+
+6
+4
+-1
+
+-1
+-1
+0
+
+
+
+ ·
+
+3
+2
+-1
+
+
+
+
+
+z1
+z2
+z3
+
+
+
+.
+
+Hence, C =
+
+
+
+
+
+3 −1 2
+4
+0
+1
+ ·
+
+0
+1
+2
+
+
+
+
+
+6
+4
+-1
+
+
+
+ =
+
+-1
+-1
+0
+
+3
+2
+-1
+
+
+
+
+
+12 -2
+-1
+2
+16 -3
+
+
+
+.
+
+5
+-1
+8
+
+12
+
+5. Deﬁne a linear mapping T : R2 → R2 by the following rule: T (x) is the result of ﬁrst rotating x counter-clockwise by π
+
+4 and
+
+(cid:20)1 1
+(cid:21)
+. Let S be the unit square in R2 with vertices x =
+0 1
+
+(cid:20)0
+0
+
+(cid:21)
+
+, y =
+
+, z =
+
+, and w =
+
+(cid:21)
+
+(cid:20)1
+0
+
+(cid:21)
+
+(cid:20)1
+1
+
+(cid:20)0
+(cid:21)
+1
+
+.
+
+then multiplying by A =
+
+(a) Find a matrix B such that T (x) = Bx for every x ∈ R2. [2 marks]
+
+The rotation matrix for π
+
+4 counterclockwise is given by
+
+(cid:20)cos (cid:0) π
+sin (cid:0) π
+
+4
+
+4
+
+(cid:1)
+(cid:1)
+
+(cid:21)
+
+(cid:1)
+- sin (cid:0) π
+4
+(cid:1)
+cos (cid:0) π
+
+4
+
+=
+
+(cid:34) √
+2
+2
+√
+2
+2
+
+From this, we get that to ﬁnd T , we ﬁrst apply the rotation, followed by A, so B = A ·
+
+√
+
+(cid:35)
+
+.
+
+2
+-
+2
+√
+2
+2
+(cid:34) √
+2
+2
+√
+2
+2
+
+(cid:35)
+
+√
+
+2
+-
+2
+√
+2
+2
+
+=
+
+(cid:34)√
+√
+
+2
+2
+2
+
+(cid:35)
+
+.
+
+0
+√
+2
+2
+
+(b) Find and sketch, as accurately as possible, the image of S under T . [6 marks]
+
+We apply the matrix B to each vertex given in the problem and ﬁnd that the vertices get mapped to
+
+(cid:21)
+
+, respectively. The square, then, gets mapped to the parallelogram with vertices at these points.
+
+(cid:20) 0
+√
+2
+2
+
+(cid:21)
+(cid:20)0
+0
+
+,
+
+(cid:34)√
+√
+
+(cid:35)
+2
+2
+2
+
+,
+
+(cid:20)√
+(cid:21)
+2√
+2
+
+, and
+
+13
+
+6. The diagram below is a map of a downtown area of a city. Each street is one-way in the direction of the respective arrows.
+The numbers represent the average number of cars per minute that enter or leave a given street at 6:00pm. The variables also
+represent the average numbers of cars per minute. Of course, unless there is an accident, the total number of cars entering any
+intersection must equal the total number leaving. Thus, at the intersection of West and North street we have x + y = 50.
+
+(a) Starting at the intersection of West and North Street, and continuing clockwise around the square, write a system of linear
+equations that describes the traﬃc ﬂow (assuming there are no accidents) and ﬁnd all solutions to this system. You should ﬁnd
+there are inﬁnitely many solutions with one parameter. Use w as your free variable. [5 marks]
+
+In the order indicated in the problem, we write a system of equation by added all the incoming cars and subtracting all of the
+leaving cars and setting that equal to 0. Thus we get
+
+x + y − 20 − 30 = 0
+
+20 − x − w = 0
+
+z + w − 20 − 30 = 0
+
+50 + 30 − y − z = 0
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+20
+30
+50
+0
+
+Therefore, we get that
+
+
+
+
+
+
+
+1 1
+1 0
+0 0
+0 1
+
+0
+0
+1
+1
+
+
+0
+1
+
+
+1
+
+0
+
+·
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+50
+20
+50
+80
+
+x
+y
+z
+w
+
+Row reducing this system of equations turns it into the system
+
+
+1
+0
+
+
+0
+
+0
+
+0
+1
+0
+0
+
+0
+0
+1
+0
+
+
+
+
+
+
+
+1
+-1
+1
+0
+
+·
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+x
+y
+z
+w
+
+Our solution is therefore x = 20 − w, y = 30 + w, z = 50 − w, and w is a free variable.
+
+14
+
+(b) Nefarious Construction Co. wants to close down West Street for six months but the City Council refused to grant the permit.
+Explain why on the basis of the solutions to the system in part (a). [3 marks]
+
+This has the same eﬀect as setting x = 0, and by part a, this means that w = 20, so y = 50 and z = 30. This has the eﬀect
+of causing massive traﬃc jams along North Street. Before, when we had a smaller value for w, such as 10, there was 20% less
+traﬃc among North Street and it could operate ﬁne.
+
+15
+
+
