@@ -1,0 +1,200 @@
+## Page 1
+
+![Page 1](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_001.png)
+
+Page 1 of 10
+UNIVERSITY OF TORONTO
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+ECE 110H1 S - ELECTRICAL FUNDAMENTALS
+FINAL EXAMINATION, APRIL 19, 2013
+First Year - Computer, Electrical, Industrial, Mechanical, Materials,
+and Track One Engineering Programs.
+Examiners - B. Bardakjian, A. Helmy, L. Qian, B. Wang and P. Yoo
+NAME:
+(PLEASE PRINT)
+STUDENT NUMBER:
+Family (Last) Name
+Given (First) Name
+EXAMINATION TYPE: A
+CALCULATORS: Non-programmable type allowed
+DURATION: 2.5 hours
+INSTRUCTIONS: • DO NOT UNSTAPLE THIS EXAMINATION BOOK.
+Question
+1
+2
+3
+4
+5
+6
+Total
+Mark
+
+
+## Page 2
+
+![Page 2](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_002.png)
+
+Page 2 of 10
+Q1 [10 marks]
+(A) For the diagram shown below
+qa
+5cm
+1
+5cm → b
+i) Determine the electric field at location a (2 marks)
+5cm l
+ii) Find the electric potential at location a (1 mark)
+iii) How much external work is required to move a 0.5nC charge from location a to location b? (2 marks)
+
+
+## Page 3
+
+![Page 3](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_003.png)
+
+•.
+Page 3 of 10
+Q1 [10 marks]
+(B) In the following circuit, SW1 and SW4 are closed while SW2 and SW3 are opened for a long time. Att = 0,
+SW1 and SW4 are opened and SW2 and SW3 are closed. You may assume that the 10qF capacitor has zero
+initial charge.
+sWi
+SW2
+SW3
+SW4
+10V (+
+6pF
+3pF
+- 10uF
+= 4uF
+i) Determine the charge stored in each of the 6uF, 3uF and 4uF capacitors for t = 0™ (2 marks)
+il) Find the energy stored in the 10uF capacitor for t = ∞ (3 marks)
+
+
+## Page 4
+
+![Page 4](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_004.png)
+
+Page 4 of 10
+Q2 [10 marks] The following circuit consists of two parts that are magnetically coupled between: (Part A) a
+solenoid (10,000 turns, radius of 4.5 cm, and length of 20 cm) connected to time-varying current source (Is)
+and (Part B) a coil (750 turns, radius of 4 cm) placed within the center of the solenoid. The coil is connected to
+a resistor (R) and an inductor (L) in series. Assume all circuit elements are ideal.
+Solenoid
+Coil
++
+-
+10
++ (ms)
+7800
+-10
+PartA
+Part B
+i) Calculate the peak magnitude of the magnetic field (B) generated within the solenoid in (Part A) (2 marks)
+ii) Determine the emf induced in the coil and plot this variable from t = 0 to 800 ms (5 marks)
+
+
+## Page 5
+
+![Page 5](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_005.png)
+
+Page 5 of 10
+Q2 [10 marks] (the diagram has been reproduced below for your convenience)
+Solenald
+Coll
+10%
+t (ms)
+1800
+-10
+PartA
+Part B
+iii) Using KVL, derive an expression for the current (i) in (Part B) in terms of emf, R and L. You may assume
+zero initial voltage for the emf. (3 marks)
+
+
+## Page 6
+
+![Page 6](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_006.png)
+
+Page 6 of 10
+03 [10 marks] For the circuit shown below Ix is in mA.
+6KS
+10V
+5I,
+2KS
+4,1 3 2кг
+i) Find I, (8 marks)
+il) What is the power delivered by the 10V source? (2 marks)
+
+
+## Page 7
+
+![Page 7](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_007.png)
+
+•.
+Q4 [10 marks]
+(A) Use the superposition theorem to find Vx (5 marks)
+1002
+ww
+4A
++
+100k
+2052
+300
+≤ 1052
+1022
+Page 7 of 10
+
+
+## Page 8
+
+![Page 8](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_008.png)
+
+•.
+•.
+Page 8 of 10
+Q4 [10 marks]
+(B) For the following circuit, find the value of the load resistance (R_) to ensure that the maximum power is
+transferred to the load. (5 marks)
+2000
+1001,
+1, S 8002
+ER,
+
+
+## Page 9
+
+![Page 9](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_009.png)
+
+Page 9 of 10
+Q5 [10 marks] An unknown DC circuit (without capacitors or inductors) is connected to a 10V voltage source,
+a 3KS resistor and a 1uF capacitor in series as shown. At t = 0. The switch is closed, and the current i(t) is
+plotted below. Find the equivalent circuit for the unknown DC circuit.
+3KR
+1uF
+i(t)
+Unknown.
+DC
+circuit
+Ai(t)
+1mA
+•
+4ms
+t
+
+
+## Page 10
+
+![Page 10](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_010.png)
+
+Q6 [10 marks] Find v. (t)
+10cos(2t) g
+2H
+2sin(St) T
+12
+ww
+452
+ww
+: 0.1F
+Page 10 of 10
++ sv
+
