@@ -1,0 +1,199 @@
+## Page 1
+
+![Page 1](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_001.png)
+
+•
+Page 1 of 7
+UNIVERSITY OF TORONTO
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+ECE |I0HI S -- ELECTRICAL FUNDAMENTALS
+FINAL EXAMINATION, APRIL 17, 2014, 9:30 am.
+First Year -- Computer, Electrical, Industrial, Mechanical, Materials,
+and Track One Engineering Programs.
+Examiners - S. Aitchison, B. Bardakjian, A. Helmy, L. Qian, B. Wang and P. Yoo
+(e= 16x 101C, 80=8.85 x 101 F/m, 4o= 47 x 10' H/m)
+NAME:
+(PLEASE PRINT)
+STUDENT NUMBER:
+Family (Last) Name
+Given (First) Name
+Answer Key
+EXAMINATION TYPE: A
+CALCULATORS: Casio Casio MS & Sharp EL-520X
+DURATION: 2.5 hours
+INSTRUCTIONS: • DO NOT UNSTAPLE THIS EXAMINATION BOOK.
+Answer all six questions.
+• All work is to be done on these pages. Show steps, compute numerical
+results when requested and state units.
+Write down any assumption made in any of the problems.
+Question
+1
+2
+3
+4
+5
+6
+Total
+Mark
+
+
+## Page 2
+
+![Page 2](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_002.png)
+
+Page 2 of 7
+Q1 [10 marks]
+W
+d
+L
+L/2
+L
+Figure 1
+Figure 2
+a) For the parallel plate capacitor in Figure 1, write down an expression (no derivation) for the capacitance of
+this device if it is filled with a material of relative permittivity k and has the dimensions w, L and d. (1 mark)
+c = KEWL
+d
+b) Calculate the capacitance for the device shown in Figure 1, for W=5 mm, L=1 cm, d=1 mm and air filling
+the gap between the parallel plates. (1 mark)
+4.425 x 10-13 F
+c) If the air for the device in part b) is replaced with material K=10, what is the capacitance of the device now?
+(1 mark)
+4.425 x 10-12 F
+d) What is the capacitance of the device composed of the parallel connection of the two devices described in
+parts b) and c)? (3 marks)
+4.868 × 10-12 F
+e) What is the capacitance of the device shown in Figure 2, using the same dimensions as in part b) and k=10?
+What is the total energy stored in this device for V = 3 V? (4 marks)
+2.433 × 10-12 F
+1.095 x 10" J
+
+
+## Page 3
+
+![Page 3](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_003.png)
+
+Page 3 of 7
+Q2 [10 marks] A wire loop is placed in close proximity to a semi-infinite wire, as shown in the diagram below.
+The wire forming the loop has a diameter of 0.5 mm. Each side of the loop has length, L=15 cm and is located
+at z=1 mm from the wire. The current through the straight wire varies with respect to time as i (t) = 3000sin(2nt)
+Amperes.
+a) What is the direction of the induced emf in the wire loop between
+wire loop
+t = 0.25 s to t = 0.3 s? (2 marks)
+CW direction
+a
+d
+b
+L
+b) If segments a and c of the loop have resistivity of 2x10' 2m, and segments b and d have resistivity of
+1x10 * 52m, calculate the resistance of each wire segment. (2 marks)
+Ra = R = 150 2
+Ro= Ra = 75 22
+c) What is the magnitude of the induced current in the wire loop at t = I s? (4 marks)
+3.1 MA
+d) What is the peak power dissipated within segment d? (2 marks) 7.2 x 10-''w
+
+
+## Page 4
+
+![Page 4](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_004.png)
+
+Q3 [10 marks] Consider the DC circuit shown below
+6 kS2
+2
++ 1 (mA)
+6 Kg
+/ 6 mA
+21x
+6 kg
+a) Calculate the nodal voltages at node 1 and node 2. (6 marks)
+14.4 V
+-7.2 V
+b) Calculate the current lo. (1 mark)
+-1.2 mA
+c) What is the power dissipated in the 6 kS2 resistor between nodes 1 and 2. (2 marks)
+d) Is the dependent current source supplying or absorbing power? (1 mark)
+Supplying
+Absorbing
+Page 4 of 7
+77.8 mW
+
+
+## Page 5
+
+![Page 5](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_005.png)
+
+Page 5 of 7
+Q4 [10 marks]
+3 KS
+2KS
+ww
+2000L,
+1 6V
+6KN:
+2 mA
+R,
+! ":
+a) Find the Thevenin equivalent of the circuit inside the box between nodes n, and n, as shown. (4 marks)
+Vin =8 V
+Rin = 4k2
+b) Consider the case of maximum power that can be transferred to the load. Using the obtained Thevenin
+equivalent circuit in part a) above, calculate R, and the maximum power. (6 marks)
+3 kg
+3 m W
+
+
+## Page 6
+
+![Page 6](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_006.png)
+
+Page 6 of 7
+•
+Q5 [10 marks] Consider the DC circuit shown in the figure below, where the switch has been at position A for
+a long time. At t = 0, the switch is moved to position B.
+C:
+-
+Rs
+Vs(
+R,:
+= 0
+V3 = 9.6 V
+R,= 4 kR
+R, = 2 kR
+R2 = 8 kS
+L = 0.8 H
+C=0.1 HF
+a) Find the expressions i (t), iz(t) and iz(t) for 1 ≥ 0. (8 marks)
+i (t) = -3.2e-50001
+mA
+i½(t) = 0.8€=10001 A
+i3(t) =-3.2x103:5000 + 0.8e 100001 A
+b) What are the energies stored in the capacitor and the inductor at t = 0? (1 mark) 2.05 aJ 0.256 J
+c) What are the energies stored in the capacitor and the inductor at t = ∞o? (1 mark) 0,0
+
+
+## Page 7
+
+![Page 7](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_007.png)
+
+•
+Page 7 of 7
+Q6 [10 marks] The phasor current La in the circuit shown is 2 / 0º A.
+552
+500}
+fla
+Vg
+j150 S2
+12023
+- j40 S2
+6 + j3.5 A
+a) Find the phasor currents I, and Ic, and the phasor voltage V (7 marks)
+j2.5 A
+8+j6 A
+140+j330 V
+b) Iff = 60 Hz, write the expression for Vg (t), and find the inductance and the capacitance. (3 marks)
+358.5 cos (377t+67°) V
+L= 0.4 H
+C = 66 uF
+
