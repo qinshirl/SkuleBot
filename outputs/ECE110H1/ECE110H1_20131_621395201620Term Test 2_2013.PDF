@@ -1,0 +1,133 @@
+## Page 1
+
+![Page 1](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_001.png)
+
+Page 1 of 6
+University of Toronto
+Faculty of Applied Science and Engineering
+Department of Electrical and Computer Engineering
+ECE110S - Electrical Fundamentals
+Term Test 2 - March 21, 2013, 6:30 - 8:00 p.m.
+(e =1.6×10-19C.80 = 8.85 x10-12 F/m, 4o = 4mx10 H/m, g = 9.81 N/kg)
+ANSWER ALL QUESTIONS ON THESE SHEETS, USING THE BACK SIDE IF NECESSARY.
+1. Non-programmable calculators are allowed.
+2. For full marks, you must show methods, state UNITS and compute numerical answers when requested.
+3. Write in PEN. Otherwise, no remarking request will be accepted.
+4. There is one extra blank page at the end for rough work.
+Last Name:
+First Name:
+Answer Key
+Student Number:
+Tutorial Section:
+(YOU LOSE ONE MARK FOR NOT MARKING YOUR TUTORIAL SECTION CORRECTLY)
+• 01 WB342 Mon. 3-5 p.m.
+• 02 GB304 Mon. 3-5 p.m.
+L 03 WB342 Tue. 4-6 p.m.
+L 04 GB304
+Tue. 4-6 p.m.
+L 05 GB404
+Wed. 4-6 p.m.
+• 06 BA2185 Wed. 4-6 p.m.
+_ 07 SF2202 Wed. 2-4 p.m.
+• 08 GB304
+Wed. 2-4 p.m.
+L 09 GB120
+Fri. 4-6 p.m.
+• 10 SF3202
+Fri. 4-6 p.m.
+• 11 SF2202
+Fri. 2-4 p.m.
+• 12 WB130
+Fri. 2-4 p.m.
+Question
+Mark
+1
+2
+3
+TOTAL
+
+
+## Page 2
+
+![Page 2](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_002.png)
+
+Page 2 of 6
+Q1 110 marks]
+A) For the two long straight wires carrying currents i, and i respectively as shown below, find the
+expression for the magnetic field at the origin. (3 marks)
+11
+B= Mois i + Modi j
+dz
+B) An uniform magnetic field B (into the page) shown below, changes over time according to the
+following equation: B(t) = 200m sin(2nt) where B is in Tesla and / is in second.
+8
+- wire loop
+a) Find the magnetic flux (Фв) as a function of time, which
+passes through a 10 cm x 10 cm square-shape wire loop. (3
+marks)
+8
+8 8
+8
+8
+b) Determine the magnitude of the induced emf in the wire loop as a function of time. (2 marks)
+10 4 cas (2Tt) V
+c) What is the direction of the current (clockwise of counter clockwise) in the wire loop in period between t
+= 0.25 s and t = 0.5 s. Explain why? (2 marks)
+Clock-wise direction
+
+
+## Page 3
+
+![Page 3](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_003.png)
+
+Page 3 of 6
+Q2 |10 marks]
+A) In the following circuit, find the currents, 11, I2, I3, 14 and the voltage, V across the 3 k resistor.
+(4 marks)
+8 kR
+1 kg
+4 kg.
+4 kn 3
+13
+20 mA
+3 kg
+I=ZmA
+,1=4mA,13=8mA,J4=6mA,V=-24V
+Page 4 of 6
+B) Determine the power dissipated by the 5 k resistor. (2 marks)
+80mW
+C) Let's consider the case where if current passing through any resistor exceeds 7.5 mA, the resistivity
+begins to change permanently. We can characterize this relationship as P(1) = p. (1 + kt?). [po is
+the resistivity below 7.5 mA, k=1/4 s° and t is time in seconds] Determine the total resistance seen by
+the current source in 2 seconds. (4 marks)
+1.5 kr
+
+
+## Page 4
+
+![Page 4](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_004.png)
+
+Page 5 of 6
+Q3 |10 marks] Consider the circuit shown in the figure below.
+a
+R
+V
+R
+b
++
+A)
+Use nodal analysis and write down the set of
+equations sufficient to solve for all nodal voltages (5
+marks)
+Va = Vs
+VD=Vc+ß(Vs-Ve)
+B) Redraw the circuit above, so that no branch crosses over another branch. Use loop analysis and write
+down the set of equations sufficient to solve for all loop currents (5 marks)
+R.
+(41-13)R+(11-62)R=15
+R,
+BV3
+R,
+13R3-113+ (13-4)R =0
+B=i3R3
+
