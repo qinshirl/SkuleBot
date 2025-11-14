@@ -1,0 +1,436 @@
+## Page 1
+
+![Page 1](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_001.png)
+
+Page 1 of 16
+UNIVERSITY OF TORONTO
+FACULTY OF APPLIED SCIENCE AND ENGINEERING
+FINAL EXAMINATION
+APRIL 2003
+EXAM TYPE: A
+First Year Programs: CHE, CIV, IND, LME, MEC, MMS
+Q1
+Q2
+Q3
+Q4
+Total
+/25
+/25
+/25
+/25
+/100
+ECE110H1S: ELECTRICAL FUNDAMENTALS
+EXAMINERS: N.P. Kherani, B. Wang
+NAME:
+Last
+First
+STUDENT NO.:
+INSTRUCTIONS:
+• This is a Type A examination; no aids are allowed.
+• Only non-programmable calculators are allowed.
+• Answer all parts of all four questions.
+• All four questions are of equal weight.
+• The weight of each of the individual parts of each question is stated in the margins.
+• All work is to be done on these pages.
+• Place your final answers in the provided boxes unless instructed otherwise.
+• When answering the questions include all the steps of your work on these pages. For additional space, you may
+use the back of the preceding page.
+• Do not unstaple this exam.
+CONSTANTS:
+e = 1.6 x10-1°C
+€ = 8.85 x 10-1F/m
+Mo= 4#x 10-'H/m
+
+
+## Page 2
+
+![Page 2](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_002.png)
+
+[1]
+[1]
+[1]
+[1]
+Question 1: Electricity and Magnetism
+PART A: General
+Answer the following questions.
+(i) The electric field lines always point away from
+and terminate at
+charges.
+(ii)
+What is the universal reference for electric potential?
+(iii) List two ways by which the capacitance of a capacitor can be increased.
+(iv) What fundamental principle underlies Kirchoff's Current Law ?
+(V)
+Faraday's Law is expressed mathematically as:
+Page 2 of 16
+charges
+
+
+## Page 3
+
+![Page 3](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_003.png)
+
+Page 3 of 16
+Question 1: Electricity and Magnetism
+PART B: Electrostatics
+Three point charges are positioned as shown on the corners of an equilateral triangle of side d. The three
+point charges are of positive polarity. A test charge q is located at the center of the triangle. q has a magni-
+tude of te.
+20
+20
+15]
+Determine the electric force (magnitude and direction) on the test charge q due to the three point charges
+on the corners of the triangle.
+F=
+
+
+## Page 4
+
+![Page 4](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_004.png)
+
+Page 4 of 16
+Question 1: Electricity and Magnetism
+PART C: Capacitor
+A parallel plate capacitor, under vacuum, has +50 uC of charge on one plate and - 50uC of charge on the
+other. The plates are separated by 1cm, and the area of each plate is 1cm?.
+[2]
+(i)
+Find the magnitude of the electric field between the plates of the capacitor.
+E=
+[1]
+How much work would you have to do in order to move an electron from the positively charged plate
+to the negatively charged plate of the capacitor in vacuum?
+W=
+[2]
+(iii) The capacitor is now filled with ceramic (K = 130), what is the capacitance of the capacitor?
+C=
+
+
+## Page 5
+
+![Page 5](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_005.png)
+
+[2]
+11]
+Page 5 of 16
+Question 1: Electricity and Magnetism
+PART D: Magnetism
+A tightly wound coil containing 200 turns and of radius 5 cm has a current of 2 A. Assume that the closely
+wound 200 turns lie in a single plane and that the radius of each loop, for all intents and purposes, is 5 cm.
+(i) What is the magnitude of the magnetic field at the center of the coil?
+B =
+(li)
+An electron traverses through the magnetic field in part (i) such that the electron has a speed of 3000
+km/s when it is at the center of the coil. The direction of electron propagation at this instant is per-
+pendicular to the magnetic field. What is the magnitude of the magnetic force exerted on the electron
+at this instant?
+[FI=
+(iii)
+Find the magnitude of the electric field which will completely balance the magnetic force in part
+(ii)?
+E =
+(iv)
+How would you create the electric field found in part (iii) ?
+
+
+## Page 6
+
+![Page 6](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_006.png)
+
+(2]
+[1]
+Page 6 of 16
+Question 1: Electricity and Magnetism
+PART E: Magnetic Induction
+A magnetic field, uniform in space but varying linearly with time, is represented by the relation
+[B(1)| = a 1, where a [T s'] is the rate of change of the magnetic field with respect to time, / is time in sec-
+onds, and [B(1)| is the magnetic field in tesla. A circular loop of radius 5 cm is immersed in this magnetic
+field. The loop has a small gap in it, the ends of which are connected to a resistor.
+(i)
+Draw a diagram showing how you would arrange the circular loop with respect to the magnetic field
+in order to induce the maximum possible emf across the resistor.
+(ii)
+What is the rate of change of the magnetic field that generates an emfof 10V? -
+a=
+(iii)
+If the induced current in the circuit is 3A, what is the resistance of the resistor? Assume that the loop
+resistance is negligible.
+R=
+(iv)
+How much power is delivered to the resistor?
+P=
+
+
+## Page 7
+
+![Page 7](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_007.png)
+
+Page 7 of 16
+Question 2: DC Circuits
+PART A: Nodal Analysis
+Consider the circuit shown below.
+4A
+6 22
+- 6V +
++
+12V
+12
+IAO
+2 52
+[4]
+(i)
+Find the current I, using nodal analysis
+la=
+[2]
+(ii)
+Calculate the power associated with the 12 V source. Also, state whether the power is being
+absorbed or supplied by the 12 V source.
+P12V =
+Absorbing
+Supplying
+
+
+## Page 8
+
+![Page 8](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_008.png)
+
+19]
+Question 2: DC Circuits
+PART B: Superposition
+Consider the following circuit.
+15 mA
+4 kl
++ 15V -
+2 kS2
+≤ 12 k2
+30 mA
+Determine the current / using superposition.
+1, due to 30 mA source =
+12 due to 15 mA source =
+13 due to 15 V source =
+I=
+Page 8 of 16
+6 kS
+
+
+## Page 9
+
+![Page 9](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_009.png)
+
+Page 9 of 16
+Question 2: DC Circuits
+PART C: Source Transformation
+(i)
+Use source transformation to find the Norton
+equivalent circuit between terminals a and b,
+having removed the load, RL.
+1S
++
+4V
+-
+12A
+3 A
+222
+Draw the Norton Equivalent Circuit:
+[1]
+(ii)
+How much power will be delivered to a 1S load connected between a and b?
+P, =
+(iii) What is your choice of R, in order to draw maximum power from the system?
+RL=
+
+
+## Page 10
+
+![Page 10](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_010.png)
+
+Question 2: DC Circuits
+PART D: Thévenin Equivalence
+Obtain the Thévenin equivalent resistance between
+terminals a and b for the circuit shown.
++
+62 V*
+-
+Page 10 of 16
+20 S2
+6 S2
+222
+O a
+24S
+Rm =
+
+
+## Page 11
+
+![Page 11](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_011.png)
+
+Page 11 of 16
+Question 3: Transient Analysis
+PART A
+The two switches are switched simultaneously at time /=0 in the circuit shown below. Assume that the
+switches were in the positions shown for a long time prior to time zero.
+1 kg
+2.5 kl
+1=0
+1=0
++
+15 V
+-
+≤ 10 kg
+2 mA
+v(1)
+SuF
+-
+5V
++
+[2]
+(1) Find (0) and i(0 ).
+v(0) =
+i(0) =
+[2]
+(ii) Find v(0*) and i(0*).
+v (Ot) =
+i(0*) =
+[2]
+(iii)
+Find t when 1>0.
+T=
+
+
+## Page 12
+
+![Page 12](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_012.png)
+
+12]
+[7]
+Page 12 of 16
+Question 3: Transient Analysis
+PART A (...continued)
+(iv) Find v (0) and i(∞).
+V(∞0) =
+i(00) =
+Determine v(t) and i(t) for 1>0. Also, sketch v(t) and i(t) for all time. Clearly indicate all the
+important quantities on the graphs.
+V(1) =
+i(1) =
+
+
+## Page 13
+
+![Page 13](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_013.png)
+
+[2]
+[5]
+[3]
+Page 13 of 16
+Question 3: Transient Analysis
+PART B
+The circuit on the right shows a
+12V battery being used to establish
+a current through an inductor. This
+current is then used to generate a
+voltage of sufficient magnitude to
+cause breakdown of the atmosphere
+(for example, vapourized gasoline-
+air mixture) in the spark-plug gap.
+The spark plug gap can be mod-
+elled by a 50k resistor until the
+moment when breakdown occurs.
++
+12 V
+-
+100 S
+L
+1 = 0
+50 kS2
+spark plug
+gap
+(i) Immediately after the switch is switched (r=0*), what is the voltage generated across the gap?
+V
+(ii)
+To ensure that breakdown occurs, it is desired that the required high voltage remain present for at
+least 5 ms. It is estimated that 75% of the initial voltage is sufficient to cause breakdown. Assum-
+ing that the spark plug gap resistance does not change, what is the magnitude of the inductance
+which will ensure that this design requirement is satisfied? Is this the minimum or maximum
+value?
+L=
+Minimum
+Maximum
+П
+(iii)
+Assume that after repeated switching, a resistive coating forms only on switch contact b. This coat-
+ing may be represented by a resistor.
+What is the magnitude of this resistor which will cause the
+circuit to fail? (Failure, in this case, constitutes not producing the required voltage for breakdown,
+as defined above.)
+Rcontact =
+
+
+## Page 14
+
+![Page 14](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_014.png)
+
+Page 14 of 16
+Question 4: AC Circuits
+PART A
+1.6 kn
+62.5 nF
+Лі ")
+"(")
+• 4 kS2
+L
+[7]
+(i)
+The source voltage in the circuit is vot) = 96 cos (10000 /) V. Find the values) of L such that ic(t)
+is in phase with vo(t).
+L=
+[3]
+(ii)
+For the values) of L found in (i), determine the steady-state expressions for ic(t).
+ic(t)=
+
+
+## Page 15
+
+![Page 15](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_015.png)
+
+[2]
+[3]
+[5]
+Page 15 of 16
+Question 4: AC Circuits
+PART B
+" ")
+Load 1
+Load 2
+Load 3
+Load 1 is a 240 S2 resistor in series with an inductive reactance of 70 S2; Load 2 is a capacitive reac-
+tance of 120 S2 in series with a 160 S resistor; and Load 3 is a 30 S2 resistor in series with a capaci-
+tive reactance of 40 S2 The frequency of the voltage source is 60 Hz.
+Draw the circuit described above in the frequency domain.
+(ii)
+Find the power factor of each load.
+PF, =
+PF3 =
+(ii) Find the power factor of the composite load seen by the voltage source.
+PF =
+
+
+## Page 16
+
+![Page 16](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/ECE110H1/page_016.png)
+
+Page 16 of 16
+Question 4: AC Circuits
+PART C
+202
+502
+W
+і (1)
+• 40 uF
+40 мН
+15]
+Find the average (real) and reactive powers delivered by the ideal current source,
+ic(t) = 30 cos (25000 1) mA.
+P=
+
