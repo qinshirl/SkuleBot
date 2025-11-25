@@ -1,0 +1,406 @@
+{
+  "source_file": "C:\\Users\\dongg\\Desktop\\pdf\\MAT186H1_20251_63_1748492609381_Quiz_9_-_Solutions.pdf",
+  "total_pages": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            78,
+            82,
+            439,
+            150
+          ],
+          "text": "Name: ____________________\nStudent number:_____________",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            497,
+            83,
+            615,
+            148
+          ],
+          "text": "MAT 186\nQuiz 9",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            172,
+            160,
+            191
+          ],
+          "text": "1. Evaluate",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            558,
+            185,
+            655,
+            203
+          ],
+          "text": "CF16 CF22",
+          "reading_order": 3
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            265,
+            200,
+            363,
+            263
+          ],
+          "text": "$$\\int_{-1}^{2}\\frac{x^{2}}{\\sqrt{x+2}}dx$$",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            274,
+            590,
+            339
+          ],
+          "text": "Two good solutions exist. We can substitute for $x+2$ (that is the solution shown\nhere), but it would actually be much better to use $\\sqrt{x+2}$ . Try that one\nyourselves.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            346,
+            261,
+            367
+          ],
+          "text": "Let $u=x+2$, so $du=dx$.",
+          "reading_order": 6
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            196,
+            375,
+            536,
+            643
+          ],
+          "text": "$$\\begin{array} { r l } & { \\int _ { - 1 } ^ { 2 } \\frac { x ^ { 2 } } { \\sqrt { x + 2 } } d x = \\int _ { 1 } ^ { 4 } \\frac { ( u - 2 ) ^ { 2 } } { \\sqrt { u } } d u } \\\\ & { = \\int _ { 1 } ^ { 4 } \\frac { u ^ { 2 } - 4 u + 4 } { \\sqrt { u } } d u } \\\\ & { = \\int _ { 1 } ^ { 4 } u ^ { 3 / 2 } - 4 u ^ { 1 / 2 } + 4 u ^ { - 1 / 2 } d u } \\\\ & { = \\left[ \\frac { 2 } { 5 } u ^ { 5 / 2 } - \\frac { 8 } { 3 } u ^ { 3 / 2 } + 8 u ^ { 1 / 2 } \\right] _ { 1 } ^ { 4 } } \\\\ & { = \\left( \\frac { 2 } { 5 } 2 ^ { 5 } - \\frac { 8 } { 3 } 2 ^ { 3 } + 1 6 \\right) - \\left( \\frac { 2 } { 5 } - \\frac { 8 } { 3 } + 8 \\right) } \\\\ & { = u g h , o r \\, 2 6 / 1 5 } \\end{array}$$",
+          "reading_order": 7
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            514,
+            840,
+            614,
+            857
+          ],
+          "text": "Continued on back.",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "tab",
+          "bbox": [
+            527,
+            115,
+            673,
+            137
+          ],
+          "text": "<table><tr><td>AB4</td><td>CF16</td><td>CF25</td></tr></table>",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            134,
+            487,
+            155
+          ],
+          "text": "2. Find the area of the region between $y=|x|$ and $y=6-|2x|$.",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            167,
+            222,
+            186
+          ],
+          "text": "We need to take cases:",
+          "reading_order": 2
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            176,
+            196,
+            559,
+            230
+          ],
+          "text": "$$| x | = { \\left\\{ \\begin{array} { l l } { - x , } & { \\quadx < 0 } \\\\ { x , } & { \\quadx \\geq 0 } \\end{array} \\right. } \\quad6 - | 2 x | = { \\left\\{ \\begin{array} { l l } { 6 + 2 x , } & { \\quadx < 0 } \\\\ { 6 - 2 x , } & { \\quadx \\geq 0 } \\end{array} \\right. }$$",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            240,
+            614,
+            281
+          ],
+          "text": "These will intersect at $x=\\pm 2$ . So, we need to find the area using two integrals (we\ncould use symmetry and just double one of them):",
+          "reading_order": 4
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            191,
+            289,
+            542,
+            445
+          ],
+          "text": "$$\\begin{array} { r l } & { A = \\int _ { - 2 } ^ { 0 } ( 6 + 2 x ) - ( - x ) \\ d x + \\int _ { 0 } ^ { 2 } ( 6 - 2 x ) - ( x ) \\ d x } \\\\ & { = \\int _ { - 2 } ^ { 0 } 6 + 3 x \\ d x + \\int _ { 0 } ^ { 2 } 6 - 3 x \\ d x } \\\\ & { = \\left( 6 x + \\frac { 3 x ^ { 2 } } { 2 } \\right) _ { - 2 } ^ { 0 } + \\left( 6 x - \\frac { 3 x ^ { 2 } } { 2 } \\right) _ { 0 } ^ { 2 } } \\\\ & { = 1 2 } \\end{array}$$",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            484,
+            639,
+            523
+          ],
+          "text": "3. A spherical snowball melts at a rate that is proportional to its surface area. CF10\nShow that the rate of change of the radius is constant.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            557,
+            355,
+            587
+          ],
+          "text": "We are given that $\\frac{dV}{dt}=k\\cdot SA$, for some k. So:",
+          "reading_order": 7
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            275,
+            594,
+            416,
+            631
+          ],
+          "text": "$$\\frac{d}{d t}\\left(\\frac{4}{3} \\pi r^{3}\\right)=k \\cdot 4 \\pi r^{2}$$",
+          "reading_order": 8
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            282,
+            639,
+            412,
+            675
+          ],
+          "text": "$$4 \\pi r^{2} \\cdot \\frac{d r}{d t}=k \\cdot 4 \\pi r^{2}$$",
+          "reading_order": 9
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            323,
+            683,
+            368,
+            719
+          ],
+          "text": "$$\\frac{d r}{d t}=k$$",
+          "reading_order": 10
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            81,
+            615,
+            118
+          ],
+          "text": "[This one is optional. Solve it if you need better marks in the main attribute tested here. If\nyou try this problem, it will not lower your mark.]",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            126,
+            283,
+            156
+          ],
+          "text": "4. Find $\\lim_{x \\to 2}(x-2)\\cos \\left(\\frac{1}{(x-2)^{2}}\\right)$.",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            530,
+            131,
+            610,
+            147
+          ],
+          "text": "AB6 CS2",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            164,
+            498,
+            182
+          ],
+          "text": "This definitely requires the Squeeze Theorem, with positive and negative cases.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            190,
+            237,
+            208
+          ],
+          "text": "Case I: x - 2 > 0, or x > 2.",
+          "reading_order": 4
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            216,
+            217,
+            477,
+            294
+          ],
+          "text": "$$\\begin{array} { r } { - 1 \\leq \\cos \\left( \\frac { 1 } { ( x - 2 ) ^ { 2 } } \\right) \\leq 1 } \\\\ { - ( x - 2 ) \\leq ( x - 2 ) \\cos \\left( \\frac { 1 } { ( x - 2 ) ^ { 2 } } \\right) \\leq ( x - 2 ) } \\end{array}$$",
+          "reading_order": 5
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            254,
+            304,
+            436,
+            325
+          ],
+          "text": "$$\\lim_{x\\to2}-(x-2)=\\lim_{x\\to2}(x-2)=0$$",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            333,
+            440,
+            352
+          ],
+          "text": "Therefore, by the Squeeze Theorem, the limit in case I goes to zero.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            359,
+            602,
+            393
+          ],
+          "text": "Case II is nearly identical and we can get away with saying “Case II is done similarly.” Here it is in\nfull:",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            402,
+            242,
+            420
+          ],
+          "text": "Case II: $x-2<0$, or $x<2$.",
+          "reading_order": 9
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            271,
+            429,
+            419,
+            463
+          ],
+          "text": "$$-1 \\leq \\cos \\left(\\frac{1}{(x-2)^{2}}\\right) \\leq 1$$",
+          "reading_order": 10
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            216,
+            472,
+            476,
+            506
+          ],
+          "text": "$$- ( x - 2 ) \\geq ( x - 2 ) \\cos \\left( { \\frac { 1 } { ( x - 2 ) ^ { 2 } } } \\right) \\geq ( x - 2 )$$",
+          "reading_order": 11
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            254,
+            516,
+            436,
+            539
+          ],
+          "text": "$$\\lim_{x\\to2}-(x-2)=\\lim_{x\\to2}(x-2)=0$$",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            547,
+            446,
+            565
+          ],
+          "text": "Therefore, by the Squeeze Theorem, the limit in case II goes to zero.",
+          "reading_order": 13
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            572,
+            227,
+            589
+          ],
+          "text": "Therefore, the limit is zero.",
+          "reading_order": 14
+        }
+      ]
+    }
+  ]
+}

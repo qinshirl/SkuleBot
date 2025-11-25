@@ -1,0 +1,516 @@
+{
+  "source_file": "C:\\Users\\dongg\\Desktop\\pdf\\MAT186H1_20209_641609668722Writing Task 3 (1).pdf",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            191,
+            64,
+            499,
+            86
+          ],
+          "text": "Infectious Disease Modeling Modules: D2, D3",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            138,
+            604,
+            186
+          ],
+          "text": "In this problem set, we examine a simple model for the spread of a contagious disease. Our model makes the\nfollowing assumptions:",
+          "reading_order": 1
+        },
+        {
+          "label": "list",
+          "bbox": [
+            81,
+            207,
+            621,
+            336
+          ],
+          "text": "• The disease can only be transmitted by human-to-human contact in a single specific population;\n• The size of the population remains constant in time (that is, no births or deaths occur and the population is\ncut out from the outside world);\n• The disease confers no immunity after someone has recovered from infection.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            358,
+            631,
+            436
+          ],
+          "text": "Of course, these assumptions limit the applicability of our model to real-life epidemics, but they provide a good\nfoundation upon which more complex and accurate models can be based. Let time be denoted by $t\\in[0,\\infty)$ ,\nmeasured in days. From the above assumptions, the population can be divided into two groups:",
+          "reading_order": 3
+        },
+        {
+          "label": "list",
+          "bbox": [
+            83,
+            457,
+            593,
+            516
+          ],
+          "text": "• $S(t)=$ fraction of the population that is susceptible to infection but not actually infected at time $t$, and\n• $I(t)=$ fraction of the population that is infected at time $t$.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            529,
+            632,
+            703
+          ],
+          "text": "Our model requires two parameters with values in (0, 1): the infection rate $a$ and the recovery rate $b$ , both with\nunits of $\\left(\\text{days}\\right)^{-1}$ (in practice, these numbers would need to be estimated using patient data). In words, we can\nthink of $b\\Delta t$ as the proportion of infected individuals recovering and returning to the susceptible group over a\nsmall time interval of length $\\Delta t$ . Similarly, we can think of $a\\Delta t$ in the following way: out of all those susceptibles\nwho came into contact with an infected individual during the small time interval, $a\\Delta t$ is the proportion who\nactually end up getting infected as a result of that contact.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            63,
+            746,
+            326,
+            764
+          ],
+          "text": "1. Explain why the following identity holds for all t:",
+          "reading_order": 6
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            305,
+            789,
+            406,
+            809
+          ],
+          "text": "$$S(t)+I(t)=1$$",
+          "reading_order": 7
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            76,
+            344,
+            94
+          ],
+          "text": "Your answer must be contained in one or two sentences.",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            119,
+            619,
+            199
+          ],
+          "text": "A: People in the population can either be infected or not infected, in which case they are susceptible. Therefore,\nthe sum of the proportion of the people who are infected and susceptible must equal one because the sum\nrepresents the entire population.",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            239,
+            631,
+            377
+          ],
+          "text": "2. In this problem, we derive an ordinary differential equation that can be solved (or simulated) to find $I(t)$ . For\nnow, suppose that at every instant in time everyone in the population is in contact with one and only one other\nperson. Every $\\Delta t$ days, the contacts change up. So the proportion of people whose contact is an infected person\nduring a time interval is approximately $I(t)$ and the proportion of people whose contact is a susceptible person\nduring a time interval is approximately $S(t)$ .",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            401,
+            616,
+            453
+          ],
+          "text": "(a) Let $\\Delta I_{\\text{recovered}}$ denote the change in $I(t)$ due only to recoveries occurring in the time interval $[t,\\,t+\\Delta t]$. Argue\nwhy we have",
+          "reading_order": 3
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            317,
+            470,
+            422,
+            486
+          ],
+          "text": "$$\\Delta I_{recovered } \\approx-b \\Delta t I(t)$$",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            504,
+            628,
+            651
+          ],
+          "text": "A: As stated earlier, $b\\Delta t$ is the proportion of infected individuals recovering and becoming susceptible over $\\Delta t$\n. To get the proportion of the total population that is recovering, multiply the proportion of infected individuals\nthat are recovering by the proportion of individuals that are infected, meaning the expression we get is $b\\Delta tI(t)$.\nSince this is the proportion of individuals coming out of the infected group, the proportion of individuals infected\ngoes down by $b\\Delta tI(t)$, hence the change $\\Delta I_{\\text{recovered}}$ is equal to $-b\\Delta tI(t)$",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            669,
+            611,
+            721
+          ],
+          "text": "(b) Let $\\Delta I_{\\text{infected}}$ denote the change in $I(t)$ due only to infections occurring in the time interval $[t,t+\\Delta t]$. Argue\nwhy we have",
+          "reading_order": 6
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            292,
+            757,
+            399,
+            772
+          ],
+          "text": "$$\\Delta I_{infected } \\approx a \\Delta t I(t) S(t)$$",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            808,
+            610,
+            827
+          ],
+          "text": "A: For a susceptible person to be infected, their contact needs to be an infected person. If we were to choose a",
+          "reading_order": 8
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "half_para",
+          "bbox": [
+            61,
+            64,
+            631,
+            176
+          ],
+          "text": "random person from the population, the probability of choosing a susceptible person is S(t). Now we need to\nrandomly choose their contact. The probability of randomly choosing an infected person is I(t). The probability of\nchoosing a susceptible person and an infected person to be a pair is $P(I \\cap S) = I(t) S(t)$. The proportion of\nsusceptible people in contact with an infected person that get infected is $a \\Delta t$ , hence the",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            206,
+            302,
+            225
+          ],
+          "text": "Adding (2) to (3) and dividing both sides by $\\Delta t$,",
+          "reading_order": 1
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            235,
+            334,
+            272
+          ],
+          "text": "$$\\frac{\\Delta I}{\\Delta t}=\\frac{\\Delta I_{infected }}{\\Delta t}+\\frac{\\Delta I_{recovered }}{\\Delta t}=a I S-b I$$",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            293,
+            366,
+            311
+          ],
+          "text": "And by taking the limit as delta t approaches 0 of both sides:",
+          "reading_order": 3
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            310,
+            332,
+            412,
+            369
+          ],
+          "text": "$$\\frac{d I}{d t}=a I S-b I$$",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            94,
+            398,
+            569,
+            416
+          ],
+          "text": "Using (1) to eliminate $S$, we can convert (5) to the following differential equation for $I(t)$ alone.",
+          "reading_order": 5
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            294,
+            433,
+            429,
+            471
+          ],
+          "text": "$$\\frac{d I}{d t}=(a-b) I-a I^{2}$$",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            516,
+            631,
+            608
+          ],
+          "text": "3. Recall that an equilibrium solution of (6) is a solution $I_0(t)$ of (6) that is constant in time. Give a condition on\nthe ratio $R_0 \\doteq a/b$ that is necessary for a nonzero equilibrium solution to exist. Write down the equilibrium\nsolution in terms of $R_0$ .",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            654,
+            631,
+            721
+          ],
+          "text": "A: The ratio $R_0$ needs to be greater than 1 because $a > b$ . This is because if $a < b$ , then both the coefficients of $I$\nin $\\dfrac{dI}{dt} = (a-b)I - aI^2$ are negative, meaning the only possibility for an equilibrium (the only way",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            762,
+            205,
+            802
+          ],
+          "text": "Now, setting ${\\frac {dI}{dt}}$ equal to $0$:",
+          "reading_order": 9
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            64,
+            187,
+            86
+          ],
+          "text": "$$0=(a-b) I-a I^{2}$$",
+          "reading_order": 0
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            99,
+            181,
+            120
+          ],
+          "text": "$$0=I(a-b-a I)$$",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            134,
+            214,
+            152
+          ],
+          "text": "Ignoring the solution of $I=0$,",
+          "reading_order": 2
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            163,
+            160,
+            179
+          ],
+          "text": "$$0=a-b-a I$$",
+          "reading_order": 3
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            193,
+            131,
+            229
+          ],
+          "text": "$$I=\\frac{a-b}{a}$$",
+          "reading_order": 4
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            249,
+            243,
+            261,
+            255
+          ],
+          "text": "$$a$$",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            261,
+            631,
+            279
+          ],
+          "text": "We need this expression in terms of $b$, so the obvious thing to do would be to split up the fraction and put what",
+          "reading_order": 6
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            162,
+            289,
+            173,
+            301
+          ],
+          "text": "$$a$$",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            302,
+            177,
+            324
+          ],
+          "text": "remains in terms of $\\overline{b}$ :",
+          "reading_order": 8
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            337,
+            132,
+            372
+          ],
+          "text": "$$I=1-\\frac{b}{a}$$",
+          "reading_order": 9
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            386,
+            132,
+            427
+          ],
+          "text": "$$I=1-\\frac{1}{\\frac{a}{b}}$$",
+          "reading_order": 10
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            441,
+            140,
+            479
+          ],
+          "text": "$$I=1-\\frac{1}{R_{0}}$$",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            526,
+            631,
+            578
+          ],
+          "text": "4. How do you think solutions of (6) will behave as $t\\to\\infty$ when $a$ and $b$ are chosen so that $R_0\\in(0,1)$? Answer\nin four sentences or less.",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            590,
+            631,
+            675
+          ],
+          "text": "A: If $R_{g}$ is between 0 and 1, that means that $0<\\dfrac{a}{b}<1$ meaning $a<b$ which would mean that, as explained\nearlier, $\\dfrac{dI}{dt}$ is negative. As $t$ approaches infinity, the function $I(t)$ is just going to keep on decreasing. However, $I$",
+          "reading_order": 13
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            336,
+            685,
+            354,
+            702
+          ],
+          "text": "$$d I$$",
+          "reading_order": 14
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            707,
+            631,
+            785
+          ],
+          "text": "cannot become negative because if this were the case, $dt$ would instantly become positive and $I$ would instantly\nrise above the x-axis again. This means that $I$ (t) is going to asymptomatically approach 0 as that is the only way it\ncan be decreasing forever but not negative.",
+          "reading_order": 15
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/MAT186H1_20209_641609668722Writing Task 3 (1)_page_005_figure_000.png)",
+          "figure_path": "figures/MAT186H1_20209_641609668722Writing Task 3 (1)_page_005_figure_000.png",
+          "bbox": [
+            33,
+            0,
+            655,
+            896
+          ],
+          "reading_order": 0
+        }
+      ]
+    }
+  ]
+}

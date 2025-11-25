@@ -1,0 +1,79 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  # 1. Neo4j 数据库（核心依赖）
+  neo4j:
+    image: neo4j:5.21-community  # 免费社区版
+    container_name: neo4j-lightrag
+    restart: unless-stopped
+    ports:
+      - "7474:7474"  # HTTP 浏览器界面
+      - "7687:7687"  # Bolt 协议端口
+    environment:
+      # 初始密码（首次登录后必须修改）
+      NEO4J_AUTH: neo4j/${MY_PASSWORD}
+      # 启用 APOC 插件（必需，用于数据导入）
+      NEO4J_PLUGINS: '["apoc"]'
+      # 内存配置（根据你的机器调整）
+      NEO4J_server_memory_heap_initial__size: 2G
+      NEO4J_server_memory_heap_max__size: 4G
+      NEO4J_server_memory_pagecache_size: 1G
+      # 允许文件导入导出
+      NEO4J_apoc_export_file_enabled: true
+      NEO4J_apoc_import_file_enabled: true
+      NEO4J_apoc_import_file_use__neo4j__config: true
+    volumes:
+      - ./neo4j_data:/data  # 数据持久化
+      - ./neo4j_logs:/logs
+      - ./neo4j_import:/var/lib/neo4j/import  # 导入目录
+    networks:
+      - lightrag-network
+
+  # 2. LightRAG 服务
+  lightrag:
+#    image: ghcr.io/hkuds/lightrag:v1.4.9.8
+    image: mylightrag:1.0
+    container_name: lightrag-server
+    restart: unless-stopped
+    ports:
+      - "9621:9621"  # LightRAG API 端口
+    environment:
+      # API 密钥（自定义）
+      API_KEY: mykey
+      # 工作目录
+      WORKING_DIR: /app/data
+      # LLM 配置（指向本地 Ollama）
+      LLM_MODEL: qwen3:1.7b
+      LLM_BINDING_HOST: http://host.docker.internal:11434  # 关键！访问宿主机 Ollama
+      LLM_TIMEOUT: 300
+      # Embedding 配置
+      EMBEDDING_MODEL: nomic-embed-text
+      EMBEDDING_DIM: 768
+      EMBEDDING_TIMEOUT: 300
+      EMBEDDING_BINDING_HOST: http://host.docker.internal:11434
+      # Neo4j 连接
+      NEO4J_URI: bolt://neo4j:7687
+      NEO4J_USER: neo4j
+      NEO4J_PASSWORD: ${MY_PASSWORD}
+      # 图谱存储模式（可选 neo4j）
+      GRAPH_STORAGE: neo4j  # 或 "file"（默认）
+      ENTITY_TYPES: '["question","solution","subquestion"]'
+#    volumes:
+#      - ./lightrag_data:/app/data  # LightRAG 数据持久化
+#      - ./lightrag_logs:/app/logs
+    depends_on:
+      - neo4j
+    networks:
+      - lightrag-network
+    # 等待 Neo4j 完全启动
+#    entrypoint: >
+#      sh -c "
+#        echo '等待 Neo4j 启动...';
+#        sleep 15;
+#        python -m lightrag.api.server
+#      "
+
+networks:
+  lightrag-network:
+    driver: bridge

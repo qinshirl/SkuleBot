@@ -1,0 +1,559 @@
+{
+  "source_file": "C:\\Users\\dongg\\Desktop\\pdf\\MAT186H1_20209_641609668014Writing Task 2 (2).pdf",
+  "total_pages": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            198,
+            82,
+            492,
+            103
+          ],
+          "text": "Approximation and Limits Modules: A4, B1",
+          "reading_order": 0
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            97,
+            150,
+            361,
+            168
+          ],
+          "text": "1. Consider the following Fermi estimation problem.",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            137,
+            193,
+            576,
+            238
+          ],
+          "text": "“If in 2014, you had downloaded all the data on the entire internet, burned the data onto\nCDs, and stacked the CDs on top of each other, how tall would the stack be?”",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            109,
+            263,
+            610,
+            310
+          ],
+          "text": "Find upper and lower bounds for what the height of the stack might be. State any assumptions about\ndata you use in your calculations.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            109,
+            334,
+            563,
+            352
+          ],
+          "text": "First, I need to find upper and lower bounds for the amount of data on the internet in 2014.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            109,
+            376,
+            597,
+            479
+          ],
+          "text": "Live Science that the amount of data on the internet in 2014 was 1 million exabytes [1] . ACI said\nthat in 2013, the amount of data on the internet increased by 5 exabytes per day [2] . This would\nmean that the amount of data by the start of 2014 was 5 * 365 = 1825 exabytes of data. Hence, a\nlower and upper bound can be created:",
+          "reading_order": 5
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            111,
+            504,
+            549,
+            525
+          ],
+          "text": "$$1825\\cdot10^{18}bytes\\leq Amount\\ of\\ data\\ in\\ 2014\\leq1,000,000\\cdot10^{18}bytes$$",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            109,
+            539,
+            608,
+            642
+          ],
+          "text": "The amount of CDs that it would take to store a certain amount of data is equal to the amount of\ndata divided by the amount of data an average CD can hold. According to Andrea Stein of\nItStillWorks.com, the average CD can hold 700 megabytes, or 700 * 106 bytes, of data[3]. Dividing\nthe expression by this value yields:",
+          "reading_order": 7
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            111,
+            666,
+            548,
+            703
+          ],
+          "text": "$$\\frac{1825}{700} \\cdot 10^{12} CDs \\leq  Amount of CDs needed  \\leq \\frac{1,000,000}{700} \\cdot 10^{12} CDs$$",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            109,
+            729,
+            613,
+            805
+          ],
+          "text": "The total height of a stack of CDs would be the amount of CDs multiplied by the average height of 1\nCD. According to Britannica.com, the average height of 1 CD is 1.2 mm, or 0.0012 metres [4].\nMultiplying the expression by this value gives us our answer",
+          "reading_order": 9
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "equ",
+          "bbox": [
+            113,
+            122,
+            583,
+            160
+          ],
+          "text": "$$\\frac{1825}{700} \\cdot 0.0012 \\cdot 10^{12} m \\leq  Height of the stack  \\leq \\frac{1,000,000}{700} \\cdot 0.0012 \\cdot 10^{12} m$$",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            111,
+            186,
+            211,
+            205
+          ],
+          "text": "Rounding off gives",
+          "reading_order": 1
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            111,
+            227,
+            524,
+            247
+          ],
+          "text": "$$3,128,571,429 m \\leq  Height of the stack  \\leq 1,714,285,714,000 m$$",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            109,
+            274,
+            196,
+            293
+          ],
+          "text": "Quite the range!",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            320,
+            593,
+            367
+          ],
+          "text": "2. Find the following limit, fully justifying your reasoning using mathematical principles we have covered.\nRemember to use complete sentences as part of your response.",
+          "reading_order": 4
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            395,
+            181,
+            437
+          ],
+          "text": "$$\\lim_{x\\to2}\\frac{x-2}{x^{2}+\\sin(\\frac{1}{x-2})}$$",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            467,
+            448,
+            485
+          ],
+          "text": "Since there is a sine in the function, I will start off by trying squeeze theorem",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            513,
+            184,
+            530
+          ],
+          "text": "The bounds for sine are",
+          "reading_order": 7
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            560,
+            201,
+            597
+          ],
+          "text": "$$-1 \\leq \\sin \\left(\\frac{1}{x-2}\\right) \\leq 1$$",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            608,
+            186,
+            626
+          ],
+          "text": "Adding $x^{2}$ to both sides:",
+          "reading_order": 9
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            637,
+            287,
+            673
+          ],
+          "text": "$$x^{2}-1 \\leq x^{2}+\\sin \\left(\\frac{1}{x-2}\\right) \\leq x^{2}+1$$",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            703,
+            630,
+            754
+          ],
+          "text": "To get the original function in the middle, we would have to raise each part of the inequality to the power of\nnegative 1. However, to do so, we would also have to flip the direction of the inequalities because if $a\\geq b$, then",
+          "reading_order": 11
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            763,
+            406,
+            801
+          ],
+          "text": "$$\\frac{1}{a} \\leq \\frac{1}{b}  since a larger denominator means a smaller fraction. Hence, $$",
+          "reading_order": 12
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            81,
+            282,
+            122
+          ],
+          "text": "$$\\frac{1}{x^{2}-1} \\geq \\frac{1}{x^{2}+\\sin \\left(\\frac{1}{x-2}\\right)} \\geq \\frac{1}{x^{2}+1}$$",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            135,
+            518,
+            153
+          ],
+          "text": "To get the function we are trying to find the limit of in the centre, we just multiply by x - 2:",
+          "reading_order": 1
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            181,
+            282,
+            223
+          ],
+          "text": "$$\\frac{x-2}{x^{2}-1} \\geq \\frac{x-2}{x^{2}+\\sin \\left(\\frac{1}{x-2}\\right)} \\geq \\frac{x-2}{x^{2}+1}$$",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            254,
+            502,
+            272
+          ],
+          "text": "Let $g(x)$ be equal to the function on the left and $h(x)$ be equal to the function on the right",
+          "reading_order": 3
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            299,
+            151,
+            376
+          ],
+          "text": "$$\\begin{array} { r } { \\operatorname* { l i m } _ { x \\to 2 } g ( x ) } \\\\ { = \\operatorname* { l i m } _ { x \\to 2 } \\frac { x - 2 } { x ^ { 2 } - 1 } } \\end{array}$$",
+          "reading_order": 4
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            405,
+            120,
+            444
+          ],
+          "text": "$$=\\frac{2-2}{4-1}$$",
+          "reading_order": 5
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            472,
+            91,
+            488
+          ],
+          "text": "$$=0$$",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            519,
+            88,
+            535
+          ],
+          "text": "And",
+          "reading_order": 7
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            564,
+            120,
+            591
+          ],
+          "text": "$$\\lim _{x \\to 2} h(x)$$",
+          "reading_order": 8
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            604,
+            150,
+            641
+          ],
+          "text": "$$=\\lim_{x\\to2}\\frac{x-2}{x^{2}+1}$$",
+          "reading_order": 9
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            671,
+            119,
+            708
+          ],
+          "text": "$$=\\frac{2-2}{4+1}$$",
+          "reading_order": 10
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            739,
+            91,
+            755
+          ],
+          "text": "$$=0$$",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            786,
+            147,
+            803
+          ],
+          "text": "Therefore, since",
+          "reading_order": 12
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            81,
+            254,
+            124
+          ],
+          "text": "$$h ( x ) \\leq \\frac { x - 2 } { x ^ { 2 } + \\sin ( \\frac { 1 } { x - 2 } ) } \\leq g ( x )$$",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            152,
+            89,
+            169
+          ],
+          "text": "And",
+          "reading_order": 1
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            198,
+            221,
+            226
+          ],
+          "text": "$$\\lim_{x\\to2}h(x)=\\lim_{x\\to2}g(x)=0$$",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            254,
+            174,
+            272
+          ],
+          "text": "We can conclude that",
+          "reading_order": 3
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            63,
+            283,
+            208,
+            327
+          ],
+          "text": "$$\\lim _{x \\to 2} \\frac{x-2}{x^{2}+\\sin \\left(\\frac{1}{x-2}\\right)}=0$$",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            356,
+            627,
+            373
+          ],
+          "text": "3. In three sentences or less, reflect on the similarities and differences in the the math used to solve these problem",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            62,
+            402,
+            631,
+            591
+          ],
+          "text": "Both questions were similar in that they both required the manipulation of a double inequality. However, question\n1 required me to do my own research to create bounds and then use more research to find a range for a value,\nmeaning the nature of the question required inequalities. On the other hand, question 2 required me to find the\nvalue of a limit, where the double inequality came into play as a result of a mathematical theorem that I chose to\napproach the problem with, meaning the nature of the question was not about inequalities but rather inequalities\nwere simply a tool used in the method that I chose for the question and the question does not necessarily need\ninequalities to be solved.",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            312,
+            125,
+            381,
+            143
+          ],
+          "text": "Works Cited",
+          "reading_order": 0
+        },
+        {
+          "label": "reference",
+          "bbox": [
+            92,
+            168,
+            580,
+            217
+          ],
+          "text": "[1]S. Pappas, \"How Big Is the Internet, Really?,\" LiveScience, 18-Mar-2016. [Online]. Available:\nhttps://www.livescience.com/54094-how-big-is-the-internet.html. [Accessed: 15-Oct-2020].",
+          "reading_order": 1
+        },
+        {
+          "label": "reference",
+          "bbox": [
+            94,
+            238,
+            630,
+            315
+          ],
+          "text": "[2] S. Gunelius and N. *, “The Data Explosion in 2014 Minute by Minute – Infographic,” ACI , 12-Jul-2014.\n[Online]. Available: https://aci.info/2014/07/12/the-data-explosion-in-2014-minute-by-minute-infographic/.\n[Accessed: 15-Oct-2020].",
+          "reading_order": 2
+        },
+        {
+          "label": "reference",
+          "bbox": [
+            94,
+            337,
+            588,
+            384
+          ],
+          "text": "[3]A. Stein, \"How Much Can a Blank CD Hold?,\" It Still Works, 10-Jan-2019. [Online]. Available:\nhttps://itstillworks.com/how-much-can-a-blank-cd-hold-10377.html. [Accessed: 15-Oct-2020].",
+          "reading_order": 3
+        },
+        {
+          "label": "reference",
+          "bbox": [
+            94,
+            408,
+            497,
+            455
+          ],
+          "text": "[4]“Compact disc,” Encyclopædia Britannica. [Online]. Available:\nhttps://www.britannica.com/technology/compact-disc. [Accessed: 15-Oct-2020].",
+          "reading_order": 4
+        }
+      ]
+    }
+  ]
+}

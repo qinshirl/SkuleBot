@@ -1,0 +1,1427 @@
+{
+  "source_file": "C:\\Users\\dongg\\Desktop\\pdf\\ESC194F_2022_CALCULUS I_E.pdf",
+  "total_pages": 26,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            376,
+            51,
+            576,
+            108
+          ],
+          "text": "4DE98B58-058F-4524-938D-4FC78EE9A5D5\n\nesc194-exam-2022-10512\n\n#337 Page 1 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_001_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_001_figure_001.png",
+          "bbox": [
+            584,
+            51,
+            661,
+            126
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "sec_1",
+          "bbox": [
+            190,
+            151,
+            516,
+            205
+          ],
+          "text": "University of Toronto\nFaculty of Applied Science and Engineering",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            89,
+            325,
+            533,
+            341
+          ],
+          "text": "First name (please write as legibly as possible within the boxes)",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            90,
+            343,
+            610,
+            376
+          ],
+          "text": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            90,
+            399,
+            155,
+            411
+          ],
+          "text": "Last name",
+          "reading_order": 5
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            90,
+            414,
+            610,
+            448
+          ],
+          "text": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            90,
+            470,
+            189,
+            484
+          ],
+          "text": "Student number",
+          "reading_order": 7
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            90,
+            487,
+            610,
+            520
+          ],
+          "text": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            285,
+            616,
+            429,
+            683
+          ],
+          "text": "ESC194F Calculus I\n\n\nFinal Exam\n\n\nDecember 2022",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            144,
+            707,
+            573,
+            751
+          ],
+          "text": "No calculators or aids\nThere are 12 questions, each question is worth 10 marks",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            245,
+            774,
+            472,
+            793
+          ],
+          "text": "Examiners: P.C. Stangeby and J.W. Davis",
+          "reading_order": 11
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            325,
+            848,
+            393,
+            865
+          ],
+          "text": "Page 1 of 26",
+          "reading_order": 12
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_002_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_002_figure_000.png",
+          "bbox": [
+            47,
+            58,
+            129,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            136,
+            58,
+            336,
+            116
+          ],
+          "text": "02D68204-1F91-4449-9345-51F4AFE1E69F\n\nesc194-exam-2022-10512\n\n#337 Page 2 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            323,
+            855,
+            391,
+            873
+          ],
+          "text": "Page 2 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            378,
+            51,
+            577,
+            108
+          ],
+          "text": "B94D02EC-6ABF-4479-B6BA-C31E2493A4F7\nesc194-exam-2022-10512\n#337 Page 3 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_003_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_003_figure_001.png",
+          "bbox": [
+            586,
+            51,
+            664,
+            130
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            68,
+            142,
+            623,
+            185
+          ],
+          "text": "1) a) Suppose that $\\lim _{t \\to \\infty}f(t)=\\infty $. Can $f(t)$ ever decrease? If so, sketch a graph of an example. If\nnot, why not?",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            94,
+            273,
+            476,
+            303
+          ],
+          "text": "b) Suppose $\\frac{4t-3}{t} \\leq f(t) \\leq \\frac{4t^{5}+7}{t^{5}-3}$ when $t>92$. Determine $\\lim _{t \\to \\infty} f(t)$.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            94,
+            390,
+            640,
+            437
+          ],
+          "text": "c) Design a rational function for which $\\lim _{t\\to 4}f(t)$ is a ${\\frac {0}{0}}$ indeterminate form, but the actual value of\nthe limit is ${\\sqrt {2}}$",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            94,
+            525,
+            617,
+            552
+          ],
+          "text": "d) Sketch graphs of function $f$ and $g(\\neq 0)$ so that $\\lim _{t \\to 0} f(t) g(t)$ exists, but $\\lim _{t \\to 0} f(t)$ does not.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            96,
+            692,
+            604,
+            737
+          ],
+          "text": "e) Suppose $|f(x)-7|<10^{-3}$ whenever $0<|x-5|<0.0001$. What do we know about\n$\\lim _{x\\to 5}f(x)$?",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            325,
+            849,
+            394,
+            866
+          ],
+          "text": "Page 3 of 26",
+          "reading_order": 7
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_004_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_004_figure_000.png",
+          "bbox": [
+            46,
+            58,
+            127,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            135,
+            58,
+            335,
+            115
+          ],
+          "text": "OFADEA27-AEE2-4035-98DA-B387176A2742\n\nescl94-exam-2022-10512\n\n#337 Page 4 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            322,
+            854,
+            390,
+            872
+          ],
+          "text": "Page 4 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            377,
+            52,
+            576,
+            106
+          ],
+          "text": "9A8B33AE-E604-4D2B-B08D-4CF2D5CCE6C7\n\nesc194-exam-2022-10512\n\n#337 Page 5 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_005_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_005_figure_001.png",
+          "bbox": [
+            586,
+            49,
+            663,
+            128
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            116,
+            339,
+            135
+          ],
+          "text": "2) Find the limits (Do not use l'Hospital's rule):",
+          "reading_order": 2
+        },
+        {
+          "label": "list",
+          "bbox": [
+            149,
+            136,
+            553,
+            219
+          ],
+          "text": "(a) $\\lim_{x\\to 2}\\frac{x^{2}-4}{x^{2}+2x-3}$ (b) $\\lim_{x\\to 1^{+}}\\frac{x^{2}-2}{x^{2}+2x-3}$ (c) $\\lim_{x\\to 2^{+}}\\frac{2-x}{|2-x|}$\n(d) $\\lim_{x\\to 0}\\sin(x-1+cosx)$ (e) $\\lim_{x\\to 0}\\frac{2-\\sqrt{4-x^{2}}}{x}$",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            848,
+            394,
+            866
+          ],
+          "text": "Page 5 of 26",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_006_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_006_figure_000.png",
+          "bbox": [
+            47,
+            58,
+            127,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            136,
+            58,
+            336,
+            115
+          ],
+          "text": "52C83CAB-31F6-4B37-BE28-195D6068C412\n\nesc194-exam-2022-10512\n\n#337 Page 6 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            322,
+            855,
+            391,
+            873
+          ],
+          "text": "Page 6 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            377,
+            53,
+            577,
+            109
+          ],
+          "text": "2D6F1942-F961-4468-BDAA-EB5D649C110B\n\nesc194-exam-2022-10512\n\n#337 Page 7 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_007_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_007_figure_001.png",
+          "bbox": [
+            586,
+            52,
+            663,
+            129
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            68,
+            125,
+            187,
+            153
+          ],
+          "text": "3) Calculate $\\frac{d y}{d x}$ for:",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            150,
+            160,
+            468,
+            188
+          ],
+          "text": "$$(a)\\ y=3x^{2} \\quad(b)\\ y=3/x^{2} \\quad(c)\\ y=\\frac{3+x^{2}}{2-x}$$",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            190,
+            194,
+            446,
+            215
+          ],
+          "text": "(d) $y=sin^{2}(x^{3}) \\quad$ (e) $x^{2}y^{2}+xcosy=2.$",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            324,
+            848,
+            393,
+            865
+          ],
+          "text": "Page 7 of 26",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_008_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_008_figure_000.png",
+          "bbox": [
+            49,
+            60,
+            124,
+            135
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            135,
+            59,
+            335,
+            115
+          ],
+          "text": "B8191BF6-2416-4A2D-B6B1-2A6FFEC0797E\nesc194-exam-2022-10512\n#337 Page 8 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            324,
+            855,
+            391,
+            872
+          ],
+          "text": "Page 8 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            378,
+            51,
+            578,
+            66
+          ],
+          "text": "00C7AC16-0E7E-4216-9DBA-FFABDOABB36F",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            378,
+            73,
+            501,
+            107
+          ],
+          "text": "escl94-exam-2022-10512\n#337 Page 9 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_009_figure_002.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_009_figure_002.png",
+          "bbox": [
+            587,
+            50,
+            665,
+            129
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            68,
+            119,
+            467,
+            156
+          ],
+          "text": "4) Provide a rigorous proof (i.e. a $\\delta-\\varepsilon$ proof) that $\\lim _{x \\to 3}\\left(x^{2}-x-6\\right)=0$.",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            325,
+            847,
+            393,
+            864
+          ],
+          "text": "Page 9 of 26",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_010_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_010_figure_000.png",
+          "bbox": [
+            47,
+            56,
+            127,
+            135
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            136,
+            56,
+            336,
+            114
+          ],
+          "text": "2C8F9280-82DD-442D-95D4-BBC08DC6CF87\n\nesc194-exam-2022-10512\n\n#337 Page 10 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            320,
+            855,
+            395,
+            872
+          ],
+          "text": "Page 10 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            377,
+            51,
+            576,
+            107
+          ],
+          "text": "E3E2B2F5-6FA6-4EE0-837D-9D55D657B0C1\n\nesc194-exam-2022-10512\n\n#337 Page 11 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_011_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_011_figure_001.png",
+          "bbox": [
+            586,
+            51,
+            663,
+            128
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            134,
+            623,
+            173
+          ],
+          "text": "5) Find the dimensions of the rectangle of largest area that has its base on the y-axis and its other\ntwo vertices on the right side of the y-axis and lying on the parabola $x=9-y^{2}$.",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            320,
+            847,
+            396,
+            864
+          ],
+          "text": "Page 11 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_012_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_012_figure_000.png",
+          "bbox": [
+            46,
+            57,
+            126,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            135,
+            58,
+            334,
+            114
+          ],
+          "text": "B79FCE9F-1489-45E8-8180-DBD940005774\n\nesc194-exam-2022-10512\n\n#337 Page 12 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            319,
+            854,
+            394,
+            872
+          ],
+          "text": "Page 12 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            377,
+            51,
+            576,
+            108
+          ],
+          "text": "B115CC8C-F718-45F4-AF9E-B71596189DF9\nesc194-exam-2022-10512\n#337 Page 13 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_013_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_013_figure_001.png",
+          "bbox": [
+            585,
+            49,
+            663,
+            129
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            134,
+            643,
+            208
+          ],
+          "text": "6) Sketch the graph of the function $f(x)=1+{\\frac {1}{x}}+{\\frac {1}{x^{2}}}$ noting any maximum and minimum points,\npoints of inflection, vertical tangents, and asymptotes, as well as intervals of increase and decrease,\nconvexity and concavity.",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            321,
+            846,
+            396,
+            865
+          ],
+          "text": "Page 13 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_014_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_014_figure_000.png",
+          "bbox": [
+            46,
+            56,
+            127,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            135,
+            57,
+            335,
+            114
+          ],
+          "text": "28CEE3E9-B789-4972-AEBD-47C7273CDB2A\n\nesc194-exam-2022-10512\n\n#337 Page 14 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            319,
+            853,
+            394,
+            870
+          ],
+          "text": "Page 14 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            376,
+            51,
+            576,
+            108
+          ],
+          "text": "B9F4DF6D-E94B-4F20-B28D-F54BD2A52147\n\nesc194-exam-2022-10512\n\n#337 Page 15 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_015_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_015_figure_001.png",
+          "bbox": [
+            584,
+            49,
+            663,
+            130
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            68,
+            134,
+            589,
+            175
+          ],
+          "text": "7) Let $\\mathfrak{R}$ be the region in the first quadrant bounded by the curves $y=x^{3}$ and $y=3x-2x^{2}$.\nProvide a sketch of the region, and calculate the following quantities:",
+          "reading_order": 2
+        },
+        {
+          "label": "list",
+          "bbox": [
+            108,
+            175,
+            560,
+            244
+          ],
+          "text": "(i) The area of $\\mathfrak{R}$\n(ii) The volume obtained by rotating $\\mathfrak{R}$ about the $x$-axis; use the washer method.\n(iii)The volume obtained by rotating $\\mathfrak{R}$ about the $y$-axis; use the shell method.",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            322,
+            847,
+            397,
+            865
+          ],
+          "text": "Page 15 of 26",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_016_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_016_figure_000.png",
+          "bbox": [
+            49,
+            59,
+            126,
+            135
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            137,
+            58,
+            335,
+            116
+          ],
+          "text": "6563C4BD-3CFD-4858-813E-57FE048F52E0\n\nesc194-exam-2022-10512\n\n#337 Page 16 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            320,
+            854,
+            395,
+            872
+          ],
+          "text": "Page 16 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            377,
+            51,
+            577,
+            108
+          ],
+          "text": "860D2B0B-1861-4C52-B071-E026D3500C8B\n\nesc194-exam-2022-10512\n\n#337 Page 17 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_017_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_017_figure_001.png",
+          "bbox": [
+            586,
+            50,
+            664,
+            130
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            69,
+            134,
+            601,
+            154
+          ],
+          "text": "8) a) Find the particular solution to the differential equation: $x^{2} y'=y-x y, y(-1)=-1$",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            95,
+            438,
+            622,
+            462
+          ],
+          "text": "b) Evaluate the integrating factor, and use it to solve the differential equation: $x y'+y=\\sqrt{x}$",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            321,
+            846,
+            396,
+            864
+          ],
+          "text": "Page 17 of 26",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_018_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_018_figure_000.png",
+          "bbox": [
+            47,
+            56,
+            127,
+            135
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            136,
+            56,
+            337,
+            115
+          ],
+          "text": "CA14DF45-D14B-4B3C-8823-73172D73501B\n\nesc194-exam-2022-10512\n\n#337 Page 18 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            320,
+            855,
+            395,
+            872
+          ],
+          "text": "Page 18 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            378,
+            51,
+            577,
+            65
+          ],
+          "text": "25EF20BE-503B-419B-A438-B42B19100DC7",
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            378,
+            74,
+            502,
+            107
+          ],
+          "text": "esc194-exam-2022-10512\n#337 Page 19 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_019_figure_002.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_019_figure_002.png",
+          "bbox": [
+            586,
+            51,
+            664,
+            129
+          ],
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            68,
+            134,
+            604,
+            170
+          ],
+          "text": "9) Use the method of undetermined coefficients to find the general solution of the differential\n\nequation:",
+          "reading_order": 3
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            260,
+            171,
+            443,
+            188
+          ],
+          "text": "$$y ^ { \\prime \\prime } + 6 y ^ { \\prime } + 9 y = 1 6 \\, e ^ { - x } \\cos 2 x$$",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            320,
+            847,
+            396,
+            865
+          ],
+          "text": "Page 19 of 26",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_020_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_020_figure_000.png",
+          "bbox": [
+            46,
+            58,
+            126,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            135,
+            58,
+            334,
+            115
+          ],
+          "text": "51029310-4B17-42F8-A95A-BF01907675D0\n\nesc194-exam-2022-10512\n\n#337 Page 20 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            319,
+            854,
+            394,
+            872
+          ],
+          "text": "Page 20 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            375,
+            51,
+            574,
+            109
+          ],
+          "text": "1925388C-4083-4D17-B35F-1B7C12442F2A\nesc194-exam-2022-10512\n#337 Page 21 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_021_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_021_figure_001.png",
+          "bbox": [
+            583,
+            51,
+            660,
+            128
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            66,
+            134,
+            623,
+            173
+          ],
+          "text": "10) A clock's minute hand has length 4 and its hour hand has length 3. What is the distance between\nthe tips of the two hands at the moment when the distance is increasing most rapidly?",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            321,
+            848,
+            396,
+            866
+          ],
+          "text": "Page 21 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_022_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_022_figure_000.png",
+          "bbox": [
+            47,
+            58,
+            127,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            136,
+            58,
+            335,
+            115
+          ],
+          "text": "22F096E4-CE08-4F75-8020-03068241FAA1\n\nesc194-exam-2022-10512\n\n#337 Page 22 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            319,
+            855,
+            394,
+            873
+          ],
+          "text": "Page 22 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            375,
+            51,
+            575,
+            109
+          ],
+          "text": "E606D3D1-A333-4532-BFCE-B95489016DC7\n\nesc194-exam-2022-10512\n\n#337 Page 23 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_023_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_023_figure_001.png",
+          "bbox": [
+            583,
+            51,
+            660,
+            129
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            134,
+            628,
+            154
+          ],
+          "text": "11) a) Given a differentiable function $f(x)$ which has a bounded derivative $\\left|f^{\\prime}(x)\\right| \\leq k$, show that:",
+          "reading_order": 2
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            255,
+            161,
+            445,
+            207
+          ],
+          "text": "$$\\left|\\int_{0}^{1} f(x) d x-\\sum_{i=1}^{n} f\\left(\\frac{i}{n}\\right) \\cdot \\frac{1}{n}\\right| \\leq \\frac{k}{2 n}$$",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            93,
+            483,
+            641,
+            522
+          ],
+          "text": "b) Given a function $f(x)$ with a continuous $1^{st}$ derivative, and $f(0)=0$. If $|f'(x)|\\leq |f(x)|$ for all\n$x$, show that $f$ must be a constant.",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            320,
+            847,
+            395,
+            864
+          ],
+          "text": "Page 23 of 26",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_024_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_024_figure_000.png",
+          "bbox": [
+            46,
+            58,
+            126,
+            137
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            135,
+            59,
+            334,
+            116
+          ],
+          "text": "F57BA48C-08B1-41E3-958B-4481111411A1\n\nesc194-exam-2022-10512\n\n#337 Page 24 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            318,
+            855,
+            392,
+            872
+          ],
+          "text": "Page 24 of 26",
+          "reading_order": 2
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            376,
+            52,
+            575,
+            108
+          ],
+          "text": "6CB5BE9C-4423-4477-97CB-C0A83706069A\n\nesc194-exam-2022-10512\n\n#337 Page 25 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_025_figure_001.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_025_figure_001.png",
+          "bbox": [
+            584,
+            50,
+            662,
+            129
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            67,
+            134,
+            635,
+            171
+          ],
+          "text": "12) let $f(x)$ be an increasing real-valued function defined for $x \\geq 0$, for which $f(0) = 0$. Let its inverse\nbe $f^{-1}(x)$. Given $a$ and $b$ in the domains of $f$ and $f^{-1}$, respectively, show that:",
+          "reading_order": 2
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            270,
+            171,
+            456,
+            210
+          ],
+          "text": "$$\\int_{0}^{a}f(x)dx+\\int_{0}^{b}f^{-1}(x)dx\\geq ab$$",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            322,
+            847,
+            396,
+            864
+          ],
+          "text": "Page 25 of 26",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2022_CALCULUS I_E_page_026_figure_000.png)",
+          "figure_path": "figures/ESC194F_2022_CALCULUS I_E_page_026_figure_000.png",
+          "bbox": [
+            49,
+            59,
+            124,
+            135
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            136,
+            58,
+            335,
+            116
+          ],
+          "text": "63E5DD6E-AC93-40F4-B5A2-02636747B1F1\n\nesc194-exam-2022-10512\n\n#337 Page 26 of 26",
+          "reading_order": 1
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            318,
+            854,
+            393,
+            872
+          ],
+          "text": "Page 26 of 26",
+          "reading_order": 2
+        }
+      ]
+    }
+  ]
+}

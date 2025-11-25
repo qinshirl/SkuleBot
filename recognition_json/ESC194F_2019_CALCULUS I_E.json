@@ -1,0 +1,1460 @@
+{
+  "source_file": "C:\\Users\\dongg\\Desktop\\pdf\\ESC194F_2019_CALCULUS I_E.pdf",
+  "total_pages": 26,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            386,
+            28,
+            598,
+            83
+          ],
+          "text": "3C7B2DC7-6360-4D8F-9E86-32AB326DBF5C\n\nesc194-exam-2019\n\n#305\n1 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_001_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_001_figure_001.png",
+          "bbox": [
+            606,
+            28,
+            688,
+            105
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            272,
+            125,
+            451,
+            150
+          ],
+          "text": "University of Toronto",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            187,
+            159,
+            536,
+            183
+          ],
+          "text": "Faculty of Applied Science and Engineering",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            303,
+            550,
+            320
+          ],
+          "text": "First name (please write as legibly as possible within the boxes)",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            80,
+            321,
+            633,
+            354
+          ],
+          "text": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            78,
+            375,
+            148,
+            391
+          ],
+          "text": "Last name",
+          "reading_order": 6
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            80,
+            392,
+            633,
+            427
+          ],
+          "text": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            447,
+            184,
+            462
+          ],
+          "text": "Student number",
+          "reading_order": 8
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            80,
+            464,
+            633,
+            498
+          ],
+          "text": "<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            285,
+            594,
+            438,
+            662
+          ],
+          "text": "ESC194F Calculus I\n\n\nFinal Exam\n\n\nDecember 2019",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            133,
+            684,
+            591,
+            730
+          ],
+          "text": "No calculators or aids\n\nThere are 12 questions, each question is worth 10 marks",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            240,
+            753,
+            483,
+            772
+          ],
+          "text": "Examiners: P.C. Stangeby and J.W. Davis",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            324,
+            826,
+            398,
+            844
+          ],
+          "text": "Page 1 of 13",
+          "reading_order": 13
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_002_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_002_figure_000.png",
+          "bbox": [
+            33,
+            29,
+            115,
+            106
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            29,
+            341,
+            42
+          ],
+          "text": "31B5537A-AFAC-4613-BDDC-FBF6843DF529",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            54,
+            226,
+            65
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            70,
+            255,
+            83
+          ],
+          "text": "#305 2 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            387,
+            29,
+            598,
+            82
+          ],
+          "text": "3649948A-83F4-4636-824E-005DB05D4B4E\n\nesc194-exam-2019\n\n#305\n3 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_003_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_003_figure_001.png",
+          "bbox": [
+            608,
+            28,
+            689,
+            104
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            60,
+            111,
+            258,
+            129
+          ],
+          "text": "1) Evaluate the following limits:",
+          "reading_order": 2
+        },
+        {
+          "label": "list",
+          "bbox": [
+            84,
+            130,
+            217,
+            206
+          ],
+          "text": "a) $\\lim _{x\\to 0}(\\csc x-\\cot x)$\nb) $\\lim _{x\\to 0}(1-2x)^{1/x}$\nc) $\\lim _{x\\to 0}\\frac{sin^{-1}x}{x}$",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            327,
+            827,
+            399,
+            844
+          ],
+          "text": "Page 2 of 13",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_004_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_004_figure_000.png",
+          "bbox": [
+            30,
+            29,
+            113,
+            106
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            126,
+            29,
+            339,
+            42
+          ],
+          "text": "DDDAE43F-081F-44CA-ACA1-96A88A34A0E2",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            127,
+            53,
+            224,
+            65
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            70,
+            253,
+            83
+          ],
+          "text": "#305 4 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            387,
+            27,
+            601,
+            83
+          ],
+          "text": "F817CDA0-973F-46E6-B6E9-5A2E6676FD2B\n\nesc194-exam-2019\n\n#305 5 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_005_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_005_figure_001.png",
+          "bbox": [
+            607,
+            27,
+            691,
+            106
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            111,
+            439,
+            137
+          ],
+          "text": "2) Find the derivative of: $3x^{3}$, cos(3x), ln($x^{1/2}$), e$^{-x^{2}}$, $3^{x^{2}}$",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            325,
+            826,
+            398,
+            844
+          ],
+          "text": "Page 3 of 13",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_006_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_006_figure_000.png",
+          "bbox": [
+            32,
+            28,
+            115,
+            106
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            29,
+            341,
+            42
+          ],
+          "text": "F5380940-2002-4520-8775-B29C2B878DOF",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            53,
+            226,
+            65
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            69,
+            255,
+            83
+          ],
+          "text": "#305 6 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            387,
+            26,
+            601,
+            83
+          ],
+          "text": "005701F9-C825-4891-AEBA-F70C6B1D5COD\n\nesc194-exam-2019\n\n#305\n7 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_007_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_007_figure_001.png",
+          "bbox": [
+            608,
+            27,
+            691,
+            105
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            57,
+            109,
+            477,
+            135
+          ],
+          "text": "3) Find the anti-derivative of: $3x^{3}$, cos(3x), $xe^{-x^{2}}$,$(9+x^{2})^{-1}$, 3x .",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            826,
+            399,
+            845
+          ],
+          "text": "Page 4 of 13",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_008_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_008_figure_000.png",
+          "bbox": [
+            33,
+            28,
+            114,
+            105
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            29,
+            342,
+            42
+          ],
+          "text": "599BFCA1-1F1C-4F76-9869-5E61E4D47C3E",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            53,
+            226,
+            64
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            69,
+            255,
+            82
+          ],
+          "text": "#305 8 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            386,
+            28,
+            598,
+            83
+          ],
+          "text": "4A862FEB-7789-4849-AADD-B25A819B20C7\n\nesc194-exam-2019\n\n#305\n9 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_009_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_009_figure_001.png",
+          "bbox": [
+            606,
+            27,
+            689,
+            106
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            56,
+            110,
+            633,
+            148
+          ],
+          "text": "4) At noon, ship A is 150 km west of ship B. Ship A is sailing east at 35 km/hr and ship B is sailing\nnorth at 25 km/hr. How fast is the distance between the ships changing at 4:00 pm?",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            324,
+            826,
+            397,
+            844
+          ],
+          "text": "Page 5 of 13",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_010_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_010_figure_000.png",
+          "bbox": [
+            31,
+            28,
+            116,
+            107
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            29,
+            342,
+            42
+          ],
+          "text": "C4FD28C1-3B21-46B3-8667-09A2DCE35944",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            53,
+            226,
+            64
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            69,
+            263,
+            83
+          ],
+          "text": "#305 10 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            386,
+            27,
+            599,
+            83
+          ],
+          "text": "E30F2DC9-C039-4ACE-9EC7-C27B5175846B\n\nesc194-exam-2019\n\n#305\n11 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_011_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_011_figure_001.png",
+          "bbox": [
+            608,
+            27,
+            690,
+            104
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "list",
+          "bbox": [
+            57,
+            110,
+            622,
+            173
+          ],
+          "text": "5) a) Find functions $f$ and $g$ such that each function is continuous at $x=0$, but the composite\nfunction, $f\\circ g$, is not continuous at $0$.\nb) What value of b maximizes the integral: $\\int_{-1}^{b}x^2(3-x)dx$, $b>-1$?",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            325,
+            826,
+            398,
+            844
+          ],
+          "text": "Page 6 of 13",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_012_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_012_figure_000.png",
+          "bbox": [
+            31,
+            27,
+            115,
+            106
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            127,
+            28,
+            341,
+            113
+          ],
+          "text": "23757462-2F5D-49B1-9C49-65663C27CAE6\n\nesc194-exam-2019\n\n#305\n12 of 26\n\n1",
+          "reading_order": 1
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            386,
+            27,
+            598,
+            83
+          ],
+          "text": "A9DB2AE9-950B-4A34-AA54-0F253C1BC8E7\n\nesc194-exam-2019\n\n#305\n13 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_013_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_013_figure_001.png",
+          "bbox": [
+            607,
+            26,
+            690,
+            104
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "list",
+          "bbox": [
+            56,
+            110,
+            648,
+            166
+          ],
+          "text": "6) A wedge is cut out of a circular cylinder of radius 4 by two planes. One plane is perpendicular to\nthe axis of the cylinder. The other intersects the first at an angle of 30° along a diameter of the\ncylinder. Find the volume of the wedge.",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            826,
+            399,
+            844
+          ],
+          "text": "Page 7 of 13",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_014_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_014_figure_000.png",
+          "bbox": [
+            32,
+            28,
+            116,
+            106
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            29,
+            341,
+            42
+          ],
+          "text": "4EAE672C-653B-4A3C-8D45-51C1F1AE9840",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            52,
+            226,
+            65
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            69,
+            263,
+            83
+          ],
+          "text": "#305 14 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            386,
+            26,
+            599,
+            80
+          ],
+          "text": "7A9B0FC6-9C12-4542-830F-38EAA834CE05\n\nesc194-exam-2019\n\n#305\n15 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_015_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_015_figure_001.png",
+          "bbox": [
+            608,
+            26,
+            690,
+            104
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            111,
+            383,
+            142
+          ],
+          "text": "7) a) [7 marks] Provide a $\\delta-\\varepsilon$ proof that $\\lim_{x \\to 3} x^{2}=9$.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            83,
+            144,
+            611,
+            186
+          ],
+          "text": "b) [3 marks] Given $f(x)=x^{2}$, $c=3$, $\\varepsilon =7$, what is the largest $\\delta $ that will ensure that when\n$0<|x-c|<\\delta $ then $|f(x)-f(c)|<\\epsilon $? Is there a smallest $\\delta $?",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            327,
+            826,
+            400,
+            845
+          ],
+          "text": "Page 8 of 13",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_016_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_016_figure_000.png",
+          "bbox": [
+            32,
+            28,
+            115,
+            106
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            29,
+            342,
+            42
+          ],
+          "text": "44EB5E85-829D-4705-9884-1D4F7545534B",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            52,
+            226,
+            65
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            69,
+            263,
+            83
+          ],
+          "text": "#305 16 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            388,
+            30,
+            598,
+            83
+          ],
+          "text": "E032B663-7AE4-4EA1-A58F-9B6CC48FF829\nesc194-exam-2019\n#305 17 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_017_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_017_figure_001.png",
+          "bbox": [
+            609,
+            29,
+            689,
+            105
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            61,
+            112,
+            583,
+            130
+          ],
+          "text": "8) Find the solution of the differential equation that satisfies the given initial condition:",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            84,
+            130,
+            364,
+            157
+          ],
+          "text": "a) $y'tanx=a+y,\\quady\\left(\\frac{\\pi }{3}\\right)=a,\\quad0<x<\\frac{\\pi }{2}$",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            84,
+            157,
+            353,
+            175
+          ],
+          "text": "b) $(x^{2}+1)y'+3x(y-1)=0\\quady(0)=2$",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            327,
+            827,
+            400,
+            845
+          ],
+          "text": "Page 9 of 13",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_018_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_018_figure_000.png",
+          "bbox": [
+            31,
+            28,
+            116,
+            108
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            30,
+            341,
+            42
+          ],
+          "text": "B71ECF5D-8952-4FE0-B341-DF153EF4AACF",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            54,
+            225,
+            65
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            130,
+            70,
+            262,
+            83
+          ],
+          "text": "#305 18 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            386,
+            28,
+            597,
+            83
+          ],
+          "text": "511104B2-890F-40FE-9CBA-8899010EB9D8\n\nesc194-exam-2019\n\n#305\n19 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_019_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_019_figure_001.png",
+          "bbox": [
+            606,
+            28,
+            689,
+            106
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            58,
+            111,
+            635,
+            130
+          ],
+          "text": "9) Use the method of undetermined coefficients to find the general solution to the $2^{nd}$ order DE:",
+          "reading_order": 2
+        },
+        {
+          "label": "equ",
+          "bbox": [
+            108,
+            130,
+            326,
+            151
+          ],
+          "text": "$$y^{\\prime\\prime}-3y^{\\prime}+2y=coshx=\\frac{1}{2}(e^{x}+e^{-x)}$$",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            321,
+            826,
+            401,
+            845
+          ],
+          "text": "Page 10 of 13",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_020_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_020_figure_000.png",
+          "bbox": [
+            31,
+            29,
+            114,
+            107
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            30,
+            339,
+            42
+          ],
+          "text": "96691573-2770-4BF5-929D-8E294278AE23",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            54,
+            225,
+            66
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            70,
+            262,
+            83
+          ],
+          "text": "#305 20 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            386,
+            28,
+            597,
+            83
+          ],
+          "text": "8F08616D-C4E6-4DDF-9D07-D8F2EE30A459\n\nesc194-exam-2019\n\n#305\n21 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_021_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_021_figure_001.png",
+          "bbox": [
+            606,
+            28,
+            689,
+            105
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "list",
+          "bbox": [
+            57,
+            109,
+            631,
+            167
+          ],
+          "text": "10) Suppose $f'(x)<0<f''(x)$ for $x<a$ and $f'(x)>0>f''(x)$ for $x>a$. Prove that $f$ is not\ndifferentiable at $a$.\nHint: Assume that $f$ is differentiable at $a$, and apply the Mean Value Theorem.",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            321,
+            825,
+            401,
+            844
+          ],
+          "text": "Page 11 of 13",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_022_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_022_figure_000.png",
+          "bbox": [
+            31,
+            29,
+            116,
+            109
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            29,
+            340,
+            43
+          ],
+          "text": "8525AFDE-6EC7-4425-A358-F4F7DBE46DA1",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            53,
+            225,
+            65
+          ],
+          "text": "escl94-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            69,
+            262,
+            83
+          ],
+          "text": "#305 22 of 26",
+          "reading_order": 3
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            387,
+            28,
+            599,
+            83
+          ],
+          "text": "D557A8DD-9F83-4C05-A9C4-94FED87232BC\n\nesc194-exam-2019\n\n#305\n23 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_023_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_023_figure_001.png",
+          "bbox": [
+            607,
+            27,
+            691,
+            106
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            59,
+            109,
+            521,
+            137
+          ],
+          "text": "11) a) Prove that $e^{\\pi}>\\pi^{e}$ by first finding the maximum value of $f(x)=\\frac{\\ln x}{x}$.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            84,
+            137,
+            654,
+            184
+          ],
+          "text": "b) Sketch a graph of $f(t)=e^{t}$ on an arbitrary interval $[a,b]$. Use the graph and compare areas\nof regions to prove that: $e^{(a+b)/2}<{\\frac {e^{b}-e^{a}}{b-a}}$.",
+          "reading_order": 3
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            323,
+            826,
+            402,
+            844
+          ],
+          "text": "Page 12 of 13",
+          "reading_order": 4
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_024_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_024_figure_000.png",
+          "bbox": [
+            33,
+            29,
+            116,
+            108
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            30,
+            342,
+            83
+          ],
+          "text": "A37A0651-E5B1-4954-BCF5-2F3A164E6B5A\n\nesc194-exam-2019\n\n#305\n24 of 26",
+          "reading_order": 1
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "elements": [
+        {
+          "label": "header",
+          "bbox": [
+            388,
+            26,
+            600,
+            80
+          ],
+          "text": "B5126783-5780-4F5B-AA76-48FA7A284EE3\n\nesc194-exam-2019\n\n#305\n25 of 26",
+          "reading_order": 0
+        },
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_025_figure_001.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_025_figure_001.png",
+          "bbox": [
+            609,
+            26,
+            692,
+            103
+          ],
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            59,
+            109,
+            653,
+            149
+          ],
+          "text": "12) Directly calculate the limit of a Riemann sum to evaluate the area of the region between $f(x)=\\sqrt{x},\\ x\\in [0,2]$ and the $x$-axis.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            84,
+            149,
+            373,
+            173
+          ],
+          "text": "Hint 1: Use the non-uniform partition: $x_{i}=i^{2}{\\frac {2}{n^{2}}}$",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            85,
+            173,
+            262,
+            199
+          ],
+          "text": "Hint 2: $\\sum _{i=1}^{n}i^{2}={\\frac {n(n+1)(2n+1)}{6}}$",
+          "reading_order": 4
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            323,
+            827,
+            403,
+            845
+          ],
+          "text": "Page 13 of 13",
+          "reading_order": 5
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "elements": [
+        {
+          "label": "fig",
+          "text": "![Figure](figures/ESC194F_2019_CALCULUS I_E_page_026_figure_000.png)",
+          "figure_path": "figures/ESC194F_2019_CALCULUS I_E_page_026_figure_000.png",
+          "bbox": [
+            31,
+            27,
+            115,
+            105
+          ],
+          "reading_order": 0
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            27,
+            342,
+            40
+          ],
+          "text": "4D7FAB80-6EAE-40D3-9B51-AF0997FD239D",
+          "reading_order": 1
+        },
+        {
+          "label": "header",
+          "bbox": [
+            128,
+            51,
+            226,
+            64
+          ],
+          "text": "esc194-exam-2019",
+          "reading_order": 2
+        },
+        {
+          "label": "header",
+          "bbox": [
+            129,
+            68,
+            263,
+            82
+          ],
+          "text": "#305 26 of 26",
+          "reading_order": 3
+        }
+      ]
+    }
+  ]
+}

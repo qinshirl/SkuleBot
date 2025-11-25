@@ -1,0 +1,1019 @@
+{
+  "source_file": "C:\\Users\\dongg\\Desktop\\pdf\\MAT186H1_20259_65_1756669187868_MAT186-2025-Syllabus.pdf",
+  "total_pages": 9,
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            260,
+            77,
+            431,
+            124
+          ],
+          "text": "MAT186H1F Calculus I\nUniversity of Toronto\nFall 2025",
+          "reading_order": 0
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            78,
+            161,
+            238,
+            182
+          ],
+          "text": "I. Course Overview",
+          "reading_order": 1
+        },
+        {
+          "label": "sec_3",
+          "bbox": [
+            79,
+            193,
+            361,
+            209
+          ],
+          "text": "Brief Course Description & Learning Objectives:",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            220,
+            614,
+            262
+          ],
+          "text": "Welcome to MAT186 Calculus I at the University of Toronto! During this course we will practice transferable\nmathematical thinking skills such as modelling, communication, problem-solving, and the role of approxi-\nmation.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            274,
+            614,
+            384
+          ],
+          "text": "Beginning with a brief pre-calculus module, we will then begin our calculus study in earnest with the under-\nlying theory of limits and continuity. After that we'll investigate derivatives and how they apply to modelling\nan array of phenomena in the form of differential equations. Then we'll take a run through some notable\nother applications of differential calculus including how to exploit the linear approximation to numerically\nsolve differential equations, and the all-important technique of applied optimization. We will then turn to\nintegral calculus, where we will learn how thinking about Riemann sums allows us to represent some real-\nworld quantities with definite integral formulas. Finally, we'll close the semester by connecting the notions\nof derivative and integral via the Fundamental Theorem of Calculus.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            396,
+            614,
+            425
+          ],
+          "text": "We hope that by the end of the course you have become fluent in the various concepts related to Calculus\nas outlined in the list of modules on page 8 as well as",
+          "reading_order": 5
+        },
+        {
+          "label": "list",
+          "bbox": [
+            95,
+            434,
+            615,
+            555
+          ],
+          "text": "• Developed your ability to take intellectual and creative risks to solve problems you haven't seen before.\n• Learned to communicate succinctly and precisely using the language and notation of calculus.\n• Developed your ability to model engineering and physics problems using calculus and interpret the\nresults in a real-world context.\n• Developed the ability to critically analyze your solutions and check whether or not they make sense.\n• Developed your ability to present, and evaluate a logical argument.",
+          "reading_order": 6
+        },
+        {
+          "label": "sec_3",
+          "bbox": [
+            79,
+            594,
+            429,
+            610
+          ],
+          "text": "Supporting Textbook and Supplementary Reading Material:",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            621,
+            614,
+            664
+          ],
+          "text": "The supporting course textbook is on reserve at the Engineering and Computer Science Library and is avail-\nable for purchase as an e-text (with a two year license) or a physical textbook. This textbook is not strictly\nrequired, but is recommended as an additional resource throughout the course.",
+          "reading_order": 8
+        },
+        {
+          "label": "sec_3",
+          "bbox": [
+            96,
+            676,
+            360,
+            692
+          ],
+          "text": "Calculus Early Transcendentals (Third Edition)",
+          "reading_order": 9
+        },
+        {
+          "label": "list",
+          "bbox": [
+            95,
+            698,
+            426,
+            737
+          ],
+          "text": "• Physical Textbook (§79): Click here to purchase\n• e-text (§67.99, two-year license): Purchase from Bookstore here",
+          "reading_order": 10
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            804,
+            366,
+            819
+          ],
+          "text": "1 of 9",
+          "reading_order": 11
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            82,
+            259,
+            98
+          ],
+          "text": "MyLab Registration for e-text:",
+          "reading_order": 0
+        },
+        {
+          "label": "list",
+          "bbox": [
+            92,
+            104,
+            614,
+            215
+          ],
+          "text": "1. Once purchased from the Bookstore, you will recieve a MyLab digital “Access Code”.\n2. Go here to access your MyLab course. You will first sign in with your existing Pearson student account\nor create a new account using your student email.\n3. Input your Access Code from the Bookstore. This will be a small button on the left side of the screen.\nYou can ignore the other offers on this page.\n4. Select “Go to my course” to access your e-text.",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            220,
+            340,
+            237
+          ],
+          "text": "Technology Requirements & Platforms Used:",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            249,
+            436,
+            264
+          ],
+          "text": "In order to participate in this course, students will be required to have:",
+          "reading_order": 3
+        },
+        {
+          "label": "list",
+          "bbox": [
+            95,
+            272,
+            614,
+            325
+          ],
+          "text": "• Reliable internet access. It is recommended that students have a high speed broadband connection\n(LAN, Cable, or DSL) with a minimum download speed of 5 Mbps.\n• A computer satisfying the minimal technical requirements. Please familiarize yourself with them.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            358,
+            132,
+            374
+          ],
+          "text": "Quercus:",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            384,
+            369,
+            402
+          ],
+          "text": "Quercus is the MAT186 homepage: https://q.utoronto.ca.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            412,
+            614,
+            481
+          ],
+          "text": "Please check the homepage frequently for course announcements, logistics and course materials. All an-\nnouncements posted are considered to have been announced to the class and not having read or seen an\nannouncement is not an accepted reason for not following guidelines or missing deadlines. We recommend\nyou configure your preferences on Quercus to receive an email notification as soon as an announcement has\nbeen posted.",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            493,
+            153,
+            509
+          ],
+          "text": "Gradescope:",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            521,
+            614,
+            576
+          ],
+          "text": "All assessments will be administered through Gradescope. Be sure to login to the Canadian server only\nat: www.gradescope.ca. Do not use the .com server. Your @mail.utoronto.ca account will be automatically\nsigned up for a free account before the first term test.. Grades for tests can only be viewed on Gradescope\nand will not be synced with Quercus.",
+          "reading_order": 9
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            804,
+            366,
+            819
+          ],
+          "text": "2 of 9",
+          "reading_order": 10
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            79,
+            77,
+            418,
+            99
+          ],
+          "text": "II. Learning Cycle & Course Components",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            108,
+            613,
+            124
+          ],
+          "text": "Complete Pre-Class Essentials (PCEs): 1.5 hours per week",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            124,
+            614,
+            178
+          ],
+          "text": "Three times a week, before class, you will complete a short reading followed by a two-question quiz on\nQuercus. The purpose of the readings is for you to familiarize yourself with the elementary concepts of the\nmodules. The quiz allows you to make sure you're ready for class; that's why we call it a Pre-Class Essential.\nThe quiz should be straightforward if you have done the reading.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            191,
+            613,
+            260
+          ],
+          "text": "Participate in Lectures:\n3 hours per week\nYou will have 3 lectures per week. The lectures will be active; there will be a mix of instructors introducing\nconcepts and time to work on problems. This will give you an opportunity to practice with new material,\ntest your basic understanding, and ask questions in real time so you can leave lecture having made genuine\nprogress with course content.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            271,
+            613,
+            355
+          ],
+          "text": "Participate in Discussion Groups (Tutorials):\n1 hour per week\nBeginning the week of Mon. Sept. 15, you will have a discussion group (tutorial) facilitated by a Teaching\nAssistant (TA). The discussion will focus on some assigned problems which will be made available to you in\nadvance of your group meeting. You should bring some of your draft work and be prepared to share your\nthoughts in small groups with your peers. TAs will circulate throughout the rooms, providing hints, and\ngiving feedback on your preliminary ideas leading to a consensus on solutions.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            366,
+            613,
+            449
+          ],
+          "text": "Self-study, Prepare for a Term Test:\n3-5.5 hours per week\nYou should be prepared to study outside of class time. The time spent may vary from week-to-week but\nyou should always be dedicating at least three hours per week. Practice problems created by the teaching\nteam will be posted each week, in addition to the suggested textbook problems for each module. Consis-\ntent practice is how you will deepen your understanding of course content and develop your problem solving\nskills. The intention and attention you give to your practice will be fundamental to your success in this course.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            460,
+            614,
+            502
+          ],
+          "text": "You should therefore spend a total of about 8.5 to 11 hours per week on this course. This matches the\nexpectation that full-time university students with 5 courses will spend about 40 to 55 hours per week on\ntheir studies.",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            515,
+            613,
+            570
+          ],
+          "text": "Term Tests:\nThere will be two term tests that are common to all sections of the course. Each term test will emphasize\nmaterial not already tested but may build on previous material. The tentative dates and times for the term\ntests are:",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            582,
+            317,
+            598
+          ],
+          "text": "Term Test 1: Tues. Sept. 30, 10:00am-12:00pm",
+          "reading_order": 8
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            609,
+            303,
+            625
+          ],
+          "text": "Term Test 2: Thurs. Nov 6, 7:00pm-9:00pm.",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            636,
+            350,
+            651
+          ],
+          "text": "Universal Make-up: Tues. Nov. 25, 10:00am-12:00pm.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            655,
+            614,
+            712
+          ],
+          "text": "The universal make-up test is mandatory for any student who did not write Test 1 or Test 2 with a validated\npetition. It is optional for any student who wrote both Test 1 and Test 2 but wishes to improve their grade.\nSee the next section (Grading Scheme & Course Policies) for more details. More detailed information about\neach test will be posted on Quercus one to two weeks before the date of the test.",
+          "reading_order": 11
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            723,
+            613,
+            765
+          ],
+          "text": "Final Exam:\nThe final exam will be held during the final exam period Dec. 2025 and will be scheduled by the registrar.\nInformation about the final will be posted on Quercus one to two weeks before the date of the final exam.",
+          "reading_order": 12
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            804,
+            366,
+            819
+          ],
+          "text": "3 of 9",
+          "reading_order": 13
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            79,
+            77,
+            395,
+            99
+          ],
+          "text": "III. Grading Scheme & Course Policies",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            109,
+            180,
+            124
+          ],
+          "text": "Grading Scheme:",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            124,
+            380,
+            137
+          ],
+          "text": "Your final grade will be calculated by the following formula:",
+          "reading_order": 2
+        },
+        {
+          "label": "list",
+          "bbox": [
+            95,
+            146,
+            615,
+            285
+          ],
+          "text": "• Reflections - 2 % of your final grade.\n• Pre-Class Essentials (drop lowest 3) - 10 % of your final grade.\n• Term Test I & II - 38 % of your final grade (combined). Each term test is worth an equal value\ntoward your overall test grade. If you write both Test 1 and Test 2, you will have the option to\nwrite the universal make-up test to improve your lowest test grade as follows: 0.5(lowest grade test\ngrade)+0.5(universal make-up test grade). Of course, if you are content with your Test 1 and Test 2\ngrades, you do not need to write the universal make-up test.\n• Final Exam - 50 % of your final grade.",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            317,
+            248,
+            333
+          ],
+          "text": "Missed Assessments Policies:",
+          "reading_order": 4
+        },
+        {
+          "label": "list",
+          "bbox": [
+            95,
+            342,
+            614,
+            616
+          ],
+          "text": "• Any term-work you miss should be petitioned. The petition policy of the Faculty of Applied Science\n& Engineering can be found here . Please take a moment to familiarize yourself with it now, before an\nissue arises.\n• We are dropping your lowest three Pre-Class Essential marks. Therefore, you do not need to submit\npetitions unless you had a legitimate reason to miss more than three PCEs. In that case, you need\nto submit a petition for all PCEs that you missed. If you miss more than three PCEs and have a\nvalid petition for all occasions (including the “first three missed” PCEs), then your final grade will be\nre-weighted accordingly. Filing up to three petitions for PCEs will have no effect since the lowest three\nscores, including zeros, are dropped anyways, with or without petition. The policy described above is\nmeant to save you from the hassle of filing petitions. They are not an additional way to excuse missed\nwork. Of course, if you have more than three valid PCE petitions, all of them will be honoured.\n• If you miss a term test you must submit a term-work petition within 7 days of the test date. If you\nmiss a term test and you do not submit a petition or your petition is deemed invalid, you will receive\na 0 on the term test. If you miss a term test and your petition is deemed valid, then you will write the\nuniversal make-up test to replace the original missed test.\n• If you miss the final exam you must submit final exam petition within 7 days of the final exam\ndate. The Faculty has specific policies regarding final exams. Please contact the First Year Office if\nyou have any questions.",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            804,
+            366,
+            819
+          ],
+          "text": "4 of 9",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            79,
+            77,
+            484,
+            99
+          ],
+          "text": "IV. Teaching Team & Administrative Information",
+          "reading_order": 0
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            90,
+            108,
+            603,
+            370
+          ],
+          "text": "<table><tr><td>\\textbf{Lecture Section}</td><td>\\textbf{Instructor}</td><td>\\textbf{Email}</td></tr><tr><td>L0101</td><td>Geoffrey McGregor</td><td>geoffrey.mcgregor@utoronto.ca</td></tr><tr><td>L0102</td><td>Omar Alshawa</td><td>omar.alshawa@mail.utoronto.ca</td></tr><tr><td>L0103</td><td>Morgan Hooper</td><td>morgan.hooper@utoronto.ca</td></tr><tr><td>L0104</td><td>Sean Uppal</td><td>uppal@math.toronto.edu</td></tr><tr><td>L0105</td><td>Amaranta Martinez De La Rosa</td><td>amaranta.martinezdelarosa@mail.utoronto.ca</td></tr><tr><td>L0106</td><td>Almut Burchard</td><td>almut@math.utoronto.ca</td></tr><tr><td>L0107</td><td>Shai Cohen</td><td>sh.cohen@utoronto.ca</td></tr><tr><td>L0108</td><td>Schinella D'Souza</td><td>schinella.dsouza@utoronto.ca</td></tr><tr><td>L0109</td><td>Jason Hattrick-Simpers</td><td>jason.hattrick.simpers@utoronto.ca</td></tr></table>",
+          "reading_order": 1
+        },
+        {
+          "label": "anno",
+          "bbox": [
+            80,
+            382,
+            299,
+            398
+          ],
+          "text": "Course Coordinator: Geoffrey McGregor",
+          "reading_order": 2
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            79,
+            412,
+            158,
+            427
+          ],
+          "text": "Office Hours:",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            427,
+            614,
+            482
+          ],
+          "text": "Each instructor will hold regular weekly office hours. The office hours schedule will be posted on the Quer-\ncus homepage, and will begin the week of September 8. These are an opportunity to dialogue with course\ninstructors outside of the classroom in either a small group or an individual setting. You may attend any\noffice hour without an appointment. We are always happy to meet and speak with you.",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            493,
+            614,
+            563
+          ],
+          "text": "If you have a math related question, be sure to have spent some time on it first, and be ready to explain\nwhat have you attempted. This will help instructors understand where you're “at” with a problem and allow\nus to provide more effective help. Even if you don't have a particular question but just a feeling that there's\nsomething you're not getting about a concept, we can help you work through this. You may also drop in to\nchat informally or listen to the questions of others.",
+          "reading_order": 5
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            80,
+            576,
+            230,
+            591
+          ],
+          "text": "Email Policy & Etiquette:",
+          "reading_order": 6
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            591,
+            614,
+            660
+          ],
+          "text": "Email is reserved for administrative questions. Please check the syllabus and Quercus first before sending\nan email. If the answer to your question(s) is available in the syllabus or on the announcements page on\nQuercus, we may not respond to your email. Otherwise, we will respond to emails as soon as possible,\nusually within 24 hours (except on weekends). If you have a math question, please visit one of the instructor\noffice hours posted on the Quercus page.",
+          "reading_order": 7
+        },
+        {
+          "label": "list",
+          "bbox": [
+            95,
+            668,
+            615,
+            772
+          ],
+          "text": "• Put MAT186 in the subject line, use your UofT email, and always identify yourself.\n• Be specific. We're better able to help you the more specific you are. If your question is complex or\nlengthy and requires multiple back-and-forth emails, we will ask you to attend office hours instead.\n• Be professional. Please use an appropriate tone, level of formality, and review what you've written\nbefore sending your email. Email, in the context of the class and communication with instructors, is\nprofessional correspondence and we ask you to treat it as such.",
+          "reading_order": 8
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            804,
+            366,
+            819
+          ],
+          "text": "5 of 9",
+          "reading_order": 9
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            79,
+            77,
+            181,
+            99
+          ],
+          "text": "V. Supports",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            109,
+            614,
+            178
+          ],
+          "text": "The Rewind Sessions are an opportunity to reengage with material covered in the previous week’s lectures.\nPerhaps you need extra support for a particular sub-module (or two), or maybe you missed a class because\nyou were sick. This is where The Rewind Sessions come into play. Run by an instructor or experienced\nTA, these sessions will review material from the previous week. We’ll update the Quercus page with which\ntopic(s) will be re-winded each week!",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            190,
+            614,
+            247
+          ],
+          "text": "Drop-in Homework Club is held Monday through Thursday evenings from 5:00-7:00pm. The location\nwill be announced once confirmed. This is a study space primarily for first year engineering students and\nis staffed with Teaching Assistants from the Math Learning Centre. We encourage you to use this space\nregularly when working on your Calculus practice problems, or reviewing for an upcoming exam.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            258,
+            614,
+            314
+          ],
+          "text": "Just-In-Time Review Sessions are held during the second week of class on prerequisite math skills for\ncalculus, including sessions on functions, equations and inequalities, and trigonometry. For more information\nabout these sessions please check out the MLC Quercus page: https://q.utoronto.ca/courses/128914/\npages/review-of-prerequisite-math-skills",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            324,
+            614,
+            367
+          ],
+          "text": "G.E.A.R.S is a peer-led support initiative designed to help new engineering students with coursework and\ntransition effectively into university life. Check the following link for more information http://uoft.me/\ngears",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            379,
+            614,
+            449
+          ],
+          "text": "EngSuccess is a peer-mentorship initiative where upper-year undergraduate engineering students (men-\ntors) support first-year engineering students through academic and social guidance. The goal is to help\nincoming students navigate challenges, get familiar with the Skule community, and improve both academic\nsuccess and professional development. Check the following link for more information https://undergrad.\nengineering.utoronto.ca/advising-and-wellness/eng-success/",
+          "reading_order": 5
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            804,
+            366,
+            819
+          ],
+          "text": "6 of 9",
+          "reading_order": 6
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            79,
+            77,
+            281,
+            98
+          ],
+          "text": "VI. Institutional Policies",
+          "reading_order": 0
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            80,
+            109,
+            196,
+            124
+          ],
+          "text": "Academic Integrity:",
+          "reading_order": 1
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            124,
+            614,
+            164
+          ],
+          "text": "Participating honestly, respectfully, responsibly, and fairly in this academic community ensures that the U\nof T degree that you earn will be valued as a true indication of your individual academic achievement, and\nwill continue to receive the respect and recognition it deserves.",
+          "reading_order": 2
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            177,
+            593,
+            218
+          ],
+          "text": "Please familiarize yourself with the University of Toronto's Code of Behaviour on Academic Matters:\nhttps://governingcouncil.utoronto.ca/secretariat/policies/code-behaviour-academic-matters-july-1-2019 .\nA simplified version is available here:",
+          "reading_order": 3
+        },
+        {
+          "label": "para",
+          "bbox": [
+            80,
+            218,
+            393,
+            232
+          ],
+          "text": "https://www.academicintegrity.utoronto.ca/perils-and-pitfalls/",
+          "reading_order": 4
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            244,
+            614,
+            327
+          ],
+          "text": "The use of generative artificial intelligence (AI) tools is strictly prohibited in all course assessments\nunless explicitly stated otherwise by the course coordinator. This includes, but is not limited to, ChatGPT,\nGitHub Copilot, and open-source models that you have trained and/or deployed yourself. You may not in-\nteract with, nor copy, paraphrase, or adapt any content from any generative AI for the purpose of completing\nassignments in this course. Use of generative AI will be considered use of an unauthorized aid, which is a\nform of academic misconduct under the Code of Behaviour on Academic Matters.",
+          "reading_order": 5
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            339,
+            614,
+            462
+          ],
+          "text": "This course policy is designed to promote your learning and intellectual development and to ensure that\nour evaluations are a fair and accurate assessment of your learning. Though it may be tempting to use\ngenerative AI to assist you when completing your assignments, this will simply inhibit your learning. If the\nwork you submit is essentially the output of generative AI, then what have you learned and what value are\nyou adding? Think of it this way: if a potential employer or supervisor can get as much from an AI tool as\nwhat you're able to do yourself, then why should they hire you at all? You should aim to understand course\ncontent at a level that far exceeds what an automated tool can achieve. Our course—and in particular, each\nassignment—is designed to help you attain true mastery of the course content. If you have questions or are\nstuck, please come to office hours, where we'll be happy to help!",
+          "reading_order": 6
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            80,
+            474,
+            143,
+            489
+          ],
+          "text": "Copyright:",
+          "reading_order": 7
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            489,
+            614,
+            530
+          ],
+          "text": "Course materials belong to your instructor, the University, and/or other sources depending on the specific\nfacts of each situation and are protected by copyright. Do not download, copy, or share any course or student\nmaterials or videos without the explicit permission of the instructor.",
+          "reading_order": 8
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            80,
+            542,
+            156,
+            557
+          ],
+          "text": "Accessibility:",
+          "reading_order": 9
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            557,
+            614,
+            666
+          ],
+          "text": "The University provides academic accommodations for students with disabilities in accordance with the\nterms of the Ontario Human Rights Code. This occurs through a collaborative process that acknowledges\na collective obligation to develop an accessible learning environment that both meets the needs of students\nand preserves the essential academic requirements of the University's courses and programs. Students with\ndiverse learning styles and needs are welcome in this course. If you have a disability that may require ac-\ncommodations, please feel free to approach your Course Instructor and/or the Accessibility Services office\nas soon as possible. The sooner you let us know your needs the quicker we can assist you in achieving your\nlearning goals in this course.",
+          "reading_order": 10
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            676,
+            514,
+            693
+          ],
+          "text": "https://undergrad.engineering.utoronto.ca/advising-and-wellness/accessibility-services/",
+          "reading_order": 11
+        },
+        {
+          "label": "sec_2",
+          "bbox": [
+            80,
+            703,
+            262,
+            719
+          ],
+          "text": "Equity, Diversity and Inclusion:",
+          "reading_order": 12
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            719,
+            614,
+            773
+          ],
+          "text": "The University of Toronto is committed to equity, human rights and respect for diversity. All members\nof the learning environment in this course should strive to create an atmosphere of mutual respect where\nall members of our community can express themselves, engage with each other, and respect one another's\ndifferences. U of T does not condone discrimination or harassment against any persons or communities.",
+          "reading_order": 13
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            804,
+            366,
+            819
+          ],
+          "text": "7 of 9",
+          "reading_order": 14
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            80,
+            90,
+            191,
+            110
+          ],
+          "text": "VII. Modules",
+          "reading_order": 0
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            97,
+            120,
+            593,
+            195
+          ],
+          "text": "<table><tr><td>\\textbf{A Pre-Calculus}</td><td>\\textbf{Textbook Reference}</td></tr><tr><td>A1 Trigonometry</td><td>Section: 1.4</td></tr><tr><td>A2 Inverse Functions</td><td>Sections: 1.3, 1.4</td></tr><tr><td>A3 Logarithms \\</td><td>Exponentials</td><td>Section: 1.3</td></tr><tr><td>A4 Estimations, Absolute Values \\</td><td>Inequalities</td></tr></table>",
+          "reading_order": 1
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            97,
+            209,
+            593,
+            284
+          ],
+          "text": "<table><tr><td>\\textbf{B Limits \\</td><td>Continuity}</td><td>\\textbf{Textbook Reference}</td></tr><tr><td>B1 Limits</td><td></td><td>Sections: 2.1-2.5</td></tr><tr><td>B2 Limits continued</td><td></td><td>Sections: 2.1-2.5</td></tr><tr><td>B3 Squeeze Theorem</td><td></td><td>Section: 2.3</td></tr><tr><td>B4 Continuity \\</td><td>IVT</td><td>Section: 2.6</td></tr></table>",
+          "reading_order": 2
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            97,
+            299,
+            593,
+            416
+          ],
+          "text": "<table><tr><td>\\textbf{C Derivatives}</td><td>\\textbf{Textbook Reference}</td></tr><tr><td>C1 Derivative at a Point</td><td>Section: 3.1</td></tr><tr><td>C2 The Derivative Function</td><td>Section: 3.2</td></tr><tr><td>C3 Derivatives Rules</td><td>Sections: 3.3 \\</td><td>3.7</td></tr><tr><td>C4 Linear Approximation</td><td>Section: 4.6</td></tr><tr><td>C5 Interpretation of the Derivative</td><td>Section: 3.6</td></tr><tr><td>C6 Implicit \\</td><td>Inverse Differentiation</td><td>Sections: 3.8 \\</td><td>3.10</td></tr><tr><td>C7 Related Rates</td><td>Section: 3.11</td></tr></table>",
+          "reading_order": 3
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            97,
+            431,
+            610,
+            533
+          ],
+          "text": "<table><tr><td>\\textbf{D Applications of Derivatives}</td><td>\\textbf{Textbook Reference}</td></tr><tr><td>D1 Differential Equations \\</td><td>their Solutions</td><td>Section: 9.1 (pg. 597, 598)</td></tr><tr><td>D2 Phase Lines \\</td><td>Slope Fields</td><td>Section: 9.2</td></tr><tr><td>D3 Euler's Method</td><td>Section: 9.2</td></tr><tr><td>D4 L'Hôpital's Rule</td><td>Section: 4.8</td></tr><tr><td>D5 Critical Points</td><td>Section: 4.1</td></tr><tr><td>D6 Applied Optimization</td><td>Section 4.5</td></tr></table>",
+          "reading_order": 4
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            97,
+            548,
+            593,
+            624
+          ],
+          "text": "<table><tr><td>\\textbf{E Definite Integrals \\</td><td>Riemann Sums}</td><td>\\textbf{Textbook Reference}</td></tr><tr><td>E1 Approximating Definite Integrals</td><td></td><td>Section: 5.1</td></tr><tr><td>E2 Sigma Notation \\</td><td>Subintervals</td><td>Section: 5.1</td></tr><tr><td>E3 Limits of Riemann Sums</td><td></td><td>Section: 5.2</td></tr><tr><td>E4 Modelling with Riemann Sums (Four Parts)</td><td></td><td>Section: 6.1-6.6</td></tr></table>",
+          "reading_order": 5
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            97,
+            638,
+            593,
+            712
+          ],
+          "text": "<table><tr><td>\\textbf{F Antiderivatives}</td><td>\\textbf{Textbook Reference}</td></tr><tr><td>F1 Antiderivatives</td><td>Section: 4.9</td></tr><tr><td>F2 Initial Value Problems</td><td>Section: 4.9</td></tr><tr><td>F3 Fundamental Theorem of Calculus, Part I</td><td>Section: 5.3</td></tr><tr><td>F4 Fundamental Theorem of Calculus, Part II</td><td>Section: 5.3</td></tr></table>",
+          "reading_order": 6
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            326,
+            805,
+            366,
+            819
+          ],
+          "text": "8 of 9",
+          "reading_order": 7
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "label": "sec_1",
+          "bbox": [
+            79,
+            78,
+            284,
+            98
+          ],
+          "text": "VIII. Tentative Schedule:",
+          "reading_order": 0
+        },
+        {
+          "label": "para",
+          "bbox": [
+            79,
+            109,
+            614,
+            137
+          ],
+          "text": "Some sections may be slightly ahead or behind this schedule. Please note that there are no lectures nor\ndiscussion groups during the Fall Reading Break Oct. 27 - Oct. 31.",
+          "reading_order": 1
+        },
+        {
+          "label": "tab",
+          "bbox": [
+            97,
+            147,
+            621,
+            372
+          ],
+          "text": "<table><tr><td>\\textbf{Dates}</td><td>\\textbf{Modules}</td></tr><tr><td>Sept. 2 - Sept. 5</td><td>Introduction, A1, A2</td></tr><tr><td>Sept. 8- Sept. 12</td><td>A3, A4, B1</td></tr><tr><td>Sept. 15 - Sept. 19</td><td>B2, B3, B4</td></tr><tr><td>Sept. 22 - Sept. 26</td><td>C1.C2, C3</td></tr><tr><td>Sept. 29 - Oct 3</td><td>C4, C5, C6</td></tr><tr><td>Oct. 6 - Oct 10</td><td>C7, D1, D2</td></tr><tr><td>Oct. 14 - Oct 17</td><td>D3, D4</td></tr><tr><td>Oct. 20 - Oct. 24</td><td>D5, D6, E1</td></tr><tr><td>Nov. 3 - Nov. 7</td><td>E2, E3, E4-1</td></tr><tr><td>Nov. 10 - Nov. 14</td><td>E4-2, E4-3, E4-4</td></tr><tr><td>Nov. 17 - Nov. 21</td><td>F1, F2, F3</td></tr><tr><td>Nov. 24 - Nov. 28</td><td>F4, Catch-up, Review</td></tr><tr><td>Dec. 1 - Dec. 2</td><td>Review for Monday Lectures</td></tr></table>",
+          "reading_order": 2
+        },
+        {
+          "label": "foot",
+          "bbox": [
+            325,
+            804,
+            366,
+            819
+          ],
+          "text": "9 of 9",
+          "reading_order": 3
+        }
+      ]
+    }
+  ]
+}
