@@ -5,7 +5,7 @@ from pathlib import Path
 import asyncio
 import json
 import json_repair
-from typing import Any, AsyncIterator, overload, Literal
+from typing import Any, AsyncIterator, overload, Literal, Optional
 from collections import Counter, defaultdict
 
 from lightrag.exceptions import PipelineCancelledException
@@ -100,7 +100,22 @@ def chunking_by_token_size(
     split_by_character_only: bool = False,
     overlap_token_size: int = 128,
     max_token_size: int = 1024,
+    file_path: str = ""
 ) -> list[dict[str, Any]]:
+    try:
+        filename = Path(file_path).stem
+        course_code, year, doc_name = filename.split("_")
+        logger.info(f"parsed info from file path: course_code {course_code}, year {year}, doc name {doc_name}")
+        extra_data = json.dumps({
+            "course_code": course_code,
+            "year": year,
+            "doc_name": doc_name,
+        }, indent=4)
+    except Exception as e:
+        extra_data = "none"
+        logger.warning(f"parse filename failed, with error {e}")
+    extra_data = "extra_data:\n" + extra_data + "\n\n\n"
+    extra_data_tokens = tokenizer.encode(extra_data)
     tokens = tokenizer.encode(content)
     results: list[dict[str, Any]] = []
     if split_by_character:
@@ -137,15 +152,16 @@ def chunking_by_token_size(
         for index, start in enumerate(
             range(0, len(tokens), max_token_size - overlap_token_size)
         ):
-            chunk_content = tokenizer.decode(tokens[start : start + max_token_size])
+            chunk_content_tokens = tokens[start : start + max_token_size]
+            extended_chunk_content = extra_data_tokens + chunk_content_tokens
+            chunk_content = tokenizer.decode(extended_chunk_content)
             results.append(
                 {
-                    "tokens": min(max_token_size, len(tokens) - start),
+                    "tokens": min(max_token_size, len(tokens) - start) + len(extra_data_tokens),
                     "content": chunk_content.strip(),
                     "chunk_order_index": index,
                 }
             )
-    logger.info(results)
     return results
 
 

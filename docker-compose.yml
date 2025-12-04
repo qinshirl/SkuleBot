@@ -1,51 +1,47 @@
-# docker-compose.yml
 version: '3.8'
 
 services:
-  # 1. Neo4j 数据库（核心依赖）
   neo4j:
-    image: neo4j:5.21-community  # 免费社区版
+    image: neo4j:5.21-community
     container_name: neo4j-lightrag
     restart: unless-stopped
     ports:
-      - "7474:7474"  # HTTP 浏览器界面
-      - "7687:7687"  # Bolt 协议端口
+      - "7474:7474"
+      - "7687:7687"
     environment:
-      # 初始密码（首次登录后必须修改）
       NEO4J_AUTH: neo4j/${MY_PASSWORD}
-      # 启用 APOC 插件（必需，用于数据导入）
       NEO4J_PLUGINS: '["apoc"]'
-      # 内存配置（根据你的机器调整）
       NEO4J_server_memory_heap_initial__size: 2G
       NEO4J_server_memory_heap_max__size: 4G
       NEO4J_server_memory_pagecache_size: 1G
-      # 允许文件导入导出
       NEO4J_apoc_export_file_enabled: true
       NEO4J_apoc_import_file_enabled: true
       NEO4J_apoc_import_file_use__neo4j__config: true
     volumes:
-      - ./neo4j_data:/data  # 数据持久化
+      - ./neo4j_data:/data
       - ./neo4j_logs:/logs
-      - ./neo4j_import:/var/lib/neo4j/import  # 导入目录
+      - ./neo4j_import:/var/lib/neo4j/import
     networks:
       - lightrag-network
 
-  # 2. LightRAG 服务
   lightrag:
-#    image: ghcr.io/hkuds/lightrag:v1.4.9.8
     image: mylightrag:1.0
     container_name: lightrag-server
     restart: unless-stopped
     ports:
-      - "9621:9621"  # LightRAG API 端口
+      - "9621:9621"
     environment:
       API_KEY: mykey
       WORKING_DIR: /app/data
       LLM_MODEL: qwen3:1.7b
-      LLM_BINDING_HOST: http://host.docker.internal:11434  # 关键！访问宿主机 Ollama
-      LLM_TIMEOUT: 600
-      EMBEDDING_MODEL: nomic-embed-text
-      EMBEDDING_DIM: 768
+      LLM_BINDING_HOST: http://host.docker.internal:11434
+      LLM_TIMEOUT: 1200
+      CHUNK_SIZE: 500
+
+      EMBEDDING_BINDING: ollama
+      EMBEDDING_MODEL: bge-m3:latest
+      EMBEDDING_BATCH_NUM: 10
+      EMBEDDING_DIM: 1024
       EMBEDDING_TIMEOUT: 300
       EMBEDDING_BINDING_HOST: http://host.docker.internal:11434
 
@@ -55,8 +51,13 @@ services:
       NEO4J_PASSWORD: ${MY_PASSWORD}
       NEO4J_DATABASE: neo4j
 
-      ENTITY_TYPES: '["question","concept"]'
+      ENTITY_TYPES: '["question","concept","Quiz","Course"]'
+
       LOG_LEVEL: DEBUG
+      LOG_DIR: /logs
+    volumes:
+      - ./lightrag_logs:/logs
+      - ./lightrag_data:/app/data
 
     depends_on:
       - neo4j

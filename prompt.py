@@ -20,7 +20,7 @@ The input text is from a calculus exam.
         *   `entity_type`: Categorize the entity using one of the following types: `{entity_types}`. If none of the provided entity types apply, do not add new entity type and classify it as `Other`.
         *   `entity_description`: Provide a concise yet comprehensive description of the entity's attributes and activities, based *solely* on the information present in the input text.
     *   **Output Format - Entities:** Output a total of 4 fields for each entity, delimited by `{tuple_delimiter}`, on a single line. The first field *must* be the literal string `entity`.
-        *   Format: `entity{tuple_delimiter}entity_name{tuple_delimiter}entity_type{tuple_delimiter}entity_description`
+        *   Format: `entity{tuple_delimiter}entity_name{tuple_delimiter}entity_type{tuple_delimiter}entity_description\\n`
 
 2.  **Relationship Extraction & Output:**
     *   **Identification:** Identify direct, clearly stated, and meaningful relationships between previously extracted entities.
@@ -54,13 +54,16 @@ The input text is from a calculus exam.
 
 7.  **Language & Proper Nouns:**
     *   The entire output (entity names, keywords, and descriptions) must be written in `{language}`.
-    *   if entity names is a pure number, add entity type as a prefix
+    *   if the entity is a question, the entity name should include course_code(in extra_data), year(in extra_data), doc_name(in extra_data), question number, subquestion number if there is one, joined by '_'.
     *   Proper nouns (e.g., personal names, place names, organization names) should be retained in their original language if a proper, widely accepted translation is not available or would cause ambiguity.
 
 8.  **Completion Signal:** Output the literal string `{completion_delimiter}` only after all entities and relationships, following all criteria, have been completely extracted and outputted.
 
 9.  **concept entity requirement:**
     *   The concept may or may not appear in the question, you should extract as if you are the math teacher.
+    
+10. **extra data:**
+    *   Extra data may be provided at the start of Input with json format after 'extra_data:' if present, extract course information as entity and append as prefix to the entity name as well as shown in the example.
 
 ---Examples---
 {examples}
@@ -107,6 +110,12 @@ Based on the last extraction task, identify and extract any **missed or incorrec
 PROMPTS["entity_extraction_examples"] = [
     """<Input Text>
 ```
+extra_data:
+{{
+    'course_code': 'MAT186H1',
+    'year': '2025',
+    'doc_name': 'Quiz8'
+}}
 3. For the function $f(x)=6x-2$, over the interval $[-2,2]$, find the area under the graph using Riemann sums.
 
 For the Riemann sum, we take 
@@ -117,9 +126,15 @@ It is easiest to use a right-hand sum:
 ```
 
 <Output>
-entity{tuple_delimiter}question3{tuple_delimiter}question{tuple_delimiter}For the function $f(x)=6x-2$, over the interval $[-2,2]$, find the area under the graph using Riemann sums.
+entity{tuple_delimiter}MAT186H1{tuple_delimiter}course{tuple_delimiter}MAT186H1 is a calculus course in University of toronto.
+entity{tuple_delimiter}MAT186H1_2025_Quiz8{tuple_delimiter}Quiz{tuple_delimiter}MAT186H1_2025_Quiz8 is 8th Quiz of MAT186H1 in 2025.
+entity{tuple_delimiter}MAT186H1_2025_Quiz8_question_3{tuple_delimiter}question{tuple_delimiter}question3 of Quiz8 of MAT186H1 in 2025.
 entity{tuple_delimiter}Riemann sums{tuple_delimiter}concept{tuple_delimiter}Riemann sums are a method for approximating the area under a curve by dividing it into a series of rectangles and summing their areas.
-relation{tuple_delimiter}question3{tuple_delimiter}Riemann sums{tuple_delimiter}is related to{tuple_delimiter}question 3 is related to the concept of Riemann sums.
+relation{tuple_delimiter}MAT186H1_2025_Quiz8_question_3{tuple_delimiter}Riemann sums{tuple_delimiter}is related to{tuple_delimiter}MAT186H1_2025_Quiz8_question3 is related to the concept of Riemann sums.
+relation{tuple_delimiter}Riemann sums{tuple_delimiter}MAT186H1_2025_Quiz8_question_3{tuple_delimiter}is related to{tuple_delimiter}MAT186H1_2025_Quiz8_question3 is an example application of Riemann sums.
+relation{tuple_delimiter}MAT186H1_2025_Quiz8{tuple_delimiter}MAT186H1_2025_Quiz8_question_3{tuple_delimiter}question{tuple_delimiter}MAT186H1_2025_Quiz8_question3 is a question on MAT186H1_2025_Quiz8.
+relation{tuple_delimiter}MAT186H1{tuple_delimiter}MAT186H1_2025_Quiz8{tuple_delimiter}quiz{tuple_delimiter}MAT186H1_2025_Quiz8 is a quiz of MAT186.
+
 {completion_delimiter}
 
 """,
