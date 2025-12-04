@@ -1,0 +1,410 @@
+{
+  "doc-0537561e81c3c896a9a22c0e5571ed28": {
+    "relation_pairs": [
+      [
+        "MAT186H1_2025_Quiz8",
+        "MAT186H1_2025_Quiz8_question_1"
+      ],
+      [
+        "MAT186H1",
+        "MAT186H1_2025_Quiz8"
+      ],
+      [
+        "AB5",
+        "MAT186H1"
+      ],
+      [
+        "CF6",
+        "MAT186H1"
+      ],
+      [
+        "MAT186H1_2025_Quiz8_question_3",
+        "Riemann sums"
+      ],
+      [
+        "MAT186H1_2025_Quiz8",
+        "MAT186H1_2025_Quiz8_question_3"
+      ],
+      [
+        "MAT186H1_2025_Quiz8",
+        "MAT186H1_2025_Quiz8_question_2"
+      ],
+      [
+        "CS13",
+        "MAT186H1"
+      ],
+      [
+        "CS14",
+        "MAT186H1"
+      ],
+      [
+        "MAT186H1_2025_Quiz8_question_1",
+        "limits"
+      ],
+      [
+        "AB3",
+        "MAT186H1"
+      ],
+      [
+        "MAT186H1_2025_Quiz8_question_2",
+        "limits"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1764820985,
+    "update_time": 1764820985,
+    "_id": "doc-0537561e81c3c896a9a22c0e5571ed28"
+  },
+  "doc-567e88fab1b79a362ecbd3c4ffbf2e13": {
+    "relation_pairs": [
+      [
+        "MAT186H1_2025_Theorem",
+        "limit"
+      ],
+      [
+        "MAT186H1_2025_Quiz6",
+        "MAT186H1_2025_Quiz6_question_2"
+      ],
+      [
+        "MAT186H1_2025_Quiz6",
+        "Riemann sums"
+      ],
+      [
+        "MAT186H1_2025_Quiz6_question_2",
+        "optimization"
+      ],
+      [
+        "MAT186H1_2025_Quiz6",
+        "MAT186H1_2025_Quiz6_question_4"
+      ],
+      [
+        "MAT186H1_2025_Quiz6_question_4",
+        "Squeeze Theorem"
+      ],
+      [
+        "MAT186H1_2025_Quiz6_question_1",
+        "Riemann sums"
+      ],
+      [
+        "Theorem",
+        "limit"
+      ],
+      [
+        "MAT186H1_2025_Quiz6",
+        "Theorem"
+      ],
+      [
+        "MAT186H1_2025_Quiz6",
+        "MAT186H1_2025_Quiz6_question_1"
+      ],
+      [
+        "MAT186H1",
+        "MAT186H1_2025_Quiz6"
+      ],
+      [
+        "MAT186H1",
+        "Riemann sums"
+      ],
+      [
+        "MAT186H1_2025_Quiz6_question_4",
+        "Riemann sums"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1764823329,
+    "update_time": 1764823329,
+    "_id": "doc-567e88fab1b79a362ecbd3c4ffbf2e13"
+  },
+  "doc-fb75fc64c3e2dfc70580d6b95e5a92a4": {
+    "relation_pairs": [
+      [
+        "Sep 8",
+        "date_has_section"
+      ],
+      [
+        "Sec_6.8*",
+        "section"
+      ],
+      [
+        "Sec_6.9",
+        "section"
+      ],
+      [
+        "course_code",
+        "year"
+      ],
+      [
+        "Course",
+        "WeBWorK"
+      ],
+      [
+        "MAT186H1",
+        "course_code"
+      ],
+      [
+        "MAT186H1",
+        "course_has_document"
+      ],
+      [
+        "Course",
+        "WeBWorK Assignments"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1764877953,
+    "update_time": 1764877953,
+    "_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4"
+  },
+  "doc-9d8025357203398333536dc89e3b4e96": {
+    "relation_pairs": [
+      [
+        "integral",
+        "secant"
+      ],
+      [
+        "MAT187H1_2025_Quiz1",
+        "MAT187H1_2025_Quiz1_question_5"
+      ],
+      [
+        "MAT187H1_2025_Quiz1",
+        "Riemann sums"
+      ],
+      [
+        "MAT187H1_2025_Quiz1_question_4",
+        "polynomial long division"
+      ],
+      [
+        "Riemann sums",
+        "integral"
+      ],
+      [
+        "MAT187H1_2025_Quiz1",
+        "MAT187H1_2025_Quiz1_question_4"
+      ],
+      [
+        "MAT187H1_2025_Quiz1_question_1",
+        "arc length formula"
+      ],
+      [
+        "MAT187H1_2025_Quiz1_question_1",
+        "partial fraction decomposition"
+      ],
+      [
+        "MAT187H1_2025_Quiz1",
+        "MAT187H1_2025_Quiz1_question_1"
+      ],
+      [
+        "MAT187H1_2025_Quiz1_question_1",
+        "integration by parts"
+      ],
+      [
+        "MAT187H1",
+        "Quiz1"
+      ],
+      [
+        "MAT187H1",
+        "MAT187H1_2025_Quiz1"
+      ],
+      [
+        "Question",
+        "integral"
+      ],
+      [
+        "MAT187H1_2025_Quiz1_question_2",
+        "integration by parts"
+      ],
+      [
+        "MAT187H1_2025_Quiz1_question_2",
+        "trigonometric substitution"
+      ],
+      [
+        "MAT187H1_2025_Quiz1",
+        "MAT187H1_2025_Quiz1_question_2"
+      ],
+      [
+        "MAT187H1_2025_Quiz1",
+        "MAT187H1_2025_Quiz1_1"
+      ],
+      [
+        "MAT187H1_2025_Quiz1_question_5",
+        "catenary"
+      ],
+      [
+        "Arc length formula",
+        "MAT187H1_2025_Quiz1_question_1"
+      ],
+      [
+        "MAT187H1_2025_Quiz1",
+        "trigonometric substitution"
+      ],
+      [
+        "Arc length formula",
+        "MAT187H1_2025_Quiz1"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1764880510,
+    "update_time": 1764880510,
+    "_id": "doc-9d8025357203398333536dc89e3b4e96"
+  },
+  "doc-2e10275539f6fb4823e23085d6958e08": {
+    "relation_pairs": [
+      [
+        "MAT187H1_2025_Quiz2",
+        "p-test"
+      ],
+      [
+        "MAT187H1_2025_Quiz2",
+        "convergence"
+      ],
+      [
+        "MAT187H1_2025_Quiz2_question_4",
+        "p-test"
+      ],
+      [
+        "Work",
+        "integral"
+      ],
+      [
+        "MAT187H1_2025_Quiz2_question_4",
+        "integration_by_parts"
+      ],
+      [
+        "k",
+        "q2"
+      ],
+      [
+        "MAT187H1_2025_Quiz2_question",
+        "Riemann sums"
+      ],
+      [
+        "Integral",
+        "q1"
+      ],
+      [
+        "MAT187H1_2025_Quiz2",
+        "MAT187H1_2025_Quiz2_question_1"
+      ],
+      [
+        "Integral",
+        "k"
+      ],
+      [
+        "MAT187H1_2025_Quiz2_question_6",
+        "k"
+      ],
+      [
+        "MAT187H1_2025_Quiz2",
+        "MAT187H1_2025_Quiz2_question_6"
+      ],
+      [
+        "MAT187H1_2025_Quiz2_question_6",
+        "integral"
+      ],
+      [
+        "k",
+        "r"
+      ],
+      [
+        "MAT187H1_2025_Quiz2_question_5",
+        "Riemann sums"
+      ],
+      [
+        "MAT187H1_2025_Quiz2",
+        "MAT187H1_2025_Quiz2_question"
+      ],
+      [
+        "Integral",
+        "Work"
+      ],
+      [
+        "MAT187H1",
+        "MAT187H1_2025_Quiz2"
+      ],
+      [
+        "k",
+        "q1"
+      ],
+      [
+        "Integral",
+        "q2"
+      ],
+      [
+        "q1",
+        "q2"
+      ],
+      [
+        "MAT187H1_2025_Quiz2",
+        "MAT187H1_2025_Quiz2_question_5"
+      ],
+      [
+        "MAT187H1_2025_Quiz2",
+        "MAT187H1_2025_Quiz2_question_4"
+      ],
+      [
+        "MAT187H1_2025_Quiz2_question_1",
+        "improper integral"
+      ],
+      [
+        "comparison test",
+        "integral"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1764882505,
+    "update_time": 1764882505,
+    "_id": "doc-2e10275539f6fb4823e23085d6958e08"
+  },
+  "doc-dda004bbc96e3b69af4017401e4d1636": {
+    "relation_pairs": [
+      [
+        "MAT291H1_2012_Midterm",
+        "MAT291H1_2012_Midterm_quiz3"
+      ],
+      [
+        "MAT291H1_2012_Midterm_Problem1",
+        "MAT291H1_2012_Midterm_Problem1_Question1"
+      ],
+      [
+        "MAT291H1",
+        "MAT291H1_2012_Midterm"
+      ],
+      [
+        "MAT291H1_2012_Midterm",
+        "b"
+      ],
+      [
+        "MAT291H1_2012_Midterm",
+        "MAT291H1_2012_Midterm_Problem1"
+      ],
+      [
+        "MAT291H1_2012_Midterm_quiz3",
+        "question3"
+      ],
+      [
+        "MAT291H1_2012_Midterm",
+        "c"
+      ],
+      [
+        "MAT291H1_2012_Midterm_quiz3",
+        "concept"
+      ],
+      [
+        "MAT291H1_2012_Midterm",
+        "triple integration"
+      ],
+      [
+        "MAT291H1_2012_Midterm",
+        "a"
+      ],
+      [
+        "MAT291H1_2012_Midterm",
+        "d"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1764886252,
+    "update_time": 1764886252,
+    "_id": "doc-dda004bbc96e3b69af4017401e4d1636"
+  }
+}

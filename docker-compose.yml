@@ -35,7 +35,7 @@ services:
       WORKING_DIR: /app/data
       LLM_MODEL: qwen3:1.7b
       LLM_BINDING_HOST: http://host.docker.internal:11434
-      LLM_TIMEOUT: 1200
+      LLM_TIMEOUT: 3600
       CHUNK_SIZE: 500
 
       EMBEDDING_BINDING: ollama
@@ -52,7 +52,7 @@ services:
       NEO4J_DATABASE: neo4j
 
       ENTITY_TYPES: '["question","concept","Quiz","Course"]'
-
+      MAX_ASYNC: 1
       LOG_LEVEL: DEBUG
       LOG_DIR: /logs
     volumes:

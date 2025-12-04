@@ -1,0 +1,492 @@
+{
+  "chunk-545b510e430d1101464eb3f573e108cc": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz8\"\n}\n\n\nName: ____________________ Student number:_____________\r\n\r\nMAT 186 Quiz 8\r\n\r\n1. Evaluate the following limit:\r\n\r\nAB3 CF6 CS13\r\n\r\n$$\\lim_{x\\to\\infty}\\frac{x^{2}-\\ln(2/x)}{3x^{2}+2x}$$\r\n\r\nThe limit is of the form $\\infty/\\infty$, so L'Hopital is probably the way to go. Ideally, you should simplify first:\r\n\r\n$$\\begin{array} { r l } & { \\operatorname* { l i m } _ { x \\to \\infty } \\frac { x ^ { 2 } - \\ln ( 2 / x ) } { 3 x ^ { 2 } + 2 x } = \\operatorname* { l i m } _ { x \\to \\infty } \\frac { x ^ { 2 } - \\ln 2 + \\ln x } { 3 x ^ { 2 } + 2 x } } \\\\ & { \\quad \\stackrel { L \\prime H } { \\cong } \\operatorname* { l i m } _ { x \\to \\infty } \\frac { 2 x - 0 + 1 / x } { 6 x + 2 } } \\\\ & { \\quad = \\operatorname* { l i m } _ { x \\to \\infty } \\frac { 2 + 1 / x ^ { 2 } } { 6 + 2 / x } } \\\\ & { \\quad = 1 / 3 } \\end{array}$$\r\n\r\n2. Another fun limit:\r\n\r\n$$\\operatorname* { l i m } _ { \\theta \\to ( \\pi / 2 ) ^ { - } } (  t a n  \\theta ) ^ { \\cos \\theta }$$\r\n\r\nThis limit is of the form $\\infty^{0}$, so L'Hopital's rule applies.\r\n\r\n$$L=\\operatorname* { l i m } _{\\theta \\to ( \\pi / 2 ) ^ { - } } ( \\tan \\theta ) ^ { \\cos \\theta }$$\r\n\r\n$$\\begin{array} { r l } & { \\ln L = \\operatorname* { l i m } _ { \\theta \\to ( \\pi / 2 ) ^ { -",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-0537561e81c3c896a9a22c0e5571ed28",
+    "file_path": "MAT186H1_2025_Quiz8.md",
+    "llm_cache_list": [
+      "default:extract:2af2f5947412cadb01af9fd587721ea0",
+      "default:extract:85aeb54ecc6883a67915a578f7ef80ef"
+    ],
+    "create_time": 1764819697,
+    "update_time": 1764820786,
+    "_id": "chunk-545b510e430d1101464eb3f573e108cc"
+  },
+  "chunk-2aff86b71f4a4786f6ae5fbca82dab6a": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz8\"\n}\n\n\n $\\infty^{0}$, so L'Hopital's rule applies.\r\n\r\n$$L=\\operatorname* { l i m } _{\\theta \\to ( \\pi / 2 ) ^ { - } } ( \\tan \\theta ) ^ { \\cos \\theta }$$\r\n\r\n$$\\begin{array} { r l } & { \\ln L = \\operatorname* { l i m } _ { \\theta \\to ( \\pi / 2 ) ^ { - } } \\cos \\theta \\ln ( \\tan \\theta ) } \\\\ & { = \\operatorname* { l i m } _ { \\theta \\to ( \\pi / 2 ) ^ { - } } \\frac { \\ln ( \\tan \\theta ) } { \\left( \\frac { 1 } { \\cos \\theta } \\right) } } \\\\ & { \\stackrel { L ^ { \\prime \\prime } H } { \\cong } \\operatorname* { l i m } _ { \\theta \\to ( \\pi / 2 ) ^ { - } } \\frac { \\left( \\frac { 1 } { \\tan \\theta } \\cdot  \\sec ^ { 2 } \\theta \\right) } { \\left( \\frac { - 1 } { \\cos ^ { 2 } \\theta } \\cdot  ( - \\sin \\theta ) \\right) } } \\\\ & { = \\operatorname* { l i m } _ { \\theta \\to ( \\pi / 2 ) ^ { - } } \\frac { \\cos \\theta } { \\sin ^ { 2 } \\theta } = 0 } \\\\ & { \\therefore L = e ^ { 0 } = 1 } \\end{array}$$\r\n\r\n<table><tr><td>AB3</td><td>AB5</td><td>CF6</td><td>CS13</td><td>CS14</td></tr></table>\r\n\r\n\r\nContinued on back.\r\n\r\n---\r\n\r\nAB8 CF18 CF19\r\n\r\n3. For the function $f(x)=6x-2$, over the interval $[-2,2]$, find the area under the graph using Riemann sums.\r\n\r\nFor the Riemann sum, we take $\\Delta x=\\frac{2-(-2)}{n}=\\frac{4",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-0537561e81c3c896a9a22c0e5571ed28",
+    "file_path": "MAT186H1_2025_Quiz8.md",
+    "llm_cache_list": [
+      "default:extract:cfdc48d9e89c6f42fd46842062fcc01e",
+      "default:extract:ef41d71348f160d8a3362c6967fbecd4"
+    ],
+    "create_time": 1764819697,
+    "update_time": 1764820495,
+    "_id": "chunk-2aff86b71f4a4786f6ae5fbca82dab6a"
+  },
+  "chunk-e916425b8e31486dcbdb389e3d5ba7a1": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz8\"\n}\n\n\nCF6</td><td>CS13</td><td>CS14</td></tr></table>\r\n\r\n\r\nContinued on back.\r\n\r\n---\r\n\r\nAB8 CF18 CF19\r\n\r\n3. For the function $f(x)=6x-2$, over the interval $[-2,2]$, find the area under the graph using Riemann sums.\r\n\r\nFor the Riemann sum, we take $\\Delta x=\\frac{2-(-2)}{n}=\\frac{4}{n}$.\r\n\r\nTherefore, $x_{k}=a+k\\Delta x=-2+{\\frac {4}{n}}k$.\r\n\r\nIt is easiest to use a right-hand sum:\r\n\r\n$$\\begin{array} { r l } & { \\int _ { - 2 } ^ { 2 } 6 x - 2 \\, d x = \\operatorname* { l i m } _ { n \\to \\infty } \\sum _ { k = 1 } ^ { n } ( 6 x _ { k } ^ { * } - 2 ) ( \\Delta x ) } \\\\ & { = \\operatorname* { l i m } _ { n \\to \\infty } \\sum _ { k = 1 } ^ { n } \\left( 6 \\left( - 2 + \\frac { 4 } { n } k \\right) - 2 \\right) \\left( \\frac { 4 } { n } \\right) } \\\\ & { = \\operatorname* { l i m } _ { n \\to \\infty } \\sum _ { k = 1 } ^ { n } \\left( - 1 4 + \\frac { 2 4 } { n } k \\right) \\left( \\frac { 4 } { n } \\right) } \\\\ & { = \\operatorname* { l i m } _ { n \\to \\infty } \\sum _ { k = 1 } ^ { n } \\left( - \\frac { 5 6 } { n } + \\frac { 9 6 } { n ^ { 2 } } k \\right) } \\\\ & { = \\operatorname* { l i m } _ { n \\to \\infty } \\left( \\sum _ { k = 1 } ^ { n } \\left( -",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-0537561e81c3c896a9a22c0e5571ed28",
+    "file_path": "MAT186H1_2025_Quiz8.md",
+    "llm_cache_list": [
+      "default:extract:e2bc9578033e09e4344d29de73c4dbc7",
+      "default:extract:0174c4b0524f6bdbaccbf005f106dfa6"
+    ],
+    "create_time": 1764819697,
+    "update_time": 1764820288,
+    "_id": "chunk-e916425b8e31486dcbdb389e3d5ba7a1"
+  },
+  "chunk-b3b841d1261c7e9eb43d50e441d87ab9": {
+    "tokens": 410,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz8\"\n}\n\n\n { n \\to \\infty } \\sum _ { k = 1 } ^ { n } \\left( - \\frac { 5 6 } { n } + \\frac { 9 6 } { n ^ { 2 } } k \\right) } \\\\ & { = \\operatorname* { l i m } _ { n \\to \\infty } \\left( \\sum _ { k = 1 } ^ { n } \\left( - \\frac { 5 6 } { n } \\right) + \\sum _ { k = 1 } ^ { n } \\left( \\frac { 9 6 } { n ^ { 2 } } k \\right) \\right) } \\\\ & { = \\operatorname* { l i m } _ { n \\to \\infty } \\left( - 5 6 + \\frac { 9 6 } { n ^ { 2 } } \\cdot  \\frac { n ( n + 1 ) } { 2 } \\right) } \\\\ & { = - 5 6 + 4 8 } \\\\ & { = - 8 } \\end{array}$$\r\n\r\n4. Verify your answer from question 3, using antiderivatives.\r\n\r\n$$\\begin{array} { r l } & { \\int _ { - 2 } ^ { 2 } 6 x - 2 \\, d x = ( 3 x ^ { 2 } - 2 x ) _ { - 2 } ^ { 2 } } \\\\ &  & { = ( 1 2 - 4 ) - ( 1 2 + 4 ) } \\\\ &  & { = - 8 } \\end{array}$$\r\n\r\nCF16",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-0537561e81c3c896a9a22c0e5571ed28",
+    "file_path": "MAT186H1_2025_Quiz8.md",
+    "llm_cache_list": [
+      "default:extract:7e8f81f66cbf1b816ab80d15017babd9",
+      "default:extract:259ab6988484686ccb4e255de99a70bf"
+    ],
+    "create_time": 1764819697,
+    "update_time": 1764820976,
+    "_id": "chunk-b3b841d1261c7e9eb43d50e441d87ab9"
+  },
+  "chunk-814ad1af81d451c7860693f42e48f2ea": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz6\"\n}\n\n\nName: ____________________ Student number:_____________\r\n\r\nMAT 186 Quiz 6\r\n\r\n1. Find the local and (if they exist) global extrema of $y=3x^4+8x^3+\\frac{15}{2}x^2+3x-\\frac{7}{2}$.\r\n\r\n$$\\begin{aligned}\r\nf^{\\prime}(x) & =12 x^{3}+24 x^{2}+15 x+3 \\\\\r\n& =3(2 x+1)^{2}(x+1)\r\n\\end{aligned}$$\r\n\r\n<table><tr><td>AB6</td><td>CF12</td><td>CF13</td><td>MW3</td></tr></table>\r\n\r\n\r\nSo, the critical points are at $x=-1$ and $x=-\\frac{1}{2}$.\r\n\r\nHowever, the function is decreasing on $x < 1$ and increasing on $x > 1$, so we end up with $x = -\\frac{1}{2}$ being neither a maximum nor a minimum. $x = 1$ gives the only minimum and the function increases without bound on either side of the point. Therefore, $(-1,-4)$ is a global minimum.\r\n\r\n2. The function $y=x^3+x^2-8x-12$ has one positive $x-1$ intercept. We build a rectangle with horizontal and vertical sides that has the origin as one vertex and a point on the graph of y for its opposite vertex. If this second point lies between the $y-$ and $x-$ intercepts of the graph, what value(s) would maximize the area of the rectangle?\r\n\r\nFactoring $y$, we get $y = (x+2)^2(x-3)$, so the second point has $0 \\leq  x \\leq  3$. We should also note that the point will have a negative $y$ value, as that will make a difference for the question.\r\n\r\nIf we write the point on the graph as $(x,x^3+x^2-8x-12)$ , then the area of the rectangle created would be $A(x)=-x(x^3+x^2-8x-12)$ , because of the negative coordinate. You can do the question without the negative for now, but it is a little trickier.\r\n\r\nTherefore, we have $",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-567e88fab1b79a362ecbd3c4ffbf2e13",
+    "file_path": "MAT186H1_2025_Quiz6.md",
+    "llm_cache_list": [
+      "default:extract:dea83b3b478c130a00c94d690b0102f4",
+      "default:extract:e56c5a3783ba555e89718a7d65899618"
+    ],
+    "create_time": 1764821731,
+    "update_time": 1764822675,
+    "_id": "chunk-814ad1af81d451c7860693f42e48f2ea"
+  },
+  "chunk-95803db9007550f2f1af30ff5eabb6f5": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz6\"\n}\n\n\n have a negative $y$ value, as that will make a difference for the question.\r\n\r\nIf we write the point on the graph as $(x,x^3+x^2-8x-12)$ , then the area of the rectangle created would be $A(x)=-x(x^3+x^2-8x-12)$ , because of the negative coordinate. You can do the question without the negative for now, but it is a little trickier.\r\n\r\nTherefore, we have $A(x)=-x^{4}-x^{3}+8 x^{2}+12 x$ and can get going:\r\n\r\n$$A ^ { \\prime } ( x ) = - 4 x ^ { 3 } - 3 x ^ { 2 } + 1 6 x + 1 2 = 0$$\r\n\r\n$$( x + 2 ) ( 4 x + 3 ) ( x - 2 ) = 0$$\r\n\r\n$$x=-2,-\\frac{4}{3},2$$\r\n\r\nOf these, the first two points are outside our domain, so they can be dismissed. We are left with $x=2$ as the only critical point in the interval. We can compare its $y-$ value with that of the other two endpoints, analyze using the first derivative test, or go to the second derivative test, as long as we do\r\n\r\nContinued on back.\r\n\r\n---\r\n\r\nat least one of them. If you did not realize earlier that the point lies below the axis, you will find that $x=2$ gives a minimum, but that it is still the correct value.\r\n\r\nTherefore, the maximum area occurs at $x=2$.\r\n\r\n## 3. Use two linear approximations (that is, use a different initial point each time) to estimate $\\sqrt[3]{4}$\r\n\r\nYou will find that the better approximation has a larger value for dx (for comparison $\\sqrt[3]{4} \\approx 1.59$ ). How could this happen?\r\n\r\nI took a gamble here that everyone would use the function $y = \\sqrt[3]{x}$ and attempt to use $a = 1$ and $a = 8$. (Note that $a = 0$ will not work because $y$ is not differentiable there.)\r\n\r\nFor our function, we have $y'=\\frac{1}{3x^{2/3}}$. We have:",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-567e88fab1b79a362ecbd3c4ffbf2e13",
+    "file_path": "MAT186H1_2025_Quiz6.md",
+    "llm_cache_list": [
+      "default:extract:a404ed04a7ec9f517fafbb25d991b9a8",
+      "default:extract:6d8b205d4acca48a0a8c71d988e304e8"
+    ],
+    "create_time": 1764821731,
+    "update_time": 1764822842,
+    "_id": "chunk-95803db9007550f2f1af30ff5eabb6f5"
+  },
+  "chunk-2ddfba8bdb3745578238e8b4cf91790f": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz6\"\n}\n\n\n \\approx 1.59$ ). How could this happen?\r\n\r\nI took a gamble here that everyone would use the function $y = \\sqrt[3]{x}$ and attempt to use $a = 1$ and $a = 8$. (Note that $a = 0$ will not work because $y$ is not differentiable there.)\r\n\r\nFor our function, we have $y'=\\frac{1}{3x^{2/3}}$. We have:\r\n\r\n<table><tr><td>a</td><td>1</td><td>8</td></tr><tr><td>y(a)</td><td>1</td><td>2</td></tr><tr><td>dx=x-a</td><td>3</td><td>-4</td></tr><tr><td>m=y'(a)</td><td>1/3</td><td>1/12</td></tr><tr><td>dy=m·dx</td><td>1</td><td>-1/3</td></tr><tr><td>$\\sqrt[3]{4}\\approx y(a)+dy$</td><td>2</td><td>5/3</td></tr></table>\r\n\r\n\r\nThere are a few ways of thinking about why $a=8$ gives the more accurate answer. It originates with the fact that the graph of $y=\\sqrt[3]{x}$ is `more flat' the further you go. That is, its second derivative is smaller, so the graph stays close to its tangent lines for longer. We can also think about the tangent lines themselves $-$ since the function is concave down, the lines all lie above the graph, but at $x=4$, the tangent line that starts at $a=8$ lies below the one from $a=1$.\r\n\r\n[The following question is strictly to help with older marks – the mark will NOT lower your grade. If you are doing well with the squeeze theorem (CS2) and domains of functions (AB6), this will not help your mark much, but you are welcome to answer it.]\r\n\r\n## 4. Find $\\lim_{x \\to 2}(x-2)\\cos \\Big(\\frac{1}{(x-2)^2}\\Big)$. AB6 CS2 MW2\r\n\r\nThis definitely requires the Squeeze Theorem, with",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-567e88fab1b79a362ecbd3c4ffbf2e13",
+    "file_path": "MAT186H1_2025_Quiz6.md",
+    "llm_cache_list": [
+      "default:extract:df8f84c7ca95fcf54821dfc87f8b00be",
+      "default:extract:be5020d7d90add65caccf2c5accae44d"
+    ],
+    "create_time": 1764821731,
+    "update_time": 1764823175,
+    "_id": "chunk-2ddfba8bdb3745578238e8b4cf91790f"
+  },
+  "chunk-4f97abbf690ba39a955600666d4a064e": {
+    "tokens": 452,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz6\"\n}\n\n\n – the mark will NOT lower your grade. If you are doing well with the squeeze theorem (CS2) and domains of functions (AB6), this will not help your mark much, but you are welcome to answer it.]\r\n\r\n## 4. Find $\\lim_{x \\to 2}(x-2)\\cos \\Big(\\frac{1}{(x-2)^2}\\Big)$. AB6 CS2 MW2\r\n\r\nThis definitely requires the Squeeze Theorem, with positive and negative cases.\r\n\r\nCase I: $x-2>0,$ or $x>2.$\r\n\r\n$$-1 \\leq  \\cos \\left(\\frac{1}{(x-2)^{2}}\\right) \\leq  1$$\r\n\r\n---\r\n\r\n$$-(x-2) \\leq (x-2) \\cos \\left(\\frac{1}{(x-2)^{2}}\\right) \\leq (x-2)$$\r\n\r\n$$\\lim_{x\\to2}-(x-2)=\\lim_{x\\to2}(x-2)=0$$\r\n\r\nTherefore, by the Squeeze Theorem, the limit in case I goes to zero.\r\n\r\nCase II is nearly identical and we can get away with saying “Case II is done similarly.” Here it is in full:\r\n\r\nCase II: $x-2<0$, or $x<2$.\r\n\r\n$$-1 \\leq  \\cos \\left(\\frac{1}{(x-2)^{2}}\\right) \\leq  1$$\r\n\r\n$$-(x-2) \\geq(x-2) \\cos \\left(\\frac{1}{(x-2)^{2}}\\right) \\geq(x-2)$$\r\n\r\n$$\\lim_{x\\to2}-(x-2)=\\lim_{x\\to2}(x-2)=0$$\r\n\r\nTherefore, by the Squeeze Theorem, the limit in case II goes to zero.\r\n\r\nTherefore, the limit is zero.",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-567e88fab1b79a362ecbd3c4ffbf2e13",
+    "file_path": "MAT186H1_2025_Quiz6.md",
+    "llm_cache_list": [
+      "default:extract:a40a559d84ec6b2b2f0d6e931b54f841",
+      "default:extract:2e279f30c61ca5ba4a185a0022b8bc97"
+    ],
+    "create_time": 1764821731,
+    "update_time": 1764823030,
+    "_id": "chunk-4f97abbf690ba39a955600666d4a064e"
+  },
+  "chunk-7684c0e9366ed6f803c1089a3ca2249c": {
+    "tokens": 52,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz6\"\n}\n\n\n Theorem, the limit in case II goes to zero.\r\n\r\nTherefore, the limit is zero.",
+    "chunk_order_index": 4,
+    "full_doc_id": "doc-567e88fab1b79a362ecbd3c4ffbf2e13",
+    "file_path": "MAT186H1_2025_Quiz6.md",
+    "llm_cache_list": [
+      "default:extract:f7a1dca33f47d3885597f5e57416dc9d",
+      "default:extract:dcec596edb6aa2416dff4dcdfdc6930e"
+    ],
+    "create_time": 1764821731,
+    "update_time": 1764823319,
+    "_id": "chunk-7684c0e9366ed6f803c1089a3ca2249c"
+  },
+  "chunk-780851eabc3bc958bc2fb0b5b1623452": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\nMAT186H1F CALCULUS I: Course Information as of\r\n\r\nAugust 26, 2014\r\n\r\nMAT186H1F is an introduction to calculus and its applications. A lot of Chapters 1, 2, 3 & 4 will be review of high school material, but not all of it; you must pay attention and assimilate the new material as well. We assume that everything in Chapters 5 and 6 is new to you.\r\n\r\nSection Instructors: by now you should be scheduled into one of the following Sections:\r\n\r\n<table><tr><td>Lec0101 Cohen, S.</td><td>Lec0102 Li, N.</td><td>Lec0103 Burbulla, D.</td><td>Lec0104 Zaman, A.</td></tr><tr><td>Lec0105 Timorabadi, H.</td><td>Lec0106 Reiss, D.</td><td>Lec0107 Shorser, L.</td><td>Lec0108 Watson, N.</td></tr></table>\r\n\r\n\r\nTextbook: the textbook for this course is Briggs, Cochrane & Gillet's Calculus for Scientists and Engineers , Early Transcendentals. Any version of this book will do. The standalone physical book has ISBN 978-0321-785374 and should be available – new or used – at any of the three textbook stores around campus. For a price very similar to a new textbook you can obtain a package, ISBN 978-0321-837721, which includes the textbook and an Access Card which will allow you to access MyMathLab and an online interactive version of the textbook, with solutions manuals and an additional chapter on Second Order Differential Equations. The third and cheapest option is to buy just the online version, ISBN 978-0321-785800, at http://www.mymathlab.com The course ID is: burbulla77566 . (Access Code kits will be available separately for students who already have a physical copy of the book and would like access to the online version.)\r\n\r\nHomework: some exercises have been picked as suggested homework; see the back of this page. These are the ones that your TA should be prepared to help you with.\r\n\r\nTutorials: you should attend your tutorial on a regular basis; it is one place you can get help with your homework. However, it is totally impractical to assume that all the homework",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:cd3ff29cfb30b78e518d9fe2da21e94f",
+      "default:extract:52958549f5ddb07faede05b02a34a9e8"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764875953,
+    "_id": "chunk-780851eabc3bc958bc2fb0b5b1623452"
+  },
+  "chunk-037b09b76d07d4ea2bd9e885f0415393": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n (Access Code kits will be available separately for students who already have a physical copy of the book and would like access to the online version.)\r\n\r\nHomework: some exercises have been picked as suggested homework; see the back of this page. These are the ones that your TA should be prepared to help you with.\r\n\r\nTutorials: you should attend your tutorial on a regular basis; it is one place you can get help with your homework. However, it is totally impractical to assume that all the homework questions can be covered in tutorial; you should try and solve as many homework problems as you can, on your own, and then ask your TA about the questions you couldn't get. Tutorials start Monday, Sep 8th and end Monday, Dec 1st . There are no tutorials on Monday, Oct 13th . Each tutorial group will meet twelve times.\r\n\r\nMarking Scheme: WeBWorK Assignments: 5%; Test 1: 20%; Test 2: 25%; Exam: 50%\r\n\r\nWeBWorK: information regarding this on-line homework website will be posted on the course website in the second week of classes. WeBWorK homework will not begin before September 22.\r\n\r\nTest 1: a 100-minute term test is scheduled for Tuesday, Oct 7, 12:15-1:55 PM, locations TBA.\r\n\r\nTest 2: a 100-minute term test is scheduled for Tuesday, Nov 11, 12:15-1:55 PM, locations TBA.\r\n\r\nFinal Exam: there will be a common final exam, 150 min long, during the exam period, Dec 8-19.\r\n\r\nMath Aid Office: GB 149. Hours: MW 12-1, 3-4; TR 12-3\r\n\r\nCalculators: use of a Casio FX-991MS or Sharp EL-520X calculator will be permitted during all quizzes, tests and exams. However, it is still your responsibility to explain your work. A correct answer with no justification will receive no marks.\r\n\r\nCourse Coordinator: D. Burbulla. Office: GB 149; email: burbulla@math.toronto.edu; office hours: MW 12-1, 3-4; TR 12-3\r\n\r\nCourse Websites: in addition to the course websites which can be accessed through the U of T portal there is the coordinator's home page: http://www.math.toronto",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:3dca58739ca8926398a11094d6fb007f",
+      "default:extract:bc558dcb20a1a50fe32fc995fd77cf23"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764875953,
+    "_id": "chunk-037b09b76d07d4ea2bd9e885f0415393"
+  },
+  "chunk-6a6457b23fd1925f4e34ba4434f68061": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n still your responsibility to explain your work. A correct answer with no justification will receive no marks.\r\n\r\nCourse Coordinator: D. Burbulla. Office: GB 149; email: burbulla@math.toronto.edu; office hours: MW 12-1, 3-4; TR 12-3\r\n\r\nCourse Websites: in addition to the course websites which can be accessed through the U of T portal there is the coordinator's home page: http://www.math.toronto.edu/burbulla/\r\n\r\n---\r\n\r\nCourse Outline, Lecture Schedule and Tutorial Schedule: below are approximate schedules of lecture and tutorial topics. As some lectures will be missed on Monday, Oct 13th, the schedule presumes only 38 lectures. Sections marked with an asterisk (*) are theoretical, and should be covered in class but may not be tested. What each test covers will be announced during the term.\r\n\r\n<table><tr><td>Chapter</td><td>Section</td><td>Suggested Homework Exercises</td></tr><tr><td>Functions</td><td>Sec 1.3</td><td>11, 17, 25, 28, 29, 37, 51, 57, 65, 73</td></tr><tr><td>(3 lectures)</td><td>Sec 1.4</td><td>13, 36, 39, 59, 61, 79, 85, 95, 101, 103</td></tr><tr><td></td><td>Sec 2.1</td><td>1, 3, 4, 10, 16, 25, 28, 29, 31, 32</td></tr><tr><td>Limits</td><td>Sec 2.2</td><td>2, 3, 5, 7, 11, 17, 21, 22, 28, 45</td></tr><tr><td>(5 lectures)</td><td>Sec 2.3</td><td>3, 5, 37, 41, 47, 51, 57, 67, 73, 79</td></tr><tr><td></td><td>Sec 2.4</td><td>3, 4, 11,",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:5665a74850bcca1be0265eea1c0f4bc7",
+      "default:extract:34efabab7ed3c16a625b3cef0bb252ec"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764875953,
+    "_id": "chunk-6a6457b23fd1925f4e34ba4434f68061"
+  },
+  "chunk-a49c2c0d5e95f583558f1806288c2ff8": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n 17, 21, 22, 28, 45</td></tr><tr><td>(5 lectures)</td><td>Sec 2.3</td><td>3, 5, 37, 41, 47, 51, 57, 67, 73, 79</td></tr><tr><td></td><td>Sec 2.4</td><td>3, 4, 11, 15, 21, 24, 31, 39, 44, 53</td></tr><tr><td></td><td>Sec 2.5</td><td>11, 23, 29, 32, 37, 41, 43, 55, 59, 69</td></tr><tr><td></td><td>Sec 2.6</td><td>1, 9, 17, 25, 31, 35, 55, 67, 80, 95</td></tr><tr><td></td><td>Sec 3.1</td><td>5, 15, 21, 31, 39, 49, 54, 55, 65, 69</td></tr><tr><td></td><td>Sec 3.2</td><td>2, 27, 31, 37, 41, 47, 61, 63, 69, 71</td></tr><tr><td>Derivatives</td><td>Sec 3.3</td><td>18, 25, 27, 39, 43, 53, 55, 60, 61, 81</td></tr><tr><td>(7 lectures)</td><td>Sec 3.4</td><td>8, 10, 15, 22, 23, 34, 49, 59, 67, 77</td></tr><tr><td></td><td>Sec 3.5</td><td>3, 9, 15, 17, 25, 30, 31, 39, 45, 49</td></tr><tr><td></td><td>Sec 3.6",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:d9a220176a91f3aa0f6a004126341bbc",
+      "default:extract:251ea529cccdb34e1ed4bc9d7339797d"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764875953,
+    "_id": "chunk-a49c2c0d5e95f583558f1806288c2ff8"
+  },
+  "chunk-7651dfc2d83c906b77072ab71294cbc2": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n><td>8, 10, 15, 22, 23, 34, 49, 59, 67, 77</td></tr><tr><td></td><td>Sec 3.5</td><td>3, 9, 15, 17, 25, 30, 31, 39, 45, 49</td></tr><tr><td></td><td>Sec 3.6</td><td>6, 15, 29, 33, 35, 37, 47, 60, 79, 85</td></tr><tr><td></td><td>Sec 3.7</td><td>1, 9, 10, 21, 27, 35, 41, 53, 57, 72</td></tr><tr><td></td><td>Sec 3.8</td><td>10, 15, 27, 41, 49, 53, 63, 67, 81, 93</td></tr><tr><td></td><td>Sec 3.9</td><td>1, 5, 9, 13, 25, 31, 35, 42, 45, 47</td></tr><tr><td></td><td>Sec 3.10</td><td>5, 9, 13, 19, 23, 25, 29, 41, 51, 53</td></tr><tr><td></td><td>Sec 4.1</td><td>1, 5, 17, 21, 29, 39, 47, 71, 75, 81</td></tr><tr><td>Applications</td><td>Sec 4.2</td><td>23, 28, 34, 45, 47, 49, 57, 65, 81, 88</td></tr><tr><td>of the</td><td>Sec 4.3</td><td>11, 19, 25, 27, 29, 30, 47, 69, 71, 77</td></tr><",
+    "chunk_order_index": 4,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:1b00fc50afd3ed5509ea3b278997f26f",
+      "default:extract:76b99c6fda30b27b58e9aa0cd1d3aa4c"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764876286,
+    "_id": "chunk-7651dfc2d83c906b77072ab71294cbc2"
+  },
+  "chunk-a01e1290b2fc8f930b9bf071b11bca7f": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n><td>Sec 4.2</td><td>23, 28, 34, 45, 47, 49, 57, 65, 81, 88</td></tr><tr><td>of the</td><td>Sec 4.3</td><td>11, 19, 25, 27, 29, 30, 47, 69, 71, 77</td></tr><tr><td>Derivative</td><td>Sec 4.4</td><td>7, 14, 21, 22, 27, 33, 37, 47, 53, 65</td></tr><tr><td>(9 lectures)</td><td>Sec 4.5</td><td>16, 17, 25, 27, 30, 32, 36, 43, 51, 54</td></tr><tr><td></td><td>Sec 4.6*</td><td>3, 7, 11, 17, 22, 27, 31, 33, 37, 39</td></tr><tr><td></td><td>Sec 4.7</td><td>15, 19, 27, 43, 51, 57, 59, 65, 85, 96</td></tr><tr><td></td><td>Sec 4.8</td><td>6, 11, 13, 16, 17, 20, 29, 31, 35, 37</td></tr><tr><td></td><td>Sec 4.9</td><td>25, 27, 35, 41, 51, 66, 71, 93, 97, 99</td></tr><tr><td></td><td>Sec 5.1</td><td>9, 13, 17, 21, 32, 33, 37, 65, 67, 71</td></tr><tr><td>Integration</td><td>Sec 5.2*</td><td>1, 3, 16, 23, 29, 43,",
+    "chunk_order_index": 5,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:befed4c7f1b773c245a87079a5592db2",
+      "default:extract:2c49bd88923740d01aafe43abc18c27d"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764876724,
+    "_id": "chunk-a01e1290b2fc8f930b9bf071b11bca7f"
+  },
+  "chunk-4925e8d6d3e77e5af8e8f3eb6790cb36": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n, 97, 99</td></tr><tr><td></td><td>Sec 5.1</td><td>9, 13, 17, 21, 32, 33, 37, 65, 67, 71</td></tr><tr><td>Integration</td><td>Sec 5.2*</td><td>1, 3, 16, 23, 29, 43, 67, 71, 73, 75</td></tr><tr><td>(5 lectures)</td><td>Sec 5.3</td><td>11, 24, 39, 47, 59, 65, 67, 81, 89, 98</td></tr><tr><td></td><td>Sec 5.4</td><td>11, 14, 23, 25, 39, 45, 47, 48, 57, 61</td></tr><tr><td></td><td>Sec 5.5</td><td>14, 25, 27, 35, 36, 47, 57, 71, 77, 79</td></tr><tr><td></td><td>Sec 6.1</td><td>8, 11, 17, 21, 28, 35, 39, 53, 56, 65</td></tr><tr><td>Applications</td><td>Sec 6.2</td><td>8, 11, 15, 17, 24, 29, 37, 47, 55, 63</td></tr><tr><td>of Integration</td><td>Sec 6.3</td><td>3, 9, 13, 19, 32, 39, 41, 49, 54, 59</td></tr><tr><td>(9 lectures)</td><td>Sec 6.4</td><td>7, 14, 17, 24, 29, 31, 33, 35, 43, 57</td></tr><tr><td></td><td>Sec 6.5</td><td",
+    "chunk_order_index": 6,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:3de0afda40a394051308755a8188fc41",
+      "default:extract:3f51b0f984d7bbbab2d0b47c058062d7"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764877112,
+    "_id": "chunk-4925e8d6d3e77e5af8e8f3eb6790cb36"
+  },
+  "chunk-3d07c6ee509cdfc533e7f0e1139a37dd": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n, 13, 19, 32, 39, 41, 49, 54, 59</td></tr><tr><td>(9 lectures)</td><td>Sec 6.4</td><td>7, 14, 17, 24, 29, 31, 33, 35, 43, 57</td></tr><tr><td></td><td>Sec 6.5</td><td>3, 7, 8, 9, 13(a), 19(a), 27, 30</td></tr><tr><td></td><td>Sec 6.6</td><td>7, 11, 14, 17, 22, 24, 31, 32</td></tr><tr><td></td><td>Sec 6.7</td><td>11, 15, 18, 21, 27, 31, 32, 35, 53</td></tr><tr><td></td><td>Sec 6.8*</td><td>9, 16, 23, 25, 29, 38, 54, 57, 62, 65</td></tr><tr><td></td><td>Sec 6.9</td><td>9, 13, 15, 23, 27, 29, 30, 38</td></tr><tr><td></td><td>Sec 6.10</td><td>27, 29, 33, 35, 39, 55, 57, 61, 64, 65</td></tr></table>\r\n\r\n\r\n<table><tr><td>Tutorial</td><td>Material/Exercises</td></tr><tr><td>Sep 8</td><td>General Advice</td></tr><tr><td>- Sep 12</td><td>Sec 1.3 \\</td><td>1.4</td></tr><tr><td>Sep 15</td><td>Sec 1.4</td></tr><tr><td>- Sep 19</td><td>Sec 2.1, 2.2 \\</td><td>2.3</td></tr><",
+    "chunk_order_index": 7,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:79ce80e0722baeb1252ec8726a3ab486",
+      "default:extract:9e729402543a8a423c713cb7976b6a4f"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764877342,
+    "_id": "chunk-3d07c6ee509cdfc533e7f0e1139a37dd"
+  },
+  "chunk-7ed71c0beea757f648f24c9ef4e338ab": {
+    "tokens": 534,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\ntd><td>General Advice</td></tr><tr><td>- Sep 12</td><td>Sec 1.3 \\</td><td>1.4</td></tr><tr><td>Sep 15</td><td>Sec 1.4</td></tr><tr><td>- Sep 19</td><td>Sec 2.1, 2.2 \\</td><td>2.3</td></tr><tr><td>Sep 22</td><td>Sec 2.4, 2.5 \\</td><td>2.6</td></tr><tr><td>- Sep 26</td><td></td></tr><tr><td>Sep 29</td><td>Sec 2.6</td></tr><tr><td>- Oct 3</td><td>Sec 3.1, 3.2 \\</td><td>3.3</td></tr><tr><td>Oct 6</td><td>Sec 3.4, 3.5, 3.6</td></tr><tr><td>- Oct 10</td><td>\\</td><td>3.7</td></tr><tr><td>Oct 14</td><td>Sec 3.8, 3.9 \\</td><td>3.10</td></tr><tr><td>- Oct 20</td><td>Sec 4.1</td></tr><tr><td>Oct 21</td><td>Sec 4.2, 4.3, 4.4</td></tr><tr><td>- Oct 27</td><td>4.5 \\</td><td>4.6</td></tr><tr><td>Oct 28</td><td>Sec 4.7, 4.8 \\</td><td>4.9</td></tr><tr><td>- Nov 3</td><td></td></tr><tr><td>Nov 4</td><td>Sec 4.9</td></tr><tr><td>- Nov 10</td><td>Sec 5.1, 5.2 \\</td><td>5.3</td></tr><tr><td>",
+    "chunk_order_index": 8,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:4f22ccaf677a7b67aff5b9c151758584",
+      "default:extract:a6a06a1a2a736d6909a4ca17c34b0483"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764877685,
+    "_id": "chunk-7ed71c0beea757f648f24c9ef4e338ab"
+  },
+  "chunk-ae9a9c04692a0735e1c7fc0ece818a9c": {
+    "tokens": 298,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT186H1\",\n    \"year\": \"2014\",\n    \"doc_name\": \"syllabus\"\n}\n\n\n4.7, 4.8 \\</td><td>4.9</td></tr><tr><td>- Nov 3</td><td></td></tr><tr><td>Nov 4</td><td>Sec 4.9</td></tr><tr><td>- Nov 10</td><td>Sec 5.1, 5.2 \\</td><td>5.3</td></tr><tr><td>Nov 11</td><td>Sec 5.3, 5.4 \\</td><td>5.5</td></tr><tr><td>-Nov 17</td><td></td></tr><tr><td>Nov 18</td><td>Sec 6.1, 6.2, 6.3</td></tr><tr><td>- Nov 24</td><td>\\</td><td>6.4</td></tr><tr><td>Nov 25</td><td>Sec 6.5, 6.6, 6.7</td></tr><tr><td>- Dec 1</td><td>\\</td><td>6.9</td></tr></table>",
+    "chunk_order_index": 9,
+    "full_doc_id": "doc-fb75fc64c3e2dfc70580d6b95e5a92a4",
+    "file_path": "MAT186H1_2014_syllabus.md",
+    "llm_cache_list": [
+      "default:extract:217d77f96d1211ed699867480cc194dc",
+      "default:extract:c84161a6db9b1337787aba29df647688"
+    ],
+    "create_time": 1764875935,
+    "update_time": 1764877941,
+    "_id": "chunk-ae9a9c04692a0735e1c7fc0ece818a9c"
+  },
+  "chunk-6aa2c1e799a9a0579da097fb88e20522": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz1\"\n}\n\n\n![Figure](figures/MAT187H1_2025_Quiz1_page_001_figure_000.png)\r\n\r\nUNIVERSITY OF TORONTO FACULTY OF APPLIED SCIENCE & ENGINEERING\r\n\r\n## Quiz 1\r\n\r\nDate: May 14, 2025 Duration: 50 minutes\r\n\r\nCourse: MAT 187 (Calculus II) Examiner: Armanpreet Pannu\r\n\r\nName:\r\n\r\ne-mail:\r\n\r\n@mail.utoronto.ca\r\n\r\nStudent Number:\r\n\r\n### Instructions\r\n\r\n- • This is a Type A assessment and does not allow any external aids.\r\n• Read all instructions carefully and justify all your answers. No points will be awarded for a correct\r\nanswer without justification.\r\n• Read each question carefully. No clarification or content related questions will be answered.\r\nYou may use the following space for scratch work or to continue your solutions if you run out of room. If you do so, please clearly indicate in the original question that part of your solution appears here.\r\n\r\n---\r\n\r\n1. (3 points) A student attempts to evaluate the indefinite integral $\\int x \\sin(x) \\, dx$ using integration by parts. They choose $f(x) = \\sin(x)$ and $g'(x) = x$ . Without solving the integral , explain why this is likely not a good choice for integration by parts.\r\n\r\nSolution: With this choice of $f(x) = \\sin(x)$ and $g'(x) = x$ , we are differentiating $\\sin(x)$ , which gives $\\cos(x)$ , and integrating $x$ , which gives $\\frac{1}{2}x^2$ . This results in more complicated expressions during the integration by parts process.\r\n\r\nA better choice is to let $f(x) = x$ and $g'(x) = \\sin(x)$ , because differentiating $x$ simplifies to 1, and integrating $\\sin(x)$ yields $-\\cos(x)$ , which simplifies the integrand. This leads to a simpler overall computation.\r\n\r\n2. (3 points) In class, we evaluated the integral $\\int \\frac{1}{1+x^2} dx = \\arctan(x)$ using trigonometric substitution. Explain why partial fraction decomposition is not a suitable method for evaluating this integral.\r\n\r\nSolution: The denominator $1+x^2$ is an irreducible quadratic polynomial as it cannot be factored into linear terms using real numbers. Partial fraction decomposition only works when the denominator can be fact",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9d8025357203398333536dc89e3b4e96",
+    "file_path": "MAT187H1_2025_Quiz1.md",
+    "llm_cache_list": [
+      "default:extract:1adabfff6033d13f376fe108c5ebbedc",
+      "default:extract:de03a202814baaf67e3d5c540fec9ac2"
+    ],
+    "create_time": 1764878407,
+    "update_time": 1764878718,
+    "_id": "chunk-6aa2c1e799a9a0579da097fb88e20522"
+  },
+  "chunk-34b4ec115b4e0220da59f726a005690f": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz1\"\n}\n\n\n a simpler overall computation.\r\n\r\n2. (3 points) In class, we evaluated the integral $\\int \\frac{1}{1+x^2} dx = \\arctan(x)$ using trigonometric substitution. Explain why partial fraction decomposition is not a suitable method for evaluating this integral.\r\n\r\nSolution: The denominator $1+x^2$ is an irreducible quadratic polynomial as it cannot be factored into linear terms using real numbers. Partial fraction decomposition only works when the denominator can be factored into simpler rational terms. While expressions like $\\frac{1}{x^2+1}$ can appear as part of a partial fraction decomposition, they are considered terminal forms (can't be simplified further) and require a different approach — such as trigonometric substitution — for integration. Therefore, partial fraction decomposition is not suitable here.\r\n\r\n3. (6 points) Use integration by parts to evaluate the following integral:\r\n\r\n$$\\int \\arctan (x) d x$$\r\n\r\nSolution: Let $g'(x)=1$ and $f(x)=\\arctan(x)$, then:\r\n\r\n$$\\begin{array} { r l r l } { \\int \\arctan ( x ) d x } & { = x \\arctan ( x ) - \\int x \\frac { 1 } { 1 + x ^ { 2 } } d x } & & { u = 1 + x ^ { 2 } } \\\\ & { = x \\arctan ( x ) - \\frac { 1 } { 2 } \\int \\frac { 1 } { u } d u } \\\\ & { = x \\arctan ( x ) - \\frac { 1 } { 2 } \\ln | u | } \\\\ & { = x \\arctan ( x ) - \\frac { 1 } { 2 } \\ln ( 1 + x ^ { 2 } ) + C } \\end{array}$$\r\n\r\nMAT187\r\n\r\nPage 2 of 4\r\n\r\nMay 14, 2025\r\n\r\n---\r\n\r\n4. (8 points) Evaluate:\r\n\r\n$$\\int { \\frac { x ^ { 4 } - x ^ { 3 } - 1 } { x ^ { 2 } - x } } d x$$\r\n\r\nSolution: First we start with polynomial long division to get:\r\n\r\n$$\\frac{x^{4}-x^{3}-1}{",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-9d8025357203398333536dc89e3b4e96",
+    "file_path": "MAT187H1_2025_Quiz1.md",
+    "llm_cache_list": [
+      "default:extract:8b06da2e5cb9908d945d53315899a7ef",
+      "default:extract:35796416b7b7c93b77769b6a18abdfe5"
+    ],
+    "create_time": 1764878407,
+    "update_time": 1764879007,
+    "_id": "chunk-34b4ec115b4e0220da59f726a005690f"
+  },
+  "chunk-bf50d60aad84dbd5e64759775e8736c6": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz1\"\n}\n\n\n } \\end{array}$$\r\n\r\nMAT187\r\n\r\nPage 2 of 4\r\n\r\nMay 14, 2025\r\n\r\n---\r\n\r\n4. (8 points) Evaluate:\r\n\r\n$$\\int { \\frac { x ^ { 4 } - x ^ { 3 } - 1 } { x ^ { 2 } - x } } d x$$\r\n\r\nSolution: First we start with polynomial long division to get:\r\n\r\n$$\\frac{x^{4}-x^{3}-1}{x^{2}-x}=x^{2}-\\frac{1}{x(x-1)}$$\r\n\r\nWe decompose the remainder term as:\r\n\r\n$$\\begin{array} { r l } { \\frac { 1 } { x ( x - 1 ) } = \\frac { A } { x } + \\frac { B } { x - 1 } } \\\\ & { = \\frac { A x - A + B x } { x ( x - 1 ) } } \\end{array}$$\r\n\r\nWhich gives us the system of equations $A=-1$ and $A+B=0$ so $B=1$. Overall we get:\r\n\r\n$$\\begin{array} { r l } & { \\frac { x ^ { 4 } - x ^ { 3 } - 1 } { x ^ { 2 } - x } = x ^ { 2 } + \\frac { 1 } { x } - \\frac { 1 } { x - 1 } } \\\\ & { \\int \\frac { x ^ { 4 } - x ^ { 3 } - 1 } { x ^ { 2 } - x } d x = \\int x ^ { 2 } d x + \\int \\frac { 1 } { x } d x - \\int \\frac { 1 } { x - 1 } d x } \\\\ & { = \\frac { 1 } { 3 } x ^ { 3 } + \\ln | x | - l n | x - 1 | + C } \\end{array}$$\r\n\r\nMAT187\r\n\r\nPage 3 of 4\r\n\r\nMay 14, 2025\r\n\r\n---\r\n\r\n5. (10 points) Consider a cable suspended between two poles located at $x=-a$ and $x=a$ . The cable forms a shape known as a catenary ; however, for small s",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-9d8025357203398333536dc89e3b4e96",
+    "file_path": "MAT187H1_2025_Quiz1.md",
+    "llm_cache_list": [
+      "default:extract:08cd76cbcbc648b6086347bcd5bb3ed3",
+      "default:extract:3cbcf2e7270f68dea145f740fb3af76b"
+    ],
+    "create_time": 1764878407,
+    "update_time": 1764879305,
+    "_id": "chunk-bf50d60aad84dbd5e64759775e8736c6"
+  },
+  "chunk-5fadcfe16b33ccccf85cc4f40d625b5b": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz1\"\n}\n\n\n1 } { 3 } x ^ { 3 } + \\ln | x | - l n | x - 1 | + C } \\end{array}$$\r\n\r\nMAT187\r\n\r\nPage 3 of 4\r\n\r\nMay 14, 2025\r\n\r\n---\r\n\r\n5. (10 points) Consider a cable suspended between two poles located at $x=-a$ and $x=a$ . The cable forms a shape known as a catenary ; however, for small sags and engineering approximations, this curve can be modeled by a simple parabola:\r\n\r\n$$y(x)=\\frac{h}{a^{2}} x^{2}$$\r\n\r\nwhere $a$ is half the horizontal distance between the poles, and $h$ is the vertical sag.\r\n\r\nArc Length Formula: The arclength $L$ of a curve $y=f(x)$ from $x=a$ to $x=b$ is given by:\r\n\r\n$$L=\\int_{a}^{b} \\sqrt{1+\\left(\\frac{d y}{d x}\\right)^{2}} d x$$\r\n\r\nUsing the formula above and the given parabola, set up an integral that computes the total length of the cable from $x = -a$ to $x = a$ . Then, evaluate the integral and simplify the result as much as possible.\r\n\r\nHint: $\\int \\sec^{3}\\theta\\ d\\theta =\\frac{1}{2}\\sec\\theta\\tan\\theta +\\frac{1}{2}\\ln|\\sec\\theta +\\tan\\theta|+C$\r\n\r\nSolution: We are given the cable is modeled by the parabola: $y(x) = \\frac{\\hbar}{a^2} x^2$ and therefore $\\frac{dy}{dx} = \\frac{d}{dx} \\left( \\frac{\\hbar}{a^2} x^2 \\right) = 2 \\frac{\\hbar}{a^2} x$ . Using the arc length formula:\r\n\r\n$$\\begin{array} { r l r } & { L = \\int _ { - a } ^ { a } \\sqrt { 1 + \\left( \\frac { d y } { d x } \\right) ^ { 2 } } \\, d x } \\\\ &  & { = \\int _ { - a } ^ { a } \\sqrt { 1 +",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-9d8025357203398333536dc89e3b4e96",
+    "file_path": "MAT187H1_2025_Quiz1.md",
+    "llm_cache_list": [
+      "default:extract:83046d91199ee87b39714da19d46e1f3",
+      "default:extract:14feb1c414cf4f32847551aa8ea75fa6"
+    ],
+    "create_time": 1764878407,
+    "update_time": 1764879549,
+    "_id": "chunk-5fadcfe16b33ccccf85cc4f40d625b5b"
+  },
+  "chunk-2c218974ce93035d49289efda68d1ab9": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz1\"\n}\n\n\n{\\hbar}{a^2} x$ . Using the arc length formula:\r\n\r\n$$\\begin{array} { r l r } & { L = \\int _ { - a } ^ { a } \\sqrt { 1 + \\left( \\frac { d y } { d x } \\right) ^ { 2 } } \\, d x } \\\\ &  & { = \\int _ { - a } ^ { a } \\sqrt { 1 + 4 \\frac { h ^ { 2 } } { a ^ { 4 } } x ^ { 2 } } \\, d x } \\\\ &  & { = 2 \\int _ { 0 } ^ { a } \\sqrt { 1 + 4 \\frac { h ^ { 2 } } { a ^ { 4 } } x ^ { 2 } } \\, d x } \\\\ &  & { = 2 \\int _ { 0 } ^ { a } \\sqrt { 1 + k ^ { 2 } x ^ { 2 } } \\, d x } & {  L e t t i n g  \\, k = 2 \\frac { h } { a ^ { 2 } } } \\end{array}$$\r\n\r\nLet $x=\\frac{1}{k} \\tan \\theta$, so $d x=\\frac{1}{k} \\sec ^{2} \\theta d \\theta$. Then:\r\n\r\n$$\\sqrt{1+k^{2} x^{2}}=\\sqrt{1+\\tan ^{2} \\theta}=\\sec \\theta$$\r\n\r\nChange of limits:\r\n\r\n$$x=0 \\Rightarrow \\theta=0, \\quad x=a \\Rightarrow \\theta=\\tan ^{-1}(k a)$$\r\n\r\nSubstituting:\r\n\r\n$$L=2 \\int_{0}^{\\tan ^{-1}(k \\alpha)} \\sec \\theta \\cdot  \\frac{1}{k} \\sec ^{2} \\theta d \\theta=\\frac{2}{k} \\int_{0}^{\\tan ^{-1}(k \\alpha)} \\sec ^{3} \\theta d \\theta$$\r\n\r\nApply the provided formula:\r\n\r\n$$\\begin{aligned}\r\n\\int_{0}^{\\tan ^{-1}(k \\alpha)} \\sec ^{3} \\theta d \\theta & =",
+    "chunk_order_index": 4,
+    "full_doc_id": "doc-9d8025357203398333536dc89e3b4e96",
+    "file_path": "MAT187H1_2025_Quiz1.md",
+    "llm_cache_list": [
+      "default:extract:adba0b8386a7a3a04e50bb194a542583",
+      "default:extract:da3a1a27b3d18e044d377d541e0c38b5"
+    ],
+    "create_time": 1764878407,
+    "update_time": 1764879882,
+    "_id": "chunk-2c218974ce93035d49289efda68d1ab9"
+  },
+  "chunk-fef451adf1e65afe7e3d640483e70d28": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz1\"\n}\n\n\n \\sec \\theta \\cdot  \\frac{1}{k} \\sec ^{2} \\theta d \\theta=\\frac{2}{k} \\int_{0}^{\\tan ^{-1}(k \\alpha)} \\sec ^{3} \\theta d \\theta$$\r\n\r\nApply the provided formula:\r\n\r\n$$\\begin{aligned}\r\n\\int_{0}^{\\tan ^{-1}(k \\alpha)} \\sec ^{3} \\theta d \\theta & =\\left.\\left[\\frac{1}{2} \\sec \\theta \\tan \\theta+\\frac{1}{2} \\ln |\\sec \\theta+\\tan \\theta|\\right]_{0}^{\\tan ^{-1}(k \\alpha)}\\right| \\\\\r\n& =\\frac{1}{2}\\left(\\sqrt{1+k^{2} a^{2}} \\cdot  k a+\\ln \\left(\\sqrt{1+k^{2} a^{2}}+k a\\right)\\right)\r\n\\end{aligned}$$\r\n\r\nTherefore:\r\n\r\n$$L=\\frac{2}{k} \\cdot  \\frac{1}{2}\\left(k a \\sqrt{1+k^{2} a^{2}}+\\ln \\left(\\sqrt{1+k^{2} a^{2}}+k a\\right)\\right)$$\r\n\r\n$$L=\\frac{1}{k}\\left(k a \\sqrt{1+k^{2} a^{2}}+\\ln \\left(\\sqrt{1+k^{2} a^{2}}+k a\\right)\\right)$$\r\n\r\nRecall $k=\\frac{2 h}{a^{2}} \\Rightarrow \\frac{1}{k}=\\frac{a^{2}}{2 h}, 80$ :\r\n\r\n$$L=\\frac{a^{2}}{2 h}\\left(\\frac{2 h}{a} \\sqrt{1+\\frac{4 h^{2}}{a^{2}}}+\\ln \\left(\\sqrt{1+\\frac{4 h^{2}}{a^{2}}}+\\frac{2 h}{a}\\right)\\right)$$\r\n\r\nSimplify:\r\n\r\n$$L=a \\sqrt{1+\\frac{4 h^{2}}{a^{2}}}+\\frac{a^{2}}{2 h} \\ln \\left(\\sqrt{1+\\frac{4 h^{2}}{a^{2}}",
+    "chunk_order_index": 5,
+    "full_doc_id": "doc-9d8025357203398333536dc89e3b4e96",
+    "file_path": "MAT187H1_2025_Quiz1.md",
+    "llm_cache_list": [
+      "default:extract:94cfeb89cedb26740351c734033865a0",
+      "default:extract:d515e1dd11065ce8b50cefd8cfe5e4d6"
+    ],
+    "create_time": 1764878407,
+    "update_time": 1764880149,
+    "_id": "chunk-fef451adf1e65afe7e3d640483e70d28"
+  },
+  "chunk-7b459b6b48bd46807a8c7014cf66770c": {
+    "tokens": 163,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz1\"\n}\n\n\n2}}{a^{2}}}+\\ln \\left(\\sqrt{1+\\frac{4 h^{2}}{a^{2}}}+\\frac{2 h}{a}\\right)\\right)$$\r\n\r\nSimplify:\r\n\r\n$$L=a \\sqrt{1+\\frac{4 h^{2}}{a^{2}}}+\\frac{a^{2}}{2 h} \\ln \\left(\\sqrt{1+\\frac{4 h^{2}}{a^{2}}}+\\frac{2 h}{a}\\right)$$\r\n\r\nMAT187\r\n\r\nPage 4 of 4\r\n\r\nMay 14, 2025",
+    "chunk_order_index": 6,
+    "full_doc_id": "doc-9d8025357203398333536dc89e3b4e96",
+    "file_path": "MAT187H1_2025_Quiz1.md",
+    "llm_cache_list": [
+      "default:extract:e9474fc75d4c8fe320d7f503e5979f99",
+      "default:extract:574f5230c15f3f3245aaa221a4597b14"
+    ],
+    "create_time": 1764878407,
+    "update_time": 1764880492,
+    "_id": "chunk-7b459b6b48bd46807a8c7014cf66770c"
+  },
+  "chunk-a62d4032dd0ac35544985f55597c25cb": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz2\"\n}\n\n\n![Figure](figures/MAT187H1_2025_Quiz2_page_001_figure_000.png)\r\n\r\nUNIVERSITY OF TORONTO FACULTY OF APPLIED SCIENCE & ENGINEERING\r\n\r\n## Quiz 2\r\n\r\nDate: May 21, 2025 Duration: 50 minutes\r\n\r\nCourse: MAT 187 (Calculus II) Examiner: Armanpreet Pannu\r\n\r\nName:\r\n\r\ne-mail:\r\n\r\n@mail.utoronto.ca\r\n\r\nStudent Number:\r\n\r\n### Instructions\r\n\r\n- • This is a Type A assessment and does not allow any external aids.\r\n• Read all instructions carefully and justify all your answers. No points will be awarded for a correct\r\nanswer without justification.\r\n• Read each question carefully. No clarification or content related questions will be answered.\r\nYou may use the following space for scratch work or to continue your solutions if you run out of room. If you do so, please clearly indicate in the original question that part of your solution appears here.\r\n\r\n---\r\n\r\n1. (4 points) Consider the improper integral:\r\n\r\n$$\\int_{-\\infty}^{\\infty} \\frac{1}{\\langle  x+1\\rangle} d x$$\r\n\r\nDefine what it means for this improper integral to converge or diverge. You do not need to evaluate the integral — just explain the definition.\r\n\r\nSolution: This integrand has vertical asymptotes at $x=-1$ , so the function is not continuous on the interval $(-\\infty,\\infty)$ . Additionally, the interval of integration is infinite.\r\n\r\nTo evaluate the convergence of this integral, we must break it into parts at the discontinuities and use limits. The integral is defined as:\r\n\r\n$$\\begin{aligned}\r\n\\int_{-\\infty}^{\\infty} \\frac{1}{(x+1)} d x= & \\lim _{a \\to-\\infty} \\int_{a}^{-2} \\frac{1}{(x+1)} d x+\\lim _{b \\to 1^{-}} \\int_{-2}^{b} \\frac{1}{(x+1)} d x \\\\\r\n& +\\lim _{c \\to 1^{+}} \\int_{c}^{0} \\frac{1}{(x+1)} d x+\\lim _{d \\to \\infty} \\int_{0}^{d} \\frac{1}{(x+1)} d x",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-2e10275539f6fb4823e23085d6958e08",
+    "file_path": "MAT187H1_2025_Quiz2.md",
+    "llm_cache_list": [
+      "default:extract:487f004309ad970fdfe417eb98ab772d",
+      "default:extract:c4c740d69ab49048de08bca6bc181451"
+    ],
+    "create_time": 1764880766,
+    "update_time": 1764881099,
+    "_id": "chunk-a62d4032dd0ac35544985f55597c25cb"
+  },
+  "chunk-68172321e055fc24b68d16cb368f085d": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz2\"\n}\n\n\n)} d x+\\lim _{b \\to 1^{-}} \\int_{-2}^{b} \\frac{1}{(x+1)} d x \\\\\r\n& +\\lim _{c \\to 1^{+}} \\int_{c}^{0} \\frac{1}{(x+1)} d x+\\lim _{d \\to \\infty} \\int_{0}^{d} \\frac{1}{(x+1)} d x\r\n\\end{aligned}$$\r\n\r\nThe integral converges only if all four limits exist and are finite . If any one of these limits does not exist or is infinite, the integral is said to diverge . Note that we do not need to split the integrals at $x=-2$ and $x=0$ , any points above and below $x=-1$ will work.\r\n\r\n2. (3 points) True or False: If $f(x) \\leq  g(x)$ for all $x \\geq 1$ , and $\\int_1^\\infty g(x) \\, dx$ converges, then it implies that $\\int_1^\\infty f(x) \\, dx$ also converges. Justify your answer.\r\n\r\nSolution: False. The statement is not always true without an additional assumption.\r\n\r\nThe comparison test requires that both functions be nonnegative on the interval. If $f(x) \\leq  g(x)$ , but $f(x)$ takes on negative values , the conclusion about convergence may not hold.\r\n\r\nCounterexample: Let $g(x)=\\frac{1}{x^{2}}$, which is positive and\r\n\r\n$$\\int_{1}^{\\infty} g(x) d x=\\int_{1}^{\\infty} \\frac{1}{x^{2}} d x$$\r\n\r\nconverges.\r\n\r\nNow let $f(x)=-1$, which satisfies $f(x) \\leq  g(x)$ for all $x \\geq 1$, but\r\n\r\n$$\\int_{1}^{\\infty}f(x)dx=\\int_{1}^{\\infty}(-1)dx$$\r\n\r\ndiverges to $-\\infty$. So, the original statement is false.\r\n\r\n3. (3 points) Consider the improper integral:\r\n\r\n$$\\int_{1}^{\\infty} \\frac{1}{x^{p}} d x$$\r\n\r\nFor which values of $p",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-2e10275539f6fb4823e23085d6958e08",
+    "file_path": "MAT187H1_2025_Quiz2.md",
+    "llm_cache_list": [
+      "default:extract:609ac0cef92af698476579d833c24702",
+      "default:extract:acdf07e10f989f8a7dfcdad4a18192dd"
+    ],
+    "create_time": 1764880766,
+    "update_time": 1764881386,
+    "_id": "chunk-68172321e055fc24b68d16cb368f085d"
+  },
+  "chunk-c379fe56155a9b94002f6d40522c0bf0": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz2\"\n}\n\n\n g(x)$ for all $x \\geq 1$, but\r\n\r\n$$\\int_{1}^{\\infty}f(x)dx=\\int_{1}^{\\infty}(-1)dx$$\r\n\r\ndiverges to $-\\infty$. So, the original statement is false.\r\n\r\n3. (3 points) Consider the improper integral:\r\n\r\n$$\\int_{1}^{\\infty} \\frac{1}{x^{p}} d x$$\r\n\r\nFor which values of $p>0$ does this integral converge? (No justification necessary.) Explain in words why the integral converges for some values of $p$ and diverges for others, even though $\\frac{1}{x^p}\\to 0$ as $x\\to\\infty$ for all $p>0$ .\r\n\r\nSolution: The integral\r\n\r\n$$\\int_{1}^{\\infty} \\frac{1}{x^{p}} d x$$\r\n\r\nconverges if p > 1 and diverges if p ≤ 1. This is often referred to as the p-test.\r\n\r\nEven though $\\frac{1}{x^p} \\to 0$ as $x \\to \\infty$ for all $p > 0$ , the rate at which the function approaches zero determines whether the total area under the curve is finite.\r\n\r\nWhen $p \\leq  1$ , the function decays too slowly — the “ tail ” of the function is thick enough that the area accumulates without bound, causing the integral to diverge.\r\n\r\nWhen $p>1$ , the function decays quickly enough that the area under the curve from 1 to $\\infty$ is finite, and so the integral converges.\r\n\r\nMAT187\r\n\r\nPage 2 of 4\r\n\r\nMay 21, 2025\r\n\r\n---\r\n\r\n4. (6 points) Evaluate the integral or show it diverges:\r\n\r\n$$\\int_{0}^{\\infty} x e^{-x} d x$$\r\n\r\nSolution: This is an improper integral due to the infinite upper limit. We evaluate it as a limit:\r\n\r\n$$\\int_{0}^{\\infty} x e^{-x} d x=\\lim _{t \\to \\infty} \\int_{0}^{t} x e^{-x} d x$$\r\n\r\nWe compute the definite integral using integration by parts: Let\r\n\r\n$$u=x \\quad \\Rightarrow \\quad d u=d x",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-2e10275539f6fb4823e23085d6958e08",
+    "file_path": "MAT187H1_2025_Quiz2.md",
+    "llm_cache_list": [
+      "default:extract:40fcb625bc3884733d3b8cbf4c7c7b26",
+      "default:extract:29c4961c7f1151c84035c8eb4bcb4b5e"
+    ],
+    "create_time": 1764880766,
+    "update_time": 1764881696,
+    "_id": "chunk-c379fe56155a9b94002f6d40522c0bf0"
+  },
+  "chunk-49776f4920056a70e1f59907bce55588": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz2\"\n}\n\n\n x e^{-x} d x$$\r\n\r\nSolution: This is an improper integral due to the infinite upper limit. We evaluate it as a limit:\r\n\r\n$$\\int_{0}^{\\infty} x e^{-x} d x=\\lim _{t \\to \\infty} \\int_{0}^{t} x e^{-x} d x$$\r\n\r\nWe compute the definite integral using integration by parts: Let\r\n\r\n$$u=x \\quad \\Rightarrow \\quad d u=d x, \\quad d v=e^{-x} d x \\quad \\Rightarrow \\quad v=-e^{-x}$$\r\n\r\nThen:\r\n\r\n$$\\int x e^{-x} d x=-x e^{-x}+\\int e^{-x} d x=-x e^{-x}-e^{-x}+C=-(x+1) e^{-x}+C$$\r\n\r\nNow apply the limits:\r\n\r\n$$\\begin{aligned}\r\n\\int_{0}^{t}xe^{-x}dx&=\\left[-(x+1)e^{-x}\\right]_{0}^{t}\\\\\r\n&=-(t+1)e^{-t}+(0+1)e^{0}\\\\\r\n&=-(t+1)e^{-t}+1\r\n\\end{aligned}$$\r\n\r\nNow take the limit as $t \\to \\infty$ :\r\n\r\n$$\\lim_{t\\to\\infty}\\left[-(t+1)e^{-t}+1\\right]=1$$\r\n\r\nFinal Answer: The integral converges and equals 1\r\n\r\n5. (6 points) Determine whether the following improper integral converges or diverges. Justify your answer using the comparison test:\r\n\r\n$$\\int_{0}^{1} \\frac{1}{\\sqrt{x}+x^{2}} d x$$\r\n\r\nSolution: As $x \\to 0^{+}$, $\\sqrt{x} \\gg x^{2}$, so:\r\n\r\n$$\\frac{1}{\\sqrt{x}+x^{2}} \\sim \\frac{1}{\\sqrt{x}}$$\r\n\r\nThus we attempt to compare the integrand with $\\frac{1}{\\sqrt{s}}$ to show convergence.\r\n\r\nFirstly note that $0 \\leq  \\frac{1}{\\sqrt{x}+x^{2}}$, so we can apply the comparison test.\r\n\r\nFor 0<x<1, we have:\r\n\r\n$$\\sqrt{x}+x^{2}>\\sqrt{x} \\Rightarrow 0 \\",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-2e10275539f6fb4823e23085d6958e08",
+    "file_path": "MAT187H1_2025_Quiz2.md",
+    "llm_cache_list": [
+      "default:extract:93725250ae38531c95e84e1cb3cb462b",
+      "default:extract:6e8cc66927819dff310cb65c50df9bd7"
+    ],
+    "create_time": 1764880766,
+    "update_time": 1764881970,
+    "_id": "chunk-49776f4920056a70e1f59907bce55588"
+  },
+  "chunk-a1b152927eb87d81dca051b5fb1c71ec": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz2\"\n}\n\n\nx^{2}} \\sim \\frac{1}{\\sqrt{x}}$$\r\n\r\nThus we attempt to compare the integrand with $\\frac{1}{\\sqrt{s}}$ to show convergence.\r\n\r\nFirstly note that $0 \\leq  \\frac{1}{\\sqrt{x}+x^{2}}$, so we can apply the comparison test.\r\n\r\nFor 0<x<1, we have:\r\n\r\n$$\\sqrt{x}+x^{2}>\\sqrt{x} \\Rightarrow 0 \\leq  \\frac{1}{\\sqrt{x}+x^{2}}<\\frac{1}{\\sqrt{x}}$$\r\n\r\nNow,\r\n\r\n$$\\int_{0}^{1} \\frac{1}{\\sqrt{x}} d x  converges by the  p -test$$\r\n\r\nTherefore by the comparison test, $\\int_{0}^{1} \\frac{1}{\\sqrt{x+z^{2}}} d x$ converges.\r\n\r\nMAT187\r\n\r\nPage 3 of 4\r\n\r\nMay 21, 2025\r\n\r\n---\r\n\r\n6. (8 points) According to Coulomb's law, the magnitude of the electrostatic force between two point charges $q_{1}$ and $q_{2}$ separated by a distance $r$ is given by:\r\n\r\n$$F(r)=\\frac{k q_{1} q_{2}}{r^{2}}$$\r\n\r\nwhere k is a positive constant.\r\n\r\nThe work required to move a particle from position $x=r_{1}$ to $x=r_{2}$ with a force $F(x)$ is given by:\r\n\r\n$$Work=\\int_{r_{1}}^{r_{2}} F(x) d x$$\r\n\r\nAssuming both charges have the same sign (i.e., they repel each other), explain whether it is physically possible to bring the two charges to a distance of zero.\r\n\r\nSolution: If the two charges have the same sign, they repel each other. To bring them closer together, an external agent must apply a force opposing this repulsion. The amount of work required is given by:\r\n\r\n$$ Work =\\int_{r_{1}}^{r_{2}} \\frac{k q_{1} q_{2}}{x^{2}} d x$$\r\n\r\nSince $q_1$ and $q_2$ are both positive (or both negative), $kq_1q_2>0$ , so the force is repulsive and points away from the other charge.",
+    "chunk_order_index": 4,
+    "full_doc_id": "doc-2e10275539f6fb4823e23085d6958e08",
+    "file_path": "MAT187H1_2025_Quiz2.md",
+    "llm_cache_list": [
+      "default:extract:72ac2b7561fb272874902d710f45fc06",
+      "default:extract:db64604442c7428e618725db0933f257"
+    ],
+    "create_time": 1764880766,
+    "update_time": 1764882268,
+    "_id": "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+  },
+  "chunk-25161655497f54ee445f280d407a9315": {
+    "tokens": 300,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT187H1\",\n    \"year\": \"2025\",\n    \"doc_name\": \"Quiz2\"\n}\n\n\n agent must apply a force opposing this repulsion. The amount of work required is given by:\r\n\r\n$$ Work =\\int_{r_{1}}^{r_{2}} \\frac{k q_{1} q_{2}}{x^{2}} d x$$\r\n\r\nSince $q_1$ and $q_2$ are both positive (or both negative), $kq_1q_2>0$ , so the force is repulsive and points away from the other charge. To bring the charges together, we must integrate from $r_1>0$ to $r_2=0$ , which gives:\r\n\r\n$$ Work =\\int_{r_{1}}^{v} \\frac{k q_{1} q_{2}}{x^{2}} d x$$\r\n\r\nThis is an improper integral because the integrand has a vertical asymptote at $x=0$ and by the $p$-test, this integral diverges.\r\n\r\nTherefore, the work required to bring the charges to a distance of zero is infinite. This means that, in practice, it is physically impossible to bring two like charges all the way to $r=0$ , because it would require an infinite amount of energy.\r\n\r\nMAT187\r\n\r\nPage 4 of 4\r\n\r\nMay 21, 2025",
+    "chunk_order_index": 5,
+    "full_doc_id": "doc-2e10275539f6fb4823e23085d6958e08",
+    "file_path": "MAT187H1_2025_Quiz2.md",
+    "llm_cache_list": [
+      "default:extract:08ac1248833ddda6a872c9b0e1051fae",
+      "default:extract:22cd266fcd2d52682e0509e6553cb568"
+    ],
+    "create_time": 1764880766,
+    "update_time": 1764882486,
+    "_id": "chunk-25161655497f54ee445f280d407a9315"
+  },
+  "chunk-3f65469bda8a8c2423bd9bf893d6af44": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT291H1\",\n    \"year\": \"2012\",\n    \"doc_name\": \"Midterm\"\n}\n\n\n# FACULTY OF APPLIED SCIENCE AND ENGINEERING University of Toronto\r\n\r\nMAT291F Calculus III\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nExaminers: F. Dawson, A. Nachman Duration: 1 hour and 50 minutes\r\n\r\nNO AIDS ALLOWED.\r\n\r\nTotal: 100 marks\r\n\r\nFamily Name:\r\n\r\n(Please Print)\r\n\r\nGiven Name(s):\r\n\r\n(Please Print)\r\n\r\nYour Tutorial Section/TA's Name:\r\n\r\nStudent ID Number:\r\n\r\n<table><tr><td colspan=\"4\">FOR MARKER'S USE ONLY</td></tr><tr><td>Problem 1:</td><td>/15</td><td>Problem 4:</td><td>/23</td></tr><tr><td>Problem 2:</td><td>/20</td><td>Problem 5:</td><td>/17</td></tr><tr><td>Problem 3:</td><td>/25</td><td></td><td></td></tr><tr><td></td><td></td><td>TOTAL:</td><td>/100</td></tr></table>\r\n\r\n\r\nPage 1 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n1. Let\r\n\r\n$$f ( x , y ) = \\frac { 1 } { 1 + x ^ { 2 } + y ^ { 2 } } + \\frac { 1 } { 1 + x ^ { 2 } + ( y - 4 ) ^ { 2 } }$$\r\n\r\n(a) (10 points) Find an equation of the plane tangent to the graph $z=f(x,y)$ of $f$ at the point $(0,3,0.6)$ .\r\n\r\n(b) (5 points) Use $a$) to approximate the value of $f(0.1,2.99)$.\r\n\r\nPage 2 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n2. Consider the integral:\r\n\r\n$$\\int_{0}^{2} \\int_{y^{2}}^{4} y e^{-x^{2}} d x d y$$\r\n\r\n(a) (5 points) Sketch the region of integration.\r\n\r\n(b) (15 points) Reverse the order of integration and evaluate the integral.\r\n\r\nPage 3 of 8\r\n\r\n---",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-dda004bbc96e3b69af4017401e4d1636",
+    "file_path": "MAT291H1_2012_Midterm.md",
+    "llm_cache_list": [
+      "default:extract:96f69212855bda9fb32c723b5c518cfa",
+      "default:extract:17f035b153778a3b2a1ac584a2500493"
+    ],
+    "create_time": 1764885682,
+    "update_time": 1764885690,
+    "_id": "chunk-3f65469bda8a8c2423bd9bf893d6af44"
+  },
+  "chunk-77ac44b82b252c237b9c421fb3f401a7": {
+    "tokens": 533,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT291H1\",\n    \"year\": \"2012\",\n    \"doc_name\": \"Midterm\"\n}\n\n\n of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n2. Consider the integral:\r\n\r\n$$\\int_{0}^{2} \\int_{y^{2}}^{4} y e^{-x^{2}} d x d y$$\r\n\r\n(a) (5 points) Sketch the region of integration.\r\n\r\n(b) (15 points) Reverse the order of integration and evaluate the integral.\r\n\r\nPage 3 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n3. Let $R$ be the three dimensional region in the first octant bounded by the plane $x+3y+2z=6$ and the coordinate planes. Let $f(x,y,z)$ be the charge density in $R$ .\r\n\r\n(a) (5 points) Sketch the projection of R on the yz plane.\r\n\r\n(b) (10 points) Write the total charge as an iterated integral\r\n\r\n$$\\iiint f(x, y, z) d x d y d z$$\r\n\r\nwith the correct limits of integration in the indicated order.\r\n\r\nPage 4 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n(question 3 continued...)\r\n\r\n(c) (5 points) Now write the total charge as an iterated integral\r\n\r\n$$\\iiint f(x, y, z) d z d y d x$$\r\n\r\nwith the correct limits of integration in the indicated order.\r\n\r\nPage 5 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n4. Let $D$ be the three-dimensional region bounded above by the surface\r\n\r\n$z=8-(x^{2}+y^{2})$, below by the plane $z=2$ and lying inside the cone $z=2\\sqrt{x^{2}+y^{2}}$.\r\n\r\n(a) (7 points) Sketch the region D.\r\n\r\n(b) (16 points) Compute the volume of $D$ using triple integration in cylindrical coordinates $(r,\\theta,z)$ .\r\n\r\nPage 6 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n5. Let $f(x,y)=\\left\\{\\begin{array}{rrr}\\frac{xsiny}{x^",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-dda004bbc96e3b69af4017401e4d1636",
+    "file_path": "MAT291H1_2012_Midterm.md",
+    "llm_cache_list": [
+      "default:extract:ac2c4fa4d27027dda3c92d8345d225b6",
+      "default:extract:3fd505e232594044d5e48f724b3a055f"
+    ],
+    "create_time": 1764885682,
+    "update_time": 1764885837,
+    "_id": "chunk-77ac44b82b252c237b9c421fb3f401a7"
+  },
+  "chunk-b9b7a691d7e01aac47e15c6fb69d03e0": {
+    "tokens": 329,
+    "content": "extra_data:\n{\n    \"course_code\": \"MAT291H1\",\n    \"year\": \"2012\",\n    \"doc_name\": \"Midterm\"\n}\n\n\n}+y^{2}}$.\r\n\r\n(a) (7 points) Sketch the region D.\r\n\r\n(b) (16 points) Compute the volume of $D$ using triple integration in cylindrical coordinates $(r,\\theta,z)$ .\r\n\r\nPage 6 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n5. Let $f(x,y)=\\left\\{\\begin{array}{rrr}\\frac{xsiny}{x^2+y^2} &\\text{for}\\quad (x,y)\\neq (0,0)\\\\0&\\text{for}\\quad (x,y)=(0,0)\\end{array}\\right.$\r\n\r\n(a) (5 points) Show that $f$ is not continuous at $(0,0)$.\r\n\r\n(b) (5 points) Show that $\\frac{\\partial f}{\\partial x}(0,0)$ exists and calculate its value.\r\n\r\n(c) (2 points) Is $f$ differentiable at $(0,0)$ ?\r\n\r\n(d) (5 points) Compute the limit $\\lim\\limits_{(x,y)\\to(4,5)}\\frac{\\sqrt{x+y}-3}{x+y-9}$ .\r\n\r\nPage 7 of 8\r\n\r\n---\r\n\r\nMidterm Exam, October 23, 2012\r\n\r\nMAT291F - Calculus III\r\n\r\n(scratch paper)\r\n\r\nPage 8 of 8",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-dda004bbc96e3b69af4017401e4d1636",
+    "file_path": "MAT291H1_2012_Midterm.md",
+    "llm_cache_list": [
+      "default:extract:3c1d4cb6f8f4214068ffe9bed26ec4f9",
+      "default:extract:59ecbb8f157f7180b17ae44be5aedc1a"
+    ],
+    "create_time": 1764885682,
+    "update_time": 1764886241,
+    "_id": "chunk-b9b7a691d7e01aac47e15c6fb69d03e0"
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "MAT186H1_2025_Quiz8_question_3<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a",
+      "chunk-e916425b8e31486dcbdb389e3d5ba7a1",
+      "chunk-b3b841d1261c7e9eb43d50e441d87ab9"
+    ],
+    "count": 3,
+    "create_time": 1764820982,
+    "update_time": 1764820982,
+    "_id": "MAT186H1_2025_Quiz8_question_3<SEP>Riemann sums"
+  },
+  "MAT186H1<SEP>MAT186H1_2025_Quiz8": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a",
+      "chunk-545b510e430d1101464eb3f573e108cc",
+      "chunk-e916425b8e31486dcbdb389e3d5ba7a1",
+      "chunk-b3b841d1261c7e9eb43d50e441d87ab9"
+    ],
+    "count": 4,
+    "create_time": 1764820982,
+    "update_time": 1764820982,
+    "_id": "MAT186H1<SEP>MAT186H1_2025_Quiz8"
+  },
+  "AB3<SEP>MAT186H1": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a"
+    ],
+    "count": 1,
+    "create_time": 1764820983,
+    "update_time": 1764820983,
+    "_id": "AB3<SEP>MAT186H1"
+  },
+  "MAT186H1_2025_Quiz8<SEP>MAT186H1_2025_Quiz8_question_3": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a",
+      "chunk-e916425b8e31486dcbdb389e3d5ba7a1",
+      "chunk-b3b841d1261c7e9eb43d50e441d87ab9"
+    ],
+    "count": 3,
+    "create_time": 1764820983,
+    "update_time": 1764820983,
+    "_id": "MAT186H1_2025_Quiz8<SEP>MAT186H1_2025_Quiz8_question_3"
+  },
+  "AB5<SEP>MAT186H1": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a"
+    ],
+    "count": 1,
+    "create_time": 1764820983,
+    "update_time": 1764820983,
+    "_id": "AB5<SEP>MAT186H1"
+  },
+  "MAT186H1_2025_Quiz8_question_1<SEP>limits": {
+    "chunk_ids": [
+      "chunk-545b510e430d1101464eb3f573e108cc"
+    ],
+    "count": 1,
+    "create_time": 1764820983,
+    "update_time": 1764820983,
+    "_id": "MAT186H1_2025_Quiz8_question_1<SEP>limits"
+  },
+  "CF6<SEP>MAT186H1": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a"
+    ],
+    "count": 1,
+    "create_time": 1764820984,
+    "update_time": 1764820984,
+    "_id": "CF6<SEP>MAT186H1"
+  },
+  "MAT186H1_2025_Quiz8<SEP>MAT186H1_2025_Quiz8_question_1": {
+    "chunk_ids": [
+      "chunk-545b510e430d1101464eb3f573e108cc"
+    ],
+    "count": 1,
+    "create_time": 1764820984,
+    "update_time": 1764820984,
+    "_id": "MAT186H1_2025_Quiz8<SEP>MAT186H1_2025_Quiz8_question_1"
+  },
+  "MAT186H1_2025_Quiz8_question_2<SEP>limits": {
+    "chunk_ids": [
+      "chunk-545b510e430d1101464eb3f573e108cc"
+    ],
+    "count": 1,
+    "create_time": 1764820984,
+    "update_time": 1764820984,
+    "_id": "MAT186H1_2025_Quiz8_question_2<SEP>limits"
+  },
+  "CS13<SEP>MAT186H1": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a"
+    ],
+    "count": 1,
+    "create_time": 1764820984,
+    "update_time": 1764820984,
+    "_id": "CS13<SEP>MAT186H1"
+  },
+  "MAT186H1_2025_Quiz8<SEP>MAT186H1_2025_Quiz8_question_2": {
+    "chunk_ids": [
+      "chunk-545b510e430d1101464eb3f573e108cc"
+    ],
+    "count": 1,
+    "create_time": 1764820985,
+    "update_time": 1764820985,
+    "_id": "MAT186H1_2025_Quiz8<SEP>MAT186H1_2025_Quiz8_question_2"
+  },
+  "CS14<SEP>MAT186H1": {
+    "chunk_ids": [
+      "chunk-2aff86b71f4a4786f6ae5fbca82dab6a"
+    ],
+    "count": 1,
+    "create_time": 1764820985,
+    "update_time": 1764820985,
+    "_id": "CS14<SEP>MAT186H1"
+  },
+  "MAT186H1_2025_Quiz6_question_4<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-2ddfba8bdb3745578238e8b4cf91790f"
+    ],
+    "count": 1,
+    "create_time": 1764823325,
+    "update_time": 1764823325,
+    "_id": "MAT186H1_2025_Quiz6_question_4<SEP>Riemann sums"
+  },
+  "MAT186H1_2025_Quiz6_question_4<SEP>Squeeze Theorem": {
+    "chunk_ids": [
+      "chunk-4f97abbf690ba39a955600666d4a064e"
+    ],
+    "count": 1,
+    "create_time": 1764823325,
+    "update_time": 1764823325,
+    "_id": "MAT186H1_2025_Quiz6_question_4<SEP>Squeeze Theorem"
+  },
+  "MAT186H1<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-95803db9007550f2f1af30ff5eabb6f5"
+    ],
+    "count": 1,
+    "create_time": 1764823325,
+    "update_time": 1764823325,
+    "_id": "MAT186H1<SEP>Riemann sums"
+  },
+  "MAT186H1_2025_Quiz6_question_2<SEP>optimization": {
+    "chunk_ids": [
+      "chunk-814ad1af81d451c7860693f42e48f2ea"
+    ],
+    "count": 1,
+    "create_time": 1764823326,
+    "update_time": 1764823326,
+    "_id": "MAT186H1_2025_Quiz6_question_2<SEP>optimization"
+  },
+  "MAT186H1_2025_Quiz6<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-95803db9007550f2f1af30ff5eabb6f5"
+    ],
+    "count": 1,
+    "create_time": 1764823326,
+    "update_time": 1764823326,
+    "_id": "MAT186H1_2025_Quiz6<SEP>Riemann sums"
+  },
+  "Theorem<SEP>limit": {
+    "chunk_ids": [
+      "chunk-7684c0e9366ed6f803c1089a3ca2249c"
+    ],
+    "count": 1,
+    "create_time": 1764823326,
+    "update_time": 1764823326,
+    "_id": "Theorem<SEP>limit"
+  },
+  "MAT186H1_2025_Quiz6_question_1<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-814ad1af81d451c7860693f42e48f2ea"
+    ],
+    "count": 1,
+    "create_time": 1764823326,
+    "update_time": 1764823326,
+    "_id": "MAT186H1_2025_Quiz6_question_1<SEP>Riemann sums"
+  },
+  "MAT186H1_2025_Quiz6<SEP>MAT186H1_2025_Quiz6_question_4": {
+    "chunk_ids": [
+      "chunk-4f97abbf690ba39a955600666d4a064e"
+    ],
+    "count": 1,
+    "create_time": 1764823326,
+    "update_time": 1764823326,
+    "_id": "MAT186H1_2025_Quiz6<SEP>MAT186H1_2025_Quiz6_question_4"
+  },
+  "MAT186H1_2025_Quiz6<SEP>MAT186H1_2025_Quiz6_question_1": {
+    "chunk_ids": [
+      "chunk-814ad1af81d451c7860693f42e48f2ea"
+    ],
+    "count": 1,
+    "create_time": 1764823327,
+    "update_time": 1764823327,
+    "_id": "MAT186H1_2025_Quiz6<SEP>MAT186H1_2025_Quiz6_question_1"
+  },
+  "MAT186H1_2025_Theorem<SEP>limit": {
+    "chunk_ids": [
+      "chunk-7684c0e9366ed6f803c1089a3ca2249c"
+    ],
+    "count": 1,
+    "create_time": 1764823327,
+    "update_time": 1764823327,
+    "_id": "MAT186H1_2025_Theorem<SEP>limit"
+  },
+  "MAT186H1_2025_Quiz6<SEP>MAT186H1_2025_Quiz6_question_2": {
+    "chunk_ids": [
+      "chunk-814ad1af81d451c7860693f42e48f2ea"
+    ],
+    "count": 1,
+    "create_time": 1764823327,
+    "update_time": 1764823327,
+    "_id": "MAT186H1_2025_Quiz6<SEP>MAT186H1_2025_Quiz6_question_2"
+  },
+  "MAT186H1<SEP>MAT186H1_2025_Quiz6": {
+    "chunk_ids": [
+      "chunk-814ad1af81d451c7860693f42e48f2ea",
+      "chunk-7684c0e9366ed6f803c1089a3ca2249c"
+    ],
+    "count": 2,
+    "create_time": 1764823328,
+    "update_time": 1764823328,
+    "_id": "MAT186H1<SEP>MAT186H1_2025_Quiz6"
+  },
+  "MAT186H1_2025_Quiz6<SEP>Theorem": {
+    "chunk_ids": [
+      "chunk-7684c0e9366ed6f803c1089a3ca2249c"
+    ],
+    "count": 1,
+    "create_time": 1764823328,
+    "update_time": 1764823328,
+    "_id": "MAT186H1_2025_Quiz6<SEP>Theorem"
+  },
+  "Course<SEP>WeBWorK Assignments": {
+    "chunk_ids": [
+      "chunk-037b09b76d07d4ea2bd9e885f0415393"
+    ],
+    "count": 1,
+    "create_time": 1764877946,
+    "update_time": 1764877946,
+    "_id": "Course<SEP>WeBWorK Assignments"
+  },
+  "MAT186H1<SEP>course_code": {
+    "chunk_ids": [
+      "chunk-3d07c6ee509cdfc533e7f0e1139a37dd"
+    ],
+    "count": 1,
+    "create_time": 1764877948,
+    "update_time": 1764877948,
+    "_id": "MAT186H1<SEP>course_code"
+  },
+  "Course<SEP>WeBWorK": {
+    "chunk_ids": [
+      "chunk-037b09b76d07d4ea2bd9e885f0415393"
+    ],
+    "count": 1,
+    "create_time": 1764877948,
+    "update_time": 1764877948,
+    "_id": "Course<SEP>WeBWorK"
+  },
+  "Sec_6.8*<SEP>section": {
+    "chunk_ids": [
+      "chunk-3d07c6ee509cdfc533e7f0e1139a37dd"
+    ],
+    "count": 1,
+    "create_time": 1764877949,
+    "update_time": 1764877949,
+    "_id": "Sec_6.8*<SEP>section"
+  },
+  "Sec_6.9<SEP>section": {
+    "chunk_ids": [
+      "chunk-3d07c6ee509cdfc533e7f0e1139a37dd"
+    ],
+    "count": 1,
+    "create_time": 1764877950,
+    "update_time": 1764877950,
+    "_id": "Sec_6.9<SEP>section"
+  },
+  "course_code<SEP>year": {
+    "chunk_ids": [
+      "chunk-6a6457b23fd1925f4e34ba4434f68061"
+    ],
+    "count": 1,
+    "create_time": 1764877951,
+    "update_time": 1764877951,
+    "_id": "course_code<SEP>year"
+  },
+  "MAT186H1<SEP>course_has_document": {
+    "chunk_ids": [
+      "chunk-7ed71c0beea757f648f24c9ef4e338ab"
+    ],
+    "count": 1,
+    "create_time": 1764877951,
+    "update_time": 1764877951,
+    "_id": "MAT186H1<SEP>course_has_document"
+  },
+  "Sep 8<SEP>date_has_section": {
+    "chunk_ids": [
+      "chunk-7ed71c0beea757f648f24c9ef4e338ab"
+    ],
+    "count": 1,
+    "create_time": 1764877952,
+    "update_time": 1764877952,
+    "_id": "Sep 8<SEP>date_has_section"
+  },
+  "Arc length formula<SEP>MAT187H1_2025_Quiz1_question_1": {
+    "chunk_ids": [
+      "chunk-5fadcfe16b33ccccf85cc4f40d625b5b"
+    ],
+    "count": 1,
+    "create_time": 1764880500,
+    "update_time": 1764880500,
+    "_id": "Arc length formula<SEP>MAT187H1_2025_Quiz1_question_1"
+  },
+  "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_1": {
+    "chunk_ids": [
+      "chunk-5fadcfe16b33ccccf85cc4f40d625b5b"
+    ],
+    "count": 1,
+    "create_time": 1764880500,
+    "update_time": 1764880500,
+    "_id": "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_1"
+  },
+  "Arc length formula<SEP>MAT187H1_2025_Quiz1": {
+    "chunk_ids": [
+      "chunk-5fadcfe16b33ccccf85cc4f40d625b5b"
+    ],
+    "count": 1,
+    "create_time": 1764880501,
+    "update_time": 1764880501,
+    "_id": "Arc length formula<SEP>MAT187H1_2025_Quiz1"
+  },
+  "MAT187H1<SEP>MAT187H1_2025_Quiz1": {
+    "chunk_ids": [
+      "chunk-bf50d60aad84dbd5e64759775e8736c6",
+      "chunk-7b459b6b48bd46807a8c7014cf66770c",
+      "chunk-6aa2c1e799a9a0579da097fb88e20522",
+      "chunk-34b4ec115b4e0220da59f726a005690f"
+    ],
+    "count": 4,
+    "create_time": 1764880502,
+    "update_time": 1764880502,
+    "_id": "MAT187H1<SEP>MAT187H1_2025_Quiz1"
+  },
+  "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_4": {
+    "chunk_ids": [
+      "chunk-bf50d60aad84dbd5e64759775e8736c6"
+    ],
+    "count": 1,
+    "create_time": 1764880503,
+    "update_time": 1764880503,
+    "_id": "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_4"
+  },
+  "MAT187H1_2025_Quiz1_question_4<SEP>polynomial long division": {
+    "chunk_ids": [
+      "chunk-bf50d60aad84dbd5e64759775e8736c6"
+    ],
+    "count": 1,
+    "create_time": 1764880503,
+    "update_time": 1764880503,
+    "_id": "MAT187H1_2025_Quiz1_question_4<SEP>polynomial long division"
+  },
+  "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_5": {
+    "chunk_ids": [
+      "chunk-bf50d60aad84dbd5e64759775e8736c6"
+    ],
+    "count": 1,
+    "create_time": 1764880503,
+    "update_time": 1764880503,
+    "_id": "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_5"
+  },
+  "MAT187H1_2025_Quiz1_question_5<SEP>catenary": {
+    "chunk_ids": [
+      "chunk-bf50d60aad84dbd5e64759775e8736c6"
+    ],
+    "count": 1,
+    "create_time": 1764880504,
+    "update_time": 1764880504,
+    "_id": "MAT187H1_2025_Quiz1_question_5<SEP>catenary"
+  },
+  "MAT187H1_2025_Quiz1<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-7b459b6b48bd46807a8c7014cf66770c"
+    ],
+    "count": 1,
+    "create_time": 1764880504,
+    "update_time": 1764880504,
+    "_id": "MAT187H1_2025_Quiz1<SEP>Riemann sums"
+  },
+  "MAT187H1<SEP>Quiz1": {
+    "chunk_ids": [
+      "chunk-2c218974ce93035d49289efda68d1ab9"
+    ],
+    "count": 1,
+    "create_time": 1764880505,
+    "update_time": 1764880505,
+    "_id": "MAT187H1<SEP>Quiz1"
+  },
+  "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_1": {
+    "chunk_ids": [
+      "chunk-2c218974ce93035d49289efda68d1ab9",
+      "chunk-6aa2c1e799a9a0579da097fb88e20522"
+    ],
+    "count": 2,
+    "create_time": 1764880505,
+    "update_time": 1764880505,
+    "_id": "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_1"
+  },
+  "MAT187H1_2025_Quiz1_question_1<SEP>arc length formula": {
+    "chunk_ids": [
+      "chunk-2c218974ce93035d49289efda68d1ab9"
+    ],
+    "count": 1,
+    "create_time": 1764880506,
+    "update_time": 1764880506,
+    "_id": "MAT187H1_2025_Quiz1_question_1<SEP>arc length formula"
+  },
+  "MAT187H1_2025_Quiz1_question_1<SEP>integration by parts": {
+    "chunk_ids": [
+      "chunk-6aa2c1e799a9a0579da097fb88e20522"
+    ],
+    "count": 1,
+    "create_time": 1764880506,
+    "update_time": 1764880506,
+    "_id": "MAT187H1_2025_Quiz1_question_1<SEP>integration by parts"
+  },
+  "MAT187H1_2025_Quiz1_question_1<SEP>partial fraction decomposition": {
+    "chunk_ids": [
+      "chunk-6aa2c1e799a9a0579da097fb88e20522"
+    ],
+    "count": 1,
+    "create_time": 1764880507,
+    "update_time": 1764880507,
+    "_id": "MAT187H1_2025_Quiz1_question_1<SEP>partial fraction decomposition"
+  },
+  "MAT187H1_2025_Quiz1<SEP>trigonometric substitution": {
+    "chunk_ids": [
+      "chunk-6aa2c1e799a9a0579da097fb88e20522"
+    ],
+    "count": 1,
+    "create_time": 1764880507,
+    "update_time": 1764880507,
+    "_id": "MAT187H1_2025_Quiz1<SEP>trigonometric substitution"
+  },
+  "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_2": {
+    "chunk_ids": [
+      "chunk-34b4ec115b4e0220da59f726a005690f"
+    ],
+    "count": 1,
+    "create_time": 1764880507,
+    "update_time": 1764880507,
+    "_id": "MAT187H1_2025_Quiz1<SEP>MAT187H1_2025_Quiz1_question_2"
+  },
+  "MAT187H1_2025_Quiz1_question_2<SEP>integration by parts": {
+    "chunk_ids": [
+      "chunk-34b4ec115b4e0220da59f726a005690f"
+    ],
+    "count": 1,
+    "create_time": 1764880508,
+    "update_time": 1764880508,
+    "_id": "MAT187H1_2025_Quiz1_question_2<SEP>integration by parts"
+  },
+  "MAT187H1_2025_Quiz1_question_2<SEP>trigonometric substitution": {
+    "chunk_ids": [
+      "chunk-34b4ec115b4e0220da59f726a005690f"
+    ],
+    "count": 1,
+    "create_time": 1764880508,
+    "update_time": 1764880508,
+    "_id": "MAT187H1_2025_Quiz1_question_2<SEP>trigonometric substitution"
+  },
+  "Question<SEP>integral": {
+    "chunk_ids": [
+      "chunk-fef451adf1e65afe7e3d640483e70d28"
+    ],
+    "count": 1,
+    "create_time": 1764880508,
+    "update_time": 1764880508,
+    "_id": "Question<SEP>integral"
+  },
+  "Riemann sums<SEP>integral": {
+    "chunk_ids": [
+      "chunk-fef451adf1e65afe7e3d640483e70d28"
+    ],
+    "count": 1,
+    "create_time": 1764880509,
+    "update_time": 1764880509,
+    "_id": "Riemann sums<SEP>integral"
+  },
+  "integral<SEP>secant": {
+    "chunk_ids": [
+      "chunk-fef451adf1e65afe7e3d640483e70d28"
+    ],
+    "count": 1,
+    "create_time": 1764880509,
+    "update_time": 1764880509,
+    "_id": "integral<SEP>secant"
+  },
+  "MAT187H1<SEP>MAT187H1_2025_Quiz2": {
+    "chunk_ids": [
+      "chunk-c379fe56155a9b94002f6d40522c0bf0",
+      "chunk-49776f4920056a70e1f59907bce55588",
+      "chunk-a62d4032dd0ac35544985f55597c25cb"
+    ],
+    "count": 3,
+    "create_time": 1764882494,
+    "update_time": 1764882494,
+    "_id": "MAT187H1<SEP>MAT187H1_2025_Quiz2"
+  },
+  "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_4": {
+    "chunk_ids": [
+      "chunk-c379fe56155a9b94002f6d40522c0bf0"
+    ],
+    "count": 1,
+    "create_time": 1764882495,
+    "update_time": 1764882495,
+    "_id": "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_4"
+  },
+  "MAT187H1_2025_Quiz2_question_4<SEP>p-test": {
+    "chunk_ids": [
+      "chunk-c379fe56155a9b94002f6d40522c0bf0"
+    ],
+    "count": 1,
+    "create_time": 1764882496,
+    "update_time": 1764882496,
+    "_id": "MAT187H1_2025_Quiz2_question_4<SEP>p-test"
+  },
+  "MAT187H1_2025_Quiz2_question_4<SEP>integration_by_parts": {
+    "chunk_ids": [
+      "chunk-c379fe56155a9b94002f6d40522c0bf0"
+    ],
+    "count": 1,
+    "create_time": 1764882496,
+    "update_time": 1764882496,
+    "_id": "MAT187H1_2025_Quiz2_question_4<SEP>integration_by_parts"
+  },
+  "MAT187H1_2025_Quiz2_question_5<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-49776f4920056a70e1f59907bce55588"
+    ],
+    "count": 1,
+    "create_time": 1764882496,
+    "update_time": 1764882496,
+    "_id": "MAT187H1_2025_Quiz2_question_5<SEP>Riemann sums"
+  },
+  "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_5": {
+    "chunk_ids": [
+      "chunk-49776f4920056a70e1f59907bce55588"
+    ],
+    "count": 1,
+    "create_time": 1764882497,
+    "update_time": 1764882497,
+    "_id": "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_5"
+  },
+  "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_6": {
+    "chunk_ids": [
+      "chunk-49776f4920056a70e1f59907bce55588",
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 2,
+    "create_time": 1764882497,
+    "update_time": 1764882497,
+    "_id": "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_6"
+  },
+  "MAT187H1_2025_Quiz2<SEP>convergence": {
+    "chunk_ids": [
+      "chunk-68172321e055fc24b68d16cb368f085d"
+    ],
+    "count": 1,
+    "create_time": 1764882498,
+    "update_time": 1764882498,
+    "_id": "MAT187H1_2025_Quiz2<SEP>convergence"
+  },
+  "MAT187H1_2025_Quiz2<SEP>p-test": {
+    "chunk_ids": [
+      "chunk-68172321e055fc24b68d16cb368f085d"
+    ],
+    "count": 1,
+    "create_time": 1764882499,
+    "update_time": 1764882499,
+    "_id": "MAT187H1_2025_Quiz2<SEP>p-test"
+  },
+  "MAT187H1_2025_Quiz2_question_6<SEP>integral": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882499,
+    "update_time": 1764882499,
+    "_id": "MAT187H1_2025_Quiz2_question_6<SEP>integral"
+  },
+  "MAT187H1_2025_Quiz2_question_6<SEP>k": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882499,
+    "update_time": 1764882499,
+    "_id": "MAT187H1_2025_Quiz2_question_6<SEP>k"
+  },
+  "k<SEP>q1": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882500,
+    "update_time": 1764882500,
+    "_id": "k<SEP>q1"
+  },
+  "k<SEP>q2": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882500,
+    "update_time": 1764882500,
+    "_id": "k<SEP>q2"
+  },
+  "q1<SEP>q2": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882501,
+    "update_time": 1764882501,
+    "_id": "q1<SEP>q2"
+  },
+  "Work<SEP>integral": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882501,
+    "update_time": 1764882501,
+    "_id": "Work<SEP>integral"
+  },
+  "comparison test<SEP>integral": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882501,
+    "update_time": 1764882501,
+    "_id": "comparison test<SEP>integral"
+  },
+  "k<SEP>r": {
+    "chunk_ids": [
+      "chunk-a1b152927eb87d81dca051b5fb1c71ec"
+    ],
+    "count": 1,
+    "create_time": 1764882501,
+    "update_time": 1764882501,
+    "_id": "k<SEP>r"
+  },
+  "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question": {
+    "chunk_ids": [
+      "chunk-25161655497f54ee445f280d407a9315"
+    ],
+    "count": 1,
+    "create_time": 1764882502,
+    "update_time": 1764882502,
+    "_id": "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question"
+  },
+  "Integral<SEP>Work": {
+    "chunk_ids": [
+      "chunk-25161655497f54ee445f280d407a9315"
+    ],
+    "count": 1,
+    "create_time": 1764882502,
+    "update_time": 1764882502,
+    "_id": "Integral<SEP>Work"
+  },
+  "MAT187H1_2025_Quiz2_question<SEP>Riemann sums": {
+    "chunk_ids": [
+      "chunk-25161655497f54ee445f280d407a9315"
+    ],
+    "count": 1,
+    "create_time": 1764882502,
+    "update_time": 1764882502,
+    "_id": "MAT187H1_2025_Quiz2_question<SEP>Riemann sums"
+  },
+  "Integral<SEP>k": {
+    "chunk_ids": [
+      "chunk-25161655497f54ee445f280d407a9315"
+    ],
+    "count": 1,
+    "create_time": 1764882503,
+    "update_time": 1764882503,
+    "_id": "Integral<SEP>k"
+  },
+  "Integral<SEP>q1": {
+    "chunk_ids": [
+      "chunk-25161655497f54ee445f280d407a9315"
+    ],
+    "count": 1,
+    "create_time": 1764882504,
+    "update_time": 1764882504,
+    "_id": "Integral<SEP>q1"
+  },
+  "Integral<SEP>q2": {
+    "chunk_ids": [
+      "chunk-25161655497f54ee445f280d407a9315"
+    ],
+    "count": 1,
+    "create_time": 1764882504,
+    "update_time": 1764882504,
+    "_id": "Integral<SEP>q2"
+  },
+  "MAT187H1_2025_Quiz2_question_1<SEP>improper integral": {
+    "chunk_ids": [
+      "chunk-a62d4032dd0ac35544985f55597c25cb"
+    ],
+    "count": 1,
+    "create_time": 1764882504,
+    "update_time": 1764882504,
+    "_id": "MAT187H1_2025_Quiz2_question_1<SEP>improper integral"
+  },
+  "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_1": {
+    "chunk_ids": [
+      "chunk-a62d4032dd0ac35544985f55597c25cb"
+    ],
+    "count": 1,
+    "create_time": 1764882505,
+    "update_time": 1764882505,
+    "_id": "MAT187H1_2025_Quiz2<SEP>MAT187H1_2025_Quiz2_question_1"
+  },
+  "MAT291H1_2012_Midterm<SEP>MAT291H1_2012_Midterm_Problem1": {
+    "chunk_ids": [
+      "chunk-3f65469bda8a8c2423bd9bf893d6af44"
+    ],
+    "count": 1,
+    "create_time": 1764886247,
+    "update_time": 1764886247,
+    "_id": "MAT291H1_2012_Midterm<SEP>MAT291H1_2012_Midterm_Problem1"
+  },
+  "MAT291H1_2012_Midterm<SEP>MAT291H1_2012_Midterm_quiz3": {
+    "chunk_ids": [
+      "chunk-77ac44b82b252c237b9c421fb3f401a7"
+    ],
+    "count": 1,
+    "create_time": 1764886248,
+    "update_time": 1764886248,
+    "_id": "MAT291H1_2012_Midterm<SEP>MAT291H1_2012_Midterm_quiz3"
+  },
+  "MAT291H1_2012_Midterm_Problem1<SEP>MAT291H1_2012_Midterm_Problem1_Question1": {
+    "chunk_ids": [
+      "chunk-3f65469bda8a8c2423bd9bf893d6af44"
+    ],
+    "count": 1,
+    "create_time": 1764886248,
+    "update_time": 1764886248,
+    "_id": "MAT291H1_2012_Midterm_Problem1<SEP>MAT291H1_2012_Midterm_Problem1_Question1"
+  },
+  "MAT291H1_2012_Midterm_quiz3<SEP>question3": {
+    "chunk_ids": [
+      "chunk-77ac44b82b252c237b9c421fb3f401a7"
+    ],
+    "count": 1,
+    "create_time": 1764886248,
+    "update_time": 1764886248,
+    "_id": "MAT291H1_2012_Midterm_quiz3<SEP>question3"
+  },
+  "MAT291H1_2012_Midterm_quiz3<SEP>concept": {
+    "chunk_ids": [
+      "chunk-77ac44b82b252c237b9c421fb3f401a7"
+    ],
+    "count": 1,
+    "create_time": 1764886249,
+    "update_time": 1764886249,
+    "_id": "MAT291H1_2012_Midterm_quiz3<SEP>concept"
+  },
+  "MAT291H1<SEP>MAT291H1_2012_Midterm": {
+    "chunk_ids": [
+      "chunk-b9b7a691d7e01aac47e15c6fb69d03e0"
+    ],
+    "count": 1,
+    "create_time": 1764886249,
+    "update_time": 1764886249,
+    "_id": "MAT291H1<SEP>MAT291H1_2012_Midterm"
+  },
+  "MAT291H1_2012_Midterm<SEP>a": {
+    "chunk_ids": [
+      "chunk-b9b7a691d7e01aac47e15c6fb69d03e0"
+    ],
+    "count": 1,
+    "create_time": 1764886250,
+    "update_time": 1764886250,
+    "_id": "MAT291H1_2012_Midterm<SEP>a"
+  },
+  "MAT291H1_2012_Midterm<SEP>b": {
+    "chunk_ids": [
+      "chunk-b9b7a691d7e01aac47e15c6fb69d03e0"
+    ],
+    "count": 1,
+    "create_time": 1764886250,
+    "update_time": 1764886250,
+    "_id": "MAT291H1_2012_Midterm<SEP>b"
+  },
+  "MAT291H1_2012_Midterm<SEP>c": {
+    "chunk_ids": [
+      "chunk-b9b7a691d7e01aac47e15c6fb69d03e0"
+    ],
+    "count": 1,
+    "create_time": 1764886251,
+    "update_time": 1764886251,
+    "_id": "MAT291H1_2012_Midterm<SEP>c"
+  },
+  "MAT291H1_2012_Midterm<SEP>d": {
+    "chunk_ids": [
+      "chunk-b9b7a691d7e01aac47e15c6fb69d03e0"
+    ],
+    "count": 1,
+    "create_time": 1764886251,
+    "update_time": 1764886251,
+    "_id": "MAT291H1_2012_Midterm<SEP>d"
+  },
+  "MAT291H1_2012_Midterm<SEP>triple integration": {
+    "chunk_ids": [
+      "chunk-b9b7a691d7e01aac47e15c6fb69d03e0"
+    ],
+    "count": 1,
+    "create_time": 1764886252,
+    "update_time": 1764886252,
+    "_id": "MAT291H1_2012_Midterm<SEP>triple integration"
+  }
+}
