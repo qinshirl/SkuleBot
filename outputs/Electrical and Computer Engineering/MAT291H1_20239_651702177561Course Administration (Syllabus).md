@@ -1,6 +1,6 @@
 ## Page 1
 
-![Page 1](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_001.png)
+![Page 1](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_001_screen.png)
 
 1 
  
@@ -51,7 +51,7 @@ The main textbook for this course is "Calculus: Early Transcendentals, 3rd Editi
 
 ## Page 2
 
-![Page 2](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_002.png)
+![Page 2](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_002_screen.png)
 
 2 
  
@@ -106,7 +106,7 @@ electric and magnetics field course ECE221 next term. Circuits, as taught this t
 
 ## Page 3
 
-![Page 3](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_003.png)
+![Page 3](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_003_screen.png)
 
 3 
  
@@ -192,7 +192,7 @@ previous week. This process is repeated on a weekly basis.
 
 ## Page 4
 
-![Page 4](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_004.png)
+![Page 4](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_004_screen.png)
 
 4 
  
@@ -279,7 +279,7 @@ yiyang.fu@mail.utoronto.ca
 
 ## Page 5
 
-![Page 5](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_005.png)
+![Page 5](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_005_screen.png)
 
 5 
  
@@ -369,7 +369,7 @@ yiyang.fu@mail.utoronto.ca
 
 ## Page 6
 
-![Page 6](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_006.png)
+![Page 6](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_006_screen.png)
 
 6 
  
@@ -430,7 +430,7 @@ you the information briefly:
 
 ## Page 7
 
-![Page 7](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_007.png)
+![Page 7](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_007_screen.png)
 
 7 
  
@@ -504,7 +504,7 @@ if exams are done online.  We will keep you posted in case of any changes.
 
 ## Page 8
 
-![Page 8](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_008.png)
+![Page 8](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_008_screen.png)
 
 8 
  
@@ -561,7 +561,7 @@ Problems
 
 ## Page 9
 
-![Page 9](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_009.png)
+![Page 9](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_009_screen.png)
 
 9 
  
@@ -588,7 +588,7 @@ office hours.
 
 ## Page 10
 
-![Page 10](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_010.png)
+![Page 10](https://raw.githubusercontent.com/qinshirl/SkuleBot/shifang/images/Electrical%20and%20Computer%20Engineering/page_010_screen.png)
 
 10 
  
