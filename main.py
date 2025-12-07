@@ -1,9 +1,9 @@
 import base64
-import requests
 import os
+import fitz
+import requests
 import time
 import json
-import fitz
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
@@ -18,6 +18,7 @@ def read_json(file_path):
         data = json.load(f)
 
     return data
+
 
 
 
@@ -77,198 +78,114 @@ def github_upload(repo, branch, token, filepath, dest_path):
     return put.json()["content"]["download_url"]
 
 
-
-
-# -----------------------
-# Split & ensure under 1024KB (PyMuPDF-only)
-# -----------------------
+# -------------------------------
+# 2) Split PDF into single-page PDFs under 1MB
+# -------------------------------
 def split_pdf_into_pages_under_limit(input_pdf, output_dir='split_pages', max_kb=1024):
     os.makedirs(output_dir, exist_ok=True)
     doc = fitz.open(input_pdf)
-    total = doc.page_count
-    page_pdf_paths = []
+    page_pdfs = []
 
-    for i in range(total):
+    for i in range(doc.page_count):
         out_path = os.path.join(output_dir, f"page_{i+1:03}.pdf")
-        one = fitz.open()
-        one.insert_pdf(doc, from_page=i, to_page=i)
-        one.save(out_path)
-        one.close()
+        single = fitz.open()
+        single.insert_pdf(doc, from_page=i, to_page=i)
+        single.save(out_path)
+        single.close()
 
         # compress if needed
-        if os.path.getsize(out_path) > max_kb * 1024:
-            out_path = _compress_until_under_limit(out_path, max_kb)
-        page_pdf_paths.append(out_path)
+        for _ in range(3):
+            if os.path.getsize(out_path) <= max_kb*1024:
+                break
+            tmp = out_path.replace(".pdf", "_cmp.pdf")
+            tmp_doc = fitz.open(out_path)
+            tmp_doc.save(tmp, deflate=True, garbage=4)
+            tmp_doc.close()
+            if os.path.getsize(tmp) < os.path.getsize(out_path):
+                os.remove(out_path)
+                os.rename(tmp, out_path)
+            else:
+                os.remove(tmp)
+                break
+
+        page_pdfs.append(out_path)
 
     doc.close()
-    return page_pdf_paths
+    return page_pdfs
 
+# -------------------------------
+# 3) OCR via OCR.space API
+# -------------------------------
+def ocr_space_image(image_path, api_key):
+    url = "https://api.ocr.space/parse/image"
+    with open(image_path, "rb") as f:
+        r = requests.post(url,
+                          files={"file": f},
+                          data={"apikey": api_key, "language": "eng"})
+    try:
+        return r.json()["ParsedResults"][0]["ParsedText"]
+    except:
+        return "*No text found*"
 
-def _compress_until_under_limit(pdf_path, max_kb):
-    """
-    Attempt to compress the given one-page PDF using PyMuPDF's save options.
-    Stops if no improvement.
-    """
-    attempt = 0
-    while os.path.getsize(pdf_path) > max_kb * 1024 and attempt < 5:
-        attempt += 1
-        doc = fitz.open(pdf_path)
-        compressed = pdf_path.replace(".pdf", f"_cmp{attempt}.pdf")
-        # deflate, clean, garbage: will often reduce size
-        doc.save(compressed, deflate=True, clean=True, garbage=4)
-        doc.close()
-        if os.path.getsize(compressed) < os.path.getsize(pdf_path):
-            os.remove(pdf_path)
-            os.rename(compressed, pdf_path)
-        else:
-            os.remove(compressed)
-            break
-    return pdf_path
-
-
-# -----------------------
-# Render page to PNG (Poppler-free, PyMuPDF)
-# -----------------------
-def render_pdf_page_to_png(pdf_path, out_dir, zoom=2.0):
-    """
-    Render page_index (0-based) of pdf_path to PNG and return local image path.
-    """
-    os.makedirs(out_dir, exist_ok=True)
-    doc = fitz.open(pdf_path)
-    page = doc.load_page(0)  # page PDF is single-page file, so load_page(0)
-    mat = fitz.Matrix(zoom, zoom)
-    pix = page.get_pixmap(matrix=mat)
-    img_name = f"{os.path.splitext(os.path.basename(pdf_path))[0]}.png"  # e.g., page_001.png
-    out_path = os.path.join(out_dir, img_name)
-    pix.save(out_path)
-    doc.close()
-    return out_path
-
-
-# -----------------------
-# Text extraction: prefer digital text, else OCR.space on image
-# -----------------------
-def extract_text_from_single_page_pdf(page_pdf_path, ocr_api_key):
-    # Try digital selectable text first
+def extract_text_from_single_page_pdf(page_pdf_path, api_key):
     doc = fitz.open(page_pdf_path)
     page = doc.load_page(0)
     text = page.get_text("text").strip()
     doc.close()
     if text and len(text.split()) > 3:
-        return text  # prefer directly extracted digital text
+        return text
+    # fallback to OCR
+    from PIL import Image
+    import io
 
-    # else render an image and call OCR.space
-    img_path = render_pdf_page_to_png(page_pdf_path, os.path.join('split_pages/images'))
-    try:
-        ocr_text = ocr_space_image(img_path, api_key=ocr_api_key)
-    finally:
-        # keep the image for upload; do not remove here
-        pass
-    return ocr_text or ""
+    # render page as image in memory
+    doc = fitz.open(page_pdf_path)
+    pix = doc.load_page(0).get_pixmap()
+    img_bytes = pix.tobytes("png")
+    doc.close()
 
+    # save temporarily
+    tmp_img = page_pdf_path.replace(".pdf", "_ocr.png")
+    with open(tmp_img, "wb") as f:
+        f.write(img_bytes)
 
-def ocr_space_image(image_path, api_key):
-    """Call OCR.space with an image file; returns extracted text or ''."""
-    url = "https://api.ocr.space/parse/image"
-    with open(image_path, "rb") as f:
-        r = requests.post(url, files={"file": f}, data={"apikey": api_key, "OCREngine": 2, "isOverlayRequired": False})
-    try:
-        j = r.json()
-    except Exception:
-        print("OCR.space returned non-json or failed.")
-        return ""
-    parsed = ""
-    if j.get("ParsedResults"):
-        for pr in j["ParsedResults"]:
-            parsed += pr.get("ParsedText", "")
-    return parsed
+    ocr_text = ocr_space_image(tmp_img, api_key)
+    os.remove(tmp_img)
+    return ocr_text or "*No text found*"
 
-
-# ---------------
-# Main pipeline
-# ---------------
-def pdf_to_markdown_with_github(input_pdf, api_key, repo, branch, token, output_md,
-                                         images_remote_folder, outputs_remote_folder):
-    """
-    Full pipeline:
-      - split into one-page PDFs under 1024KB
-      - for each page: render PNG, extract text (digital/OCR), upload PNG to GitHub images/
-      - assemble single markdown containing image URL + text per page
-      - upload markdown to GitHub outputs/
-    Returns: dict with local output_md, remote_md_url (raw), and list of image URLs
-    """
-    # 1) split pages
+# -------------------------------
+# 4) Full pipeline: PDF → Text → Markdown → GitHub
+# -------------------------------
+def pdf_to_markdown_with_github_text_only(input_pdf, api_key, repo, branch, token,
+                                          output_md, outputs_remote_folder):
+    # 1) Split PDF
     page_pdfs = split_pdf_into_pages_under_limit(input_pdf)
     md_blocks = []
-    image_urls = []
 
     for idx, page_pdf in enumerate(page_pdfs, start=1):
-        print(f"\nProcessing page {idx}/{len(page_pdfs)} -> {page_pdf}")
+        print(f"Processing page {idx}/{len(page_pdfs)} -> {page_pdf}")
 
-        # 2) ensure we have a PNG screenshot (render from single-page PDF)
-        png_local = render_pdf_page_to_png(page_pdf, os.path.join('split_pages/images'))
-
-        # 3) upload PNG to repo under images_remote_folder
-        remote_image_path = f"{images_remote_folder}/{os.path.basename(png_local)}"
-        img_url = github_upload_with_retries(png_local, repo, remote_image_path, branch, token)
-        if not img_url:
-            print(f"Failed to upload image for page {idx}, continuing.")
-        else:
-            image_urls.append(img_url)
-
-        # 4) extract text (digital preferred, else OCR.space)
+        # 2) Extract text
         text = extract_text_from_single_page_pdf(page_pdf, api_key)
-        if not text:
-            text = "*No text found on this page.*"
+        md_block = f"## Page {idx}\n\n{text}\n\n"
+        md_blocks.append(md_block)
 
-        # 5) assemble markdown block (image first)
-        if img_url:
-            md = f"## Page {idx}\n\n![Page {idx}]({img_url})\n\n{text}\n\n"
-        else:
-            md = f"## Page {idx}\n\n{text}\n\n"
-        md_blocks.append(md)
+        # 3) Cleanup local page
+        try: os.remove(page_pdf)
+        except: pass
 
-        # cleanup local page_pdf and png
-        try:
-            os.remove(page_pdf)
-        except OSError:
-            pass
-        try:
-            os.remove(png_local)
-        except OSError:
-            pass
-
-    # 6) write local output md
+    # 4) Write Markdown locally
     full_md = "\n".join(md_blocks)
     with open(output_md, "w", encoding="utf-8") as f:
         f.write(full_md)
-    print(f"\nLocal Markdown written: {output_md}")
+    print(f"Local Markdown saved: {output_md}")
 
-    # 7) upload markdown to repo under outputs_remote_folder
+    # 5) Upload Markdown to GitHub
     remote_md_path = f"{outputs_remote_folder}/{os.path.basename(output_md)}"
-    md_url = github_upload_with_retries(output_md, repo, remote_md_path, branch, token)
-    if not md_url:
-        print("Failed to upload Markdown to GitHub.")
-    else:
-        print("Uploaded Markdown to GitHub:", md_url)
+    md_url = github_upload(repo, branch, token, output_md, remote_md_path)
+    print("Markdown uploaded:", md_url)
 
-    return {"local_md": output_md, "remote_md_url": md_url, "image_urls": image_urls}
-
-
-# -----------------------
-# Small wrapper adding retries for GitHub uploads
-# -----------------------
-def github_upload_with_retries(local_path, repo, remote_path, branch, token, retries=3, backoff=1.0):
-    for attempt in range(1, retries + 1):
-        url = github_upload(repo, branch, token, local_path, remote_path)
-        if url:
-            return url
-        else:
-            wait = backoff * attempt
-            print(f"Retry {attempt}/{retries} after {wait:.1f}s...")
-            time.sleep(wait)
-    return None
-
+    return {"local_md": output_md, "remote_md_url": md_url}
 
 
 
@@ -375,9 +292,8 @@ if __name__ == '__main__':
                         print('The path exists: ' + str(os.path.exists(pdf_file)))
 
                         # Extract text from pdf
-                        pdf_to_markdown_with_github(pdf_file, API_KEY, REPO, BRANCH, TOKEN, md_file,
-                                                    os.path.join('images', path.replace('.json', '')),
-                                                    os.path.join('outputs', path.replace('.json', '')))
+                        pdf_to_markdown_with_github_text_only(pdf_file, API_KEY, REPO, BRANCH, TOKEN, md_file,
+                                                    os.path.join('outputs', path.replace('.json', '_files')))
 
 
                     except Exception as e:
