@@ -131,25 +131,152 @@ Sample output:
 
 ![SkuleBot State Machine](images/state_machine.png)
 
-### 6.2 LightRAG Integration
+Below is a **polished, accurate, and clean README section** for **LightRAG Integration**, fully aligned with your *actual implementation* in:
 
-Located in: `utils/lightrag_client.py`.
+```
+graph/nodes/topic_lookup/lightrag_integration.py  (or equivalent file)
+```
 
-Key features used:
+---
 
-* Entity-chunk extraction
-* Relation detection
-* Dual-retrieval (entity search + text search)
-* Multi-hop graph walk → improves syllabus/exam lookup
+# **6.2 LightRAG Integration**
 
-**Example:**
+SkuleBot uses **LightRAG** for graph-enhanced retrieval over past exams, syllabi, and course documents.
+The integration is implemented inside:
+
+```
+graph/nodes/topic_lookup/
+```
+
+This module initializes a LightRAG instance, loads the Neo4j-backed graph storage, ingests local Markdown files when needed, and executes hybrid retrieval queries.
+
+---
+
+## **Initialization**
+
+LightRAG is created with:
+
+* **OpenAI embedding model**
+* **GPT-4o-mini completion model**
+* **Neo4JStorage** as the graph backend
+* A configurable workspace and working directory via `.env`
 
 ```python
-from utils.lightrag_client import rag
+from lightrag import LightRAG, QueryParam
+from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
 
-await rag.ainsert("ECE100 midterm solutions...")
-result = await rag.aquery("Tell me topics in ECE100")
+async def get_rag() -> LightRAG:
+    rag = LightRAG(
+        working_dir=WORKING_DIR,
+        embedding_func=openai_embed,
+        llm_model_func=gpt_4o_mini_complete,
+        graph_storage="Neo4JStorage",
+    )
+
+    await rag.initialize_storages()
+    await initialize_pipeline_status()
+    return rag
 ```
+
+This ensures all LightRAG pipelines and the Neo4j-backed graph are ready before retrieval.
+
+---
+
+## **Document Ingestion (Markdown Folder Loader)**
+
+During development, SkuleBot can automatically ingest exam/syllabus files from a folder:
+
+```python
+async def insert_test_files(rag: LightRAG, folder_path: str):
+    patterns = ["*.md", "*.txt", "*.pdf"]
+    files = [...]
+
+    for path in files:
+        if path.endswith(".pdf"):
+            continue   # PDF skipped (no text extraction)
+        with open(path, "r") as f:
+            await rag.ainsert(f.read())
+```
+
+The ingestion step runs once per session to populate the local workspace with course documents.
+
+---
+
+## **Hybrid Retrieval Query**
+
+The main retrieval function used inside the Topic Lookup node:
+
+```python
+async def lightrag_retrieve(query: str):
+    rag = await get_rag()
+
+    await insert_test_files(
+        rag,
+        "/path/to/LightRAG/inputs"   # your local dataset folder
+    )
+
+    result = await rag.aquery(
+        query,
+        param=QueryParam(
+            mode="hybrid",            # entity + text dual retrieval
+            only_need_context=True,   # return context only (no LLM answer)
+        ),
+    )
+
+    return {"raw": result}
+```
+
+---
+
+## **Key LightRAG Capabilities Used**
+
+SkuleBot relies on the following features to improve accuracy and coverage for course/exam lookup:
+
+### **1. Entity Extraction**
+
+LightRAG decomposes documents into entity chunks (course codes, topics, formulas, question types).
+
+### **2. Relation Extraction**
+
+Topic relationships, dependencies, and co-occurrence patterns are stored as graph edges in Neo4j.
+
+### **3. Hybrid Retrieval (Graph + Text)**
+
+`mode="hybrid"` combines:
+
+* Text-vector search
+* Entity-graph traversal
+
+This improves grounding over multi-decade ECE exam archives.
+
+### **4. Multi-Hop Reasoning**
+
+Queries may follow multiple graph edges (e.g., topic → exam → question) to retrieve the most relevant context.
+
+---
+
+## **Example Usage**
+
+Inside the Topic Lookup node, LightRAG is used to fetch the context for a user query:
+
+```python
+context = await lightrag_retrieve("What topics are covered in ECE110?")
+```
+
+The LangGraph node then summarizes, normalizes, or reformats the retrieved context before returning it to the user.
+
+---
+
+# **Integration Summary**
+
+| Layer                      | Role                                                                         |
+| -------------------------- | ---------------------------------------------------------------------------- |
+| `graph/nodes/topic_lookup` | Calls LightRAG to retrieve structured and textual exam/syllabus information  |
+| LightRAG                   | Performs embedding, graph-walk retrieval, entity linking, and dual retrieval |
+| Neo4j                      | Stores long-term entity and relation graph for multi-hop reasoning           |
+| LangGraph                  | Controls routing and orchestrates topic lookup responses                     |
+
+
 
 ---
 

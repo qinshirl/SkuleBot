@@ -119,7 +119,7 @@ async def lightrag_retrieve(query: str):
     # await insert_test_files(rag)
     await insert_test_files(
         rag,
-        "/Users/qinshirl/PycharmProjects/SkuleBot/LightRAG/inputs/"
+        "/your path.."
     )
 
     result = await rag.aquery(
